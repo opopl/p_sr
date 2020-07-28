@@ -1,0 +1,80 @@
+
+          if (!window.jQuery)
+          {
+               addJqueryrEdtz();
+          }
+          function addJqueryrEdtz() 
+          {
+               var script = document.createElement("script");
+               script.type = "text/javascript";
+               script.src = "https://m.mixadvert.com/show/application/js/jquery_1_7_2.js";
+               document.getElementsByTagName("head")[0].appendChild(script);
+          }setTimeout(function() {
+               if (typeof intervalIDrEdtz ==="undefined")
+               {
+                    intervalIDrEdtz = setInterval( load_informerrEdtz , 300);
+               }
+               function load_informerrEdtz()
+               {
+                    var block = document.getElementById("MIXADV_7472");
+                    if( block )
+                    { 
+                         ban_teaser = take_ban_teaserrEdtz();
+                         if( ban_teaser === false )
+                         {   
+                                   return;
+                         }   
+                         var host = window.location.hostname; 
+                         var ref = document.referrer; 
+                         block.innerHTML = ".";
+                         clearInterval(intervalIDrEdtz); 
+                         var script = document.createElement("script"); 
+                         script.src = "https://m.mixadvert.com/show/load/?id=7472&id_name=rEdtz&teaser_name=anfbicG&block_name=nmFGdf&ban_teaser="+ban_teaser+"&r="+Math.random()+"&host="+host+"&ref="+ref; 
+                         block.parentNode.appendChild(script);
+   
+                    }
+               }}, 0)
+          function take_ban_teaserrEdtz()
+          {
+               var ban_teaser="";
+               informer = document.getElementsByClassName("MIXADVERT_NET");  
+               for(var i=0; i < informer.length; i++) 
+               {          
+                    if( ( informer[i].id != 7472 ) && ( informer[i].innerHTML == "." ) )
+                    {
+                         return false;
+                    }
+                    var link = informer[i].getElementsByTagName("img");
+                    for(var j=0; j < link.length; j++)
+                    {   
+                              prev_link = link[j].name;
+                              teaser = getUrlVarsrEdtz(prev_link);
+                              if( teaser != "" && teaser != "." )
+                              {
+                                   if( ban_teaser =="")   
+                                   {                 
+                                        ban_teaser = teaser;
+                                   } else {
+                                        ban_teaser = ban_teaser+","+teaser;
+                                   }
+                              }
+                          
+                    }
+               } 
+               return ban_teaser; 
+          }
+
+          function getUrlVarsrEdtz(link)
+          {   
+               var hash;
+               var hashes = link.slice(link.indexOf("?") + 1).split("&");
+               for(var i = 0; i < hashes.length; i++)
+               {
+                    hash = hashes[i].split("=");
+                    if(hash[0] == "t" ) 
+                    {
+                         return hash[1];
+                    }
+               }
+               return "";
+          }

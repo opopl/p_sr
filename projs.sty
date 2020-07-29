@@ -1,0 +1,269 @@
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{projs}
+
+\RequirePackage{ifthen}
+\RequirePackage{xargs}
+\RequirePackage{fancybox}
+
+\def\isec#1#2{\section{#2}\label{#1}}
+\def\isubsec#1#2{\subsection{#2}\label{#1}}
+\def\isubsubsec#1#2{\subsubsection{#2}\label{#1}}
+
+\def\ipar#1#2{\paragraph{#2}\label{#1}}
+
+\def\ifig#1{\includegraphics{pics/\PROJ/fig#1.png}}
+
+\def\ig#1{\includegraphics{pics/\PROJ/#1}}
+
+\def\indexitem#1{\item{#1}\index{#1}}
+
+\def\namerefsec#1{\nameref{sec:#1}}
+
+% partial derivative
+\def\ParDer#1#2{\left( \frac{\partial #1}{\partial #2} \right)}
+\def\ParDerC#1#2#3{\ParDer{#1}{#2}_{#3}}
+
+\def\PrjPic#1{%
+	\includegraphics{pics/\PROJ/#1}%
+}
+
+\def\PrjPicW#1#2{%
+	\includegraphics[width=#2\textwidth]{pics/\PROJ/#1}%
+}
+
+\def\PrjPicO#1#2{%
+	\includegraphics[#2]{pics/\PROJ/#1}%
+}
+
+\def\bibi#1#2{%
+
+  \clearpage%
+  \phantomsection%
+  \hypertarget{biblio}{}%
+  %
+  \addcontentsline{toc}{\ProjRootSec}{\bibname}%
+
+  \bibliographystyle{#1}%
+  \bibliography{\PROJ.#2}%
+}%
+
+\def\iproj#1#2{%
+	\def\OLDPROJ{}%
+	\let\OLDPROJ=\PROJ%
+	\let\PROJ=#1%
+	\input{\PROJ.#2.tex}%
+	\let\PROJ=\OLDPROJ%
+}%%
+
+\def\dirpics{pics/\PROJ}
+
+\def\iif#1{\input{\PROJ/#1.tex}}
+
+
+\def\eqnum#1{\renewcommand{\theequation}{#1}}
+\def\eqlab#1{\eqnum{#1}\label{eq:#1}}
+
+\def\secnum#1{\renewcommand{\thesection}{#1}}
+
+\@ifpackageloaded{bookmark}{%
+	\def\bmk#1#2{ \bookmark[#1]{#2} }
+}{
+	\def\bmk#1#2{}
+}
+
+\def\PrjToc{
+	\hypertarget{toc}{} 
+	\tableofcontents
+}
+
+\newenvironment{fminipage}%
+{\begin{Sbox}\begin{minipage}}%
+  {\end{minipage}\end{Sbox}\shadowbox{\TheSbox}} 
+
+%\def\ScaleIfNeeded{%
+%\ifdim\Gin@nat@width>\linewidth%
+  %\linewidth%
+%\else%
+  %\Gin@nat@width%
+%\fi%
+%}%
+
+%\makeatother%
+\def\ScaleIfNeeded{0.9\textwidth}
+
+\def\fgscale#1{%
+  \def\fgsize#1{\ScaleIfNeeded}}
+
+\def\fgsize{\ScaleIfNeeded}
+
+\newif\ifpapsingle \papsinglefalse
+\newif\ifreffigs \reffigsfalse
+
+\newif\ifDOCSTYLErevtex \DOCSTYLErevtexfalse
+\newif\ifDOCSTYLEreport \DOCSTYLEreportfalse
+\newif\ifDOCSTYLEtexht \DOCSTYLEtexhtfalse
+
+\def\idef#1{\InputIfFileExists{def.#1.tex}{}{}}
+
+\newcommandx{\nc}[3][2=0]{%
+	\ifdefined #1%
+		\ifthenelse{\equal{#2}{0}}{
+				\renewcommand{#1}{#3}
+		}{
+				\renewcommand{#1}[#2]{#3}
+		}
+	\else%
+		\ifthenelse{\equal{#2}{0}}{
+				\newcommand{#1}{#3}
+			}{
+				\newcommand{#1}[#2]{#3}
+			}
+	\fi%
+}
+
+\def\setIDS{%
+  \ifpapsingle%
+    \def\FIG{}%
+    \def\TAB{}%
+    \def\EQ{}%
+    \def\SEC{}%
+  \else%
+    \def\FIG{\pn-fig}%
+    \def\TAB{\pn-tab}%
+    \def\EQ{\pn-eq}%
+    \def\SEC{\pn-sec}%
+  \fi%
+}%
+
+% \LFOOT \LHEAD etc...
+\idef{sethdr}
+
+\idef{mop}
+
+\idef{bmkdefs}
+
+\idef{av}
+
+\setIDS
+
+\newcommand{\rnc}{\renewcommand}
+%\newcommand{\pnc}{\perlnewcommand}
+
+\def\listfigurename{List of Figures}
+
+\def\listalgorithmname{List of Algorithms \hypertarget{loa}{}}
+\def\indexname{Index \hypertarget{index}{}}
+
+\long\def\lof{
+	\if@twocolumn
+		\@restonecoltrue \onecolumn
+	\else
+		\@restonecolfalse
+	\fi
+	\chapter *{\listfigurename }
+	\@mkboth {\MakeUppercase \listfigurename }{\MakeUppercase \listfigurename }
+	\hypertarget{lof}{}
+	\@starttoc {lof}
+	\if@restonecol \twocolumn \fi
+}
+
+\def\boo#1#2#3{ \bookmark[level=#1,dest=#2]{#3} }
+
+\def\hyy#1{ \hypertarget{#1}{} }
+
+\def\op{Oleksandr Poplavskyy}
+
+\def\latex{\ \LaTeX\ }
+\def\bibtex{Bib\TeX}
+%
+
+\def\word#1{%
+	\ifthenelse{\equal{#1}{makeindex}}{\emph{MakeIndex}}{}%
+	\ifthenelse{\equal{#1}{bibtex}}{Bib\TeX}{}%
+	\ifthenelse{\equal{#1}{latex}}{\LaTeX}{}%
+  	\ifthenelse{\equal{#1}{latex2html}}{\LaTeX{}2HTML}{}%
+  	\ifthenelse{\equal{#1}{tex4ht}}{\TeX 4ht}{}%
+}%
+
+\def\isec#1#2{%
+
+   \ifDOCSTYLEreport%
+       \clearpage%
+		   \ifpapsingle%
+		      \chapter{#2}%
+		   \else%
+		      \subsection{#2}%
+		   \fi%
+   \fi%
+   \ifDOCSTYLErevtex%
+		   \section{#2}%
+   \fi%
+   \ifDOCSTYLEtexht%
+		   \section{#2}%
+   \fi%
+      
+   \labelsec{#1}%
+}%
+
+\def\isubsec#1#2{%
+   \ifpapsingle%
+	   \ifDOCSTYLEreport%
+	      \section{#2}%
+	   \fi%
+	   \ifDOCSTYLErevtex%
+			   \subsection{#2}%
+	   \fi%
+	   \ifDOCSTYLEtexht%
+			   \section{#2}%
+	   \fi%
+   \else%
+      \subsubsection{#2}%
+   \fi%
+   
+   \labelsec{#1}%
+}%
+
+
+\def\isubsubsec#1#2{%
+   \ifpapsingle%
+	   \ifDOCSTYLEreport%
+	      \subsection{#2}%
+	   \fi%
+	   \ifDOCSTYLErevtex%
+			   \subsubsection{#2}%
+	   \fi%
+	   \ifDOCSTYLEtexht%
+			   \subsection{#2}%
+	   \fi%
+   \else%
+      \paragraph{#2}%
+   \fi%
+   
+   \labelsec{#1}%
+}%
+
+\def\ipar#1#2{%
+   \paragraph{#2}%
+   \labelsec{#1}}%
+
+\def\labeleq#1{%
+  \label{eq:#1}%
+}%
+
+\def\labelsec#1{%
+  \label{sec:#1}%
+  \hypertarget{sec:#1}{}%
+}
+
+\def\iifig#1#2#3#4{%
+	\renewcommand{\thefigure}{#2}
+	\begin{figure}[ht]
+		\begin{center}
+			\PrjPicW{#1}{#4}
+		\end{center}
+		
+		\caption{#3}
+		\label{fig:#1}
+	\end{figure}
+}%

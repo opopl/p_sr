@@ -1,3 +1,7 @@
 *.sqlite
 *.vim
 *.tags
+*.bat
+*.i.dat
+builds
+pics

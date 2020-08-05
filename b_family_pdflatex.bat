@@ -22,7 +22,7 @@ set outdir_pdf_b=%outdir_pdf%\b_pdflatex
  
 md %outdir%
  
-set bibfile = %Bin%\%proj%.refs.bib
+set bibfile=%Bin%\%proj%.refs.bib
  
 copy %bibfile% %outdir%
  

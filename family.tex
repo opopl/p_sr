@@ -1,0 +1,28 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file _main_
+%%parent 
+ 
+%%endhead 
+ 
+%%file f_main
+ 
+\def\PROJ{family}
+\def\ii#1{\InputIfFileExists{\PROJ.#1.tex}{}{}}
+ 
+\ii{preamble}
+\ii{defs}
+ 
+\begin{document}
+ 
+\ii{listfigs}
+\ii{listtabs}
+\ii{tabcont}
+ 
+\ii{body}
+ 
+\ii{index}
+\ii{bib}
+\end{document}
+ 

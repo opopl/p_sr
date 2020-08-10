@@ -12,6 +12,7 @@
 \ii{preamble.acrobat_menu}
 
 \makeindex
+\makeindex{cyr}
 
 % remove section numbers
 \setcounter{secnumdepth}{0}
@@ -24,3 +25,9 @@
 	%{\small\LaTeX section: \texttt|23_07_2020| project: \verb|letopis| rootid: \verb|p_saintrussia|}
 	%\vspace{0.5cm}
 %}
+
+\makeatletter
+\newcommand{\rindex}[2][\imki@jobname]{%
+  \index[#1]{\detokenize{#2}}%
+}
+\makeatother

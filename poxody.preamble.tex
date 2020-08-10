@@ -1,24 +1,26 @@
 % vim: keymap=russian-jcukenwin
 %%beginhead 
  
-%%file preamble.packages
-%%parent preamble
+%%file preamble
+%%parent _main_
  
 %%endhead 
 
+\documentclass[a4paper,11pt]{extreport}
+ 
 \usepackage{mathtext}
-%\usepackage{extsizes}
+\usepackage{extsizes}
 
 \usepackage[OT1,T2A,T3]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[english,russian]{babel}
 
 \usepackage[ %
-  letterpaper, %
-  unicode, %
-  linktocpage, %
-  bookmarksdepth=subparagraph,%
-  bookmarksnumbered=true,%
+	letterpaper, %
+	unicode, %
+	linktocpage, %
+	bookmarksdepth=subparagraph,%
+	bookmarksnumbered=true,%
 ]{hyperref}
 
 \usepackage{bookmark}
@@ -30,6 +32,10 @@
 \usepackage{projs}
 \usepackage{multicol}
 \usepackage{pgffor}
-\usepackage{multicol}
 
+\usepackage{makeidx}
 
+\makeindex
+
+\newif\ifDEBUG
+\DEBUGfalse

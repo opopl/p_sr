@@ -1,0 +1,52 @@
+\begin{filecontents*}{\jobname.ist}
+  headings_flag 1
+  heading_prefix "\\indexheading{"
+  heading_suffix "}"
+\end{filecontents*}
+
+\documentclass{article}
+\usepackage{imakeidx}
+\usepackage[colorlinks,bookmarks]{hyperref}
+
+\newcommand*{\indexheading}[1]{%
+  \bigskip\noindent{\large\bfseries\pdfbookmark[1]{#1}{index.#1}#1\par}\nobreak
+}
+\makeindex[options={-s \jobname.ist}]
+
+\title{An Example of an Article with an Index}
+
+\begin{document}
+\maketitle
+
+Alligator\index{Alligator}
+Bat\index{Bat}
+Crocodile\index{Crocodile}
+Dingo\index{Dingo}
+Elephant\index{Elephant}
+Frog\index{Frog}
+Giraffe\index{Giraffe}
+Horse\index{Horse}
+Iguana\index{Iguana}
+Jaguar\index{Jaguar}
+Kangaroo\index{Kangaroo}
+Lemur\index{Lemur}
+Mongoose\index{Mongoose}
+Newt\index{Newt}
+Octopus\index{Octopus}
+Penguin\index{Penguin}
+Quail\index{Quail}
+Rabbit\index{Rabbit}
+Snake\index{Snake}
+Turtle\index{Turtle}
+Unicorn\index{Unicorn}
+Velociraptor\index{Velociraptor}
+Wildabeest\index{Wildabeest}
+Xantus\index{Xantus}
+Yak\index{Yak}
+Zebra\index{Zebra}
+
+\clearpage
+\pdfbookmark[0]{\indexname}{\indexname}
+\printindex
+
+\end{document}

@@ -2,14 +2,14 @@
 %%beginhead 
  
 %%file preamble
-%%parent 
+%%parent body
  
 %%endhead 
 
-\documentclass[a4paper,11pt]{book}
+\documentclass[a4paper,11pt]{extreport}
  
 \usepackage{mathtext}
-%\usepackage{extsizes}
+\usepackage{extsizes}
 
 \usepackage[OT1,T2A,T3]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -32,22 +32,10 @@
 \usepackage{projs}
 \usepackage{multicol}
 \usepackage{pgffor}
-\usepackage{multicol}
 
 \usepackage{makeidx}
-%\usepackage{sectsty}
 
 \makeindex
 
-% remove section numbers
-\setcounter{secnumdepth}{0}
-
 \newif\ifDEBUG
 \DEBUGfalse
-
-
-%\def\srcdata#1#2#3{
-	%\vspace{0.5cm}
-	%{\small\LaTeX section: \texttt|23_07_2020| project: \verb|letopis| rootid: \verb|p_saintrussia|}
-	%\vspace{0.5cm}
-%}

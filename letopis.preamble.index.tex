@@ -11,9 +11,17 @@
 %\usepackage{imakeidx}
 %\usepackage{sectsty}
 
-\usepackage[xindy]{imakeidx}
 %\usepackage{index}
 
 %\newindex{ppl}{idx_ppl}{ind_ppl}{People Index}
 
-\makeindex
+\ifINDEX
+  \usepackage[xindy]{imakeidx}
+  \makeindex
+\fi
+
+\makeatletter
+\newcommand{\rindex}[2][\imki@jobname]{%
+  \index[#1]{\detokenize{#2}}%
+}
+\makeatother

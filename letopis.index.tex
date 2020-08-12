@@ -5,8 +5,11 @@
 %%parent 
  
 %%endhead 
-\clearpage
-\phantomsection
-\addcontentsline{toc}{part}{\indexname}
 
-\printindex
+\ifINDEX
+	\clearpage
+	\phantomsection
+	\addcontentsline{toc}{part}{\indexname}
+
+  \printindex
+\fi

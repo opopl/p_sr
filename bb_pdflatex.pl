@@ -9,5 +9,5 @@ use FindBin qw( $Bin );
 use base qw( Plg::Projs::Build::PdfLatex );
 
 __PACKAGE__
-	->new( root => $Bin )
-	->run;
+    ->new( root => $Bin )
+    ->run;

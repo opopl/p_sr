@@ -1,0 +1,568 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file _main_
+%%parent 
+ 
+%%endhead 
+ 
+%%file f_main
+
+\newif\ifINDEX
+\INDEXtrue
+
+\def\PROJ{letopis}
+\def\ii#1{\InputIfFileExists{\PROJ.#1.tex}{}{}}
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{preamble}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file preamble
+%%parent 
+ 
+%%endhead 
+
+\documentclass[a4paper,11pt]{book}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{preamble.packages}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file preamble.packages
+%%parent preamble
+ 
+%%endhead 
+
+\usepackage{mathtext}
+%\usepackage{extsizes}
+
+\usepackage[OT1,T2A,T3]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+
+\usepackage[ %
+  letterpaper, %
+  unicode, %
+  linktocpage, %
+  bookmarksdepth=subparagraph,%
+  bookmarksnumbered=true,%
+]{hyperref}
+
+\usepackage{bookmark}
+\usepackage[hmargin={1cm,1cm},vmargin={2cm,2cm},centering]{geometry}
+
+\usepackage{ifthen}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{projs}
+\usepackage{multicol}
+\usepackage{pgffor}
+\usepackage{multicol}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{preamble.acrobat_menu}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file preamble.acrobat_menu
+%%parent preamble
+ 
+%%endhead 
+
+\usepackage{fancyhdr} 
+\pagestyle{fancy} 
+
+%\cfoot{\NavigationBar} 
+\chead{\NavigationBar} 
+\def\NavigationBar{% 
+    \Acrobatmenu{PrevPage}{Previous}~ 
+    \Acrobatmenu{NextPage}{Next}~ 
+    \Acrobatmenu{FirstPage}{First}~ 
+    \Acrobatmenu{LastPage}{Last}~ 
+    \Acrobatmenu{GoBack}{Back}~ 
+    \Acrobatmenu{Quit}{Quit}% 
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{preamble.index}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file preamble.index
+%%parent preamble
+ 
+%%endhead 
+
+%\usepackage{makeidx}
+%\usepackage[xindy]{imakeidx}
+%\usepackage{imakeidx}
+%\usepackage{sectsty}
+
+%\usepackage{index}
+
+%\newindex{ppl}{idx_ppl}{ind_ppl}{People Index}
+
+\ifINDEX
+  \usepackage[xindy]{imakeidx}
+  \makeindex
+\fi
+
+\makeatletter
+\newcommand{\rindex}[2][\imki@jobname]{%
+  \index[#1]{\detokenize{#2}}%
+}
+\makeatother
+
+% remove section numbers
+\setcounter{secnumdepth}{0}
+
+\newif\ifDEBUG
+\DEBUGfalse
+
+%\def\srcdata#1#2#3{
+  %\vspace{0.5cm}
+  %{\small\LaTeX section: \texttt|23_07_2020| project: \verb|letopis| rootid: \verb|p_saintrussia|}
+  %\vspace{0.5cm}
+%}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{defs}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{titlepage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file titlepage
+%%parent _main_
+
+
+
+\clearpage
+ 
+%%endhead 
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{listfigs}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file listfigs
+%%parent 
+ 
+%%endhead 
+ 
+\phantomsection
+ 
+\addcontentsline{toc}{chapter}{\listfigurename} 
+ 
+\listoffigures
+\newpage
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{listtabs}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file listtabs
+%%parent 
+ 
+%%endhead 
+ 
+\phantomsection
+ 
+\addcontentsline{toc}{chapter}{\listtablename} 
+ 
+\listoftables
+\newpage
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{tabcont}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file tabcont
+%%parent 
+ 
+%%endhead 
+%%% TOC %%% 
+
+\phantomsection
+ 
+\addcontentsline{toc}{chapter}{\contentsname}
+ 
+\tableofcontents
+\newpage
+
+%%% ENDTOC %%% 
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{body}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file body
+%%parent 
+
+%\ii{articles}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{other}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file other
+%%parent body
+ 
+%%endhead 
+
+\part{Разное}
+
+%\rindex{ФФФФ}
+%\rindex{АААА}
+%\rindex{ДДДД}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{links}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file links
+%%parent other
+ 
+%%endhead 
+  
+\chapter{Ссылки}
+
+\vspace{0.5cm}
+{\small\LaTeX section: \verb|links| project: \verb|letopis| rootid: \verb|p_saintrussia|}
+\vspace{0.5cm}
+  
+
+\begin{itemize}
+		\item 
+			\url{https://www.facebook.com/groups/LNRGUMO/permalink/2872822512829304/}
+
+		\item Это Украина: журналистка издевается над облитым зелёнкой нардепом
+						\url{https://www.facebook.com/groups/LNRGUMO/permalink/2869455576499331/}
+
+		\item Российский сенатор от Крыма Сергей Цеков предложил автоматически
+						раздавать паспорта РФ украинцам при пресечении границы
+								\url{https://www.facebook.com/groups/LNRGUMO/permalink/2872309206213968/}
+
+		\item 24.07. Сезон захвата заложников на Украине продолжается. Кто такой
+						«полтавский террорист» Роман Скрипник
+
+						\url{https://www.facebook.com/groups/LNRGUMO/permalink/2872270772884478/}
+
+		\item Климатическое оружие? В статую Свободы бьет молния. Необычное явление
+						- это знак? 23.07.20 "Панорама"
+						\url{https://www.youtube.com/watch?v=3a1bkeestw8&feature=youtu.be&fbclid=IwAR0HB86o7t_Ac5OrPaAtFLVbKwNoFn3dM6j8q-1ht40DA8VBUOzlqj4ZDSY}
+		\item \url{https://tricolor-center.ru/stati/44017-v-dnr-pochtili-pamyat-mirnyx-zhitelej-pogibshix-pri-udare-ukrainskoj-aviacii-po-gorodu-snezhnoe.html?fbclid=IwAR3xQIn1-MDRuZYlL-rs6MtgK-amTl0iP7D-oFeWrxclAcIbQH5CwFy12v4}
+
+		\item Республіка Щастя. Як в комуні під Харковом третій десяток років будують утопію
+						\url{https://www.pravda.com.ua/articles/2019/10/25/7230003/}
+
+		\item Знести поверхи або "прикрасити". Як Київ рятуватимуть від будинків-"монстрів"
+						\url{https://www.pravda.com.ua/articles/2020/06/17/7255963/}
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{telegram}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file telegram
+%%parent other
+ 
+%%endhead 
+\chapter{Telegram}
+
+\vspace{0.5cm}
+ {\ifDEBUG\small\LaTeX~section: \verb|telegram| project: \verb|letopis| rootid: \verb|texdocs|	\fi}
+\vspace{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{tg.ch}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file tg.ch
+%%parent telegram
+ 
+%%endhead 
+
+\section{Channels}
+
+\vspace{0.5cm}
+ {\ifDEBUG\small\LaTeX~section: \verb|tg.ch| project: \verb|letopis| rootid: \verb|texdocs|	\fi}
+\vspace{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{tg.ch.souz_blogerov_ukrainy}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file tg.ch.souz_blogerov_ukrainy
+%%parent telegram
+ 
+%%endhead 
+\subsection{Союз Блогеров Украины}
+\url{https://t.me/ua_sbu}
+  
+\vspace{0.5cm}
+ {\ifDEBUG\small\LaTeX~section: \verb|tg.ch.souz_blogerov_ukrainy| project: \verb|letopis| rootid: \verb|texdocs|	\fi}
+\vspace{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{tg.ch.souz_blogerov_ukrainy.05_08_2020}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file tg.ch.souz_blogerov_ukrainy.05_08_2020
+%%parent telegram
+ 
+%%endhead 
+\subsubsection{05.08.2020}
+\url{https://t.me/ua_sbu/7788}
+  
+\vspace{0.5cm}
+ {\ifDEBUG\small\LaTeX~section: \verb|tg.ch.souz_blogerov_ukrainy.05_08_2020| project: \verb|letopis| rootid: \verb|texdocs|	\fi}
+\vspace{0.5cm}
+  
+Просто хороший день. 11 тысяч прекрасных, в том нет сомнений, людей оказали нам
+честь, и катятся в нашей "тележке" по ухабам и автобанам мироздания. Спасибо,
+друзья! Это здорово. 
+
+А вот поддержка наша и опора: 
+
+\begin{itemize}
+
+\item @SputnikArmenia
+\item @postdonbass 
+\item Astra Militarum @astramilitarum
+\item Breeg Time: @breegtime
+\item DeZa | Дебальцево - Захаревич @dezadnr
+\item Dontel | Донецкий телеграм @dontel 
+\item FRONTовые заметки: @newsfrontnotes
+\item Pars Today Russian @parstodayrussian 
+\item Sputnik Абхазия @SputnikAbkhazia
+\item Sputnik Азербайджан @AzeSputnik
+\item Sputnik Армения 
+\item Sputnik Ближнее зарубежье: @sputniklive
+\item Sputnik Грузия: @SputnikGeorgia
+\item Sputnik Узбекистан @sputnikuzbekistan
+\item WarJournal @warjournal
+\item Історія України @historyofua
+\item Аббас Джума @Abbasdjuma
+\item Авиадиспетчер @aviadispet4er 
+\item Агрегатор Правды @truth\_aggregator
+\item Александр Малькевич @alexandr\_malkevich 
+\item Александр Семченко @AleksandrSemchenko
+\item Алексей Журавко @alexeyzhuravko
+\item Алексей Мухин @AlekseyMukhin
+\item Алексей ПУШКОВ @alexey\_pushkov
+\item Армен Гаспарян: @ASGasparyan
+\item Архивариус @archivarius\_dz
+\item Борода вещает @BorodaV
+\item Булка @bulkamulka
+\item БюроИКС: @buroics\_taxi
+\item В Макеевке | В Донецке |Новости | @vmakeevke
+\item ВЕСЕЛОВСКИЙ @mihalych67
+\item Взгляд: @vzglyad\_ru
+\item Владимир Корнилов: @kornilov1968 
+\item Владлен Татарский: @vladlentatarsky 
+\item Военкор Котенок: @voenkorKotenok
+\item Война на Донбассе. WarDonbass @wardonbass
+\item Выборный @vibornyk
+\item Выборный @vibornyk
+\item ВышинскийКВ @vyshinkv
+\item Главмедиа @glavmedia
+\item Глядя из Донецка: @proroja
+\item Голос Мордора @golosmordora
+\item ДВУГЛАВ @dvuglav
+\item ДНР Онлайн @dnronline
+\item ДОКТОР СОСНОВСКИЙ @dr\_alex\_sosnowski
+\item Дежурный по СНГ: @CIS91
+\item Дикая азия @asiantop 
+\item Дипломат @the\_diplomatt
+\item Дмитрий Киселев \url{https://t.me/dmitri\_kiselev}
+\item Доктор едет @doctor\_edet
+\item Донецк Donbass @donetsk\_donbass
+\item Запрещенная Украина: @godeye\_ru
+\item Зрада чи Перемога @zradaperemoga
+\item Зубовский,4: @zubovskiy4
+\item ИМЕРЕЛ (Гия Саралидзе) @imerelgia 
+\item ИНОСМИ @inosmichannel
+\item ИнформБюро-ЮФО: @informburo\_sfd
+\item Искандер Хисамов: @IskanderKhisamov
+\item Караульный @karaulny 
+\item Коза кричала @kozakrichala
+\item Комментерн |||| - @polit\_ruk
+\item Крылья войны @wingsofwar
+\item Крымский @krimski
+\item Крымский Алгоритм @crimea\_algorithm
+\item МАЙ ДНР @MAYDNR
+\item Марочко Live: @marochkolive
+\item Мобильный репортер @mobrep 
+\item НА «Харьков»: @NahNews 
+\item На видео видно @navideovidno
+\item На связи Севастополь: @SEVASTOP0L
+\item Надана Фридрихсон @FridrihShow 
+\item НеСоциальная Сеть: @NeSocSeti
+\item Николай Стариков @nstarikov\_ru
+\item Новоstnoy @novo\_stnoy
+\item Новости на каждый день @daydaynews
+\item Новостной @novostnoichannel
+\item Новый Век @Wek\_ru
+\item Обозреватель БПЛА @dronesrussia
+\item Охранитель: @rusmonstr
+\item ПАУЛОВА ОЛЬГА @RealPaulova  
+\item ПОЧТА ДОНБАССА 
+\item Политджойстик (Марат Баширов) @politjoystic
+\item Политспутник: @politsputnik
+\item Протоиерей Александр Овчаренко: @ovchapriest
+\item РИА ФАН: @riafan
+\item Радио Sputnik: @radio\_sputnik
+\item Родион Мирошник: @miroshnik\_r 
+\item Русский Демиург: @rus\_demiurge
+\item Русский ориенталист @russ\_orientalist
+\item Русстрат @russtrat
+\item СВАРЩИКИ: @svarschiki
+\item СОЛОВЬЕВ @solovievlive
+\item СОНАР-2050 @sonar2050
+\item СУДАКОВ @sudakovss
+\item Семен Пегов @wargonzo 
+\item Сергей "Zergulio" Колясников @SergeyKolyasnikov 
+\item Синельников-Оришак @sinelor
+\item Скриншот Правды @ScreenShotTrue
+\item Сочные новости от скуки @chistoprikol
+\item Союз блогеров Украины: @ua\_sbu 
+\item Тайны Ленинградского двора @leningrad\_guide
+\item Теперь живите с этим @viveconesto
+\item Точка Донбасса: @tochkadonbassa
+\item Фаренгейт @fahrenheit1724
+\item ЧВК Медиа: @chvkmedia
+\item Шептун @sheptoon
+\item Штрих из ДНР @znrznr 
+\item Ыыху Москвы: @iikhu
+\item Южная башня @southtower
+\item Юлия Витязева: @vityzeva
+\end{itemize}
+
+  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{tg.ch.sheptun}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file tg.ch.sheptun
+%%parent tg.ch
+ 
+%%endhead 
+\subsection{Шептун}
+\url{https://t.me/sheptoon}
+  
+\vspace{0.5cm}
+ {\ifDEBUG\small\LaTeX~section: \verb|tg.ch.sheptun| project: \verb|letopis| rootid: \verb|texdocs|	\fi}
+\vspace{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{tg.ch.sheptun.06_08_2020}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file tg.ch.sheptun.06_08_2020
+%%parent tg.ch.sheptun
+ 
+%%endhead 
+\subsubsection{06.08.2020}
+  
+\vspace{0.5cm}
+ {\ifDEBUG\small\LaTeX~section: \verb|tg.ch.sheptun.06_08_2020| project: \verb|letopis| rootid: \verb|texdocs|	\fi}
+\vspace{0.5cm}
+  
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{tg.ch.sheptun.06_08_2020.kristina_koshki}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file tg.ch.sheptun.06_08_2020.kristina_koshki
+%%parent tg.ch.sheptun.06_08_2020
+ 
+%%endhead 
+\paragraph{23-летняя Кристина, убийца кошек}
+\url{https://t.me/sheptoon/6173?single}
+  
+\vspace{0.5cm}
+ {\ifDEBUG\small\LaTeX~section: \verb|tg.ch.sheptun.06_08_2020.kristina_koshki| project: \verb|letopis| rootid: \verb|texdocs|	\fi}
+\vspace{0.5cm}
+
+Знакомьтесь, 23-летняя Кристина - жительница Запорожской области и просто
+неадекватная личность, которая зверски убивает животных, снимает это на камеру
+и зарабатывает при этом деньги. Ссылок давать не будем, так как контент не для
+слабонервных.  Ужасающие фото и видео живодерка выкладывает в  «Вконтакте».
+Также в других своих группах Кристина продает свою обнаженку, а в некоторых
+видео совмещает порнографию с живодерством. На некоторых кадрах видно, что она
+топчет и душит беззащитных животных: мучает гусей, кроликов, собак и кошек.
+Доступ к своей группе продает за 50 евро. 
+
+Живодеркой уже занялась полиция.
+  
+
+  
+  
+
+
+%\ii{test_sql}
+
+%%%img fb,lnr,1
+
+
+%%endhead 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \ii{index}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file index
+%%parent 
+ 
+%%endhead 
+
+\ifINDEX
+	\clearpage
+	\phantomsection
+	\addcontentsline{toc}{part}{\indexname}
+
+  \printindex
+\fi
+\end{document}
+ 

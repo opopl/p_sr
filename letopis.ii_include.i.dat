@@ -1,6 +1,10 @@
 _base_
 articles
 #
+preamble.filecontents.indexA_xdy
+preamble.filecontents.indexB_xdy
+preamble.filecontents.latexmkrc
+#
 15_07_2020
 15_07_2020.fb.lnr.1
 15_07_2020.fb.lnr.2

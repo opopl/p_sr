@@ -1,0 +1,100 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file man.rc_files
+%%parent man.errors
+ 
+%%endhead 
+  
+\section{CONFIGURATION/INITIALIZATION (RC) FILES}
+
+\vspace{0.5cm}
+ {\ifDEBUG\small\LaTeX~section: \verb|man.rc_files| project: \verb|latexmk| rootid: \verb|p_saintrussia| \fi}
+\vspace{0.5cm}
+  
+In this section is explained which configuration files are read by latexmk.
+Subsequent sections "How  to  Set  Variables  in  Initialization Files",
+"Format  of  Command  Specifications",  "List of Configuration Variables Usable
+in Initialization Files", "Custom  Dependencies",  and "Advanced Configuration"
+give  details  on what can be configured and how.
+
+Latexmk can be customized using initialization files, which are read at startup
+in the following order:
+
+\begin{itemize}
+	\item 1) The system RC file, if it exists.
+On a UNIX system, latexmk searches for following places for its system RC file, in the following order, and reads the first it finds:
+\begin{itemize}
+  \item \verb|"/opt/local/share/latexmk/LatexMk"|,
+  \item \verb|"/usr/local/share/latexmk/LatexMk"|,
+  \item \verb|"/usr/local/lib/latexmk/LatexMk"|.
+\end{itemize}
+
+On a MS-Windows system it looks for \verb|"C:\latexmk\LatexMk"|.  On a cygwin
+system (i.e., a MS-Windows system in which Perl is  that of
+cygwin), latexmk reads the first it finds of
+
+\begin{itemize}
+  \item \verb|"/cygdrive/c/latexmk/LatexMk"|,
+  \item \verb|"/opt/local/share/latexmk/LatexMk"|,
+  \item \verb|"/usr/local/share/latexmk/LatexMk"|,
+  \item \verb|"/usr/local/lib/latexmk/LatexMk"|.
+\end{itemize}
+
+In addition, it then tries the same set of locations, but with the file
+name replaced "LatexMk" replaced by "latexmkrc".
+
+If the environment variable \verb|LATEXMKRCSYS| is set, its value is  used  as
+the name of the system RC file, instead of any of the above.
+
+	\item 2) The user's RC file, if it exists.  This can be in one of two places.
+The traditional one is \verb|".latexmkrc"| in the user's home
+directory.   The other  possibility  is "latexmk/latexmkrc" in
+the user's XDG configuration home directory.  The actual file
+read is the first  of
+\verb|"$XDG_CONFIG_HOME/latexmk/latexmkrc"|  or
+\verb|"$HOME/.latexmkrc"| which exists.  (See
+\url{https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html}
+for details on the XDG Base Directory Specification.)
+
+Here  \verb|$HOME|  is  the  user's  home  directory.  [Latexmk determines the
+user's home directory as follows:  It is the value of  the
+environment variable  HOME,  if this variable exists, which
+normally is the case on UNIX-like systems (including Linux and
+OS-X).  Otherwise  the  environment  variable USERPROFILE is
+used, if it exists, which normally is the case on MS-Windows
+systems. Otherwise a blank string is used instead of \verb|$HOME|, in
+which case latexmk does not look for an RC file in it.]
+
+\verb|$XDG_CONFIG_HOME|  is  the  value  of  the environment variable
+\verb|XDG_CONFIG_HOME| if it exists.  If this environment variable
+does  not  exist, but  \verb|$HOME|  is  non-blank,  then
+\verb|$XDG_CONFIG_HOME| is set to the default value of \verb|$HOME/.config|.
+Otherwise \verb|$XDG_CONFIG_HOME| is blank,  and  latexmk does not
+look for an RC file under it.
+
+\item 3)  The  RC  file  in  the current working directory.  This file can be
+named either \verb|"latexmkrc"| or \verb|".latexmkrc"|, and the first of these to  be
+found is used, if any.
+
+\item 4) Any RC file(s) specified on the command line with the -r option.
+
+Each RC file is a sequence of Perl commands.  Naturally, a user can use this in
+creative ways.  But for most purposes, one simply  uses  a
+sequence of assignment statements that override some of the
+built-in settings of Latexmk.  Straightforward cases can be
+handled without  knowledge  of  the  Perl  language by using
+the examples in this document as templates.  Comment lines are
+introduced by the \verb|"#"| character.
+
+Note that command line options are obeyed in the order  in  which  they are
+written; thus any RC file specified on the command line with the \verb|-r|
+option can override previous options but can be  itself overridden  by later
+options on the command line.  There is also the \verb|-e| option, which allows
+initialization code to be specified in latexmk's command line.
+
+For possible examples of code for in an RC file, see the directory
+\verb|example_rcfiles|  in  the  distribution  of  latexmk (e.g., at
+\url{http://mirror.ctan.org/support/latexmk/example_rcfiles}).
+\end{itemize}
+

@@ -1,0 +1,14 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file preamble.filecontents.latexmkrc2
+%%parent preamble.filecontents
+ 
+%%endhead 
+ 
+\begin{filecontents*}{latexmkrc2}
+$makeindex = 'texindy -M %B.xdy %O -o %D %S'; #$
+
+$pdf_mode = 1; #$
+\end{filecontents*}
+

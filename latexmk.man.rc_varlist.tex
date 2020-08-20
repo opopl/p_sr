@@ -24,879 +24,908 @@ behave in a certain way, a non-zero value, normally 1, indicates  true,
 i.e.,  the behavior occurs, while a zero value indicates a false value,
 i.e., the behavior does not occur.
 
-
-       $allow_switch [1]
-
-              This controls what happens when the output extension  of  latex,
-              pdflatex,  lualatex  or  xelatex  differs from what is expected.
-              (The possible extensions are .dvi, .pdf, .xdv.)  This can happen
-              with  the use of the \pdfoutput macro in a document compiled un-
-              der latex or pdflatex, or with the use of the \outputmode  macro
-              under lualatex.  It can also happen with certain kinds of incor-
-              rect configuration.
-
-              In such a case, latexmk can appropriately adjust its network  of
-              rules.  The adjustment is made if $allow_switch is on, and if no
-              request for a dvi or ps file has been made.
-
-              See the section ALLOWING FOR CHANGE OF OUTPUT EXTENSION.
-
-
-       $always_view_file_via_temporary [0]
-              Whether .ps and .pdf files are initially to be made in a  tempo-
-              rary  directory and then moved to the final location.  (This ap-
-              plies to dvips, dvipdf, and ps2pdf operations, and the filtering
-              operators on .dvi and .ps files.  It does not apply to pdflatex,
-              unfortunately, since pdflatex provides no way  of  specifying  a
-              chosen name for the output file.)
-
-              This use of a temporary file solves a problem that the making of
-              these files can occupy a substantial time.  If a viewer (notably
-              gv) sees that the file has changed, it may read the new file be-
-              fore the program writing the file has not yet finished its work,
-              which  can cause havoc.
-
-              See the $pvc_view_file_via_temporary variable for a setting that
-              applies only if preview-continuous mode (-pvc option)  is  used.
-              See $tmpdir for the setting of the directory where the temporary
-              file is created.
-
-
-       $analyze_input_log_always [1]
-
-              After a run of latex (etc), always analyze .log for input  files
-              in  the  <...>  and (...) constructions.  Otherwise, only do the
-              analysis when fls file doesn't exist or is out of date.
-
-              Under normal circumstances, the data in the fls  file  is  reli-
-              able, and the test of the log file gets lots of false positives;
-              usually $analyze_input_log_always is best set to zero.  But  the
-              test  of  the  log  file  is  needed  at  least in the following
-              situation: When a user needs to persuade latexmk that a  certain
-              file  is  a  source file, and latexmk doesn't otherwise find it.
-              Then the user can write code that causes a line with (...) to be
-              written  to log file.  One important case is for lualatex, which
-              doesn't always generate lines in the .fls  file  for  input  lua
-              files.   (The  situation  with lualatex is HIGHLY version depen-
-              dent, e.g., there was a big  change  between  TeXLive  2016  and
-              TeXLive 2017.)
-
-              To  keep  backward compatibility with older versions of latexmk,
-              the default is to set $analyze_input_log_always to 1.
-
-
-       $auto_rc_use [1]
-              Whether to automatically read the standard  initialization  (rc)
-              files, which are the system RC file, the user's RC file, and the
-              RC file in the current directory.  The command line option -norc
-              can  be  used to turn this setting off.  Each RC file could also
-              turn this setting off, i.e., it could set $auto_rc_use  to  zero
-              to prevent automatic reading of the later RC files.
-
-              This  variable does not affect the reading of RC files specified
-              on the command line by the -r option.
-
-       $aux_dir [""]
-              The directory in which auxiliary files (aux, log, etc) are to be
-              written  by  a  run of (pdf)latex.  If this variable is not set,
-              but $out_dir is set, then $aux_dir is set to $out_dir, which  is
-              the directory to which general output files are to be written.
-
-              Important  note:   The  effect  of  $aux_dir,  if different from
-              $out_dir, is achieved by giving (pdf)latex  the  -aux-directory.
-              Currently  (Dec.  2011  and later) this only works on the MiKTeX
-              version of (pdf)latex.
-
-              See also the documentation of $out_dir for some complications on
-              what directory names are suitable.
-
-              If  you also use the -cd option, and $out_dir (or $aux_dir) con-
-              tains a relative path, then the path is interpreted relative  to
-              the document directory.
-
-       $banner [0]
-              If  nonzero, the banner message is printed across each page when
-              converting the dvi file to postscript.   Without  modifying  the
-              variable  $banner_message,  this is equivalent to specifying the
-              -d option.
-
-              Note that if $banner is nonzero, the $postscript_mode is assumed
-              and the postscript file is always generated, even if it is newer
-              than the dvi file.
-
-       $banner_intensity [0.95]
-              Equivalent to the -bi option, this is a decimal number between 0
-              and  1 that specifies how dark to print the banner message. 0 is
-              black, 1 is white.  The default is just right if your toner car-
-              tridge isn't running too low.
-
-       $banner_message ["DRAFT"]
-              The banner message to print across each page when converting the
-              dvi file to postscript.  This is equivalent to the -bm option.
-
-       $banner_scale [220.0]
-              A decimal number that specifies how  large  the  banner  message
-              will  be printed.  Experimentation is necessary to get the right
-              scale for your message, as a rule of thumb the scale  should  be
-              about  equal  to 1100 divided by the number of characters in the
-              message.  The Default is just right for  5  character  messages.
-              This is equivalent to the -bs option.
-
-       @BIBINPUTS
-              This  is  an array variable, now mostly obsolete, that specifies
-              directories where latexmk should look for .bib  files.   By  de-
-              fault  it  is set from the BIBINPUTS environment variable of the
-              operating system.  If that environment variable is  not  set,  a
-              single  element list consisting of the current directory is set.
-              The format of the directory names depends on your operating sys-
-              tem, of course.  Examples for setting this variable are:
-
-                      @BIBINPUTS = ( ".", "C:\\bibfiles" );
-                      @BIBINPUTS = ( ".", "\\server\bibfiles" );
-                      @BIBINPUTS = ( ".", "C:/bibfiles" );
-                      @BIBINPUTS = ( ".", "//server/bibfiles" );
-                      @BIBINPUTS = ( ".", "/usr/local/texmf/bibtex/bib" );
-
-              Note  that  under  MS  Windows,  either a forward slash "/" or a
-              backward slash "\" can be used to separate pathname  components,
-              so  the  first  two  and the second two examples are equivalent.
-              Each backward slash should be doubled to avoid running afoul  of
-              Perl's rules for writing strings.
-
-              Important note: This variable is now mostly obsolete in the cur-
-              rent version of latexmk, since it has a better method of search-
-              ing  for  files  using  the kpsewhich command.  However, if your
-              system is an unusual one without the kpsewhich command, you  may
-              need to set the variable @BIBINPUTS.
-
-       $biber ["biber %O %S"]
-              The biber processing program.
-
-       $biber_silent_switch ["--onlylog"]
-              Switch(es)  for the biber processing program when silent mode is
-              on.
-
-       $bibtex ["bibtex %O %S"]
-              The BibTeX processing program.
-
-
-
-
-
-                                 17 April 2020                              35
-
-
-
-
-
-
-
-
-       $bibtex_fudge [1]
-              When using bibtex, whether to take special action to allow  bib-
-              tex  to  work  when  $out_dir  or $aux_dir is specified.  In May
-              2018, there was planned an update to bibtex to  correct  a  bug,
-              after  that  update,  the  special  action will no longer be re-
-              quired.
-
-       $bibtex_silent_switch ["-terse"]
-              Switch(es) for the BibTeX processing program when silent mode is
-              on.
-
-       $bibtex_use [1]
-              Under what conditions to run bibtex or biber.  When latexmk dis-
-              covers from the log file that one (or more)  bibtex/biber-gener-
-              ated  bibliographies  are used, it can run bibtex or biber when-
-              ever it appears necessary to regenerate  the  bbl  file(s)  from
-              their  source  bib  database  file(s).   But  sometimes, the bib
-              file(s) are not available (e.g., for a document obtained from an
-              external archive), but the bbl files are provided.  In that case
-              use of bibtex or biber will result in incorrect  overwriting  of
-              the  precious  bbl  files.   The  variable  $bibtex_use controls
-              whether this happens, and also  controls  whether  or  not  .bbl
-              files are deleted in a cleanup operation.
-
-              The possible values of $bibtex_use are:
-                0:  never  use  BibTeX  or biber; never delete .bbl files in a
-              cleanup.
-                1: only use bibtex or biber if  the  bib  files  exist;  never
-              delete .bbl files in a cleanup.
-                1.5:  only  use bibtex or biber if the bib files exist; condi-
-              tionally delete .bbl files in a cleanup (i.e., delete them  only
-              when the bib files all exist).
-                2: run bibtex or biber whenever it appears necessary to update
-              the bbl files, without testing for  the  existence  of  the  bib
-              files; always delete .bbl files in a cleanup.
-
-              Note  that  the value 1.5 does not work properly if the document
-              uses biber instead of bibtex.  (There's a long story why not.)
-
-
-       $cleanup_includes_cusdep_generated [0]
-              If nonzero, specifies that cleanup also deletes files  that  are
-              generated by custom dependencies.  (When doing a clean up, e.g.,
-              by use of the -C option, custom dependencies are those listed in
-              the .fdb_latexmk file from a previous run.)
-
-       $cleanup_includes_generated [0]
-              If  nonzero,  specifies that cleanup also deletes files that are
-              detected in the fls file (or failing that, in log file) as being
-              generated.   It  will  also  include files made from these first
-              generation generated files.
-
-              This operation is somewhat dangerous, and  can  have  unintended
-              consequences,  since the files to be deleted are determined from
-
-
-
-                                 17 April 2020                              36
-
-
-
-
-
-
-
-
-              a file created by (pdf)latex, which can contain erroneous infor-
-              mation.  Therefore  this  variable is turned off by default, and
-              then files to be deleted are restricted to those explictly spec-
-              ified   by  patterns  configured  in  the  variables  clean_ext,
-              clean_full_ext, and @generated_exts, together  with  those  very
-              standard  cases  that  are  hardwired  into  latexmk (e.g., .log
-              files).
-
-       $cleanup_mode [0]
-              If nonzero, specifies cleanup mode: 1 for full  cleanup,  2  for
-              cleanup  except  for .dvi, .ps and .pdf files, 3 for cleanup ex-
-              cept for dep and aux files.  (There is also  extra  cleaning  as
-              specified by the $clean_ext, $clean_full_ext and @generated_exts
-              variables.)
-
-              This variable is equivalent to specifying one of the  -c  or  -C
-              options.   But there should be no need to set this variable from
-              an RC file.
-
-       $clean_ext [""]
-              Extra extensions of files for latexmk to remove when any of  the
-              clean-up  options  (-c  or  -C)  is selected.  The value of this
-              variable is a string containing the extensions separated by spa-
-              ces.
-
-              It is also possible to specify a more general pattern of file to
-              be deleted, by using the place holder %R, as in commands, and it
-              is also possible to use wildcards.  Thus setting
-
-                  $clean_ext  =  "out  %R-blx.bib  %R-figures*.log  pythontex-
-              files-%R/*";
-
-              in an initialization file will imply that when a clean-up opera-
-              tion  is  specified,  not  only  is  the  standard  set of files
-              deleted, but also files of the form  FOO.out,  FOO-blx.bib,  %R-
-              figures*.log,  and  pythontex-files-FOO/*,  where FOO stands for
-              the basename of the file being processed (as in FOO.tex).
-
-              The files to be deleted are relative to the directory  specified
-              by  $aux_dir.   (Note  that if $out_dir but not $aux_dir is set,
-              then in its  initialization,  latexmk  sets  $aux_dir  equal  to
-              $out_dir.   A normal situation is therefore that $aux_dir equals
-              $out_dir, which is the only case supported  by  TeXLive,  unlike
-              MiKTeX.)
-
-              The  filenames  specfied  for a clean-up operation can refer not
-              only to regular files but also to directories.  Directories  are
-              only deleted if they are empty.  An example of an application is
-              to pythontex, which creates files  in  a  particular  directory.
-              You  can  arrange  to remove both the files and the directory by
-              setting
-
-                  $clean_ext = "pythontex-files-%R pythontex-files-%R";
-
-
-
-
-                                 17 April 2020                              37
-
-
-
-
-
-
-
-
-              See also the variable @generated_exts.
-
-       $clean_full_ext [""]
-              Extra extensions of files for latexmk to remove when the -C  op-
-              tion  is  selected, i.e., extensions of files to remove when the
-              .dvi, etc files are to be cleaned-up.
-
-              More general patterns are allowed, as for $clean_ext.
-
-              The files specified by $clean_full_ext to be deleted  are  rela-
-              tive to the directory specified by $out_dir.
-
-
-       $compiling_cmd [""], $failure_cmd [""], $warning_cmd [""], $success_cmd
-       [""]
-
-              These variables specify commands that are  executed  at  certain
-              points  of  compilations.  One motivation for their existance is
-              to allow very useful convenient visual indications  of  compila-
-              tion  status even when the window receiving the screen output of
-              the compilation is hidden.  This is particularly useful in  pre-
-              view-continuous mode.
-
-              The  commands  are  executed  at  the following points: $compil-
-              ing_cmd at the start of compilation, $success_cmd at the end  of
-              a  completely successful compilation, $failure_cmd at the end of
-              an unsuccessful compilation, $warning_cmd at the of an otherwise
-              successful compilation that gives warnings about undefined cita-
-              tions or references or about multiply defined references. If any
-              of  above  variables  is  undefined or blank (the default situa-
-              tion), then the corresponding command is not executed.
-
-              However, when $warning_cmd is not set, then in  the  case  of  a
-              compilation  with  warnings  about  references or citations, but
-              with no other error, one or  other  of  $success_cmd  or  $fail-
-              ure_cmd  is  used  (if  it  is  set) according to the setting of
-              $warnings_as_errors.
-
-              An example of a simple setting of these variables is as follows
-
-                  $compiling_cmd = "xdotool search  --name  \"%D\"  set_window
-              --name \"%D compiling\"";
-                  $success_cmd    =  "xdotool  search --name \"%D\" set_window
-              --name \"%D OK\"";
-                  $warning_cmd   = "xdotool search --name \"%D\" ".
-                                   "set_window --name \"%D CITE/REF ISSUE\"";
-                  $failure_cmd   = "xdotool search  --name  \"%D\"  set_window
-              --name \"%D FAILURE\"";
-
-              These  assume  that  the  program xdotool is installed, that the
-              previewer is using an X-Window system for display, and that  the
-              title  of the window contains the name of the displayed file, as
-              it normally does.  When the commands are  executed,  the  place-
-              holder  string  %D  is  replaced  by the name of the destination
-
-
-
-                                 17 April 2020                              38
-
-
-
-
-
-
-
-
-              file, which is the previewed file.  The above commands result in
-              an appropriate string being appended to the filename in the win-
-              dow title: " compiling", " OK", or " FAILURE".
-
-              Other placeholders that can be used are %S, %T, and %R, with  %S
-              and  %T normally being identical. These can be useful for a com-
-              mand changing the title of the edit window. The  visual  indica-
-              tion  in a window title can useful, since the user does not have
-              to keep shifting attention to the (possibly hidden)  compilation
-              window to know the status of the compilation.
-
-              More  complicated  situations  can best be handled by defining a
-              Perl subroutine to invoke the necessary commands, and using  the
-              "internal"  keyword  in the definitions to get the subroutine to
-              be invoked.  (See the section "Format of Command Specifications"
-              for how to do this.)
-
-              Naturally,  the  above  settings that invoke the xdotool program
-              are only applicable when the X-Window system  is  used  for  the
-              relevant window(s).  For other cases, you will have to find what
-              software solutions are available.
-
-
-       @cus_dep_list [()]
-              Custom dependency list -- see section on "Custom Dependencies".
-
-       @default_excluded_files [()]
-              When latexmk is invoked with no files specified on  the  command
-              line, then, by default, it will process all files in the current
-              directory with the extension .tex.  (In general, it will process
-              the files specified in the @default_files variable.)
-
-              But sometimes you want to exclude particular files from this de-
-              fault list.  In that case you can specify the excluded files  in
-              the array @default_excluded_files.  For example if you wanted to
-              process all .tex files with the exception of  common.tex,  which
-              is a not a standard alone LaTeX file but a file input by some or
-              all of the others, you could do
-
-                   @default_files = ("*.tex");
-
-                   @default_excluded_files = ("common.tex");
-
-              If you have a variable or large number of files to be processed,
-              this method saves you from having to list them in detail in @de-
-              fault_files and having to update the list every time you  change
-              the set of files to be processed.
-
-              Notes:  1.  This variable has no effect except when no files are
-              specified on the latexmk command line.  2. Wildcards are allowed
-              in @default_excluded_files.
-
-       @default_files [("*.tex")]
-              Default list of files to be processed.
-
-
-
-                                 17 April 2020                              39
-
-
-
-
-
-
-
-
-              If  no filenames are specified on the command line, latexmk pro-
-              cesses all tex files specified in the  @default_files  variable,
-              which  by  default is set to all tex files ("*.tex") in the cur-
-              rent directory.  This is a convenience: just run latexmk and  it
-              will  process  an  appropriate  set of files.  But sometimes you
-              want only some of these files to be processed.  In this case you
-              can  list the files to be processed by setting @default_files in
-              an initialization file (e.g., the file "latexmkrc" in  the  cur-
-              rent  directory).  Then if no files are specified on the command
-              line then the files you specify by  setting  @default_files  are
-              processed.
-
-              Three examples:
-
-                   @default_files = ("paper_current");
-
-                   @default_files = ("paper1", "paper2.tex");
-
-                   @default_files = ("*.tex", "*.dtx");
-
-              Note  that more than file may be given, and that the default ex-
-              tension is ".tex".  Wild cards are allowed.  The parentheses are
-              because @default_files is an array variable, i.e., a sequence of
-              filename specifications is possible.
-
-              If you want latexmk to process all .tex files with a few  excep-
-              tions, see the @default_excluded_files array variable.
-
-       $dependents_phony [0]
-              If  a  list  of dependencies is output, this variable determines
-              whether to include a phony target for each source file.  If  you
-              use  the  dependents  list  in  a Makefile, the dummy rules work
-              around errors make gives if you remove header files without  up-
-              dating the Makefile to match.
-
-       $dependents_list [0]
-              Whether  to  display  a  list(s) of dependencies at the end of a
-              run.
-
-       $deps_file ["-"]
-              Name of file to receive list(s) of dependencies at the end of  a
-              run,  to be used if $dependesnt_list is set.  If the filename is
-              "-", then the dependency list is set to stdout  (i.e.,  normally
-              the screen).
-
-       $do_cd [0]
-              Whether  to  change working directory to the directory specified
-              for the main source file before processing it.  The default  be-
-              havior  is  not to do this, which is the same as the behavior of
-              latex and pdflatex programs.  This variable is set  by  the  -cd
-              and -cd- options on latexmk's command line.
-
-       $dvi_filter [empty]
-              The  dvi  file  filter  to be run on the newly produced dvi file
-
-
-
-                                 17 April 2020                              40
-
-
-
-
-
-
-
-
-              before other processing.  Equivalent to specifying the  -dF  op-
-              tion.
-
-       $dvi_mode [See below for default]
-              If  nonzero, generate a dvi version of the document.  Equivalent
-              to the -dvi option.
-
-              The variable $dvi_mode defaults to 0, but  if  no  explicit  re-
-              quests  are made for other types of file (postscript, pdf), then
-              $dvi_mode will be set to 1.  In addition, if  a  request  for  a
-              file  for  which  a  .dvi file is a prerequisite, then $dvi_mode
-              will be set to 1.
-
-       $dvi_previewer ["start xdvi %O %S" under UNIX]
-              The command to invoke a dvi-previewer.   [Under  MS-Windows  the
-              default  is "start"; then latexmk arranges to use the MS-Windows
-              start program, which will cause to be run whatever  command  the
-              system has associated with .dvi files.]
-
-              Important  note:  Normally you will want to have a previewer run
-              detached, so that latexmk doesn't wait for the previewer to ter-
-              minate  before continuing its work.  So normally you should pre-
-              fix the command by "start ", which  flags  to  latexmk  that  it
-              should  do  the  detaching  of the previewer itself (by whatever
-              method is appropriate to the operating system).   But  sometimes
-              letting latexmk do the detaching is not appropriate (for a vari-
-              ety of non-trivial reasons), so you should put the "start "  bit
-              in yourself, whenever it is needed.
-
-       $dvi_previewer_landscape ["start xdvi %O %S"]
-              The command to invoke a dvi-previewer in landscape mode.  [Under
-              MS-Windows the default is "start"; then latexmk arranges to  use
-              the  MS-Windows  start program, which will cause to be run what-
-              ever command the system has associated with .dvi files.]
-
-       $dvipdf ["dvipdf %O %S %D"]
-              Command to convert .dvi to .pdf file.  A common  reconfiguration
-              is  to  use  the dvipdfm command, which needs its arguments in a
-              different order:
-
-                   $dvipdf = "dvipdfm %O -o %D %S";
-
-              WARNING: The default dvipdf  script  generates  pdf  files  with
-              bitmapped fonts, which do not look good when viewed by acroread.
-              That script should be modified to give  dvips  the  options  "-P
-              pdf" to ensure that type 1 fonts are used in the pdf file.
-
-       $dvipdf_silent_switch ["-q"]
-              Switch(es) for dvipdf program when silent mode is on.
-
-              N.B.  The  standard  dvipdf program runs silently, so adding the
-              silent switch has no effect, but is actually innocuous.  But  if
-              an  alternative program is used, e.g., dvipdfmx, then the silent
-              switch has an  effect.   The  default  setting  is  correct  for
-
-
-
-                                 17 April 2020                              41
-
-
-
-
-
-
-
-
-              dvipdfm and dvipdfmx.
-
-       $dvips ["dvips %O -o %D %S"]
-              The  program to used as a filter to convert a .dvi file to a .ps
-              file.  If pdf is going to be generated from pdf, then the  value
-              of  the  $dvips_pdf_switch  variable -- see below -- will be in-
-              cluded in the options substituted for "%O".
-
-       $dvips_landscape ["dvips -tlandscape %O -o %D %S"]
-              The program to used as a filter to convert a .dvi file to a  .ps
-              file in landscape mode.
-
-       $dvips_pdf_switch ["-P pdf"]
-              Switch(es)  for  dvips  program when pdf file is to be generated
-              from .ps file.
-
-       $dvips_silent_switch ["-q"]
-              Switch(es) for dvips program when silent mode is on.
-
-       $dvi_update_command [""]
-              When the dvi previewer is set to be updated by  running  a  com-
-              mand,  this is the command that is run.  See the information for
-              the variable $dvi_update_method for further information, and see
-              information  on  the  variable $pdf_update_method for an example
-              for the analogous case of a pdf previewer.
-
-       $dvi_update_method [2 under UNIX, 1 under MS-Windows]
-              How the dvi viewer updates its display when  the  dvi  file  has
-              changed.    The  values  here  apply  equally  to  the  $pdf_up-
-              date_method and to the $ps_update_method variables.
-                  0 => update is automatic,
-                  1=> manual update by user, which may only mean a mouse click
-              on the viewer's window or may mean a more serious action.
-                  2  =>  Send  the  signal,  whose  number  is in the variable
-              $dvi_update_signal.  The default value under  UNIX  is  suitable
-              for xdvi.
-                  3  => Viewer cannot do an update, because it locks the file.
-              (As with acroread under MS-Windows.)
-                  4 => run a command to do the update.  The command is  speci-
-              fied by the variable $dvi_update_command.
-
-              See  information on the variable $pdf_update_method for an exam-
-              ple of updating by command.
-
-       $dvi_update_signal [Under UNIX: SIGUSR1, which  is  a  system-dependent
-       value]
-              The  number of the signal that is sent to the dvi viewer when it
-              is updated by sending a signal -- see  the  information  on  the
-              variable  $dvi_update_method.   The default value is the one ap-
-              propriate for xdvi on a UNIX system.
-
-       $failure_cmd [undefined]
-              See the documentation for $compiling_cmd.
-
-
-
-
-                                 17 April 2020                              42
-
-
-
-
-
-
-
-
-       $fdb_ext ["fdb_latexmk"]
-              The extension of the file which latexmk generates to  contain  a
-              database  of information on source files.  You will not normally
-              need to change this.
-
-       $filetime_causality_threshold  [5];   $filetime_offset_report_threshold
-       [30]. (Units of seconds.)
-
-              These variables control how latexmk deals with the following is-
-              sue, which can affect the use of files  that  are  on  a  remote
-              filesystem (network share) instead of being on a file system lo-
-              cal to the computer running latexmk.  Almost users will not have
-              to  worry about these settings, and can ignore the following ex-
-              planation.
-
-              In almost all situations, latexmk does not need to use the  time
-              stamps  of the files it works with.  However, there are a couple
-              of situations when it needs to know whether a certain  file  was
-              created in the current run of a program (e.g., (pdf)latex) or is
-              a leftover file from a previous run. It does this  by  comparing
-              the  modification time of the file with the system time just be-
-              fore the program was started. If the modification time  is  ear-
-              lier  than  when the program was started, the file is a leftover
-              file, which latexmk treats as if it were not  created.   If  the
-              filetime  is at least the program start time, then it can be as-
-              sumed that the file was created in the current run.
-
-              Unfortunately, this test can fail if the file  is  on  a  remote
-              system,  since  its  system time is not necessarily synchronized
-              with that of the local system;  the  timestamps  on  the  remote
-              files  are set by the remote system, not the local system.  Gen-
-              erally, modern operating  systems  regularly  synchronize  their
-              time  with  a server, so the non-synchronization is mostly small
-              (a second or so, or a few seconds).  But even a small difference
-              can mess up latexmk's test.
-
-              Latexmk measures the time difference between the time on the two
-              systems and compensates for this.  But  the  measurement  (in  a
-              system-independent way) is only accurate to a second or two.  So
-              latexmk allows for a threshold on the  difference  between  file
-              and  system  time  before it concludes that a file is a leftover
-              file from a previous  run.  The  configuration  variable  $file-
-              time_causality_theshhold,  which  in units of seconds, specifies
-              this threshold.  Luckily high precision is not needed.  The pre-
-              vious  run  is normally the previous run in a human run-edit-run
-              cycle, and is at least many seconds  back.   A  few  seconds  is
-              therefore   appropriate  for  the  threshold,  $filetime_causal-
-              ity_theshhold; it should be non-negative always, and  should  be
-              bigger than 2 if a remote filesystem or network share is used.
-
-              If  the  difference in system times on the two systems is large,
-              it normally indicates that at least one of the systems  is  mis-
-              configured.    The   variable  $filetime_offset_report_threshold
-              specifies the smallest size of the  difference  (or  offset)  in
-
-
-
-                                 17 April 2020                              43
-
-
-
-
-
-
-
-
-              seconds  between the times of the local and remote system beyond
-              which the offset is reported.  This is reported at the point  in
-              the  latexmk's  progress that it measures the offset. The report
-              is made if silent mode is used and diagnostic mode is not on.
-
-
-       $force_mode [0]
-              If nonzero, continue processing past minor latex errors  includ-
-              ing unrecognized cross references.  Equivalent to specifying the
-              -f option.
-
-       @generated_exts [( aux , bbl , idx , ind , lof , lot  ,  out  ,  toc  ,
-       $fdb_ext )]
-              This  contains a list of extensions for files that are generated
-              during a LaTeX run and that are read in by LaTeX in later  runs,
-              either directly or indirectly.
-
-              This  list  specifies  files known to be generated by latex (and
-              pdflatex, etc).  It is used in two ways: (a) The specified files
-              are deleted in a cleanup operation (with the -c, -C, -CA, -g and
-              -gg options), and (b) It affects the determination of whether  a
-              rerun of (pdf)LaTeX is needed after a run that gives an error.
-
-              (Concerning item (b): Normally, a change of a source file during
-              a run should provoke a rerun.  This includes a file generated by
-              LaTeX,  e.g.,  an  aux file, that is read in on subsequent runs.
-              But after a run that results in an error, a new run  should  not
-              occur  until  the  user has made a change in the files.  But the
-              user may have corrected an error in a source  .tex  file  during
-              the run.  So latexmk needs to distinguish user-generated and au-
-              tomatically generated files;  it  determines  the  automatically
-              generated  files as those with extensions in the list in @gener-
-              ated_exts.)
-
-              A convenient way to add an extra extension to the list,  without
-              losing  the already defined ones is to use a push command in the
-              line in an RC file.  E.g.,
-
-                              push @generated_exts, "end";
-
-              adds the extension "end" to the list of predefined generated ex-
-              tensions.   (This  extension  is used by the RevTeX package, for
-              example.)
-
-       $go_mode [0]
-              If nonzero, process files regardless of timestamps, and is  then
-              equivalent to the -g option.
-
-       %hash_calc_ignore_pattern
-              !!!This variable is for experts only!!!
-
-              The  general rule latexmk uses for determining when an extra run
-              of some program is needed is that one of the  source  files  has
-              changed.   But  consider for example a latex package that causes
-
-
-
-                                 17 April 2020                              44
-
-
-
-
-
-
-
-
-              an encapsulated postscript file (an "eps" file) to be made  that
-              is  to  be read in on the next run.  The file contains a comment
-              line giving its creation date and time.  On  the  next  run  the
-              time  changes,  latex  sees  that  the eps file has changed, and
-              therefore reruns latex.  This causes an infinite loop,  that  is
-              only  terminated  because  latexmk  has a limit on the number of
-              runs to guard against pathological situations.
-
-              But the changing line has no real effect, since it is a comment.
-              You can instruct latex to ignore the offending line as follows:
-
-                 $hash_calc_ignore_pattern{'eps'} = '^%%CreationDate: ';
-
-              This creates a rule for files with extension .eps about lines to
-              ignore.  The left-hand side is a Perl idiom for setting an  item
-              in  a hash.  Note that the file extension is specified without a
-              period.  The value, on the right-hand side, is a string contain-
-              ing  a  regular expresssion.  (See documentation on Perl for how
-              they are to be specified in general.)  This  particular  regular
-              expression  specifies that lines beginning with "%%CreationDate:
-              " are to be ignored in deciding whether a file of the given  ex-
-              tension .eps has changed.
-
-              There  is  only one regular expression available for each exten-
-              sion.  If you need more one pattern to specify lines to  ignore,
-              then  you need to combine the patterns into a single regular ex-
-              pression.  The simplest method is separate the different  simple
-              patterns  by  a vertical bar character (indicating "alternation"
-              in the jargon of regular expressions).  For example,
-
-                 $hash_calc_ignore_pattern{'eps'} = '^%%CreationDate:  |^%%Ti-
-              tle: ';
-
-              causes lines starting with either "^%%CreationDate: " or "^%%Ti-
-              tle: " to be ignored.
-
-              It may happen that a pattern to be ignored is specified in,  for
-              example,  in  a system or user initialization file, and you wish
-              to remove this in a file that is read later.  To  do  this,  you
-              use Perl's delete function, e.g.,
-
-                  delete $hash_calc_ignore_pattern{'eps'};
-
-
-       $jobname [""]
-
-              This  specifies the jobname, i.e., the basename that is used for
-              generated files (.aux, .log, .dvi, .ps,  .pdf,  etc).   If  this
-              variable  is a null string, then the basename is the basename of
-              the main tex file.  (At present, the string in  $jobname  should
-              not contain spaces.)
-
-              The  placeholder  '%A' is permitted. This will be substituted by
-              the basename of the TeX file.  The primary  purpose  is  when  a
-
-
-
-                                 17 April 2020                              45
-
-
-
-
-
-
-
-
-              variety  of tex files are to be processed, and you want to use a
-              different jobname for each but one that is  distinct  for  each.
-              Thus  if you wanted to compare compilations of a set of files on
-              different operating systems, with distinct filenames for all the
-              cases, you could set
-
-                 $jobname = "%A-$^O";
-
-              in  an initialization file.  (Here $^O is a variable provided by
-              perl that contains perl's name for the operating system.)
-
-              Suppose you had .tex files test1.tex and test2.tex.   Then  when
-              you run
-
-                 latexmk -pdf *.tex
-
-              both  files  will  be  compiled.  The .aux, .log, and .pdf files
-              will have basenames test1-MSWin32 ante test2-MSWin32  on  a  MS-
-              Windows system, test1-darwin and test2-darwin on an OS-X system,
-              and a variety of similar cases on linux systems.
-
-
-       $kpsewhich ["kpsewhich %S"]
-              The program called to locate a source file when the  name  alone
-              is  not  sufficient.  Most filenames used by latexmk have suffi-
-              cient path information to be found directly.  But sometimes, no-
-              tably when a .bib or a .bst file is found from the log file of a
-              bibtex or biber run, only the base name of the  file  is  known,
-              but not its path. The program specified by $kpsewhich is used to
-              find it.
-
-              (For advanced users: Because of the different way in  which  la-
-              texmk uses the command specified in $kpsewhich, some of the pos-
-              sibilities listed in the FORMAT OF COMMAND SPECIFICATIONS do not
-              apply.   The  internal  and  start keywords are not available. A
-              simple command specification with possible options and then "%S"
-              is  all  that  is  guaranteed to work.  Note that for other com-
-              mands, "%S" is substituted by a single source file. In contrast,
-              for $kpsewhich, "%S" may be substituted by a long list of space-
-              separated filenames, each of which is  quoted.   The  result  on
-              STDOUT of running the command is then piped to latexmk.)
-
-              See  also  the  @BIBINPUTS variable for another way that latexmk
-              also uses to try to locate files; it applies only in the case of
-              .bib files.
+\begin{verbatim}
+	$allow_switch [1]
+\end{verbatim}
+
+This controls what happens when the output extension  of  latex,
+pdflatex,  lualatex  or  xelatex  differs from what is expected.
+(The possible extensions are .dvi, .pdf, .xdv.)  This can happen
+with  the use of the \verb|\pdfoutput| macro in a document compiled un-
+der latex or pdflatex, or with the use of the \verb|\outputmode|  macro
+under lualatex.  It can also happen with certain kinds of incor-
+rect configuration.
+
+In such a case, latexmk can appropriately adjust its network  of rules.  The
+adjustment is made if \verb|$allow_switch| is on, and if no request for a dvi
+or ps file has been made.
+
+See the section ALLOWING FOR CHANGE OF OUTPUT EXTENSION.
+
+\begin{verbatim}
+	$always_view_file_via_temporary [0]
+\end{verbatim}
+
+Whether .ps and .pdf files are initially to be made in a  tempo-
+rary  directory and then moved to the final location.  (This ap-
+plies to dvips, dvipdf, and ps2pdf operations, and the filtering
+operators on .dvi and .ps files.  It does not apply to pdflatex,
+unfortunately, since pdflatex provides no way  of  specifying  a
+chosen name for the output file.)
+
+This use of a temporary file solves a problem that the making of
+these files can occupy a substantial time.  If a viewer (notably
+gv) sees that the file has changed, it may read the new file be-
+fore the program writing the file has not yet finished its work,
+which  can cause havoc.
+
+See the \verb|$pvc_view_file_via_temporary| variable for a setting that applies
+only if preview-continuous mode (-pvc option)  is  used.  See \verb|$tmpdir| for the
+setting of the directory where the temporary file is created.
+
+\begin{verbatim}
+	$analyze_input_log_always [1]
+\end{verbatim}
+
+After a run of latex (etc), always analyze .log for input  files
+in  the  \verb|<...>|  and \verb|(...)| constructions.  Otherwise, only do the
+analysis when fls file doesn't exist or is out of date.
+
+Under normal circumstances, the data in the \verb|fls|  file  is  reli-
+able, and the test of the log file gets lots of false positives;
+usually \verb|$analyze_input_log_always| is best set to zero.  But  the
+test  of  the  log  file  is  needed  at  least in the following
+situation: When a user needs to persuade latexmk that a  certain
+file  is  a  source file, and latexmk doesn't otherwise find it.
+Then the user can write code that causes a line with (...) to be
+written  to log file.  One important case is for lualatex, which
+doesn't always generate lines in the .fls  file  for  input  lua
+files.   (The  situation  with lualatex is HIGHLY version depen-
+dent, e.g., there was a big  change  between  TeXLive  2016  and
+TeXLive 2017.)
+
+To  keep  backward compatibility with older versions of latexmk,
+the default is to set \verb|$analyze_input_log_always| to 1.
+
+\begin{verbatim}
+	$auto_rc_use [1]
+\end{verbatim}
+
+Whether to automatically read the standard  initialization  (rc)
+files, which are the system RC file, the user's RC file, and the
+RC file in the current directory.  The command line option -norc
+can  be  used to turn this setting off.  Each RC file could also
+turn this setting off, i.e., it could set \verb|$auto_rc_use|  to  zero
+to prevent automatic reading of the later RC files.
+
+This  variable does not affect the reading of RC files specified
+on the command line by the -r option.
+
+\begin{verbatim}
+	$aux_dir [""]
+\end{verbatim}
+
+The directory in which auxiliary files (aux, log, etc) are to be
+written  by  a  run of (pdf)latex.  If this variable is not set,
+but \verb|$out_dir| is set, then \verb|$aux_dir| is set to \verb|$out_dir|, which  is
+the directory to which general output files are to be written.
+
+Important  note:   The  effect  of  \verb|$aux_dir|,  if different from
+\verb|$out_dir|, is achieved by giving (pdf)latex  the  -aux-directory.  Currently
+(Dec.  2011  and later) this only works on the MiKTeX version of (pdf)latex.
+
+See also the documentation of \verb|$out_dir| for some complications on what directory
+names are suitable.
+
+If  you also use the -cd option, and \verb|$out_dir| (or \verb|$aux_dir|) con-
+tains a relative path, then the path is interpreted relative  to
+the document directory.
+
+\begin{verbatim}
+	$banner [0]
+\end{verbatim}
+
+If  nonzero, the banner message is printed across each page when converting the
+dvi file to postscript.   Without  modifying  the variable  \verb|$banner_message|,
+this is equivalent to specifying the -d option.
+
+Note that if \verb|$banner| is nonzero, the \verb|$postscript_mode| is assumed
+and the postscript file is always generated, even if it is newer
+than the dvi file.
+
+\begin{verbatim}
+	$banner_intensity [0.95]
+\end{verbatim}
+
+Equivalent to the -bi option, this is a decimal number between 0
+and  1 that specifies how dark to print the banner message. 0 is
+black, 1 is white.  The default is just right if your toner car-
+tridge isn't running too low.
+
+\begin{verbatim}
+$banner_message ["DRAFT"]
+\end{verbatim}
+
+The banner message to print across each page when converting the
+dvi file to postscript.  This is equivalent to the -bm option.
+
+\begin{verbatim}
+	$banner_scale [220.0]
+\end{verbatim}
+
+A decimal number that specifies how  large  the  banner  message
+will  be printed.  Experimentation is necessary to get the right
+scale for your message, as a rule of thumb the scale  should  be
+about  equal  to 1100 divided by the number of characters in the
+message.  The Default is just right for  5  character  messages.
+This is equivalent to the -bs option.
+
+\begin{verbatim}
+	@BIBINPUTS
+\end{verbatim}
+
+This  is  an array variable, now mostly obsolete, that specifies
+directories where latexmk should look for .bib  files.   By  de-
+fault  it  is set from the BIBINPUTS environment variable of the
+operating system.  If that environment variable is  not  set,  a
+single  element list consisting of the current directory is set.
+The format of the directory names depends on your operating sys-
+tem, of course.  Examples for setting this variable are:
+
+\begin{verbatim}
+	@BIBINPUTS = ( ".", "C:\\bibfiles" );
+	@BIBINPUTS = ( ".", "\\server\bibfiles" );
+	@BIBINPUTS = ( ".", "C:/bibfiles" );
+	@BIBINPUTS = ( ".", "//server/bibfiles" );
+	@BIBINPUTS = ( ".", "/usr/local/texmf/bibtex/bib" );
+\end{verbatim}
+
+Note  that  under  MS  Windows,  either a forward slash \verb|"/"| or a
+backward slash \verb|"\"| can be used to separate pathname  components,
+so  the  first  two  and the second two examples are equivalent.
+Each backward slash should be doubled to avoid running afoul  of
+Perl's rules for writing strings.
+
+Important note: This variable is now mostly obsolete in the current version of
+latexmk, since it has a better method of searching  for  files  using  the
+kpsewhich command.  However, if your system is an unusual one without the
+kpsewhich command, you  may need to set the variable @BIBINPUTS.
+
+\begin{verbatim}
+	$biber ["biber %O %S"]
+\end{verbatim}
+
+The biber processing program.
+
+\begin{verbatim}
+	$biber_silent_switch ["--onlylog"]
+\end{verbatim}
+
+Switch(es)  for the biber processing program when silent mode is
+on.
+
+\begin{verbatim}
+	$bibtex ["bibtex %O %S"]
+\end{verbatim}
+
+The BibTeX processing program.
+
+\begin{verbatim}
+	$bibtex_fudge [1]
+\end{verbatim}
+
+When using bibtex, whether to take special action to allow  bib-
+tex  to  work  when  \verb|$out_dir|  or \verb|$aux_dir| is specified.  In May
+2018, there was planned an update to bibtex to  correct  a  bug,
+after  that  update,  the  special  action will no longer be re-
+quired.
+
+\begin{verbatim}
+	$bibtex_silent_switch ["-terse"]
+\end{verbatim}
+
+Switch(es) for the BibTeX processing program when silent mode is
+on.
+
+\begin{verbatim}
+	$bibtex_use [1]
+\end{verbatim}
+
+Under what conditions to run bibtex or biber.  When latexmk dis-
+covers from the log file that one (or more)  bibtex/biber-gener-
+ated  bibliographies  are used, it can run bibtex or biber when-
+ever it appears necessary to regenerate  the  bbl  file(s)  from
+their  source  bib  database  file(s).   But  sometimes, the bib
+file(s) are not available (e.g., for a document obtained from an
+external archive), but the bbl files are provided.  In that case
+use of bibtex or biber will result in incorrect  overwriting  of
+the  precious  bbl  files.   The  variable  \verb|$bibtex_use| controls
+whether this happens, and also  controls  whether  or  not  .bbl
+files are deleted in a cleanup operation.
+
+The possible values of \verb|$bibtex_use| are:
+
+\begin{itemize}
+\item 0:  never  use  BibTeX  or biber; never delete .bbl files in a cleanup.
+\item 1: only use bibtex or biber if  the  bib  files  exist;  never delete
+				.bbl files in a cleanup.
+
+\item 1.5:  only  use bibtex or biber if the bib files exist; condi- tionally
+				delete .bbl files in a cleanup (i.e., delete them  only when the bib
+								files all exist).
+
+\item 2: run bibtex or biber whenever it appears necessary to update the bbl
+				files, without testing for  the  existence  of  the  bib files; always
+								delete .bbl files in a cleanup.
+\end{itemize}
+
+Note  that  the value 1.5 does not work properly if the document
+uses biber instead of bibtex.  (There's a long story why not.)
+
+\begin{verbatim}
+	$cleanup_includes_cusdep_generated [0]
+\end{verbatim}
+
+If nonzero, specifies that cleanup also deletes files  that  are
+generated by custom dependencies.  (When doing a clean up, e.g.,
+by use of the -C option, custom dependencies are those listed in
+the \verb|.fdb_latexmk| file from a previous run.)
+
+\begin{verbatim}
+	$cleanup_includes_generated [0]
+\end{verbatim}
+
+If  nonzero,  specifies that cleanup also deletes files that are
+detected in the fls file (or failing that, in log file) as being
+generated.   It  will  also  include files made from these first
+generation generated files.
+
+This operation is somewhat dangerous, and  can  have  unintended
+consequences,  since the files to be deleted are determined from
+a file created by (pdf)latex, which can contain erroneous infor-
+mation.  Therefore  this  variable is turned off by default, and
+then files to be deleted are restricted to those explictly spec-
+ified   by  patterns  configured  in  the  variables  \verb|clean_ext|,
+\verb|clean_full_ext|, and \verb|@generated_exts|, together  with  those  very
+standard  cases  that  are  hardwired  into  latexmk (e.g., .log
+files).
+
+\begin{verbatim}
+	$cleanup_mode [0]
+\end{verbatim}
+
+If nonzero, specifies cleanup mode: 1 for full  cleanup,  2  for cleanup
+except  for .dvi, .ps and .pdf files, 3 for cleanup except for dep and aux
+files.  (There is also  extra  cleaning  as specified by the \verb|$clean_ext|,
+\verb|$clean_full_ext| and \verb|@generated_exts| variables.)
+
+This variable is equivalent to specifying one of the  -c  or  -C
+options.   But there should be no need to set this variable from
+an RC file.
+
+\begin{verbatim}
+	$clean_ext [""]
+\end{verbatim}
+
+Extra extensions of files for latexmk to remove when any of  the clean-up
+options  (-c  or  -C)  is selected.  The value of this variable is a string
+containing the extensions separated by spaces.
+
+It is also possible to specify a more general pattern of file to
+be deleted, by using the place holder \verb|%R|, as in commands, and it
+is also possible to use wildcards.  Thus setting
+
+\begin{verbatim}
+	$clean_ext  =  "out  %R-blx.bib  %R-figures*.log  pythontex- files-%R/*";
+\end{verbatim}
+
+in an initialization file will imply that when a clean-up opera-
+tion  is  specified,  not  only  is  the  standard  set of files
+deleted, but also files of the form  \verb|FOO.out|,  \verb|FOO-blx.bib|,  
+\verb|%R-figures*.log|,  and  \verb|pythontex-files-FOO/*|,  where FOO stands for
+the basename of the file being processed (as in FOO.tex).
+
+The files to be deleted are relative to the directory  specified
+by  \verb|$aux_dir|.   (Note  that if \verb|$out_dir| but not \verb|$aux_dir| is set,
+then in its  initialization,  latexmk  sets  \verb|$aux_dir|  equal  to
+\verb|$out_dir|.   A normal situation is therefore that \verb|$aux_dir| equals
+\verb|$out_dir|, which is the only case supported  by  TeXLive,  unlike
+MiKTeX.)
+
+The  filenames  specfied  for a clean-up operation can refer not
+only to regular files but also to directories.  Directories  are
+only deleted if they are empty.  An example of an application is
+to pythontex, which creates files  in  a  particular  directory.
+You  can  arrange  to remove both the files and the directory by
+setting
+
+\begin{verbatim}
+	$clean_ext = "pythontex-files-%R pythontex-files-%R";
+\end{verbatim}
+
+See also the variable \verb|@generated_exts|.
+
+\begin{verbatim}
+	$clean_full_ext [""]
+\end{verbatim}
+
+Extra extensions of files for latexmk to remove when the -C  option  is
+selected, i.e., extensions of files to remove when the .dvi, etc files are to
+be cleaned-up.
+
+More general patterns are allowed, as for \verb|$clean_ext|.
+
+The files specified by \verb|$clean_full_ext| to be deleted  are  relative to the
+directory specified by \verb|$out_dir|.
+
+
+\begin{verbatim}
+	$compiling_cmd [""], $failure_cmd [""], $warning_cmd [""], $success_cmd [""]
+\end{verbatim}
+
+These variables specify commands that are  executed  at  certain points  of
+compilations.  One motivation for their existance is to allow very useful
+convenient visual indications  of  compilation  status even when the window
+receiving the screen output of the compilation is hidden.  This is particularly
+useful in  preview-continuous mode.
+
+The  commands  are  executed  at  the following points: 
+
+\verb|$compiling_cmd| at the start of compilation, 
+
+\verb|$success_cmd| at the end  of
+a  completely successful compilation, 
+
+\verb|$failure_cmd| at the end of
+an unsuccessful compilation, \verb|$warning_cmd| at the of an otherwise
+successful compilation that gives warnings about undefined cita-
+tions or references or about multiply defined references. If any
+of  above  variables  is  undefined or blank (the default situa-
+tion), then the corresponding command is not executed.
+
+However, when \verb|$warning_cmd| is not set, then in  the  case  of  a
+compilation  with  warnings  about  references or citations, but
+with no other error, one or  other  of  \verb|$success_cmd|  or  \verb|$failure_cmd|  
+is  used  (if  it  is  set) according to the setting of
+\verb|$warnings_as_errors|.
+
+An example of a simple setting of these variables is as follows
+
+\begin{verbatim}
+	                  $compiling_cmd = "xdotool search  --name  \"%D\"  set_window
+	              --name \"%D compiling\"";
+	                  $success_cmd    =  "xdotool  search --name \"%D\" set_window
+	              --name \"%D OK\"";
+	                  $warning_cmd   = "xdotool search --name \"%D\" ".
+	                                   "set_window --name \"%D CITE/REF ISSUE\"";
+	                  $failure_cmd   = "xdotool search  --name  \"%D\"  set_window
+	              --name \"%D FAILURE\"";
+\end{verbatim}
+
+These  assume  that  the  program xdotool is installed, that the
+previewer is using an X-Window system for display, and that  the
+title  of the window contains the name of the displayed file, as
+it normally does.  When the commands are  executed,  the  place-
+holder  string  \verb|%D|  is  replaced  by the name of the destination
+file, which is the previewed file.  The above commands result in
+an appropriate string being appended to the filename in the win-
+dow title: " compiling", " OK", or " FAILURE".
+
+Other placeholders that can be used are \verb|%S|, \verb|%T|, and \verb|%R|, with  \verb|%S|
+and  \verb|%T| normally being identical. These can be useful for a com-
+mand changing the title of the edit window. The  visual  indica-
+tion  in a window title can useful, since the user does not have
+to keep shifting attention to the (possibly hidden)  compilation
+window to know the status of the compilation.
+
+More  complicated  situations  can best be handled by defining a
+Perl subroutine to invoke the necessary commands, and using  the
+"internal"  keyword  in the definitions to get the subroutine to
+be invoked.  (See the section "Format of Command Specifications"
+for how to do this.)
+
+Naturally,  the  above  settings that invoke the xdotool program
+are only applicable when the X-Window system  is  used  for  the
+relevant window(s).  For other cases, you will have to find what
+software solutions are available.
+
+
+\begin{verbatim}
+	@cus_dep_list [()]
+\end{verbatim}
+
+Custom dependency list -- see section on "Custom Dependencies".
+
+\begin{verbatim}
+	@default_excluded_files [()]
+\end{verbatim}
+
+When latexmk is invoked with no files specified on  the  command
+line, then, by default, it will process all files in the current
+directory with the extension .tex.  (In general, it will process
+the files specified in the \verb|@default_files| variable.)
+
+But sometimes you want to exclude particular files from this de-
+fault list.  In that case you can specify the excluded files  in
+the array \verb|@default_excluded_files|.  For example if you wanted to
+process all .tex files with the exception of  common.tex,  which
+is a not a standard alone LaTeX file but a file input by some or
+all of the others, you could do
+
+\begin{verbatim}
+	@default_files = ("*.tex");
+	
+	@default_excluded_files = ("common.tex");
+\end{verbatim}
+
+If you have a variable or large number of files to be processed,
+this method saves you from having to list them in detail in 
+\verb|@default_files| and having to update the list every time you  change
+the set of files to be processed.
+
+\paragraph{Notes:}
+
+\begin{itemize}
+	
+\item 1.  This variable has no effect except when no files are
+specified on the latexmk command line.  
+
+\item 2. Wildcards are allowed
+in \verb|@default_excluded_files|.
+\end{itemize}
+
+\begin{verbatim}
+	@default_files [("*.tex")]
+\end{verbatim}
+
+Default list of files to be processed.
+
+If  no filenames are specified on the command line, latexmk pro-
+cesses all tex files specified in the  \verb|@default_files|  variable,
+which  by  default is set to all tex files ("*.tex") in the cur-
+rent directory.  This is a convenience: just run latexmk and  it
+will  process  an  appropriate  set of files.  But sometimes you
+want only some of these files to be processed.  In this case you
+can  list the files to be processed by setting \verb|@default_files| in
+an initialization file (e.g., the file "latexmkrc" in  the  cur-
+rent  directory).  Then if no files are specified on the command
+line then the files you specify by  setting  \verb|@default_files|  are
+processed.
+
+Three examples:
+
+\begin{verbatim}
+	@default_files = ("paper_current");
+	
+	@default_files = ("paper1", "paper2.tex");
+	
+	@default_files = ("*.tex", "*.dtx");
+\end{verbatim}
+
+Note  that more than file may be given, and that the default ex-
+tension is ".tex".  Wild cards are allowed.  The parentheses are
+because \verb|@default_files| is an array variable, i.e., a sequence of
+filename specifications is possible.
+
+If you want latexmk to process all .tex files with a few  excep-
+tions, see the \verb|@default_excluded_files| array variable.
+
+\begin{verbatim}
+	$dependents_phony [0]
+\end{verbatim}
+
+If  a  list  of dependencies is output, this variable determines
+whether to include a phony target for each source file.  If  you
+use  the  dependents  list  in  a Makefile, the dummy rules work
+around errors make gives if you remove header files without  up-
+dating the Makefile to match.
+
+\begin{verbatim}
+	$dependents_list [0]
+\end{verbatim}
+
+Whether  to  display  a  list(s) of dependencies at the end of a
+run.
+
+\begin{verbatim}
+	$deps_file ["-"]
+\end{verbatim}
+
+Name of file to receive list(s) of dependencies at the end of  a run,  to be
+used if \verb|$dependesnt_list| is set.  If the filename is \verb|"-"|, then the dependency
+list is set to stdout  (i.e.,  normally the screen).
+
+\begin{verbatim}
+	$do_cd [0]
+\end{verbatim}
+
+Whether  to  change working directory to the directory specified for the main
+source file before processing it.  The default  behavior  is  not to do this,
+which is the same as the behavior of latex and pdflatex programs.  This
+variable is set  by  the  -cd and -cd- options on latexmk's command line.
+
+\begin{verbatim}
+	$dvi_filter [empty]
+\end{verbatim}
+
+The  dvi  file  filter  to be run on the newly produced dvi file before other
+processing.  Equivalent to specifying the  -dF  option.
+
+\begin{verbatim}
+	$dvi_mode [See below for default]
+\end{verbatim}
+
+If  nonzero, generate a dvi version of the document.  Equivalent
+to the \verb|-dvi| option.
+
+The variable \verb|$dvi_mode| defaults to 0, but  if  no  explicit  requests
+are made for other types of file (postscript, pdf), then \verb|$dvi_mode| will be set
+to 1.  In addition, if  a  request  for  a file  for  which  a  .dvi file is a
+prerequisite, then \verb|$dvi_mode| will be set to 1.
+
+\begin{verbatim}
+	$dvi_previewer ["start xdvi %O %S" under UNIX]
+\end{verbatim}
+
+The command to invoke a dvi-previewer.   [Under  MS-Windows  the
+default  is "start"; then latexmk arranges to use the MS-Windows
+start program, which will cause to be run whatever  command  the
+system has associated with .dvi files.]
+
+Important  note:  Normally you will want to have a previewer run
+detached, so that latexmk doesn't wait for the previewer to ter-
+minate  before continuing its work.  So normally you should pre-
+fix the command by "start ", which  flags  to  latexmk  that  it
+should  do  the  detaching  of the previewer itself (by whatever
+method is appropriate to the operating system).   But  sometimes
+letting latexmk do the detaching is not appropriate (for a vari-
+ety of non-trivial reasons), so you should put the "start "  bit
+in yourself, whenever it is needed.
+
+\begin{verbatim}
+	$dvi_previewer_landscape ["start xdvi %O %S"]
+\end{verbatim}
+
+The command to invoke a dvi-previewer in landscape mode.  [Under
+MS-Windows the default is "start"; then latexmk arranges to  use
+the  MS-Windows  start program, which will cause to be run what-
+ever command the system has associated with .dvi files.]
+
+\begin{verbatim}
+	$dvipdf ["dvipdf %O %S %D"]
+\end{verbatim}
+
+Command to convert .dvi to .pdf file.  A common  reconfiguration
+is  to  use  the dvipdfm command, which needs its arguments in a
+different order:
+
+\begin{verbatim}
+$dvipdf = "dvipdfm %O -o %D %S";
+\end{verbatim}
+
+WARNING: The default dvipdf  script  generates  pdf  files  with
+bitmapped fonts, which do not look good when viewed by acroread.
+That script should be modified to give  dvips  the  options  "-P
+pdf" to ensure that type 1 fonts are used in the pdf file.
+
+\begin{verbatim}
+	$dvipdf_silent_switch ["-q"]
+\end{verbatim}
+Switch(es) for dvipdf program when silent mode is on.
+
+N.B.  The  standard  dvipdf program runs silently, so adding the
+silent switch has no effect, but is actually innocuous.  But  if
+an  alternative program is used, e.g., dvipdfmx, then the silent
+switch has an  effect.   The  default  setting  is  correct  for
+dvipdfm and dvipdfmx.
+
+\begin{verbatim}
+	$dvips ["dvips %O -o %D %S"]
+\end{verbatim}
+
+The  program to used as a filter to convert a .dvi file to a .ps
+file.  If pdf is going to be generated from pdf, then the  value of  the
+\verb|$dvips_pdf_switch|  variable --- see below --- will be included in the
+options substituted for \verb|"%O"|.
+
+\begin{verbatim}
+	$dvips_landscape ["dvips -tlandscape %O -o %D %S"]
+\end{verbatim}
+
+The program to used as a filter to convert a .dvi file to a  .ps
+file in landscape mode.
+
+\begin{verbatim}
+	$dvips_pdf_switch ["-P pdf"]
+\end{verbatim}
+
+Switch(es)  for  dvips  program when pdf file is to be generated
+from .ps file.
+
+\begin{verbatim}
+	$dvips_silent_switch ["-q"] 
+\end{verbatim}
+
+Switch(es) for dvips program when silent mode is on.
+
+\begin{verbatim}
+	$dvi_update_command [""]
+\end{verbatim}
+
+When the dvi previewer is set to be updated by  running  a  command,  this is
+the command that is run.  See the information for the variable
+\verb|$dvi_update_method| for further information, and see information  on  the
+variable \verb|$pdf_update_method| for an example for the analogous case of a pdf
+previewer.
+
+\begin{verbatim}
+	$dvi_update_method [2 under UNIX, 1 under MS-Windows]
+\end{verbatim}
+
+How the dvi viewer updates its display when  the  dvi  file  has
+changed.    The  values  here  apply  equally  to  the  \verb|$pdf_update_method| and to the \verb|$ps_update_method| variables.
+
+\begin{itemize}
+\item 0 => update is automatic,
+\item 1 => manual update by user, which may only mean a mouse click on the
+				viewer's window or may mean a more serious action.
+
+\item 2  =>  Send  the  signal,  whose  number  is in the variable
+				\verb|$dvi_update_signal|.  The default value under  UNIX  is  suitable
+								for xdvi.
+
+\item 3  => Viewer cannot do an update, because it locks the file.  (As with
+				acroread under MS-Windows.)
+
+\item 4 => run a command to do the update. The command is  specified by the
+				variable \verb|$dvi_update_command|.
+\end{itemize}
+
+See  information on the variable \verb|$pdf_update_method| for an example of updating by command.
+
+\begin{verbatim}
+	$dvi_update_signal [Under UNIX: SIGUSR1, which  is  a  system-dependent value]
+\end{verbatim}
+
+The  number of the signal that is sent to the dvi viewer when it is updated by
+sending a signal --- see  the  information  on  the variable
+\verb|$dvi_update_method|.   The default value is the one appropriate for xdvi
+on a UNIX system.
+
+\begin{verbatim}
+	$failure_cmd [undefined]
+\end{verbatim}
+
+See the documentation for \verb|$compiling_cmd|.
+
+\begin{verbatim}
+	$fdb_ext ["fdb_latexmk"]
+\end{verbatim}
+
+The extension of the file which latexmk generates to  contain  a
+database  of information on source files.  You will not normally
+need to change this.
+
+\begin{verbatim}
+	$filetime_causality_threshold  [5];   
+	$filetime_offset_report_threshold [30]. 
+\end{verbatim}
+
+(Units of seconds.)
+
+These variables control how latexmk deals with the following issue, which can
+affect the use of files  that  are  on  a  remote filesystem (network share)
+instead of being on a file system local to the computer running latexmk.
+Almost users will not have to  worry about these settings, and can ignore the
+following ex- planation.
+
+In almost all situations, latexmk does not need to use the  time stamps  of the
+files it works with.  However, there are a couple of situations when it needs
+to know whether a certain  file  was created in the current run of a program
+(e.g., (pdf)latex) or is a leftover file from a previous run. It does this  by
+comparing the  modification time of the file with the system time just before
+the program was started. If the modification time  is  earlier  than  when
+the program was started, the file is a leftover file, which latexmk treats as
+if it were not  created.   If  the filetime  is at least the program start
+time, then it can be assumed that the file was created in the current run.
+
+Unfortunately, this test can fail if the file  is  on  a  remote system,  since
+its  system time is not necessarily synchronized with that of the local system;
+the  timestamps  on  the  remote files  are set by the remote system, not the
+local system.  Generally, modern operating  systems  regularly  synchronize
+their time  with  a server, so the non-synchronization is mostly small (a
+second or so, or a few seconds).  But even a small difference can mess up
+latexmk's test.
+
+Latexmk measures the time difference between the time on the two systems and
+compensates for this.  But  the  measurement  (in  a system-independent way) is
+only accurate to a second or two.  So latexmk allows for a threshold on the
+difference  between  file and  system  time  before it concludes that a file is
+a leftover file from a previous  run.  The  configuration  variable
+\verb|$filetime_causality_theshhold|,  which  in units of seconds, specifies
+this threshold.  Luckily high precision is not needed.  The pre- vious  run  is
+normally the previous run in a human run-edit-run cycle, and is at least many
+seconds  back.   A  few  seconds  is therefore   appropriate  for  the
+threshold,  \verb|$filetime_causality_theshhold|; it should be non-negative
+always, and  should  be bigger than 2 if a remote filesystem or network share
+is used.
+
+If  the  difference in system times on the two systems is large, it normally
+indicates that at least one of the systems  is  misconfigured.    The
+variable  \verb|$filetime_offset_report_threshold| specifies the smallest size of the
+difference  (or  offset)  in seconds  between the times of the local and remote
+system beyond which the offset is reported.  This is reported at the point  in
+the  latexmk's  progress that it measures the offset. The report is made if
+silent mode is used and diagnostic mode is not on.
+
+
+\begin{verbatim}
+	$force_mode [0]
+\end{verbatim}
+
+If nonzero, continue processing past minor latex errors  including unrecognized
+cross references.  Equivalent to specifying the -f option.
+
+\begin{verbatim}
+	@generated_exts [( aux , bbl , idx , ind , lof , lot  ,  out  ,  toc  , $fdb_ext )]
+\end{verbatim}
+
+This  contains a list of extensions for files that are generated
+during a LaTeX run and that are read in by LaTeX in later  runs,
+either directly or indirectly.
+
+This  list  specifies  files known to be generated by latex (and
+pdflatex, etc).  It is used in two ways: (a) The specified files
+are deleted in a cleanup operation (with the -c, -C, -CA, -g and
+-gg options), and (b) It affects the determination of whether  a
+rerun of (pdf)LaTeX is needed after a run that gives an error.
+
+(Concerning item (b): Normally, a change of a source file during
+a run should provoke a rerun.  This includes a file generated by
+LaTeX,  e.g.,  an  aux file, that is read in on subsequent runs.
+But after a run that results in an error, a new run  should  not
+occur  until  the  user has made a change in the files.  But the user may have
+corrected an error in a source  .tex  file  during the run.  So latexmk needs
+to distinguish user-generated and automatically generated files;  it
+determines  the  automatically generated  files as those with extensions in the
+list in \verb|@generated_exts|.)
+
+A convenient way to add an extra extension to the list,  without
+losing  the already defined ones is to use a push command in the
+line in an RC file.  E.g.,
+
+\begin{verbatim}
+	push @generated_exts, "end";
+\end{verbatim}
+
+adds the extension "end" to the list of predefined generated ex-
+tensions.   (This  extension  is used by the RevTeX package, for
+example.)
+
+\begin{verbatim}
+	$go_mode [0]
+\end{verbatim}
+
+If nonzero, process files regardless of timestamps, and is  then
+equivalent to the -g option.
+
+\begin{verbatim}
+	%hash_calc_ignore_pattern
+\end{verbatim}
+!!!This variable is for experts only!!!
+
+The  general rule latexmk uses for determining when an extra run
+of some program is needed is that one of the  source  files  has
+changed.   But  consider for example a latex package that causes
+an encapsulated postscript file (an "eps" file) to be made  that
+is  to  be read in on the next run.  The file contains a comment
+line giving its creation date and time.  On  the  next  run  the
+time  changes,  latex  sees  that  the eps file has changed, and
+therefore reruns latex.  This causes an infinite loop,  that  is
+only  terminated  because  latexmk  has a limit on the number of
+runs to guard against pathological situations.
+
+But the changing line has no real effect, since it is a comment.
+You can instruct latex to ignore the offending line as follows:
+
+\begin{verbatim}
+	$hash_calc_ignore_pattern{'eps'} = '^%%CreationDate: ';
+\end{verbatim}
+
+This creates a rule for files with extension .eps about lines to
+ignore.  The left-hand side is a Perl idiom for setting an  item
+in  a hash.  Note that the file extension is specified without a
+period.  The value, on the right-hand side, is a string contain-
+ing  a  regular expresssion.  (See documentation on Perl for how
+they are to be specified in general.)  This  particular  regular
+expression  specifies that lines beginning with "%%CreationDate:
+" are to be ignored in deciding whether a file of the given  ex-
+tension .eps has changed.
+
+There  is  only one regular expression available for each exten-
+sion.  If you need more one pattern to specify lines to  ignore,
+then  you need to combine the patterns into a single regular ex-
+pression.  The simplest method is separate the different  simple
+patterns  by  a vertical bar character (indicating "alternation"
+in the jargon of regular expressions).  For example,
+
+\begin{verbatim}
+	$hash_calc_ignore_pattern{'eps'} = '^%%CreationDate:  |^%%Title: ';
+\end{verbatim}
+
+causes lines starting with either \verb|"^%%CreationDate: " or "^%%Title: "| to be ignored.
+
+It may happen that a pattern to be ignored is specified in,  for
+example,  in  a system or user initialization file, and you wish
+to remove this in a file that is read later.  To  do  this,  you
+use Perl's delete function, e.g.,
+
+\begin{verbatim}
+	delete $hash_calc_ignore_pattern{'eps'};
+\end{verbatim}
+
+\begin{verbatim}
+	$jobname [""]
+\end{verbatim}
+
+This  specifies the jobname, i.e., the basename that is used for generated
+files (.aux, .log, .dvi, .ps,  .pdf,  etc).   If  this variable  is a null
+string, then the basename is the basename of the main tex file.  (At present,
+the string in  \verb|$jobname|  should not contain spaces.)
+
+The  placeholder  \verb|'%A'| is permitted. This will be substituted by
+the basename of the TeX file.  The primary  purpose  is  when  a
+variety  of tex files are to be processed, and you want to use a
+different jobname for each but one that is  distinct  for  each.
+Thus  if you wanted to compare compilations of a set of files on
+different operating systems, with distinct filenames for all the
+cases, you could set
+
+\begin{verbatim}
+	$jobname = "%A-$^O";
+\end{verbatim}
+
+in  an initialization file.  (Here \verb|$^O| is a variable provided by perl
+that contains perl's name for the operating system.)
+
+Suppose you had .tex files test1.tex and test2.tex.   Then  when you run
+
+\begin{verbatim}
+	latexmk -pdf *.tex
+\end{verbatim}
+
+both  files  will  be  compiled.  The .aux, .log, and .pdf files will have
+basenames test1-MSWin32 ante test2-MSWin32  on  a  MS- Windows system,
+test1-darwin and test2-darwin on an OS-X system, and a variety of similar cases
+on linux systems.
+
+
+\begin{verbatim}
+	$kpsewhich ["kpsewhich %S"]
+\end{verbatim}
+
+The program called to locate a source file when the  name  alone
+is  not  sufficient.  Most filenames used by latexmk have suffi-
+cient path information to be found directly.  But sometimes, no-
+tably when a .bib or a .bst file is found from the log file of a
+bibtex or biber run, only the base name of the  file  is  known,
+but not its path. The program specified by \verb|$kpsewhich| is used to
+find it.
+
+(For advanced users: Because of the different way in  which  la-
+texmk uses the command specified in \verb|$kpsewhich|, some of the pos-
+sibilities listed in the FORMAT OF COMMAND SPECIFICATIONS do not
+apply.   The  internal  and  start keywords are not available. A
+simple command specification with possible options and then \verb|"%S"|
+is  all  that  is  guaranteed to work.  Note that for other com-
+mands, \verb|"%S"| is substituted by a single source file. In contrast,
+for \verb|$kpsewhich|, \verb|"%S"| may be substituted by a long list of space-
+separated filenames, each of which is  quoted.   The  result  on
+STDOUT of running the command is then piped to latexmk.)
+
+See  also  the  \verb|@BIBINPUTS| variable for another way that latexmk
+also uses to try to locate files; it applies only in the case of
+.bib files.
 
 \begin{verbatim}
 	$kpsewhich_show [0]
@@ -955,15 +984,15 @@ extensions are 'tex' and 'eps'.
 (For  Perl experts: \verb|%latex_input_extensions| is a hash whose keys
 are the extensions.  The values are  irrelevant.)   Two  subrou-
 tines  are  provided for manipulating this and the related vari-
-able %pdflatex_input_extensions,  add_input_ext  and  remove_in-
-put_ext.   They are used as in the following examples are possi-
+able \verb|%pdflatex_input_extensions|,  \verb|add_input_ext|  
+and  \verb|remove_input_ext|.   They are used as in the following examples are possi-
 ble lines in an initialization file:
 
 \begin{verbatim}
 	remove_input_ext( 'latex', 'tex' );
 \end{verbatim}
 
-removes the extension 'tex' from latex_input_extensions
+removes the extension 'tex' from \verb|latex_input_extensions|
 
 \begin{verbatim}
 	add_input_ext( 'latex', 'asdf' );
@@ -1224,763 +1253,793 @@ command line for the program, e.g.,
 signment to \verb|$pdflatex| to allow the use of  lualatex  or  xelatex
 instead of pdflatex.  There are now separate configuration vari-
 ables for the use of lualatex or  xelatex.   See  \verb|$lualatex|  and
-$xelatex.)
+\verb|$xelatex|.)
 
 To do a coordinated setting of all of \verb|$latex|, \verb|$pdflatex|,
 \verb|$lualatex|, and \verb|$xelatex|, see the section "Advanced
 Configuration".
 
-       %pdflatex_input_extensions
-              This variable specifies the extensions tried by latexmk when  it
-              finds  that  a pdflatex run resulted in an error that a file has
-              not been found, and the file  is  given  without  an  extension.
-              This  typically  happens  when  LaTeX  commands of the form \in-
-              put{file} or \includegraphics{figure}, when the relevant  source
-              file does not exist.
-
-              In  this  situation, latexmk searches for custom dependencies to
-              make the missing file(s), but restricts  it  to  the  extensions
-              specified  by  the variable %pdflatex_input_extensions.  The de-
-              fault extensions are 'tex', 'pdf', 'jpg, and 'png'.
-
-              See details of the %latex_input_extensions for other information
-              that equally applies to %pdflatex_input_extensions.
-
-       $pdflatex_silent_switch ["-interaction=batchmode"]
-              Switch(es)  for  the pdflatex program (specified in the variable
-              $pdflatex) when silent mode is on.
-
-              See details of the $latex_silent_switch  for  other  information
-              that equally applies to $pdflatex_silent_switch.
-
-       $pdf_previewer ["start acroread %O %S"]
-              The command to invoke a pdf-previewer.
-
-              On  MS-Windows, the default is changed to "cmd /c start """; un-
-              der more recent versions of Windows, this will cause to  be  run
-              whatever command the system has associated with .pdf files.  But
-              this may be undesirable if this association is  to  acroread  --
-              see the notes in the explanation of the -pvc option.]
-
-              On  OS-X  the  default is changed to "open %S", which results in
-              OS-X starting up (and detaching) the viewer associated with  the
-              file.   By  default, for pdf files this association is to OS-X's
-              preview, which is quite satisfactory.
-
-              WARNING:  Problem under MS-Windows: if acroread is used  as  the
-              pdf  previewer,  and  it is actually viewing a pdf file, the pdf
-              file cannot be updated.  Thus makes acroread  a  bad  choice  of
-              previewer  if you use latexmk's previous-continuous mode (option
-              -pvc) under MS-windows.  This problem does not occur if, for ex-
-              ample, SumatraPDF or gsview is used to view pdf files.
-
-              Important  note:  Normally you will want to have a previewer run
-              detached, so that latexmk doesn't wait for the previewer to ter-
-              minate  before continuing its work.  So normally you should pre-
-              fix the command by "start ", which  flags  to  latexmk  that  it
-              should  do  the  detaching  of the previewer itself (by whatever
-              method is appropriate to the operating system).   But  sometimes
-              letting latexmk do the detaching is not appropriate (for a vari-
-              ety of non-trivial reasons), so you should put the "start "  bit
-              in yourself, whenever it is needed.
-
-       $pdf_update_command [""]
-              When  the  pdf  previewer is set to be updated by running a com-
-              mand, this is the command that is run.  See the information  for
-              the variable $pdf_update_method.
-
-       $pdf_update_method [1 under UNIX, 3 under MS-Windows]
-              How  the  pdf  viewer  updates its display when the pdf file has
-              changed. See the information on the variable  $dvi_update_method
-              for the codes.  (Note that information needs be changed slightly
-              so that for the value 4, to run a command to do the update,  the
-              command  is  specified  by the variable $pdf_update_command, and
-              for the value 2, to specify update  by  signal,  the  signal  is
-              specified by $pdf_update_signal.)
-
-              Note that acroread under MS-Windows (but not UNIX) locks the pdf
-              file, so the default value is then 3.
-              Arranging to use a command to get a previewer explicitly updated
-              requires three variables to be set.  For example:
-
-                  $pdf_previewer = "start xpdf -remote %R %O %S";
-                  $pdf_update_method = 4;
-                  $pdf_update_command = "xpdf -remote %R -reload";
-
-              The  first  setting  arranges for the xpdf program to be used in
-              its "remote server mode", with the server name specified as  the
-              rootname  of  the TeX file.  The second setting arranges for up-
-              dating to be done in response to a command, and the  third  set-
-              ting sets the update command.
-
-       $pdf_update_signal  [Under  UNIX:  SIGHUP,  which is a system-dependent
-       value]
-              The number of the signal that is sent to the pdf viewer when  it
-              is  updated  by  sending  a signal -- see the information on the
-              variable $pdf_update_method.  The default value is the  one  ap-
-              propriate for gv on a UNIX system.
-
-       $pid_position[1 under UNIX, -1 under MS-Windows]
-              The  variable  $pid_position  is  used  to specify which word in
-              lines of the output from $pscmd corresponds to the  process  ID.
-              The  first word in the line is numbered 0.  The default value of
-              1 (2nd word in line) is correct for Solaris 2.6, Linux, and OS-X
-              with their default settings of $pscmd.
-
-              Setting  the  variable  to -1 is used to indicate that $pscmd is
-              not to be used.
-
-       $postscript_mode [0]
-              If nonzero, generate  a  postscript  version  of  the  document.
-              Equivalent to the -ps option.
-
-              If  some  other  request  is made for which a postscript file is
-              needed, then $postscript_mode will be set to 1.
-
-       $pre_tex_code ['']
-
-              Sets TeX code to be executed before inputting the  source  file.
-              This  works  if the relevant one of $latex, etc contains a suit-
-              able command line with a %P or %U substitution.  For example you
-              could do
-
-                   $latex = 'latex %O %P';
-                   $pre_tex_code = '\AtBeginDocument{An initial message\par}';
-
-              To  set  all  of  $latex, $pdflatex, $lualatex, and $xelatex you
-              could use the subroutine alt_tex_cmds:
-
-                   &alt_tex_cmds;
-                   $pre_tex_code = '\AtBeginDocument{An initial message\par}';
-       $preview_continuous_mode [0]
-              If nonzero, run a previewer to view the document,  and  continue
-              running latexmk to keep .dvi up-to-date.  Equivalent to the -pvc
-              option.  Which previewer is run depends on the  other  settings,
-              see the command line options -view=, and the variable $view.
-
-       $preview_mode [0]
-              If nonzero, run a previewer to preview the document.  Equivalent
-              to the -pv option.  Which previewer is run depends on the  other
-              settings,  see the command line options -view=, and the variable
-              $view.
-
-       $printout_mode [0]
-              If nonzero, print the document using the  command  specified  in
-              the $lpr variable.  Equivalent to the -p option.  This is recom-
-              mended not to be set from an RC file, otherwise you could  waste
-              lots of paper.
-
-       $print_type = ["auto"]
-              Type  of  file  to  printout:  possibilities  are "auto", "dvi",
-              "none", "pdf", or "ps".   See the option -print= for the meaning
-              of the "auto" value.
+\begin{verbatim}
+	%pdflatex_input_extensions
+\end{verbatim}
+
+This variable specifies the extensions tried by latexmk when  it finds  that  a
+pdflatex run resulted in an error that a file has not been found, and the file
+is  given  without  an  extension.  This  typically  happens  when  LaTeX
+commands of the form \verb|\input{file}| or \verb|\includegraphics{figure}|,
+when the relevant  source file does not exist.
+
+In  this  situation, latexmk searches for custom dependencies to make the
+missing file(s), but restricts  it  to  the  extensions specified  by  the
+variable \verb|%pdflatex_input_extensions|.  The default extensions are 'tex',
+'pdf', 'jpg, and 'png'.
+
+See details of the \verb|%latex_input_extensions| for other information that equally
+applies to \verb|%pdflatex_input_extensions|.
+
+\begin{verbatim}
+	$pdflatex_silent_switch ["-interaction=batchmode"]
+\end{verbatim}
+
+Switch(es)  for  the pdflatex program (specified in the variable
+\verb|$pdflatex|) when silent mode is on.
+
+See details of the \verb|$latex_silent_switch|  for  other  information
+that equally applies to \verb|$pdflatex_silent_switch|.
+
+\begin{verbatim}
+	$pdf_previewer ["start acroread %O %S"]
+\end{verbatim}
+
+The command to invoke a pdf-previewer.
+
+On  MS-Windows, the default is changed to \verb|"cmd /c start """|; under more
+recent versions of Windows, this will cause to  be  run whatever command the
+system has associated with .pdf files.  But this may be undesirable if this
+association is  to  acroread  --- see the notes in the explanation of the -pvc
+option.]
+
+On  OS-X  the  default is changed to \verb|"open %S"|, which results in OS-X starting
+up (and detaching) the viewer associated with  the file.   By  default, for pdf
+files this association is to OS-X's preview, which is quite satisfactory.
+
+\paragraph{WARNING:}
+
+Problem under MS-Windows: if acroread is used  as  the pdf  previewer,  and  it
+is actually viewing a pdf file, the pdf file cannot be updated.  Thus makes
+acroread  a  bad  choice  of previewer  if you use latexmk's
+previous-continuous mode (option -pvc) under MS-windows.  This problem does not
+occur if, for example, SumatraPDF or gsview is used to view pdf files.
+
+\paragraph{Important  note:}
+
+Normally you will want to have a previewer run
+detached, so that latexmk doesn't wait for the previewer to ter-
+minate  before continuing its work.  So normally you should pre-
+fix the command by "start ", which  flags  to  latexmk  that  it
+should  do  the  detaching  of the previewer itself (by whatever
+method is appropriate to the operating system).   But  sometimes
+letting latexmk do the detaching is not appropriate (for a vari-
+ety of non-trivial reasons), so you should put the "start "  bit
+in yourself, whenever it is needed.
+
+\begin{verbatim}
+	$pdf_update_command [""]
+\end{verbatim}
+
+When  the  pdf  previewer is set to be updated by running a command, this is
+the command that is run.  See the information  for the variable
+\verb|$pdf_update_method|.
+
+\begin{verbatim}
+	$pdf_update_method [1 under UNIX, 3 under MS-Windows]
+\end{verbatim}
+
+How  the  pdf  viewer  updates its display when the pdf file has
+changed. See the information on the variable  \verb|$dvi_update_method|
+for the codes.  (Note that information needs be changed slightly
+so that for the value 4, to run a command to do the update,  the
+command  is  specified  by the variable \verb|$pdf_update_command|, and
+for the value 2, to specify update  by  signal,  the  signal  is
+specified by \verb|$pdf_update_signal|.)
+
+Note that acroread under MS-Windows (but not UNIX) locks the pdf
+file, so the default value is then 3.
+Arranging to use a command to get a previewer explicitly updated
+requires three variables to be set.  For example:
+
+\begin{verbatim}
+	$pdf_previewer = "start xpdf -remote %R %O %S";
+	$pdf_update_method = 4;
+	$pdf_update_command = "xpdf -remote %R -reload";
+\end{verbatim}
+
+The  first  setting  arranges for the xpdf program to be used in
+its "remote server mode", with the server name specified as  the
+rootname  of  the TeX file.  The second setting arranges for up-
+dating to be done in response to a command, and the  third  set-
+ting sets the update command.
+
+\begin{verbatim}
+	$pdf_update_signal  [Under  UNIX:  SIGHUP,  which is a system-dependent value]
+\end{verbatim}
+
+The number of the signal that is sent to the pdf viewer when  it
+is  updated  by  sending  a signal --- see the information on the variable
+\verb|$pdf_update_method|.  The default value is the  one  appropriate for gv
+on a UNIX system.
+
+\begin{verbatim}
+	$pid_position[1 under UNIX, -1 under MS-Windows]
+\end{verbatim}
+
+The  variable  \verb|$pid_position|  is  used  to specify which word in
+lines of the output from \verb|$pscmd| corresponds to the  process  ID.
+The  first word in the line is numbered 0.  The default value of
+1 (2nd word in line) is correct for Solaris 2.6, Linux, and OS-X
+with their default settings of \verb|$pscmd|.
+
+Setting  the  variable  to -1 is used to indicate that \verb|$pscmd| is
+not to be used.
+
+\begin{verbatim}
+	$postscript_mode [0]
+\end{verbatim}
+
+If nonzero, generate  a  postscript  version  of  the  document.
+Equivalent to the -ps option.
+
+If  some  other  request  is made for which a postscript file is
+needed, then \verb|$postscript_mode| will be set to 1.
+
+\begin{verbatim}
+	$pre_tex_code ['']
+\end{verbatim}
+
+Sets TeX code to be executed before inputting the  source  file.
+This  works  if the relevant one of \verb|$latex|, etc contains a suit-
+able command line with a \verb|%P| or \verb|%U| substitution.  For example you
+could do
+
+\begin{verbatim}
+	$latex = 'latex %O %P';
+	$pre_tex_code = '\AtBeginDocument{An initial message\par}';
+\end{verbatim}
+
+To  set  all  of  \verb|$latex|, \verb|$pdflatex|, \verb|$lualatex|, and
+\verb|$xelatex| you could use the subroutine \verb|alt_tex_cmds|:
+
+\begin{verbatim}
+	&alt_tex_cmds;
+	$pre_tex_code = '\AtBeginDocument{An initial message\par}';
+\end{verbatim}
+
+\begin{verbatim}
+	$preview_continuous_mode [0]
+\end{verbatim}
+
+If nonzero, run a previewer to view the document,  and  continue
+running latexmk to keep .dvi up-to-date.  Equivalent to the -pvc
+option.  Which previewer is run depends on the  other  settings,
+see the command line options \verb|-view=|, and the variable \verb|$view|.
+
+\begin{verbatim}
+	$preview_mode [0]
+\end{verbatim}
+
+If nonzero, run a previewer to preview the document.  Equivalent
+to the -pv option.  Which previewer is run depends on the  other
+settings,  see the command line options -view=, and the variable
+\verb|$view|.
+
+\begin{verbatim}
+	$printout_mode [0]
+\end{verbatim}
+
+If nonzero, print the document using the  command  specified  in
+the \verb|$lpr| variable.  Equivalent to the -p option.  This is recom-
+mended not to be set from an RC file, otherwise you could  waste
+lots of paper.
+
+\begin{verbatim}
+	$print_type = ["auto"]
+\end{verbatim}
+
+Type  of  file  to  printout:  possibilities  are "auto", "dvi",
+"none", "pdf", or "ps".   See the option -print= for the meaning
+of the "auto" value.
+
+\begin{verbatim}
+	$pscmd 
+\end{verbatim}
+
+Command used to get all the processes currently run by the user.
+The -pvc option uses  the  command  specified  by  the  variable
+\verb|$pscmd|  to  determine  if there is an already running previewer,
+and to find the process ID (needed if latexmk  needs  to  signal
+the previewer about file changes).
+
+Each line of the output of this command is assumed to correspond
+to one process.  See the  \verb|$pid_position|  variable  for  how  the
+process number is determined.
+
+The  default  for  pscmd  is  "NONE" under MS-Windows and cygwin
+(i.e., the command is not used), \verb|"ps -ww  -u  $ENV{USER}"|  under
+OS-X,  and  \verb|"ps  -f -u $ENV{USER}"| under other operating systems
+(including Linux).  In these specifications \verb|"$ENV{USER}"| is sub-
+stituted by the username.
+
+\begin{verbatim}
+	$ps2pdf ["ps2pdf %O %S %D"]
+\end{verbatim}
+
+Command to convert .ps to .pdf file.
+
+\begin{verbatim}
+	$ps_filter [empty]
+\end{verbatim}
+
+The postscript file filter to be run on the newly produced post-
+script file before other processing.  Equivalent  to  specifying
+the -pF option.
+
+\begin{verbatim}
+	$ps_previewer ["start gv %O %S", but start %O %S under MS-Windows]
+\end{verbatim}
+
+The  command  to  invoke a ps-previewer.  (The default under MS-
+Windows will cause to be run whatever command the system has as-
+sociated with .ps files.)
+
+Note  that  gv  could be used with the -watch option updates its
+display whenever the postscript file changes, whereas  ghostview
+does  not.  However, different versions of gv have slightly dif-
+ferent ways of writing this  option.   You  can  configure  this
+variable appropriately.
+
+WARNING: Linux systems may have installed one (or more) versions
+of gv under different names, e.g.,  ggv,  kghostview,  etc,  but
+perhaps not one actually called gv.
+
+Important  note:  Normally you will want to have a previewer run
+detached, so that latexmk doesn't wait for the previewer to ter-
+minate  before continuing its work.  So normally you should pre-
+fix the command by "start ", which  flags  to  latexmk  that  it
+should  do  the  detaching  of the previewer itself (by whatever
+method is appropriate to the operating system).   But  sometimes
+letting latexmk do the detaching is not appropriate (for a vari-
+ety of non-trivial reasons), so you should put the "start "  bit
+in yourself, whenever it is needed.
+
+\begin{verbatim}
+	$ps_previewer_landscape  ["start gv -swap %O %S", but start %O %S under MS-Windows]
+\end{verbatim}
+
+The command to invoke a ps-previewer in landscape mode.
+
+\begin{verbatim}
+	$ps_update_command [""]
+\end{verbatim}
+
+When the postscript previewer is set to be updated by running  a
+command,  this  is the command that is run.  See the information
+for the variable \verb|$ps_update_method|.
+
+\begin{verbatim}
+	$ps_update_method [0 under UNIX, 1 under MS-Windows]
+\end{verbatim}
+
+How the postscript viewer updates its display when the .ps  file
+has  changed.  See  the  information  on  the  variable \verb|$dvi_update_method| for the codes.
+
+(Note  that  information  needs  be
+changed slightly so that for the value 4, to run a command to do
+the update, the command is specified  by  the  variable  \verb|$ps_update_command|,  
+and for the value 2, to specify update by signal,
+the signal is specified by \verb|$ps_update_signal|.)
+
+\begin{verbatim}
+	$ps_update_signal [Under UNIX:  SIGHUP,  which  is  a  system-dependent value]
+\end{verbatim}
+
+The  number of the signal that is sent to the pdf viewer when it
+is updated by sending a signal --  see  \verb|$ps_update_method|.   The
+default value is the one appropriate for gv on a UNIX system.
+
+\begin{verbatim}
+	$pvc_timeout [0]
+\end{verbatim}
+
+If  this  variable  is  nonzero, there will be a  timeout in pvc
+mode after a period of inactivity.  Inactivity  means  a  period
+when  latexmk  has  detected  no  file changes and hence has not
+taken any actions like compiling the document. The period of in-
+activity is in the variable \verb|$pvc_timeout_mins|.
+
+\begin{verbatim}
+	$pvc_timeout_mins [30]
+\end{verbatim}
+
+The period of inactivity, in minutes, after which pvc mode times
+out.  This is used if \verb|$pvc_timeout| is nonzero.
+
+\begin{verbatim}
+	$pvc_view_file_via_temporary [1]
+\end{verbatim}
+
+The same as \verb|$always_view_file_via_temporary|, except that it only
+applies in preview-continuous mode (-pvc option).
+
+\begin{verbatim}
+	$quote_filenames [1]
+\end{verbatim}
+
+This specifies whether substitutions for placeholders in command specifications
+(as  in  \verb|$pdflatex|)  are  surrounded  by  double quotes.   If this
+variable is 1 (or any other value Perl regards as true), then quoting is done.
+Otherwise quoting is omitted.
+
+The quoting method used by latexmk is tested to  work  correctly under  UNIX
+systems (including Linux and Mac OS-X) and under MS- Windows.  It allows the
+use  of  filenames  containing  special characters, notably spaces.  (But note
+that many versions of latex and pdflatex cannot correctly  deal  with  TeX
+files  whose names  contain spaces.  Latexmk's quoting only ensures that such
+filenames are correctly treated by the operating system in pass- ing arguments
+to programs.)
+
+\begin{verbatim}
+	$recorder [1]
+\end{verbatim}
+
+Whether  to  use the -recorder option to latex and pdflatex. Use
+of this option results in a file of extension .fls containing  a
+list  of  the  files  that these programs have read and written.
+Latexmk will then use this file  to  improve  its  detection  of
+source  files and generated files after a run of latex or pdfla-
+tex.
+
+It is generally recommended to use this option (or to  configure the \verb|$recorder|
+variable to be on.)  But it only works if (pdf)latex supports the -recorder
+option, which is true for  most  cur- rent implementations
+
+Note  about  the  name of the .fls file: Most implementations of (pdf)latex
+produce an .fls file with the same  basename  as  the main  document's LaTeX,
+e.g., for Document.tex, the .fls file is Document.fls.  However,  some
+implementations  instead  produce files  named  for  the program, i.e.,
+latex.fls or pdflatex.fls.  In this second case, latexmk  copies  the
+latex.fls  or  pdfla- tex.fls  to a file with the basename of the main LaTeX
+document, e.g., Document.fls.
+
+\begin{verbatim}
+	$search_path_separator [See below for default]
+\end{verbatim}
+
+The character separating paths in the environment variables TEX-
+INPUTS,  BIBINPUTS, and BSTINPUTS.  This variable is mainly used
+by latexmk when the -outdir, -output-directory, -auxdir,  and/or
+-aux-directory  options are used.  In that case latexmk needs to
+communicate  appropriately  modified  search  paths  to  bibtex,
+dvipdf, dvips, and (pdf)latex.
+
+[Comment  to technically savvy readers: (pdf)latex doesn't actu-
+ally need the modified search path.  But,  surprisingly,  dvipdf
+and  dvips do, because sometimes graphics files get generated in
+the output or aux directories.]
+
+The default under MSWin and Cygwin is ';'  and  under  UNIX-like
+operating  systems  (including Linux and OS-X) is ':'.  Normally
+the defaults give correct behavior.  But there can be  difficul-
+ties  if  your operating system is of one kind, but some of your
+software is running under an emulator for the other kind of  op-
+erating  system;  in  that  case you'll need to find out what is
+needed, and set \verb|$search_path_separator|  explicitly.   (The  same
+goes,  of  course, for unusual operating systems that are not in
+the MSWin, Linux, OS-X, Unix collection.)
+
+\begin{verbatim}
+	$show_time [0]
+\end{verbatim}
+
+Whether to show CPU time used.
+
+\begin{verbatim}
+	$silence_logfile_warnings [0]
+\end{verbatim}
+
+Whether after a run of (pdf)latex to summarize warnings  in  the log file about
+undefined citations and references.  Setting \verb|$silence_logfile_warnings=0|
+gives the summary of warnings (provided silent  mode isn't also set), and this
+is useful to locate unde- fined citations and references  without  searching
+through  the much  more  verbose log file or the screen output of (pdf)latex.
+But the summary can also be excessively annoying.   The  default is  not  to
+give these warnings.  The command line options
+\verb|-silence_logfile_warning_list|  and
+\verb|-silence_logfile_warning_list-| also set this variable.
+
+Note  that multiple occurrences for the same undefined object on the same page
+and same line will be compressed to a single warning.
+
+\begin{verbatim}
+	$silent [0]
+\end{verbatim}
+
+Whether  to run silently.  Setting \verb|$silent| to 1 has the same effect as
+the \verb|-quiet| of \verb|-silent| options on the command line.
+
+\begin{verbatim}
+	$sleep_time [2]
+\end{verbatim}
+
+The time to sleep (in seconds) between checking for source  file changes when
+running with the -pvc option.  This is subject to a minimum of one second
+delay, except that zero delay is also  allowed.
+
+A  value  of  exactly 0 gives no delay, and typically results in
+100% CPU usage, which may not be desirable.
+
+\begin{verbatim}
+	$texfile_search [""]
+\end{verbatim}
+
+This is an obsolete variable,  replaced  by  the  \verb|@default_files|
+variable.
+
+For   backward   compatibility,  if  you  choose  to  set
+\verb|$texfile_search|, it is a string of  space-separated  filenames,  and
+then latexmk replaces \verb|@default_files| with the filenames in
+\verb|$texfile_search| to which is added "*.tex".
+
+\begin{verbatim}
+	$success_cmd [undefined]
+\end{verbatim}
+
+See the documentation for \verb|$compiling_cmd|.
+
+\begin{verbatim}
+	$tmpdir [See below for default]
+\end{verbatim}
+
+Directory to store temporary files  that  latexmk  may  generate
+while running.
+
+The  default  under MSWindows (including cygwin), is to set \verb|$tmpdir| to
+the value of the first of whichever of the system  environment  variables
+TMPDIR or TEMP exists, otherwise to the current directory.  Under other
+operating systems (expected  to  be UNIX/Linux,  including  OS-X),  the
+default is the value of the system environment  variable  TMPDIR  if  it
+exists,  otherwise \verb|"/tmp"|.
+
+\begin{verbatim}
+	$use_make_for_missing_files [0]
+\end{verbatim}
+
+Whether to use make to try and make files that are missing after
+a run of latex or pdflatex, and for which  a  custom  dependency
+has  not been found.  This is generally useful only when latexmk
+is used as part of a bigger project which is built by using  the
+make program.
+
+Note that once a missing file has been made, no further calls to
+make will be made on a subsequent run of latexmk to  update  the
+file.   Handling  this  problem is the job of a suitably defined
+Makefile.  See the section "USING latexmk WITH make" for how  to
+do  this.   The intent of calling make from latexmk is merely to
+detect dependencies.
+
+\begin{verbatim}
+	$view ["default"]
+\end{verbatim}
+
+Which kind of file is to be previewed if a  previewer  is  used.
+The  possible  values  are  "default",  "dvi", "ps", "pdf".  The
+value of "default" means that the "highest" of the kinds of file
+generated is to be used (among .dvi, .ps and .pdf).
+
+\begin{verbatim}
+	$warnings_as_errors [0]
+\end{verbatim}
+
+Normally  latexmk copies the behavior of latex in treating undefined
+references and citations and multiply  defined  references as  conditions  that
+give a warning but not an error.  The variable \verb|$warnings_as_errors|
+controls whether this behavior is modified.
+
+When  the  variable  is  non-zero, latexmk at the end of its run will return a
+non-zero status code to the  operating  system  if any  of  the files processed
+gives a warning about problems with citations or references (i.e., undefined
+citations or references or multiply defined references).  This is after latexmk
+has com- pleted all the runs it needs to try and resolve  references  and
+citations.   Thus  \verb|$warnings_as_errors|  being nonzero causes latexmk to treat
+such warnings as errors, but only when they occur on  the last run of
+(pdf)latex and only after processing is complete.  A non-zero value
+\verb|$warnings_as_errors| can be set  by  the command-line option \verb|-Werror|.
+
+The default behavior is normally satisfactory in the usual edit-compile-edit
+cycle.  But, for example, latexmk can also be  used
+as  part  of  a build process for some bigger project, e.g., for
+creating documentation in the build of a  software  application.
+Then  it is often sensible to treat citation and reference warn-
+ings as errors that require the  overall  build  process  to  be
+aborted.   Of course, since multiple runs of (pdf)latex are gen-
+erally needed to resolve references and citations, what  matters
+is  not  the  warnings on the first run, but the warnings on the
+last run; latexmk takes this into account appropriately.
+
+In addition, when preview-continuous mode is  used,  a  non-zero
+value  for  \verb|$warnings_as_errors|  changes the use of the commands
+\verb|$failure_cmd|, \verb|$warning_cmd|, and \verb|$success_cmd|  after  a
+compliation.  If there are citation or reference warnings, but no other errors,
+the behavior is as follows. If \verb|$warning_cmd| is  set,  it is  used.  If
+it is not set, then then if \verb|$warnings_as_errors| is non-zero and
+\verb|$failure_cmd| is set, then \verb|$failure_cmd|.   Otherwise
+\verb|$success_cmd|  is used, if it is set.  (The foregoing explanation is
+rather complicated, because latexmk has to deal with the case that one or more
+of the commands isn't set.)
+
+\begin{verbatim}
+	$xdvipdfmx ["xdvipdfmx -E -o %D %O %S"]
+\end{verbatim}
+
+The  program  to  make a pdf file from an xdv file (used in con-
+junction with xelatex when \verb|$pdf_mode=5|).
+
+\begin{verbatim}
+	$xdvipdfmx_silent_switch ["-q"]
+\end{verbatim}
+
+Switch(es) for the xdvipdfmx program when silent mode is on.
+
+\begin{verbatim}
+	$xelatex ["xelatex %O %S"]
+\end{verbatim}
+
+Specifies the command line for the LaTeX processing  program  of
+when  the  xelatex program is called for.  See the documentation
+of the -xelatex option for some special properties of  latexmk's
+use of xelatex.
+
+Note  about xelatex: latexmk uses xelatex to make an .xdv rather
+than .pdf file, with the .pdf file being created in  a  separate
+step.  This is enforced by the use of the -no-pdf option.  If \verb|%O|
+is part of the command for invoking xelatex, then  latexmk  will
+insert the -no-pdf option automatically, otherwise you must pro-
+vide the option yourself.  See the documentation for the  -pdfxe
+option for why latexmk makes a .xdv file rather than a .pdf file
+when xelatex is used.
+
+To do a coordinated setting of all of \verb|$latex|, \verb|$pdflatex|, \verb|$lualatex|, 
+and \verb|$xelatex|, see the section "Advanced Configuration".
+
+\begin{verbatim}
+	%xelatex_input_extensions
+\end{verbatim}
+
+This  variable specifies the extensions tried by latexmk when it
+finds that an xelatex run resulted in an error that a  file  has
+not  been  found,  and  the  file is given without an extension.
+This typically happens when LaTeX  commands  of  the  form  \verb|\input{file}|  or \verb|\includegraphics{figure}|, when the relevant source
+file does not exist.
+
+In this situation, latexmk searches for custom  dependencies  to
+make  the  missing  file(s),  but restricts it to the extensions specified by
+the variable  \verb|%xelatex_input_extensions|.   The  default extensions are
+'tex', 'pdf', 'jpg, and 'png'.
+
+See details of the \verb|%latex_input_extensions| for other information
+that equally applies to \verb|%xelatex_input_extensions|.
+
+\begin{verbatim}
+	$xelatex_silent_switch ["-interaction=batchmode"]
+\end{verbatim}
+
+Switch(es) for the xelatex program (specified  in  the  variable
+\verb|$xelatex|) when silent mode is on.
+
+See  details  of  the \verb|$latex_silent_switch| for other information
+that equally applies to \verb|$xelatex_silent_switch|.
+
+\section{CUSTOM DEPENDENCIES}
+
+In any RC file a set of custom dependencies can be set up to convert  a file
+with one extension to a file with another.  An example use of this would be to
+allow latexmk to convert a .fig file to .eps to be included in the .tex file.
+
+Defining a custom dependency:
+
+The old method of configuring latexmk to use a custom dependency was to
+directly manipulate the \verb|@cus_dep_list| array that  contains  information
+defining  the  custom  dependencies.   (See  the section "Old Method of
+Defining Custom Dependencies" for details.) This  method  still  works,
+but is no longer preferred.
+
+A better method is to use the subroutines that allow convenient manipu-
+lations of the custom dependency list.  These are
+
+\begin{verbatim}
+	add_cus_dep( fromextension, toextension, must, subroutine )
+	remove_cus_dep( fromextension, toextension )
+	show_cus_dep()
+\end{verbatim}
+
+The arguments are as follows:
+
+\begin{itemize}
+       \item from extension:
+							The extension of the file we are converting from  (e.g.  "fig").
+							It is specified without a period.
+
+       \item to extension:
+							The extension of the file we are converting to (e.g. "eps").  It
+							is specified without a period.
+
+			 \item must:  If non-zero, the file from which we are converting  must
+							 exist, if  it doesn't exist latexmk will give an error message
+							 and exit unless the -f option is specified.  If must is zero and
+							 the file we  are  converting from doesn't exist, then no action
+							 is taken.  Generally, the appropriate value of must is zero.
+
+       \item function:
+							The name of the subroutine that latexmk should call  to  perform
+							the  file  conversion.   The first argument to the subroutine is
+							the base name of the file to be converted without any extension.
+							The  subroutines  are declared in the syntax of Perl.  The func-
+							tion should return 0 if it was successful and a  nonzero  number
+							if it failed.
+\end{itemize}
+
+Naturally  \verb|add_cus_dep| adds a custom dependency with the specified from
+and to extensions.  If a custom dependency has been previously  defined
+(e.g.,  in an rcfile that was read earlier), then it is replaced by the
+new one.
+
+The subroutine \verb|remove_cus_dep| removes the specified custom  dependency.
+The subroutine \verb|show_cus_dep| causes a list of the currently defined
+custom dependencies to be sent to the screen output.
+
+How custom dependencies are used:
+
+An instance of a custom dependency rule is created whenever latexmk detects
+that a run of latex/pdflatex needs to read a file, like a graphics file, whose
+extension is the to-extension of a  custom  dependency.  Then  latexmk examines
+whether  a file exists with the same name, but with the corresponding
+from-extension, as specified in  the  custom-dependency.   If it does, then a
+corresponding instance of the custom dependency is created, after which the
+rule is invoked whenever the  destination  file  (the one with the
+to-extension) is out-of-date with respect to the corresponding source file.
+
+To make the new destination file, the Perl subroutine specified in  the
+rule is invoked, with an argument that is the base name of the files in
+question.  Simple cases just involve a subroutine invoking an  external
+program;  this  can  be  done by following the templates below, even by
+those without knowledge of the Perl programming language.   Of  course,
+experts could do something much more elaborate.
+
+One  item  in the specification of each custom-dependency rule, labeled
+"must" above, specifies how the rule should be applied when the  source
+file fails to exist.
+
+When  latex reports that an input file (e.g., a graphics file) does not
+exist, latexmk tries to find a source file and a custom dependency that
+can be used to make it.  If it succeeds, then it creates an instance of
+the custom dependency and invokes it to make the  missing  file,  after
+which the next pass of latex etc will be able to read the newly created
+file.
+
+Note for advanced usage: The operating  system's  environment  variable
+TEXINPUTS can be used to specify a search path for finding files by latex
+etc.  Correspondingly, when a missing  file  is  reported,  latexmk looks  in
+the directories specified in TEXINPUTS as well as in the current directory,
+to find a source file from which an instance of a  custom dependency can be
+used to make the missing file.
+
+Function to implement custom dependency, traditional method:
+
+The  function  that implements a custom dependency gets the information on the
+files to be processed in two ways.  The first is through its one argument;  the
+argument contains the base name of the source and destination files.  The
+second way is described later.
+
+A simple and typical example of code in an initialization rcfile  using
+the first method is:
+
+\begin{verbatim}
+	add_cus_dep( 'fig', 'eps', 0, 'fig2eps' );
+	sub fig2eps {
+		system( "fig2dev -Leps \"$_[0].fig\" \"$_[0].eps\"" );
+	}
+\end{verbatim}
+
+The  first  line adds a custom dependency that converts a file with extension
+"fig", as created by the xfig program, to an encapsulated post-script  file,
+with extension "eps".  The remaining lines define a sub- routine that carries
+out the conversion.   If  a  rule  for  converting "fig"  to  "eps"  files
+already exists (e.g., from a previously read-in initialization file), the
+latexmk will delete this rule  before  making the new one.
+
+Suppose  latexmk  is  using this rule to convert a file \verb|"figure.fig"| to
+\verb|"figure.eps"|.  Then it will invoke the fig2eps  subroutine  defined  in the
+above  code with a single argument "figure", which is the basename of each of
+the files (possibly with a path component).   This  argument is  referred to by
+Perl as \verb|$_[0]|.  In the example above, the subroutine uses the Perl command
+system to invoke the program\verb| fig2dev|.  The double quotes around the string are
+a Perl idiom that signify that each string of the form of a variable name,
+\verb|$_[0]| in this case, is  to  be  substituted by its value.
+
+If  the  return  value of the subroutine is non-zero, then latexmk will assume
+an error occurred during the execution of  the  subroutine.   In the  above
+example, no explicit return value is given, and instead the return value is the
+value returned by the last  (and  only)  statement, i.e., the invocation of
+system, which returns the value 0 on success.
+
+If  you use pdflatex instead of latex, then you will probably prefer to convert
+your graphics files to pdf format, in which case you would replace the above
+code in an initialization file by
+
+\begin{verbatim}
+	add_cus_dep( 'fig', 'pdf, 0, 'fig2pdf' );
+	sub fig2pdf {
+		system( "fig2dev -Lpdf \"$_[0].fig\" \"$_[0].pdf\"" );
+	}
+\end{verbatim}
+
+\paragraph{Note  1:}
+
+In the command lines given in the system commands in the above
+examples, double quotes  have  been  inserted  around  the  file  names
+(implemented  by \verb|'\"'| in the Perl language).  They immunize the running
+of the program against special characters  in  filenames.   Very  often
+these  quotes  are not necessary, i.e., they can be omitted.  But it is
+normally safer to keep them in.  Even though the rules for quoting vary
+between  operating  systems,  command  shells  and individual pieces of
+software, the quotes in the above examples do not cause problems in the
+cases I have tested.
+
+\paragraph{Note  2:}
+
+One  case in which the quotes are important is when the files
+are in a subdirectory and your operating system is  Microsoft  Windows.
+Then  the  separator character for directory components can be either a forward
+slash \verb|'/'| or Microsoft's more usual backward slash  \verb|'\'|.   Forward
+slashes  are  generated  by  latexmk, to maintain its sanity from software like
+MiKTeX that mixes both directory  separators;  but  their correct use normally
+requires quoted filenames.  (See a log file from a run of MiKTeX (at least in
+v. 2.9) for an example of the  use  of  both directory separators.)
+
+\paragraph{Note  3:}
+
+The subroutines implementing custom dependencies in the examples given just
+have  a  single  line  invoking  an  external  program.  That's  the usual
+situation.  But since the subroutines are in the Perl language, you can
+implement much more  complicated  processing  if  you need it.
+
+
+Removing custom dependencies, and when you might need to do this:
+
+If  you  have some general custom dependencies defined in the system or user
+initialization file, you may find that for  a  particular  project they  are
+undesirable.  So you might want to delete the unneeded ones.  A situation where
+this would be desirable is where there  are  multiple custom  dependencies with
+the same from-extension or the same to-extension. In that case, latexmk might
+choose a different one from  the  one you want for a specific project.  As an
+example, to remove any "fig" to "eps" rule you would use:
+
+\begin{verbatim}
+	remove_cus_dep( 'fig', 'eps' );
+\end{verbatim}
+
+If you have complicated sets of custom dependencies, you  may  want  to
+get  a  listing  of the custom dependencies.  This is done by using the
+line
+
+\begin{verbatim}
+	show_cus_dep();
+\end{verbatim}
+
+in an initialization file.
+
+
+Function implementing custom dependency, alternative methods:
 
-       $pscmd Command used to get all the processes currently run by the user.
-              The -pvc option uses  the  command  specified  by  the  variable
-              $pscmd  to  determine  if there is an already running previewer,
-              and to find the process ID (needed if latexmk  needs  to  signal
-              the previewer about file changes).
-
-              Each line of the output of this command is assumed to correspond
-              to one process.  See the  $pid_position  variable  for  how  the
-              process number is determined.
-
-              The  default  for  pscmd  is  "NONE" under MS-Windows and cygwin
-              (i.e., the command is not used), "ps -ww  -u  $ENV{USER}"  under
-              OS-X,  and  "ps  -f -u $ENV{USER}" under other operating systems
-              (including Linux).  In these specifications "$ENV{USER}" is sub-
-              stituted by the username.
-
-       $ps2pdf ["ps2pdf %O %S %D"]
-              Command to convert .ps to .pdf file.
-
-       $ps_filter [empty]
-              The postscript file filter to be run on the newly produced post-
-              script file before other processing.  Equivalent  to  specifying
-              the -pF option.
-
-       $ps_previewer ["start gv %O %S", but start %O %S under MS-Windows]
-              The  command  to  invoke a ps-previewer.  (The default under MS-
-              Windows will cause to be run whatever command the system has as-
-              sociated with .ps files.)
-
-              Note  that  gv  could be used with the -watch option updates its
-              display whenever the postscript file changes, whereas  ghostview
-              does  not.  However, different versions of gv have slightly dif-
-              ferent ways of writing this  option.   You  can  configure  this
-              variable appropriately.
-
-              WARNING: Linux systems may have installed one (or more) versions
-              of gv under different names, e.g.,  ggv,  kghostview,  etc,  but
-              perhaps not one actually called gv.
-
-              Important  note:  Normally you will want to have a previewer run
-              detached, so that latexmk doesn't wait for the previewer to ter-
-              minate  before continuing its work.  So normally you should pre-
-              fix the command by "start ", which  flags  to  latexmk  that  it
-              should  do  the  detaching  of the previewer itself (by whatever
-              method is appropriate to the operating system).   But  sometimes
-              letting latexmk do the detaching is not appropriate (for a vari-
-              ety of non-trivial reasons), so you should put the "start "  bit
-              in yourself, whenever it is needed.
-
-
-       $ps_previewer_landscape  ["start gv -swap %O %S", but start %O %S under
-       MS-Windows]
-              The command to invoke a ps-previewer in landscape mode.
-
-       $ps_update_command [""]
-              When the postscript previewer is set to be updated by running  a
-              command,  this  is the command that is run.  See the information
-              for the variable $ps_update_method.
-
-       $ps_update_method [0 under UNIX, 1 under MS-Windows]
-              How the postscript viewer updates its display when the .ps  file
-              has  changed.  See  the  information  on  the  variable $dvi_up-
-              date_method for the codes.   (Note  that  information  needs  be
-              changed slightly so that for the value 4, to run a command to do
-              the update, the command is specified  by  the  variable  $ps_up-
-              date_command,  and for the value 2, to specify update by signal,
-              the signal is specified by $ps_update_signal.)
-
-       $ps_update_signal [Under UNIX:  SIGHUP,  which  is  a  system-dependent
-       value]
-              The  number of the signal that is sent to the pdf viewer when it
-              is updated by sending a signal --  see  $ps_update_method.   The
-              default value is the one appropriate for gv on a UNIX system.
-
-       $pvc_timeout [0]
-              If  this  variable  is  nonzero, there will be a  timeout in pvc
-              mode after a period of inactivity.  Inactivity  means  a  period
-              when  latexmk  has  detected  no  file changes and hence has not
-              taken any actions like compiling the document. The period of in-
-              activity is in the variable $pvc_timeout_mins.
-
-
-       $pvc_timeout_mins [30]
-              The period of inactivity, in minutes, after which pvc mode times
-              out.  This is used if $pvc_timeout is nonzero.
-
-
-
-                                 17 April 2020                              55
-
-
-
-
-
-
-
-
-       $pvc_view_file_via_temporary [1]
-              The same as $always_view_file_via_temporary, except that it only
-              applies in preview-continuous mode (-pvc option).
-
-       $quote_filenames [1]
-              This specifies whether substitutions for placeholders in command
-              specifications  (as  in  $pdflatex)  are  surrounded  by  double
-              quotes.   If this variable is 1 (or any other value Perl regards
-              as true), then quoting is done.  Otherwise quoting is omitted.
-
-              The quoting method used by latexmk is tested to  work  correctly
-              under  UNIX systems (including Linux and Mac OS-X) and under MS-
-              Windows.  It allows the  use  of  filenames  containing  special
-              characters, notably spaces.  (But note that many versions of la-
-              tex and pdflatex cannot correctly  deal  with  TeX  files  whose
-              names  contain spaces.  Latexmk's quoting only ensures that such
-              filenames are correctly treated by the operating system in pass-
-              ing arguments to programs.)
-
-       $recorder [1]
-              Whether  to  use the -recorder option to latex and pdflatex. Use
-              of this option results in a file of extension .fls containing  a
-              list  of  the  files  that these programs have read and written.
-              Latexmk will then use this file  to  improve  its  detection  of
-              source  files and generated files after a run of latex or pdfla-
-              tex.
-
-              It is generally recommended to use this option (or to  configure
-              the $recorder variable to be on.)  But it only works if (pdf)la-
-              tex supports the -recorder option, which is true for  most  cur-
-              rent implementations
-
-              Note  about  the  name of the .fls file: Most implementations of
-              (pdf)latex produce an .fls file with the same  basename  as  the
-              main  document's LaTeX, e.g., for Document.tex, the .fls file is
-              Document.fls.  However,  some  implementations  instead  produce
-              files  named  for  the program, i.e., latex.fls or pdflatex.fls.
-              In this second case, latexmk  copies  the  latex.fls  or  pdfla-
-              tex.fls  to a file with the basename of the main LaTeX document,
-              e.g., Document.fls.
-
-       $search_path_separator [See below for default]
-              The character separating paths in the environment variables TEX-
-              INPUTS,  BIBINPUTS, and BSTINPUTS.  This variable is mainly used
-              by latexmk when the -outdir, -output-directory, -auxdir,  and/or
-              -aux-directory  options are used.  In that case latexmk needs to
-              communicate  appropriately  modified  search  paths  to  bibtex,
-              dvipdf, dvips, and (pdf)latex.
-
-              [Comment  to technically savvy readers: (pdf)latex doesn't actu-
-              ally need the modified search path.  But,  surprisingly,  dvipdf
-              and  dvips do, because sometimes graphics files get generated in
-              the output or aux directories.]
-
-
-
-
-                                 17 April 2020                              56
-
-
-
-
-
-
-
-
-              The default under MSWin and Cygwin is ';'  and  under  UNIX-like
-              operating  systems  (including Linux and OS-X) is ':'.  Normally
-              the defaults give correct behavior.  But there can be  difficul-
-              ties  if  your operating system is of one kind, but some of your
-              software is running under an emulator for the other kind of  op-
-              erating  system;  in  that  case you'll need to find out what is
-              needed, and set $search_path_separator  explicitly.   (The  same
-              goes,  of  course, for unusual operating systems that are not in
-              the MSWin, Linux, OS-X, Unix collection.)
-
-       $show_time [0]
-              Whether to show CPU time used.
-
-       $silence_logfile_warnings [0]
-              Whether after a run of (pdf)latex to summarize warnings  in  the
-              log file about undefined citations and references.  Setting $si-
-              lence_logfile_warnings=0 gives the summary of warnings (provided
-              silent  mode isn't also set), and this is useful to locate unde-
-              fined citations and references  without  searching  through  the
-              much  more  verbose log file or the screen output of (pdf)latex.
-              But the summary can also be excessively annoying.   The  default
-              is  not  to  give these warnings.  The command line options -si-
-              lence_logfile_warning_list  and   -silence_logfile_warning_list-
-              also set this variable.
-
-              Note  that multiple occurrences for the same undefined object on
-              the same page and same line will be compressed to a single warn-
-              ing.
-
-       $silent [0]
-              Whether  to run silently.  Setting $silent to 1 has the same ef-
-              fect as the -quiet of -silent options on the command line.
-
-       $sleep_time [2]
-              The time to sleep (in seconds) between checking for source  file
-              changes when running with the -pvc option.  This is subject to a
-              minimum of one second delay, except that zero delay is also  al-
-              lowed.
-
-              A  value  of  exactly 0 gives no delay, and typically results in
-              100% CPU usage, which may not be desirable.
-
-       $texfile_search [""]
-              This is an obsolete variable,  replaced  by  the  @default_files
-              variable.
-
-              For   backward   compatibility,  if  you  choose  to  set  $tex-
-              file_search, it is a string of  space-separated  filenames,  and
-              then latexmk replaces @default_files with the filenames in $tex-
-              file_search to which is added "*.tex".
-
-       $success_cmd [undefined]
-              See the documentation for $compiling_cmd.
-
-
-
-
-                                 17 April 2020                              57
-
-
-
-
-
-
-
-
-       $tmpdir [See below for default]
-              Directory to store temporary files  that  latexmk  may  generate
-              while running.
-
-              The  default  under MSWindows (including cygwin), is to set $tm-
-              pdir to the value of the first of whichever of the system  envi-
-              ronment  variables  TMPDIR or TEMP exists, otherwise to the cur-
-              rent directory.  Under other operating systems (expected  to  be
-              UNIX/Linux,  including  OS-X),  the  default is the value of the
-              system environment  variable  TMPDIR  if  it  exists,  otherwise
-              "/tmp".
-
-       $use_make_for_missing_files [0]
-              Whether to use make to try and make files that are missing after
-              a run of latex or pdflatex, and for which  a  custom  dependency
-              has  not been found.  This is generally useful only when latexmk
-              is used as part of a bigger project which is built by using  the
-              make program.
-
-              Note that once a missing file has been made, no further calls to
-              make will be made on a subsequent run of latexmk to  update  the
-              file.   Handling  this  problem is the job of a suitably defined
-              Makefile.  See the section "USING latexmk WITH make" for how  to
-              do  this.   The intent of calling make from latexmk is merely to
-              detect dependencies.
-
-       $view ["default"]
-              Which kind of file is to be previewed if a  previewer  is  used.
-              The  possible  values  are  "default",  "dvi", "ps", "pdf".  The
-              value of "default" means that the "highest" of the kinds of file
-              generated is to be used (among .dvi, .ps and .pdf).
-
-
-       $warnings_as_errors [0]
-              Normally  latexmk copies the behavior of latex in treating unde-
-              fined references and citations and multiply  defined  references
-              as  conditions  that give a warning but not an error.  The vari-
-              able $warnings_as_errors controls whether this behavior is modi-
-              fied.
-
-              When  the  variable  is  non-zero, latexmk at the end of its run
-              will return a non-zero status code to the  operating  system  if
-              any  of  the files processed gives a warning about problems with
-              citations or references (i.e., undefined citations or references
-              or multiply defined references).  This is after latexmk has com-
-              pleted all the runs it needs to try and resolve  references  and
-              citations.   Thus  $warnings_as_errors  being nonzero causes la-
-              texmk to treat such warnings as errors, but only when they occur
-              on  the last run of (pdf)latex and only after processing is com-
-              plete.  A non-zero value $warnings_as_errors can be set  by  the
-              command-line option -Werror.
-
-              The default behavior is normally satisfactory in the usual edit-
-              compile-edit cycle.  But, for example, latexmk can also be  used
-
-
-
-                                 17 April 2020                              58
-
-
-
-
-
-
-
-
-              as  part  of  a build process for some bigger project, e.g., for
-              creating documentation in the build of a  software  application.
-              Then  it is often sensible to treat citation and reference warn-
-              ings as errors that require the  overall  build  process  to  be
-              aborted.   Of course, since multiple runs of (pdf)latex are gen-
-              erally needed to resolve references and citations, what  matters
-              is  not  the  warnings on the first run, but the warnings on the
-              last run; latexmk takes this into account appropriately.
-
-              In addition, when preview-continuous mode is  used,  a  non-zero
-              value  for  $warnings_as_errors  changes the use of the commands
-              $failure_cmd, $warning_cmd, and $success_cmd  after  a  complia-
-              tion.  If there are citation or reference warnings, but no other
-              errors, the behavior is as follows. If $warning_cmd is  set,  it
-              is  used.  If it is not set, then then if $warnings_as_errors is
-              non-zero and $failure_cmd is set, then $failure_cmd.   Otherwise
-              $success_cmd  is used, if it is set.  (The foregoing explanation
-              is rather complicated, because latexmk has to deal with the case
-              that one or more of the commands isn't set.)
-
-
-       $xdvipdfmx ["xdvipdfmx -E -o %D %O %S"]
-
-              The  program  to  make a pdf file from an xdv file (used in con-
-              junction with xelatex when $pdf_mode=5).
-
-       $xdvipdfmx_silent_switch ["-q"]
-              Switch(es) for the xdvipdfmx program when silent mode is on.
-
-       $xelatex ["xelatex %O %S"]
-              Specifies the command line for the LaTeX processing  program  of
-              when  the  xelatex program is called for.  See the documentation
-              of the -xelatex option for some special properties of  latexmk's
-              use of xelatex.
-
-              Note  about xelatex: latexmk uses xelatex to make an .xdv rather
-              than .pdf file, with the .pdf file being created in  a  separate
-              step.  This is enforced by the use of the -no-pdf option.  If %O
-              is part of the command for invoking xelatex, then  latexmk  will
-              insert the -no-pdf option automatically, otherwise you must pro-
-              vide the option yourself.  See the documentation for the  -pdfxe
-              option for why latexmk makes a .xdv file rather than a .pdf file
-              when xelatex is used.
-
-              To do a coordinated setting of all of $latex, $pdflatex, $luala-
-              tex, and $xelatex, see the section "Advanced Configuration".
-
-
-       %xelatex_input_extensions
-              This  variable specifies the extensions tried by latexmk when it
-              finds that an xelatex run resulted in an error that a  file  has
-              not  been  found,  and  the  file is given without an extension.
-              This typically happens when LaTeX  commands  of  the  form  \in-
-              put{file}  or \includegraphics{figure}, when the relevant source
-
-
-
-                                 17 April 2020                              59
-
-
-
-
-
-
-
-
-              file does not exist.
-
-              In this situation, latexmk searches for custom  dependencies  to
-              make  the  missing  file(s),  but restricts it to the extensions
-              specified by the variable  %xelatex_input_extensions.   The  de-
-              fault extensions are 'tex', 'pdf', 'jpg, and 'png'.
-
-              See details of the %latex_input_extensions for other information
-              that equally applies to %xelatex_input_extensions.
-
-       $xelatex_silent_switch ["-interaction=batchmode"]
-              Switch(es) for the xelatex program (specified  in  the  variable
-              $xelatex) when silent mode is on.
-
-              See  details  of  the $latex_silent_switch for other information
-              that equally applies to $xelatex_silent_switch.
-
-
-
-
-CUSTOM DEPENDENCIES
-       In any RC file a set of custom dependencies can be set up to convert  a
-       file with one extension to a file with another.  An example use of this
-       would be to allow latexmk to convert a .fig file to .eps to be included
-       in the .tex file.
-
-
-   Defining a custom dependency:
-       The old method of configuring latexmk to use a custom dependency was to
-       directly manipulate the @cus_dep_list array that  contains  information
-       defining  the  custom  dependencies.   (See  the section "Old Method of
-       Defining Custom Dependencies" for details.) This  method  still  works,
-       but is no longer preferred.
-
-       A better method is to use the subroutines that allow convenient manipu-
-       lations of the custom dependency list.  These are
-
-           add_cus_dep( fromextension, toextension, must, subroutine )
-           remove_cus_dep( fromextension, toextension )
-           show_cus_dep()
-
-       The arguments are as follows:
-
-       from extension:
-              The extension of the file we are converting from  (e.g.  "fig").
-              It is specified without a period.
-
-       to extension:
-              The extension of the file we are converting to (e.g. "eps").  It
-              is specified without a period.
-
-       must:  If non-zero, the file from which we are converting  must  exist,
-              if  it doesn't exist latexmk will give an error message and exit
-              unless the -f option is specified.  If must is zero and the file
-
-
-
-                                 17 April 2020                              60
-
-
-
-
-
-
-
-
-              we  are  converting from doesn't exist, then no action is taken.
-              Generally, the appropriate value of must is zero.
-
-       function:
-              The name of the subroutine that latexmk should call  to  perform
-              the  file  conversion.   The first argument to the subroutine is
-              the base name of the file to be converted without any extension.
-              The  subroutines  are declared in the syntax of Perl.  The func-
-              tion should return 0 if it was successful and a  nonzero  number
-              if it failed.
-
-
-       Naturally  add_cus_dep adds a custom dependency with the specified from
-       and to extensions.  If a custom dependency has been previously  defined
-       (e.g.,  in an rcfile that was read earlier), then it is replaced by the
-       new one.
-
-       The subroutine remove_cus_dep removes the specified custom  dependency.
-       The subroutine show_cus_dep causes a list of the currently defined cus-
-       tom dependencies to be sent to the screen output.
-
-
-   How custom dependencies are used:
-       An instance of a custom dependency rule is created whenever latexmk de-
-       tects  that a run of latex/pdflatex needs to read a file, like a graph-
-       ics file, whose extension is the to-extension of a  custom  dependency.
-       Then  latexmk  examines  whether  a file exists with the same name, but
-       with the corresponding from-extension, as specified in  the  custom-de-
-       pendency.   If it does, then a corresponding instance of the custom de-
-       pendency is created, after which the rule is invoked whenever the  des-
-       tination  file  (the one with the to-extension) is out-of-date with re-
-       spect to the corresponding source file.
-
-       To make the new destination file, the Perl subroutine specified in  the
-       rule is invoked, with an argument that is the base name of the files in
-       question.  Simple cases just involve a subroutine invoking an  external
-       program;  this  can  be  done by following the templates below, even by
-       those without knowledge of the Perl programming language.   Of  course,
-       experts could do something much more elaborate.
-
-       One  item  in the specification of each custom-dependency rule, labeled
-       "must" above, specifies how the rule should be applied when the  source
-       file fails to exist.
-
-       When  latex reports that an input file (e.g., a graphics file) does not
-       exist, latexmk tries to find a source file and a custom dependency that
-       can be used to make it.  If it succeeds, then it creates an instance of
-       the custom dependency and invokes it to make the  missing  file,  after
-       which the next pass of latex etc will be able to read the newly created
-       file.
-
-       Note for advanced usage: The operating  system's  environment  variable
-       TEXINPUTS can be used to specify a search path for finding files by la-
-       tex etc.  Correspondingly, when a missing  file  is  reported,  latexmk
-
-
-
-                                 17 April 2020                              61
-
-
-
-
-
-
-
-
-       looks  in the directories specified in TEXINPUTS as well as in the cur-
-       rent directory, to find a source file from which an instance of a  cus-
-       tom dependency can be used to make the missing file.
-
-
-   Function to implement custom dependency, traditional method:
-       The  function  that implements a custom dependency gets the information
-       on the files to be processed in two ways.  The first is through its one
-       argument;  the argument contains the base name of the source and desti-
-       nation files.  The second way is described later.
-
-       A simple and typical example of code in an initialization rcfile  using
-       the first method is:
-
-           add_cus_dep( 'fig', 'eps', 0, 'fig2eps' );
-           sub fig2eps {
-               system( "fig2dev -Leps \"$_[0].fig\" \"$_[0].eps\"" );
-           }
-
-       The  first  line adds a custom dependency that converts a file with ex-
-       tension "fig", as created by the xfig program, to an encapsulated post-
-       script  file,  with extension "eps".  The remaining lines define a sub-
-       routine that carries out the conversion.   If  a  rule  for  converting
-       "fig"  to  "eps"  files already exists (e.g., from a previously read-in
-       initialization file), the latexmk will delete this rule  before  making
-       the new one.
-
-       Suppose  latexmk  is  using this rule to convert a file "figure.fig" to
-       "figure.eps".  Then it will invoke the fig2eps  subroutine  defined  in
-       the  above  code with a single argument "figure", which is the basename
-       of each of the files (possibly with a path component).   This  argument
-       is  referred to by Perl as $_[0].  In the example above, the subroutine
-       uses the Perl command system to invoke the program fig2dev.  The double
-       quotes around the string are a Perl idiom that signify that each string
-       of the form of a variable name, $_[0] in this case, is  to  be  substi-
-       tuted by its value.
-
-       If  the  return  value of the subroutine is non-zero, then latexmk will
-       assume an error occurred during the execution of  the  subroutine.   In
-       the  above  example, no explicit return value is given, and instead the
-       return value is the value returned by the last  (and  only)  statement,
-       i.e., the invocation of system, which returns the value 0 on success.
-
-       If  you use pdflatex instead of latex, then you will probably prefer to
-       convert your graphics files to pdf format, in which case you would  re-
-       place the above code in an initialization file by
-
-           add_cus_dep( 'fig', 'pdf, 0, 'fig2pdf' );
-           sub fig2pdf {
-               system( "fig2dev -Lpdf \"$_[0].fig\" \"$_[0].pdf\"" );
-           }
-
-       Note  1: In the command lines given in the system commands in the above
-       examples, double quotes  have  been  inserted  around  the  file  names
-
-
-
-                                 17 April 2020                              62
-
-
-
-
-
-
-
-
-       (implemented  by '\"' in the Perl language).  They immunize the running
-       of the program against special characters  in  filenames.   Very  often
-       these  quotes  are not necessary, i.e., they can be omitted.  But it is
-       normally safer to keep them in.  Even though the rules for quoting vary
-       between  operating  systems,  command  shells  and individual pieces of
-       software, the quotes in the above examples do not cause problems in the
-       cases I have tested.
-
-       Note  2:  One  case in which the quotes are important is when the files
-       are in a subdirectory and your operating system is  Microsoft  Windows.
-       Then  the  separator character for directory components can be either a
-       forward slash '/' or Microsoft's more usual backward slash  '\'.   For-
-       ward  slashes  are  generated  by  latexmk, to maintain its sanity from
-       software like MiKTeX that mixes both directory  separators;  but  their
-       correct use normally requires quoted filenames.  (See a log file from a
-       run of MiKTeX (at least in v. 2.9) for an example of the  use  of  both
-       directory separators.)
-
-       Note  3:  The subroutines implementing custom dependencies in the exam-
-       ples given just have  a  single  line  invoking  an  external  program.
-       That's  the usual situation.  But since the subroutines are in the Perl
-       language, you can implement much more  complicated  processing  if  you
-       need it.
-
-
-   Removing custom dependencies, and when you might need to do this:
-       If  you  have some general custom dependencies defined in the system or
-       user initialization file, you may find that for  a  particular  project
-       they  are  undesirable.  So you might want to delete the unneeded ones.
-       A situation where this would be desirable is where there  are  multiple
-       custom  dependencies with the same from-extension or the same to-exten-
-       sion. In that case, latexmk might choose a different one from  the  one
-       you want for a specific project.  As an example, to remove any "fig" to
-       "eps" rule you would use:
-
-           remove_cus_dep( 'fig', 'eps' );
-
-       If you have complicated sets of custom dependencies, you  may  want  to
-       get  a  listing  of the custom dependencies.  This is done by using the
-       line
-
-           show_cus_dep();
-
-       in an initialization file.
-
-
-   Function implementing custom dependency, alternative methods:
 So far the examples for functions to implement custom dependencies have
 used the argument of the function to specify the base name of converted
 file.  This method has been available since very old  versions  of  la-
@@ -2007,21 +2066,23 @@ command  \verb|"\newindex{special}{ndx}{nnd}{Special index}"|  you  will need to
 latexmk to convert files with the extension .ndx to .nnd.  The most
 elementary method is to  define  a  custom dependency as follows:
 
-           add_cus_dep( 'ndx', 'nnd', 0, 'ndx2nnd' );
-           sub ndx2nnd {
-               return system( "makeindex -o \"$_[0].nnd\" \"$_[0].ndx\"" );
-           }
-           push @generated_exts, 'ndx', 'nnd';
+\begin{verbatim}
+	add_cus_dep( 'ndx', 'nnd', 0, 'ndx2nnd' );
+	sub ndx2nnd {
+		return system( "makeindex -o \"$_[0].nnd\" \"$_[0].ndx\"" );
+	}
+	push @generated_exts, 'ndx', 'nnd';
+\end{verbatim}
 
-       Notice  the  added line compared with earlier examples.  The extra line
-       gets the extensions "ndx" and "nnd" added to the list of extensions for
-       generated files; then the extra index files will be deleted by clean-up
-       operations
+Notice  the  added line compared with earlier examples.  The extra line
+gets the extensions "ndx" and "nnd" added to the list of extensions for
+generated files; then the extra index files will be deleted by clean-up
+operations
 
-       But if you have yet more indexes with yet different  extensions,  e.g.,
-       "adx"  and  "and", then you will need a separate function for each pair
-       of extensions.  This is quite annoying.   You  can  use  the  Run_subst
-       function to simplify the definitions to use a single function:
+But if you have yet more indexes with yet different  extensions,  e.g.,
+"adx"  and  "and", then you will need a separate function for each pair
+of extensions.  This is quite annoying.   You  can  use  the  \verb|Run_subst|
+function to simplify the definitions to use a single function:
 
 \begin{verbatim}
   add_cus_dep( 'ndx', 'nnd', 0, 'dx2nd' );
@@ -2043,7 +2104,7 @@ You could also instead use
   push @generated_exts, 'ndx', 'nnd', 'adx', 'and';
 \end{verbatim}
 
-This  last example uses the command specification in $makeindex, and so
+This  last example uses the command specification in \verb|$makeindex|, and so
 any customization you have made for the standard index also applies  to
 your extra indexes.
 
@@ -2062,140 +2123,154 @@ file, etc) that changes on each new run, then you will have a  problem.
 For  real experts: See the \verb|%hash_cal_ignore_pattern| if you have to deal
 with such problems.
 
-   Old Method of Defining Custom Dependencies:
-       In much older versions of latexmk, the only method of  defining  custom
-       dependencies  was  to directly manipulate the table of custom dependen-
-       cies.  This is contained in the @cus_dep_list array.  It is an array of
-       strings,  and each string in the array has four items in it, each sepa-
-       rated by a space, the  from-extension,  the  to-extension,  the  "must"
-       item,  and the name of the subroutine for the custom dependency.  These
-       were all defined above.
+Old Method of Defining Custom Dependencies:
 
-       An example of the old method of defining custom dependencies is as fol-
-       lows.  It  is  the code in an RC file to ensure automatic conversion of
-       .fig files to .eps files:
+In much older versions of latexmk, the only method of  defining  custom
+dependencies  was  to directly manipulate the table of custom dependencies.
+This is contained in the \verb|@cus_dep_list| array.  It is an array of strings,  and
+each string in the array has four items in it, each separated by a space, the
+from-extension,  the  to-extension,  the  "must" item,  and the name of the
+subroutine for the custom dependency.  These were all defined above.
 
-           push @cus_dep_list, "fig eps 0 fig2eps";
-           sub fig2eps {
-               return system( "fig2dev -Lps \"$_[0].fig\" \"$_[0].eps\"" );
-           }
+An example of the old method of defining custom dependencies is as follows.  It
+is  the code in an RC file to ensure automatic conversion of \verb|.fig| files
+to \verb|.eps| files:
 
-       This method still works, and is almost equivalent  to  the  code  given
-       earlier  that used the add_cus_dep subroutine.  However, the old method
-       doesn't delete any previous custom-dependency for the same  conversion.
-       So the new method is preferable.
+\begin{verbatim}
+	push @cus_dep_list, "fig eps 0 fig2eps";
+	sub fig2eps {
+		return system( "fig2dev -Lps \"$_[0].fig\" \"$_[0].eps\"" );
+	}
+\end{verbatim}
+
+This method still works, and is almost equivalent  to  the  code  given
+earlier  that used the \verb|add_cus_dep| subroutine.  However, the old method
+doesn't delete any previous custom-dependency for the same  conversion.
+So the new method is preferable.
+
+\section{ADVANCED CONFIGURATION:}
+
+\subsection{Some extra resources and advanced tricks}
+
+For  most purposes, simple configuration for latexmk along the lines of
+the examples given is sufficient.  But  sometimes  you  need  something
+harder.   In this section, I indicate some extra possibilities.  Gener-
+ally to use these, you need to be fluent in the  Perl  language,  since
+this is what is used in the rc files.
+
+See  also the section DEALING WITH ERRORS, PROBLEMS, ETC.  See also the
+examples in the directory \verb|example_rcfiles| in the latexmk distributions.
+Even if none of the examples apply to your case, they may give you useful ideas
+
+\subsubsection{Utility subroutines}
+
+\begin{verbatim}
+	ensure_path( var, values ...)
+\end{verbatim}
+
+The first parameter is the name of one of the system's  environment  variables
+for search paths.  The remaining parameters are values that should be in the
+variable.  For each  of  the  value parameters,  if  it  isn't  already  in the
+variable, then it is prepended to the variable; in that case the environment
+variable is  created  if it doesn't already exist. For separating values, the
+character appropriate the the operating system  is  used  --- see the
+configuration variable \verb|$search_path_separator|.
+
+Example:
+
+\begin{verbatim}
+	ensure_path( 'TEXINPUTS', './custom_cls_sty_files//' );
+\end{verbatim}
+
+(In this example, the trailing \verb|'//'| is documented by TeX systems to mean
+that latex, pdflatex, etc search for files in the specified directory and in
+all subdirectories.)
+
+Technically   \verb|ensure_path|   works  by  setting  Perl's  variable
+\verb|$ENV{var}|, where var is the name of the  target  variable.   The
+changed  value  is then passed as an environment variable to any
+invoked programs.
 
 
-ADVANCED CONFIGURATION: Some extra resources and advanced tricks
-       For  most purposes, simple configuration for latexmk along the lines of
-       the examples given is sufficient.  But  sometimes  you  need  something
-       harder.   In this section, I indicate some extra possibilities.  Gener-
-       ally to use these, you need to be fluent in the  Perl  language,  since
-       this is what is used in the rc files.
+\subsection{Variables and subroutines for processing a rule}
 
-       See  also the section DEALING WITH ERRORS, PROBLEMS, ETC.  See also the
-       examples in the directory example_rcfiles in the latexmk distributions.
-       Even if none of the examples apply to your case, they may give you use-
-       ful ideas
+A step in the processing is called a rule. One possibility to implement
+the  processing  of a rule is by a Perl subroutine.  This is always the
+case for custom dependencies. Also, for any other rule, you can  use  a
+subroutine  by  prefixing the command specification by the word "internal" 
+--- see the section FORMAT OF COMMAND SPECIFICATIONS.
 
-   Utility subroutines
-       ensure_path( var, values ...)
+When you use a subroutine for processing a rule, all the  possibilities
+of Perl programming are available, of course.  In addition, some of la-
+texmk's internal variables and subroutines  are  available.   The  ones
+listed  below  are  intended  to  be available to (advanced) users, and
+their specifications will generally have stability under upgrades. Gen-
+erally,  the  variables  should be treated as read-only: Changing their
+values can have bad consequences, since it is liable  to  mess  up  the
+consistency of what latexmk is doing.
 
-              The first parameter is the name of one of the system's  environ-
-              ment  variables  for search paths.  The remaining parameters are
-              values that should be in the variable.  For each  of  the  value
-              parameters,  if  it  isn't  already  in the variable, then it is
-              prepended to the variable; in that case the environment variable
-              is  created  if it doesn't already exist. For separating values,
-              the character appropriate the the operating system  is  used  --
-              see the configuration variable $search_path_separator.
+\begin{itemize}
+	
 
-              Example:
-
-                ensure_path( 'TEXINPUTS', './custom_cls_sty_files//' );
-
-              (In this example, the trailing '//' is documented by TeX systems
-              to mean that latex, pdflatex, etc search for files in the speci-
-              fied directory and in all subdirectories.)
-
-              Technically   ensure_path   works  by  setting  Perl's  variable
-              $ENV{var}, where var is the name of the  target  variable.   The
-              changed  value  is then passed as an environment variable to any
-              invoked programs.
-
-
-   Variables and subroutines for processing a rule
-       A step in the processing is called a rule. One possibility to implement
-       the  processing  of a rule is by a Perl subroutine.  This is always the
-       case for custom dependencies. Also, for any other rule, you can  use  a
-       subroutine  by  prefixing the command specification by the word "inter-
-       nal" -- see the section FORMAT OF COMMAND SPECIFICATIONS.
-
-       When you use a subroutine for processing a rule, all the  possibilities
-       of Perl programming are available, of course.  In addition, some of la-
-       texmk's internal variables and subroutines  are  available.   The  ones
-       listed  below  are  intended  to  be available to (advanced) users, and
-       their specifications will generally have stability under upgrades. Gen-
-       erally,  the  variables  should be treated as read-only: Changing their
-       values can have bad consequences, since it is liable  to  mess  up  the
-       consistency of what latexmk is doing.
-
-       $rule  This  variable  has  the  name of the rule, as known to latexmk.
+       \item \verb|$rule|  This  variable  has  the  name of the rule, as known to latexmk.
               Note that the exact contents of this variable for a  given  rule
               may be dependent on the version of latexmk
 
-       $$Psource
+       \item \verb|$$Psource|
               This gives the name of the primary source file.  Note the double
               dollar signs.
 
-       $$Pdest
+       \item \verb|$$Pdest|
               This gives the name of the main output file if  any.   Note  the
               double dollar signs.
 
 
-       rdb_ensure_file( $rule, file )
-              This  a subroutine that ensures that the given file is among the
-              source files for the specified rule.  It is typically used when,
-              during  the  processing of a rule, it is known that a particular
-              extra file is among the dependencies that latexmk  should  know,
-              but its default methods don't find the dependency. Almost always
-              the first argument is the name of the rule currently being  pro-
-              cessed, so it is then appropriate to specify it by $rule.
+			 \item \verb|rdb_ensure_file( $rule, file )|
 
-              For  examples of its use, see some of the files in the directory
-              example_rcfiles of latexmk's distribution.  Currently the  cases
-              that  use  this  subroutine  are bib2gls-latexmkrc, exceltex_la-
-              texmkrc and texinfo-latexmkrc.  These illustrate  typical  cases
-              where  latexmk's normal processing fails to detect certain extra
-              source files.
+This  a subroutine that ensures that the given file is among the
+source files for the specified rule.  It is typically used when,
+during  the  processing of a rule, it is known that a particular extra file is
+among the dependencies that latexmk  should  know, but its default methods
+don't find the dependency. Almost always the first argument is the name of the
+rule currently being  processed, so it is then appropriate to specify it by
+\verb|$rule|.
 
-       rdb_remove_files( $rule, file, ... )
-              This subroutine removes one or more files  from  the  dependency
-              list for the given rule.
+For  examples of its use, see some of the files in the directory
+\verb|example_rcfiles| of latexmk's distribution.  Currently the  cases that
+use  this  subroutine  are bib2gls-latexmkrc, \verb|exceltex_latexmkrc| and
+\verb|texinfo-latexmkrc|.  These illustrate  typical  cases where  latexmk's
+normal processing fails to detect certain extra source files.
 
-       rdb_list_source( $rule )
-              This  subroutine returns the list of source files (i.e., the de-
-              pendency list) for the given rule.
+			 \item \verb|rdb_remove_files( $rule, file, ... )|
 
-       rdb_set_source( $rule, file, ... )
+This subroutine removes one or more files  from  the  dependency
+list for the given rule.
 
-       rdb_set_source( $rule, @files )
-              This subroutine sets the dependency list for the given  rule  to
-              be the specified files.  Files that are already in the list have
-              unchanged information.  Files that were  not  in  the  list  are
-              added to it.  Files in the previous dependency list that are not
-              in the newly specified list of files are removed from the depen-
-              dency list.
+\item \verb|rdb_list_source($rule)|
 
-       Run_subst( command_spec )
-              This subroutine runs the command specified by command_spec.  The
-              specification is a string in the format listed  in  the  section
-              "Format  of Command Specifications".  An important action of the
-              Run_subst is to make substitutions of placeholders, e.g., %S and
-              %D  for  source and destination files; these get substituted be-
-              fore the command is run.  In addition, the command after substi-
-              tution  is  printed  to  the screen unless latexmk is running in
-              silent mode.
+This  subroutine returns the list of source files (i.e., the dependency list) for the given rule.
+
+\item \verb|rdb_set_source($rule, file, ...)|
+\item \verb|rdb_set_source($rule, @files )|
+
+This subroutine sets the dependency list for the given  rule  to
+be the specified files.  Files that are already in the list have unchanged
+information.  Files that were  not  in  the  list  are added to
+it.  Files in the previous dependency list that are not in the
+newly specified list of files are removed from the dependency
+list.
+
+\item \verb|Run_subst( command_spec )|
+This subroutine runs the command specified by \verb|command_spec|.  The
+specification is a string in the format listed  in  the  section
+``Format  of Command Specifications''.  An important action of the
+\verb|Run_subst| is to make substitutions of placeholders, e.g., \verb|%S| and
+\verb|%D|  for  source and destination files; these get
+substituted before the command is run.  In addition, the
+command after substitution  is  printed  to  the screen unless
+latexmk is running in silent mode.
+
+\end{itemize}
 
 
 Coordinated Setting of Commands for *latex
@@ -2235,7 +2310,6 @@ An example would be
   set_tex_cmds( '--interaction=batchmode %O %S' );
 \end{verbatim}
 
-
 Advanced configuration: Using latexmk with make This section is targeted only
 at advanced users who use the  make  program for complex projects, as for
 software development, with the dependencies specified by a Makefile.
@@ -2244,11 +2318,11 @@ Now the basic task of latexmk is to run  the  appropriate  programs  to make  a
 viewable version of a LaTeX document.  However, the usual make program is not
 suited to this purpose for at least two reasons.   First is that the use of
 LaTeX involves circular dependencies (e.g., via .aux files), and these cannot
-be handled by the standard make program.  Sec- ond  is  that  in  a  large
+be handled by the standard make program.  Second  is  that  in  a  large
 document the set of source files can change quite frequently, particularly with
 included graphics  files;  in  this situation  keeping a Makefile manually
-updated is inappropriate and er- ror-prone, especially when the dependencies
-can be determined automati- cally.  Latexmk solves both of these problems
+updated is inappropriate and error-prone, especially when the dependencies
+can be determined automatically.  Latexmk solves both of these problems
 robustly.
 
 Thus  for  many  standard LaTeX documents latexmk can be used by itself without
@@ -2275,57 +2349,54 @@ is suitable for a straightforward LaTeX document.  For this a suitable Makefile
 is like
 
 \begin{verbatim}
-             .PHONY : FORCE_MAKE
-             all : try.pdf
-             %.pdf : %.tex FORCE_MAKE
-                 latexmk -pdf -dvi- -ps- $<
+.PHONY : FORCE_MAKE
+all : try.pdf
+%.pdf : %.tex FORCE_MAKE
+	latexmk -pdf -dvi- -ps- $<
 \end{verbatim}
 
 (Note: the last line must be introduced by a tab for  the  Makefile  to
-function  correctly!)  Naturally, if making try.pdf from its associated
-LaTeX file try.tex were the only task to be performed, a direct use  of
-latexmk  without  a  Makefile would normally be better.  The benefit of
-using a Makefile for a LaTeX document would be  in  a  larger  project,
-where lines such as the above would be only be a small part of a larger
-Makefile.
+function  correctly!)  Naturally, if making \verb|try.pdf| from its associated LaTeX
+file \verb|try.tex| were the only task to be performed, a direct use  of latexmk
+without  a  Makefile would normally be better.  The benefit of using a Makefile
+for a LaTeX document would be  in  a  larger  project, where lines such as the
+above would be only be a small part of a larger Makefile.
 
-The above example has a pattern rule for making a .pdf file from a .tex
-file,  and it is defined to use latexmk in the obvious way.  There is a
-conventional  default  target  named  "all",  with  a  prerequisite  of
-try.pdf.   So  when  make is invoked, by default it makes try.pdf.  The
-only complication is  that  there  may  be  many  source  files  beyond
-try.tex, but these aren't specified in the Makefile, so changes in them
-will not by themselves cause latexmk to be invoked.  Instead, the  pat-
-tern  rule is equipped with a "phony" prerequisite FORCE_MAKE; this has
-the effect of causing the rule to be always out-of-date,  so  that  la-
-texmk  is always run.  It is latexmk that decides whether any action is
-needed, e.g., a rerun of pdflatex.  Effectively the Makefile  delegates
-all  decisions  to  latexmk, while make has no knowledge of the list of
-source files except for primary LaTeX file for the  document.  If there
-are, for example, graphics files to be made, these must be made by cus-
-tom dependencies configured in latexmk.
+The above example has a pattern rule for making a .pdf file from a .tex file,
+and it is defined to use latexmk in the obvious way.  There is a conventional
+default  target  named  "all",  with  a  prerequisite  of try.pdf.   So  when
+make is invoked, by default it makes try.pdf.  The only complication is  that
+there  may  be  many  source  files  beyond try.tex, but these aren't specified
+in the Makefile, so changes in them will not by themselves cause latexmk to be
+invoked.  Instead, the  pattern  rule is equipped with a "phony" prerequisite
+\verb|FORCE_MAKE|; this has the effect of causing the rule to be always
+out-of-date,  so  that  latexmk  is always run.  It is latexmk that decides
+whether any action is needed, e.g., a rerun of pdflatex.  Effectively the
+Makefile  delegates all  decisions  to  latexmk, while make has no knowledge of
+the list of source files except for primary LaTeX file for the  document.  If
+there are, for example, graphics files to be made, these must be made by custom
+dependencies configured in latexmk.
 
-But something better is needed in more complicated situations, for  ex-
-ample, when the making of graphics files needs to be specified by rules
-in the Makefile.  To do this, one can use a Makefile like  the  follow-
-ing:
+But something better is needed in more complicated situations, for  example,
+when the making of graphics files needs to be specified by rules in the
+Makefile.  To do this, one can use a Makefile like  the  following:
 
 \begin{verbatim}
-              TARGETS = document1.pdf document2.pdf
-              DEPS_DIR = .deps
-              LATEXMK = latexmk -recorder -use-make -deps \
-                    -e 'warn qq(In Makefile, turn off custom dependencies\n);' \
-                    -e '@cus_dep_list = ();' \
-                    -e 'show_cus_dep();'
-              all : $(TARGETS)
-              $(foreach file,$(TARGETS),$(eval -include $(DEPS_DIR)/$(file)P))
-              $(DEPS_DIR) :
-                     mkdir $@
-              %.pdf : %.tex
-                     if [ ! -e $(DEPS_DIR) ]; then mkdir $(DEPS_DIR); fi
-                     $(LATEXMK) -pdf -dvi- -ps- -deps-out=$(DEPS_DIR)/$@P $<
-              %.pdf : %.fig
-                     fig2dev -Lpdf $< $@
+TARGETS = document1.pdf document2.pdf
+DEPS_DIR = .deps
+LATEXMK = latexmk -recorder -use-make -deps \
+	-e 'warn qq(In Makefile, turn off custom dependencies\n);' \
+	-e '@cus_dep_list = ();' \
+	-e 'show_cus_dep();'
+all : $(TARGETS)
+$(foreach file,$(TARGETS),$(eval -include $(DEPS_DIR)/$(file)P))
+$(DEPS_DIR) :
+	mkdir $@
+%.pdf : %.tex
+	if [ ! -e $(DEPS_DIR) ]; then mkdir $(DEPS_DIR); fi
+	$(LATEXMK) -pdf -dvi- -ps- -deps-out=$(DEPS_DIR)/$@P $<
+%.pdf : %.fig
+	fig2dev -Lpdf $< $@
 \end{verbatim}
 
 (Again,  the  lines  containing  the  commands  for the rules should be started
@@ -2333,11 +2404,11 @@ with tabs.)  This example was inspired by how GNU automake handles automatic
 dependency tracking of C source files.
 
 After  each  run of latexmk, dependency information is put in a file in
-the .deps subdirectory.  The Makefile causes these dependency files  to
+the \verb|.deps| subdirectory.  The Makefile causes these dependency files  to
 be read by make, which now has the full dependency information for each target
 .pdf file.  To make things less trivial it  is  specificed  that two  files
 \verb|document1.pdf| and \verb|document2.pdf| are the targets.  The dependency files are
-.deps/document1.pdfP and .deps/document2.pdfP.
+\verb|.deps/document1.pdfP| and \verb|.deps/document2.pdfP|.
 
 There is now no need for the phony prerequisite for the  rule  to  make .pdf
 files from .tex files.  But I have added a rule to make .pdf files from .fig

@@ -6,6 +6,7 @@
  
 %%endhead 
 
+\clearpage
 \section{FORMAT OF COMMAND SPECIFICATIONS}
   
 \vspace{0.5cm}
@@ -48,8 +49,8 @@ The available placeholders are:
         \verb|$jobname| configuration value.
 
 \item \verb|%B| base of filename for current command. E.g.,  if  a  postscript
-file  document.ps  is being made from the dvi file \verb|document.dvi|,
-then the basename is document.
+file  \verb|document.ps|  is being made from the dvi file \verb|document.dvi|,
+then the basename is \verb|document|.
 
 \item \verb|%D| destination file (e.g., the name of  the  postscript  file  when
 converting a dvi file to postscript).
@@ -115,7 +116,7 @@ The distinction between \verb|%B| and \verb|%R| needs a bit of care, since  they
 often  the same, but not always.  For example on a simple document, the
 basename of a bibtex run is the same as for the texfile.  But in a document
 with  several bibliographies, the bibliography files will have a variety of
-names.  Since bibtex is invoked with  the  basename  of  the bibliography
+names.  Since \verb|bibtex| is invoked with  the  basename  of  the bibliography
 file, the setting for the bibtex command should therefore be
 
 \begin{verbatim}
@@ -135,11 +136,11 @@ latexmk, which didn't use placeholders.
 
 "Detaching" a command: Normally when latexmk runs a command,  it  waits
 for the command to run to completion.  This is appropriate for commands
-like latex, of course.  But for previewers, the command should normally
-run  detached,  so that latexmk gets the previewer running and then re-
-turns to its next task (or exits if there is nothing else to  do).   To
-achieve  this  effect  of  detaching a command, you need to precede the
-command name with "start ", as in
+like latex, of course.  But for previewers, the command should normally run
+detached,  so that latexmk gets the previewer running and then returns to its
+next task (or exits if there is nothing else to  do).   To achieve  this
+effect  of  detaching a command, you need to precede the command name with
+\verb|"start "|, as in
 
 \begin{verbatim}
   $dvi_previewer = 'start xdvi %O %S';

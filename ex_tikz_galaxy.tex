@@ -1,14 +1,19 @@
-% vim: keymap=russian-jcukenwin
-%%beginhead 
- 
-%%file titlepage
-%%parent _main_
 
-\clearpage
+\newif\ifcmt\cmtfalse
+
+\documentclass[tikz]{standalone}
+
+\begin{document}
 
 \begin{tikzpicture}
     \node[anchor=south west,inner sep=0] (image) at (0,0) {
-						\includegraphics[width=0.9\textwidth]{some_image.jpg}
+\ifcmt
+img_begin 
+	any
+	tags astro,galaxy
+	width 0.5
+img_end
+\fi
 		};
     \begin{scope}[x={(image.south east)},y={(image.north west)}]
         \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
@@ -16,5 +21,4 @@
         \foreach \y in {0,1,...,9} { \node [anchor=east] at (0,\y/10) {0.\y}; }
     \end{scope}
 \end{tikzpicture}
- 
-%%endhead 
+\end{document}

@@ -297,7 +297,8 @@ Equivalent to \verb|-deps-|.
 \subsubsection{-deps-out=FILENAME}
 
 Set the filename to which the list of dependent files  is  written.   If  the
-FILENAME argument is omitted or set to "-", then the output is sent to stdout.
+FILENAME argument is omitted or set to \verb|"-"|, then the output is sent to
+stdout.
 
 Use of this option also turns on the output of the list  of  dependent files
 after processing.
@@ -488,7 +489,7 @@ Note: to set the command used when latex is specified,  see  the
 -latex="COMMAND" option.
 
 
-\subsubsection{-latex="COMMAND"}
+\subsubsection{-latex=COMMAND}
 
 This sets the string specifying the command to run latex, and is typically used
 to add desired options.  Since  the  string  normally contains spaces, it
@@ -546,7 +547,7 @@ but  not  its intended effect, differ from some earlier versions
 of latexmk.)
 
 
-\subsubsection{-lualatex="COMMAND"}
+\subsubsection{-lualatex=COMMAND}
 
 This sets the string specifying the command to run lualatex.  It
 behaves like the -pdflatex option, but sets the variable
@@ -728,7 +729,7 @@ the generation of dvi and ps files.
 Note:  to  set  the command used when pdflatex is specified, see
 the -pdflatex="COMMAND" option.
 
-\subsubsection{-pdflatex="COMMAND"}
+\subsubsection{-pdflatex=``COMMAND''}
 
 This sets the string specifying the command to run pdflatex, and
 is typically used to add desired options.  Since the string nor-
@@ -753,14 +754,14 @@ To  set  the  command for running latex (rather than the command
 for pdflatex) see the -latex option.
 
 
-\subsubsection{-pdflualatex="COMMAND"}
+\subsubsection{-pdflualatex=``COMMAND''}
 
 Equivalent to -lualatex="COMMAND".
 
 
-\subsubsection{-pdfxelatex="COMMAND"}
+\subsubsection{-pdfxelatex=``COMMAND''}
 
-Equivalent to -xelatex="COMMAND".
+Equivalent to -xelatex=``COMMAND''.
 
 
 \subsubsection{-pretex=CODE}
@@ -915,14 +916,21 @@ Same as -silent
 
 Read the specified initialization file ("RC file")  before  processing.
 
-Be careful about the ordering: (1) Standard initialization files -- see the
-section below on  "Configuration/initialization  (RC) files"  --  are read
-first.  (2) Then the options on the command line are acted on in the order they
-are given.  Therefore if  an initialization  file  is  specified by the -r
-option, it is read during this second step.  Thus an initialization file
-specified with the -r option can override both the standard initialization
-files and previously specified options.  But all of these can be overridden by
-later options.
+Be careful about the ordering: 
+
+\begin{itemize}
+	
+
+\item (1) Standard initialization files --- see the section below on
+				``Configuration/initialization  (RC) files''  ---  are read first.  
+
+\item (2) Then the options on the command line are acted on in the order they
+				are given.  Therefore if  an initialization  file  is  specified by the
+				-r option, it is read during this second step.  Thus an initialization
+				file specified with the -r option can override both the standard
+				initialization files and previously specified options.  But all of
+				these can be overridden by later options.
+\end{itemize}
 
 The contents of the RC file just comprise a piece of code in the Perl
 programming language (typically a  sequence  of  assignment statements); they
@@ -1129,10 +1137,14 @@ the .xdv file, using xdvipdfmx.  See the documentation  for  the
 -pdfxe for why this is done.]
 
 
-\subsubsection{-xelatex="COMMAND"}
+\subsubsection{-xelatex=``COMMAND''}
 
 This  sets the string specifying the command to run xelatex.  It sets the
-variable \verb|$xelatex|.  Warning: It is important to ensure that the -no-pdf is used
+variable \verb|$xelatex|.  
+
+\paragraph{Warning:}
+
+It is important to ensure that the -no-pdf is used
 when xelatex  is invoked, since latexmk expects xelatex to produce an .xdv
 file, not a .pdf file. If you provide  \verb|%O|  in  the  command specification,
 this  will be done automatically.  See the documentation for the -pdfxe

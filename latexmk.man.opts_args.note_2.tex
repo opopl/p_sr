@@ -1,0 +1,28 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file man.opts_args.note_2
+%%parent man.opts_args
+ 
+%%endhead 
+
+\subsection{Note 2}
+  
+\vspace{0.5cm}
+ {\ifDEBUG\small\LaTeX~section: \verb|man.opts_args.note_2| project: \verb|latexmk| rootid: \verb|p_saintrussia| \fi}
+\vspace{0.5cm}
+  
+In this documentation, the program pdflatex is often referred to.
+
+Users of programs like lualatex and xelatex should know that  from latexmk's
+point  of view, these other programs behave very like pdflatex, i.e., they
+make a pdf file from a  tex  file,  etc.   So  whenever pdflatex is mentioned
+without mention of the other programs, the statements apply equally to
+lualatex, xelatex, and any  other  similar  programs.  Latexmk can be easily
+configured to use whichever of these programs is needed.  See the
+documentation  for  the  following  options: -pdflua,  -pdfxe,  -lualatex, and
+-xelatex, and also see the documentation for the \verb|$pdflatex|,
+\verb|$lualatex|,  and  \verb|$xelatex|  configuration  variables.   At
+present  latexmk  does not do automatic detection of which program is to be
+used.
+

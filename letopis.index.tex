@@ -7,9 +7,20 @@
 %%endhead 
 
 \ifINDEX
+	\part{Indices}
+
 	\clearpage
 	\phantomsection
-	\addcontentsline{toc}{part}{\indexname}
-
+	\addcontentsline{toc}{chapter}{\indexname}
   \printindex
+
+	\clearpage
+	\phantomsection
+	\addcontentsline{toc}{chapter}{Index A}
+	\printindex[indexA]
+
+	\clearpage
+	\phantomsection
+	\addcontentsline{toc}{chapter}{Index B}
+	\printindex[indexB]
 \fi

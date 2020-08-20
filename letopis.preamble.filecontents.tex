@@ -1,0 +1,40 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file preamble.filecontents
+%%parent preamble
+ 
+%%endhead 
+
+\begin{filecontents*}{indexA.xdy}
+(markup-index :open  "~n
+\begin{theindex}
+  \providecommand*\lettergroupDefault[1]{}
+  \providecommand*\lettergroup[1]{%
+    \textsf{#1}
+    \nopagebreak
+  }
+  ~n"
+  :close "~n~n\end{theindex}~n"
+:tree)
+\end{filecontents*}
+
+\begin{filecontents*}{indexB.xdy}
+(markup-index :open  "~n
+\begin{theindex}
+  \providecommand*\lettergroupDefault[1]{}
+  \providecommand*\lettergroup[1]{%
+    \textit{#1}
+    \nopagebreak
+  }
+  ~n"
+  :close "~n~n\end{theindex}~n"
+:tree)
+\end{filecontents*}
+
+\begin{filecontents*}{latexmkrc2}
+$makeindex = 'texindy -M %B.xdy %O -o %D %S'; #$
+
+$pdf_mode = 1; #$
+\end{filecontents*}
+  

@@ -1,0 +1,54 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file man.opts_args
+%%parent body
+ 
+%%endhead 
+
+\section{LATEXMK OPTIONS AND ARGUMENTS ON COMMAND LINE}
+  
+\vspace{0.5cm}
+ {\ifDEBUG\small\LaTeX~section: \verb|man.opts_args| project: \verb|latexmk| rootid: \verb|p_saintrussia| \fi}
+\vspace{0.5cm}
+
+In general the command line to invoke latexmk has the form
+
+\begin{verbatim}
+  latexmk [options] [file]
+\end{verbatim}
+
+All options can be introduced by single or double \verb|"-"| characters, e.g.,
+\verb|"latexmk -help"| or \verb|"latexmk --help"|.
+
+\subsection{Note 1}
+
+In addition to the options in the list  below,  latexmk  recognizes almost
+all the options recognized by the latex, pdflatex programs (and their
+relatives) in their current TeXLive and  MiKTeX  implementations.  Some of
+the options for these programs also trigger special action or behavior by
+latexmk, in which case they have specific  explanations  in  this document.
+Otherwise, they are just passed through to a called latex or pdflatex program.
+Run latexmk  with  the  -showextraoptions  to  get  a list of the options
+that latexmk accepts and that are simply passed through to latex or pdflatex
+(etc).  See also the  explanation of the -showextraoptions option for more
+information.
+
+\subsection{Note 2}
+
+In this documentation, the program pdflatex is often referred to.
+Users of programs like lualatex and xelatex should know that  from latexmk's
+point  of view, these other programs behave very like pdflatex, i.e., they
+make a pdf file from a  tex  file,  etc.   So  whenever pdflatex is mentioned
+without mention of the other programs, the statements apply equally to
+lualatex, xelatex, and any  other  similar  programs.  Latexmk can be easily
+configured to use whichever of these programs is needed.  See the
+documentation  for  the  following  options: -pdflua,  -pdfxe,  -lualatex, and
+-xelatex, and also see the documentation for the \verb|$pdflatex|,
+\verb|$lualatex|,  and  \verb|$xelatex|  configuration  variables.   At
+present  latexmk  does not do automatic detection of which program is to be
+used.
+
+\ii{man.opts_args.definitions}
+
+

@@ -7,6 +7,11 @@
 %%endhead 
   
 \begin{filecontents*}{\PROJ.xdy}
+(require "page-ranges.xdy")
+(define-attributes (("default" "textbf" "textit" "hyperpage")))
+(define-location-class "arabic-page-numbers"
+   ("arabic-numbers") :min-range-length 1)
+(markup-locref :open "\hyperpage{" :close "}")
 (markup-index :open  "~n
 \begin{theindex}
   \providecommand*\lettergroupDefault[1]{}

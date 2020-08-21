@@ -16,15 +16,15 @@
 %\newindex{ppl}{idx_ppl}{ind_ppl}{People Index}
 
 \ifINDEX
-  \usepackage[xindy]{imakeidx}
   \makeindex
+
+	\makeatletter
+	\newcommand{\rindex}[2][\imki@jobname]{%
+	  \index[#1]{\detokenize{#2}}%
+	}
+	\makeatother
+	
+	\makeindex[name=indexENG,title=IndexENG,options=-M indexENG.xdy]
+	\makeindex[name=indexRUS,title=IndexRUS,options=-M indexRUS.xdy]
+
 \fi
-
-\makeatletter
-\newcommand{\rindex}[2][\imki@jobname]{%
-  \index[#1]{\detokenize{#2}}%
-}
-\makeatother
-
-\makeindex[name=indexA,title=Index A,options=-M indexA.xdy]
-\makeindex[name=indexB,title=Index B,options=-M indexB.xdy]

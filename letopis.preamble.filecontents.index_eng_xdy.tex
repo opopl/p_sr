@@ -1,0 +1,21 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file preamble.filecontents.index_eng_xdy
+%%parent preamble.filecontents
+ 
+%%endhead 
+ 
+\begin{filecontents*}{index.eng.xdy}
+(markup-index :open  "~n
+\begin{theindex}
+  \providecommand*\lettergroupDefault[1]{}
+  \providecommand*\lettergroup[1]{%
+    \textit{#1}
+    \nopagebreak
+  }
+  ~n"
+  :close "~n~n\end{theindex}~n"
+:tree)
+\end{filecontents*}
+

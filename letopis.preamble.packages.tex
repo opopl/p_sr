@@ -12,10 +12,16 @@
 \usepackage[OT1,T2A,T3]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[english,russian]{babel}
+\usepackage{iflang}
+
+\usepackage{color}
 
 \usepackage[xindy]{imakeidx}
 
 \usepackage[ %
+  colorlinks=true,
+  linktoc=all,
+  linkcolor=blue,
   letterpaper, %
   unicode, %
   linktocpage, %
@@ -24,7 +30,7 @@
 ]{hyperref}
 %hyperindex=false,%
 
-\usepackage{bookmark}
+%\usepackage{bookmark}
 \usepackage[hmargin={1cm,1cm},vmargin={2cm,2cm},centering]{geometry}
 
 \usepackage{ifthen}

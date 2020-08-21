@@ -9,18 +9,23 @@
 \ifINDEX
 	\part{Indices}
 
-	\clearpage
+	%\clearpage
 	\phantomsection
 	\addcontentsline{toc}{chapter}{\indexname}
   \printindex
 
-	\clearpage
+	%\clearpage
+	\phantomsection
+	\addcontentsline{toc}{chapter}{Имена}
+	\printindex[index.names.rus]
+
+	%\clearpage
 	\phantomsection
 	\addcontentsline{toc}{chapter}{Предметный указатель}
-	\printindex[indexRUS]
+	\printindex[index.rus]
 
-	\clearpage
+	%\clearpage
 	\phantomsection
 	\addcontentsline{toc}{chapter}{Index}
-	\printindex[indexENG]
+	\printindex[index.eng]
 \fi

@@ -1,0 +1,65 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file preamble.patches.hyperref
+%%parent preamble.patches
+ 
+%%endhead 
+
+%https://tex.stackexchange.com/questions/129778/hyperref-links-entire-line-like-word
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}} % for chapters
+
+\makeatletter
+\def\contentsline#1#2#3#4{%
+  \begingroup
+    \Hy@safe@activestrue
+  \edef\x{\endgroup
+    \def\noexpand\Hy@tocdestname{#4}%
+  }\x
+  \csname l@#1\endcsname{%
+    %\hyper@linkstart{link}{\Hy@tocdestname}{#2}\hyper@linkend
+    #2%
+  }{%
+    %\hyper@linkstart{link}{\Hy@tocdestname}{#3}\hyper@linkend
+    #3%
+  }%
+}
+% Update ToC hyperlinks for Chapters
+\patchcmd{\l@chapter}% <cmd>
+  {{\cftchapfont #1}}% <search>
+  {\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftchapfont #1}}% <replace>
+  {}{}% <success><failure>
+\patchcmd{\cftchapfillnum}{\par}{\hyper@linkend\par}{}{}
+
+% Update ToC hyperlinks for Sections
+\patchcmd{\l@section}% <cmd>
+  {{\cftsecfont #1}}% <search>
+  {\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftsecfont #1}}% <replace>
+  {}{}% <success><failure>
+\patchcmd{\cftsecfillnum}{\par}{\hyper@linkend\par}{}{}
+
+% Update ToC hyperlinks for Sub-Sections
+\patchcmd{\l@subsection}% <cmd>
+  {{\cftsubsecfont #1}}% <search>
+  {\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftsubsecfont #1}}% <replace>
+  {}{}% <success><failure>
+\patchcmd{\cftsubsecfillnum}{\par}{\hyper@linkend\par}{}{}
+
+% Update ToC hyperlinks for SubSub-Sections
+\patchcmd{\l@subsubsection}% <cmd>
+  {{\cftsubsubsecfont #1}}% <search>
+  {\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftsubsubsecfont #1}}% <replace>
+  {}{}% <success><failure>
+\patchcmd{\cftsubsubsecfillnum}{\par}{\hyper@linkend\par}{}{}
+
+% Update ToC hyperlinks for Paragraphs 
+\patchcmd{\l@paragraph}% <cmd>
+  {{\cftparafont #1}}% <search>
+  {\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftparafont #1}}% <replace>
+  {}{}% <success><failure>
+\patchcmd{\cftparafillnum}{\par}{\hyper@linkend\par}{}{}
+
+\makeatother
+
+  
+  

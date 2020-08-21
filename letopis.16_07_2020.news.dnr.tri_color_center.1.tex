@@ -6,7 +6,10 @@
  
 %%endhead 
 
-\subsection{В ДНР почтили память мирных жителей, погибших при ударе украинской авиации по городу Снежное}
+\def\sectitle{В ДНР почтили память мирных жителей, погибших при ударе
+украинской авиации по городу Снежное}
+
+\subsection{\sectitle}
 \url{https://tricolor-center.ru/stati/44017-v-dnr-pochtili-pamyat-mirnyx-zhitelej-pogibshix-pri-udare-ukrainskoj-aviacii-po-gorodu-snezhnoe.html?fbclid=IwAR3xQIn1-MDRuZYlL-rs6MtgK-amTl0iP7D-oFeWrxclAcIbQH5CwFy12v4}
   
 \vspace{0.5cm}
@@ -65,11 +68,20 @@
 
 \ifcmt
 fig_begin
+	tex \begin{tabular}{cc}
 	img_begin 
 		tags 16_07_2020.news.dnr.tri_color_center.1
 		tags 1
 		width 0.5
 	img_end
+	tex &
+	img_begin 
+		tags 16_07_2020.news.dnr.tri_color_center.1
+		tags 2
+		width 0.5
+	img_end
+	tex \end{tabular}{cc}
+	tex \caption{\sectitle}
 fig_end
 \fi
 

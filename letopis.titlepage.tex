@@ -4,7 +4,7 @@
 %%file titlepage
 %%parent _main_
 
-\clearpage
+\begin{titlepage}
 \begin{tikzpicture}
     \node[anchor=south west,inner sep=0] (image) at (0,0) {
 \ifcmt
@@ -21,5 +21,6 @@ img_end
         \foreach \y in {0,1,...,9} { \node [anchor=east] at (0,\y/10) {0.\y}; }
     \end{scope}
 \end{tikzpicture}
+\end{titlepage}
  
 %%endhead 

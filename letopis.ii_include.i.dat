@@ -1,6 +1,7 @@
 _base_
 articles
 #
+preamble.filecontents.xdy
 preamble.filecontents.indexA_xdy
 preamble.filecontents.indexB_xdy
 preamble.filecontents.latexmkrc

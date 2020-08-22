@@ -1,0 +1,30 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file preamble.patches.toc
+%%parent preamble.patches
+ 
+%%endhead 
+\makeatletter 
+\renewcommand\tableofcontents{%
+    \section*{\huge\contentsname
+        \@mkboth{%
+           \MakeUppercase\contentsname}{\MakeUppercase\contentsname}
+		}
+    \@starttoc{toc}%
+}
+\renewcommand\listoffigures{%
+    \section*{\huge\listfigurename
+        \@mkboth{%
+           \MakeUppercase\listfigurename}{\MakeUppercase\listfigurename}
+		}
+    \@starttoc{lof}%
+}
+\renewcommand\listoftables{%
+    \section*{\huge\listtablename
+        \@mkboth{%
+           \MakeUppercase\listtablename}{\MakeUppercase\listtablename}
+		}
+    \@starttoc{lot}%
+}
+\makeatother

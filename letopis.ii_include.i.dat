@@ -7,6 +7,9 @@ preamble.filecontents.indexRUS_xdy
 preamble.filecontents.indexENG_xdy
 preamble.patches
 preamble.patches.hyperref
+preamble.patches.sections
+preamble.patches.toc
+preamble.titlesec
 #
 15_07_2020
 15_07_2020.fb.lnr.1

@@ -6,7 +6,7 @@
 
 \section{\\\\@startsection}
 
-Synopsis:
+\subsection{Synopsis}
 
 \begin{verbatim}
   \@startsection{name}{level}{indent}{beforeskip}{afterskip}{style}
@@ -47,6 +47,8 @@ redefines \verb|\section| to have the form \verb|\section*[toctitle]{title}| (he
 star * is optional). See Sectioning. This implies that when you write a command
 like \verb|\renewcommand{section}{...}|, the \verb|\@startsection{...}| must come last in the
 definition. See the examples below.
+
+\subsection{Items}
 
 \paragraph{name}
 
@@ -147,7 +149,7 @@ level is 3, the indent is \verb|0pt|, the beforeskip is
 \verb|-3.25ex plus -1ex minus -0.2ex|, the afterskip is \verb|1.5ex plus 0.2ex|, and the style is
 \verb|\normalfont\normalsize\bfseries|.
 
-\paragraph{examples}
+\subsection{Examples}
 
 Here are examples. They go either in a package or class file or in the preamble
 of a LaTeX document. If you put them in the preamble they must go between a
@@ -156,7 +158,7 @@ use \verb|`\spacefactor'| in vertical mode. means that you forgot this.) See
 \verb|\makeatletter| and \verb|\makeatother|.
 
 This will put section titles in large boldface type, centered. It says
-\verb|\renewcommand| because LaTeX’s standard classes have already defined a \section.
+\verb|\renewcommand| because LaTeX’s standard classes have already defined a \verb|\section|.
 For the same reason it does not define a section counter, or the commands
 \verb|\thesection| and \verb|\l@section|.
 

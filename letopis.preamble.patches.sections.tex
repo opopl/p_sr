@@ -18,14 +18,15 @@
 	%{\centering\normalfont\Large\bfseries}% style
 %}
 
-%\renewcommand\subsection{%
-	%\@startsection{subsection}% name
-	%{2}% level
-	%{0em}% indent
-	%{-1ex plus 0.1ex minus -0.05ex}% beforeskip
-	%{-1em plus 0.2em}% afterskip
-	%{\scshape}% style
-%}
+\renewcommand\subsection{%
+	\clearpage
+	\@startsection{subsection}% name
+	{2}% level
+	{0em}% indent
+	{-1ex plus 0.1ex minus -0.05ex}% beforeskip
+	{-1em plus 0.2em}% afterskip
+	{\scshape\bfseries\Large}% style
+}
 
 
 \makeatother

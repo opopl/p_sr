@@ -32,6 +32,8 @@ my $cols = 3;
 push @tex_lines,sprintf(q{\begin{tabular}{%s}},'c' x $cols);
 
 my $w = 0.3;
+my $pic_opts = sub { sprintf(q{width=%s\textwidth},shift); };
+
 foreach my $num (@range) {
     my @tags;
 
@@ -53,8 +55,7 @@ foreach my $num (@range) {
 
     push @tex_lines,
         sprintf(q{\def\picpath{\imgroot/%s}},$rel_path),
-        sprintf(q|\def\picopts{width=%s\textwidth}|,$w),
-        sprintf(q{\includegraphics[\picopts]{\picpath}}),
+        sprintf(q{\includegraphics[%s]{\picpath}},$pic_opts->($w)),
         $eol,
         '%' . 'x' x 50,
         ;

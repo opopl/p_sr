@@ -8,24 +8,26 @@
 
 \makeatletter
 
-%\renewcommand\section{%
-%\@startsection{section}% name
-	%{1}% level
-	%{0pt}% indent
-	%{-3.5ex plus -1ex minus -.2ex}% beforeskip
-	%5
-	%{2.3ex plus.2ex}% afterskip
-	%{\centering\normalfont\Large\bfseries}% style
-%}
+\renewcommand\section{%
+	\clearpage
+	\@startsection{section}% name
+		{1}% level
+		{0pt}% indent
+		{-3.5ex plus -1ex minus -.2ex}% beforeskip
+		{2.3ex plus.2ex}% afterskip
+		{\centering\normalfont\Huge\bfseries}% style
+}
 
 \renewcommand\subsection{%
 	\clearpage
-	\@startsection{subsection}% name
-	{2}% level
-	{0em}% indent
-	{-1ex plus 0.1ex minus -0.05ex}% beforeskip
-	{-1em plus 0.2em}% afterskip
-	{\scshape\bfseries\Large}% style
+	%\scalebox{2.0}{
+		\@startsection{subsection}% name
+		{2}% level
+		{0em}% indent
+		{-1ex plus 0.1ex minus -0.05ex}% beforeskip
+		{-1em plus 0.2em}% afterskip
+		{\scshape\bfseries\Large}% style
+	%}
 }
 
 

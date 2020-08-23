@@ -4,27 +4,31 @@
 %%file titlepage
 %%parent _main_
 
-
 \hypertarget{titlepage}{}
 \bookmark[level=0,dest=titlepage]{Заглавная}
 
-\begin{titlepage}
-\begin{tikzpicture}
-    \node[anchor=south west,inner sep=0] (image) at (0,0) {
-\ifcmt
-img_begin 
-	opts use_any
-	tags a4_milky_way
-	width 0.5
-img_end
-\fi
+\newgeometry{hmargin={0cm,0cm},vmargin={0cm,0cm},centering}
+
+%https://getreuer.info/tutorials/tikz-for-high-quality-latex-pictures/index.html
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+	\node (pic) at (current page.center) {
+    \ifcmt
+    img_begin 
+      opts use_any
+      opts_ig width=\pdfpagewidth,height=\pdfpageheight
+      tags a4_milky_way
+    img_end
+    \fi
+	};
+		\node (text) at (current page.center) { 
+			\scalebox{2.0}{
+				\Huge\bfseries\color{yellow} Повесть Временных Лет
+			}
 		};
-    \begin{scope}[x={(image.south east)},y={(image.north west)}]
-        \draw[help lines,xstep=.1,ystep=.1] (0,0) grid (1,1);
-        \foreach \x in {0,1,...,9} { \node [anchor=north] at (\x/10,0) {0.\x}; }
-        \foreach \y in {0,1,...,9} { \node [anchor=east] at (0,\y/10) {0.\y}; }
-    \end{scope}
 \end{tikzpicture}
-\end{titlepage}
+
+\restoregeometry
+\clearpage
  
 %%endhead 

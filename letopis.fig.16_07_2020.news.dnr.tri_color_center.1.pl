@@ -33,14 +33,13 @@ push @tex_lines,sprintf(q{\begin{tabular}{%s}},'c' x $cols);
 
 my $w = 0.3;
 
-
 foreach my $num (@range) {
-    my @tags;
-
     my $eol = ( $num % $cols == 0 ) ? q{\\\\} : q{&};
 
     push @tex_lines,
-        $pwg->_img_include_graphics({ width => $w, tags => [@tags_base,$num] }),
+        $pwg->_img_include_graphics({ 
+             width => $w, 
+             tags  => [@tags_base,$num] }),
         $eol,
         '%' . 'x' x 50,
         ;

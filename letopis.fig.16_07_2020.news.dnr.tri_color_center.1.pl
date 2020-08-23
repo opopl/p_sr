@@ -32,38 +32,15 @@ my $cols = 3;
 push @tex_lines,sprintf(q{\begin{tabular}{%s}},'c' x $cols);
 
 my $w = 0.3;
-my $pic_opts = sub { sprintf(q{width=%s\textwidth},shift); };
 
-sub _include_graphics {
-    my ($ref) = @_;
-
-    my $w        = $ref->{width};
-    my $rel_path = $ref->{rel_path};
-
-    my @tex;
-    push @tex,
-        sprintf(q{\def\picpath{\imgroot/%s}},$rel_path),
-        sprintf(q{\includegraphics[%s]{\picpath}},$pic_opts->($w))
-        ;
-
-    return @tex;
-}
 
 foreach my $num (@range) {
     my @tags;
 
-    push @tags,
-        @tags_base,$num;
-
-    my @img = $pwg->_img_by_tags({ tags => [@tags] });
-    my $first = shift @img;
-
-    my $rel_path = $first->{rel_path};
-
     my $eol = ( $num % $cols == 0 ) ? q{\\\\} : q{&};
 
     push @tex_lines,
-        _include_graphics({ width => $w, rel_path => $rel_path }),
+        $pwg->_img_include_graphics({ width => $w, tags => [@tags_base,$num] }),
         $eol,
         '%' . 'x' x 50,
         ;

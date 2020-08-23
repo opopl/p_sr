@@ -44,7 +44,13 @@ foreach my $num (@range) {
         '%' . 'x' x 50,
         ;
 }
-push @tex_lines,q{\end{tabular}};
+push @tex_lines,
+    q{\end{tabular}},
+    $pwg->_img_include_graphics({ 
+            width => 0.5, 
+            align => 'center',
+            tags  => [@tags_base,7] 
+    });
 
 my $tex = join("\n",@tex_lines);
 print $tex . "\n";

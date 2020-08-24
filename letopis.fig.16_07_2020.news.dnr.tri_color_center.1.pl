@@ -5,52 +5,77 @@ use warnings;
 use utf8;
 
 use Data::Dumper qw(Dumper);
-use FindBin qw($Bin $Script);
-use File::Basename qw(basename dirname);
 
-my ($proj)  = ($Script =~ m/^(\w+)\..*$/);
-my $root_id = basename($Bin);
-my $root    = $Bin;
+package sec;
 
 use Plg::Projs::Piwigo::SQL;
+use base qw(
+    Plg::Projs::Prj
+);
 
-my @tags_base;
-push @tags_base,
-    qw(projs),
-    ($proj, $root_id),
-    qw(16_07_2020.news.dnr.tri_color_center.1)
-    ;
+sub init {
+    my ($self) = @_;
 
-my @range = ( 1 .. 6 );
+    $self->SUPER::init();
 
-my $pwg = Plg::Projs::Piwigo::SQL->new;
+    my @tags_base;
+    push @tags_base,
+        @{$self->{tags_img}},
+        qw(16_07_2020.news.dnr.tri_color_center.1),
+        ;
 
-my @tex_lines;
+    my $h = {
+        tags_base => [@tags_base]
+    };
+        
+    my @k = keys %$h;
 
-my $cols = 3;
+    for(@k){ $self->{$_} = $h->{$_} unless defined $self->{$_}; }
 
-push @tex_lines,sprintf(q{\begin{tabular}{%s}},'c' x $cols);
+    return $self;
+}
 
-my $w = 0.3;
+sub run {
+    my ($self) = @_;
 
-foreach my $num (@range) {
-    my $eol = ( $num % $cols == 0 ) ? q{\\\\} : q{&};
+    my $pwg = $self->{pwg};
+    my @tags_base = @{$self->{tags_base}};
+    
+    my @range = ( 1 .. 6 );
+    
+    my @tex_lines;
+    
+    my $cols = 3;
+    
+    push @tex_lines,sprintf(q{\begin{tabular}{%s}},'c' x $cols);
+    
+    my $w = 0.3;
+    
+    foreach my $num (@range) {
+        my $eol = ( $num % $cols == 0 ) ? q{\\\\} : q{&};
+    
+        push @tex_lines,
+            $pwg->_img_include_graphics({ 
+                 width => $w, 
+                 tags  => [ @tags_base, $num] }),
+            $eol,
+            '%' . 'x' x 50,
+            ;
+    }
 
     push @tex_lines,
+        q{\end{tabular}},
         $pwg->_img_include_graphics({ 
-             width => $w, 
-             tags  => [@tags_base,$num] }),
-        $eol,
-        '%' . 'x' x 50,
-        ;
-}
-push @tex_lines,
-    q{\end{tabular}},
-    $pwg->_img_include_graphics({ 
-            width => 0.5, 
-            align => 'center',
-            tags  => [@tags_base,7] 
-    });
+                width => 0.5, 
+                align => 'center',
+                tags  => [ @tags_base, 7 ] 
+        });
+    
+    my $tex = join("\n",@tex_lines);
+    print $tex . "\n";
 
-my $tex = join("\n",@tex_lines);
-print $tex . "\n";
+}
+
+package main;
+
+sec->new->run;

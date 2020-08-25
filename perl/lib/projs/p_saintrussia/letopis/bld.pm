@@ -29,8 +29,15 @@ sub init {
 sub run_pdflatex {
 	my ($self) = @_;
 
-    local @ARGV = ($self->{proj}, $self->{root_id},'-c','build_pwg' );
-	my $x = Plg::Projs::Build::PdfLatex->new;
+    local @ARGV = ();
+
+	my $x = Plg::Projs::Build::PdfLatex->new(
+		skip_get_opt => 1,
+		proj         => $self->{proj},
+		root         => $self->{root},
+		root_id      => $self->{root_id},
+		cmd          => 'build_pwg',
+	);
 
 	$x->run;
 

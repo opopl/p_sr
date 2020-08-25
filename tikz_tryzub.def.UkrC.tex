@@ -7,12 +7,13 @@
 %%endhead 
 
 %https://volfy.at.ua/load/ukrajina/latex_kod_komandi_shho_maljue_trizub/18-1-0-78
-\DeclareDocumentCommand{\UkrC}{O{blue} O{yellow} O{1} O{1} O{1}}{ 
+\DeclareDocumentCommand{\UkrC}{O{blue} O{yellow} O{1} O{1} O{1} O{0.0}}{ 
   % #1 - background color 
   % #2 - figure color
   % #3 - size of the coat 
   % #4 - x scaling
   % #5 - y scaling
+  % #6 - fill opacity
   %==============================================================
      \begin{scope}[scale=#3*.02,xscale=#4,yscale=#5]
         \ii{draw.shield}
@@ -21,5 +22,6 @@
         \ii{draw.letter_R}
         \ii{draw.letter_L}
         \ii{draw.letter_O}
+
      \end{scope}
 }

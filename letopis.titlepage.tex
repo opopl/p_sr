@@ -12,7 +12,7 @@
 %https://getreuer.info/tutorials/tikz-for-high-quality-latex-pictures/index.html
 \thispagestyle{empty}
 \begin{tikzpicture}[remember picture,overlay]
-	\node (pic) at (current page.center) {
+  \node (pic) at (current page.center) {
     \ifcmt
     img_begin 
       opts use_any
@@ -20,17 +20,21 @@
       tags a4_milky_way
     img_end
     \fi
-	};
+  };
 
-		\node (title) at (current page.center) { 
-			\scalebox{2.0}{
-				\Huge\bfseries\color{yellow} Повесть Временных Лет
-			}
-		};
+    \node (title) at (current page.center) { 
+      \scalebox{2.0}{
+        \Huge\bfseries\color{yellow} Повесть Временных Лет
+      }
+    };
 
-		\node (tryzub) [below=of title] {
-			\UkrC[blue][yellow][20];
-		}
+    \begin{scope}[local bounding box=output,shift={(current page.center)}]
+      \UkrC[blue][yellow][20][0.5][0.5][0.0];
+    \end{scope}
+
+    %\node (tryzub) [below=of title] {
+      %\UkrC[blue][yellow][20];
+    %}
 \end{tikzpicture}
 
 \restoregeometry

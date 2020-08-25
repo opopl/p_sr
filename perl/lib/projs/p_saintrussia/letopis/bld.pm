@@ -7,13 +7,17 @@ use warnings;
 use base qw(
 	Plg::Projs::Prj
 );
+use File::Spec::Functions qw(catfile);
+ 
+use Plg::Projs::Scripts::RunPdfLatex;
 
 sub init {
 	my ($self) = @_;
 
 	$self->SUPER::init();
 
-    my $h = {};
+    my $h = {
+	};
         
     my @k = keys %$h;
 
@@ -22,8 +26,23 @@ sub init {
     return $self;
 }
 
+sub run_pdflatex {
+	my ($self) = @_;
+
+    local @ARGV = ($self->{proj}, $self->{root_id},'-c','build_pwg' );
+	my $x = Plg::Projs::Build::PdfLatex->new;
+
+	$x->run;
+
+	return $self;
+}
+
+
 sub run {
 	my ($self) = @_;
+
+	$self->run_pdflatex;
+
 
 	return $self;
 }

@@ -1,0 +1,46 @@
+\documentclass{book}
+
+\usepackage{minitoc}
+\usepackage{titletoc}
+
+\usepackage[ %
+  colorlinks=true,
+  linktoc=all,
+  linkcolor=blue,
+  letterpaper, %
+  unicode, %
+  linktocpage, %
+  bookmarksdepth=subparagraph,%
+  bookmarksnumbered=true,%
+]{hyperref}
+%hyperindex=false,%
+
+\usepackage{bookmark}
+
+\begin{document}
+
+
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{\contentsname}
+%\mtcaddchapter
+\setcounter{tocdepth}{4}
+
+%\dominitoc
+\tableofcontents
+\newpage
+
+
+%\dominitoc% Initialization
+%\tableofcontents
+
+\chapter{bla}
+%\minitoc% Creating an actual minitoc
+\startcontents[sections]
+\printcontents[sections]{}{1}{}
+
+\section{blubb}
+
+\section{foo}
+
+\end{document}

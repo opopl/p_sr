@@ -3,7 +3,6 @@
 use warnings;
 use strict;
 
-
 use base qw(
 	projs::p_saintrussia::letopis::bld
 );

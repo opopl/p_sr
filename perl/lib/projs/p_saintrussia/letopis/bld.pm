@@ -4,25 +4,14 @@ package projs::p_saintrussia::letopis::bld;
 use strict;
 use warnings;
 
-sub new
-{
-    my ($class, %opts) = @_;
-    my $self = bless (\%opts, ref ($class) || $class);
-
-    $self->init if $self->can('init');
-
-    return $self;
-}
-
-sub new
-{
-    my ($class, %opts) = @_;
-    my $self = bless (\%opts, ref ($class) || $class);
-    return $self;
-}
+use base qw(
+	Plg::Projs::Prj
+);
 
 sub init {
-    my $self = shift;
+	my ($self) = @_;
+
+	$self->SUPER::init();
 
     my $h = {};
         
@@ -31,6 +20,12 @@ sub init {
     for(@k){ $self->{$_} = $h->{$_} unless defined $self->{$_}; }
 
     return $self;
+}
+
+sub run {
+	my ($self) = @_;
+
+	return $self;
 }
 
 1;

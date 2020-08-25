@@ -5,6 +5,7 @@
 % Reference to author's name required then using code
 %========================================================================================
 
+%%file f_main
 \def\PROJ{tikz_tryzub}
 \def\ii#1{\InputIfFileExists{\PROJ.#1.tex}{}{}}
 
@@ -13,6 +14,13 @@
 
 \ii{def.UkrC}
 
+%\UkrC[<+bgcolor>][<+figcolor+>][<+coatsize+>][<+xscale+>][<+yscale+>]
+% #1 - background color 
+% #2 - figure color
+% #3 - size of the coat 
+% #4 - x scaling
+% #5 - y scaling
+
 \begin{document}
 
 %\UkrC
@@ -20,6 +28,8 @@
 %\UkrC[green][cyan][1][2]
 %\UkrC[purple][cyan][1][2][3]
 
+\begin{tikzpicture}
 \UkrC[blue][yellow][20]
+\end{tikzpicture}
 
 \end{document} 

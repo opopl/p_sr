@@ -1,0 +1,25 @@
+%========================================================================================
+% Version 1.0
+%========================================================================================
+% Author Volodymyr Vovchak
+% Reference to author's name required then using code
+%========================================================================================
+
+\def\PROJ{tikz_tryzub}
+\def\ii#1{\InputIfFileExists{\PROJ.#1.tex}{}{}}
+
+\documentclass[12pt]{article}
+\usepackage{tikz,xparse}
+
+\ii{def.UkrC}
+
+\begin{document}
+
+%\UkrC
+%\UkrC[black][red][1.5]
+%\UkrC[green][cyan][1][2]
+%\UkrC[purple][cyan][1][2][3]
+
+\UkrC[blue][yellow][20]
+
+\end{document} 

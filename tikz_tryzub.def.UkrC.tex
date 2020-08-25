@@ -1,0 +1,26 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file def.UkrC
+%%parent _main_
+ 
+%%endhead 
+
+\DeclareDocumentCommand{\UkrC}{O{blue} O{yellow} O{1} O{1} O{1}}{ 
+	\begin{tikzpicture}[scale=#3*.02,xscale=#4,yscale=#5]
+	% #1 - background color 
+	% #2 - figure color
+	% #3 - size of the coat 
+	% #4 - x scaling
+	% #5 - y scaling
+	%==============================================================
+	% Shield
+	\ii{draw.shield}
+	\ii{draw.outer_shape}
+	\ii{draw.letter_B}
+	\ii{draw.letter_R}
+	\ii{draw.letter_L}
+	\ii{draw.letter_O}
+	
+	\end{tikzpicture}
+}

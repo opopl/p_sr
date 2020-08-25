@@ -22,19 +22,24 @@
     \fi
   };
 
-    \node (title) at (current page.center) { 
+    \node (title_pvl) at (current page.center) { 
       \scalebox{2.0}{
-        \Huge\bfseries\color{yellow} Повесть Временных Лет
+        \Huge\bfseries\color{yellow} 
+		Повесть Временных Лет
       }
     };
 
-    \begin{scope}[local bounding box=output,shift={(current page.center)}]
-      \UkrC[blue][yellow][20][0.5][0.5][0.0];
-    \end{scope}
+	\node [text height=5cm,below of=title_pvl] (title_istoria_rusiv)  { 
+      \scalebox{2.0}{
+        \Huge\bfseries\color{yellow} 
+		Історія Русів
+      }
+    };
 
-    %\node (tryzub) [below=of title] {
-      %\UkrC[blue][yellow][20];
-    %}
+	\begin{scope}[local bounding box=output,shift={(8.5,-12)}]
+      \UkrC[blue][yellow][5][1][1][0.0];
+  \end{scope}
+
 \end{tikzpicture}
 
 \restoregeometry

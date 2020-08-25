@@ -37,6 +37,9 @@ sub run_pdflatex {
 		root         => $self->{root},
 		root_id      => $self->{root_id},
 		cmd          => 'build_pwg',
+		join_lines   => {
+			include_below => [qw(subsection)]
+		}
 	);
 
 	$x->run;

@@ -21,11 +21,16 @@
     img_end
     \fi
 	};
-		\node (text) at (current page.center) { 
+
+		\node (title) at (current page.center) { 
 			\scalebox{2.0}{
 				\Huge\bfseries\color{yellow} Повесть Временных Лет
 			}
 		};
+
+		\node (tryzub) [below=of title] {
+			\UkrC[blue][yellow][20];
+		}
 \end{tikzpicture}
 
 \restoregeometry

@@ -15,9 +15,16 @@
 \usepackage{mathtext}
 %\usepackage{extsizes}
 
+\ifpdf
+
 \usepackage[OT1,T2A,T3]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[english,russian]{babel}
+
+\fi
+
+\ii{preamble.packages.xelatex}
+
 \usepackage{iflang}
 
 \usepackage[titles]{tocloft}

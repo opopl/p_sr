@@ -10,6 +10,7 @@ preamble.patches.hyperref
 preamble.patches.sections
 preamble.patches.toc
 preamble.titlesec
+preamble.packages.xelatex
 #
 13_07_2020
 13_07_2020.fb.lnr.1

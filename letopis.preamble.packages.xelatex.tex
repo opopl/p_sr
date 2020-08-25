@@ -1,0 +1,38 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file preamble.packages.xelatex
+%%parent preamble.packages
+ 
+%%endhead 
+
+\ifxetex
+
+\usepackage{xltxtra}
+
+\usepackage{polyglossia}
+
+%\setmainlanguage{churchslavonic}\usepackage{churchslavonic}
+
+\setmainlanguage{russian}
+\setotherlanguage{english}
+\setkeys{russian}{babelshorthands=true}
+
+\setmainfont{Times New Roman}
+\setromanfont{Times New Roman} 
+
+\setsansfont{Arial} 
+\setmonofont{Courier New} 
+
+\newfontfamily{\cyrillicfont}{Times New Roman} 
+\newfontfamily{\cyrillicfontrm}{Times New Roman}
+\newfontfamily{\cyrillicfonttt}{Courier New}
+\newfontfamily{\cyrillicfontsf}{Arial}
+
+
+\addto\captionsrussian{%
+  \renewcommand{\figurename}{Рис.}%
+  \renewcommand{\tablename}{Табл.}%
+}
+\else
+\fi

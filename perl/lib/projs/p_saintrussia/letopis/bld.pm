@@ -27,7 +27,7 @@ sub init {
         } . "\n";
         exit 1;
     }
-    my $act = shift @ARGV || 'build';
+    my $act = shift @ARGV || 'compile';
     $self->{act} = $act; 
 
     my $h = {
@@ -53,13 +53,14 @@ sub init_maker {
         ;
 
     my $maps_act = {
-        'build' => 'build_pwg',
-        'join'  => 'insert_pwg',
+        'compile' => 'build_pwg',
+        'join'    => 'insert_pwg',
     };
 
     my $act = $self->{act};
     my $cmd = $maps_act->{$act} || '';
 
+    local @ARGV=();
     my $x = Plg::Projs::Build::PdfLatex->new(
         skip_get_opt => 1,
         proj         => $self->{proj},

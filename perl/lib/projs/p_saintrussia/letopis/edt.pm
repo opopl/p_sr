@@ -27,7 +27,15 @@ sub init {
 sub run {
     my ($self) = @_;
 
-    my $files = $self->_files;
+    my $r = { 
+        'exts' => [ qw( ) ],
+    };
+
+    my $root = $self->{root};
+    my $proj = $self->{proj};
+
+    my $files = $self->_files($r);
+
     print Dumper($files) . "\n";
 
     return $self;

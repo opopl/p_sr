@@ -77,25 +77,31 @@ sub init_maker {
             insert => {
                 titletoc => [
 					{
+###ttt_section
 	                    scts    => [qw( section )],
 	                    lines => [
 		                    ' ',
 		                    '\startcontents[subsections]',
-		                    '\printcontents[subsections]{l}{2}{}',
-		                    ' ',
-							#'\setcounter{tocdepth}{2}',
-	                    ]
+				'\printcontents[subsections]{l}{2}{\addtocontents{ptc}{\setcounter{tocdepth}{3}}}',
+
+	                    ],
+	                    lines_stop => [
+		                    '\stopcontents[subsections]',
+						]
 					},
+###ttt_chapter
 					{
 	                    scts    => [qw( chapter )],
 	                    lines => [
 		                    ' ',
 		                    '\startcontents[sections]',
-							#'\printcontents[sections]{l}{1}{}',
-							'\printcontents[sections]{l}{3}{}',
+				'\printcontents[sections]{l}{1}{\addtocontents{ptc}{\setcounter{tocdepth}{1}}}',
+							#'\printcontents[sections]{}{1}{\setcounter{tocdepth}{1}}',
 		                    ' ',
-							#'\setcounter{tocdepth}{0}',
-	                    ]
+	                    ],
+	                    lines_stop => [
+		                    '\stopcontents[sections]',
+						]
 
 #\printcontents[hnamei]{hprefix i}{hstart-level i}[htoc-depthi]{htoc-codei}
 #Print the current partial toc of hnamei kind. The format of the main toc entries are used,

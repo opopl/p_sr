@@ -43,6 +43,40 @@ sub init {
     return $self;
 }
 
+sub _insert_titletoc {
+	my $self = shift;
+
+	my @d;
+	push @d,
+			{
+###ttt_section
+             scts    => [qw( section )],
+             lines => [
+                 ' ',
+                 '\startcontents[subsections]',
+ 	'\printcontents[subsections]{l}{2}{\addtocontents{ptc}{\setcounter{tocdepth}{3}}}',
+
+             ],
+             lines_stop => [
+                 '\stopcontents[subsections]',
+ 			]
+ 		},
+ 		{
+             scts    => [qw( chapter )],
+             lines => [
+                 ' ',
+                 '\startcontents[sections]',
+ 	'\printcontents[sections]{l}{1}{\addtocontents{ptc}{\setcounter{tocdepth}{1}}}',
+                 ' ',
+             ],
+             lines_stop => [
+                 '\stopcontents[sections]',
+ 			]
+ 		},
+		;
+	return [@d];
+}
+
 sub init_maker {
     my ($self) = @_;
 
@@ -75,48 +109,7 @@ sub init_maker {
         sections => {
             include => \@secs_include,
             insert => {
-                titletoc => [
-					{
-###ttt_section
-	                    scts    => [qw( section )],
-	                    lines => [
-		                    ' ',
-		                    '\startcontents[subsections]',
-				'\printcontents[subsections]{l}{2}{\addtocontents{ptc}{\setcounter{tocdepth}{3}}}',
-
-	                    ],
-	                    lines_stop => [
-		                    '\stopcontents[subsections]',
-						]
-					},
-###ttt_chapter
-					{
-	                    scts    => [qw( chapter )],
-	                    lines => [
-		                    ' ',
-		                    '\startcontents[sections]',
-				'\printcontents[sections]{l}{1}{\addtocontents{ptc}{\setcounter{tocdepth}{1}}}',
-							#'\printcontents[sections]{}{1}{\setcounter{tocdepth}{1}}',
-		                    ' ',
-	                    ],
-	                    lines_stop => [
-		                    '\stopcontents[sections]',
-						]
-
-#\printcontents[hnamei]{hprefix i}{hstart-level i}[htoc-depthi]{htoc-codei}
-#Print the current partial toc of hnamei kind. The format of the main toc entries are used,
-#except if there is a hprefix i. In such a case, the format of hprefix ihlevel i is used, provided it is
-#defined. For example, if prefix is l and the format of lsection is defined, then this definition
-#will be used; otherwise, the format is that of section. The hstart-level i parameter sets the top
-#level of the tocs—for a part toc it would be 0 (chapter), for a chapter toc 1 (section), and so
-#on. The htoc-codei is local code for the current toc; it may be used to change the
-#\contentsmargin, for instance. New 2.11 Finally, htoc-depthi sets the tocdepth locally (in
-#former versions it was suggested setting this value with \setcounter in the last argument, but
-#that was wrong, because this command set counters globally).
-#A simple usage might look like (provided you are using titlesec as well):
-						
-					}
-                ]
+                titletoc => $self->_insert_titletoc
             },
         }
     );

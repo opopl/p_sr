@@ -1,0 +1,45 @@
+\documentclass[a4paper,11pt]{book}
+
+\usepackage[T1]{fontenc}        
+
+\usepackage{titletoc}
+\setcounter{secnumdepth}{3}
+
+\AtBeginDocument{
+    \titlecontents{psection}[2.3em] {} {\contentslabel{2.3em}} {} {\titlerule*[1pc]{.}\contentspage}
+    \titlecontents{psubsection}[5.5em] {} {\contentslabel{3.2em}} {} {\titlerule*[1pc]{.}\contentspage}
+    \titlecontents{psubsubsection}[9.6em] {} {\contentslabel{4.1em}} {} {\titlerule*[1pc]{.}\contentspage}
+}
+
+\usepackage{titlesec}
+
+\titleformat{\chapter}[hang]{\filright}{}{0pt}{ \Huge \bfseries\raggedleft}
+[\vspace*{4pc}%
+\startcontents
+{\raggedleft\bfseries \large minitoc\endgraf}
+\titlerule
+\vspace{6pt}
+\printcontents{p}{1}{\setcounter{tocdepth}{3}}
+\vspace{6pt}
+\titlerule]
+
+
+\begin{document}
+
+    \tableofcontents
+
+    \chapter{chapter}
+    \section{title section}
+    \subsection{subsection}
+    \subsubsection{subsubsection}
+    \subsubsection{subsubsection}
+    \subsubsection{ssubsubection}
+
+    \chapter{chapter}
+    \section{section}
+    \subsection{subsection}
+    \subsubsection{subsubsection}
+    \subsubsection{ssubsubection}
+    \section{section}
+    \subsection{subsection}
+\end{document}

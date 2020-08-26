@@ -4,14 +4,16 @@ package projs::p_saintrussia::letopis::edt;
 use strict;
 use warnings;
 
+use Data::Dumper qw(Dumper);
+
 use base qw(
-	Plg::Projs::Prj
+    Plg::Projs::Prj
 );
 
 sub init {
-	my ($self) = @_;
+    my ($self) = @_;
 
-	$self->SUPER::init();
+    $self->SUPER::init();
 
     my $h = {};
         
@@ -23,9 +25,12 @@ sub init {
 }
 
 sub run {
-	my ($self) = @_;
+    my ($self) = @_;
 
-	return $self;
+    my $files = $self->_files;
+    print Dumper($files) . "\n";
+
+    return $self;
 }
 
 1;

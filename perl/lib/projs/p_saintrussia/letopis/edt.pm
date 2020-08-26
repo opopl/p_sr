@@ -8,6 +8,11 @@ use Data::Dumper qw(Dumper);
 use File::Slurp::Unicode;
 use File::Spec::Functions qw(catfile);
 
+use utf8; 
+use Encode;
+#use open qw(:utf8 :std);
+binmode STDOUT, ":utf8";
+
 use base qw(
     Plg::Projs::Prj
 );
@@ -52,15 +57,17 @@ sub edit_tex {
 
         unless (-e $file) {
             warn sprintf( 'NO FILE: %s', $file ) . "\n";
+            next;
         }
 
-        my @lines = read_file $file;
+        my @lines = read_file($file);
         my @nlines;
 
         foreach(@lines) {
             chomp;
 
-            s/–/---/g;
+            s/(\s+)–(\s+)/$1---$2/g;
+            s/(\d+)–(\d+)/$1-$2/g;
 
             push @nlines, $_;
         }

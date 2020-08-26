@@ -29,15 +29,13 @@ sub init {
 sub fill_files {
     my ($self) = @_;
 
-	$self->{files} = {};
-	foreach my $ext (qw( tex pl dat )) {
-	    my $r = { 
-	        'exts' => [ $ext ],
-	    };
-		$self->{files}->{$ext} = $self->_files($r);
-	}
-
-	print Dumper($self->{files}->{tex}) . "\n";
+    $self->{files} = {};
+    foreach my $ext (qw( tex pl dat )) {
+        my $r = { 
+            'exts' => [ $ext ],
+        };
+        $self->{files}->{$ext} = $self->_files($r);
+    }
 
     return $self;
 }
@@ -48,14 +46,26 @@ sub edit_tex {
     my $root = $self->{root};
     my $proj = $self->{proj};
 
-	my $files = $self->{files}->{tex} || [];
-	foreach my $f (@$files) {
-		my $file = catfile($root,$f);
+    my $files = $self->{files}->{tex} || [];
+    foreach my $f (@$files) {
+        my $file = catfile($root, $f);
 
-		edit_file {
-			s/–/---/g;
-		} $file
-	}
+        unless (-e $file) {
+            warn sprintf( 'NO FILE: %s', $file ) . "\n";
+        }
+
+        my @lines = read_file $file;
+        my @nlines;
+
+        foreach(@lines) {
+            chomp;
+
+            s/–/---/g;
+
+            push @nlines, $_;
+        }
+        write_file($file,join("\n",@nlines) . "\n");
+    }
 
     return $self;
 }
@@ -66,10 +76,10 @@ sub run {
     my $root = $self->{root};
     my $proj = $self->{proj};
 
-	$self
-		->fill_files
-		->edit_tex
-		;
+    $self
+        ->fill_files
+        ->edit_tex
+        ;
 
     return $self;
 }

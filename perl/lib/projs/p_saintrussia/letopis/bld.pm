@@ -8,6 +8,7 @@ use base qw(
     Plg::Projs::Prj
 );
 use FindBin qw($Bin $Script);
+use Data::Dumper qw(Dumper);
 
 use File::Spec::Functions qw(catfile);
  
@@ -60,7 +61,8 @@ sub init_maker {
     my $act = $self->{act};
     my $cmd = $maps_act->{$act} || '';
 
-    local @ARGV=();
+
+    local @ARGV = ();
     my $x = Plg::Projs::Build::PdfLatex->new(
         skip_get_opt => 1,
         proj         => $self->{proj},

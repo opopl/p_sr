@@ -81,9 +81,9 @@ sub init_maker {
 	                    lines => [
 		                    ' ',
 		                    '\startcontents[subsections]',
-		                    '\printcontents[subsections]{l}{1}{}',
+		                    '\printcontents[subsections]{l}{2}{}',
 		                    ' ',
-	                        '\setcounter{tocdepth}{2}',
+							#'\setcounter{tocdepth}{2}',
 	                    ]
 					},
 					{
@@ -91,10 +91,24 @@ sub init_maker {
 	                    lines => [
 		                    ' ',
 		                    '\startcontents[sections]',
-		                    '\printcontents[sections]{l}{1}{}',
+							#'\printcontents[sections]{l}{1}{}',
+							'\printcontents[sections]{l}{3}{}',
 		                    ' ',
-	                        '\setcounter{tocdepth}{1}',
+							#'\setcounter{tocdepth}{0}',
 	                    ]
+
+#\printcontents[hnamei]{hprefix i}{hstart-level i}[htoc-depthi]{htoc-codei}
+#Print the current partial toc of hnamei kind. The format of the main toc entries are used,
+#except if there is a hprefix i. In such a case, the format of hprefix ihlevel i is used, provided it is
+#defined. For example, if prefix is l and the format of lsection is defined, then this definition
+#will be used; otherwise, the format is that of section. The hstart-level i parameter sets the top
+#level of the tocs—for a part toc it would be 0 (chapter), for a chapter toc 1 (section), and so
+#on. The htoc-codei is local code for the current toc; it may be used to change the
+#\contentsmargin, for instance. New 2.11 Finally, htoc-depthi sets the tocdepth locally (in
+#former versions it was suggested setting this value with \setcounter in the last argument, but
+#that was wrong, because this command set counters globally).
+#A simple usage might look like (provided you are using titlesec as well):
+						
 					}
                 ]
             },

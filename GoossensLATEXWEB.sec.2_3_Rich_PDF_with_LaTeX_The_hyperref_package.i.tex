@@ -1,0 +1,1025 @@
+
+\isubsec{2_3_Rich_PDF_with_LaTeX_The_hyperref_package}{Rich PDF with\ \LaTeX: The hyperref package }
+
+The hyperref package by Sebastian Rahtz \footnote{With considerable help
+over the years from many contributors, notably David Carlisle. } derives
+from, and builds on, the work of the Hyper\TeX\  project (see Appendix
+B.1 on page 403 and []). It extends the functionality of all the \LaTeX\
+cross-referencing commands (including the table of contents,
+bibliographies, and so on) to produce \verb|\special| commands that a
+driver can turn into hypertext links; it also provides new commands to
+allow the user to write ad hoc hypertext links, including those to
+external documents and URLs. 
+ 
+The package supports a variety of DVI drivers; they use either the
+Hyper\TeX\  \verb|\special| commands or, if designed to produce only
+PDF, literal PostScript \verb|\special| commands or \pdfTEX-specific
+primitives. The commands are defined in configuration files for
+different drivers, selected by package options. The following drivers
+are supported: 
+
+\begin{itemize}
+  \item \textbf{hypertex} For DVI processors conforming to the Hyper\TeX\  guidelines (that is, 
+    \verb|xdvi|, \verb|dvips| with the \verb|-z| option, OzTeX, and Textures); 
+  \item \textbf{dvips} Writes \verb|\special| commands producing literal PostScript, tailored for 
+    dvips. 
+  \item \textbf{dvipsone} Writes \verb|\special| commands producing literal PostScript, tailored for 
+    dvipsone. 
+  \item \textbf{pdftex} Writes commands for Han The Thanh's \ \TeX\  variant which produces PDF 
+    directly (see \refsec{2_4_Generating_PDF_directly_from_TeX}). 
+  \item \textbf{dvipdfm} Writes \verb|\special| commands for Mark Wicks's DVI to PDF driver 
+    dvipdfm. 
+  \item \textbf{dviwindo} Writes \verb|\special| commands which Y\&Y's Windows previewer interprets as hypertext jumps within the previewer. 
+  \item \textbf{vtex} Writes \verb|\special| commands which MicroPress' HTML and PDF-producing 
+    \ \TeX\  variants interpret as hypertext jumps. 
+\end{itemize}
+
+Output from \verb|dvips| or \verb|dvipsone| \footnote{
+Both these drivers support partial font downloading; it is advisable to turn it off when preparing 
+PostScript for Acrobat Distiller, since this has its own system of making font subsets. 
+} must be processed using Acrobat Distiller to 
+obtain a PDF file. The result is generally prefererable to that produced using the 
+\verb|hypertex| driver and subsequent processing with the command \verb|dvips -z|. The 
+advantage of a DVI file written using the Hyper\TeX\  \verb|\special| commands is that it 
+can also be used with hypertext viewers like \verb|xdvi|. 
+
+\isubsubsec{2_3_1_Implicit_behavior_of_hyperref}{Implicit behavior of hyperref}
+
+The package can be used more or less with any normal \LaTeX\  document
+by requesting it in the document preamble. You must make sure it is the
+last of the loaded packages to give it a fighting chance of not being
+overwritten since its job is to redefine many \LaTeX\  commands.
+Hopefully you will find that all cross-references work correctly as
+hypertext, unless the implicit option is set to false, in which case
+only explicit hyperlink commands will be processed. Options control the
+appearance of links and give extra control over PDF output. 
+
+\reffig{2-6} shows the result of processing our test file (see Appendix A.1), with 
+hyperref defaults, to PDF; \reffig{2-7} shows the same file displayed using \verb|xdvi|. 
+ 
+%%page page_59                                                  <<<---3
+%%page page_60                                                  <<<---3
+ 
+Two commonly used package options are 
+
+\begin{itemize}
+  \item \verb|colorlinks|, which colors the text of links instead of putting boxes around 
+    them (see \reffig{2-8}, which uses gray scales instead of color); and 
+  \item \verb|backref|, which inserts extra ``back'' links into the bibliography for each entry. 
+    Figures \reffig{2-9} and \reffig{2-10} show what happens with this
+    option set on and off. Note: The \verb|backref| and
+    \verb|pagebackref| options can work properly only if there is a
+    blank line after each \verb|\bibitem| (as there is if it is created
+    by BIB\TeX\ ). 
+\end{itemize}
+
+
+%%page page_61                                                  <<<---3
+
+\isubsubsec{2_3_2_Configuring_hyperref}{Configuring hyperref}
+
+All user-configurable aspects of hyperref are set using a single
+``key-value'' scheme 
+(using the \verb|keyval| package with the key \verb|Hyp|). The options can be set either in the 
+optional argument to the \verb|\usepackage| command or with the command: 
+
+\begin{fminipage}{5in}
+\verb|\hypersetup{|\emph{keyvalue pairs}\verb|}| 
+\end{fminipage}
+
+Note that optional argument of the package command uses an experimental
+extension to \LaTeX's syntax. \LaTeX\ imposes some restrictions on the
+detailed content of package options and so this method may not always
+work; in general, options that involve only letters, digits, and
+punctuation will be safe. 
+
+In addition, when the package is loaded, a file \verb|hyperref.cfg| is read if it can 
+be found; this is a convenient place to set options on a sitewide basis. Thus the 
+behavior of a particular file could be controlled by: 
+
+\begin{itemize}
+  \item A sitewide \verb|hyperref.cfg| setting up the look of links, adding backreferencing, 
+    and setting a PDF display default: 
+
+    \begin{verbatim}
+    \hypersetup{backref, 
+    pdfpagemode=FullScreen, 
+    colorlinks=true} 
+    \end{verbatim}
+
+  \item A global option in the file that is passed down to \verb|hyperref|: 
+
+    \begin{verbatim}
+    \documentclass[dvips]{article} 
+    \usepackage{hyperref} 
+    \end{verbatim}
+
+  \item File-specific options in the \verb|\usepackage| commands that override the ones set 
+    in \verb|hyperref.cfg|: 
+
+    \begin{verbatim}
+    \usepackage[pdftitle={A Perfect Day},colorlinks=false]{hyperref} 
+    \end{verbatim}
+\end{itemize}
+
+Details of all the package options are given in \refsec{2_3_8_Catalog_of_package_options} on page 62. For 
+many options you do not need to give a value because they default to the value 
+true if used. These are the ones classed as Boolean. The values true and false 
+can always be specified, however. 
+
+\ipar{General_options}{General options}
+
+A back-end driver can be chosen using one of the options listed in \reftab{2-4} on 
+ 62. If no driver is specified, the package defaults to loading the \verb|hypertex| 
+driver. Most drivers provide the expected behavior without further ado; if you use 
+dviwindo, however, you may need to redefine the following command: 
+
+\begin{verbatim}
+\wwwbrowser 
+\end{verbatim}
+
+This command tells the \verb|dviwindo| driver what program to launch;
+the default is \verb|c:\netscape\netscape.exe|. Thus users of Internet
+Explorer might add something like the following to \verb|hyperref.cfg|: 
+
+\begin{verbatim}
+
+\renewcommand{wwwbrowser}{C:\string\Program\space 
+  Files\string\Plus!\string\Microsoft\space 
+  Internet\string\iexplore.exe} 
+
+\end{verbatim}
+
+%%page page_62                                                  <<<---3
+
+A number of general options, listed in \reftab{2-5} on page 62, apply to all drivers. 
+The importance of the \verb|breaklinks| option is demonstrated in \reffig{2-11}; this 
+example was processed using \pdfTEX, which has allowed the URL to break, and 
+has made each part into separate links. The other drivers are unable to manage this 
+trick, and the URL would have to be left protruding into the margin. 
+
+\reftab{2-6} on page 63 lists options that also apply to all drivers but
+provide extended functionality. There are various options to specify the
+color of text in links. All color names must be defined before use,
+following the normal system of the standard \LaTeX\ \verb|color|
+package. Users must also realize that the color of colored links is part
+of the text; if you color URLs green and then print the page from
+Acrobat, for example, the text will be printed in green (that is, a gray
+scale on a black-and-white printer). 
+
+\ipar{Using_the_xr_package_with_hyperref}{Using the xr package with hyperref}
+
+A collection of interacting files can be created automatically, using
+the \verb|xr| package. However, since either \verb|dvi| or \verb|pdf| versions of the results
+may be used, the \verb|hyperref| package does not necessarily know which files
+to refer to. Consider the following file: 
+
+
+\begin{verbatim}
+  \documentclass{article} 
+  \usepackage{xr} 
+  \usepackage{hyperref} 
+  \externaldocument{other} 
+  \begin{document} 
+  See section \ref{facts} in the other file 
+  \end{document} 
+\end{verbatim}
+
+The label \verb|facts| is defined in the file \verb|other.tex|; when the
+current file is processed, it reads other \verb|.aux| and makes all of
+its labels available for \verb|\ref| in the current file (this is the
+job of the \verb|xr| package). Because we have loaded \verb|hyperref|,
+the command \verb|\ref{facts}| creates a hypertext link referring to the
+other file. But does it ask for \verb|other.dvi| (which is what we want
+if we are using \verb|dviwindo|, for example), or \verb|other.pdf|
+(which Acrobat can open directly)? The \verb|hyperref| package does its
+best to guess correctly, but on occasion you may wish to override it by
+specifying the file suffix with the \verb|extension| option. 
+
+\ipar{Options_specifically_for_making_PDF_files}{Options specifically for making PDF files}
+
+When the target is a PDF file, there are many options to configure the
+output; these are listed in \reftab{2-7} on page 63. 
+
+ 
+%%page page_63                                                  <<<---3
+\begin{itemize}
+  \item \textbf{Setting link views} Setting the view for links in Acrobat can be complicated; 
+    unlike many other hypertext systems, Acrobat associates a magnification or zoom 
+    value with every link. \reftab{2-1} on the following page shows the possibilities, that is, 
+    a set of keys with a variable number of parameters. Unfortunately it is often rather 
+    hard for a hyperref user to work out what values to set for these parameters; they 
+    have to be expressed in the PDF default coordinate space, which is not necessarily 
+    the same as \ \TeX\  is thinking in. The good news is that \pdfTEX tries to work out 
+    sensible values for you, supplying default parameters for the commonly used keys, 
+    \verb|XYZ| and \verb|FitBH|; the bad news is that drivers using the pdfmark system do not supply 
+    defaults. So, if you say 
+
+    \begin{verbatim}
+    \usepackage[dvips, pdfview=FitBH]{hyperref} 
+    \end{verbatim}
+
+    you would normally get a catastrophic result, since \verb|FitBH|
+    \emph{must} be followed by a number. To make life a little easier in
+    practice, \verb|hyperref| supplies a value of -32768 as a parameter \footnote{
+    This meaningless value forces Acrobat Distiller to set a usually
+    sensible default for some keys.}
+    to the view command, if none is explicitly given; this value is ignored
+    by the \pdfTEX\  driver. 
+
+    The \emph{default} is always \verb|XYZ| followed by an appropriate value
+    for the driver, that is, the magnification does not change when a link
+    is followed. A typical change would be to set 
+
+    \begin{verbatim}
+    pdfview=FitBH 
+    \end{verbatim}
+
+    so that links jump to a view that fills the window with something rational, the width 
+    of the text area on the current page. 
+
+  \item \textbf{Coloring links} The color of link borders in Acrobat can
+    be specified \emph{only} as three numbers in the range O..1, giving an
+    RGB color. You cannot use the colors defined in \ \TeX. These colors
+    do \emph{not} form part of the text and will not show when printed. 
+
+  \item \textbf{Setting the window display} The options relating to the window display are 
+    demonstrated in \reffig{2-12}; this example was created with 
+
+    \begin{verbatim}
+
+    \usepackage[ 
+    pdftoolbar=fa1se, 
+    pdfmenubar=fa1se, 
+    pdfwindowui=fa1se, 
+    pdffitwindow=true, 
+    pdfpagelayout=TwoCo1umnLeft 
+    ]{hyperref} 
+
+    \end{verbatim}
+
+    %%page page_64                                                  <<<---3
+
+    Because the toolbar and menu bar have been removed, any interaction
+    for the user must be provided by the document itself (including
+    basics like a \verb|Quit| button); the command \verb|\Acrobatmenu|
+    (see Section 2.3.4 on page 47) comes in very useful here.  The menu
+    and toolbar can, in fact, be restored manually using Ctrl-Shift-M
+    and Ctrl-Shift-B key sequences, respectively. 
+
+\end{itemize}
+
+%%page page_65                                                  <<<---3
+
+\ipar{Acrobat_bookmark_commands}{Acrobat bookmark commands}
+
+The bookmark commands need further explanation. They are stored in a
+file called \emph{jobname}\verb|.out|, and you can postprocess this file to remove 
+\LaTeX\ codes if needed.  The bookmark text is \emph{not processed} by \LaTeX,
+so any markup is passed through literally. In addition, bookmarks must
+be written in Adobe's PDFDocEncoding. \reffig{2-13} shows the effect of
+the bookmarksopen option and also the limitations of PDFDocEncoding,
+since math cannot be displayed. To aid any editing you need to do, the
+out file is not rewritten by \LaTeX\  on the next pass if it is edited
+to contain the line \verb|\let\WriteBookmarks\relax|. The \verb|hyperref| package does try its best to 
+convert internal encoding for European accented characters to PDFDocEncoding. 
+
+\noindent\textbf{PDF document information fields} The options listed in \reftab{2-8} on page 65 
+allow you to put text in PDF's information fields. \reffig{2-14} shows the display of 
+document information in Acrobat; the document was created with the following 
+command in the document preamble: 
+
+\begin{verbatim}
+
+\usepackage[ 
+  pdfauthor={Maria Physicist}, 
+  pdftitle={Simu1ation of Energy Loss Straggling}, 
+  pdfcreator={pdfTeX}, 
+  pdfsubject={Energy Loss}, 
+  pdfkeywords={physics,energy} 
+]{hyperref} 
+
+\end{verbatim}
+ 
+%%page page_66                                                  <<<---3
+%%page page_67                                                  <<<---3
+ 
+\isubsubsec{2_3_3_Additional_user_macros_for_hyperlinks}{Additional user macros for hyperlinks}
+
+If you need to make references to URLs or write explicit point-to-point links, the 
+following set of user macros is provided. Note that it is possible to differentiate links 
+and anchors by category, but the feature is not seriously exploited in \verb|hyperref|. 
+
+\begin{verbatim}
+\hyperbaseurl{url} 
+\end{verbatim}
+
+A base \emph{url}, prepended to other specified URLs to make it easier to write portable 
+documents, is established. 
+
+\begin{verbatim}
+\href{url}{text} 
+\end{verbatim}
+
+The text is made into a hyperlink to the \verb|url|; this must be a full URL (relative to 
+the base URL, if that is defined). The special characters \verb|#| and \verb|~| do not need to be 
+escaped in any way. For example, 
+
+\begin{verbatim}
+\href{http://www.tug.org/~rahtz/nonsense.htm1#fun}{Some fun} 
+\end{verbatim}
+
+\begin{fminipage}{3in}
+  \verb| \hyperimage{| \emph{image url} \verb|} | 
+\end{fminipage}
+
+The image referenced by the \emph{image url} is inserted. 
+
+\begin{verbatim}
+\hyperdef{category}{name}{text} 
+\end{verbatim}
+
+A target area of the document (the \emph{text}) is marked and given the name \emph{category.name}. 
+
+\begin{verbatim}
+\hyperref{url}{category}{name}{text} 
+\end{verbatim}
+
+The text is made into a link to \emph{url\#category.name}. 
+
+\begin{verbatim}
+\hyperref[label]{text} 
+\end{verbatim}
+
+The text is made into a link to a point established with a normal \LaTeX\ \verb|\label| 
+command with the symbolic name \emph{label} (see the following description of \verb|\ref*| for 
+a use for this syntax.) 
+
+\begin{verbatim}
+\hyperlink{name}{text} 
+\hypertarget{name}{text} 
+\end{verbatim}
+
+A simple internal link is created with \verb|\hypertarget|, two parameters of an anchor 
+\emph{name}, and anchor \emph{text}. The \verb|\hyperlink| command has two arguments: the name of 
+a hypertext object defined somewhere by \verb|\hypertarget|, and the text used as the 
+link on the page. 
+
+In HTML parlance, the \verb|\hyperlink| command inserts a notional \verb|#| in front of 
+each link, making it relative to the current document; \verb|\href| expects a full URL. 
+
+%%page page_68                                                  <<<---3
+
+\begin{verbatim}
+\autoref {label} 
+\end{verbatim}
+
+This is a replacement for the normal \verb|\ref| command that puts a
+contextual tag in front of the reference. The difference is shown in
+\reffig{2-15}, where the first section link was made using
+\verb|\autoref{...}| and the second using \verb|\ref{...}|. The former
+has the word ``section'' as part of the link, whereas the latter has
+just the number. The behavior of the former is often more friendly for
+users than that of the latter. 
+
+The tag is worked out from the context of the original \verb|\label|
+command by hyperref using the macros listed in \reftab{2-2}. The macros can
+be redefined in documents using \verb|\renewcommand|; note that some of
+these macros are already defined in the standard document classes. The
+mixture of lowercase and uppercase initial letters is deliberate and
+corresponds to the author's practice.  Sometimes you might want to make
+a link text all by yourself and do not want \verb|\ref| and
+\verb|\pageref| to form links. For this purpose, there are two variant
+commands: 
+
+%%page page_69                                                  <<<---3
+
+\begin{verbatim}
+\ref*{label} 
+\pageref*{label} 
+\end{verbatim}
+
+A typical use would be to write 
+
+\begin{verbatim}
+\hyperref[other]{that nice section (\ref*{other}) we read before} 
+\end{verbatim}
+
+where we want \verb|\ref*{other}| to generate the right number but not to form a link. 
+We will do this ourselves with \verb|\hyperref|. 
+
+\isubsubsec{2_3_4_Acrobat-specific_commands}{Acrobat-specific commands}
+
+If you want to access the menu options of Acrobat Reader or Acrobat Exchange, 
+the following command is provided in the appropriate drivers: 
+
+\begin{verbatim}
+\Acrobatmenu{menuoption}{text} 
+\end{verbatim}
+
+The text is used to create a button that activates the appropriate
+menuoption. \reftab{2-3} \footnote{ This table was laboriously derived by
+Thomas Merz, who was experimenting with Acrobat Exchange, and published
+in Merz (1998), since the names are not listed in Adobe documentation. } 
+lists the \emph{menuoption} names you can use. A
+comparison of this list with the menus in Acrobat will show what they
+do. Obviously some are appropriate only to Exchange. 
+
+As an example, let us add a menu bar in the footer of our document, using the 
+\verb|fancyhdr| package: 
+
+\begin{verbatim}
+
+\usepackage{fancyhdr} 
+\usepackage[colorlinks]{hyperref} 
+\pagestyle{fancy} 
+
+\cfoot{\NavigationBar} 
+\newcommand{\NavigationBar}{% 
+    \Acrobatmenu{PrevPage}{Previous}~ 
+    \Acrobatmenu{NextPage}{Next}~ 
+    \Acrobatmenu{FirstPage}{First}~ 
+    \Acrobatmenu{LastPage}{Last}~ 
+    \Acrobatmenu{GoBack}{Back}~ 
+    \Acrobatmenu{Quit}{Quit}% 
+} 
+
+\end{verbatim}
+
+The effect is shown in the following picture:
+ 
+%%page page_70                                                  <<<---3
+%%page page_71                                                  <<<---3
+ 
+The text can, of course, be any arbitrary \LaTeX\  piece of typesetting.
+The following variation uses symbols from the ZapfDingbats font (loaded
+with the \verb|pifont| package) for the same set of menu options: 
+
+\begin{verbatim}
+
+\usepackage{pifont} 
+\usepackage{graphics} 
+\newcommand{\NavigationBar}{{\Large 
+  \Acrobatmenu{PrevPage}{\ref1ectbox{\ding{227}}} 
+  \Acrobatmenu{NextPage}{\ding{227}} 
+  \Acrobatmenu{FirstPage}{\ref1ectbox{\ding{224}}} 
+  \Acrobatmenu{LastPage}{\ding{224}} 
+  \Acrobatmenu{GoBack}{\ref1ectbox{\ding{249}}} 
+  \Acrobatmenu{Quit}{\ding{54}}% 
+}} 
+
+\end{verbatim}
+
+with the effect as follows: 
+
+Instead of a Dingbat, we could also have used a picture, with code like 
+
+\begin{verbatim}
+\Acrobatmenu{Back}{\includegraphics{backpic}} 
+\end{verbatim}
+
+\ipar{2_3_5_Special_support_for_other_packages}{Special support for other packages}
+
+\verb|hyperref| tries to cooperate with as many other package as possible, but
+this laudable aim is sometimes impractical. Causes of conflict are 
+
+\begin{itemize}
+
+  \item Packages that manipulate the bibliographical mechanisms. Peter Williams's 
+    \verb|harvard| package is supported. However, the recommended package is Patrick 
+    Daly's \verb|natbib| package which has specific \verb|hyperref| hooks to allow reliable interaction. This package covers a very wide variety of layouts and citation styles, 
+    all of which will work with \verb|hyperref|. 
+
+  \item Packages that typeset the contents of the \verb|\label| and
+    \verb|\ref| macros, for example \verb|showkeys|. The \verb|hyperref| package
+    redefines all of these commands, unless the \verb|implicit=false| option is
+    used; then these packages will not work properly. 
+
+  \item Packages that do anything serious with the index. 
+
+\end{itemize}
+
+The \verb|hyperref| package is distributed with variants on two useful packages
+designed to work especially well with it. These are\verb| xr| and \verb|minitoc|, which
+support cross-document links using  \LaTeX's normal \verb|\label/\ref| mechanism
+and per-chapter tables of contents, respectively. 
+
+%%page page_72                                                  <<<---3
+ 
+\isubsubsec{2_3_6_Creating_PDF_and_HTML_forms}{Creating PDF and HTML forms}
+
+It is fast becoming commonplace (and even necessary) to convert paper forms to 
+an electronic equivalent. Many Web pages now use HTML forms to collect data 
+in very complicated ways, but it is not widely realized that PDF contains all the 
+same functionality. In this section, we look at the support in \verb|hyperre|f for creating 
+full-fledged PDF (and HTML) forms. 
+
+Those interested in forms should keep three things in mind: 
+
+\begin{enumerate}
+  \item  Fill-in forms are not the only use for form objects in PDF. D. P. Story 
+    [ACROTEX] and Hans Hagen [CONTEXT] use them for building sophisticated interactive applications and advanced navigation. \reffig{2-16} shows Hans 
+    Hagen's calculator, developed in \ \TeX\  (his CON\TeX T package) with embedded 
+    JavaScript and graphics drawn using METAPOST and delivered as PDF. 
+  \item  The current powerful forms are a relatively recent addition to PDF; to use 
+    them, you need Acrobat 3.01 or later and the Forms 3.5 add-ons. 
+  \item Few PDF-generating applications, apart from \ \TeX, really support markupbased creation of PDF forms, and most documentation deals with creating them 
+    manually using Acrobat Exchange. It is also a late addition to the \verb|hyperref| 
+    package, although the interface may need to change. \emph{Note}: only the pdftex, 
+    dvips, and \verb|tex4ht| drivers support forms. 
+\end{enumerate}
+
+The excellent book by Thomas Merz is required background reading for
+understanding how PDF handles forms (see Merz (1998), Chapters 7 and
+10), and Story's Web site [ACROTEX] has both well-designed examples and
+a detailed tutorial on using \verb|pdfmark| (see \refsec{2_2_Generating_PDF_from_TeX} on page 27)
+to create forms. You should also keep in mind that much underlying
+functionality requires use of JavaScript, which you will need to learn.
+With the Forms plug-in Adobe supplies a manual called \emph{Acrobat
+Forms JavaScript Olject Specification}; Netscape's \emph{JavaScript
+Reference Manua}l is also helpful. PDF forms have huge potential, and
+\verb|hyperref| only scratches the surface of what they can do.  
+
+The form support in \verb|hyperref|
+is designed to mimic that in HTML. To this end, it requires you to put
+all your form fields inside a \verb|Form| environment; only one is allowed per
+file. 
+
+\begin{verbatim}
+
+\begin{Form}[parameters] 
+fields 
+\end{Form} 
+
+\end{verbatim}
+
+%%page page_73                                                  <<<---3
+
+The \emph{parameters} are a set of key-value pairs, as listed in \reftab{2-9} on page 65. 
+
+Four types of form fields are supported: 
+
+\begin{enumerate}
+  \item  Text fields, that allow free entry of text; 
+  \item  Checkboxes, that allow a box to be selected or deselected; 
+  \item  Choice fields, that allow the user to choose one of a range of possibilities; and 
+  \item  Push buttons, that instigate some action. 
+\end{enumerate}
+
+In addition, there are special \verb|Submit| and \verb|Reset| fields. 
+
+The following six macros are used to prepare fields: 
+
+\begin{verbatim}
+
+\TextField[options]{label}
+\CheckBox[options]{label}
+\ChoiceMenu[options]{label}{cboices}
+\PushButton[options]{label}
+\Submit[options]{label}
+\Reset[options]{label}
+
+\end{verbatim}
+
+%%page page_74                                                  <<<---3
+
+Note that at the top level there is no distinction drawn between 
+
+\begin{itemize}
+  \item simple choice menus, where all possibilities are listed; 
+  \item pop-up choice menu, where the default is shown, and the rest appear only when 
+    the field is selected; 
+  \item combo menus, where a list of possibilities is given, but the user can type in a 
+    new value; \footnote{This type does not appear to be allowed in HTML.} and
+  \item radio fields, where one of a list of possibilities can be checked. 
+\end{itemize}
+
+There is a large set of options (see \reftab{2-10} on page 65) that affect what the form 
+fields do. 
+
+Making a field involves supplying a textual label, possibly a list of choices, (optionally) a default, and an initial selection. The way a list of choices is presented 
+depends on which options are used; the list is simply separated by commas. For 
+each item, it is possible to specify a visible string separately from the value actually 
+returned, if this choice is made, by supplying two strings separated by an = sign for 
+the choice. The first part is what is shown; the second part is the value returned. 
+
+Each of the three main field types (text, checkbox, and choice) consists of two 
+parts-the \emph{label} and the \emph{field} itself. The position of the label in relation to the field 
+is determined by three macros that you can redefine: 
+
+\begin{verbatim}
+\LayoutTextField{label}{field} 
+\LayoutChoiceField{label}{field} 
+\LayoutCheckboxField{label}{field} 
+\end{verbatim}
+
+These macros default to \verb|#1 #2|, that is, the label is set to the left of the field. A 
+typical redefinition might be 
+
+\begin{verbatim}
+\renewcommand{\LayoutTextField} [2] {\makebox [2in] {#1}#2} 
+\end{verbatim}
+
+which would set all labels within a fixed-width box, 2 inches wide. 
+
+What is actually created as the typeset area for the field is determined by 
+
+\begin{verbatim}
+
+\MakeRadioField{width}{height} 
+\MakeCheckField{width}{height} 
+\MakeTextField{width}{height} 
+\MakeChoiceField{width}{height} 
+\MakeButtonField{text} 
+
+\end{verbatim}
+
+These macros default to making the field a rectangle \emph{width} wide
+and \emph{height} high, with the field contents placed in the center.
+The \emph{width} and \emph{height} default to the size of the field
+contents but can be overridden with options (see \reftab{2-10} on 65). The
+exception is the macro for button fields, which defaults to \verb|#1|;
+it is used for push buttons and for the special \verb|\Submit| and
+\verb|\Reset| macros. 
+
+You might also need to redefine the following macros; these are used to
+work out sizes when no other information is available: 
+
+%%page page_75                                                  <<<---3
+ 
+\begin{center}
+  \begin{tabular}{cc}
+  
+  \emph{Macro}                      & \emph{Default}           \\
+  \hline
+  
+  \verb|\DefaultHeightofSubmit|     & \verb|12pt |             \\
+  \verb|\DefaultWidthofSubmit|      & \verb|2cm |              \\
+  \verb|\DefaultHeightofReset|      & \verb|12pt |             \\
+  \verb|\DefaultWidthofReset|       & \verb|2cm |              \\
+  \verb|\DefaultHeightofCheckBox|   & \verb|0.8\baselineskip | \\
+  \verb|\DefaultWidthofCheckBox|    & \verb|0.8\baselineskip | \\
+  \verb|\DefaultHeightofChoiceMenu| & \verb|0.8\baselineskip | \\
+  \verb|\DefaultWidthofChoiceMenu|  & \verb|0.8\baselineskip | \\
+  \verb|\DefaultHeightofText|       & \verb|\baselineskip |    \\
+  \verb|\DefaultWidthofText|        & \verb|3cm |              \\
+  
+  \hline
+  
+  \end{tabular}
+\end{center}
+
+%%page page_76                                                  <<<---3
+
+Note that all colors must be expressed as RGB triples in the range 0..1
+(for example, color=0 0 0.5). In general, these options simply provide
+an interface to the relevant PDF code which is fully documented in Bienz
+et al. (1996). Familiarity with that document is vital if you plan to go
+beyond the defaults and simple variations. 
+
+Now that we have all the tools described, what about a simple example?
+\reffig{2-17} shows a typical form, demonstrating almost all of the
+different field types.  Let us look in detail at the code that produced
+this form. First, in the document preamble, we load hyperref and then
+start a Form environment with an appropriate URL (simply mail it). 
+
+\begin{verbatim}
+
+	\documentclass{article} 
+	\usepackage [bookmarks=false]{hyperref} 
+	
+	\setlength{\parindent}{Opt}\setlength{\parskip}{10pt} 
+	\begin{document} 
+	\begin{Form}[action=mailto:srahtz,method=post] 
+
+\end{verbatim}
+
+The following entries show the different field types: 
+
+\begin{enumerate}
+
+  \item Text field. Here we supply a value for the width; by default it would be the size 
+    of the default value: 
+
+    \begin{verbatim}
+    \TextField[width=3in,name=xname,va1ue={Bi1bo Baggins}]{Fu11 name: } 
+    \end{verbatim}
+
+  \item Text field, multiline. The text color and box color are changed and a dashed 
+    border is drawn around the field: 
+
+    \begin{verbatim}
+    \TextField[multiline,width=1in,name=address,borderstyle=D, 
+    color=1 1 1,backgroundcolor=O O .5, 
+    value={Bag End, The Hill, Hobbiton}]{Address: } 
+    \end{verbatim}
+
+  \item Choice. By default, the height of the field would be enough to hold all the 
+    choices, but we limit it to showing three at a time: 
+
+    \begin{verbatim}
+    \ChoiceMenu[default=Home,menulength=3,width=2in,name=travel,default=Beorn] 
+    {Favorite part of your travels:} 
+    {Tro11s,Misty Mountains,Beorn,Mirkwood,E1ves,Laketown,% 
+    Smaug,The Battle} 
+    \end{verbatim}
+
+  \item Checkboxes. Only one box is checked at startup: 
+
+    \begin{verbatim}
+    Have you still got your: 
+    \CheckBox[]{Sword} 
+    \CheckBox[name=coat]{Mithril coat} 
+    \CheckBox[name=ring,checked]{\textbf{Ring!}} 
+    \end{verbatim}
+
+    %%page page_77                                                  <<<---3
+
+    \item Choice, radio style. Note here the supplying of different values shown from 
+      those returned by the checked box: 
+
+      \begin{verbatim}
+      \ChoiceMenu[radio,default=Again,name=next, 
+      borderwidth=3,bordercolor=O 1 0]{Do you want to:} 
+      {Do it all again=Again, 
+      Pretend it never happened=Forget, 
+      Write a book about it=Write} 
+      \end{verbatim}
+
+    \item Text field, password style. When text is entered, it is shown as asterisks: 
+
+      \begin{verbatim}
+      \TextField[password,name=made]{who made the ring? } 
+      \end{verbatim}
+
+
+    \item Choice, combo style. This field type allows us either to select one of the provided options or to type in a new one: 
+
+      \begin{verbatim}
+
+      \ChoiceMenu[combo,default=Bofur,name=whatdwarf] 
+      {Select funniest name, or add one} 
+      {Bofur,Thorin,Gollum,Smaug,Gandalf} 
+
+      \end{verbatim}
+
+      This shows the state when the field is not active: 
+
+      And this shows the list popping up: 
+
+    \item PushButton. This type activates some JavaScript code when the field is clicked: 
+
+      \begin{verbatim}
+      \PushButton[name=xxx,onclick={app.beep(0)}]{Make a horrid beep} 
+      \end{verbatim}
+
+    \item Send $\wedge$ Clear fields. These submit the contents of the form, and clear all the 
+      fields, respectively: 
+
+      \begin{verbatim}
+      \Submit{Send} \Reset{C1ear} 
+      \end{verbatim}
+
+  \end{enumerate}
+
+Finally, complete the \verb|Form| environment and end the document. 
+
+\begin{verbatim}
+
+\end{Form} 
+\end{document} 
+
+\end{verbatim}
+ 
+%%page page_78                                                  <<<---3
+
+The same \LaTeX\  file can also be used to produce an almost identical HTML 
+form (\reffig{2-18}) by specifying the \verb|tex4ht| option when loading the \verb|hyperref| 
+package. Chapter 4 discusses how to run tex4ht to get the HTML file. 
+
+Now that we have a form ready to interact with, how can we get at the data? 
+Merz (1998), Chapter 10, deals well with this issue, and in this book we can only 
+summarize the possibilities. There are essentially two ways to process the form data: 
+
+\begin{enumerate}
+  \item  If the PDF form is viewed inside a Web browser and a suitable URL is provided, 
+    clicking on the \verb|Send| button will post the data to the URL. 
+  \item  There is an Acrobat menu option (File $\rightarrow$ Export
+    $\rightarrow$ Form Data) that prompts for the name of an FDF file in
+    which to save the data. 
+\end{enumerate}
+
+The FDF file format is described in detail in Bienz et al. (1996),
+Appendix H; and Adobe makes available a toolkit for writing programs to
+process it. It is a simplified form of PDF, and the following example
+(from our simple form) shows the straightforward data structures:  
+ 
+%%page page_79                                                  <<<---3
+
+\begin{verbatim}
+ 
+%FDF-1.2 
+1 0 obj 
+<< 
+/FDF << /Fields [ 
+  << /V (Bag End, The Hill, Hobbiton)/T (address)>> 
+  << /V /Off /T (coat)>> 
+  << /V /nextl /T (next)>> 
+  << /V /Yes /T (ring)>> 
+  << /V /Yes /T (Sword)>> 
+  << /V (Mirkwood)/T (travel)>> 
+  << /V_(Kili)/T (whatdwarf)>> 
+  << /V (Bilbo Baggins)/T (xname)>> 
+] 
+>> 
+endobj 
+trailer 
+<< /Root 1 O R >> 
+%%EOF 
+
+\end{verbatim}
+
+\ipar{2_3_6_1_Validating_form_fields}{Validating form fields}
+
+It is possible to write JavaScript code to perform sophisticated
+validation of the contents of form fields (Merz (1998), pages 141-144,
+shows how to check an ISBN code, for instance), but Acrobat provides a
+range of built-in JavaScript functions for simple checking. These can be
+accessed by giving the function name and arguments with the keystroke,
+format, validate, and calculate options. Warning: These functions are
+undocumented and unsupported by Adobe! It is possible that they may no
+longer be available in later versions of Acrobat. 
+
+A summary of the available JavaScript functions follows; you should enter the 
+code exactly as it appears here, for example 
+
+\begin{verbatim}
+\TextField[name=ndwarves, 
+validate={AFRange_Va1idate\string\(true, 3, true, 10\string\);}] 
+{How many dwarves came along: } 
+\end{verbatim}
+
+Note the distinction between keystroke functions, which determine what
+the user is allowed to type, and format functions, which determine how
+it is displayed.  Usually, both will be supplied for a given field. 
+
+\noindent\textbf{Ensure field content is entered and formatted as a percentage or
+a number} 
+
+\begin{verbatim}
+
+  AFPercent_Keystroke\string\(places, 0\string\); 
+  AFPercent_Format\string\(value, O\string\); 
+  AFNumber_Keystroke\string\(places, O, 0, 0, "", true\string\); 
+  AFNumber_Format\string\(places, 0, 0, 0, "", true\string\); 
+
+\end{verbatim}
+
+where \emph{places} is the number of decimal places. 
+
+%==========80==========<<<---2
+ 
+%%page page_80                                                  <<<---3
+ 
+\noindent\textbf{Ensure field content is entered and formatted as a date} 
+
+\begin{verbatim}
+AFDate_Keystroke\string\ ( type\string\) ; 
+AFDate_Format\string\ ( type\string\) ; 
+\end{verbatim}
+
+where \emph{type} is a number from the following table: 
+
+\begin{center}
+  \begin{tabular}{cccccc}
+  0 & 1/3      & 5 & 3-Jan-81   & 10 & Jan 3, 1981     \\
+  1 & 1/3/81   & 6 & 03-Jan-81  & 11 & January 3, 1981 \\
+  2 & 01/03/81 & 7 & 81-01-03   & 12 & 1/3/81  2:30pm  \\
+  3 & 01/81    & 8 & Jan-81     & 13 & 1/3/81  14:30   \\
+  4 & 3-Jan    & 9 & January-81                        \\
+  \end{tabular}
+\end{center}
+
+
+\noindent\textbf{Ensure field content is entered and formatted as a time}
+
+\begin{verbatim}
+
+AFTime_Keystroke\string\( type\string\) ; 
+AFTime_Format\string\ ( typ e\string\) ; 
+
+\end{verbatim}
+
+where type is a number from the following table: 
+
+\begin{center}
+  \begin{tabular}{cc}
+  0 & 14:30     \\
+  1 & 2.30 pm   \\
+  2 & 14:30:15  \\
+  3 & 2:30:15pm \\
+  \end{tabular}
+\end{center}
+
+Format entry in a specific way 
+
+\begin{verbatim}
+AFSpecial_Format\string\( type\string\) ; 
+\end{verbatim}
+
+where type is a number from the following table: 
+
+\begin{center}
+  \begin{tabular}{cc}
+  0 & Zip Code               \\
+  1 & Zip Code + 4           \\
+  2 & Phone Number           \\
+  3 & Social Security Number \\
+  \end{tabular}
+\end{center}
+
+\textbf{Validate numbers to a given range} 
+
+\begin{verbatim}
+AFRange_Validate\string\(true, minimum, true, maa:imum\string\); 
+\end{verbatim}
+
+\textbf{Specify that this field is derived from others} 
+
+\begin{verbatim}
+AFSimple_Calculate\string\("function", "List of field names"\string\); 
+\end{verbatim}
+
+The possible values for \emph{function} are SUM, PRODUCT, AVERAGE, MINIMUM, and
+MAXIMUM; the \emph{list of fields} must be separated by commas. 
+
+%%page page_81                                                  <<<---3
+ 
+\isubsubsec{2_3_7_Designing_PDF_documents_for_the_screen}{Designing PDF documents for the screen}
+
+For many people, simply having a PDF version of a printed document, with active 
+links, is useful enough. Others, however, have started to consider the use of PDF 
+for documents whose only existence is on the computer screen. 
+
+In Section 2.3.4 on page 47 we saw how we can access all the menu options of 
+Acrobat from within \LaTeX; this allows us to build a complete user interface using 
+all the power of \ \TeX. 
+
+Let us consider some of the ways in which we can design a document just
+for the screen. See \reffig{2-19}, \reffig{2-20} and \reffig{2-21}. 
+
+\begin{itemize}
+  \item We set up a landscape page design, which has the same aspect ratio
+    as the computer screen; we choose 6 in $\times 4$\ in; page margins
+    are adjusted to suit. Remember that \LaTeX\  gives one-inch margins by
+    default; we need to crop the page so that the margins are of minimal
+    width. The \LaTeX\  oneside option must be used, as there is no longer
+    any concept of odd or even pages. When the text width is small, you
+    should consider using the \verb|\raggedright| setting; 
+  \item We set the font family to one suited for screen reading; we choose Lucida 
+    Bright; 
+  \item Since there is no reason to fill pages, we set section headings to start a new 
+    page;
+  \item We use color; section headings are set in blue, hypertext links are colored, table 
+    rows are shaded, etc.; 
+  \item The \verb|\ref| commands are replaced by \verb|\autoref| (or by \verb|\hyperref| if a more 
+    customized link is needed); this makes the colored links have a more visible 
+    context; 
+  \item  Should you wish to disable the Acrobat menu and toolbar, a navigation and 
+    function bar can be put at the bottom of each page; 
+  \item To provide a visible pointer to the current page's location within the article, a 
+    progress gauge is placed at the bottom of each page: this works by comparing 
+    the current page number with the number of the last page, and constructing a 
+    colored bar of appropriate length. 
+\end{itemize}
+
+We would also need to work out a strategy for marginal notes and footnotes, since 
+these will look unnatural in a screen display. 
+
+\reffig{2-22} shows another possible design; this one has a navigation
+panel on the right-hand side of every page, including a summary table of
+contents. C. V. Radhakrishnan's \verb|pdfscreen| package (building on
+\verb|hyperref|) implements this scheme.  It has options to generate
+sidebar or footer menus and commands to specify logos and addresses to
+appear on every page. 
+
+%%page page_82                                                  <<<---3
+%%page page_83                                                  <<<---3
+%%page page_84                                                  <<<---3
+ 
+\isubsubsec{2_3_8_Catalog_of_package_options}{Catalog of package options}
+ 
+%%page page_85                                                  <<<---3
+%%page page_86                                                  <<<---3
+%%page page_87                                                  <<<---3
+ 
+%%TODO current
+ 
+
+The \emph{Key(s)} dictate how the effect appears, for example \verb|pdfpagetransition={Blinds /Dm /V}| 
+
+\begin{itemize}
+  \item \verb|/Di| (Direction) The direction of movement, in degrees (counterclockwise). Values are generally in 90° steps. 
+  \item \verb|/Dm| (Dimension) If a choice between horizontal or vertical is allowed, value is \verb|/H| (horizontal) or \verb|/V| (vertical). 
+  \item \verb|/M| (Motion) If an effect can be from the center out or from the edges in, value is \verb|/I| (in) or \verb|/O| (out). 
+\end{itemize}

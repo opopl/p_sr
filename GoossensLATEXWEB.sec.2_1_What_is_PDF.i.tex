@@ -1,0 +1,82 @@
+
+\isubsec{2_1_What_is_PDF}{What is PDF?}
+
+PDF is a descendant of Adobe Systems' PostScript language. Although
+Postscript has served as the preeminent typesetting page description
+language for nearly a decade, it suffers from age and complexity. Some
+crucial features (such as metadata, crudely implemented using comment
+conventions, and full prepress color) were added only in later
+revisions, and there are many small variations in implementation. More
+important, however, PostScript is a full-blown programming language.  It
+is hard to write interpreters fast enough to use it for rapid screen
+display and hard to write displayers that can be sure each page of a
+text can really be shown in isolation. Display PostScript solved some of
+the problems, adding interaction features; and at the same time, Adobe's
+Illustrator program developed a functional subset of PostScript for its
+internal representation. Based on this experience, it seems, Adobe
+developed a second-generation page description language, Portable
+Document Format; the differences between this language and PostScript
+are crucial: 
+
+\begin{itemize}
+  \item There is no built-in programming language (Adobe did add JavaScript support 
+    in version 3.5 of the Acrobat Forms plug-in, but this has more to do with viewer 
+    implementation than with the PDF language). 
+  \item The format guarantees page independence, clearly separating resources from 
+    objects. 
+  \item Hypertext and security features have been added to the language, allowing sophisticated interfaces to be built. 
+  \item Font handling allows the font itself not to be included in the file, accompanied by just enough information for applications that display PDF, like Adobe's Acrobat, to mimic the font appearance. Acrobat does this using the ingenious 
+    Multiple Master font technology. 
+  \item A great deal of effort was expended in compression features to keep the size of 
+    PDF files small. 
+\end{itemize}
+%%page page_49                                                  <<<---3
+
+Most of the advantages of PostScript remain: PDF guarantees page
+fidelity, down to the smallest glyph or piece of whitespace, while being
+portable across different computer platforms. PDF is used increasingly
+in the professional printing world as a replacement for PostScript and
+is now in its third revision (version 1.2 of the format). Since 1996, it
+has been possible to display PDF embedded in the major Web browsers,
+alongside HTML, using plug-in technology. 
+
+It is important to make a clear distinction between Portable Document Format, 
+and Acrobat. PDF is an open language whose specification is published (although 
+Adobe controls it); Acrobat is a family of commercial programs from Adobe which 
+produces, displays, and manipulates PDF. The main components are 
+
+\begin{itemize}
+  \item Reader, which is distributed freely, for simply viewing and printing PDF files; 
+  \item Exchange, which has all the functionality of Reader, but allows for changing 
+    the file; 
+  \item Distiller, which produces PDF files from PostScript files; 
+  \item PDFWriter, which provides printer drivers for Windows and
+    Macintosh, allowing any application to ``print'' to a PDF file directly; 
+  \item Catalog, which makes indexes of collections of PDF documents; and 
+  \item Capture, which produces PDF files by performing optical character recognition 
+    on bitInap-scanned pages. 
+\end{itemize}
+
+Although Acrobat Reader is free and available on many (but not all)
+platforms, there are other viewers available as well; the best-known
+free ones are Ghostscript [], which can also produce PDF from
+PostScript, and Xpdf []. 
+
+Both PDF and Acrobat are generally very well documented. \footnote{A notable exception is Forms, which remains an arcane area.}
+
+Besides the main PDF specification [] and the Acrobat documentation,
+there are many commercial books. Readers of this book who are accustomed
+to technical material will find \emph{Web Publishing with Acrobat/PDF}
+(Merz, 1998) an invaluable resource for all aspects of PDF that will not
+be covered in this book. Topics that serious users of PDF on the Web
+will need to address are 
+
+\begin{itemize}
+  \item Optimizing PDF files to allow page-at-a-time downloading; 
+  \item Embedding PDF in HTML pages; 
+  \item Javascript and VBScript programming in conjunction with PDF; 
+  \item Processing forms data in Web servers; and 
+  \item Dynamic creation of PDF. 
+\end{itemize}
+
+%%page page_50                                                  <<<---3

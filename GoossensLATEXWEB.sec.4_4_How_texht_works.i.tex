@@ -1,0 +1,64 @@
+
+\isubsec{4_4_How_texht_works}{How \texht\ works}
+
+It takes three phases to translate a source document into hypertext (see
+\refsec{4_6_1_The_translation_process} on page 184): a compilation of the source by the \ \TeX\
+program into DVI code, a manipulation of the DVI code by the
+\verb|tex4ht| program, and a processing of looseend tasks required for
+completing the translation. 
+
+\isubsubsec{From_Latex_to_dvi}{From \ \LaTeX\  to DVI }
+
+\LaTeX\ requires two compilations of a source file by \ \TeX\ to
+establish crossreferences, and \texht might require a third compilation
+to get all the hypertext links in place. On rare occasions when a
+tabular environment is used, with many cells being merged, more
+compilations might be needed to let the system work out how the cells
+should look. 
+
+When \ \LaTeX\  loads the \texht package, it loads the file \verb|tex4ht.sty| and looks 
+at just a few lines there. Then it records a request for loading the file again at a later 
+time, when it will scan the rest of the file. The second loading takes place when the 
+\verb|\begin{document}| code is encountered, at which time the requests made by the 
+package options are also honored. 
+
+Since \texht enters into the picture only when \verb|\begin{document}|
+is reached, some earlier user definitions might not get the full
+attention of \texht, unless they are redefined in a configuration file.
+For instance, \texht would have difficulties introducing HTML tags for
+the superscript of a macro \verb|\newcommand{\x}{a^{b}}| which was
+defined before the start of the the document environment. 
+
+\isubsubsec{From_DVI_to_HTML}{From DVI to HTML}
+
+DVI is a page description language that includes instructions for
+specifying what content should go at which location in a print-oriented
+medium. HTML, on the other hand, is a structure-oriented language with
+little regard to layout issues. 
+ 
+%%page page_191                                                  <<<---3
+
+Consequently, in many respects, a translation from DVI to HTML is a
+backward process, having to reconstruct information that might have been
+lost in the translation from \ \LaTeX\  to DVI. This backward process
+may well fail, if the DVI code results from a source document that
+places things outside the normal stream; \verb|\hspace{-O.6em}| is a
+possible example. 
+
+During translation from DVI to HTML, font calls are processed using
+virtual hypertext fonts (\refsec{4_6_7_The_font_control_files} on page 190). If these are
+missing or are inappropriate, new ones can be composed by the user
+without too much effort. 
+
+\isubsubsec{Other_matters}{Other matters}
+
+The last phase of the translation turns its attention to the production
+of bitmap pictures from DVI code. To that end, \texht relies on tools
+available for the current platform and that might also offer more than
+one route for producing the pictures. 
+
+The creation of pictures is the bottleneck of the translation process
+and may take a long time to complete. Some shortcuts might be taken to
+speed up the process; for instance, if bitmaps from earlier compilations
+are already available, the system-dependent utilities may allow them to
+be reused. 

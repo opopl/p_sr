@@ -1,0 +1,46 @@
+%%page page_47                                                  <<<---3
+ 
+\isec{Portable_Document_Format}{Portable Document Format}
+
+For some applications, the methods employed to disseminate information
+across the World Wide Web are unacceptable. This is because they leave
+the rendering of the ``page'' to the reader's software, not to the
+author's software. Even if pure HTML and Cascading Style Sheets are
+used, the author does not know where line breaks will occur, and, of
+course, there is no concept of ``page breaks.'' Graphics are often
+presented as low-resolution bitmaps with unreliable colors; table layout
+may be radically different. The author cannot even be sure which font
+will be seen by the reader, or whether some unsuitable symbols might be
+used in mathematics, for example. Finally, and perhaps most important,
+the current generation of Web browsers is not very sophisticated at
+typesetting and page makeup; the result of hitting the Print icon from a
+browser does not produce a high-quality result. 
+
+Who cares about these issues? On the one hand, lawyers may regard it vital that 
+an electronic document is \emph{exactly} the same as the traditional printed copy, down to 
+the line breaks. On the other hand, it might simply be that an author has spent 
+a lot of time making a beautiful page and wants it to be seen as such. In between 
+are applications where HTML output is simply not very ``nice,'' such as for very 
+complex forms, tables, and mathematical material. 
+
+This chapter, set up in three parts, describes a solution --- Portable
+Document Format (PDF). In the first part we take a general look at what
+PDF is, and what are the issues in creating it using \ \TeX. In the
+second part, we describe a special \LaTeX\ package (\verb|hyperref|) that
+enables you to make enhanced PDF documents from \LaTeX\  source, using a
+variety of back-end drivers and a high-level interface to hypertext
+commands.  
+%%page page_48                                                  <<<---3
+
+The final part of the chapter describes, in some detail, a special
+version of \ \TeX\ that generates PDF. Many readers, perhaps most, will
+not need to understand the new PDF primitives added to this version of 
+\TeX, since packages like hyperref provide a familiar \LaTeX\ interface.
+However, \pdfTEX\ offers tremendous possibilities for producing advanced
+interactive electronic documents, and confident \ \TeX\ programmers will
+want to understand what is going on under the hood. 
+
+\iii{2_1_What_is_PDF}
+\iii{2_2_Generating_PDF_from_TeX}
+\iii{2_3_Rich_PDF_with_LaTeX_The_hyperref_package}
+\iii{2_4_Generating_PDF_directly_from_TeX}

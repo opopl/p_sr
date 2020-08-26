@@ -75,16 +75,28 @@ sub init_maker {
         sections => {
             include => \@secs_include,
             insert => {
-                titletoc => {
-                    scts    => [qw( section )],
-                    lines => [
-	                    ' ',
-	                    '\startcontents[subsections]',
-	                    '\printcontents[subsections]{l}{1}{}',
-	                    ' ',
-                        '\setcounter{tocdepth}{2}',
-                    ]
-                }
+                titletoc => [
+					{
+	                    scts    => [qw( section )],
+	                    lines => [
+		                    ' ',
+		                    '\startcontents[subsections]',
+		                    '\printcontents[subsections]{l}{1}{}',
+		                    ' ',
+	                        '\setcounter{tocdepth}{2}',
+	                    ]
+					},
+					{
+	                    scts    => [qw( chapter )],
+	                    lines => [
+		                    ' ',
+		                    '\startcontents[sections]',
+		                    '\printcontents[sections]{l}{1}{}',
+		                    ' ',
+	                        '\setcounter{tocdepth}{1}',
+	                    ]
+					}
+                ]
             },
         }
     );

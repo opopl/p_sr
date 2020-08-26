@@ -1,0 +1,796 @@
+
+\isubsec{2_4_Generating_PDF_directly_from_TeX}{Generating PDF directly from \TeX}
+
+The purpose of Han The Thanh's \pdfTEX\  project \footnote{ We are
+grateful to Han The Thanh for considerable help with this section. }
+was to create an extension of \ \TeX\  that can create PDF directly from
+TEX source files and possibly actually enhance the result of \TeX\ 
+typesetting with the help of PDF. The pdfTEX program contains \ \TeX\
+as a subset: VVhen PDF output is not selected, \pdfTEX produces normal
+DVI output, otherwise it produces PDF output that looks identical to the
+DVI output. The next stage of the project is to investigate alternative
+justification algorithms, possibly making use of multiple master fonts.
+We will not, however, discuss that aspect of the program in this book. 
+
+The \pdfTEX\  program is based on the original \TeX\ sources and \verb|web2c| and has 
+been successfully compiled on UNIX, Macintosh, Amiga, VV1n32, and DOS systems. 
+
+%%page page_90                                                  <<<---3
+
+\isubsubsec{2_4_1_Setting_up_pdfTeX}{Setting up \pdfTEX}
+
+The \pdfTEX\ program [PDFTEXS] is distributed with many of the free TEX
+packages, including MikTeX and fpTEX for Windows 32, teTEX for UNIX,
+CMacTeX for Macintosh, and the general \verb|web2c| system on which most
+of these packages are based. 
+
+In addition to the normal \ \TeX\  fonts and macros, a \pdfTEX distribution consists 
+of the following items: 
+
+\begin{itemize}
+  \item \verb|pdftex.pool| pool file, needed for creating formats; 
+  \item \verb|ttf2afm| an external program to generate AFM files from TrueType fonts, needed 
+    to create \ \TeX\  font metric files; 
+  \item \verb|pdftex.cfg| \pdfTEX\  configuration file (see \refsec{2_4_1_1_The_pdfTEX_configuration_file}); and 
+  \item \verb|map| PostScript and TrueType font maps (see \refsec{2_4_1_3_Map_files}). 
+\end{itemize}
+
+When \pdfTEX\  is running, some extra search paths beyond those normally
+requested by \TeX\ itself are used: 
+
+\begin{itemize}
+    \item VFFONTS the path where \pdfTEX\  looks for virtual fonts; 
+    \item T1FONTS the path where \pdfTEX\  looks for Typel fonts; 
+    \item TTFONTS the path where \pdfTEX\  looks for TrueType fonts; 
+    \item PKFONTS the path where \pdfTEX\  looks for PK fonts; and 
+    \item TEXPSHEADERS the path where \pdfTEX looks for its configuration file 
+(\verb|pdftex.cfg|), font mapping files (\verb|map|), encoding files (\verb|enc|), and graphics 
+files (see \refsec{2_4_2_3_Graphics_inclusion}). 
+\end{itemize}
+
+\ipar{2_4_1_1_The_pdfTEX_configuration_file}{The \pdfTEX\ configuration file}
+
+When \pdfTEX\  starts, it reads a configuration file called
+\verb|pdftex.cfg|, searched for in the  \verb|TEXPSHEADERS| path.
+Because \verb|web2c| systems commonly specify a private tree for
+\pdfTEX\  where configuration and map files are located, this allows
+individual users or projects to maintain customized versions of the
+configuration file. It also means that individual \ \TeX\  input files
+need not set any \pdfTEX-specific macros. 
+
+The configuration file is used to set default values for the following parameters, 
+all of which can be overridden in the \ \TeX\  source file: 
+
+\begin{itemize}
+  \item \verb|output_format| Integer parameter specifying the output. A value greater than 
+    zero means PDF output, otherwise DVI output. 
+  \item \verb|compress_level| Integer parameter specifying the level of text compression (using 
+    \verb|zlib|). Zero means no compression, 1 means fastest, 9 means best, 2.8 means 
+    something in between. 
+  \item \verb|decimal_digits| Integer parameter specifying the precision of real numbers in PDF 
+    code. Valid values are in the range 0..5. A higher value means more precise 
+    output, but it may also mean a larger size and more time taken to display or 
+    print. In most cases the optimal value is 2. 
+
+  \item \verb|image_resolution| Integer parameter specifying the default
+    resolution of bitmap
+    image files that contain no resolution information. 
+
+  \item \verb|page_width, page_height| Dimension parameters specifying the page width and 
+    height of PDF output. If not specified, then page width is calculated by 
+    taking the width of the box being shipped out and adding $2\times\ $ \verb|(horigin + \hoffset)|. The page height is calculated in a similar way. 
+  \item \verb|horigin, vorigin| Dimension parameters specifying the offset of the \ \TeX\  output 
+    box from the top left corner of the ``paper.''
+  \item \verb|map| The name of the font mapping file (similar to those used by many DVI to 
+    PostScript drivers); more than one map file can be specified, using multiple map 
+    lines. If the name of the map file is prefixed with a +, its values are appended 
+    to the existing set, otherwise they replace it. If no map files are given, a default 
+    file psfonts .map is searched for. 
+\end{itemize}
+
+A typical \verb|pdftex.cfg| file looks like the following. It sets up output for A4 paper 
+size and the standard \ \TeX\  offset of 1 inch, and loads two map files for fonts. 
+
+\begin{verbatim}
+  
+  output_format 1 
+  compress_level O 
+  decimal_digits 2 
+  _width 210mm 
+  _height 297mm 
+  horigin lin 
+  vorigin 1in 
+  map standard.map 
+  map +cm.map 
+
+\end{verbatim}
+
+\ipar{2_4_1_2_Setting_up_fonts}{Setting up fonts}
+
+The \pdfTEX\  program normally works with Type 1 and TrueType fonts; a
+source must be available for all fonts used in the document, except for
+the 14 base fonts supplied by Acrobat (the Times, Helvetica, Courier,
+Symbol, and Dingbats families). It is possible to use METAFONT-generated
+fonts in \pdfTEX. It is strongly recommended, however, not to do so if
+an equivalent is available in Type 1 or TrueType format, since the
+resulting Type 3 fonts render very poorly in current versions of
+Acrobat. Given the free availability of Type 1 versions of all the
+Computer Modern fonts and the ability to use standard PostScript fonts
+without further ado, this is not usually a problem. 
+
+%%page page_92                                                  <<<---3
+
+\ipar{2_4_1_3_Map_files}{Map files}
+
+The \pdfTEX\  program reads \emph{map files} specified in the
+\emph{configuration file} (see
+\refsec{2_4_1_1_The_pdfTEX_configuration_file}), in which reencoding and
+partial downloading for each font are specified. Every font needed must
+be listed, each on a separate line, apart from PK fonts. 
+\pindx{map files}
+
+The syntax of each line is similar to the \verb|dvips| map files \footnote{
+Most dvips map files can be shared with \pdfTEX without problems. 
+} 
+and can contain up to six space-separated fields: \emph{texname},
+\emph{basename}, \emph{fontflags}, \emph{fontfile}, \emph{encoding}, and
+\emph{special}.  The only mandatory field is \emph{texname}, and it must
+be the first field. The rest of the fields are optional, but if
+\emph{basename} is given, it must be the second field. Similarly, if
+\emph{fontflags} is given, it must be the third field (if
+\emph{basename} is present) or the second field (if \emph{basename} is
+left out). It is possible to vary the positions of \emph{fontfile},
+\emph{encodingfile}, and \emph{special}, but the first three fields must
+be given in fixed order. 
+
+\begin{itemize}
+
+  \item \textbf{texname:} the name \ \TeX\  uses, that is, the name of the TFM file. This must be 
+  present. 
+  
+  \item \textbf{basename:} the PostScript font name. If not given, then it will be taken from the 
+  font file. Specifying a name that does not match the name in the font file will 
+  cause \pdfTEX\  to produce a warning, so it would be best not to use this field 
+  if the font resource is available (this is the most common case). This option is 
+  primarly intended for use of base fonts and for compatibility with dvips map 
+  files. 
+  
+  \item \textbf{fontflags}: flags specifying some characteristics of the
+    font. The following description is taken (with some modification)
+    from the PDF specification (Bienz et al.  (1996)), Section 7.9.2
+    (Font descriptor flags). 
+  
+  The value of the Flags key in a font descriptor is a 32-bit integer that
+  contains a collection of Boolean attributes. These attributes are true
+  if the corresponding bit is set to 1 in the integer. The following
+  specifies the meanings of the bits, with bit 1 being the least
+  significant. Reserved bits must be set to zero. 
+  
+  \begin{center}
+    \begin{tabular}{ccc}
+      \hline \\
+      \emph{Bit position} & \emph{Semantics} & \emph{Sample}  \\
+      \hline \\
+      1     & Fixed-width font               & Sample Text \\
+      2     & Serif font                     & Sample Text \\
+      3     & Symbolic font                  &             \\
+      4     & Script font                    &             \\
+      5     & Reserved                       &             \\
+      6     & Uses the Adobe Standard Roman  &             \\
+            & Character Set                  &             \\
+      7     & Italic                         & Sample Text \\
+      8-16  & Reserved                       &             \\
+      17    & All-cap font                   & SAMPLE TEXT \\
+      18    & Small-cap font                 & SAMPLE TEXT \\
+      19    & Force bold at small text sizes &             \\
+      20-32 & Reserved                       &             \\
+      \hline \\
+    \end{tabular}
+  \end{center}
+  
+  All characters in a fixed-width font have the same width, while
+  characters in a proportional font have different widths. Characters in a
+  serif font have short strokes drawn 
+  at an angle on the top and bottom of character stems, while sans serif fonts do not 
+  have such strokes. A symbolic font contains symbols rather than letters and numbers. 
+  Characters in a script font resemble cursive handwriting. An all-cap font, typically used 
+  for display purposes such as titles or headlines, contains no lowercase letters. It differs 
+  from a small-cap font in that characters in the latter, while also capital letters, have been 
+  sized and their proportions adjusted so that they have the same size and stroke weight 
+  as lowercase characters in the same typeface family. 
+  
+  \noindent Bit 6 in the flags field indicates that the font's character
+  set is the Adobe Standard Roman Character Set, or a subset of that, and
+  that it uses the standard names for those characters. 
+  
+  \noindent Finally, bit 19 is used to determine whether bold characters are drawn with extra pixels 
+  even at very small text sizes. Typically when characters are drawn at small sizes on very 
+  low resolution devices such as display screens, features of bold characters may appear 
+  only one pixel wide. Because this is the minimum feature width on a pixel-based device, 
+  ordinary nonbold characters also appear with one-pixel-wide features and cannot be 
+  distinguished from bold characters. If bit 19 is set, features of bold characters may be 
+  thickened at small text sizes. 
+  
+  \noindent If no font flags are given, \pdfTEX\  treats the font as 3, a symbol font. If we do 
+  not know the correct value, it would be best not to provide one; specifying a 
+  wrong Value of the font flags may cause Acrobat some problems. 
+  
+  \item \textbf{fontfile:} the name of the font source file. This must be a Type 1 or TrueType font 
+  file. The font file name can be preceded by one or two special characters that 
+  say how the font file should be handled. 
+  
+  \begin{itemize}
+    \item If it is preceded by a \verb|<|, then the font file will be
+      partially downloaded, meaning that just those glyphs (characters)
+      used in the document are extracted and put into a new subset font,
+      which is then embedded in the output.  This is the most common use
+      and is strongly recommended for any font, as it ensures portability
+      and reduces the size of the PDF output. 
+    \item If the font file name is preceded by a double \verb|<<|, the whole font file will 
+      be included-all glyphs of the font are embedded, including the ones that 
+      are not used in the document. Apart from increasing the size of the PDF 
+      file, this option may cause problems with TrueType fonts too, so it is not 
+      recommended. It is useful in cases where the font is somehow strange and 
+      cannot be subsetted properly by \pdfTEX. 
+    \item If no character precedes the font file name, the font file is
+      read, but nothing is embedded. Only the font parameters are
+      extracted to generate a font descriptor that is used by Acrobat to
+      simulate the font if needed.  This Option is useful when we do not
+      want to embed the font (that is, to reduce the output size) but do
+      wish to use the font metrics
+      and let Acrobat generate an instance that looks close to the
+      original font, provided that resource is not installed on the system
+      where the PDF output is viewed or printed.  To use this feature, the
+      font flags must be specified and have bit 6 set on, meaning that
+      only fonts with the Adobe Standard Roman Character Set can be
+      simulated. The only exception is the Adobe Symbol font, which is not
+      very useful. 
+    \item If the font file name is preceded by a \verb|!|, the font is not read at all and is 
+      assumed to be available on the target system. This option can be used to 
+      create PDF files that do not contain any embedded fonts. The PDF output 
+      then works only on systems where the font is available. It is not very useful 
+      for document exchange, because the file is not portable. On the other hand, 
+      it is very useful when we wish to speed up the running of \pdfTEX\  while 
+      testing a document. This feature requires Acrobat to have access to all the 
+      installed fonts, including those that are only in the \ \TeX\  support tree. 
+  \end{itemize}
+  
+  Note that the standard 14 fonts are never embedded, even if they are marked 
+  for download in map files. 
+  
+  \item \textbf{encoding:} name of a file containing an encoding vector to be used for the font. 
+    The file name may be preceded by a \textbf{<}, but the effect is the same. The format 
+    of the encoding vector is identical to that used by \textbf{dvips} (see Goossens et al. 
+  (1997), Section 11.2.4). If no encoding is specified, the font's built-in default 
+  encoding is used. It may be omitted if we are sure that the font resource has 
+  the correct built-in encoding. In general, this latter option is highly preferred 
+  and is required to subset TrueType fonts. 
+  \item \textbf{special:} special instruction for font transformation as
+    for dvips. Only specifications of SlantFont and Ext endFont are read;
+    other instructions are ignored. 
+\end{itemize}
+
+If \pdfTEX\  cannot locate a font in a map file, it will look first for a source with 
+the extension pgc, a PGC source (PDF Glyph Container). \footnote{
+This is a text file containing a PDF Type 3 font, usually created using METFI POST with some 
+utilities by Hans Hagen. In general, PGC files can contain whatever is allowed in a PDF page description 
+to support fonts. At present PGC fonts are not very useful, since vector Type 3 fonts are not displayed 
+very well in Acrobat. They may be more useful when Type 3 font handling gets better. 
+} If no PGC source is 
+available, \pdfTEX\  will try to use PK fonts in the same way as normal DVI drivers. 
+
+Lines containing nothing apart from \emph{texname} indicate that a scalable Type 3 
+font should be used. For font types as Type 1, TrueType, and scalable Type 3, all 
+requests for the font at any size will be provided by just one font in the PDF output. 
+Thus if a font, for example, \textbf{csr10}, is listed in a map file, it will be treated as scalable. 
+The font \textbf{csr10} will be downloaded only once for
+\textbf{csr10}, \textbf{csr10 at 12pt}, etc. 
+
+It does not hurt much if a scalable Type 3 font is not listed in a map file, except 
+that the font source will be downloaded multiple times for different sizes, meaning 
+the PDF output is larger. On the other hand, if a font is listed in a map file as scalable 
+Type 3 and its PGC source is not scalable or not available (in this case \pdfTEX\  will 
+use PK fonts instead), the PDF output will be valid. However, some fonts may look 
+ugly because bitmaps will be scaled. 
+
+%%page page_95                                                  <<<---3
+ 
+\ipar{Some_sample_map_file_entries}{Some sample map file entries}
+
+Use a built-in font with font-specific encoding, that is, neither a downloaded font 
+nor an external encoding is given. SlantFont is specified in the same way as for 
+dvips. 
+
+\begin{verbatim}
+psyr Symbol 
+psyro Symbol ".167 SlantFont" 
+\end{verbatim}
+
+Use a built-in font with an external encoding (\verb|8r.enc|). The \verb|<| preceding the 
+encoding file name may be omitted. 
+
+\begin{verbatim}
+ptmri8r Times-Italic <8r.enc 
+ptmro8r Times-Roman <8r.enc ".167 SlantFont" 
+\end{verbatim}
+
+Use a partially downloaded font with an external encoding: 
+
+\begin{verbatim}
+putr8r Utopia-Regular <8r enc <putr8a pfb 
+putro8r Utopia-Regular <8r.enc <putr8a.pfb ".167 SlantFont" 
+\end{verbatim}
+
+Use the Type 1 font name taken from the downloaded font itself: 
+
+\begin{verbatim}
+logo8 <logo8.pfb 
+\end{verbatim}
+
+Adjust the width but not the stroke thickness: 
+
+\begin{verbatim}
+logodlo logobflo <logobf10.pfb ".913 ExtendFont" 
+\end{verbatim}
+
+ 
+Use entire downloaded font without reencoding: 
+\begin{verbatim}
+pgsr8r Gillsans <<pgsr8a.pfb 
+\end{verbatim}
+
+Use partially downloaded font without reencoding: 
+
+\begin{verbatim}
+pgsr8r Gillsans <pgsr8a pfb 
+\end{verbatim}
+
+Do not read the font at all--the font must be available on the target system: 
+
+\begin{verbatim}
+pgsr8r Gillsans !pgsr8a.pfb 
+\end{verbatim}
+
+Use an entire downloaded font with reencoding: 
+
+\begin{verbatim}
+pgsr8r GillSans <<pgsr8a.pfb 8r.enc 
+\end{verbatim}
+
+Use a partially downloaded font with reencoding: 
+
+\begin{verbatim}
+pgsr8r Gillsans <pgsr8a.pfb 8r.enc 
+\end{verbatim}
+ 
+Do not include the font, but extract parameters from the font file and reencode: \footnote{
+This only works for fonts with Adobe Standard Encoding. The font flags say what this font is like, 
+so Acrobat can generate a similar instance if the font resource is not available on the target system. 
+}
+
+\begin{verbatim}
+pgsr8r GillSans 32 pgsr8a.pfb 8r.enc 
+\end{verbatim}
+
+Use a TrueType font in the same way as a Type 1 font: 
+
+\begin{verbatim}
+verdana8r Verdana <verdana.ttf 8r.enc 
+\end{verbatim}
+
+\ipar{2_4_1_4_TrueType_fonts}{TrueType fonts}
+
+As we have seen, \pdfTEX\  can work with TrueType fonts, and adding the font names 
+to map files is straightforward. The only extra task for TrueType fonts is to create 
+TFM font metric files. There is a program, \verb|ttf2afm|, in \pdfTEX\  distributions that 
+can be used to extract AFM font metrics from TrueType fonts. Usage is simple: 
+
+\begin{verbatim}
+ttf2afm ttf-fi Le [encoding] 
+\end{verbatim}
+
+The name of the TrueType font file is \emph{ttf-file}, and the optional
+\emph{encoding} specifies an 
+encoding file, which is the same as those used in map files for \pdfTEX\  and \verb|dvips|. 
+If the encoding is not given, all the glyphs in the AFM output will be mapped to 
+\verb|/.notdef|. The \verb|ttf2afm| program writes the output AFM to standard output. From 
+this we can make a TFM from the AFM file (Goossens et al. (1997, Section 10.5)). 
+If we need to know which glyphs are available in the font, we can run ttf2afm 
+without encoding to get all the glyph names. 
+
+To use a new TrueType font (\verb|times.ttf|), the minimal steps (assuming that 
+\verb|test.map| is included in \verb|pdftex.cfg|) on a UNIX system might be 
+
+\begin{verbatim}
+
+  ttf2afm times.ttf 8r.enc >times.afm 
+  afm2tfm times.afm -T 8r.enc 
+  echo "times TimesNewRomanPSMT <times.ttf <8r.enc" >>test.map 
+
+\end{verbatim}
+
+The PostScript font name, \verb|TimesNewRomanPSMT|, is reported by \verb|afm2tfm| 
+but is not strictly needed in the \pdfTEX\  map file. 
+
+\verb|ExtendFont| and \verb|SlantFont| also work for TrueType fonts. 
+
+\isubsubsec{2_4_2_New_primitives}{New primitives}
+
+The \pdfTEX\  program adds a set of new primitives to TEX; they are described in the 
+following sections, and allow the user access to features of the PDF format. 
+
+ 
+%%page page_97                                                  <<<---3
+ 
+\ipar{2_4_2_1_Document_setup}{Document setup}
+
+\begin{verbatim}
+\pdfoutput=n 
+\end{verbatim}
+
+This integer parameter specifies whether the output format should be DVI
+or PDF.  A value greater than zero means PDF output, otherwise DVI
+output. This parameter cannot be specified \emph{after} shipping out the first
+. In other words, it must be set before \pdfTEX\  ships out the
+first page if we want PDF output. This is the only parameter that must
+be set to produce PDF output; all other parameters are optional. 
+
+\begin{verbatim}
+\pdf compresslevel=n 
+\end{verbatim}
+
+This integer parameter specifies the level of text compression via \verb|zlib|. Zero means 
+no compression, 1 means fastest, 9 means best, 2..8 means something in between. 
+A value out of this range will be adjusted to the nearest meaningful value. 
+
+\begin{verbatim}
+\pdfpagewidth=dimen 
+\pdfpageheight=dimen 
+\end{verbatim}
+
+These dimension parameters specify the page width and page height of PDF output. 
+If they are not given, the page dimensions will be calculated as described in Section 
+2.4.1.1. 
+
+\begin{verbatim}
+\pdfpagesattr={tokens} 
+\end{verbatim}
+
+This token list parameter specifies optional attributes for every page of the PDF 
+output file. These attributes can be \verb|MediaBox| (rectangle specifying the natural size 
+of the page), \verb|CropBox| (rectangle specifying the region of the page being displayed 
+and printed), and \verb|Rotate| (number of degrees the page should be rotated clockwise 
+when it is displayed or printed-must be 0 or a multiple of 90). 
+
+\begin{verbatim}
+\pdfpageattr={tokens}
+\end{verbatim}
+
+This is similiar to \verb|\pdfpagesattr|, but it takes priority over it. It can be used to 
+overwrite any attributes given by \verb|\pdfpagesattr| for individual pages. 
+
+\ipar{2_4_2_2_The_document_information_and_catalog}{The document information and catalog}
+
+\begin{verbatim}
+\pdfinfo{info keys} 
+\end{verbatim}
+
+This allows the user to add information to the document info section; if this is 
+provided, it can be seen in \verb|Acrobat Reader| with the menu option
+\verb|File -> Document Info -> General|. The \emph{info keys} parameter is a set of data pairs (a key, and a value). 
+The key names are preceded by a \verb|/|, and the values are in parentheses; all keys 
+are optional. The possible keys are \verb|/Author|, \verb|/CreationDate| (defaults to current 
+date), \verb|/ModDate|, \verb|/Creator| (defaults to ``TeX''),
+\verb|/Producer| (defaults to ``pdfTeX''), 
+\verb|/Title|, \verb|/Subject|, and \verb|/Keywords|. 
+
+\verb|/CreationDate| and \verb|/ModDate| are expressed in the form
+\verb|D:YYYYMMDDhhmmss|, 
+where \verb|YYYY| is the year, \verb|MM| is the month, \verb|DD| is the day, \verb|hh| is the hour, \verb|mm| is 
+the minutes, and \verb|ss| is the seconds. 
+
+Multiple uses of \verb|\pdfinfo| are permitted; if a key is given more than once, the 
+first appearance will take priority. An example of the use of \verb|\pdfinfo| follows: 
+
+\begin{verbatim}
+\PDFinfo{ 
+  /Title (example.pdf) 
+  /Creator (TeX) 
+  /Producer (pdfTeX) 
+  /Author (Tom and Jerry) 
+  /CreationDate (D:19980212201000) 
+  /ModDate (D:19980212201000) 
+  /Subject (Example) 
+  /Keywords (cat;mouse) 
+} 
+\end{verbatim}
+
+\begin{verbatim}
+\pdfcatalog{catalog keys} openaction {action} 
+\end{verbatim}
+
+The document catalog is similar to the document info section, and the available 
+keys are \verb|/URI|, which provides the base URL of the document, and \verb|/PageMode|, 
+which determines how Acrobat displays the document on startup. The possibilities 
+for the latter are: 
+
+\begin{center}
+  \begin{tabular}{cc}
+    \verb|/UseNone|     & Open document with neither outlines nor thumbnails visible. \\
+    \verb|/Useoutlines| & Open document with outlines visible.                        \\
+    \verb|/UseThumbs|   & Open document with thumbnails visible.                      \\
+    \verb|/Fullscreen|  & 0pen document in full-Screen mode. In full-screen mode,
+    there are no menu bar, window controls, or any other window present.              \\
+  \end{tabular}
+\end{center}
+
+The default is \verb|/UseNone|. 
+
+The \emph{action} is the action to be taken when opening the document; it is specified in the same way as for internal links (see \refsec{2_4_2_6_Destinations_and_links}), for example 
+\verb|goto page 3 {/Fit}|. 
+
+\ipar{2_4_2_3_Graphics_inclusion}{Graphics inclusion}
+
+\begin{verbatim}
+\pdfimage width WIDTH height HEIGHT depth DEPTH {FILENAME} 
+\end{verbatim}
+
+Insert an image, optionally changing the width, height, depth, or any combination 
+of these attributes. The default values are zero for depth and the image’s natural 
+size for height and width. If all of them are given, the image will be resized to fit 
+the specified values. If some of them (but not all) are given, the rest will be scaled 
+proportionally to keep the aspect ratio the same as that of the natural size. If none 
+of them is given, then the image will be set at its natural size. The dimension of 
+the image can be accessed by putting the \verb|\pdfimage| command into a \ \TeX\  box and 
+checking the dimensions of that box. 
+
+The image type is determined by the extension of the file name. Thus png 
+means PNG format and pdf means it is a PDF file; otherwise, the image is treated 
+as JPEG. 
+
+\begin{verbatim}
+\pdfimageresolution=RESOLUTION 
+\end{verbatim}
+
+If the image is a bitmap file and contains resolution information, then that is used; 
+otherwise, \verb|\pdfimageresolution| can be used to specify it. The default is 72 dpi. 
+
+\begin{verbatim}
+
+\pdffontprefix{PREFIX STRING} 
+\pdfimageprefix{PREFIX STRING} 
+\pdfformprefix{PREFIX STRING} 
+
+\end{verbatim}
+
+Sometimes there are problems including a PDF file as an illustration, because of 
+conflicts in fonts, image names or PDF form objects. These three commands allow 
+you to change the default prefixes for names. So if an included PDF file has a font 
+resource named \verb|/F34|, and you find it conflicts with an \verb|/F34| in the current file, you 
+can use \verb|\pdffontprefix| to name it, for example, /FF34. Using these commands 
+is recommended only for experts. 
+
+\ipar{2_4_2_4_XObject_Forms}{XObject Forms}
+
+\begin{verbatim}
+\pdfform NUMBER 
+\end{verbatim}
+
+writes out the \ \TeX\  box \verb|NUMBER| as an XObject Form to the PDF file. 
+
+\begin{verbatim}
+\pdflastform 
+\end{verbatim}
+
+returns the object number of the last XObject Form written to the PDF file 
+
+\begin{verbatim}
+\pdfrefform \NAME 
+\end{verbatim}
+
+puts in a reference to the XObject Form called \verb|\NAME|. 
+
+These macros support ``object reuse'' in \pdfTEX. The content of the XObject 
+Form object corresponds to the content of a \ \TeX\  box, which can contain text, 
+pictures, and references to other XObject Form objects. The XObject Form can 
+be used by simply referring to its object number. This can be useful in a large 
+document with a lot of similar elements, since it avoids the duplication of identical 
+objects. A common example is a document style that places an identical graphic or 
+text in the header of every page. 
+
+%%page page_100                                                  <<<---3
+
+\ipar{2_4_2_5_Annotations}{Annotations}
+
+\begin{verbatim}
+\pdfannot width WIDTH height HEIGHT depth DEPTH {TEXT} 
+\end{verbatim}
+
+attaches an annotation at the current point in the text. The annotation content will 
+be raw PDF code, as specified in \verb|TEXT|. 
+
+\begin{verbatim}
+\pdflastannot 
+\end{verbatim}
+
+returns the object number of last annotation created by \verb|\pdfannot|. These two 
+primitives allow the user to create any annotation that cannot be created by 
+\verb|\pdfannotlink| (see following). 
+
+\ipar{2_4_2_6_Destinations_and_links}{Destinations and links}
+
+\begin{verbatim}
+\pdfdest ( num {NUM} | name {NAME} ) UPPEARANCE 
+\end{verbatim}
+
+establishes a destination for links and bookmark outlines. The link must
+be identified by either a \emph{NUMBER} 
+or a symbolic \emph{REFNAME} and the way Acrobat is to display the 
+must be specified. \emph{APPEARANCE} must be one of the following: 
+
+\begin{center}
+  \begin{tabular}{cc}
+    \verb|fit|   & fit whole page in window                 \\
+    \verb|fith|  & fit whole width of page                  \\
+    \verb|fitv|  & fit whole height of page                 \\
+    \verb|fitb|  & fit whole Bounding Box page              \\
+    \verb|fitbh| & fit whole width of Bounding Box of page  \\
+    \verb|fitbv| & fit whole height of Bounding Box of page \\
+    \verb|xyz|   & keep current zoom factor                 \\
+  \end{tabular}
+\end{center}
+
+\verb|xyz| can optionally be followed by zoom \emph{factor} to provide a
+fixed zoom-in. The \emph{factor} 
+is like \ \TeX\  magnification; that is, 1000 is the ``normal'' page view. 
+
+\begin{verbatim}
+\pdfannotlink height {HEIGHT} depth {DEPTH} attr {ATTR} ACTION 
+\end{verbatim}
+
+starts a hypertext link. If the optional dimensions are not specified, they will be 
+calculated from the box containing the link. The attributex (explained in great detail 
+in Section 6.6 of the PDF manual) determine the appearance of the link. Typically 
+they are used to specify the color and thickness of any border around the link. 
+Thus \verb|/C [O.9 O 0] /Border [0 0 2]| specifies a color (in RGB) of bright red 
+and a border thickness of 2 points. 
+
+The \emph{action} can do many things; some of the possibilities are listed in \reftab{2-13}. 
+
+\begin{verbatim}
+\pdfendlink 
+\end{verbatim}
+
+ends a link; all text between \verb|\pdfannotlink| and \verb|\pdfendlink| will be treated as 
+part of this link. The \pdfTEX\  program may break the result across lines (or pages), 
+ 
+\ipar{2_4_2_7_Bookmarks}{Bookmarks}
+
+\begin{verbatim}
+\pdfoutline ACTION count {COUNT} {TEXT} 
+\end{verbatim}
+
+creates an outline (or bookmark) entry. The first parameter specifies
+the action to be taken and is the same as that allowed for
+\verb|\pdfannotlink|. The \emph{COUNT} specifies the number of direct
+subentries under this entry; it is zero if this entry has no subentries
+(in which case it may be omitted). If the number is negative, then all
+subentries will be closed, and the absolute value of this number
+specifies the number of subentries.  The \emph{TEXT} is what will be
+shown in the outline window; note that this is limited to characters in
+the \verb|PDFDocEncoding| vector. 
+
+\ipar{2_4_2_8_Article_threads}{Article threads}
+
+\begin{verbatim}
+\pdfthread num {NUM} name {NAME} 
+\end{verbatim}
+
+starts an article thread. The corresponding \verb|\pdfendthread| must be in the box in 
+the same depth as the box containing \verb|\pdfthread|. All boxes in this depth level will 
+be treated as part of this thread. An identifier (\emph{NUMBER} or
+\emph{REFNAME}) must be specified; 
+threads with the same identifier will be joined together. 
+
+\begin{verbatim}
+\pdfendthread 
+\end{verbatim}
+
+finishes the current thread. 
+ 
+\begin{verbatim}
+\pdfthreadhoffset=DIMEN 
+\pdfthreadvoffset=DIMEN 
+\end{verbatim}
+
+specify thread margins. 
+
+\ipar{2_4_2_9_Miscellaneous}{Miscellaneous}
+
+\begin{verbatim}
+\pdfliteral {PDF TEXT} 
+\end{verbatim}
+
+Like \verb|\special| in normal \ \TeX, this command inserts raw PDF code
+into the output. It allows support of color and text Uansformation and
+is used in the standard graphics package's \verb|pdftex| driver. 
+
+\begin{verbatim}
+\pdfnames{DATA} 
+\end{verbatim}
+
+puts \emph{DATA} in the names dictionary in the catalog. 
+
+\begin{verbatim}
+\pdfobj STREAM {TEXT} 
+\end{verbatim}
+
+is similar to \verb|\pdfliteral|, but the text is inserted as contents of an object. If the 
+optional keyword stream is given, the contents will be inserted as a stream. 
+
+\begin{verbatim}
+\pdflastobj 
+\end{verbatim}
+
+returns the object number of the last object created by \verb|\pdfobj|. These primitives 
+provide a mechanism allowing insertion of a user-defined object in PDF output. 
+
+\begin{verbatim}
+\pdftexversion 
+\end{verbatim}
+
+returns the version of \pdfTEX\  multiplied by 100; for example, for version \verb|0.13b| it 
+returns 13. 
+
+\begin{verbatim}
+\pdftexrevision 
+\end{verbatim}
+
+returns the revision of \pdfTEX; for example, for version \verb|0.13b| it returns \verb|b|. 
+
+\isubsubsec{2_4_3_Graphics_and_color}{Graphics and color}
+
+The \pdfTEX\  program supports inclusion of pictures in PNG, JPEG, and
+PDF format. The most common technique-the inclusion of Encapsulated
+PostScript figures-is replaced by PDF inclusion. EPS files can be
+converted to PDF by Ghostscript, Acrobat Distiller, or other
+PostScript-to-PDF convertors. The bounding box of a PDF file is taken
+from the CropBox if available, otherwise from MediaBox. To get the right
+MediaBox, it is necessary to transform the EPS file before conversion so
+that the start point is at the (0,0) coordinate and the page size 
+is set exactly corresponding to the \verb|BoundingBox|. A Perl script [EPSTOPDF] for 
+this purpose has been written by Sebastian Rahtz. 
+
+Other alternatives for graphics in \pdfTEX\  are 
+
+\begin{itemize}
+  \item \LaTeX\  picture mode Since this is implemented simply in terms of font characters, it works in exactly the same way as usual. 
+  \item XY-pic If the PostScript back-end is not requested, XY-pic uses its own Type 1 
+    fonts and needs no special attention. 
+  \item \verb|tpic| The \textbf{tpic} \verb|\special| commands (used in some macro packages) can be 
+    redefined to produce literal PDF, using macros by Hans Hagen. 
+  \item \verb|METAPOST| Although the output of METAPOST is PostScript, it is in a 
+    highly simplified form, and a METAPOST-to-PDF conversion (written by Hans 
+    Hagen and Tanmoy Bhattacharya) is implemented as a set of macros that read 
+    METRPOST output and support all of its features. The type \verb|mps| is supported 
+    by the \LaTeX\  \verb|graphics| package for this purpose. 
+\end{itemize}
+
+The last two macro files are part of the Con\TeX\ T macro package (\verb|supp-pdf.tex| 
+and \verb|supp-mis.tex|), but they also work with \LaTeX\ and are available separately. 
+
+The inclusion of raw PostScript commands-the technique utilized by the
+\textbf{pstricks} package (Goossens et al. (1997), Chapter 4) --- cannot be
+supported.  Although PDF is a direct descendant of PostScript, it lacks
+any programming language commands and cannot deal with arbitrary
+PostScript. 
+
+The standard \LaTeX\  \verb|graphics| and \verb|color| packages have
+\verb|pdftex| options, which allow use of normal color, text rotation,
+and graphics inclusion commands.  The implementation of graphics
+inclusion makes sure that however often a graphic is used (even if it is
+used at different scales or transformed in different ways), it is
+embedded only once. 
+
+A number of samples of \pdfTEX\  output can be found on the TUG Web server 
+[PDFTEXEX]. 

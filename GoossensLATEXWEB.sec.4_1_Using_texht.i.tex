@@ -1,0 +1,206 @@
+
+\isubsec{4_1_Using_texht}{Using \texht}
+
+To have a source \ \LaTeX\  file translated into HTML, many users will
+find it sufficient just to load the \texht package \verb|tex4ht.sty| (Figure~4.1). 
+The translation is activated with a command of the form 
+
+\begin{verbatim}
+htlatex filename, 
+\end{verbatim}
+
+or a similar system-dependent command. The output is stored in a set of
+files with the root file named \hbox{\emph{filename}\verb|.html|}.
+
+\isubsubsec{4_1_1_Package_options}{Package options}
+
+The outcome of the translation of the \ \LaTeX\  source files into HTML
+can be varied using package options (for example, see \reffig{4-2}).
+There are a number of package options available. Some are of general
+interest; most are not at all essential. Some options are provided as
+shortcut mechanisms to offer convenient ways of activating useful
+features without needing to learn their details. 
+
+\iii{vb_1}
+
+For instance, the options 1, 2, 3, and 4 are simply shortcuts for a
+single \verb|\tableofcontents| and a few \verb|\CutAt| and
+\verb|\TocAt*| commands. Users looking for a more refined outcome than
+that offered by these options will need to invest a little effort into
+studying these commands (see \refsec{4_5_2_Tables_of_contents} on page 172 and \refsec{4_5_3_Parts_chapters_sections_and_so_on}
+on page 175) and using them directly. 
+
+The first package option must be the name of a configuration file (see
+\refsec{4_5_1_Configuration_files} on page 170) or the option html. Otherwise, the first
+option is ignored. 
+
+The order in which the nonleading options are listed is not significant.
+As its name suggests, the html option asks for HTML output. Without that
+option, the output should be a standard DVI file. The following are some
+of the other options that are available: 
+
+\pindx{package options}
+
+\begin{itemize}
+  \item \textbf{1, 2, 3}, or \textbf{4} These options request a breakup of the documents
+    into hierarchies of hypertext pages. The hierarchies reflect the
+    logical organization of the content, as specified by the sectioning
+    commands \verb|\part, \chapter, \section|, and so on. The values of
+    the option determine the desired depth of the hierarchy of hypertext pages. 
+  \item \textbf{sections+} The entries in tables of contents provide
+    hypertext links to the sections to which they refer. This option
+    asks for extra backward hypertext links from the titles of the
+    sections to the tables of contents. 
+  \item \textbf{next} When partitioning a document into hypertext pages
+    along sections, navigation links to establish paths between the
+    pages are introduced. In the default setting, some paths capture
+    previous-next relationships that reflect the logical tree-structured
+    organization of the sections, providing connections between
+    immediate siblings. This option asks for alternative previous-next
+    navigation links, reflecting the linear succession of all the
+    sections in the document. 
+  \item \textbf{pic-array, pic-displaylines, pic-eqnarray, pic-tabbing, pic-tabular} 
+    These options request pictorial representations for the named environments 
+    instead of representations employing HTML tables. 
+  \item \verb|_13, ^13, no_, no^| \texht modifies the native definitions
+    of the special characters \verb|_| and \verb|^| in order to
+    enable the inclusion of HTML tags for subscripts and superscripts in
+    mathematical formulae. The first two options request alternative
+    definitions (with category codes of 13 instead of 12 for the
+    characters). The second pair of options disables that behavior. 
+  \item \verb|refcaption| References to figure and table environments inserted with the \verb|\ref|
+    command are assigned hypertext links pointing to the entry points of
+    these environments. This option makes hypertext links that point to
+    the captions within these environments. 
+  \item \verb|3.2| This option associates a request for HTML version 3.2 with the html option, 
+    instead of the default association with the Transitional 4.0 version of HTML. 
+    The latter version is considerably closer in its nature to BTEX than 3.2 is. It 
+    differentiates issues of style from content and logical structures, and we rec    ommend its use wherever possible. 
+  \item \verb|fonts+| The normal setting expects the browsers to use their own default fonts for 
+    the default font of the document. This option suggests a specific font for the 
+    browsers to use. 
+  \item \verb|no_|\emph{style} This option turns off the loading of HTML features that are designed 
+    specifically for the specified \emph{style file}. For instance, the option
+    \verb|no_amsart| asks \texht not to load the code it holds for the \verb|amsart|
+    package and the option \verb|no_array| makes a similar request for the code
+    that \texht has to offer especially for the package array. In such
+    cases, the user might need to tailor private contributions for the
+    packages. 
+  \item \verb|info| This option requests clues about the features of the package to be written 
+    into the log file. 
+  \item \verb|htm| This option is a variant of the html option in which filenames are given main 
+    names of, at most, eight characters, and the HTML filenames are given the 
+    extension of htm. 
+\end{itemize}
+ 
+\isubsubsec{4_1_2_Picture_representation_of_special_content}{Picture representation of special content}
+
+The ultimate challenge is to get all the translated objects expressed in
+terms of hypertext tags capturing both the structure and the semantics
+of the content. When such goals cannot be met, alternative
+representations have to be used. 
+
+\paragraph{Mathematics and special characters}
+
+The inline math environments \verb|\(|\emph{formula}\verb|\)| and the
+display math environments \verb|\[|\emph{formula}\verb|\]| request
+pictorial representations for their content. 
+
+On the other hand, plain TEX inline math environments
+\verb|$|\emph{formula}\verb|$| and
+display math environments \verb|$$|\emph{formula}\verb|$$| produce a mixture of text output
+for simpler subformulae and pictures for the other parts. 
+
+In addition to mathematics, some accented characters, some other special
+characters, and \ \LaTeX\  picture environments are automatically
+translated into pictures in the default setup. Other entities require
+explicit requests to be translated to bitmap pictures. 
+
+\paragraph{Linking to, and making, pictures}
+
+The bitmap pictures rendered by browsers can be specified in
+stand-alone files referenced from the HTML code. The command 
+
+\begin{verbatim}
+\Picture [alt] {filename attributes} 
+\end{verbatim}
+
+creates such a reference to an existing file and specifies attributes and alternative 
+text representation for the pictures. The [alt] component is optional; when it is 
+not provided, a default text representation is provided by the system. If attributes 
+are given, they must be separated from the filename by a space. 
+For example, the command 
+
+\begin{verbatim}
+\Picture[TUG logo]{httpt//www.tug.org/logo.gif ID=``tuglogo''} 
+\end{verbatim}
+
+references a GIF file containing the logo of the TEX Users Group (TUG). This 
+command produces the HTML code 
+
+\begin{verbatim}
+<IMG SRC="http://www.tug.org/logo.gif" ALT=``TUG logo'' ID=``tuglogo''> 
+\end{verbatim}
+
+The following is a variant with a pair of commands: 
+
+\begin{verbatim}
+\Picture+ [alt] {filename attributes} 
+\EndPicture 
+\end{verbatim}
+
+This requests a bitmap picture to be \emph{created} for what is placed between them. Here, 
+however, a missing \verb|[alt]| parameter is taken to be a request to produce an alternative 
+content-related textual representation for the picture. 
+ 
+%%page page_181
+
+\begin{verbatim}
+                              \Picture+{}% 
+                                \begin{tabular}{lcr} 
+                                    1 & 2 & 3\\ 
+<IMG SRC="try0x.gif"                xxx & xxx & xxx\\ 
+ALT="1 2 3                          1 & 2 & 3 
+xxx xxx xxx                     \end{tabular}% 
+1 2 3"> 
+                              \EndPicture 
+\end{verbatim}
+
+The plus \verb|(+)| can be replaced by a star \verb|(*)|. In this case the content is typeset 
+within a vertical box. The filename is optional within the command, as is the file 
+extension. If either is omitted, a system-created entry is provided. 
+
+The filename of the last bitmap picture created is recorded in 
+
+\begin{verbatim}
+\PictureFile 
+\end{verbatim}
+
+The command 
+
+\begin{verbatim}
+\NextPictureFile{filename} 
+\end{verbatim}
+
+provides a filename for the \emph{next} bitmap picture, if no filename is provided in the 
+\verb|\Picture| command. The \verb|\NextPictureFile| command can come in handy for 
+reaching concealed \verb|\Picture| commands. 
+
+\begin{verbatim}
+<IMG SRC="mypic.gif" ALT=``ab''> and        \[\alpha^\beta\] and 
+<IMG SRC="mypic.gif" ALT="[Picture]">       \Picture{\PictureFile} use 
+use the same bitmap file.                   the same bitmap file. 
+\end{verbatim}
+
+The default setting assumes the extension gif for the names that \texht
+assigns to the bitmap files. The extensions \verb|jpg| and
+\verb|png| can be requested
+as an alternative with, respectively, the package options
+\verb|jpg| and \verb|png|. On the other hand, the 
+command 
+
+\begin{verbatim}
+\ConfigurePictureFormat{_extension_} 
+\end{verbatim}
+
+can be used dynamically to change the setting. 

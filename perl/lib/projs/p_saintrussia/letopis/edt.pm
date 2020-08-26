@@ -55,6 +55,8 @@ sub edit_tex {
     foreach my $f (@$files) {
         my $file = catfile($root, $f);
 
+        my @date = ($f =~ m/^(\d+)_(\d+)_(\d+)\./g);
+
         unless (-e $file) {
             warn sprintf( 'NO FILE: %s', $file ) . "\n";
             next;
@@ -68,6 +70,10 @@ sub edit_tex {
 
             s/(\s+)–(\s+)/$1---$2/g;
             s/(\d+)–(\d+)/$1-$2/g;
+
+            if (@date) {
+                # body...
+            }
 
             push @nlines, $_;
         }

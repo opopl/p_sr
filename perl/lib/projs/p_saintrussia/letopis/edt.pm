@@ -5,6 +5,8 @@ use strict;
 use warnings;
 
 use Data::Dumper qw(Dumper);
+use File::Slurp::Unicode;
+use File::Spec::Functions qw(catfile);
 
 use base qw(
     Plg::Projs::Prj
@@ -24,19 +26,50 @@ sub init {
     return $self;
 }
 
-sub run {
+sub fill_files {
     my ($self) = @_;
 
-    my $r = { 
-        'exts' => [ qw( ) ],
-    };
+	$self->{files} = {};
+	foreach my $ext (qw( tex pl dat )) {
+	    my $r = { 
+	        'exts' => [ $ext ],
+	    };
+		$self->{files}->{$ext} = $self->_files($r);
+	}
+
+	print Dumper($self->{files}->{tex}) . "\n";
+
+    return $self;
+}
+
+sub edit_tex {
+    my ($self) = @_;
 
     my $root = $self->{root};
     my $proj = $self->{proj};
 
-    my $files = $self->_files($r);
+	my $files = $self->{files}->{tex} || [];
+	foreach my $f (@$files) {
+		my $file = catfile($root,$f);
 
-    print Dumper($files) . "\n";
+		edit_file {
+			s/–/---/g;
+		} $file
+	}
+
+    return $self;
+}
+
+sub run {
+    my ($self) = @_;
+
+    my $root = $self->{root};
+    my $proj = $self->{proj};
+
+	$self
+		->fill_files
+		->edit_tex
+		;
 
     return $self;
 }

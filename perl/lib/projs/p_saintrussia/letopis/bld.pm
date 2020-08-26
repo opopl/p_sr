@@ -31,6 +31,13 @@ sub run_pdflatex {
 
     local @ARGV = ();
 
+	my @secs_include;
+	push @secs_include,
+		#'13_07_2020',
+		#'14_07_2020',
+		#'15_07_2020',
+		;
+
 	my $x = Plg::Projs::Build::PdfLatex->new(
 		skip_get_opt => 1,
 		proj         => $self->{proj},
@@ -38,7 +45,10 @@ sub run_pdflatex {
 		root_id      => $self->{root_id},
 		cmd          => 'build_pwg',
 		join_lines   => {
-			include_below => [qw(subsection)]
+			include_below => [qw(section)]
+		},
+		sections => {
+			include => \@secs_include,
 		}
 	);
 

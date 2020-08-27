@@ -109,7 +109,10 @@ sub init_maker {
         sections => {
             include => \@secs_include,
             insert => {
-                titletoc => $self->_insert_titletoc
+                titletoc => $self->_insert_titletoc,
+				bookmarks => [
+					scts => [qw(section)],
+				]
             },
         }
     );

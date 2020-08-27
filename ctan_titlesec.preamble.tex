@@ -1,0 +1,89 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file preamble
+%%parent _main_
+ 
+%%endhead 
+
+\usepackage[sf,bf,compact,topmarks,calcwidth,pagestyles]{titlesec}
+\usepackage{titletoc,color}
+\def\gobble#1{}
+\def\cs#1{\expandafter\gobble\string\\#1}
+\definecolor{notes}{rgb}{.75, .3, .3}%
+\makeatletter
+\newenvironment{desc}
+  {\if@nobreak
+     \vskip-\lastskip
+     \vspace*{-2.5ex}%
+   \fi
+   \decl}
+  {\enddecl}
+\def\@begintheorem#1#2{%
+  \list{}{}%
+  \global\advance\@listdepth\m@ne
+  \item[{\sffamily\bfseries\color{notes}\MakeUppercase{#1}}]}%
+\newtheorem{warning}{Warning}
+\newtheorem{note}{Note}
+\newtheorem{example}{Example}
+\makeatother
+
+\usepackage{textcomp}
+\usepackage[linktocpage]{hyperref}
+
+\title{The \textsf{titlesec}, \textsf{titleps} and \textsf{titletoc} 
+Packages\footnote{The \textsf{titlesec} package is currently at 
+version 2.13. \copyright{} 1998--2019 Javier Bezos.}}
+
+\author{Javier Bezos\footnote{For bug reports, comments and
+suggestions go to \href{http://www.tex-tipografia.com/contact.html}%
+{\texttt{http://www.tex-tipografia.com/contact.html}}.  English
+is not my strong point, so contact me when you find mistakes in the
+manual.  Other packages by the same author: \textsf{gloss} (with
+Jos\'e Luis D\'{\i}az), \textsf{enumitem, accents, tensind, esindex,
+dotlessi, babeltools}.}}
+
+\date{\docdate}
+
+\widenhead{2.1pc}{0pc}
+\titlelabel{\thetitle.\quad}
+
+\renewpagestyle{plain}[\small\sffamily\slshape]{
+  \footrule
+  \setfoot{}{\usepage}{}}
+
+\newpagestyle{myps}[\small\sffamily\slshape]{
+  \headrule
+  \sethead{Titlesec}{\sectiontitle}{\usepage}}
+
+\pagestyle{myps}
+
+\newcommand{\examplesep}{%
+  \begin{center}%
+    \rule{4pt}{4pt}%
+  \end{center}}
+
+\contentsmargin{0pt}
+\titlecontents{section}[1.8pc]
+  {\addvspace{3pt}\bfseries}
+  {\contentslabel[\thecontentslabel.]{1.8pc}}
+  {}
+  {\quad\thecontentspage}
+
+\titlecontents*{subsection}[1.8pc]
+  {\small}
+  {\thecontentslabel. }
+  {}
+  {, \thecontentspage}
+  [.---][.]
+
+\addtolength{\topmargin}{-3pc}
+\addtolength{\textwidth}{6pc}
+\addtolength{\oddsidemargin}{-2pc}
+\addtolength{\textheight}{7pc}
+
+\raggedright
+\parindent1em
+\parskip0pt
+
+

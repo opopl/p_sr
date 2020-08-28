@@ -1,2 +1,2 @@
 
-perl letopis.bld.pl compile
+perl letopis.bld.pl compile %*

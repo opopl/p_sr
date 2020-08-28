@@ -146,15 +146,38 @@ sub init_maker {
         },
         sections => {
             include => \@secs_include,
+            line_sub => sub {
+                my ($line,$r_sec) = @_;
+
+                my $sec = $r_sec->{sec};
+
+                return $line;
+            },
             insert => {
                 titletoc => $self->_insert_titletoc,
                 hyperlinks => [
+###ins_hyperlinks
                     {
-	                    scts => [qw( section subsection )],
-	                    lines => [
-	                        '\hyperlink{indices}{\indicesname}',
-	                        '\hyperlink{indices}{\contentsname}',
-	                    ]
+                        scts => [qw( section subsection )],
+                        lines => [
+q{
+\par
+\begin{center}
+    %\colorbox{cyan}{\makebox[5cm][l]{\strut}}
+    \colorbox{cyan}{
+       \makebox[10cm][l]{
+            \large\bfseries
+            \hypersetup{ linkcolor=white }
+
+            \hyperlink{indices}{\indicesname}
+
+            \hypersetup{ linkcolor=yellow }
+            \hyperlink{tabcont}{\contentsname}
+        }
+    }
+\end{center}
+}
+                        ]
                     }
                 ]
             },

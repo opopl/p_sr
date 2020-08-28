@@ -134,7 +134,6 @@ sub init_maker {
     my $act = $self->{act};
     my $cmd = $self->{maps_act}->{$act} || '';
 
-
     local @ARGV = ();
     my $x = Plg::Projs::Build::PdfLatex->new(
         skip_get_opt => 1,
@@ -150,10 +149,13 @@ sub init_maker {
             insert => {
                 titletoc => $self->_insert_titletoc,
                 hyperlinks => [
-                    scts => [qw(section)],
-                    lines => [
-                        '\hyperlink{indices}{\indicesname},'
-                    ]
+                    {
+	                    scts => [qw( section subsection )],
+	                    lines => [
+	                        '\hyperlink{indices}{\indicesname}',
+	                        '\hyperlink{indices}{\contentsname}',
+	                    ]
+                    }
                 ]
             },
         }

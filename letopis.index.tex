@@ -9,11 +9,22 @@
 \ifINDEX
 	%\part{Indices}
 
-	\hypertarget{ind}{}
-	\bookmark[startatroot,rellevel=1,keeplevel,dest=ind]{Указатели}
+	%\hypertarget{ind}{}
+	%\bookmark[startatroot,rellevel=1,keeplevel,dest=ind]{Указатели}
 
+	\clearpage
 	\phantomsection
+	\begin{center}
+		{\Huge\bfseries \indicesname}\par
+		\hyperlink{tabcont}{\contentsname}
+	\end{center}
 	\addcontentsline{toc}{part}{Указатели}
+	\hypertarget{indices}{}
+
+%\\bookmark[level=$level,dest=$dest]{$1}\n 
+
+	\startcontents[indices]
+	\printcontents[indices]{l}{1}{\addtocontents{ptc}{\setcounter{tocdepth}{1}}}
 
 	\cleardoublepage
 	\phantomsection
@@ -44,4 +55,6 @@
 	\phantomsection
 	\addcontentsline{toc}{chapter}{Index}
 	\printindex[index.eng]
+
+  \stopcontents[indices]
 \fi

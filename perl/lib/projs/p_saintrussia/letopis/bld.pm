@@ -149,8 +149,11 @@ sub init_maker {
             include => \@secs_include,
             insert => {
                 titletoc => $self->_insert_titletoc,
-                bookmarks => [
+                hyperlinks => [
                     scts => [qw(section)],
+                    lines => [
+                        '\hyperlink{indices}{\indicesname},'
+                    ]
                 ]
             },
         }

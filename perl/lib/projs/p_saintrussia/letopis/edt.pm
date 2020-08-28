@@ -71,6 +71,12 @@ sub edit_tex {
             s/(\s+)–(\s+)/$1---$2/g;
             s/(\d+)–(\d+)/$1-$2/g;
 
+			s/index\.cities\.rus/cities.rus/g;
+			s/index\.names\.rus/names.rus/g;
+			s/index\.authors\.rus/authors.rus/g;
+			s/index\.rus/rus/g;
+			s/index\.eng/eng/g;
+
             if (@date) {
                 # body...
             }

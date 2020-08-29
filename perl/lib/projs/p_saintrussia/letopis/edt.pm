@@ -15,6 +15,7 @@ binmode STDOUT, ":utf8";
 use base qw(
     Plg::Projs::Prj::Edit
 );
+use Data::Dumper qw(Dumper);
 
 sub init {
     my ($self) = @_;
@@ -24,20 +25,31 @@ sub init {
     my $h = {
         subs => {
             process_file => sub {
-                my $ref = shift;
+                my ($ref) = @_;
 
-                my $f = $ref->{f};
+                my $sec = $ref->{sec};
 
-                my @date = ($f =~ m/^(\d+)_(\d+)_(\d+)\./g);
+                if($sec =~ m/^(?<day>\d+)_(?<month>\d+)_(?<year>\d+)$/g){
+                    $ref->{date_sec} = {%+};
+                }
 
                 return $ref;
             },
             edit_line => sub {
                 local $_ = shift;
 
-                my $ref = shift;
+                my ($ref,$run) = @_;
 
-                my @date = @{$ref->{date} || []};
+                my $date_sec = $ref->{date_sec} || {};
+                my $is_date = keys %$date_sec ? 1 : 0;
+
+                if ($is_date) {
+                    my $new_sec = sprintf(
+                            '\DTMdisplaydate{%s}{%s}{%s}{1}',
+                            @{$date_sec}{qw(year month day)});
+
+                    s/^\\section\{(.*)\}\s*$/\\section{$new_sec}/g;
+                }
 
                 s/(\s+)–(\s+)/$1---$2/g;
                 s/(\d+)–(\d+)/$1-$2/g;
@@ -48,8 +60,7 @@ sub init {
                 s/index\.rus/rus/g;
                 s/index\.eng/eng/g;
 
-                if (@date) {
-                    # body...
+                if (keys %$date_sec) {
                 }
 
                 return $_;
@@ -59,7 +70,9 @@ sub init {
         
     my @k = keys %$h;
 
-    for(@k){ $self->{$_} = $h->{$_} unless defined $self->{$_}; }
+    for(@k){ 
+        $self->{$_} = $h->{$_} unless defined $self->{$_}; 
+    }
 
     return $self;
 }

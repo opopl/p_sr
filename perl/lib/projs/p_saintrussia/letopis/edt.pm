@@ -12,6 +12,8 @@ use utf8;
 use Encode;
 binmode STDOUT, ":utf8";
 
+use Base::RE::TeX;
+
 use base qw(
     Plg::Projs::Prj::Edit
 );
@@ -48,29 +50,25 @@ sub init {
 
                 my $sec = $ref->{sec};
 
-                if ($is_date) {
-                    my $new_sec = sprintf(
-                            '\DTMdisplaydate{%s}{%s}{%s}{1}',
-                            @{$date_sec}{qw(year month day)});
+                my $re = Base::RE::TeX->new;
 
-					my @n = qw(part chapter section subsection subsubsection paragraph);
-					my $n = join("|",@n);
-                    my $re = qr{^\\(?:$n)\{(.*)\}\s*$};
+                if (/$re->{sec}/) {
+                    my @sec_plus; 
 
-                    if (/$re/) {
-                        my @sec_plus; 
+                    push @sec_plus, 
+                           ' ',
+                           sprintf(q{\label{sec:%s} %s},$sec,'%edt'),
+                           ' ',
+                           ;
 
-                        push @sec_plus, 
-                            ' ',
-                            sprintf(q{\label{sec:%s} %s},$sec,'%edt'),
-                            ' ',
-                            ;
+                    my $sec_plus = join("\n",@sec_plus);
 
-                        my $sec_plus = join("\n",@sec_plus);
-
-                        s/$re/\\section{$new_sec}\n$sec_plus/g;
-
-                    }
+                    my $new_sec = $is_date ? sprintf(
+                        '\DTMdisplaydate{%s}{%s}{%s}{1}',
+                        @{$date_sec}{qw(year month day)}) : $+{sectitle};
+    
+                    s/$re->{sec}/\\$+{secname}{$+{sectitle}}\n$sec_plus/g;
+    
                 }
 
                 s/^\\label\{sec:$sec\}$//g;

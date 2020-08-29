@@ -38,7 +38,6 @@ sub init {
 
                 if($sec =~ m/^(?<day>\d+)_(?<month>\d+)_(?<year>\d+)$/g){
                     $ref->{date_sec} = {%+};
-                    #$dt->parse( join("/",@+{qw(day month year)}) );
 
                     my @date;
                     push @date, 
@@ -65,12 +64,23 @@ sub init {
 
                 my ($ref,$run) = @_;
 
+                s/(\s+)–(\s+)/$1---$2/g;
+                s/(\d+)–(\d+)/$1-$2/g;
+    
+#                s/index\.cities\.rus/cities.rus/g;
+                #s/index\.names\.rus/names.rus/g;
+                #s/index\.authors\.rus/authors.rus/g;
+                #s/index\.rus/rus/g;
+                #s/index\.eng/eng/g;
+
                 my $date_sec = $ref->{date_sec} || {};
                 my $is_date = keys %$date_sec ? 1 : 0;
 
                 my $sec = $ref->{sec};
 
                 if (/$re->{sec}/) {
+                    return $_ if $run->{sec_done};
+
                     my @sec_plus; 
 
                     push @sec_plus, 
@@ -88,6 +98,8 @@ sub init {
     
                     s/$re->{sec}/\\$secname\{$new_sec\}\n$sec_plus/g;
 
+                    $run->{sec_done} = 1;
+
                     return $_;
     
                 }
@@ -95,14 +107,7 @@ sub init {
                 s/^\\label\{sec:$sec\}.*//g;
                 s/^\s*%edt\s*$//g;
                 
-                s/(\s+)–(\s+)/$1---$2/g;
-                s/(\d+)–(\d+)/$1-$2/g;
-    
-                s/index\.cities\.rus/cities.rus/g;
-                s/index\.names\.rus/names.rus/g;
-                s/index\.authors\.rus/authors.rus/g;
-                s/index\.rus/rus/g;
-                s/index\.eng/eng/g;
+
 
                 return $_;
             }

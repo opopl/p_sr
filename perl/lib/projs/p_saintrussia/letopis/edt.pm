@@ -13,6 +13,7 @@ use Encode;
 binmode STDOUT, ":utf8";
 
 use Base::RE::TeX;
+use Date::Manip;
 
 use base qw(
     Plg::Projs::Prj::Edit
@@ -51,6 +52,8 @@ sub init {
                 my $sec = $ref->{sec};
 
                 my $re = Base::RE::TeX->new;
+                my $dt = Date::Manip::Date->new;
+                $dt->config('Language' => 'russian');
 
                 if (/$re->{sec}/) {
                     my @sec_plus; 

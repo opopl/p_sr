@@ -1,0 +1,61 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file plaintex.cmds.dimen
+%%parent plaintex.cmds
+ 
+%%endhead 
+
+\subsection{dimen}
+\url{https://www.tug.org/utilities/plain/cseq.html#dimen-rp}
+
+dimen 	Registers
+Internal Quantity
+
+\subsubsection{Synopsis:}
+
+\begin{verbatim}
+	\dimen<8-bit register number>=<dimen>
+\end{verbatim}
+
+\subsubsection{Description:}
+
+THERE are 256 dimen registers: \verb|\dimen0| to \verb|\dimen255|. Each may hold a
+dimension. The commands \verb|\advance|, \verb|\multiply|, and \verb|\divide| allow limited
+arithemetic with the registers. A dimen register may be placed in a count
+register. TeX converts a dimension to a number by assuming units of sp
+(scaled points) [118]. The dimen registers obey TeX's grouping structure.
+So, changes to a register inside a group will not affect the value of the
+register outside the group unless \verb|\global| is used with the register [119].
+The command \verb|`\showthe\dimenn'| writes the value for \verb|`\dimenn'| to the
+terminal and to the log file [121]. The register \verb|\dimen255| is available for
+temporary storage [122].
+
+\subsubsection{Example:}
+
+\begin{verbatim}
+	1. \dimen1=10pt
+	2. \dimen2=1.5\dimen1
+	3. \dimen3=-\dimen2
+	4. \dimen4=0.66667\dimen3
+	5. The dimens are: \the\dimen1, \the\dimen2, \the\dimen3, \the\dimen4.\par
+	6. \dimen1=1pt
+	7. \dimen2=1sp
+	8. \count1=\dimen1
+	9. \count2=\dimen2
+	10. The counts are: \the\count1, \the\count2.\par
+\end{verbatim}
+
+Produces: See typeset version.
+
+\subsubsection{Comments:}
+
+Lines 1-4 show how easy it is to set one \verb|\dimen| register equal to a
+fractional multiple of another register.  Lines 6-9 show how \verb|\dimen|
+registers are converted to \verb|\count| registers.
+
+TeXbook References: 118-119. Also: 118-122, 271, 276, 346-347, 349, 360, 363, 395.
+
+Related Primitives: dimendef, ifdim, advance, multiply, divide, count.
+
+For Additional Examples, see: divide, prevdepth 

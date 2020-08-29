@@ -38,6 +38,21 @@ sub init {
 
                 if($sec =~ m/^(?<day>\d+)_(?<month>\d+)_(?<year>\d+)$/g){
                     $ref->{date_sec} = {%+};
+                    #$dt->parse( join("/",@+{qw(day month year)}) );
+
+                    my @date;
+                    push @date, 
+                        @+{qw(year month day)},
+                        qw( 0 0 0 )
+                        ;
+
+                    $dt->set('date',\@date);
+
+                    my $str = eval { $dt->printf("%d %B %Y, %A"); };
+
+                    if ($str) {
+                        $ref->{date_str} = $str;
+                    }
                 }
 
                 return $ref;
@@ -60,7 +75,6 @@ sub init {
 
                     push @sec_plus, 
                            sprintf(q{\label{sec:%s} %s},$sec,'%edt'),
-                           ' ',
                            ;
 
                     my $sec_plus = join("\n",@sec_plus);
@@ -68,9 +82,9 @@ sub init {
                     my $secname  = $+{secname};
                     my $sectitle = $+{sectitle};
 
-                    my $new_sec = $is_date ? sprintf(
-                        '\DTMdisplaydate{%s}{%s}{%s}{1}',
-                        @{$date_sec}{qw(year month day)}) : $sectitle;
+                    my $date_str = $ref->{date_str};
+
+                    my $new_sec = ($is_date && $date_str) ? $date_str : $sectitle;
     
                     s/$re->{sec}/\\$secname\{$new_sec\}\n$sec_plus/g;
 

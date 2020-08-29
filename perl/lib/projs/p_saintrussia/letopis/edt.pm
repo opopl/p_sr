@@ -84,7 +84,7 @@ sub init {
                     my @sec_plus; 
 
                     push @sec_plus, 
-                           sprintf(q{\label{sec:%s} %s},$sec,'%edt'),
+                           sprintf(q{\label{sec:%s} %s},$sec,''),
                            ;
 
                     my $sec_plus = join("\n",@sec_plus);

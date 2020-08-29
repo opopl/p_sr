@@ -25,6 +25,10 @@ sub init {
 
     $self->SUPER::init();
 
+    my $re = Base::RE::TeX->new;
+    my $dt = Date::Manip::Date->new;
+    $dt->config('Language' => 'russian');
+
     my $h = {
         subs => {
             process_file => sub {
@@ -51,9 +55,6 @@ sub init {
 
                 my $sec = $ref->{sec};
 
-                my $re = Base::RE::TeX->new;
-                my $dt = Date::Manip::Date->new;
-                $dt->config('Language' => 'russian');
 
                 if (/$re->{sec}/) {
                     my @sec_plus; 
@@ -66,7 +67,7 @@ sub init {
 
                     my $sec_plus = join("\n",@sec_plus);
 
-                    my $secname = $+{secname};
+                    my $secname  = $+{secname};
                     my $sectitle = $+{sectitle};
 
                     my $new_sec = $is_date ? sprintf(

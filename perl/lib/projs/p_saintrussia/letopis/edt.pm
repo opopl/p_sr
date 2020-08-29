@@ -53,7 +53,9 @@ sub init {
                             '\DTMdisplaydate{%s}{%s}{%s}{1}',
                             @{$date_sec}{qw(year month day)});
 
-                    my $re = qr{^\\section\{(.*)\}\s*$};
+					my @n = qw(part chapter section subsection subsubsection paragraph);
+					my $n = join("|",@n);
+                    my $re = qr{^\\(?:$n)\{(.*)\}\s*$};
 
                     if (/$re/) {
                         my @sec_plus; 

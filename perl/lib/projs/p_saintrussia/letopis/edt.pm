@@ -10,7 +10,6 @@ use File::Spec::Functions qw(catfile);
 
 use utf8; 
 use Encode;
-#use open qw(:utf8 :std);
 binmode STDOUT, ":utf8";
 
 use base qw(
@@ -24,10 +23,21 @@ sub init {
 
     my $h = {
         subs => {
+            process_file => sub {
+                my $ref = shift;
+
+                my $f = $ref->{f};
+
+                my @date = ($f =~ m/^(\d+)_(\d+)_(\d+)\./g);
+
+                return $ref;
+            },
             edit_line => sub {
                 local $_ = shift;
 
                 my $ref = shift;
+
+                my @date = @{$ref->{date} || []};
 
                 s/(\s+)–(\s+)/$1---$2/g;
                 s/(\d+)–(\d+)/$1-$2/g;
@@ -37,6 +47,12 @@ sub init {
                 s/index\.authors\.rus/authors.rus/g;
                 s/index\.rus/rus/g;
                 s/index\.eng/eng/g;
+
+                if (@date) {
+                    # body...
+                }
+
+                return $_;
             }
         }
     };

@@ -38,7 +38,7 @@ sub init {
             edit_line => sub {
                 local $_ = shift;
 
-                s/^\s*//g;
+                #s/^\s*//g;
                 s/\s*$//g;
 
                 my ($ref,$run) = @_;
@@ -71,7 +71,7 @@ sub init {
                     }
                 }
 
-                s/^\\label{sec:$sec}$//g;
+                s/^\\label\{sec:$sec\}$//g;
                 
                 s/(\s+)–(\s+)/$1---$2/g;
                 s/(\d+)–(\d+)/$1-$2/g;

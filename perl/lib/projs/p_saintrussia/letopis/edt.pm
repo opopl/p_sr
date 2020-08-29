@@ -47,6 +47,23 @@ sub _sub_process_file {
 	return $ref;
 }
 
+sub _sub_edit_line_replace {
+    my $self = shift;
+
+    local $_ = shift;
+
+    s/(\s+)–(\s+)/$1---$2/g;
+    s/(\d+)–(\d+)/$1-$2/g;
+
+    s/index\.cities\.rus/cities.rus/g;
+    s/index\.names\.rus/names.rus/g;
+    s/index\.authors\.rus/authors.rus/g;
+    s/index\.rus/rus/g;
+    s/index\.eng/eng/g;
+
+    return $_;
+}
+
 sub _sub_edit_line {
     my $self = shift;
 
@@ -59,14 +76,7 @@ sub _sub_edit_line {
 
     my $re = $self->{re};
 
-    s/(\s+)–(\s+)/$1---$2/g;
-    s/(\d+)–(\d+)/$1-$2/g;
-
-    s/index\.cities\.rus/cities.rus/g;
-    #s/index\.names\.rus/names.rus/g;
-    #s/index\.authors\.rus/authors.rus/g;
-    #s/index\.rus/rus/g;
-    #s/index\.eng/eng/g;
+    $_ = $self->_sub('edit_line_replace',$_);
 
     my $date_sec = $ref->{date_sec} || {};
     my $is_date = keys %$date_sec ? 1 : 0;
@@ -99,8 +109,8 @@ sub _sub_edit_line {
 
     }
 
-    s/^\\label\{sec:$sec\}.*//g;
-    s/^\s*%edt\s*\n\s*\n//g;
+    s/^\\label\{sec:$sec\}//g;
+    #s/^\s*%edt\s*\n\s*\n//g;
     
     return $_;
 

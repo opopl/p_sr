@@ -55,12 +55,10 @@ sub init {
 
                 my $sec = $ref->{sec};
 
-
                 if (/$re->{sec}/) {
                     my @sec_plus; 
 
                     push @sec_plus, 
-                           ' ',
                            sprintf(q{\label{sec:%s} %s},$sec,'%edt'),
                            ' ',
                            ;
@@ -75,10 +73,13 @@ sub init {
                         @{$date_sec}{qw(year month day)}) : $sectitle;
     
                     s/$re->{sec}/\\$secname\{$new_sec\}\n$sec_plus/g;
+
+                    return $_;
     
                 }
 
-                s/^\\label\{sec:$sec\}$//g;
+                s/^\\label\{sec:$sec\}.*//g;
+                s/^\s*%edt\s*$//g;
                 
                 s/(\s+)–(\s+)/$1---$2/g;
                 s/(\d+)–(\d+)/$1-$2/g;
@@ -88,9 +89,6 @@ sub init {
                 s/index\.authors\.rus/authors.rus/g;
                 s/index\.rus/rus/g;
                 s/index\.eng/eng/g;
-
-                if (keys %$date_sec) {
-                }
 
                 return $_;
             }

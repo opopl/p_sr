@@ -39,7 +39,7 @@ sub init {
                 local $_ = shift;
 
                 #s/^\s*//g;
-                s/\s*$//g;
+                #s/\s*$//g;
 
                 my ($ref,$run) = @_;
 

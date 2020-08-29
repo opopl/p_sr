@@ -43,12 +43,26 @@ sub init {
                 my $date_sec = $ref->{date_sec} || {};
                 my $is_date = keys %$date_sec ? 1 : 0;
 
+                my $sec = $ref->{sec};
+
                 if ($is_date) {
                     my $new_sec = sprintf(
                             '\DTMdisplaydate{%s}{%s}{%s}{1}',
                             @{$date_sec}{qw(year month day)});
 
-                    s/^\\section\{(.*)\}\s*$/\\section{$new_sec}/g;
+                    my $re = qr{^\\section\{(.*)\}\s*$};
+
+                    if (/$re/) {
+                        my @sec_plus; 
+                        push @sec_plus, 
+                            ' ',
+                            sprintf(q{\label{sec:%s}},$sec),
+                            ' ',
+                            ;
+                        my $sec_plus = join("\n",@sec_plus);
+
+                        s/$re/\\section{$new_sec}\n$sec_plus/g;
+                    }
                 }
 
                 s/(\s+)–(\s+)/$1---$2/g;

@@ -38,6 +38,9 @@ sub init {
             edit_line => sub {
                 local $_ = shift;
 
+                s/^\s*//g;
+                s/\s*$//g;
+
                 my ($ref,$run) = @_;
 
                 my $date_sec = $ref->{date_sec} || {};
@@ -54,17 +57,22 @@ sub init {
 
                     if (/$re/) {
                         my @sec_plus; 
+
                         push @sec_plus, 
                             ' ',
-                            sprintf(q{\label{sec:%s}},$sec),
+                            sprintf(q{\label{sec:%s} %s},$sec,'%edt'),
                             ' ',
                             ;
+
                         my $sec_plus = join("\n",@sec_plus);
 
                         s/$re/\\section{$new_sec}\n$sec_plus/g;
+
                     }
                 }
 
+                s/^\\label{sec:$sec}$//g;
+                
                 s/(\s+)–(\s+)/$1---$2/g;
                 s/(\d+)–(\d+)/$1-$2/g;
     

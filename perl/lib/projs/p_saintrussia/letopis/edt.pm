@@ -63,11 +63,14 @@ sub init {
 
                     my $sec_plus = join("\n",@sec_plus);
 
+                    my $secname = $+{secname};
+                    my $sectitle = $+{sectitle};
+
                     my $new_sec = $is_date ? sprintf(
                         '\DTMdisplaydate{%s}{%s}{%s}{1}',
-                        @{$date_sec}{qw(year month day)}) : $+{sectitle};
+                        @{$date_sec}{qw(year month day)}) : $sectitle;
     
-                    s/$re->{sec}/\\$+{secname}{$+{sectitle}}\n$sec_plus/g;
+                    s/$re->{sec}/\\$secname\{$new_sec\}\n$sec_plus/g;
     
                 }
 

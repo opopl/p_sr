@@ -12,8 +12,10 @@ use Data::Dumper qw(Dumper);
 
 use File::Spec::Functions qw(catfile);
 use Getopt::Long qw(GetOptions);
- 
-use Plg::Projs::Scripts::RunPdfLatex;
+
+use Base::Arg qw(
+	hash_update
+);
 
 sub init {
     my ($self) = @_;
@@ -29,9 +31,7 @@ sub init {
     };
     my @acts = sort keys %{$h->{maps_act} || {}};
 
-    my @k = keys %$h;
-
-    for(@k){ $self->{$_} = $h->{$_} unless defined $self->{$_}; }
+	hash_update($self, $h, { keep_already_defined => 1 });
 
     my $acts_s = join(" ",@acts);
     unless (@ARGV) {
@@ -137,6 +137,7 @@ sub init_maker {
     local @ARGV = ();
     my $x = Plg::Projs::Build::PdfLatex->new(
         skip_get_opt => 1,
+		tex_exe      => $self->{tex_exe},
         proj         => $self->{proj},
         root         => $self->{root},
         root_id      => $self->{root_id},

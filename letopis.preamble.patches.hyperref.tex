@@ -39,33 +39,33 @@
 	{}{}% <success><failure>
 \patchcmd{\cftchapfillnum}{\par}{\hyper@linkend\par}{}{}
 
-%% Update ToC hyperlinks for Sections
-%\patchcmd{\l@section}% <cmd>
-  %{{\cftsecfont #1}}% <search>
-  %{\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftsecfont #1}}% <replace>
-  %{}{}% <success><failure>
-%\patchcmd{\cftsecfillnum}{\par}{\hyper@linkend\par}{}{}
+% Update ToC hyperlinks for Sections
+\patchcmd{\l@section}% <cmd>
+	{{\cftsecfont #1}}% <search>
+	{\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftsecfont #1}}% <replace>
+	{}{}% <success><failure>
+\patchcmd{\cftsecfillnum}{\par}{\hyper@linkend\par}{}{}
 
-%% Update ToC hyperlinks for Sub-Sections
-%\patchcmd{\l@subsection}% <cmd>
-  %{{\cftsubsecfont #1}}% <search>
-  %{\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftsubsecfont #1}}% <replace>
-  %{}{}% <success><failure>
-%\patchcmd{\cftsubsecfillnum}{\par}{\hyper@linkend\par}{}{}
+% Update ToC hyperlinks for Sub-Sections
+\patchcmd{\l@subsection}% <cmd>
+	{{\cftsubsecfont #1}}% <search>
+	{\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftsubsecfont #1}}% <replace>
+	{}{}% <success><failure>
+\patchcmd{\cftsubsecfillnum}{\par}{\hyper@linkend\par}{}{}
 
-%% Update ToC hyperlinks for SubSub-Sections
-%\patchcmd{\l@subsubsection}% <cmd>
-  %{{\cftsubsubsecfont #1}}% <search>
-  %{\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftsubsubsecfont #1}}% <replace>
-  %{}{}% <success><failure>
-%\patchcmd{\cftsubsubsecfillnum}{\par}{\hyper@linkend\par}{}{}
+% Update ToC hyperlinks for SubSub-Sections
+\patchcmd{\l@subsubsection}% <cmd>
+	{{\cftsubsubsecfont #1}}% <search>
+	{\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftsubsubsecfont #1}}% <replace>
+	{}{}% <success><failure>
+\patchcmd{\cftsubsubsecfillnum}{\par}{\hyper@linkend\par}{}{}
 
-%% Update ToC hyperlinks for Paragraphs 
-%\patchcmd{\l@paragraph}% <cmd>
-  %{{\cftparafont #1}}% <search>
-  %{\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftparafont #1}}% <replace>
-  %{}{}% <success><failure>
-%\patchcmd{\cftparafillnum}{\par}{\hyper@linkend\par}{}{}
+% Update ToC hyperlinks for Paragraphs 
+\patchcmd{\l@paragraph}% <cmd>
+	{{\cftparafont #1}}% <search>
+	{\hyper@linkstart{link}{\Hy@tocdestname}{}{\cftparafont #1}}% <replace>
+	{}{}% <success><failure>
+\patchcmd{\cftparafillnum}{\par}{\hyper@linkend\par}{}{}
 
 \makeatother
   

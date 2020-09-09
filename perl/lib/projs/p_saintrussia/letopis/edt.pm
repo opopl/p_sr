@@ -15,6 +15,8 @@ binmode STDOUT, ":utf8";
 use Base::RE::TeX;
 use Date::Manip;
 
+use Base::Arg qw( hash_update );
+
 use base qw(
     Plg::Projs::Prj::Edit
 );
@@ -22,29 +24,29 @@ use Data::Dumper qw(Dumper);
 
 sub _sub_process_file {
     my ($self, $ref) = @_;
-	
-	my $sec = $ref->{sec};
-	
-	if($sec =~ m/^(?<day>\d+)_(?<month>\d+)_(?<year>\d+)$/g){
-	    $ref->{date_sec} = {%+};
-	
-	    my @date;
-	    push @date, 
-	        @+{qw(year month day)},
-	        qw( 0 0 0 )
-	        ;
-	
+    
+    my $sec = $ref->{sec};
+    
+    if($sec =~ m/^(?<day>\d+)_(?<month>\d+)_(?<year>\d+)$/g){
+        $ref->{date_sec} = {%+};
+    
+        my @date;
+        push @date, 
+            @+{qw(year month day)},
+            qw( 0 0 0 )
+            ;
+    
         my $dt = $self->{dt};
-	    $dt->set('date',\@date);
-	
-	    my $str = eval { $dt->printf("%d %B %Y, %A"); };
-	
-	    if ($str) {
-	        $ref->{date_str} = $str;
-	    }
-	}
-	
-	return $ref;
+        $dt->set('date',\@date);
+    
+        my $str = eval { $dt->printf("%d %B %Y, %A"); };
+    
+        if ($str) {
+            $ref->{date_str} = $str;
+        }
+    }
+    
+    return $ref;
 }
 
 sub _sub_edit_line_replace {
@@ -79,18 +81,18 @@ sub _sub_edit_line {
     $_ = $self->_sub('edit_line_replace',$_);
 
     my $date_sec = $ref->{date_sec} || {};
-    my $is_date = keys %$date_sec ? 1 : 0;
+    my $is_date  = keys %$date_sec ? 1 : 0;
 
     my $sec = $ref->{sec};
 
     if (/$re->{sec}/) {
         return $_ if $run->{sec_done};
 
+        $run->{sec_line} = 1;
+
         my @sec_plus; 
 
-        push @sec_plus, 
-               sprintf(q{\label{sec:%s}},$sec),
-               ;
+        push @sec_plus, ;
 
         my $sec_plus = join("\n",@sec_plus);
 
@@ -101,6 +103,9 @@ sub _sub_edit_line {
 
         my $new_sec = ($is_date && $date_str) ? $date_str : $sectitle;
 
+        $run->{new_sec}   = $new_sec;
+        $run->{new_label} = sprintf(q{\label{sec:%s}},$sec);
+
         s/$re->{sec}/\\$secname\{$new_sec\}\n$sec_plus/g;
 
         $run->{sec_done} = 1;
@@ -109,8 +114,26 @@ sub _sub_edit_line {
 
     }
 
-    s/^\\label\{sec:$sec\}//g;
-    #s/^\s*%edt\s*\n\s*\n//g;
+
+    my $new_label = $run->{new_label};
+    if (/$re->{label}/) {
+        if ($new_label) {
+            s/$re->{label}/\\label\{sec:$sec\}/g;
+        }
+        $run->{new_label} = undef;
+        $run->{label_done} = 1;
+
+        return $_;
+    }
+
+    if ($run->{sec_line}) {
+        $run->{sec_line} = 1;
+        $run->{label_done} = 1;
+
+        s/^(.*)$/\\label\{sec:$sec\}\n$1/g;
+
+        return $_;
+    }
     
     return $_;
 
@@ -130,12 +153,8 @@ sub init {
         dt => $dt,
         subs => { }
     };
-        
-    my @k = keys %$h;
 
-    for(@k){ 
-        $self->{$_} = $h->{$_} unless defined $self->{$_}; 
-    }
+    hash_update($self, $h, { keep_already_defined => 1 });
 
     return $self;
 }

@@ -106,7 +106,7 @@ sub _sub_edit_line {
         $run->{new_sec}   = $new_sec;
         $run->{new_label} = sprintf(q{\label{sec:%s}},$sec);
 
-        s/$re->{sec}/\\$secname\{$new_sec\}\n$sec_plus/g;
+        s/$re->{sec}/\\$secname\{$new_sec\}/g;
 
         $run->{sec_done} = 1;
 

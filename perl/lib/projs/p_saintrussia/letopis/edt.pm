@@ -92,7 +92,7 @@ sub _sub_edit_line {
 
         my @sec_plus; 
 
-        push @sec_plus, ;
+        #push @sec_plus, ;
 
         my $sec_plus = join("\n",@sec_plus);
 

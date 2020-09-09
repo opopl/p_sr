@@ -1,0 +1,23 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file _main_
+%%parent 
+ 
+%%endhead 
+ 
+%%file f_main
+ 
+\def\PROJ{ctan_etoolbox}
+\def\ii#1{\InputIfFileExists{\PROJ.#1.tex}{}{}}
+
+\documentclass{ltxdockit}[2010/09/26]
+ 
+\ii{preamble}
+\ii{defs}
+ 
+\begin{document}
+ 
+\ii{body}
+\end{document}
+ 

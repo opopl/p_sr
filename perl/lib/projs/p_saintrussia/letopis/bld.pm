@@ -4,7 +4,6 @@ package projs::p_saintrussia::letopis::bld;
 use strict;
 use warnings;
 
-
 use FindBin qw($Bin $Script);
 use Data::Dumper qw(Dumper);
 
@@ -18,8 +17,6 @@ use Base::Arg qw(
 use base qw(
 	Plg::Projs::Prj::Builder
 );
-
-
 
 1;
  

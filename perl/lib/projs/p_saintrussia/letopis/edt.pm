@@ -54,12 +54,8 @@ sub _sub_edit_line_replace {
 
     local $_ = shift;
 
-    s/(\s+)–(\s+)/$1---$2/g;
-    s/(\d+)–(\d+)/$1-$2/g;
-
-    s/(\s+)—(\s+)/$1---$2/g;
-    s/(\d+)—(\d+)/$1-$2/g;
-
+    $_ = $self->SUPER::_sub_edit_line_replace($_);
+    
     s/index\.cities\.rus/cities.rus/g;
     s/index\.names\.rus/names.rus/g;
     s/index\.authors\.rus/authors.rus/g;

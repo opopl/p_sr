@@ -123,6 +123,8 @@ sub _sub_edit_line {
         $run->{new_label} = undef;
         $run->{label_done} = 1;
 
+        $run->{sec_line} = 0 if $run->{sec_line};
+
         return $_;
     }
 

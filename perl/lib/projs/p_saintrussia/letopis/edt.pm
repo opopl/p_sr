@@ -127,7 +127,7 @@ sub _sub_edit_line {
     }
 
     if ($run->{sec_line}) {
-        $run->{sec_line} = 1;
+        $run->{sec_line} = 0;
         $run->{label_done} = 1;
 
         s/^(.*)$/\\label\{sec:$sec\}\n$1/g;

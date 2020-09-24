@@ -27,11 +27,17 @@ sub init {
         tex_exe => 'pdflatex',
         insert => { 
             hyperlinks => 1,
-            titletoc   => 1,
+            titletoc   => 0,
         },
+        opts_maker => {
+            load_dat => {
+                ii_include => 1,
+            },
+        }
     };
     hash_inject($self, $h);
     $self->SUPER::init();
+
     
     return $self;
 }

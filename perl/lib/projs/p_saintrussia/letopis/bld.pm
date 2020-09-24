@@ -27,7 +27,7 @@ sub init {
         tex_exe => 'pdflatex',
         insert => { 
             hyperlinks => 1,
-            hypertoc   => 1,
+            titletoc   => 1,
         },
     };
     hash_inject($self, $h);

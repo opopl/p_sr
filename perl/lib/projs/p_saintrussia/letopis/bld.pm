@@ -47,25 +47,10 @@ sub init {
     return $self;
 }
 
-sub inj_targets {
-    my ($self) = @_;
-
-    foreach my $trg ($self->trg_list) {
-        my $sub = '_trg_inj_' . $trg;
-        if ($self->can($sub)) {
-            $self->$sub;
-        }
-    }
-}
-
-sub trg_list {
-    my ($self) = @_;
-
-    @{ $self->{trg_list} || [] };
-}
-
 sub _trg_inj_usual {
     my ($self) = @_;
+
+    $self->SUPER::_trg_inj_usual();
     
     my $h = {
         tex_exe => 'pdflatex',

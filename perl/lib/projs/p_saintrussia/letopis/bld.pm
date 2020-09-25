@@ -38,9 +38,6 @@ sub init {
                 include          => [],
                 include_with_children => [qw(preamble)],
             },
-            sections => {
-                include => [],
-            }
         }
     };
 

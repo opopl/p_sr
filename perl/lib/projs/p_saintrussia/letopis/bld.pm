@@ -31,7 +31,11 @@ sub init {
         },
         opts_maker => {
             load_dat => {
-                ii_include => 1,
+                ii_include => 0,
+            },
+            sections => {
+                include          => [],
+                include_with_children => [qw(preamble)],
             },
         }
     };

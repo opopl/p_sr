@@ -33,7 +33,9 @@ sub init {
             load_dat => {
                 ii_include => 1,
             },
-			sections => {}
+            sections => {
+                include => [],
+            }
         }
     };
     hash_inject($self, $h);

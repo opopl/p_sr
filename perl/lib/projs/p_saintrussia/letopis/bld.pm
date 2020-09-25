@@ -24,6 +24,7 @@ sub init {
     my ($self) = @_;
     
     my $h = {
+        trg_list => [qw(usual)],
         tex_exe => 'pdflatex',
         insert => { 
             hyperlinks => 1,
@@ -37,10 +38,41 @@ sub init {
                 include          => [],
                 include_with_children => [qw(preamble)],
             },
+            sections => {
+                include => [],
+            }
         }
     };
+
     hash_inject($self, $h);
+
     $self->SUPER::init();
+
+    return $self;
+}
+
+sub _trg_inj_usual {
+    my ($self) = @_;
+
+    $self->SUPER::_trg_inj_usual();
+    
+    my $h = {
+        tex_exe => 'pdflatex',
+        insert => { 
+            hyperlinks => 1,
+            titletoc   => 1,
+        },
+        opts_maker => {
+            load_dat => {
+                ii_include => 1,
+            },
+            sections => {
+                include => [],
+            }
+        }
+    };
+
+    $self->trg_inject('usual' => $h);
 
     return $self;
 }

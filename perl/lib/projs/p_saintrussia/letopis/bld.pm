@@ -41,12 +41,30 @@ sub init {
     };
 
     hash_inject($self, $h);
+
     $self->SUPER::init();
 
     return $self;
 }
 
-sub init_trg_usual {
+sub inj_targets {
+    my ($self) = @_;
+
+    foreach my $trg ($self->trg_list) {
+        my $sub = '_trg_inj_' . $trg;
+        if ($self->can($sub)) {
+            $self->$sub;
+        }
+    }
+}
+
+sub trg_list {
+    my ($self) = @_;
+
+    @{ $self->{trg_list} || [] };
+}
+
+sub _trg_inj_usual {
     my ($self) = @_;
     
     my $h = {
@@ -64,8 +82,8 @@ sub init_trg_usual {
             }
         }
     };
-    hash_inject($self, { targets => { usual => $h }});
-    $self->SUPER::init();
+
+    $self->trg_inject('usual' => $h);
 
     return $self;
 }

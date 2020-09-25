@@ -35,8 +35,14 @@ sub init {
                 ii_include => 0,
             },
             sections => {
-                include          => [],
-                include_with_children => [qw(preamble)],
+                include          => [qw(
+                    _base_
+                    defs
+                )],
+                include_with_children => [qw(
+                    preamble
+                    titlepage
+                )],
             },
         }
     };

@@ -27,7 +27,7 @@ sub init {
         tex_exe => 'pdflatex',
         insert => { 
             hyperlinks => 1,
-            titletoc   => 0,
+            titletoc   => 1,
         },
         opts_maker => {
             load_dat => {
@@ -38,7 +38,6 @@ sub init {
     hash_inject($self, $h);
     $self->SUPER::init();
 
-    
     return $self;
 }
 

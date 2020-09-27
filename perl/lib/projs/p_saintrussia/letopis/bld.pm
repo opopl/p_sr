@@ -54,31 +54,31 @@ sub init {
     return $self;
 }
 
-sub _trg_inj_usual {
-    my ($self) = @_;
+#sub _trg_inj_usual {
+    #my ($self) = @_;
 
-    $self->SUPER::_trg_inj_usual();
+    #$self->SUPER::_trg_inj_usual();
     
-    my $h = {
-        tex_exe => 'pdflatex',
-        insert => { 
-            hyperlinks => 1,
-            titletoc   => 1,
-        },
-        opts_maker => {
-            load_dat => {
-                ii_include => 1,
-            },
-            sections => {
-                include => [],
-            }
-        }
-    };
+    #my $h = {
+        #tex_exe => 'pdflatex',
+        #insert => { 
+            #hyperlinks => 1,
+            #titletoc   => 1,
+        #},
+        #opts_maker => {
+            #load_dat => {
+                #ii_include => 1,
+            #},
+            #sections => {
+                #include => [],
+            #}
+        #}
+    #};
 
-    $self->trg_inject('usual' => $h);
+    #$self->trg_inject('usual' => $h);
 
-    return $self;
-}
+    #return $self;
+#}
 
 
 

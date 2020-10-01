@@ -11,12 +11,12 @@ use base qw(
 );
 
 my $r = {
-	tags_img_new => [ qw( 21_07_2020.lj.chervonec_001.1 ) ],
-	num_cols     => 2,
-	range        => [( 1 .. 2 )],
-	width_cell   => 0.3,
-	width_last   => 0.5,
-	load_pwg     => 1,
+    tags_img_new => [ qw( 21_07_2020.lj.chervonec_001.1 ) ],
+    num_cols     => 2,
+    range        => [( 1 .. 2 )],
+    width_cell   => 0.3,
+    width_last   => 0.5,
+    load_pwg     => 1,
 };
 
 __PACKAGE__->new(%$r)->run;

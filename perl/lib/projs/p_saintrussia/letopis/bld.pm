@@ -54,7 +54,7 @@ sub init {
     return $self;
 }
 
-#sub _trg_inj_usual {
+#sub trg_inj_usual {
     #my ($self) = @_;
 
     #$self->SUPER::_trg_inj_usual();

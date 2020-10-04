@@ -1,5 +1,5 @@
 
-package projs::p_saintrussia::berdnyk::bld;
+package projs::p_sr::berdnyk::bld;
 
 use strict;
 use warnings;

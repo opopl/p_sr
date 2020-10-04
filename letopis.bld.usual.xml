@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bld target="usual">
-	<opts_maker>
-	</opts_maker>
+  <insert titletoc="1" hyperlinks="1">
+  </insert>
+  <opts_maker tex_exe="pdflatex">
+    <skip get_opt="1"/>
+    <load_dat ii_include="1" ii_exclude="1" />
+    <join_lines>
+      <include_below>
+        section
+      </include_below>
+    </join_lines>
+    <sections>
+      <include>
+      </include>
+      <include_with_children>
+        preamble
+      </include_with_children>
+      <ins_order>
+         hyperlinks
+         titletoc
+      </ins_order>
+    </sections>
+    <generate>
+    </generate>
+    <append>
+      <each>
+      </each>
+      <only>
+        <defs>
+        </defs>
+      </only>
+    </append>
+  </opts_maker>
 </bld>

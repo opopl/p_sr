@@ -8,7 +8,7 @@ use Data::Dumper qw(Dumper);
 use FindBin qw($Bin $Script);
 
 use File::Find qw(find);
-use File::Slurp::Unicode;
+use File::Slurp qw(edit_file);
 
 my @files;
 my @exts=qw( bld.pl pm );

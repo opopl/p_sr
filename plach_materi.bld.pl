@@ -4,7 +4,7 @@ use warnings;
 use strict;
 
 use base qw(
-    projs::p_saintrussia::plach_materi::bld
+    projs::p_sr::plach_materi::bld
 );
 
 __PACKAGE__->new->run;

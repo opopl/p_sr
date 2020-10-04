@@ -20,16 +20,16 @@
          hyperlinks
          titletoc
       </ins_order>
+      <generate>
+      </generate>
+      <append>
+        <each>
+        </each>
+        <only>
+          <defs>
+          </defs>
+        </only>
+      </append>
     </sections>
-    <generate>
-    </generate>
-    <append>
-      <each>
-      </each>
-      <only>
-        <defs>
-        </defs>
-      </only>
-    </append>
   </opts_maker>
 </bld>

@@ -3,14 +3,15 @@
   <tex_exe>pdflatex</tex_exe>
   <sii>
     <insert titletoc="1" hyperlinks="1" />
-    <preamble>
+    <sec name="preamble.packages">
       <packages>
       </packages>
       <pack_opts>
       </pack_opts>
-    </preamble>
+    </sec>
     <generate>
       <on>
+        preamble.packages
         preamble.packages.xelatex
         preamble.packages.pdflatex
       </on>

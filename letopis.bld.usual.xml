@@ -14,31 +14,29 @@
 				</ii>
 				<pkg>
 	        <pack_list>
-	           ifxetex ifpdf
-	           xparse
-	           titletoc
-	           mathtext
-	           iflang
-	           tocloft
-	           nameref
-	           color
-	           xcolor
-	           colortbl
-	           imakeidx
-	           hyperref
-	           bookmark
+	           ifxetex ifpdf iflang ifthen
+
 	           geometry
+
+	           xparse
+	           titletoc tocloft
+
+	           color xcolor colortbl
+
+	           graphicx tikz pgffor
+
+	           hyperref bookmark
+
+	           imakeidx
 	           etoolbox
 	           adjustbox
-	           ifthen
 	           longtable
-	           graphicx
 	           projs
 	           multicol
-	           pgffor
 	           filecontents
-	           tikz
 	           datetime2
+	           mathtext
+	           nameref
 	        </pack_list>
 	        <pack_opts>
 	          <datetime2>

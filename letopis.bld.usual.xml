@@ -5,71 +5,73 @@
     <insert titletoc="1" hyperlinks="1" />
     <scts>
       <sct name="preamble.packages">
-				<contents>
-					pkg ii
-				</contents>
-				<ii>
-					preamble.packages.pdflatex
-					preamble.packages.xelatex
-				</ii>
-				<pkg>
-	        <pack_list>
-	           ifxetex ifpdf iflang ifthen
+        <contents>
+          pkg ii
+        </contents>
+        <ii>
+          preamble.packages.pdflatex
+          preamble.packages.xelatex
+        </ii>
+        <pkg>
+          <pack_list>
+             ifxetex ifpdf iflang ifthen
 
-	           geometry
+             geometry
 
-	           xparse
-	           titletoc tocloft
+             xparse
+             titletoc tocloft
 
-	           color xcolor colortbl
+             color xcolor colortbl
 
-	           graphicx tikz pgffor
+             graphicx tikz pgffor
 
-	           hyperref bookmark
+             hyperref bookmark
 
-	           imakeidx
-	           etoolbox
-	           adjustbox
-	           longtable
-	           projs
-	           multicol
-	           filecontents
-	           datetime2
-	           mathtext
-	           nameref
-	        </pack_list>
-	        <pack_opts>
-	          <datetime2>
-	           useregional
-	          </datetime2>
-	          <tocloft>
-	           titles
-	          </tocloft>
-	          <imakeidx>
-	           xindy
-	          </imakeidx>
-	          <hyperref>
-	           colorlinks=true
-	           linktoc=all
-	           linkcolor=blue
-	           letterpaper
-	           unicode
-	           linktocpage
-	           bookmarksdepth=subparagraph
-	           bookmarksnumbered=true
-	          </hyperref>
-	          <geometry>
-								hmargin={1cm,1cm}
-								vmargin={2cm,2cm}
-								centering
-	          </geometry>
-	          <adjustbox>
-	           export
-	          </adjustbox>
-	        </pack_opts>
-				</pkg>
+             imakeidx
+             etoolbox
+             adjustbox
+             longtable
+             projs
+             multicol
+             filecontents
+             datetime2
+             mathtext
+             nameref
+          </pack_list>
+          <pack_opts>
+            <datetime2>
+             useregional
+            </datetime2>
+            <tocloft>
+             titles
+            </tocloft>
+            <imakeidx>
+             xindy
+            </imakeidx>
+            <hyperref>
+             colorlinks=true
+             linktoc=all
+             linkcolor=blue
+             letterpaper
+             unicode
+             linktocpage
+             bookmarksdepth=subparagraph
+             bookmarksnumbered=true
+            </hyperref>
+            <geometry>
+                hmargin={1cm,1cm}
+                vmargin={2cm,2cm}
+                centering
+            </geometry>
+            <adjustbox>
+             export
+            </adjustbox>
+          </pack_opts>
+        </pkg>
       </sct>
       <sct name="preamble.packages.xelatex">
+        <contents>
+        </contents>
         <text>
         </text>
       </sct>

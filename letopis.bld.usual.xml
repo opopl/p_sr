@@ -3,10 +3,14 @@
   <tex_exe>pdflatex</tex_exe>
   <sii>
     <insert titletoc="1" hyperlinks="1" />
+    <langs>
+      english
+      russian
+    </langs>
     <scts>
       <sct name="preamble">
         <contents>
-          @doc @ii @setcounter
+          @doc @ii @setcounter @perl
         </contents>
         <doc class="extreport" opts="a4paper,11pt" />
         <ii>
@@ -18,14 +22,17 @@
           preamble.filecontents
         </ii>
         <setcounter secnumdepth="0"/>
+        <perl>
+          '\relax';
+        </perl>
       </sct>
       <sct name="preamble.packages.xelatex">
         <contents>
           \ifxetex @pkg @txt \fi
         </contents>
         <txt>
-          \setmainlanguage{russian}
           \setotherlanguage{english}
+          \setmainlanguage{russian}
           %\setotherlanguage{churchslavonic}
           
           \setkeys{russian}{babelshorthands=true}
@@ -68,10 +75,11 @@
              OT1,T2A,T3
             </fontenc>
             <babel>
-             english,russian
+              english
+              russian
             </babel>
             <inputenc>
-             utf8
+              utf8
             </inputenc>
           </pack_opts>
         </pkg>

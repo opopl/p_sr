@@ -31,6 +31,16 @@
           '\relax';
         </perl>
       </sct>
+\ii{preamble.patches.hyperref}
+\ii{preamble.patches.sections}
+      <sct name="preamble.patches">
+        <contents>
+          @input
+        </contents>
+        <input>
+					src.preamble.patches.toc
+        </input>
+      </sct>
       <sct name="preamble.filecontents">
         <contents>
           @input

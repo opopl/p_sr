@@ -1,0 +1,27 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file preamble.filecontents.xdy
+%%parent preamble.filecontents
+ 
+%%endhead 
+%(require "page-ranges.xdy")
+%(define-attributes (("default" "textbf" "textit" "hyperpage")))
+%(define-location-class "arabic-page-numbers"
+   %("arabic-numbers") :min-range-length 1)
+%(markup-locref :open "\hyperpage{" :close "}")
+
+  
+\begin{filecontents*}{\PROJ.xdy}
+(markup-index :open  "~n
+\begin{theindex}
+  \providecommand*\lettergroupDefault[1]{}
+  \providecommand*\lettergroup[1]{%
+    \textsf{#1}
+    \nopagebreak
+  }
+  ~n"
+  :close "~n~n\end{theindex}~n"
+:tree)
+\end{filecontents*}
+

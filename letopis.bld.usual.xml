@@ -31,6 +31,13 @@
           '\relax';
         </perl>
       </sct>
+      <sct name="preamble.filecontents">
+        <contents>
+          @txt
+        </contents>
+        <txt>
+        </txt>
+      </sct>
       <sct name="preamble.acrobat_menu">
         <contents>
           @pkg @txt
@@ -189,6 +196,7 @@
         preamble.packages.pdflatex
 
         preamble.acrobat_menu
+        preamble.filecontents
       </on>
     </generate>
   </sii>

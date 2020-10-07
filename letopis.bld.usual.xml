@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <bld>
   <tex_exe>pdflatex</tex_exe>
+  <vars>
+    <pagestyle>fancy</pagestyle>
+  </vars>
   <preamble>
-	  <langs main="russian">
-	    english
-	    russian
-	  </langs>
+    <langs main="russian">
+      english
+      russian
+    </langs>
   </preamble>
   <sii>
     <insert titletoc="1" hyperlinks="1" />
@@ -30,7 +33,29 @@
       </sct>
       <sct name="preamble.acrobat_menu">
         <contents>
+          @pkg @txt
         </contents>
+        <txt>
+          \pagestyle{@var{pagestyle}} 
+
+          %\cfoot{\NavigationBar} 
+          \chead{\NavigationBar} 
+
+          <!--\IfLanguageName{english}{} -->
+            \def\NavigationBar{% 
+                \Acrobatmenu{PrevPage}{Previous}~ 
+                \Acrobatmenu{NextPage}{Next}~ 
+                \Acrobatmenu{FirstPage}{First}~ 
+                \Acrobatmenu{LastPage}{Last}~ 
+                \Acrobatmenu{GoBack}{Back}~ 
+                \Acrobatmenu{Quit}{Quit}% 
+            }
+        </txt>
+        <pkg>
+          <pack_list>
+            fancyhdr
+          </pack_list>
+        </pkg>
       </sct>
       <sct name="preamble.packages.xelatex">
         <contents>

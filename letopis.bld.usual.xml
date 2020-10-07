@@ -4,6 +4,9 @@
   <vars>
     <pagestyle>fancy</pagestyle>
   </vars>
+  <defs>
+    do_ind_titletoc
+  </defs>
   <preamble>
     <langs main="russian">
       english
@@ -46,8 +49,23 @@
       </sct>
       <sct name="index">
         <contents>
-          @printindex
+          @txt.ptc.start @printindex @txt.ptc.stop
         </contents>
+        <txt>
+          <ptc>
+            <start>
+              @ifdef{do_ind_titletoc}
+                \startcontents[indices]
+                \printcontents[indices]{l}{1}{\addtocontents{ptc}{\setcounter{tocdepth}{1}}}
+              @fi
+            </start>
+            <stop>
+              @ifdef{do_ind_titletoc}
+                \stopcontents[indices]
+              @fi
+            </stop>
+          </ptc>
+        </txt>
       </sct>
       <sct name="preamble.patches">
         <contents>

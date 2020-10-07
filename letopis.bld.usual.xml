@@ -9,6 +9,14 @@
       english
       russian
     </langs>
+    <index>
+        <ind name="" />
+        <ind name="eng" title="Index" />
+        <ind name="rus" title="Предметный указатель" />
+        <ind name="names.rus" title="Имена" />
+        <ind name="authors.rus" title="Авторы" />
+        <ind name="cities.rus" title="Города" />
+    </index>
   </preamble>
   <sii>
     <insert titletoc="1" hyperlinks="1" />
@@ -35,12 +43,11 @@
         <contents>
           @makeindex
         </contents>
-        <makeindex name="" />
-        <makeindex name="eng" title="Index" />
-        <makeindex name="rus" title="Предметный указатель" />
-        <makeindex name="names.rus" title="Имена" />
-        <makeindex name="authors.rus" title="Авторы" />
-        <makeindex name="cities.rus" title="Города" />
+      </sct>
+      <sct name="index">
+        <contents>
+          @printindex
+        </contents>
       </sct>
       <sct name="preamble.patches">
         <contents>
@@ -214,6 +221,8 @@
     </scts>
     <generate>
       <on>
+        index
+
         preamble
         preamble.packages
         preamble.packages.xelatex

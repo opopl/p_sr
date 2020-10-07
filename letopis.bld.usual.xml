@@ -33,10 +33,13 @@
       </sct>
       <sct name="preamble.filecontents">
         <contents>
-          @txt
+          @input
         </contents>
-        <txt>
-        </txt>
+        <input>
+            src.preamble.filecontents.xdy
+            src.preamble.filecontents.index_eng_xdy
+            src.preamble.filecontents.index_rus_xdy
+        </input>
       </sct>
       <sct name="preamble.acrobat_menu">
         <contents>

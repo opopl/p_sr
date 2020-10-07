@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <bld>
   <tex_exe>pdflatex</tex_exe>
+  <preamble>
+	  <langs main="russian">
+	    english
+	    russian
+	  </langs>
+  </preamble>
   <sii>
     <insert titletoc="1" hyperlinks="1" />
-    <langs>
-      english
-      russian
-    </langs>
     <scts>
       <sct name="preamble">
         <contents>
@@ -25,6 +27,10 @@
         <perl>
           '\relax';
         </perl>
+      </sct>
+      <sct name="preamble.acrobat_menu">
+        <contents>
+        </contents>
       </sct>
       <sct name="preamble.packages.xelatex">
         <contents>
@@ -156,6 +162,8 @@
         preamble.packages
         preamble.packages.xelatex
         preamble.packages.pdflatex
+
+        preamble.acrobat_menu
       </on>
     </generate>
   </sii>

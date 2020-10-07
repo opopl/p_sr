@@ -49,9 +49,20 @@
       </sct>
       <sct name="index">
         <contents>
+          @txt.hdr
           @txt.ptc.start @printindex @txt.ptc.stop
         </contents>
         <txt>
+          <hdr>
+              \clearpage
+              \phantomsection
+              \begin{center}
+                {\Huge\bfseries \indicesname}\par
+                \hyperlink{tabcont}{\contentsname}
+              \end{center}
+              \addcontentsline{toc}{part}{Указатели}
+              \hypertarget{indices}{}
+          </hdr>
           <ptc>
             <start>
               @ifdef{do_ind_titletoc}

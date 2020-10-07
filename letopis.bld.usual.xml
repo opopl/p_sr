@@ -4,9 +4,66 @@
   <sii>
     <insert titletoc="1" hyperlinks="1" />
     <scts>
+      <sct name="preamble.packages.xelatex">
+        <contents>
+          \ifxetex @pkg @txt \fi
+        </contents>
+        <txt>
+          \setmainlanguage{russian}
+          \setotherlanguage{english}
+          %\setotherlanguage{churchslavonic}
+          
+          \setkeys{russian}{babelshorthands=true}
+          
+          \setmainfont{Times New Roman}
+          \setromanfont{Times New Roman} 
+          
+          \setsansfont{Arial} 
+          \setmonofont{Courier New} 
+          
+          \newfontfamily{\cyrillicfont}{Times New Roman} 
+          \newfontfamily{\cyrillicfontrm}{Times New Roman}
+          \newfontfamily{\cyrillicfonttt}{Courier New}
+          \newfontfamily{\cyrillicfontsf}{Arial}
+          
+          \addto\captionsrussian{%
+            \renewcommand{\figurename}{Рис.}%
+            \renewcommand{\tablename}{Табл.}%
+          }
+        </txt>
+        <pkg>
+          <pack_list>
+             xltxtra
+             polyglossia
+          </pack_list>
+        </pkg>
+      </sct>
+      <sct name="preamble.packages.pdflatex">
+        <contents>
+          \ifpdf @pkg \fi
+        </contents>
+        <pkg>
+          <pack_list>
+             fontenc
+             inputenc
+             babel
+          </pack_list>
+          <pack_opts>
+            <fontenc>
+             OT1,T2A,T3
+            </fontenc>
+            <babel>
+             english,russian
+            </babel>
+            <inputenc>
+             utf8
+            </inputenc>
+          </pack_opts>
+        </pkg>
+      </sct>
       <sct name="preamble.packages">
         <contents>
-          pkg ii
+          @pkg @ii
         </contents>
         <ii>
           preamble.packages.pdflatex
@@ -68,12 +125,6 @@
             </adjustbox>
           </pack_opts>
         </pkg>
-      </sct>
-      <sct name="preamble.packages.xelatex">
-        <contents>
-        </contents>
-        <text>
-        </text>
       </sct>
     </scts>
     <generate>

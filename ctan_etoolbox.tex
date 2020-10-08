@@ -7,6 +7,9 @@
 %%endhead 
  
 %%file f_main
+
+\newif\ifDEBUG
+\DEBUGfalse
  
 \def\PROJ{ctan_etoolbox}
 \def\ii#1{\InputIfFileExists{\PROJ.#1.tex}{}{}}

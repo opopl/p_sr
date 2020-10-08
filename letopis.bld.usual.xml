@@ -13,7 +13,7 @@
       russian
     </langs>
     <index>
-        <ind name="" />
+        <!--<ind name="" />-->
         <ind name="eng" title="Index" />
         <ind name="rus" title="Предметный указатель" />
         <ind name="names.rus" title="Имена" />

@@ -1,5 +1,5 @@
 
-package projs::p_saintrussia::plach_materi::edt;
+package projs::p_sr::berdnyk::edt;
 
 use strict;
 use warnings;

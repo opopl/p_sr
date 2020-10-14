@@ -1,5 +1,5 @@
 
-package projs::p_saintrussia::ctan_etoolbox::bld;
+package projs::p_sr::ctan_etoolbox::bld;
 
 use strict;
 use warnings;

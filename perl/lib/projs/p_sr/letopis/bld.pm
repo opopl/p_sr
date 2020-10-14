@@ -1,5 +1,5 @@
 
-package projs::p_saintrussia::letopis::bld;
+package projs::p_sr::letopis::bld;
 
 use strict;
 use warnings;
@@ -25,7 +25,7 @@ sub init {
     
     my $h = {
         trg_list => [qw(usual)],
-        tex_exe => 'pdflatex',
+        tex_exe  => 'pdflatex',
     };
 
     hash_inject($self, $h);

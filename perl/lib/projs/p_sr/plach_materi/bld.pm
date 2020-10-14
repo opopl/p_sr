@@ -1,5 +1,5 @@
 
-package projs::p_saintrussia::plach_materi::bld;
+package projs::p_sr::plach_materi::bld;
 
 use strict;
 use warnings;

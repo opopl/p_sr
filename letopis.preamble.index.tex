@@ -18,16 +18,16 @@
 \ifINDEX
   \makeindex
 
-	\makeatletter
-	\newcommand{\rindex}[2][\imki@jobname]{%
-	  \index[#1]{\detokenize{#2}}%
-	}
-	\makeatother
-	
-	\makeindex[name=eng,title=Index]
-	\makeindex[name=rus,title=Предметный указатель]
-	\makeindex[name=names.rus,title=Имена]
-	\makeindex[name=authors.rus,title=Авторы]
-	\makeindex[name=cities.rus,title=Города]
+  \makeindex[name=eng,title=Index]
+  \makeindex[name=rus,title=Предметный указатель]
+  \makeindex[name=names.rus,title=Имена]
+  \makeindex[name=authors.rus,title=Авторы]
+  \makeindex[name=cities.rus,title=Города]
+
+  \makeatletter
+  \newcommand{\rindex}[2][\imki@jobname]{%
+    \index[#1]{\detokenize{#2}}%
+  }
+  \makeatother
 
 \fi

@@ -1,5 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<bld target="usual">
+<?xml version="1.0" encoding="UTF-8" ?>
+<bld>
+  <tex_exe>pdflatex</tex_exe>
+  <vars>
+    <pagestyle>fancy</pagestyle>
+  </vars>
+  <defs>
+    do_ind_titletoc
+  </defs>
+  <preamble>
+    <langs main="russian">
+      english
+      russian
+    </langs>
+    <index>
+        <!--<ind name="" />-->
+        <ind name="eng" title="Index" />
+        <ind name="rus" title="Предметный указатель" />
+        <ind name="names.rus" title="Имена" />
+        <ind name="authors.rus" title="Авторы" />
+        <ind name="cities.rus" title="Города" />
+    </index>
+  </preamble>
+  <sii>
+    <insert titletoc="1" hyperlinks="1" />
+  </sii>
   <opts_maker>
+    <skip get_opt="1" />
+    <load_dat ii_include="0" ii_exclude="1" />
+    <join_lines>
+      <include_below>
+        section
+      </include_below>
+    </join_lines>
+    <sections>
+      <include>
+        _base_
+        articles
+        defs
+        25_10_2019
+        <!--13_07_2020-->
+        <!--14_07_2020-->
+        <!--15_07_2020-->
+      <!--  16_07_2020-->
+        <!--17_07_2020-->
+        <!--18_07_2020-->
+        <!--19_07_2020-->
+        <!--20_07_2020-->
+        <!--21_07_2020-->
+        <!--22_07_2020-->
+        <!--23_07_2020-->
+        <!--24_07_2020-->
+        <!--25_07_2020-->
+        <!--26_07_2020-->
+        <!--27_07_2020-->
+        <!--28_07_2020-->
+        <!--29_07_2020-->
+        <!--30_07_2020-->
+        
+        <!--04_08_2020-->
+        <!--05_08_2020-->
+        <!--06_08_2020-->
+        <!--07_08_2020-->
+        <!--23_08_2020-->
+        <!--24_08_2020-->
+        <!--30_08_2020-->
+        <!--11_10_2020-->
+        <!--12_10_2020-->
+      </include>
+      <include_with_children>
+        preamble
+      </include_with_children>
+      <ins_order>
+         hyperlinks
+         titletoc
+      </ins_order>
+      <generate>
+      </generate>
+      <append>
+        <each>
+        </each>
+        <only>
+          <defs>
+          </defs>
+        </only>
+      </append>
+    </sections>
   </opts_maker>
 </bld>

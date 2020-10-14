@@ -2,15 +2,15 @@ _base_
 articles
 defs
 #
-preamble.filecontents.xdy
-preamble.filecontents.index_rus_xdy
-preamble.filecontents.index_eng_xdy
-preamble.patches
-preamble.patches.hyperref
-preamble.patches.sections
-preamble.patches.toc
-preamble.titlesec
-preamble.packages.xelatex
+#preamble.filecontents.xdy
+#preamble.filecontents.index_rus_xdy
+#preamble.filecontents.index_eng_xdy
+#preamble.patches
+#preamble.patches.hyperref
+#preamble.patches.sections
+#preamble.patches.toc
+#preamble.titlesec
+#preamble.packages.xelatex
 
 25_10_2019
 #13_07_2020

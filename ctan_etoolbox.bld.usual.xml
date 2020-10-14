@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bld>
+  <tex_exe>pdflatex</tex_exe>
+  <sii>
+    <insert titletoc="1" hyperlinks="1" />
+  </sii>
+  <opts_maker>
+  </opts_maker>
+</bld>

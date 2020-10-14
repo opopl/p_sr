@@ -1,5 +1,5 @@
 
-package projs::p_saintrussia::letopis::edt;
+package projs::p_sr::letopis::edt;
 
 use strict;
 use warnings;

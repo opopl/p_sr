@@ -1,0 +1,2 @@
+
+perl letopis.bld.pl %*

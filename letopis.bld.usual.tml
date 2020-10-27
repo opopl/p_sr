@@ -4,9 +4,9 @@
   <vars>
     <pagestyle>fancy</pagestyle>
   </vars>
-  <defs>
+  <decs>
     do_ind_titletoc
-  </defs>
+  </decs>
   <preamble>
     <langs main="russian">
       english

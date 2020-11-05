@@ -3,6 +3,7 @@
   <targets>
     <include>
       usual
+      nov_2020
       <!--titlepage-->
     </include>
   </targets>

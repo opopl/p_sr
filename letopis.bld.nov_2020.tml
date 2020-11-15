@@ -20,6 +20,7 @@
         <ind name="authors.rus" title="Авторы" />
         <ind name="cities.rus" title="Города" />
         <ind name="deaths.rus" title="Смерти" />
+        <!--<ind name="writers.rus" title="Писатели" />-->
         <!--<ind name="poets.rus" title="Поэты" />-->
     </index>
   </preamble>

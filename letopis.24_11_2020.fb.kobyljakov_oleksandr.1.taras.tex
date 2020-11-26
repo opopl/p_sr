@@ -25,7 +25,18 @@ pic https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/127089301_2757585657826523_292
 caption Дожилися ми, Тарасе
 \fi
 
-Дожилися ми, Тарасе,
+%\renewcommand{\LettrineFontHook}{\calligra}
+
+\setmainfont{PT Serif}
+\newfontface\init{Ruslan Display}[
+  Color=Maroon]
+\renewcommand{\LettrineFontHook}{\init}
+\renewcommand*{\DefaultLoversize}{.18}
+\renewcommand*{\DefaultLhang}{.1}
+
+\begin{multicols}{2}
+	\obeycr
+\lettrine[lines=3]{Д}{ожилися ми, Тарасе},
 Мабуть, вже до краю...
 Гірше ворога --- байдужість
 Неньку розпинає…
@@ -66,3 +77,5 @@ caption Дожилися ми, Тарасе
 Для Країни долю!
 
 Олександр Кобиляков, 30 січня 2018 р., Київ
+	\restorecr
+\end{multicols}

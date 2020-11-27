@@ -1,0 +1,9 @@
+page
+	url https://strana.ua/news/303230-roman-bondarenko-kto-eto-takoj-i-pochemu-belarusi-hrozjat-za-neho-sanktsijami.html	
+	in 27_11_2020
+page
+	url https://strana.ua/articles/interview/303182-serhej-kozachek-poluchil-donorskoe-serdtse-eho-zhena-valerija-rasskazala-o-transplantatsii.html
+	in 27_11_2020
+page
+	url https://kiev.strana.ua/303353-v-kieve-na-stene-25-etazhki-pojavilsja-samyj-vysokij-mural-v-evrope.html
+	in 27_11_2020

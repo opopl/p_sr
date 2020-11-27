@@ -6,4 +6,61 @@ page
 	in 27_11_2020
 page
 	url https://kiev.strana.ua/303353-v-kieve-na-stene-25-etazhki-pojavilsja-samyj-vysokij-mural-v-evrope.html
+	title В Киеве появился самый высокий мурал в Европе. Он посвящен материнству и семейным ценностям. Фото
+	in 27_11_2020
+page
+	url https://strana.ua/news/235042-samyj-bolshoj-mural-ukrainy-pojavilsja-v-zaporozhe.html
+	title В Запорожье создали самый большой мурал в Украине
+	in 22_11_2020
+page
+	url https://strana.ua/news/272711-sbu-ko-dnju-rossii-ustanovila-bilbordy-i-narisovala-mural-naprotiv-konsulstv-rf.html
+	title Муралы с эмблемой контрразведки напротив консульств РФ в Украине оказались "приветом от СБУ"
+	in 12_06_2020
+page
+	url "Бежал за раненым Кузнецовым почти 100 метров". СБУ описала, как Стерненко убил человека в Одессе
+	title https://strana.ua/news/272488-kak-sternenko-ubil-cheloveka-v-odesse-fabula-dela-ot-sbu.html
+	in 11_06_2020
+page 
+	url https://strana.ua/news/272487-pod-zdaniem-sbu-hruppa-podderzhki-sternenko-prizyvaet-plevat-v-litso-zhurnalistam.html
+	title "Плюйте им в еб@ло, если будете видеть". Под СБУ группа поддержки Стерненко призвала к унижениям журналистов
+	in 11_06_2020
+page
+	url https://strana.ua/news/302959-vezd-v-ukrainu-iz-rossii-sehodnja-pasport-rf-priznan-nedejstvitelnym-rasporjazhenie-kabmina-362.html
+	title Паспорт нон грата. Как Украина запретила въезд в страну потомкам запорожских казаков 
+	in 26_11_2020
+page
+	url https://strana.ua/articles/interview/300808-aleksandr-kirkicha-v-cherkassakh-prinjal-rody-u-zheny-na-ulitse-pod-vishnej-v-bolnitsu-ikh-ne-vpustili-iz-za-kovida.html
+	title "Жена легла на землю под вишней и начала рожать. Я подстелил курточку и поймал дочь в свои руки"
+	in 13_11_2020
+page
+	url https://www.pravda.com.ua/articles/2020/11/27/7274982/
+	title Новий Майдан – Зеленському: Хай приїжджає, гляне, як ми бідуємо
+	in 27_11_2020
+page
+	url https://www.pravda.com.ua/news/2020/11/27/7275058/
+	title У Києві - новий антирекорд коронавірусу: захворіли більше півтори тисячі людей
+	in 27_11_2020
+page
+	url https://www.radiosvoboda.org/a/rosiyski-vaktsyny-i-kremlivskyi-patsient/30969018.html
+	title Віталій Портников: Російські вакцини і кремлівський пацієнт, який їх уникає 
+	in 25_11_2020
+page
+	url https://www.radiosvoboda.org/a/news-vaktsyna-ugorshchyna-rosiya/30965133.html
+	title Угорщина повідомила про тестування російської вакцини від коронавірусу 
+	in 23_11_2020
+page
+	url https://lenta.ru/articles/2020/11/27/australian_warcrimes/
+	title Крещение кровью
+	in 27_11_2020
+page
+	url https://lenta.ru/articles/2020/11/26/pirozhok_ukr/
+	title «Я украинец второго сорта»
+	in 26_11_2020
+page
+	url https://lenta.ru/news/2020/11/26/rada_russia/
+	title На Украине рассказали о национальной идее «насолить России и умереть»
+	in 26_11_2020
+page
+	url https://ukraine.fakty.ua/361803-zakon-o-golodomore-moroz-isportil-vybrosiv-ottuda-slova-ob-ukrainskoj-nacii---vasilenko
+	title «Закон «О Голодоморе...» Мороз испортил, выбросив оттуда слова об украинской нации», — Василенко
 	in 27_11_2020

@@ -17,8 +17,8 @@ page
 	title Муралы с эмблемой контрразведки напротив консульств РФ в Украине оказались "приветом от СБУ"
 	in 12_06_2020
 page
-	url "Бежал за раненым Кузнецовым почти 100 метров". СБУ описала, как Стерненко убил человека в Одессе
-	title https://strana.ua/news/272488-kak-sternenko-ubil-cheloveka-v-odesse-fabula-dela-ot-sbu.html
+	url https://strana.ua/news/272488-kak-sternenko-ubil-cheloveka-v-odesse-fabula-dela-ot-sbu.html
+	title "Бежал за раненым Кузнецовым почти 100 метров". СБУ описала, как Стерненко убил человека в Одессе
 	in 11_06_2020
 page 
 	url https://strana.ua/news/272487-pod-zdaniem-sbu-hruppa-podderzhki-sternenko-prizyvaet-plevat-v-litso-zhurnalistam.html
@@ -64,3 +64,11 @@ page
 	url https://ukraine.fakty.ua/361803-zakon-o-golodomore-moroz-isportil-vybrosiv-ottuda-slova-ob-ukrainskoj-nacii---vasilenko
 	title «Закон «О Голодоморе...» Мороз испортил, выбросив оттуда слова об украинской нации», — Василенко
 	in 27_11_2020
+page
+	url https://society.fakty.ua/338316-nataliya-orlyanskaya-zachem-rak-prishel-v-moyu-zhizn-uverena-dlya-etogo-est-prichina-chast-4
+	title Наталия Орлянская: «Зачем рак пришел в мою жизнь? Уверена, для этого есть причина» (часть 4)
+	in 26_03_2020
+page
+	url https://www.bbc.com/ukrainian/features-54984370
+	title Перегони трьох вакцин. Ми їх порівняли, і ось що з цього вийшло
+	in 18_11_2020

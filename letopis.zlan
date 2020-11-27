@@ -100,3 +100,56 @@ page
 	in 27_11_2020
 	ii nakipelo_kraina
 	tags kiev,ukraine
+page
+	url https://strana.ua/news/303450-movnyj-ombudsmen-potreboval-uchit-hlukhikh-detej-na-ukrainskom-jazyke-zhestov.html
+	title Мовный омбудсмен потребовал искоренить русский язык жестов и учить глухих только на украинском
+	in 27_11_2020
+	ii mova_ruskij_jazyk_zhestov_ombudsman
+	tags mova,ukraine,absurd
+page
+	url https://odessa.strana.ua/302969-v-odesskom-tramvae-passazhiry-s-matom-i-prokljatijami-sporili-na-kakom-jazyke-nuzhno-hovorit.html
+	title В одесском трамвае разгорелся языковой конфликт с матом и проклятиями. Видео
+	in 25_11_2020
+	ii odessa_tramvaj_mova_scandal
+	tags mova,odessa,scandal
+page
+	url https://strana.ua/news/303370-pevitsa-kira-mazur-popala-v-jazykovoj-skandal-.html
+	title Националисты затравили украинскую певицу за пост на русском. Она ответила, что это часть нашей истории
+	in 27_11_2020
+	ii kira_mazur_mova_jazyk_scandal
+	tags mova,jazyk,scandal
+page
+	url https://strana.ua/news/300647-vrach-dobrobuta-zajavil-chto-jazykovoj-skandal-s-bondarenko-na-ruku-russkomu-miru.html
+	title Языковой скандал экс-мэром Киева Бондаренко. Врач "Добробута" сообщил об угрозах расправой
+	in 12_11_2020
+	ii elizarov_bondarenko_mova_video
+	tags elizarov,mova,bondarenko,scandal
+page
+	url https://strana.ua/news/225176-marharita-pasha-v-seti-razhorelsja-jazykovoj-skandal-iz-za-miss-ukraina-2019.html
+	title Не дала интервью Осадчей и заявила, что думает на русском. Почему вокруг "Мисс Украина" разгорелся языковой скандал
+	in 01_10_2019
+	ii margarita_pasha_mova_jazyk
+	tags mova,jazyk,scandal,miss_ukraina
+page
+	url https://www.obozrevatel.com/society/ot-udara-lyudi-iz-mashinyi-vyileteli-na-dorogu-podrobnosti-avarii-na-rivnenschine-eksklyuziv.htm
+	title На Ривненщине в ДТП с фурой разбилась семья священника: подробности трагедии
+	in 27_11_2020
+	ii dtp_rivne_priest
+	tags dtp,priest,rivne,death
+page
+	url https://www.obozrevatel.com/society/tamara-lozovaya-ruzkijmir-u-lvovi-hto-jogo-finansue.htm
+	title "Рузькіймір" у Львові: хто його фінансує?
+	in 19_09_2020
+	ii ruzkij_mir_lvov
+	tags mova,ruskij_mir,lvov
+page
+	url https://lenta.ru/news/2020/11/28/pidpal/
+	title Украинский военный ограбил и поджег сослуживца в Донбассе
+	in 28_11_2020
+	ii zsu_ubil_sosluzhivca_donbass
+	tags donbass,zsu,ukraine,death
+page
+	url https://from-ua.com/articles/576470-v-ukraine-nachalsya-poslednii-etap-deindustrializacii.html
+	title В Украине начался последний этап деиндустриализации
+	in 27_11_2020
+	ii ukr_poslednii_etap_deindustrializacii

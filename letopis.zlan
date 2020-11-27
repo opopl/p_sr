@@ -20,7 +20,7 @@ page
 	url https://strana.ua/news/272488-kak-sternenko-ubil-cheloveka-v-odesse-fabula-dela-ot-sbu.html
 	title "Бежал за раненым Кузнецовым почти 100 метров". СБУ описала, как Стерненко убил человека в Одессе
 	in 11_06_2020
-page 
+page
 	url https://strana.ua/news/272487-pod-zdaniem-sbu-hruppa-podderzhki-sternenko-prizyvaet-plevat-v-litso-zhurnalistam.html
 	title "Плюйте им в еб@ло, если будете видеть". Под СБУ группа поддержки Стерненко призвала к унижениям журналистов
 	in 11_06_2020
@@ -72,3 +72,8 @@ page
 	url https://www.bbc.com/ukrainian/features-54984370
 	title Перегони трьох вакцин. Ми їх порівняли, і ось що з цього вийшло
 	in 18_11_2020
+page
+	url https://strana.ua/news/303423-v-minoborony-irana-priznali-ubijstvo-fizika-fakhrizade-teraktom.html
+	title В Минобороны Ирана назвали терактом убийство физика Фахризаде
+	in 27_11_2020
+	ii terakt_iran_fizik_murder

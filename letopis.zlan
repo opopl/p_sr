@@ -199,3 +199,46 @@ page
 	in 30_11_2020
 	ii covid_odessa_lockdown
 	tags covid,lockdown,odessa
+page
+	url https://www.ng.ru/ng_exlibris/2020-11-25/9_1057_uspensky.html
+	title Непонятый мифотворец
+	in 25_11_2020
+	ii mihail_uspenskii_pisatel_70_let
+	tags writers,uspenskii
+page
+	url https://echo.msk.ru/blog/amountain/2747926-echo/
+	title Вода в Крыму заканчивается. Возможна гуманитарная катастрофа. Молимся
+	in 26_11_2020
+	ii voda_krym
+	tags voda,krym
+page
+	url https://firtka.if.ua/blog/view/pomerla-likar-laborant-imunolog-oblasnoyi-klinichnoyi-likarni?fbclid=IwAR33SWJTWu5kcRvQ6x2JTKDr1m1vVtPnjoiRKTz3HIrf_pvft2g-F0heouw
+	title Померла лікар-лаборант імунолог обласної клінічної лікарні
+	in 26_11_2020
+	ii death_ivano_frankovsk_likar
+	tags death,ivano_frankovsk
+page
+	url https://firtka.if.ua/blog/view/oksana-lozinska-nailegshe-pishetsia-same-nairidnishoiu-movoiu-tiieiu-iakoyi-navchili-mama-z-tatom
+	title Оксана Лозинська: Найлегше пишеться саме найріднішою, мовою, тією, якої навчили мама з татом
+	in 25_11_2020
+	ii mova_oksana_lozinska
+page
+	url https://volyninfa.com.ua/news/volyn/2020/11/29/84517/?fbclid=IwAR1B3zH31iw7IkGQkCk1fNfNlEsZMrXiXF6iW_l25z1REK-Mx-jUdHWwWI0
+	title У Луцьку юнаки знесли лампадки, присвячені пам’яті про жертв Голодомору. ФОТО
+	in 29_11_2020
+	ii holodomor_lutsk_lampadky_youth
+page
+	url https://volyninfa.com.ua/news/2020/11/07/78957/
+	title Матір і двох синів поховали в одній могилі: трагедія, яка сколихнула усю Волинь
+	in 07_11_2020
+	ii volyn_deaths_gribi
+page
+	url https://volyninfa.com.ua/news/2020/05/27/44136/
+	title Річниця битви за донецький аеропорт: як проходили найзапекліші бої на Донбасі
+	in 27_05_2020
+	ii doneck_aeroport_bitva
+page
+	url https://www.facebook.com/oleksandra.fedoruk/posts/1730609513680461
+	title Тому я не прощу ніколи. моя ненависть абсолютна і чиста ...
+	in 26_11_2017
+	ii holodomor_pomsta

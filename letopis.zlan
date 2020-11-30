@@ -257,3 +257,9 @@ page
 	title МОНОЛОГ ІЗ ТРИДЦЯТЬ ТРЕТЬОГО
 	in 24_11_2018
 	ii monolog_holodomor
+page
+	url https://www.pravda.com.ua/articles/2020/11/28/7275126/
+	title Сповідь ката
+	in 28_11_2020
+	ii spovid_kata
+	tags holodomor

@@ -170,3 +170,32 @@ page
 	title "Точно не независимые". Что думают киевляне о внешнем управлении США. Опрос "Страны"
 	in 29_11_2020
 	ii vneshneje_upravlenije_opros
+page
+	url https://strana.ua/news/303783-daniljuk-rjaboshapka-i-klimkin-sozdajut-sovmestnyj-tsentr-stojkosti-i-razvitija-hosudarstva.html
+	title Данилюк, Рябошапка и Климкин заявили об угрозе "потери государственности" и создают "Центр устойчивости"
+	in 30_11_2020
+	ii centr_daniljuk_klimkin_rjaboshapka
+	tags ukraine,derzhava
+page
+	url https://strana.ua/news/303639-napadenie-na-zhurnalistku-newsone-v-kieve-podrobnosti-i-reaktsija-vlastej.html
+	title "Уверен в своей безнаказанности". Как на журналистку NewsOne напали в прямом эфире
+	in 30_11_2020
+	ii napadenije_newsone
+page
+	url https://strana.ua/articles/istorii/303726-kohda-i-pochemu-proekt-mezhdunarodnoj-kosmicheskoj-stantsii-mks-budet-zavershen.html
+	title Прощай, МКС. Как символ окончания Холодной войны уходит в прошлое и что теперь будет с освоением космоса 
+	in 29_11_2020
+	ii russia_mks_kosmos
+	tags russia,mks,kosmos
+page
+	url https://www.pravda.com.ua/articles/2020/11/29/7275244/
+	title Ніч, з якої почався Євромайдан. Погляд учасника з 2020-го
+	in 29_11_2020
+	ii nich_majdan_2020_pogljad
+	tags maidan2
+page
+	url https://www.obozrevatel.com/society/v-ukraine-bolnyie-covid-19-ne-mogut-popast-v-bolnitsu-no-u-minzdrava-polno-koek-razbor-situatsii-na-primere-odessyi.htm
+	title Коллапс с COVID-19 в Одессе показал необходимость срочного локдауна в Украине, а власть заявляет, что "коек полно"
+	in 30_11_2020
+	ii covid_odessa_lockdown
+	tags covid,lockdown,odessa

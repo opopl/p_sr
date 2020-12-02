@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book_scott_polar_diary>
+  <targets>
+    <include>
+      usual
+    </include>
+    <exclude>
+    </exclude>
+  </targets>
+</book_scott_polar_diary>

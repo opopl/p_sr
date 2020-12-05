@@ -2,7 +2,7 @@
 <bld>
   <tex_exe>pdflatex</tex_exe>
   <vars>
-    <pagestyle>fancy</pagestyle>
+		<var name="pagestyle" value="fancy" />
   </vars>
   <decs>
     do_ind_titletoc

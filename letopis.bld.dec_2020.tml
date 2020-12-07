@@ -2,7 +2,7 @@
 <bld>
   <tex_exe>pdflatex</tex_exe>
   <vars>
-		<var name="pagestyle" value="fancy" />
+    <var name="pagestyle" value="fancy" />
   </vars>
   <decs>
     do_ind_titletoc
@@ -16,11 +16,11 @@
         <!--<ind name="" />-->
         <!--<ind name="eng" title="Index" />-->
         <ind name="rus" title="Предметный указатель" />
-				<ind name="names.rus" title="Имена" />
-				<ind name="authors.rus" title="Авторы" />
-				<ind name="cities.rus" title="Города" />
-				<ind name="deaths.rus" title="Смерти" />
-				<ind name="writers.rus" title="{Писатели, Поэты, Мыслители}" />
+        <ind name="names.rus" title="Имена" />
+        <ind name="authors.rus" title="Авторы" />
+        <ind name="cities.rus" title="Города" />
+        <ind name="deaths.rus" title="Смерти" />
+        <ind name="writers.rus" title="{Писатели, Поэты, Мыслители}" />
     </index>
   </preamble>
   <sii>

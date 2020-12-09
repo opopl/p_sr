@@ -15,7 +15,9 @@ binmode STDOUT, ":utf8";
 use Base::RE::TeX;
 use Date::Manip;
 
-use Base::Arg qw( hash_update );
+use Base::Arg qw( 
+	hash_inject 
+);
 
 use base qw(
     Plg::Projs::Prj::Edit
@@ -150,12 +152,12 @@ sub init {
     $dt->config('Language' => 'russian');
 
     my $h = {
-        re => $re,
-        dt => $dt,
+        re   => $re,
+        dt   => $dt,
         subs => { }
     };
 
-    hash_update($self, $h, { keep_already_defined => 1 });
+    hash_inject($self, $h);
 
     return $self;
 }

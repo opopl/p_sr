@@ -27,3 +27,4 @@ log
 *.maf
 *.mtc*
 html/url
+*.tree

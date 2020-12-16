@@ -287,3 +287,9 @@ page
 	in 06_12_2020
 	ii pomolitsa_za_hlopciv_na_sxodi
 	tags ato,zima
+page
+	url https://www.vesti.ru/article/2499235
+	title Первый взлет: МС-21 подняли в небо российские двигатели
+	in 15_12_2020
+	ii samolet_mc21_russia
+	tags russia,aviacia,mc21,samolet

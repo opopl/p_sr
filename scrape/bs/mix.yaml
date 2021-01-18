@@ -3,6 +3,6 @@ urls:
   - 
     url: https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
     ii: sternenko_mova_odessa
-  - 
-    url: https://www.radiosvoboda.org/a/unr-rosiyski-pysmennyky-pro-ukrayinsku-revolutsiyu/31049662.html
-    ii: unr_rossia_ukr_revolucia
+  #- 
+    #url: https://www.radiosvoboda.org/a/unr-rosiyski-pysmennyky-pro-ukrayinsku-revolutsiyu/31049662.html
+    #ii: unr_rossia_ukr_revolucia

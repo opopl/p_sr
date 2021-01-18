@@ -1,4 +1,13 @@
 
+hosts:
+  'strana.ua': { 'site' : 'strana' } 
+
+sites:
+  strana:
+    clean:
+      - 'script'
+      - 'div[main-right-column]'
+
 urls:
   - 
     url: https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html

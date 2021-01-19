@@ -6,7 +6,9 @@ sites:
   strana:
     clean:
       - 'script'
-      - 'div[main-right-column]'
+      - 'div.main-right-column'
+      - 'div.main-header-news'
+      - 'div.td'
 
 urls:
   - 

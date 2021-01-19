@@ -24,6 +24,8 @@ sites:
       - 'div.article-afterbody'
       - 'div.article-main-news'
       - 'div.newsfeed'
+      - div.tags.breadcrumbs
+      - .sunsite_actions
 
 urls:
   - 
@@ -38,3 +40,9 @@ urls:
   #- 
     #url: https://www.radiosvoboda.org/a/unr-rosiyski-pysmennyky-pro-ukrayinsku-revolutsiyu/31049662.html
     #ii: unr_rossia_ukr_revolucia
+  #-
+    #url: https://strana.ua/articles/interview/312709-maksim-stepanov-v-intervju-rasskazal-o-planakh-otmenit-karantin-v-ukraine-uzhe-letom-2021.html
+    #ii: stepanov_interview_vaccinacia
+  #-
+    #url: https://strana.ua/news/312672-inauhuratsija-bajdena-kohda-vo-skolko-hde-smotret-mery-bezopasnosti-v-vashinhtone-koho-prihlasili.html
+    #ii: biden_inauguracia_vojska

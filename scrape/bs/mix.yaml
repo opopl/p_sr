@@ -1,6 +1,7 @@
 
 hosts:
   'strana.ua': { 'site' : 'strana' } 
+  'kiev.strana.ua': { 'site' : 'strana' } 
 
 sites:
   strana:
@@ -21,11 +22,19 @@ sites:
       - 'section.blocks'
       - 'div.see-also-news'
       - 'div.article-afterbody'
+      - 'div.article-main-news'
+      - 'div.newsfeed'
 
 urls:
   - 
     url: https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
     ii: sternenko_mova_odessa
+#  - 
+    #url: https://strana.ua/news/312717-peskov-prokommentiroval-situatsiju-s-navalnym.html 
+    #ii: peskov_comment_navalny 
+  #- 
+    #url: https://kiev.strana.ua/312720-andrej-medvedko-zajavil-chto-pravye-khoteli-sorvat-antifashistskuju-aktsiju-v-kieve.html
+    #ii: antifashist_buzina_medvedko_kiev 
   #- 
     #url: https://www.radiosvoboda.org/a/unr-rosiyski-pysmennyky-pro-ukrayinsku-revolutsiyu/31049662.html
     #ii: unr_rossia_ukr_revolucia

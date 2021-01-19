@@ -6,14 +6,15 @@ sites:
   strana:
     clean:
       - 'script'
+      - 'meta'
+      - 'header'
+      - 'footer'
       - 'div.main-right-column'
       - 'div.main-header-news'
       - 'div.td'
       - 'div.promo-news'
+      - 'div.popular-block'
       - 'link'
-      - 'meta'
-      - 'header'
-      - 'footer'
       - 'nav.clearfix'
       - 'article.photo-news'
 

@@ -3,11 +3,19 @@ rootid: p_sr
 proj: letopis
 
 hosts:
-  'strana.ua': { 'site' : 'strana' } 
-  'kiev.strana.ua': { 'site' : 'strana' } 
+  'strana.ua' : { 'site' : 'news.ua.strana' } 
+  'kiev.strana.ua': { 'site' : 'news.ua.strana' } 
+  'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
+  'news.obozrevatel.com' : { 'site' : 'news.ua.obozrevatel' }
 
 sites:
-  strana:
+  'news.ua.gazeta':
+    clean:
+      - 'script'
+      - 'meta'
+      - 'header'
+      - 'footer'
+  'news.ua.strana':
     clean:
       - 'script'
       - 'meta'
@@ -31,7 +39,7 @@ sites:
       - .sunsite_actions
 
 urls:
-#  - 
+  #- 
     #url: https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
     #ii: sternenko_mova_odessa
   #- 
@@ -61,7 +69,23 @@ urls:
     #url: https://strana.ua/news/312738-mitinh-antifashistov-iz-studrespubliki-v-kieve-sehodnja-uchastnikov-zaderzhali-na-viknjanskoho-napal-karas.html
     #date: 19_01_2021
     #ii: kiev_antifascists_mitinh
-  - 
-    url: https://strana.ua/opinions/312924-problema-movnoj-inkvizitsii-sozdana-absoljutno-iskustvenno.html
-    date: 21_01_2021
-    ii: opinion_mova
+#  - 
+    #url: https://strana.ua/opinions/312924-problema-movnoj-inkvizitsii-sozdana-absoljutno-iskustvenno.html
+    #date: 21_01_2021
+    #ii: opinion_mova
+#  - 
+    #url: https://news.obozrevatel.com/ukr/society/blogerka-yaka-vibrala-na-majdani-rosiyu-obizvala-ofitsera-zsu-ganboyu-armii-i-zibralasya-v-sud-video.htm
+    #date: 19_01_2021
+    #ii: blogerka_kiev_video_di_rubens
+#  - 
+    #url: https://news.obozrevatel.com/society/bloger-iz-kieva-nazvala-rossiyu-lyubimoj-stranoj-na-allee-nebesnoj-sotni-video.htm
+    #date: 14_01_2021
+    #ii: video_kiev_di_rubens_kiev_rossia
+#   - 
+     #url: https://gazeta.ua/articles/life/_ak-lvivyani-kupayutsya-na-vodohresche-v-moroz-i-karantin/1009283
+     #date: 19_01_2021
+     #ii: lvov_kreschenije
+   - 
+     url: https://strana.ua/opinions/312869-jazyk-u-nas-prodolzhaet-sluzhit-instrumentom-razdelenija-a-ne-obedinenija.html
+     date: 20_01_2021
+     ii: rus_mova

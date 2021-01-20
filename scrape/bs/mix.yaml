@@ -92,5 +92,14 @@ urls:
    - 
      url: https://strana.ua/news/312899-v-ukraine-ptsu-pytalas-zapretit-kreshchenskie-kupanija-nazyvaja-ikh-moskovskoj-traditsiej.html
      date: 20_01_2021
-     author: kopytko_anna
+     author_id: kopytko_anna
      ii: pcu_kreschenie_kupanie
+   - 
+     url: https://strana.ua/news/312887-inauhuratsija-bajdena-v-ssha-onlajn-novosti-foto-i-video.html
+     date: 20_01_2021
+     ii: usa_baiden_inauguration
+   - 
+     url: https://strana.ua/news/312554-zakon-ob-ukrainizatsii-reaktsija-odessitov-opros-antoniny-belohlazovoj.html
+     date: 19_01_2021
+     author_id: beloglazova_antonina
+     ii: privoz_ukrainizacia_odessa

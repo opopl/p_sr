@@ -7,6 +7,7 @@ hosts:
   'kiev.strana.ua': { 'site' : 'news.ua.strana' } 
   'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
   'news.obozrevatel.com' : { 'site' : 'news.ua.obozrevatel' }
+  'www.radiosvoboda.org' : { 'site' : 'news.ua.radiosvoboda' }
 
 sites:
   'news.ua.gazeta':
@@ -127,7 +128,18 @@ urls:
      url: https://strana.ua/news/303370-pevitsa-kira-mazur-popala-v-jazykovoj-skandal-.html 
      date: 27_11_2020
      ii: kira_mazur_eurovision
+     tags: mova
    - 
      url: https://strana.ua/news/225176-marharita-pasha-v-seti-razhorelsja-jazykovoj-skandal-iz-za-miss-ukraina-2019.html
      date: 01_10_2019
      ii: mova_scandal_miss_ukraina
+     tags: mova
+   - 
+     url: https://www.radiosvoboda.org/a/photo-v-krymu-startovala-vaktsinatsiya-covid-19/31061338.html
+     date: 21_01_2021
+     ii: vaccine_krym
+   - 
+     url: https://www.radiosvoboda.org/a/rozkurkulennya-istorii-rodiv/31060786.html
+     date: 21_01_2021
+     ii: ussr_rozkurkulennja
+     tags: istoria,ussr,kollektivizacia

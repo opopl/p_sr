@@ -38,6 +38,14 @@ sites:
       - div.tags.breadcrumbs
       - .sunsite_actions
 
+exclude:
+  sites:
+    - _all_ 
+
+include:
+  sites:
+    - news.ua.strana
+
 urls:
   #- 
     #url: https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
@@ -103,11 +111,23 @@ urls:
      date: 19_01_2021
      author_id: beloglazova_antonina
      ii: privoz_ukrainizacia_odessa
+   #- 
+     #url: https://www.vesti.ru/article/2513136
+     #date: 21_01_2021
+     #ii: sputnik_vaccine_vengria
+   #- 
+     #url: https://vz.ru/news/2021/1/21/1081174.html
+     #date: 21_01_2021
+     #ii: di_rubens_ukraina_rossia
    - 
-     url: https://www.vesti.ru/article/2513136
+     url: https://strana.ua/news/313051-ofitser-vsu-shtirlits-objavil-borbu-protiv-blohershi-dirubens-za-rolik-v-tiktok-.html
      date: 21_01_2021
-     ii: sputnik_vaccine_vengria
+     ii: di_rubens
    - 
-     url: https://vz.ru/news/2021/1/21/1081174.html
-     date: 21_01_2021
-     ii: di_rubens_ukraina_rossia
+     url: https://strana.ua/news/303370-pevitsa-kira-mazur-popala-v-jazykovoj-skandal-.html 
+     date: 27_11_2020
+     ii: kira_mazur_eurovision
+   - 
+     url: https://strana.ua/news/225176-marharita-pasha-v-seti-razhorelsja-jazykovoj-skandal-iz-za-miss-ukraina-2019.html
+     date: 01_10_2019
+     ii: mova_scandal_miss_ukraina

@@ -103,3 +103,11 @@ urls:
      date: 19_01_2021
      author_id: beloglazova_antonina
      ii: privoz_ukrainizacia_odessa
+   - 
+     url: https://www.vesti.ru/article/2513136
+     date: 21_01_2021
+     ii: sputnik_vaccine_vengria
+   - 
+     url: https://vz.ru/news/2021/1/21/1081174.html
+     date: 21_01_2021
+     ii: di_rubens_ukraina_rossia

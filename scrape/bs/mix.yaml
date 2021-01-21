@@ -143,3 +143,25 @@ urls:
      date: 21_01_2021
      ii: ussr_rozkurkulennja
      tags: istoria,ussr,kollektivizacia
+   - 
+     url: https://www.radiosvoboda.org/a/agatangelu-krymskomu-150-poliglot-shodoznavets/31047686.html
+     date: 15_01_2021
+     ii: agatangel_krymskii_150
+     tags: krymskii_agatangel
+   - 
+     url: https://strana.ua/news/313136-bajden-i-ukraina-jatsenjuk-i-turchinov-publikujut-obshchee-foto-zelenskij-i-ermak-pozdravljut-prezidenta-ssha.html
+     date: 21_01_2021
+     ii: baiden_i_ukraina
+   -
+     url: https://odessa.strana.ua/313112-dvojnoe-ubijstvo-v-odesse-v-politsii-rasskazali-podrobnosti-intsidenta.html
+     date: 21_01_2021
+     ii: bog_ubijstvo_odessa
+   - 
+     url: http://antifashist.com/item/arestovich-nazval-cheloveka-kotoryj-smozhet-primirit-ukrainu-i-rossiyu-za-odin-den.html
+     date: 21_01_2021
+     title: Арестович назвал человека, который сможет примирить Украину и Россию за один день
+     ii: arestovich_rossia_ukraina_pomiritca
+   - 
+     url: https://www.obozrevatel.com/tv/vozmozhno-li-pomiritsya-s-russkimi-za-odin-den.htm
+     date: 21_01_2021
+     ii: arestovich_mir_rossia_ukraina_opros

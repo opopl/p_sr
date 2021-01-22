@@ -10,10 +10,13 @@ hosts:
   'www.radiosvoboda.org' : { 'site' : 'news.ua.radiosvoboda' }
   'pravda.com.ua' : { 'site' : 'news.ua.pravda' }
   'lb.ua' : { 'site' : 'news.ua.lb' }
+  'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
 
-opts:
-  update_cache : 1
-  update_clean : 1
+cnf:
+  soup:
+    skip_saved: 1
+  #update_cache : 1
+  #update_clean : 1
   #db_update_title : 1
 
 exclude:
@@ -250,3 +253,27 @@ urls:
      url: https://society.fakty.ua/366376-posle-stychki-so-shtirlicem-oskandalivshayasya-blogersha-poprosila-zacshity-u-avakova
      date: 21_01_2021
      ii: taisia_malaman
+   - 
+     url: http://lug-info.com/news/one/studenty-skulptory-kolledzha-lgaki-sozdali-v-luganske-alleyu-snezhnykh-figur-foto-63890
+     date: 21_01_2021
+     ii: lugansk_sneg_figury
+   - 
+     url: http://lug-info.com/news/one/zaschitniki-lnr-na-kreschenie-okunulis-v-prudu-u-khrama-georgiya-pobedonostsa-v-alchevske-foto-63806
+     date: 19_01_2021
+     ii: kreschenie_voda_kupel_zaschitniki_lnr
+   - 
+     url: https://strana.ua/news/313145-blohershu-onatskuju-zatravili-za-zhelanie-poekhat-v-rossiju-podrobnosti-skandala.html
+     date: 22_01_2021
+     ii: nazis_ischut_blogerov
+   - 
+     url: https://strana.ua/news/313190-mitinh-23-janvarja-2021-i-bunt-v-tiktoke-chto-izvestno-ob-aktsii-v-podderzhku-navalnoho.html
+     date: 22_01_2021
+     ii: tik_tok_maidan_rossia_deti
+   - 
+     url: https://strana.ua/news/313388-ukrainskie-kursantki-snjali-tiktok-s-rossijskim-politsiejskim-video.html
+     date: 22_01_2021
+     ii: sternenko_police_kursantki_tiktok
+   - 
+     url: https://strana.ua/news/313039-ot-tiktok-trebujut-prekratit-rasprostranjat-prizyvy-k-uchastiju-detej-v-aktsijakh-za-navalnoho.html
+     date: 20_01_2021
+     ii: rossia_tiktok_vkontakte_zaprety

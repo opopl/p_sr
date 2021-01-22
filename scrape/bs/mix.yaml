@@ -8,6 +8,21 @@ hosts:
   'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
   'news.obozrevatel.com' : { 'site' : 'news.ua.obozrevatel' }
   'www.radiosvoboda.org' : { 'site' : 'news.ua.radiosvoboda' }
+  'pravda.com.ua' : { 'site' : 'news.ua.pravda' }
+  'lb.ua' : { 'site' : 'news.ua.lb' }
+
+opts:
+  update_cache : 1
+  update_clean : 1
+  #db_update_title : 1
+
+exclude:
+  sites:
+    - _all_ 
+
+include:
+  sites:
+    - news.ua.strana
 
 sites:
   'news.ua.gazeta':
@@ -39,13 +54,7 @@ sites:
       - div.tags.breadcrumbs
       - .sunsite_actions
 
-exclude:
-  sites:
-    - _all_ 
 
-include:
-  sites:
-    - news.ua.strana
 
 urls:
   #- 
@@ -165,3 +174,79 @@ urls:
      url: https://www.obozrevatel.com/tv/vozmozhno-li-pomiritsya-s-russkimi-za-odin-den.htm
      date: 21_01_2021
      ii: arestovich_mir_rossia_ukraina_opros
+   - 
+     url: http://day.kyiv.ua/uk/blog/kultura/ne-rosiya
+     date: 20_01_2021
+     ii: ukraina_ne_rosia_tochno
+   - 
+     url: https://strana.ua/news/313223-pozhar-v-kharkove-kak-shorel-dom-prestarelykh-i-kto-eho-vladelets.html
+     date: 21_01_2021
+     ii: odessa_dom_prestarelyh
+   - 
+     url: https://strana.ua/news/313190-mitinh-23-janvarja-2021-i-bunt-v-tiktoke-chto-izvestno-ob-aktsii-v-podderzhku-navalnoho.html
+     date: 22_01_2021
+     ii: rossia_maidan_navalny_deti
+   - 
+     url: https://strana.ua/news/313303-15-pohibshikh-v-kharkove-den-bajdena-po-ukrainski-ofitser-protiv-blohera.html
+     date: 22_01_2021
+     ii: itogi_prognozy 
+   - 
+     url: https://strana.ua/news/313135-navalnyj-i-ukraina-chto-hovorjat-politiki-i-zhurnalisty.html
+     date: 21_01_2021
+     ii: navalny_furer_molodoi
+   - 
+     url: https://strana.ua/news/313196-uchebniki-istorii-ukrainy-za-5-11-klass-peresmotrjat-iz-za-klevety-na-berkut.html
+     date: 21_01_2021
+     ii: sud_kleveta_berkut_portnov_istoria
+   - 
+     url: https://strana.ua/news/250376-kto-ubival-ljudej-na-majdane-20-fevralja-2014-hoda-dokumenty-sledstvija.html
+     date: 18_02_2020
+     ii: kto_ubival_maidan
+   - 
+     url: https://kiev.strana.ua/313346-na-pecherske-izbili-zhurnalistov-radio-svoboda.html
+     date: 22_01_2020
+     ii: kiev_izbili_radiosvoboda
+   - 
+     url: https://strana.ua/news/313249-prezident-arhentiny-fernandes-privilsja-rossijskoj-vaktsinoj-sputnik-v.html
+     date: 21_01_2020
+     ii: sputnik_vaccine_argentina_prezident
+   - 
+     url: https://www.radiosvoboda.org/a/archive-photos-zhyvyi-lantsiug-lviv-kyiv/30386492.html
+     date: 22_01_2020
+     ii: sobornist_1990
+   - 
+     url: https://www.radiosvoboda.org/a/den-zagybeli-igorya-branovytskogo/31062163.html
+     date: 21_01_2020
+     ii: smert_igor_branovystkii_kiborg_2015
+   -
+     url: https://gazeta.ua/articles/kiev-life/_skandalna-blogerka-yaka-lyubit-rosiyu-poprosila-dopomogi-v-avakova/1009901
+     date: 22_01_2020
+     ii: taisia_malaman
+   -
+     url: https://www.pravda.com.ua/podcasts/5fee9b842e098/2021/01/1/7278743/
+     date: 01_01_2020
+     ii: 6_dniv_ukraina
+   - 
+     url: https://www.pravda.com.ua/news/2021/01/22/7280809/
+     date: 22_01_2020
+     ii: maidan_krysha_obval
+   -
+     url: https://www.pravda.com.ua/columns/2021/01/22/7280766/
+     date: 22_01_2020
+     ii: navischo_nam_sobornist
+   - 
+     url: https://news.obozrevatel.com/society/svyaschennik-zahariya-kerstyuk-na-stolichnom-vokzale-sotni-bezdomnyih-okazalis-v-rabstve.htm
+     date: 22_01_2020
+     ii: bomzhy_zaharia_kerstuk_kiev
+   - 
+     url: https://world.fakty.ua/366422-chelovek-ustroil-samosozhzhenie-v-centre-minska
+     date: 22_01_2020
+     ii: minsk_chelovek_samosozzhenie
+   - 
+     url: https://ukrainenews.fakty.ua/365998-general-nazarov-strashno-kogda-v-rodnoj-strane-za-spinoj-bolshe-vragov-chem-vidish-pered-soboj
+     date: 18_01_2021
+     ii: general_nazarov_vragi
+   - 
+     url: https://society.fakty.ua/366376-posle-stychki-so-shtirlicem-oskandalivshayasya-blogersha-poprosila-zacshity-u-avakova
+     date: 21_01_2021
+     ii: taisia_malaman

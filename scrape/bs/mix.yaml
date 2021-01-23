@@ -277,3 +277,8 @@ urls:
      url: https://strana.ua/news/313039-ot-tiktok-trebujut-prekratit-rasprostranjat-prizyvy-k-uchastiju-detej-v-aktsijakh-za-navalnoho.html
      date: 20_01_2021
      ii: rossia_tiktok_vkontakte_zaprety
+   - 
+     url: https://strana.ua/news/313493-posolstvo-ssha-v-rossii-mesta-provedenija-aktsij-v-podderzhku-navalnoho.html
+     date: 22_01_2021
+     ii: posolstvo_usa_navalny_akcii_publikacia
+     reload: 1

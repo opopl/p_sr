@@ -282,4 +282,7 @@ urls:
      url: https://strana.ua/news/313493-posolstvo-ssha-v-rossii-mesta-provedenija-aktsij-v-podderzhku-navalnoho.html
      date: 22_01_2021
      ii: posolstvo_usa_navalny_akcii_publikacia
+   -
+     url: https://strana.ua/articles/305286-strana-vyjasnila-kak-konfety-iz-rossii-zapolonili-ukrainskie-prilavki.html
+     ii: konfety_rossia
      reload: 1

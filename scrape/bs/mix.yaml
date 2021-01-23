@@ -13,6 +13,7 @@ hosts:
   'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
 
 cnf:
+  in_dir: 'in'
   soup:
     skip_saved: 1
   #update_cache : 1

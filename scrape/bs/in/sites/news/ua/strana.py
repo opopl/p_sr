@@ -1,6 +1,7 @@
 
 import os,sys,re
 import datetime
+import cyrtranslit
 
 from urllib.parse import urlparse
 from urllib.parse import urljoin
@@ -26,16 +27,17 @@ class Page:
   def get_author(self,ref={}):
     els = self.soup.select('span.author-article a')
 
-    import pdb; pdb.set_trace()
     for e in els:
       author_url = urljoin(self.app.base_url, e['href'])
-      author_bare = urljoin(self.app.base_url, e.string)
+      author_bare = e.string
       if author_bare:
         aa = author_bare.split(' ')
         if len(aa) == 2:
           first_name = aa[0]
-          last_name = aa[0]
-
+          last_name  = aa[1]
+          author = f'{last_name}, {first_name}'
+          author_id = f'{last_name}_{first_name}'.lower()
+          author_id = cyrtranslit.to_latin(author_id,'ru')
         
 
     return self

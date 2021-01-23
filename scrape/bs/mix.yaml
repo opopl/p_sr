@@ -286,3 +286,28 @@ urls:
      url: https://strana.ua/articles/305286-strana-vyjasnila-kak-konfety-iz-rossii-zapolonili-ukrainskie-prilavki.html
      ii: konfety_rossia
      reload: 1
+   -
+     url: https://strana.ua/news/313627-25-janvarja-na-den-rozhdenija-zelenskoho-v-ukraine-projdet-tarifnyj-majdan.html
+     ii: tarifnii_maidan_zelja
+   - 
+     url: https://strana.ua/articles/analysis/311296-rost-kommunalnykh-tarifov-chem-zakonchatsja-aktsii-protesta-v-rehionakh.html
+     ii: tarify_mvf
+   -
+     url: https://strana.ua/news/311321-foto-mertvykh-zhuravlej-kotorye-pohibli-v-zapovednike-askanija-nova.html
+     ii: askania_nova_zhuravli_gibel'
+   - 
+     url: https://strana.ua/news/313438-mitinh-23-janvarja-2021-v-podderzhku-navalnoho-prjamaja-transljatsija-iz-moskvy-poslednie-novosti.html
+     ii: navalny_akcii
+     tags: navalny
+     fail: 1
+   - 
+     url: https://strana.ua/news/313595-moskva-mitinhi-v-rossii-za-navalnoho-23-janvarja-hlavnye-vyvody.html
+     ii: navalny_deti
+   - 
+     url: https://strana.ua/articles/istorii/307269-stepan-bandera-i-varshavskij-protsess-za-chto-sudili-budushcheho-lidera-oun.html
+     ii: bandera_varshava_process
+     tags: bandera
+   - 
+     url: https://strana.ua/news/302276-avtor-novoho-bolshoho-herba-ukrainy-ranshe-risoval-karikatury-na-ukraintsev-i-amerikantsev.html
+     ii: hudozhnik_bolshoi_gerb_ukrainy
+     tags: art

@@ -285,7 +285,7 @@ urls:
    -
      url: https://strana.ua/articles/305286-strana-vyjasnila-kak-konfety-iz-rossii-zapolonili-ukrainskie-prilavki.html
      ii: konfety_rossia
-     reload: 1
+     reparse: 1
    -
      url: https://strana.ua/news/313627-25-janvarja-na-den-rozhdenija-zelenskoho-v-ukraine-projdet-tarifnyj-majdan.html
      ii: tarifnii_maidan_zelja
@@ -300,6 +300,7 @@ urls:
      ii: navalny_akcii
      tags: navalny
      fail: 1
+     reparse: 1
    - 
      url: https://strana.ua/news/313595-moskva-mitinhi-v-rossii-za-navalnoho-23-janvarja-hlavnye-vyvody.html
      ii: navalny_deti
@@ -311,3 +312,11 @@ urls:
      url: https://strana.ua/news/302276-avtor-novoho-bolshoho-herba-ukrainy-ranshe-risoval-karikatury-na-ukraintsev-i-amerikantsev.html
      ii: hudozhnik_bolshoi_gerb_ukrainy
      tags: art
+   -
+     url: https://strana.ua/news/301910-konkurs-na-luchshij-eskiz-bolshoho-hosudarstvennoho-herba.html
+     ii: ukraina_gerb_project
+     tags: ukraina_gerb
+   - 
+     url: https://kiev.strana.ua/313647-vozle-posolstva-rossii-v-kieve-mitinhovali-v-podderzhku-navalnoho-23-janvarja.html
+     ii: rossia_posolstvo_kiev_navalny_akcia
+     tags: navalny,kiev,rossia

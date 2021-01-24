@@ -11,11 +11,13 @@ hosts:
   'pravda.com.ua' : { 'site' : 'news.ua.pravda' }
   'lb.ua' : { 'site' : 'news.ua.lb' }
   'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
+  'lenta.ru' : { 'site' : 'news.ru.lenta' }
 
 cnf:
   in_dir: 'in'
   soup:
     skip_saved: 1
+  url: {}
   #update_cache : 1
   #update_clean : 1
   #db_update_title : 1
@@ -57,8 +59,6 @@ sites:
       - 'div.newsfeed'
       - div.tags.breadcrumbs
       - .sunsite_actions
-
-
 
 urls:
   #- 
@@ -285,7 +285,7 @@ urls:
    -
      url: https://strana.ua/articles/305286-strana-vyjasnila-kak-konfety-iz-rossii-zapolonili-ukrainskie-prilavki.html
      ii: konfety_rossia
-     reparse: 1
+     #reparse: 1
    -
      url: https://strana.ua/news/313627-25-janvarja-na-den-rozhdenija-zelenskoho-v-ukraine-projdet-tarifnyj-majdan.html
      ii: tarifnii_maidan_zelja
@@ -301,6 +301,10 @@ urls:
      tags: navalny
      fail: 1
      reparse: 1
+     acts: 
+       - fetch
+       #- no_img 
+       - db_update
    - 
      url: https://strana.ua/news/313595-moskva-mitinhi-v-rossii-za-navalnoho-23-janvarja-hlavnye-vyvody.html
      ii: navalny_deti
@@ -320,3 +324,16 @@ urls:
      url: https://kiev.strana.ua/313647-vozle-posolstva-rossii-v-kieve-mitinhovali-v-podderzhku-navalnoho-23-janvarja.html
      ii: rossia_posolstvo_kiev_navalny_akcia
      tags: navalny,kiev,rossia
+   - 
+     url: https://strana.ua/news/284775-maksim-tkachuk-ne-edet-na-detskoe-evrovidenie-2020-iz-za-smuhljanki-kak-sirotu-travili-natsionalisty-i-pochemu-notu-ne-dopustila-k-konkursu.html
+     ii: maxim_tkachuk_smugljanka_evrovidenie
+     tags: tkachuk_maxim
+   - 
+     url: https://lenta.ru/articles/2021/01/22/naz/
+     ii: ukraina_lavra_borsch
+     tags: ukraina,rossia,lavra
+   - 
+     url: https://strana.ua/news/313353-kakaja-situatsija-v-ssha-pole-izbranija-bajdena-prezidentom-.html
+     ii: we_dont_want_baiden
+     tags: usa,baiden_joe
+     reparse: 1

@@ -299,12 +299,12 @@ urls:
      url: https://strana.ua/news/313438-mitinh-23-janvarja-2021-v-podderzhku-navalnoho-prjamaja-transljatsija-iz-moskvy-poslednie-novosti.html
      ii: navalny_akcii
      tags: navalny
-     fail: 1
-     reparse: 1
-     acts: 
-       - fetch
-       #- no_img 
-       - db_update
+     #fail: 1
+     #reparse: 1
+     #acts: 
+#       - fetch
+       ##- no_img 
+       #- db_update
    - 
      url: https://strana.ua/news/313595-moskva-mitinhi-v-rossii-za-navalnoho-23-janvarja-hlavnye-vyvody.html
      ii: navalny_deti
@@ -336,4 +336,25 @@ urls:
      url: https://strana.ua/news/313353-kakaja-situatsija-v-ssha-pole-izbranija-bajdena-prezidentom-.html
      ii: we_dont_want_baiden
      tags: usa,baiden_joe
+   - 
+     url: https://strana.ua/news/313715-makfol-sravnil-navalnoho-s-mandeloj-i-martinom-ljuterom-kinhom.html
+     ii: makfol_navalny
+     tags: navalny
+   -
+     url: https://strana.ua/news/313661-mitinhi-v-moskve-za-navalnoho-reaktsija-v-ukraine.html
+     ii: ukraina_comments_navalny_razvedka
+     tags: navalny
+     #reparse: 1
+   - 
+     url: https://strana.ua/news/313728-sluzhba-vneshnej-razvedki-opublikovala-beluju-knihu-v-ukraine.html
+     ii: sluzhba_vneshnej_razvedki_belaja_kniga
+   -
+     url: https://strana.ua/news/236579-elena-lukash-otreahirovala-na-zhelanie-zelenskoho-vstretitsja-so-studentami-majdanovtsami.html
+     ii: oni_zhe_dedy_lukash_zelja
+   - 
+     url: https://strana.ua/news/179965-provokatsiju-pravoho-sektora-u-khrama-upts-v-vinnitse-ostanovili-tysjachi-pravoslavnykh.html
+     ii: pravyy_sektor_provokacia_vinnica_upc_hram
+   - 
+     url: https://strana.ua/news/310343-na-ivano-frankovshchine-horsovet-prizval-zhitelej-ne-khodit-v-khram-upts-mp.html
+     ii: ivano_frankovsk_oblast_upc_gorsovet
      reparse: 1

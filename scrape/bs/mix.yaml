@@ -361,9 +361,6 @@ urls:
      ii: ivano_frankovsk_oblast_upc_gorsovet
      reparse: 1
    - 
-     url: <++>
-     ii: <++>
-   - 
      url: https://strana.ua/news/282703-video-opasnykh-oranzhevykh-oblakov-v-nebe-nad-bejrutom-posle-vzryva.html
      ii: beirut_vzryv
      #redo: 1
@@ -378,18 +375,32 @@ urls:
    - 
      url: https://strana.ua/news/282552-ukrainskie-diplomaty-ne-postradali-vo-vremja-vzryva-v-portu-bejruta.html
      ii: beirut_ukraina_diplomaty
- #    redo: 1
      #acts:
       #- no_img
      #skip:
    - 
      url: https://strana.ua/news/313821-ukraina-namerena-otkazatsja-ot-enerhosistem-rossii-i-belarusi.html
      ii: kuleba_energetika_rossia_ukraina
-     #redo: 1
-   - 
-     url: <++>
-     ii: <++>
    - 
      url: https://odessa.strana.ua/313830-morjaki-perekryli-trassu-odessa-kiev.html
      ii: morjaki_odessa_kiev_protest
+   - 
+     url: https://strana.ua/news/313840-v-rehionakh-ukrainy-prodolzhajutsja-protestnye-aktsii.html
+     ii: tarify_dorogi_protest
+     tags: tarify
+   - 
+     url: https://strana.ua/news/313799-v-parizhe-izbili-parnja-iz-ukrainy-chto-proizoshlo.html
+     ii: ukrainec_podrostok_parizh_bili
+   - 
+     url: https://strana.ua/news/313844-v-zhitomire-protestujut-protiv-povyshenija-tarify-mitinhujushchie-vorvalis-v-horsovet.html
+     ii: zhitomir_protest_tarify
+     tags: tarify
+   - 
+     url: https://strana.ua/news/313851-putin-vpervye-prokommentiroval-film-oppozitsionera-navalnoho.html
+     ii: putin_skuchko_devochki
+     tags: putin
+   - 
+     url: https://strana.ua/news/313720-akkaunt-rohozina-v-facebook-zablokirovali-na-sutki.html
+     ii: rogozin_facebook_ban_roskosmos
+     tags: navalny,rogozin,roskosmos,facebook
      redo: 1

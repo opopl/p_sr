@@ -1,0 +1,7 @@
+in_dir: 'in'
+soup:
+  skip_saved: 1
+url: {}
+#update_cache : 1
+#update_clean : 1
+#db_update_title : 1

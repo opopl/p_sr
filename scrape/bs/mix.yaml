@@ -2,15 +2,6 @@
 rootid: p_sr
 proj: letopis
 
-cnf:
-  in_dir: 'in'
-  soup:
-    skip_saved: 1
-  url: {}
-  #update_cache : 1
-  #update_clean : 1
-  #db_update_title : 1
-
 exclude:
   sites:
     - _all_ 
@@ -413,3 +404,7 @@ urls:
      url: https://lenta.ru/photo/2021/01/20/inauguration
      ii: demokratia_torzhestvo
      tags: usa,demokratia
+   - 
+     url: https://strana.ua/news/313871-evheniju-bilchenko-trebujut-uvolit-iz-npu-drahomanova-iz-za-movnoho-zakona.html
+     tags: bilchenko_evgenia,sternenko
+     redo: 1

@@ -6,6 +6,7 @@ import cyrtranslit
 from urllib.parse import urlparse
 from urllib.parse import urljoin
 
+# ----------------------------
 def add_libs(libs):
   for lib in libs:
     if not lib in sys.path:
@@ -15,6 +16,10 @@ plg = os.environ.get('PLG')
 add_libs([ os.path.join(plg,'projs','python','lib') ])
 import Base.DBW as dbw
 import Base.Util as util
+import Base.Const as const
+# ----------------------------
+
+from Base.Scraper.SitePage import SitePage
 
 class Page:
   soup = None

@@ -6,6 +6,7 @@ hosts:
   'strana.ua' : { 'site' : 'news.ua.strana' } 
   'kiev.strana.ua': { 'site' : 'news.ua.strana' } 
   'kharkov.strana.ua': { 'site' : 'news.ua.strana' } 
+  'odessa.strana.ua': { 'site' : 'news.ua.strana' } 
   'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
   'news.obozrevatel.com' : { 'site' : 'news.ua.obozrevatel' }
   'www.radiosvoboda.org' : { 'site' : 'news.ua.radiosvoboda' }
@@ -359,9 +360,9 @@ urls:
      url: https://strana.ua/news/310343-na-ivano-frankovshchine-horsovet-prizval-zhitelej-ne-khodit-v-khram-upts-mp.html
      ii: ivano_frankovsk_oblast_upc_gorsovet
      reparse: 1
-#   - 
-     #url: <++>
-     #ii: <++>
+   - 
+     url: <++>
+     ii: <++>
    - 
      url: https://strana.ua/news/282703-video-opasnykh-oranzhevykh-oblakov-v-nebe-nad-bejrutom-posle-vzryva.html
      ii: beirut_vzryv
@@ -382,5 +383,13 @@ urls:
       #- no_img
      #skip:
    - 
-	 url: https://strana.ua/news/313821-ukraina-namerena-otkazatsja-ot-enerhosistem-rossii-i-belarusi.html
-	 ii: kuleba_energetika_rossia_ukraina
+     url: https://strana.ua/news/313821-ukraina-namerena-otkazatsja-ot-enerhosistem-rossii-i-belarusi.html
+     ii: kuleba_energetika_rossia_ukraina
+     #redo: 1
+   - 
+     url: <++>
+     ii: <++>
+   - 
+     url: https://odessa.strana.ua/313830-morjaki-perekryli-trassu-odessa-kiev.html
+     ii: morjaki_odessa_kiev_protest
+     redo: 1

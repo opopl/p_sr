@@ -1,0 +1,9 @@
+
+shell /bin/zsh
+
+startup_message off
+
+hardstatus on
+hardstatus alwayslastline
+
+screen -t 'bs' zsh

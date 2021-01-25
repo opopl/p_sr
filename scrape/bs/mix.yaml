@@ -5,6 +5,7 @@ proj: letopis
 hosts:
   'strana.ua' : { 'site' : 'news.ua.strana' } 
   'kiev.strana.ua': { 'site' : 'news.ua.strana' } 
+  'kharkov.strana.ua': { 'site' : 'news.ua.strana' } 
   'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
   'news.obozrevatel.com' : { 'site' : 'news.ua.obozrevatel' }
   'www.radiosvoboda.org' : { 'site' : 'news.ua.radiosvoboda' }
@@ -364,8 +365,19 @@ urls:
    - 
      url: https://strana.ua/news/282703-video-opasnykh-oranzhevykh-oblakov-v-nebe-nad-bejrutom-posle-vzryva.html
      ii: beirut_vzryv
-     redo: 1
-     acts: 
-       - fetch
+     #redo: 1
+     #acts: 
+       #- fetch
        ##- no_img 
        #- db_update
+   - 
+     url: https://kharkov.strana.ua/313807-pozhar-v-dome-prestarelykh-v-kharkove-umer-16-j-postradavshij.html
+     ii: pozhar_v_dome_starikov_harkov
+     #redo: 1
+   - 
+     url: https://strana.ua/news/282552-ukrainskie-diplomaty-ne-postradali-vo-vremja-vzryva-v-portu-bejruta.html
+     ii: beirut_ukraina_diplomaty
+     redo: 1
+     acts:
+      - no_img
+     skip:

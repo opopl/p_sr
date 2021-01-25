@@ -33,14 +33,30 @@ include:
     - news.ua.strana
 
 sites:
+  'news.ru.lenta':
+    clean:
+      - 'style'
+      - 'script'
+      - 'meta'
+      - 'header'
+      - 'footer'
+      - 'nav'
+      - 'section.b-yellow-box'
+      - 'section.b-header'
+      - 'section.b-tabloid'
+      - 'section._footer'
+      - 'section.b-topic-addition'
+      - 'section.b-longgrid-column'
   'news.ua.gazeta':
     clean:
+      - 'style'
       - 'script'
       - 'meta'
       - 'header'
       - 'footer'
   'news.ua.strana':
     clean:
+      - 'style'
       - 'script'
       - 'meta'
       - 'header'
@@ -330,10 +346,7 @@ urls:
      url: https://strana.ua/news/284775-maksim-tkachuk-ne-edet-na-detskoe-evrovidenie-2020-iz-za-smuhljanki-kak-sirotu-travili-natsionalisty-i-pochemu-notu-ne-dopustila-k-konkursu.html
      ii: maxim_tkachuk_smugljanka_evrovidenie
      tags: tkachuk_maxim
-   - 
-     url: https://lenta.ru/articles/2021/01/22/naz/
-     ii: ukraina_lavra_borsch
-     tags: ukraina,rossia,lavra
+
    - 
      url: https://strana.ua/news/313353-kakaja-situatsija-v-ssha-pole-izbranija-bajdena-prezidentom-.html
      ii: we_dont_want_baiden
@@ -439,3 +452,8 @@ urls:
      url: https://strana.ua/news/313693-alekhina-i-shtejn-iz-pussy-riot-zaderzhany-v-moskve.html
      ii: pussy_riot_navalny
      tags: navalny,pussy_riot
+   - 
+     url: https://lenta.ru/articles/2021/01/22/naz/
+     ii: ukraina_lavra_borsch
+     tags: ukraina,rossia,lavra
+     redo: 1

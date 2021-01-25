@@ -403,4 +403,39 @@ urls:
      url: https://strana.ua/news/313720-akkaunt-rohozina-v-facebook-zablokirovali-na-sutki.html
      ii: rogozin_facebook_ban_roskosmos
      tags: navalny,rogozin,roskosmos,facebook
-     redo: 1
+   - 
+     url: https://strana.ua/news/313852-protesty-protiv-tarifov-25-janvarja-novosti-video-foto.html
+     ii: tarif_maidan
+     tags: tarify,ukraina
+   - 
+     url: https://strana.ua/sport/football/273521-domahoj-vida-skandirovavshij-slava-ukraine-perekhodit-ihrat-v-rossijskij-klub.html
+     ii: football_domagoi_vida
+     tags: vida_domagoi
+   - 
+     url: https://strana.ua/news/150715-chm-2018-senator-hosdumy-frants-klintsevich-nazval-khorvatov-predateljami-posle-video-domahoja-vidy-so-slovami-slava-ukraine.html
+     ii: domagoi_vida_slava_ukraine
+     tags: vida_domagoi,rossia,gosduma
+   - 
+     url: https://strana.ua/news/150653-slava-ukraine-stranitse-fifa-v-fejsbuk-polzovateli-stavjat-samuju-nizkuju-otsenku.html
+     ii: fifa_slava_ukraine
+     tags: fifa,ukraina
+   - 
+     url: https://strana.ua/news/313853-ukraintsy-ne-doverjajut-kitajskoj-vaktsine-i-ne-khotjat-delat-privivki-ot-koronavirusa-opros.html
+     ii: opros_kitajskaja_vaccina_6_procentov
+     tags: covid_vaccine
+   - 
+     url: https://strana.ua/news/313849-tarifnyj-majdan-s-plakatami-prishel-pod-ofis-zelenskoho-i-sobiraetsja-k-nemu-na-dachu.html
+     ii: tarify_ofis_zelja
+     tags: tarify,zelja
+   - 
+     url: https://kiev.strana.ua/313806-politsija-vyvela-v-tsentr-kieva-voennykh-i-kinolohov-v-ozhidanii-shestvija.html
+     ii: policia_protest_kinologi
+     tags: protest,policia,tarify
+   - 
+     url: https://kiev.strana.ua/313647-vozle-posolstva-rossii-v-kieve-mitinhovali-v-podderzhku-navalnoho-23-janvarja.html
+     ii: rossia_posolstvo_kiev_navalny_akcia
+     tags: navalny
+   - 
+     url: https://strana.ua/news/313693-alekhina-i-shtejn-iz-pussy-riot-zaderzhany-v-moskve.html
+     ii: pussy_riot_navalny
+     tags: navalny,pussy_riot

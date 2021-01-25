@@ -1,0 +1,11 @@
+
+'strana.ua' : { 'site' : 'news.ua.strana' } 
+'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
+'obozrevatel.com' : { 'site' : 'news.ua.obozrevatel' }
+'www.radiosvoboda.org' : { 'site' : 'news.ua.radiosvoboda' }
+'pravda.com.ua' : { 'site' : 'news.ua.pravda' }
+'lb.ua' : { 'site' : 'news.ua.lb' }
+'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
+'lenta.ru' : { 'site' : 'news.ru.lenta' }
+'fakty.ua' : { 'site' : 'news.ua.fakty' }
+'day.kiev.ua,day.kyiv.ua' : { 'site' : 'news.ua.day_kiev_ua' }

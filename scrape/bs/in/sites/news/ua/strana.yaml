@@ -1,0 +1,23 @@
+
+clean:
+  - 'style'
+  - 'script'
+  - 'meta'
+  - 'header'
+  - 'footer'
+  - 'div.main-right-column'
+  - 'div.main-header-news'
+  - 'div.breadcrumbs.hidden-xs'
+  - 'div.td'
+  - 'div.promo-news'
+  - 'div.popular-block'
+  - 'link'
+  - 'nav.clearfix'
+  - 'article.photo-news'
+  - 'section.blocks'
+  - 'div.see-also-news'
+  - 'div.article-afterbody'
+  - 'div.article-main-news'
+  - 'div.newsfeed'
+  - div.tags.breadcrumbs
+  - .sunsite_actions

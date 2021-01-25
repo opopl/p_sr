@@ -1,0 +1,7 @@
+
+clean:
+  - 'style'
+  - 'script'
+  - 'meta'
+  - 'header'
+  - 'footer'

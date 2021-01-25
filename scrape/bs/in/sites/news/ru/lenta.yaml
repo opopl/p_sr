@@ -1,0 +1,16 @@
+
+clean:
+   - 'style'
+   - 'script'
+   - 'meta'
+   - 'header'
+   - 'footer'
+   - 'nav'
+   - 'section.b-yellow-box'
+   - 'section.b-header'
+   - 'section.b-tabloid'
+   - 'section._footer'
+   - 'section.b-topic-addition'
+   - 'section.b-longgrid-column'
+   - 'a.b-favorite__item'
+   - 'aside'

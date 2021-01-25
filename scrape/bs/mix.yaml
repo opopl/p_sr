@@ -377,7 +377,10 @@ urls:
    - 
      url: https://strana.ua/news/282552-ukrainskie-diplomaty-ne-postradali-vo-vremja-vzryva-v-portu-bejruta.html
      ii: beirut_ukraina_diplomaty
-     redo: 1
-     acts:
-      - no_img
-     skip:
+ #    redo: 1
+     #acts:
+      #- no_img
+     #skip:
+   - 
+	 url: https://strana.ua/news/313821-ukraina-namerena-otkazatsja-ot-enerhosistem-rossii-i-belarusi.html
+	 ii: kuleba_energetika_rossia_ukraina

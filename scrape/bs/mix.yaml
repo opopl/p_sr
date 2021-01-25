@@ -409,4 +409,7 @@ urls:
      url: https://lenta.ru/news/2021/01/25/maidan/
      ii: maidan_tarify_zelja_dacha
      tags: tarify
-     redo: 1
+   - 
+     url: https://lenta.ru/photo/2021/01/20/inauguration
+     ii: demokratia_torzhestvo
+     tags: usa,demokratia

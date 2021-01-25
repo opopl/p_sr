@@ -358,3 +358,14 @@ urls:
      url: https://strana.ua/news/310343-na-ivano-frankovshchine-horsovet-prizval-zhitelej-ne-khodit-v-khram-upts-mp.html
      ii: ivano_frankovsk_oblast_upc_gorsovet
      reparse: 1
+#   - 
+     #url: <++>
+     #ii: <++>
+   - 
+     url: https://strana.ua/news/282703-video-opasnykh-oranzhevykh-oblakov-v-nebe-nad-bejrutom-posle-vzryva.html
+     ii: beirut_vzryv
+     redo: 1
+     acts: 
+       - fetch
+       ##- no_img 
+       #- db_update

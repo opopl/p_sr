@@ -47,6 +47,7 @@ sites:
       - 'section._footer'
       - 'section.b-topic-addition'
       - 'section.b-longgrid-column'
+      - 'a.b-favorite__item'
   'news.ua.gazeta':
     clean:
       - 'style'
@@ -456,4 +457,11 @@ urls:
      url: https://lenta.ru/articles/2021/01/22/naz/
      ii: ukraina_lavra_borsch
      tags: ukraina,rossia,lavra
+     #redo: 1
+     #acts: 
+       #- db_update
+   - 
+     url: https://lenta.ru/news/2020/12/11/borsh_11/
+     ii: ukraina_borsch_nasledie_unesco
+     tags: borsch_battle,ukraina,rossia,unesco
      redo: 1

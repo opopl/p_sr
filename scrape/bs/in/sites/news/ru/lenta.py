@@ -22,5 +22,22 @@ class Page(SitePage):
     return self
 
   def get_date(self,ref={}):
+    url = self.app.url
+
+    u = util.url_parse(url)
+
+    parts = u.path.split('/')
+
+    if len(parts) > 3:
+      if parts[0] == 'articles':
+        year  = parts[1]
+        month = parts[2]
+        day   = parts[3]
+
+        date = '_'.join([day,month,year])
+        self.app.page['date'] = date
+
+        import pdb; pdb.set_trace()
+
     return self
 

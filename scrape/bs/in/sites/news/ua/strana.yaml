@@ -1,10 +1,5 @@
 
 clean:
-  - 'style'
-  - 'script'
-  - 'meta'
-  - 'header'
-  - 'footer'
   - 'div.main-right-column'
   - 'div.main-header-news'
   - 'div.breadcrumbs.hidden-xs'

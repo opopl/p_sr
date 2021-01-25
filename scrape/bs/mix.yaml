@@ -407,4 +407,18 @@ urls:
    - 
      url: https://strana.ua/news/313871-evheniju-bilchenko-trebujut-uvolit-iz-npu-drahomanova-iz-za-movnoho-zakona.html
      tags: bilchenko_evgenia,sternenko
-     redo: 1
+   - 
+     url: https://strana.ua/news/313846-zhelanie-poekhat-v-rossiju-eto-zrada-opros-antoniny-belohlazovoj.html
+     tags: rossia,ukraina
+   - 
+     url: https://strana.ua/news/313808-kak-zelenskoho-v-sotssetjakh-pozdravljajut.html
+     tags: tarify_zelja_dr
+   - 
+     url: https://strana.ua/news/312143-ukrainizatsija-sfery-usluh-s-16-janvarja-vse-novosti.html
+     tags: ukrainizacia
+   - 
+     url: https://strana.ua/articles/analysis/311738-chto-delat-esli-zastavljajut-sobljudat-jazykovoj-zakon.html
+     tags: ukrainizacia
+   - 
+     url: https://strana.ua/articles/analysis/311844-s-16-janvarja-vvodjat-ukrainizatsiju-sfery-usluh-kak-postupat-s-proverjajushchimi.html
+     tags: ukrainizacia

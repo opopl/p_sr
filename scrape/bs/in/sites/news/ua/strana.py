@@ -20,11 +20,17 @@ import Base.Const as const
 # ----------------------------
 
 from Base.Scraper.SitePage import SitePage
+from Base.Scraper.Author import Author
 
 class Page(SitePage):
 
   def get_author(self,ref={}):
-    els = self.soup.select('span.author-article a')
+    sel = ref.get('sel','')
+    sel = 'span.author-article a'
+
+    auth_obj = Author({ 'spage' : self, 'app' : self.app })
+
+    els = self.soup.select(sel)
 
     auth_ids = []
     auth_list = []
@@ -34,43 +40,7 @@ class Page(SitePage):
       auth_url  = urljoin(self.app.base_url, e['href'])
       auth_bare = e.string
       if auth_bare:
-        aa = auth_bare.split(' ')
-        if len(aa) == 2:
-          first_name = aa[0]
-          last_name  = aa[1]
-
-          auth_id = f'{last_name}_{first_name}'.lower()
-          auth_id = cyrtranslit.to_latin(auth_id,'ru')
-
-          auth_db = self.app._db_get_auth({ 'auth_id' : auth_id })
-          if not auth_db:
-            auth_name = f'{last_name}, {first_name}'
-          else:
-            auth_name = auth_db.get('name')
-            if not auth_url:
-              auth_url = auth_db.get('url')
-
-          auth_ids.append(auth_id)
-
-          auth = {
-            'id'   : auth_id,
-            'name' : auth_name,
-            'url'  : auth_url,
-          }
-          auth_list.append(auth)
-
-          if not auth_db:
-            d = {
-              'db_file' : self.app.url_db,
-              'table'   : 'authors',
-              'insert'  : auth,
-            }
-            dbw.insert_dict(d)
-
-
-    author_id = ','.join(auth_ids)
-
-    self.app.page.update({ 'author_id' : author_id })
+        auth_obj.parse({ 'str' : auth_bare })
 
     return self
 

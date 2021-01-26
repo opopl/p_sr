@@ -1,6 +1,8 @@
 
 # ----------------------------
-import os,sys
+import os,sys,re
+import datetime
+import cyrtranslit
 
 def add_libs(libs):
   for lib in libs:
@@ -19,9 +21,27 @@ from Base.Scraper.SitePage import SitePage
 
 class Page(SitePage):
   def get_author(self,ref={}):
+    app  = self.app
+    soup = self.soup
+
+
+    return self
+
+  def generate_ii(self,ref={}):
+    app = self.app
+
+    if app.title:
+      tt = app.page['title_h']
+      tt = re.sub(r'\s', '_', tt)
+      ttl = cyrtranslit.to_latin(tt,'ru').lower()
+      ttl = re.sub(r'[\W\']+', '', ttl)
+      app.ii = ttl
+
     return self
 
   def get_date(self,ref={}):
+    app = self.app
+
     url = self.app.url
 
     u = util.url_parse(url)
@@ -38,7 +58,7 @@ class Page(SitePage):
         day   = parts[3]
 
         date = '_'.join([day,month,year])
-        self.app.page['date'] = date
+        app.page['date'] = date
 
     return self
 

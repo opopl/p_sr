@@ -433,3 +433,5 @@ urls:
      url: https://lenta.ru/news/2021/01/26/schoolgirl/
      tags: anglia,smert,shkola
      redo: 1
+     acts: 
+      - db_update

@@ -1,5 +1,6 @@
 # ----------------------------
 import os,sys
+import datetime
 
 def add_libs(libs):
   for lib in libs:
@@ -26,5 +27,15 @@ class Page(SitePage):
   def get_date(self,ref={}):
     soup = self.soup
     app  = self.app
+
+    e = soup.select_one('.mod-date time')
+
+    if e and e.has_attr('datetime'):
+      s = e['datetime']
+
+      f = "%Y-%m-%d"
+      d = datetime.datetime.strptime(s,f)
+      date = d.strftime('%d_%m_%Y')
+      self.app.page['date'] = date
 
     return self

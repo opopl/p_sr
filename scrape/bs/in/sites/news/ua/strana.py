@@ -21,14 +21,7 @@ import Base.Const as const
 
 from Base.Scraper.SitePage import SitePage
 
-class Page:
-  soup = None
-  app = None
-  date_format = ''
-
-  def __init__(self,args={}):
-    for k, v in args.items():
-      setattr(self, k, v)
+class Page(SitePage):
 
   def get_author(self,ref={}):
     els = self.soup.select('span.author-article a')

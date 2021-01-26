@@ -9,6 +9,7 @@ clean:
   - 'meta'
   - 'header'
   - 'footer'
+  - 'nav'
 #update_cache : 1
 #update_clean : 1
 #db_update_title : 1

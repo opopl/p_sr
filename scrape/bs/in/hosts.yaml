@@ -9,3 +9,4 @@
 'lenta.ru' : { 'site' : 'news.ru.lenta' }
 'fakty.ua' : { 'site' : 'news.ua.fakty' }
 'day.kiev.ua,day.kyiv.ua' : { 'site' : 'news.ua.day_kiev_ua' }
+'apple.com' : { 'site' : 'com.us.apple' }

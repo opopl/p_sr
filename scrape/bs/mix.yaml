@@ -10,6 +10,7 @@ include:
   sites:
     - news.ua.strana
     - news.ru.lenta
+    - com.us.apple
 
 urls:
   #- 
@@ -422,3 +423,9 @@ urls:
    - 
      url: https://strana.ua/articles/analysis/311844-s-16-janvarja-vvodjat-ukrainizatsiju-sfery-usluh-kak-postupat-s-proverjajushchimi.html
      tags: ukrainizacia
+   - 
+     url: https://strana.ua/news/313902-belaja-kniha-sluzhby-vneshnej-razvedki-ukrainy-o-chem-doklad-szr.html
+     tags: razvedka
+   - 
+     url: https://support.apple.com/en-us/HT201548
+     tags: macos,pc,admin

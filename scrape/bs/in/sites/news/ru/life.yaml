@@ -4,7 +4,7 @@ sel:
   clean:
      - '.styles_link__1ii1a'
      - styles_root__1ISZv
-     - <++>
+     #- <++>
 
   author: 
     { 

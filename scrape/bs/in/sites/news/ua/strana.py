@@ -41,23 +41,31 @@ class Page(SitePage):
 
       d = {}
 
+      d_parse = {}
       for k in util.qw('url name'):
         d  = auth_sel.get(k)
         css  = d.get('css')
-        attr = auth_sel.get('attr')
+        attr = d.get('attr')
 
         els = self.soup.select(css)
   
-	      for e in els:
-	        auth = None
-	  
-	        auth_url  = urljoin(self.app.base_url, e[attr])
-	        auth_bare = e.string
-	        if auth_bare:
-	          auth_obj.parse({ 
-	            'str' : auth_bare,
-	            'url' : auth_url
-	          })
+        for e in els:
+          auth = None
+    
+          if k == 'url':
+            if e.has_attr(attr):
+              auth_url  = urljoin(self.app.base_url, e[attr])
+              print(f'[SitePage] found author url: {auth_url}')
+
+              d_parse.update({ 'url' : auth_url })
+          elif k == 'name':
+            auth_bare = e.string
+            if auth_bare:
+              print(f'[SitePage] found author name: {auth_bare}')
+
+              d_parse.update({ 'str' : auth_bare })
+
+      auth_obj.parse(d_parse)
 
     return self
 

@@ -3,13 +3,15 @@ in_dir: 'in'
 soup:
   skip_saved: 1
 url: {}
-clean:
-  - 'style'
-  - 'script'
-  - 'meta'
-  - 'header'
-  - 'footer'
-  - 'nav'
+
+sel:
+  clean:
+    - 'style'
+    - 'script'
+    - 'meta'
+    - 'header'
+    - 'footer'
+    - 'nav'
 #update_cache : 1
 #update_clean : 1
 #db_update_title : 1

@@ -25,22 +25,36 @@ from Base.Scraper.Author import Author
 class Page(SitePage):
 
   def get_author(self,ref={}):
+    site = self.app.site
+
     sel = ref.get('sel','')
-    sel = 'span.author-article a'
+    auth_sel = util.get( self.app, [ 'sites', site, 'sel', 'author' ] )
+    if not auth_sel:
+     return self
 
-    auth_obj = Author({ 'spage' : self, 'app' : self.app })
+    if type(auth_sel) is dict:
+      css  = auth_sel.get('css')
+      attr = auth_sel.get('attr')
 
-    els = self.soup.select(sel)
+      import pdb; pdb.set_trace()
 
-    auth_ids = []
-    auth_list = []
-    for e in els:
-      auth = None
-
-      auth_url  = urljoin(self.app.base_url, e['href'])
-      auth_bare = e.string
-      if auth_bare:
-        auth_obj.parse({ 'str' : auth_bare })
+      auth_obj = Author({ 
+        'spage' : self, 
+        'app'   : self.app 
+      })
+  
+      els = self.soup.select(css)
+  
+      for e in els:
+        auth = None
+  
+        auth_url  = urljoin(self.app.base_url, e[attr])
+        auth_bare = e.string
+        if auth_bare:
+          auth_obj.parse({ 
+            'str' : auth_bare,
+            'url' : auth_url
+          })
 
     return self
 

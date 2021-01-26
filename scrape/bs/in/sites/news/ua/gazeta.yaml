@@ -1,7 +1,8 @@
 
-clean:
-  - 'style'
-  - 'script'
-  - 'meta'
-  - 'header'
-  - 'footer'
+sel:
+  clean:
+    - 'style'
+    - 'script'
+    - 'meta'
+    - 'header'
+    - 'footer'

@@ -429,3 +429,7 @@ urls:
    - 
      url: https://support.apple.com/en-us/HT201548
      tags: macos,pc,admin
+   - 
+     url: https://lenta.ru/news/2021/01/26/schoolgirl/
+     tags: anglia,smert,shkola
+     redo: 1

@@ -10,6 +10,7 @@ include:
   sites:
     - news.ua.strana
     - news.ru.lenta
+    - news.ru.life
     - com.us.apple
 
 urls:
@@ -442,4 +443,10 @@ urls:
    - 
      url: https://lenta.ru/articles/2021/01/24/domodedovo/
      tags: domodedovo,terakt,rossia,24_01_2011
+     #redo: 1
+   - 
+     url: https://life.ru/p/1364254
+     tags: ukraina,vaccine,covid
      redo: 1
+     acts: 
+      - get_img

@@ -12,6 +12,7 @@ sel:
     - 'header'
     - 'footer'
     - 'nav'
+    - 'noscript'
 #update_cache : 1
 #update_clean : 1
 #db_update_title : 1

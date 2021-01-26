@@ -1,0 +1,18 @@
+
+
+sel:
+  clean:
+     - '.styles_link__1ii1a'
+     - styles_root__1ISZv
+     - <++>
+
+  author: 
+    { 
+      'url' : {
+          'css' : '.b-topic__content__author a', 
+          'attr' : 'href' 
+      },
+      'name' : {
+          'css' : '.b-topic__content__author .name'
+      }
+    }

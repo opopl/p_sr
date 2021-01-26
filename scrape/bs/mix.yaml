@@ -9,6 +9,7 @@ exclude:
 include:
   sites:
     - news.ua.strana
+    - news.ua.zaxid
     - news.ru.lenta
     - news.ru.life
     - com.us.apple
@@ -447,6 +448,12 @@ urls:
    - 
      url: https://life.ru/p/1364254
      tags: ukraina,vaccine,covid
-     redo: 1
-     acts: 
-      - get_img
+     #redo: 1
+     #acts: 
+     #- get_img
+   - 
+     url: https://zaxid.net/vikladachka_kiyivskogo_peduniversitetu_nazvala_ukrayinu_amerikanskoyu_koloniyeyu_n1513487
+     tags: bilchenko_evgenia
+   - 
+     url: https://zaxid.net/oask_za_pozovom_portnova_zaboroniv_provedennya_zahodiv_na_chest_nizki_ukrayinskih_diyachiv_n1513496
+     tags: portnov

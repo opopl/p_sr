@@ -11,3 +11,4 @@
 'day.kiev.ua,day.kyiv.ua' : { 'site' : 'news.ua.day_kiev_ua' }
 'apple.com' : { 'site' : 'com.us.apple' }
 'life.ru' : { 'site' : 'news.ru.life' }
+'zaxid.net' : { 'site' : 'news.ua.zaxid' }

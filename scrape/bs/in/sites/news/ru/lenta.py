@@ -24,7 +24,6 @@ class Page(SitePage):
     app  = self.app
     soup = self.soup
 
-
     return self
 
   def generate_ii(self,ref={}):

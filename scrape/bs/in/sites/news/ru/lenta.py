@@ -20,11 +20,6 @@ import Base.Const as const
 from Base.Scraper.SitePage import SitePage
 
 class Page(SitePage):
-  def get_author(self,ref={}):
-    app  = self.app
-    soup = self.soup
-
-    return self
 
   def generate_ii(self,ref={}):
     app = self.app

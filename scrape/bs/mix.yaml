@@ -426,7 +426,7 @@ urls:
    - 
      url: https://strana.ua/news/313902-belaja-kniha-sluzhby-vneshnej-razvedki-ukrainy-o-chem-doklad-szr.html
      tags: razvedka
-     redo: 1
+     #redo: 1
    - 
      url: https://support.apple.com/en-us/HT201548
      tags: macos,pc,admin
@@ -436,3 +436,10 @@ urls:
      #redo: 1
      #acts: 
       #- db_update
+   - 
+     url: https://lenta.ru/news/2021/01/26/belorus_shatal/
+     tags: belarus,lukashenko,protests
+   - 
+     url: https://lenta.ru/articles/2021/01/24/domodedovo/
+     tags: domodedovo,terakt,rossia,24_01_2011
+     redo: 1

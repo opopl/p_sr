@@ -19,6 +19,11 @@ sel:
     - .sunsite_actions
   author: 
     { 
-      'css' : 'span.author-article a', 
-      'attr' : 'href' 
+      'url' : {
+          'css' : 'span.author-article a', 
+          'attr' : 'href' 
+      },
+      'name' : {
+          'css' : 'span.author-article a'
+      }
     }

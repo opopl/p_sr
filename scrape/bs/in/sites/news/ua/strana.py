@@ -33,28 +33,31 @@ class Page(SitePage):
      return self
 
     if type(auth_sel) is dict:
-      css  = auth_sel.get('css')
-      attr = auth_sel.get('attr')
-
-      import pdb; pdb.set_trace()
 
       auth_obj = Author({ 
         'spage' : self, 
         'app'   : self.app 
       })
+
+      d = {}
+
+      for k in util.qw('url name'):
+        d  = auth_sel.get(k)
+        css  = d.get('css')
+        attr = auth_sel.get('attr')
+
+        els = self.soup.select(css)
   
-      els = self.soup.select(css)
-  
-      for e in els:
-        auth = None
-  
-        auth_url  = urljoin(self.app.base_url, e[attr])
-        auth_bare = e.string
-        if auth_bare:
-          auth_obj.parse({ 
-            'str' : auth_bare,
-            'url' : auth_url
-          })
+	      for e in els:
+	        auth = None
+	  
+	        auth_url  = urljoin(self.app.base_url, e[attr])
+	        auth_bare = e.string
+	        if auth_bare:
+	          auth_obj.parse({ 
+	            'str' : auth_bare,
+	            'url' : auth_url
+	          })
 
     return self
 

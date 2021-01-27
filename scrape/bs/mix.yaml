@@ -512,3 +512,10 @@ urls:
    - 
      url: https://news.obozrevatel.com/society/na-rivnenschine-umerli-molodaya-zhenschina-s-covid-19-i-ee-rebenok.htm
      tags: smert,covid,ukraina,rivne
+   - 
+     url: https://strana.ua/news/314307-v-dnepre-uchitel-natsionalistka-vyzvala-skandal-propahandoj-nenavisti-k-russkim-i-rf.html
+     tags: dnepropetrovsk,mova,shkola
+   - 
+     url: https://strana.ua/news/314313-kostja-kievskij-iz-tik-tok-khausa-v-chem-obvinjajut-blohera-kievskyyy.html
+     tags: kostja_kievskii,navalny,ukraina,rossia,fsb
+     redo: 1

@@ -10,9 +10,13 @@ include:
   sites:
     - news.ua.strana
     - news.ua.zaxid
+    - news.ua.oboz
     - news.ru.lenta
     - news.ru.life
     - com.us.apple
+    - pc.cairographics 
+    - pc.cairosvg
+    - pc.docs.python
 
 urls:
   #- 
@@ -312,15 +316,9 @@ urls:
    - 
      url: https://strana.ua/news/282703-video-opasnykh-oranzhevykh-oblakov-v-nebe-nad-bejrutom-posle-vzryva.html
      ii: beirut_vzryv
-     #redo: 1
-     #acts: 
-       #- fetch
-       ##- no_img 
-       #- db_update
    - 
      url: https://kharkov.strana.ua/313807-pozhar-v-dome-prestarelykh-v-kharkove-umer-16-j-postradavshij.html
      ii: pozhar_v_dome_starikov_harkov
-     #redo: 1
    - 
      url: https://strana.ua/news/282552-ukrainskie-diplomaty-ne-postradali-vo-vremja-vzryva-v-portu-bejruta.html
      ii: beirut_ukraina_diplomaty
@@ -392,9 +390,6 @@ urls:
      url: https://lenta.ru/articles/2021/01/22/naz/
      ii: ukraina_lavra_borsch
      tags: ukraina,rossia,lavra
-     #redo: 1
-     #acts: 
-       #- db_update
    - 
      url: https://lenta.ru/news/2020/12/11/borsh_11/
      ii: ukraina_borsch_nasledie_unesco
@@ -428,32 +423,92 @@ urls:
    - 
      url: https://strana.ua/news/313902-belaja-kniha-sluzhby-vneshnej-razvedki-ukrainy-o-chem-doklad-szr.html
      tags: razvedka
-     #redo: 1
    - 
      url: https://support.apple.com/en-us/HT201548
      tags: macos,pc,admin
    - 
      url: https://lenta.ru/news/2021/01/26/schoolgirl/
      tags: anglia,smert,shkola
-     #redo: 1
-     #acts: 
-      #- db_update
    - 
      url: https://lenta.ru/news/2021/01/26/belorus_shatal/
      tags: belarus,lukashenko,protests
    - 
      url: https://lenta.ru/articles/2021/01/24/domodedovo/
      tags: domodedovo,terakt,rossia,24_01_2011
-     #redo: 1
    - 
      url: https://life.ru/p/1364254
      tags: ukraina,vaccine,covid
-     #redo: 1
-     #acts: 
-     #- get_img
    - 
      url: https://zaxid.net/vikladachka_kiyivskogo_peduniversitetu_nazvala_ukrayinu_amerikanskoyu_koloniyeyu_n1513487
      tags: bilchenko_evgenia
    - 
      url: https://zaxid.net/oask_za_pozovom_portnova_zaboroniv_provedennya_zahodiv_na_chest_nizki_ukrayinskih_diyachiv_n1513496
      tags: portnov
+   - 
+     url: https://news.obozrevatel.com/kiyany/life/v-seti-pokazali-kak-vyiglyadel-kiev-bolee-100-let-nazad-foto.htm
+     tags: kiev,istoria
+   - 
+     url: https://news.obozrevatel.com/kiyany/life/istoriya-bordelej-kieva-izvestnyie-doma-terpimosti-foto.htm
+     tags: kiev,istoria,bordeli
+     #redo: 1
+     #acts: 
+       #- get_img
+       #- fetch
+       #- no_img
+   - 
+     url: https://strana.ua/news/314150-v-zhitomire-proveli-ekskursiju-kartonnomu-ilonu-masku-.html
+     tags: mask_ilon,korolev_sergei,zhitomir
+   - 
+     url: https://strana.ua/news/311477-zelenskij-prihlasil-ilona-maska-v-zhitomir.html
+     tags: zelenskii_vladimir,mask_ilon,zhitomir
+   - 
+     url: https://strana.ua/news/280072-ilon-mask-otreahiroval-na-terakt-v-lutske.html
+     tags: mask_ilon,terakt,lutsk
+   - 
+     url: https://strana.ua/news/280066-terakt-v-lutske-krivosh-ne-uhrozhal-zalozhnikam-v-avtobuse.html
+     tags: krivosh_maxim,terakt,lutsk
+   - 
+     url: https://strana.ua/news/280060-zelenskij-opublikovavshij-video-o-filme-zemljane-sdelal-vse-pravilno-herashchenko.html
+     tags: terakt,lutsk,geraschenko_anton
+   - 
+     url: https://strana.ua/news/279977-zemljane-film-kotoryj-trebuet-posmotret-maksim-krivosh-zakhvativshij-zalozhnikov-v-lutske.html
+     tags: terakt,lutsk,zelenskii,film
+   - 
+     url: https://cairographics.org/download/
+     tags: cairo,pc,download
+   - 
+     url: https://cairosvg.org/documentation/
+     tags: pc,python,cairosvg,docs
+   - 
+     url: https://docs.python.org/3/library/datetime.html
+     tags: pc,python3,datetime
+   - 
+     url: https://strana.ua/news/311488-bitva-za-koroleva-priedet-li-ilon-mask-v-zhitomir-posle-tvitter-battla-o-velikom-konstruktore.html
+     tags: mask_ilon,korolev_sergei,zelenskii_vladimir
+   - 
+     url: https://strana.ua/news/238653-v-kosmos-iz-zhitomira-v-muzee-kosmonavtiki-pojavilsja-unikalnyj-zvezdolet.html
+     tags: zhitomir,korolev_sergei,muzei_kosmonavtiki
+   - 
+     url: https://strana.ua/news/236567-astronavtka-s-mks-sfotohrafirovala-amazonku.html
+     tags: nasa,amazonka,meir_jessica
+   - 
+     url: https://strana.ua/news/314309-v-ssha-arestovali-4-podrostkov-po-obvineniju-v-ubijstve.html
+     tags: usa,murder,podrostki
+   - 
+     url: https://strana.ua/news/309991-syn-vyzval-politsiju-na-mat.html
+     tags: podrostki,rossia
+   - 
+     url: https://kiev.strana.ua/308211-video-kak-v-kieve-politsejskie-pomohli-taksistu-otvezti-rebenka-v-bolnitsu.html
+     tags: policia,taksist,deti
+   - 
+     url: https://strana.ua/news/314004-ukrainizatsija-sfery-usluh-top-5-skandalov-za-desjat-dnej.html
+     tags: mova,ukrainizacia
+   - 
+     url: https://strana.ua/news/314279-hlava-mid-venhrii-rasskazal-o-prichinakh-reshenija-ispolzovat-rossijskuju-vaktsinu.html
+     tags: vengria,rossia,vaccine,covid
+   - 
+     url: https://plus.obozrevatel.com/crime/goldman.htm
+     tags: goldman_roman,medicine,ukraina
+   - 
+     url: https://news.obozrevatel.com/society/na-rivnenschine-umerli-molodaya-zhenschina-s-covid-19-i-ee-rebenok.htm
+     tags: smert,covid,ukraina,rivne

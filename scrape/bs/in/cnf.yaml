@@ -4,9 +4,13 @@ soup:
   skip_saved: 1
 url: {}
 
+log:
+  reset
+
 sel:
   clean:
     - 'style'
+    - 'aside'
     - 'script'
     - 'meta'
     - 'header'

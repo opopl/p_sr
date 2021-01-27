@@ -1,7 +1,7 @@
 
 'strana.ua' : { 'site' : 'news.ua.strana' } 
 'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
-'obozrevatel.com' : { 'site' : 'news.ua.obozrevatel' }
+'obozrevatel.com' : { 'site' : 'news.ua.oboz' }
 'www.radiosvoboda.org' : { 'site' : 'news.ua.radiosvoboda' }
 'pravda.com.ua' : { 'site' : 'news.ua.pravda' }
 'lb.ua' : { 'site' : 'news.ua.lb' }
@@ -12,3 +12,6 @@
 'apple.com' : { 'site' : 'com.us.apple' }
 'life.ru' : { 'site' : 'news.ru.life' }
 'zaxid.net' : { 'site' : 'news.ua.zaxid' }
+'cairographics.org' : { 'site' : 'pc.cairographics' }
+'cairosvg.org' : { 'site' : 'pc.cairosvg' }
+'docs.python.org' : { 'site' : 'pc.docs.python' }

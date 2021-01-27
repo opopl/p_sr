@@ -1,0 +1,17 @@
+
+sel:
+  clean: 
+    - header.personTags
+  #keep: []
+  keep: 
+    - header
+#  author: 
+    #{ 
+      #'url' : {
+          #'css' : 'span.author-article a', 
+          #'attr' : 'href' 
+      #},
+      #'name' : {
+          #'css' : 'span.author-article a'
+      #}
+    #}

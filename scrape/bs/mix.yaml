@@ -518,10 +518,9 @@ urls:
    - 
      url: https://strana.ua/news/314313-kostja-kievskij-iz-tik-tok-khausa-v-chem-obvinjajut-blohera-kievskyyy.html
      tags: kostja_kievskii,navalny,ukraina,rossia,fsb
-     redo: 1
      acts:
-       - fetch
-       - get_img
+       #- fetch
+       #- get_img
        - db_update
    - 
      url: https://strana.ua/news/314464-pase-podtverdila-polnomochija-delehatsii-rossii-v-polnom-obeme.html
@@ -529,4 +528,10 @@ urls:
    - 
      url: https://strana.ua/news/314106-kak-izmenjat-20-dollarov-ssha-kem-zamenjat-dzheksona.html
      tags: usa,money
-     #redo: 1
+   - 
+     url: https://strana.ua/news/314484-posle-shturma-kapitolija-v-ssha-pokonchili-zhizn-samoubijstvom-dvoe-kopov-.html
+     tags: usa,shturm_kapitolii_2021,smert,policia
+   - 
+     url: https://strana.ua/news/313454-kravchuk-i-kozak-possorilis-v-tkh-po-donbassu-s-cheho-nachalsja-hod-mezhdu-ukrainoj-i-rossiej.html
+     tags: kravchuk_leonid,kozak_dmitrii,donbass,peregovory
+     redo: 1

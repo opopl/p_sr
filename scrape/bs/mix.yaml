@@ -522,9 +522,11 @@ urls:
      acts:
        - fetch
        - get_img
+       - db_update
    - 
      url: https://strana.ua/news/314464-pase-podtverdila-polnomochija-delehatsii-rossii-v-polnom-obeme.html
      tags: pase,rossia,ukraina
    - 
      url: https://strana.ua/news/314106-kak-izmenjat-20-dollarov-ssha-kem-zamenjat-dzheksona.html
      tags: usa,money
+     #redo: 1

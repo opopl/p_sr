@@ -574,3 +574,6 @@ urls:
    - 
      url: https://lenta.ru/parts/authors/mkirillov/
      tags: kirillov_mihail,news.ru.lenta
+   - 
+     url: https://moslenta.ru/city/pochemu-menya-ne-vydali-ne-znayu-istoriya-moskvichki-sumevshei-perezhit-kholokost.htm
+     tags: holokost,istoria

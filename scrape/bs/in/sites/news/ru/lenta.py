@@ -17,15 +17,15 @@ import Base.Util as util
 import Base.Const as const
 # ----------------------------
 
-from Base.Scraper.SitePage import SitePage
+from Base.Scraper.PageParser import RootPageParser
 
-class Page(SitePage):
+class PageParser(RootPageParser):
 
   def generate_ii(self,ref={}):
     app = self.app
 
     if app.title:
-      tt = app.page['title_h']
+      tt = app.page.get('title_h')
       tt = re.sub(r'\s', '_', tt)
       ttl = cyrtranslit.to_latin(tt,'ru').lower()
       ttl = re.sub(r'[\W\']+', '', ttl)
@@ -52,7 +52,7 @@ class Page(SitePage):
         day   = parts[3]
 
         date = '_'.join([day,month,year])
-        app.page['date'] = date
+        app.page.set({ 'date' :  date })
 
     return self
 

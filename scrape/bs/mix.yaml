@@ -533,10 +533,10 @@ urls:
    - 
      url: https://strana.ua/news/313454-kravchuk-i-kozak-possorilis-v-tkh-po-donbassu-s-cheho-nachalsja-hod-mezhdu-ukrainoj-i-rossiej.html
      tags: kravchuk_leonid,kozak_dmitrii,donbass,peregovory
-     redo: 1
      acts:
        - fetch
        - get_img
+       - db_update
    - 
      url: https://zaxid.net/okruzhniy_adminsud_kiyeva_skasuvav_noviy_ukrayinskiy_pravopis_n1513610
      tags: mova
@@ -555,3 +555,22 @@ urls:
    - 
      url: https://www.vesti.ru/article/2516150
      tags: covid,vaccine,vooz,sputnik_v
+   - 
+     url: https://strana.ua/news/300438-kak-chasto-voennye-na-donbasse-popadajutsja-na-domohatelstvakh.html
+     tags: donbass,deti,crime
+     acts:
+       - fetch
+       - get_img
+       - db_update
+   - 
+     url: https://strana.ua/news/248006-kak-v-odesse-snesli-poslednij-barelef-zhukovu.html
+     tags: nazi,zhukov,odessa
+   - 
+     url: https://lenta.ru/news/2021/01/28/dytlov/
+     tags: pereval_djatlova,istoria,sssr
+   - 
+     url: https://lenta.ru/articles/2021/01/28/voenkor_karabakh/
+     tags: karabah,vojna
+   - 
+     url: https://lenta.ru/parts/authors/mkirillov/
+     tags: kirillov_mihail,news.ru.lenta

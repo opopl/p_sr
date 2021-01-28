@@ -24,19 +24,20 @@ class PageParser(RootPageParser):
   def generate_ii(self,ref={}):
     app = self.app
 
-    if app.title:
+    if app.page.title:
       tt = app.page.get('title_h')
-      tt = re.sub(r'\s', '_', tt)
-      ttl = cyrtranslit.to_latin(tt,'ru').lower()
-      ttl = re.sub(r'[\W\']+', '', ttl)
-      app.ii = ttl
+      if tt:
+        tt = re.sub(r'\s', '_', tt)
+        ttl = cyrtranslit.to_latin(tt,'ru').lower()
+        ttl = re.sub(r'[\W\']+', '', ttl)
+        app.page.ii = ttl
 
     return self
 
   def get_date(self,ref={}):
     app = self.app
 
-    url = self.app.url
+    url = app.page.url
 
     u = util.url_parse(url)
 

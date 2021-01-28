@@ -450,7 +450,6 @@ urls:
    - 
      url: https://news.obozrevatel.com/kiyany/life/istoriya-bordelej-kieva-izvestnyie-doma-terpimosti-foto.htm
      tags: kiev,istoria,bordeli
-     #redo: 1
      #acts: 
        #- get_img
        #- fetch
@@ -535,3 +534,24 @@ urls:
      url: https://strana.ua/news/313454-kravchuk-i-kozak-possorilis-v-tkh-po-donbassu-s-cheho-nachalsja-hod-mezhdu-ukrainoj-i-rossiej.html
      tags: kravchuk_leonid,kozak_dmitrii,donbass,peregovory
      redo: 1
+     acts:
+       - fetch
+       - get_img
+   - 
+     url: https://zaxid.net/okruzhniy_adminsud_kiyeva_skasuvav_noviy_ukrayinskiy_pravopis_n1513610
+     tags: mova
+   - 
+     url: http://day.kyiv.ua/uk/blog/polityka/nehay-do-kyyeva-vede-mova-zamist-yazyka
+     tags: mova
+   - 
+     url: http://day.kyiv.ua/uk/blog/polityka/ideya-rosiyskoyi-yednosti
+     tags: rossia,ukraina,istoria
+   - 
+     url: https://zaxid.net/golokost_neyevreyska_pamyat_n1513553
+     tags: holokost,ukraina,istoria
+   - 
+     url: https://www.pravda.com.ua/news/2021/01/28/7281501/
+     tags: kuleba_dmitrii
+   - 
+     url: https://www.vesti.ru/article/2516150
+     tags: covid,vaccine,vooz,sputnik_v

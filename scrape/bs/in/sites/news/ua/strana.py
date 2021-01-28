@@ -19,10 +19,10 @@ import Base.Util as util
 import Base.Const as const
 # ----------------------------
 
-from Base.Scraper.SitePage import SitePage
+from Base.Scraper.PageParser import RootPageParser
 from Base.Scraper.Author import Author
 
-class Page(SitePage):
+class PageParser(RootPageParser):
 
   def get_date(self,ref={}):
     e = self.soup.select_one('time.date span.strana-adate')
@@ -32,6 +32,6 @@ class Page(SitePage):
       f = "%Y-%m-%d"
       d = datetime.datetime.strptime(s,f)
       date = d.strftime('%d_%m_%Y')
-      self.app.page['date'] = date
+      self.app.page.set({ 'date' : date })
 
     return self

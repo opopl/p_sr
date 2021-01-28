@@ -521,6 +521,7 @@ urls:
      redo: 1
      acts:
        - fetch
+       - get_img
    - 
      url: https://strana.ua/news/314464-pase-podtverdila-polnomochija-delehatsii-rossii-v-polnom-obeme.html
      tags: pase,rossia,ukraina

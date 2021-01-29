@@ -347,4 +347,27 @@
 page
 	url https://pravoslavie.ru/50935.html
 	tags chelovek,mysli
+	#redo 1
+	fail 1
+page
+	url https://strana.ua/news/314488-razvorot-k-rossii-proval-bolshoj-strojki-chto-pishut-inosmi-o-zelenskom-i-ukraine.html
+	tags zelenskii_vladimir,rossia,zapad
+page
+	url https://strana.ua/news/314551-doktrina-russkij-donbass-chto-v-nej-napisano-o-sudbe-dnr-i-lnr.html
+	tags rossia,donbass
+page
+	url https://strana.ua/news/188082-vasilij-lanovoj-umer-biohrafija-filmy-foto-prichina-smerti.html
+	tags lanovoi_vasilii,smert,sssr
+page
+	url https://strana.ua/news/314694-slepakov-stikh-o-protestakh-navalnoho-v-instahram-vyzval-travlju-poeta.html
+	tags slepakov_semen,navalny,poezia
 	redo 1
+page
+	url https://zaxid.net/vidpovidalne_liderstvo_n1513613
+	tags ukraina,lider,mysli
+page
+	url https://lenta.ru/photo/2021/01/29/lanovoy/
+	tags lanovoi_vasilii,smert,sssr
+page
+	url https://lenta.ru/articles/2021/01/28/netherlands_protests/
+	tags nederland,protests

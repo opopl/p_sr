@@ -2,6 +2,10 @@
 
 sel:
   clean:
+    #- .block-left
+    - .block-search-adaptive
+    - .block-upperpanel__markers
+    - .block-upperpanel
 #  author: 
     #{ 
       #'url' : {

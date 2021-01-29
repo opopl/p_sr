@@ -344,51 +344,51 @@
 #page
 	#url https://pravoslavie.ru/51099.html
 	#tags rasskaz
-page
-	url https://pravoslavie.ru/50935.html
-	tags chelovek,mysli
+#page
+	#url https://pravoslavie.ru/50935.html
+	#tags chelovek,mysli
 	#redo 1
-	fail 1
-page
-	url https://strana.ua/news/314488-razvorot-k-rossii-proval-bolshoj-strojki-chto-pishut-inosmi-o-zelenskom-i-ukraine.html
-	tags zelenskii_vladimir,rossia,zapad
-page
-	url https://strana.ua/news/314551-doktrina-russkij-donbass-chto-v-nej-napisano-o-sudbe-dnr-i-lnr.html
-	tags rossia,donbass
-page
-	url https://strana.ua/news/188082-vasilij-lanovoj-umer-biohrafija-filmy-foto-prichina-smerti.html
-	tags lanovoi_vasilii,smert,sssr
-page
-	url https://strana.ua/news/314694-slepakov-stikh-o-protestakh-navalnoho-v-instahram-vyzval-travlju-poeta.html
-	tags slepakov_semen,navalny,poezia
-	redo 1
-page
-	url https://zaxid.net/vidpovidalne_liderstvo_n1513613
-	tags ukraina,lider,mysli
-page
-	url https://lenta.ru/photo/2021/01/29/lanovoy/
-	tags lanovoi_vasilii,smert,sssr
-page
-	url https://lenta.ru/articles/2021/01/28/netherlands_protests/
-	tags nederland,protests
-page
-	url https://lenta.ru/news/2021/01/29/sideeffects/
-	tags serbia,sputnik_v,covid,vaccine,pfizer
-page
-	url https://lenta.ru/articles/2021/01/18/komms_africa/
-	tags afrika,sssr,kommunizm
-page
-	url https://lenta.ru/articles/2021/01/29/sexprosvet/
-	tags podrostki,rossia,seks
-page
-	url https://from-ua.com/articles/585098-eto-zakon-o-yazike-ili-yazikovaya-provokaciya.html
-	tags mova,ukraina
-page
-	url https://plus.obozrevatel.com/crime/umerla-pod-stenami-bolnitsyi-na-kievschine-tak-i-ne-rassleduyut-delo-o-smerti-patsientki.htm
-	tags kiev,medicine,smert,gonchar_svetlana,bojarka
-page
-	url https://news.obozrevatel.com/society/na-kievschine-zhenschina-umerla-pod-stenami-reanimatsii-kuda-ee-ne-prinyali-iz-za-nehvatki-mest-eksklyuziv.htm
-	tags smert,gonchar_svetlana,kiev,bojarka
+	#fail 1
+#page
+	#url https://strana.ua/news/314488-razvorot-k-rossii-proval-bolshoj-strojki-chto-pishut-inosmi-o-zelenskom-i-ukraine.html
+	#tags zelenskii_vladimir,rossia,zapad
+#page
+	#url https://strana.ua/news/314551-doktrina-russkij-donbass-chto-v-nej-napisano-o-sudbe-dnr-i-lnr.html
+	#tags rossia,donbass
+#page
+	#url https://strana.ua/news/188082-vasilij-lanovoj-umer-biohrafija-filmy-foto-prichina-smerti.html
+	#tags lanovoi_vasilii,smert,sssr
+#page
+	#url https://strana.ua/news/314694-slepakov-stikh-o-protestakh-navalnoho-v-instahram-vyzval-travlju-poeta.html
+	#tags slepakov_semen,navalny,poezia
+	#redo 1
+#page
+	#url https://zaxid.net/vidpovidalne_liderstvo_n1513613
+	#tags ukraina,lider,mysli
+#page
+	#url https://lenta.ru/photo/2021/01/29/lanovoy/
+	#tags lanovoi_vasilii,smert,sssr
+#page
+	#url https://lenta.ru/articles/2021/01/28/netherlands_protests/
+	#tags nederland,protests
+#page
+	#url https://lenta.ru/news/2021/01/29/sideeffects/
+	#tags serbia,sputnik_v,covid,vaccine,pfizer
+#page
+	#url https://lenta.ru/articles/2021/01/18/komms_africa/
+	#tags afrika,sssr,kommunizm
+#page
+	#url https://lenta.ru/articles/2021/01/29/sexprosvet/
+	#tags podrostki,rossia,seks
+#page
+	#url https://from-ua.com/articles/585098-eto-zakon-o-yazike-ili-yazikovaya-provokaciya.html
+	#tags mova,ukraina
+#page
+	#url https://plus.obozrevatel.com/crime/umerla-pod-stenami-bolnitsyi-na-kievschine-tak-i-ne-rassleduyut-delo-o-smerti-patsientki.htm
+	#tags kiev,medicine,smert,gonchar_svetlana,bojarka
+#page
+	#url https://news.obozrevatel.com/society/na-kievschine-zhenschina-umerla-pod-stenami-reanimatsii-kuda-ee-ne-prinyali-iz-za-nehvatki-mest-eksklyuziv.htm
+	#tags smert,gonchar_svetlana,kiev,bojarka
 page
 	url https://news.obozrevatel.com/show/people/vasilij-lanovoj-chto-govoril-pro-ukrainu-umer-legenda-rossijskogo-kino.htm
 	tags lanovoi_vasilii,ukraina,rossia

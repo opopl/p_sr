@@ -380,3 +380,18 @@ page
 page
 	url https://lenta.ru/articles/2021/01/29/sexprosvet/
 	tags podrostki,rossia,seks
+page
+	url https://from-ua.com/articles/585098-eto-zakon-o-yazike-ili-yazikovaya-provokaciya.html
+	tags mova,ukraina
+page
+	url https://plus.obozrevatel.com/crime/umerla-pod-stenami-bolnitsyi-na-kievschine-tak-i-ne-rassleduyut-delo-o-smerti-patsientki.htm
+	tags kiev,medicine,smert,gonchar_svetlana,bojarka
+page
+	url https://news.obozrevatel.com/society/na-kievschine-zhenschina-umerla-pod-stenami-reanimatsii-kuda-ee-ne-prinyali-iz-za-nehvatki-mest-eksklyuziv.htm
+	tags smert,gonchar_svetlana,kiev,bojarka
+page
+	url https://news.obozrevatel.com/show/people/vasilij-lanovoj-chto-govoril-pro-ukrainu-umer-legenda-rossijskogo-kino.htm
+	tags lanovoi_vasilii,ukraina,rossia
+page
+	url https://plus.obozrevatel.com/crime/donbass-propagandist-babayan-pokazal-razruhu-v-donetske-foto.htm
+	tags donbass,vojna

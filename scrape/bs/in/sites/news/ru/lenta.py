@@ -41,9 +41,10 @@ class PageParser(RootPageParser):
 
     u = util.url_parse(url)
 
-    parts = u.path.split('/')
+    path = u['path']
+    parts = path.split('/')
 
-    f = filter(lambda x: len(x) > 0, u.path.split('/') )
+    f = filter(lambda x: len(x) > 0, path.split('/') )
     parts = list(f)
 
     if len(parts) > 3:

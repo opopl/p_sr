@@ -974,6 +974,24 @@ page
 page
 	set url https://strana.ua/news/314910-twitter-zablokiroval-akkaunt-semena-slepakova-.html
 	set tags twitter,slepakov_semen,rossia,protests,poezia
+page
+	set url https://strana.ua/articles/special/314823-serhej-korolev-ukrainskij-ili-sovetskij-konstruktor-raket-ukrainskij-ilon-mask.html
+	set tags korolev_sergei,zhitomir,mask_ilon
+page
+	set url https://strana.ua/news/314908-v-selakh-chernovitskoj-oblasti-ljudi-protestujut-protiv-povyshenija-tarifov-zhkkh.html
+	set tags tarify,protests,chernovcy
+page
+	set url https://strana.ua/news/314519-v-kieve-aktsija-protesta-fopov-blokirovala-dvizhenie-v-tsentre-stolitsy.html
+	set tags usa_embassy,tarify,protests,kiev
+page
+	set url https://strana.ua/news/314760-delo-sternenko-pochemu-odesskij-sud-otpustil-obvinjaemoho-v-ubijstve-na-svobodu.html
+	set tags sternenko,sud,kiev
+page
+	set url https://strana.ua/news/314871-v-fevrale-ukraina-poluchit-vaktsinu-pfizer.html
+	set tags covid,vaccine,pfizer,covax,ukraina,ljashko_viktor
+page
+	set url https://strana.ua/news/314306-mitinh-31-janvarja-2021-moskva-karta-vo-skolko-shestvie-na-lubjanskoj-i-staroj-ploshchadi-hlavnye-novosti.html
+	set tags navalny,moskva,putin,protests
 off
 page
 	set url <++>

@@ -942,23 +942,39 @@ page
 page
 	set url https://from-ua.com/articles/585098-eto-zakon-o-yazike-ili-yazikovaya-provokaciya.html
 	set tags mova,ukraina
+off
 page
 	set url https://plus.obozrevatel.com/crime/umerla-pod-stenami-bolnitsyi-na-kievschine-tak-i-ne-rassleduyut-delo-o-smerti-patsientki.htm
 	set tags kiev,medicine,smert,gonchar_svetlana,bojarka
+	set redo 2
 page
 	set url https://news.obozrevatel.com/society/na-kievschine-zhenschina-umerla-pod-stenami-reanimatsii-kuda-ee-ne-prinyali-iz-za-nehvatki-mest-eksklyuziv.htm
 	set tags smert,gonchar_svetlana,kiev,bojarka
-on
-global
-	set redo 3
+	set redo 1
 	setlist acts
+		fetch
+		get_img
+		db_update
+		aa
+global
+   # set redo 1
+	#listpush acts
 		#fetch
 		#get_img
 		#db_update
 		#<++>
+on
 page
 	set url https://news.obozrevatel.com/show/people/vasilij-lanovoj-chto-govoril-pro-ukrainu-umer-legenda-rossijskogo-kino.htm
 	set tags lanovoi_vasilii,ukraina,rossia
 page
 	set url https://plus.obozrevatel.com/crime/donbass-propagandist-babayan-pokazal-razruhu-v-donetske-foto.htm
 	set tags donbass,vojna
+	set redo 1
+page
+	set url https://strana.ua/news/314910-twitter-zablokiroval-akkaunt-semena-slepakova-.html
+	set tags twitter,slepakov_semen,rossia,protests,poezia
+off
+page
+	set url <++>
+	set tags <++>

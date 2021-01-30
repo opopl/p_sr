@@ -344,11 +344,11 @@
 #page
 	#url https://pravoslavie.ru/51099.html
 	#tags rasskaz
-#page
-	#url https://pravoslavie.ru/50935.html
-	#tags chelovek,mysli
-	#redo 1
-	#fail 1
+page
+	url https://pravoslavie.ru/50935.html
+	tags chelovek,mysli
+	redo 1
+	fail 1
 #page
 	#url https://strana.ua/news/314488-razvorot-k-rossii-proval-bolshoj-strojki-chto-pishut-inosmi-o-zelenskom-i-ukraine.html
 	#tags zelenskii_vladimir,rossia,zapad

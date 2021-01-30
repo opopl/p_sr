@@ -1,969 +1,969 @@
 off
 page 
-	url https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
-	ii sternenko_mova_odessa
+	set url https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
+	set ii sternenko_mova_odessa
 page 
-	url https://strana.ua/news/312717-peskov-prokommentiroval-situatsiju-s-navalnym.html 
-	ii peskov_comment_navalny 
+	set url https://strana.ua/news/312717-peskov-prokommentiroval-situatsiju-s-navalnym.html 
+	set ii peskov_comment_navalny 
 page 
-	url https://kiev.strana.ua/312720-andrej-medvedko-zajavil-chto-pravye-khoteli-sorvat-antifashistskuju-aktsiju-v-kieve.html
-	ii antifashist_buzina_medvedko_kiev 
+	set url https://kiev.strana.ua/312720-andrej-medvedko-zajavil-chto-pravye-khoteli-sorvat-antifashistskuju-aktsiju-v-kieve.html
+	set ii antifashist_buzina_medvedko_kiev 
 page 
-	url https://www.radiosvoboda.org/a/unr-rosiyski-pysmennyky-pro-ukrayinsku-revolutsiyu/31049662.html
-	ii unr_rossia_ukr_revolucia
+	set url https://www.radiosvoboda.org/a/unr-rosiyski-pysmennyky-pro-ukrayinsku-revolutsiyu/31049662.html
+	set ii unr_rossia_ukr_revolucia
 page
-	url https://strana.ua/articles/interview/312709-maksim-stepanov-v-intervju-rasskazal-o-planakh-otmenit-karantin-v-ukraine-uzhe-letom-2021.html
-	ii stepanov_interview_vaccinacia
+	set url https://strana.ua/articles/interview/312709-maksim-stepanov-v-intervju-rasskazal-o-planakh-otmenit-karantin-v-ukraine-uzhe-letom-2021.html
+	set ii stepanov_interview_vaccinacia
 page
-	url https://strana.ua/news/312672-inauhuratsija-bajdena-kohda-vo-skolko-hde-smotret-mery-bezopasnosti-v-vashinhtone-koho-prihlasili.html
-	ii biden_inauguracia_vojska
+	set url https://strana.ua/news/312672-inauhuratsija-bajdena-kohda-vo-skolko-hde-smotret-mery-bezopasnosti-v-vashinhtone-koho-prihlasili.html
+	set ii biden_inauguracia_vojska
 page 
-	url https://strana.ua/news/312907-rfpi-podal-zajavku-na-rehistratsiju-sputnika-v-v-evrosojuze.html
-	date 20_01_2021
-	ii rossia_vaccine_eu_registration
+	set url https://strana.ua/news/312907-rfpi-podal-zajavku-na-rehistratsiju-sputnika-v-v-evrosojuze.html
+	set date 20_01_2021
+	set ii rossia_vaccine_eu_registration
 page
-	url https://strana.ua/news/312690-ukrainskie-zvezdy-i-politiki-risknuli-okunutsja-v-prorub-na-kreshchenie.html
-	date 19_01_2021
-	ii kreschenije_prorub_rossia_ukraina
+	set url https://strana.ua/news/312690-ukrainskie-zvezdy-i-politiki-risknuli-okunutsja-v-prorub-na-kreshchenie.html
+	set date 19_01_2021
+	set ii kreschenije_prorub_rossia_ukraina
 page 
-	url https://strana.ua/news/312738-mitinh-antifashistov-iz-studrespubliki-v-kieve-sehodnja-uchastnikov-zaderzhali-na-viknjanskoho-napal-karas.html
-	date 19_01_2021
-	ii kiev_antifascists_mitinh
+	set url https://strana.ua/news/312738-mitinh-antifashistov-iz-studrespubliki-v-kieve-sehodnja-uchastnikov-zaderzhali-na-viknjanskoho-napal-karas.html
+	set date 19_01_2021
+	set ii kiev_antifascists_mitinh
 page 
-	url https://strana.ua/opinions/312924-problema-movnoj-inkvizitsii-sozdana-absoljutno-iskustvenno.html
-	date 21_01_2021
-	ii opinion_mova
+	set url https://strana.ua/opinions/312924-problema-movnoj-inkvizitsii-sozdana-absoljutno-iskustvenno.html
+	set date 21_01_2021
+	set ii opinion_mova
 page 
-	url https://news.obozrevatel.com/ukr/society/blogerka-yaka-vibrala-na-majdani-rosiyu-obizvala-ofitsera-zsu-ganboyu-armii-i-zibralasya-v-sud-video.htm
-	date 19_01_2021
-	ii blogerka_kiev_video_di_rubens
+	set url https://news.obozrevatel.com/ukr/society/blogerka-yaka-vibrala-na-majdani-rosiyu-obizvala-ofitsera-zsu-ganboyu-armii-i-zibralasya-v-sud-video.htm
+	set date 19_01_2021
+	set ii blogerka_kiev_video_di_rubens
 page 
-	url https://news.obozrevatel.com/society/bloger-iz-kieva-nazvala-rossiyu-lyubimoj-stranoj-na-allee-nebesnoj-sotni-video.htm
-	date 14_01_2021
-	ii video_kiev_di_rubens_kiev_rossia
+	set url https://news.obozrevatel.com/society/bloger-iz-kieva-nazvala-rossiyu-lyubimoj-stranoj-na-allee-nebesnoj-sotni-video.htm
+	set date 14_01_2021
+	set ii video_kiev_di_rubens_kiev_rossia
 page 
-	url https://gazeta.ua/articles/life/_ak-lvivyani-kupayutsya-na-vodohresche-v-moroz-i-karantin/1009283
-	date 19_01_2021
-	ii lvov_kreschenije
+	set url https://gazeta.ua/articles/life/_ak-lvivyani-kupayutsya-na-vodohresche-v-moroz-i-karantin/1009283
+	set date 19_01_2021
+	set ii lvov_kreschenije
 page 
-	url https://strana.ua/opinions/312869-jazyk-u-nas-prodolzhaet-sluzhit-instrumentom-razdelenija-a-ne-obedinenija.html
-	date 20_01_2021
-	ii rus_mova
+	set url https://strana.ua/opinions/312869-jazyk-u-nas-prodolzhaet-sluzhit-instrumentom-razdelenija-a-ne-obedinenija.html
+	set date 20_01_2021
+	set ii rus_mova
 page 
-	url https://strana.ua/news/312899-v-ukraine-ptsu-pytalas-zapretit-kreshchenskie-kupanija-nazyvaja-ikh-moskovskoj-traditsiej.html
-	date 20_01_2021
-	author_id kopytko_anna
-	ii pcu_kreschenie_kupanie
+	set url https://strana.ua/news/312899-v-ukraine-ptsu-pytalas-zapretit-kreshchenskie-kupanija-nazyvaja-ikh-moskovskoj-traditsiej.html
+	set date 20_01_2021
+	set author_id kopytko_anna
+	set ii pcu_kreschenie_kupanie
 page 
-	url https://strana.ua/news/312887-inauhuratsija-bajdena-v-ssha-onlajn-novosti-foto-i-video.html
-	date 20_01_2021
-	ii usa_baiden_inauguration
+	set url https://strana.ua/news/312887-inauhuratsija-bajdena-v-ssha-onlajn-novosti-foto-i-video.html
+	set date 20_01_2021
+	set ii usa_baiden_inauguration
 page 
-	url https://strana.ua/news/312554-zakon-ob-ukrainizatsii-reaktsija-odessitov-opros-antoniny-belohlazovoj.html
-	date 19_01_2021
-	author_id beloglazova_antonina
-	ii privoz_ukrainizacia_odessa
+	set url https://strana.ua/news/312554-zakon-ob-ukrainizatsii-reaktsija-odessitov-opros-antoniny-belohlazovoj.html
+	set date 19_01_2021
+	set author_id beloglazova_antonina
+	set ii privoz_ukrainizacia_odessa
 page 
-	url https://www.vesti.ru/article/2513136
-	date 21_01_2021
-	ii sputnik_vaccine_vengria
+	set url https://www.vesti.ru/article/2513136
+	set date 21_01_2021
+	set ii sputnik_vaccine_vengria
 page 
-	url https://vz.ru/news/2021/1/21/1081174.html
-	date 21_01_2021
-	ii di_rubens_ukraina_rossia
+	set url https://vz.ru/news/2021/1/21/1081174.html
+	set date 21_01_2021
+	set ii di_rubens_ukraina_rossia
 page 
-	url https://strana.ua/news/313051-ofitser-vsu-shtirlits-objavil-borbu-protiv-blohershi-dirubens-za-rolik-v-tiktok-.html
-	date 21_01_2021
-	ii di_rubens
+	set url https://strana.ua/news/313051-ofitser-vsu-shtirlits-objavil-borbu-protiv-blohershi-dirubens-za-rolik-v-tiktok-.html
+	set date 21_01_2021
+	set ii di_rubens
 page 
-	url https://strana.ua/news/303370-pevitsa-kira-mazur-popala-v-jazykovoj-skandal-.html 
-	date 27_11_2020
-	ii kira_mazur_eurovision
-	tags mova
+	set url https://strana.ua/news/303370-pevitsa-kira-mazur-popala-v-jazykovoj-skandal-.html 
+	set date 27_11_2020
+	set ii kira_mazur_eurovision
+	set tags mova
 page 
-	url https://strana.ua/news/225176-marharita-pasha-v-seti-razhorelsja-jazykovoj-skandal-iz-za-miss-ukraina-2019.html
-	date 01_10_2019
-	ii mova_scandal_miss_ukraina
-	tags mova
+	set url https://strana.ua/news/225176-marharita-pasha-v-seti-razhorelsja-jazykovoj-skandal-iz-za-miss-ukraina-2019.html
+	set date 01_10_2019
+	set ii mova_scandal_miss_ukraina
+	set tags mova
 page 
-	url https://www.radiosvoboda.org/a/photo-v-krymu-startovala-vaktsinatsiya-covid-19/31061338.html
-	date 21_01_2021
-	ii vaccine_krym
+	set url https://www.radiosvoboda.org/a/photo-v-krymu-startovala-vaktsinatsiya-covid-19/31061338.html
+	set date 21_01_2021
+	set ii vaccine_krym
 page 
-	url https://www.radiosvoboda.org/a/rozkurkulennya-istorii-rodiv/31060786.html
-	date 21_01_2021
-	ii ussr_rozkurkulennja
-	tags istoria,ussr,kollektivizacia
+	set url https://www.radiosvoboda.org/a/rozkurkulennya-istorii-rodiv/31060786.html
+	set date 21_01_2021
+	set ii ussr_rozkurkulennja
+	set tags istoria,ussr,kollektivizacia
 page 
-	url https://www.radiosvoboda.org/a/agatangelu-krymskomu-150-poliglot-shodoznavets/31047686.html
-	date 15_01_2021
-	ii agatangel_krymskii_150
-	tags krymskii_agatangel
+	set url https://www.radiosvoboda.org/a/agatangelu-krymskomu-150-poliglot-shodoznavets/31047686.html
+	set date 15_01_2021
+	set ii agatangel_krymskii_150
+	set tags krymskii_agatangel
 page 
-	url https://strana.ua/news/313136-bajden-i-ukraina-jatsenjuk-i-turchinov-publikujut-obshchee-foto-zelenskij-i-ermak-pozdravljut-prezidenta-ssha.html
-	date 21_01_2021
-	ii baiden_i_ukraina
+	set url https://strana.ua/news/313136-bajden-i-ukraina-jatsenjuk-i-turchinov-publikujut-obshchee-foto-zelenskij-i-ermak-pozdravljut-prezidenta-ssha.html
+	set date 21_01_2021
+	set ii baiden_i_ukraina
 page
-	url https://odessa.strana.ua/313112-dvojnoe-ubijstvo-v-odesse-v-politsii-rasskazali-podrobnosti-intsidenta.html
-	date 21_01_2021
-	ii bog_ubijstvo_odessa
+	set url https://odessa.strana.ua/313112-dvojnoe-ubijstvo-v-odesse-v-politsii-rasskazali-podrobnosti-intsidenta.html
+	set date 21_01_2021
+	set ii bog_ubijstvo_odessa
 page 
-	url http://antifashist.com/item/arestovich-nazval-cheloveka-kotoryj-smozhet-primirit-ukrainu-i-rossiyu-za-odin-den.html
-	date 21_01_2021
-	title Арестович назвал человека, который сможет примирить Украину и Россию за один день
-	ii arestovich_rossia_ukraina_pomiritca
+	set url http://antifashist.com/item/arestovich-nazval-cheloveka-kotoryj-smozhet-primirit-ukrainu-i-rossiyu-za-odin-den.html
+	set date 21_01_2021
+	set title Арестович назвал человека, который сможет примирить Украину и Россию за один день
+	set ii arestovich_rossia_ukraina_pomiritca
 page 
-	url https://www.obozrevatel.com/tv/vozmozhno-li-pomiritsya-s-russkimi-za-odin-den.htm
-	date 21_01_2021
-	ii arestovich_mir_rossia_ukraina_opros
+	set url https://www.obozrevatel.com/tv/vozmozhno-li-pomiritsya-s-russkimi-za-odin-den.htm
+	set date 21_01_2021
+	set ii arestovich_mir_rossia_ukraina_opros
 page 
-	url http://day.kyiv.ua/uk/blog/kultura/ne-rosiya
-	date 20_01_2021
-	ii ukraina_ne_rosia_tochno
+	set url http://day.kyiv.ua/uk/blog/kultura/ne-rosiya
+	set date 20_01_2021
+	set ii ukraina_ne_rosia_tochno
 page 
-	url https://strana.ua/news/313223-pozhar-v-kharkove-kak-shorel-dom-prestarelykh-i-kto-eho-vladelets.html
-	date 21_01_2021
-	ii odessa_dom_prestarelyh
+	set url https://strana.ua/news/313223-pozhar-v-kharkove-kak-shorel-dom-prestarelykh-i-kto-eho-vladelets.html
+	set date 21_01_2021
+	set ii odessa_dom_prestarelyh
 page 
-	url https://strana.ua/news/313190-mitinh-23-janvarja-2021-i-bunt-v-tiktoke-chto-izvestno-ob-aktsii-v-podderzhku-navalnoho.html
-	date 22_01_2021
-	ii rossia_maidan_navalny_deti
+	set url https://strana.ua/news/313190-mitinh-23-janvarja-2021-i-bunt-v-tiktoke-chto-izvestno-ob-aktsii-v-podderzhku-navalnoho.html
+	set date 22_01_2021
+	set ii rossia_maidan_navalny_deti
 page 
-	url https://strana.ua/news/313303-15-pohibshikh-v-kharkove-den-bajdena-po-ukrainski-ofitser-protiv-blohera.html
-	date 22_01_2021
-	ii itogi_prognozy 
+	set url https://strana.ua/news/313303-15-pohibshikh-v-kharkove-den-bajdena-po-ukrainski-ofitser-protiv-blohera.html
+	set date 22_01_2021
+	set ii itogi_prognozy 
 page 
-	url https://strana.ua/news/313135-navalnyj-i-ukraina-chto-hovorjat-politiki-i-zhurnalisty.html
-	date 21_01_2021
-	ii navalny_furer_molodoi
+	set url https://strana.ua/news/313135-navalnyj-i-ukraina-chto-hovorjat-politiki-i-zhurnalisty.html
+	set date 21_01_2021
+	set ii navalny_furer_molodoi
 page 
-	url https://strana.ua/news/313196-uchebniki-istorii-ukrainy-za-5-11-klass-peresmotrjat-iz-za-klevety-na-berkut.html
-	date 21_01_2021
-	ii sud_kleveta_berkut_portnov_istoria
+	set url https://strana.ua/news/313196-uchebniki-istorii-ukrainy-za-5-11-klass-peresmotrjat-iz-za-klevety-na-berkut.html
+	set date 21_01_2021
+	set ii sud_kleveta_berkut_portnov_istoria
 page 
-	url https://strana.ua/news/250376-kto-ubival-ljudej-na-majdane-20-fevralja-2014-hoda-dokumenty-sledstvija.html
-	date 18_02_2020
-	ii kto_ubival_maidan
+	set url https://strana.ua/news/250376-kto-ubival-ljudej-na-majdane-20-fevralja-2014-hoda-dokumenty-sledstvija.html
+	set date 18_02_2020
+	set ii kto_ubival_maidan
 page 
-	url https://kiev.strana.ua/313346-na-pecherske-izbili-zhurnalistov-radio-svoboda.html
-	date 22_01_2020
-	ii kiev_izbili_radiosvoboda
+	set url https://kiev.strana.ua/313346-na-pecherske-izbili-zhurnalistov-radio-svoboda.html
+	set date 22_01_2020
+	set ii kiev_izbili_radiosvoboda
 page 
-	url https://strana.ua/news/313249-prezident-arhentiny-fernandes-privilsja-rossijskoj-vaktsinoj-sputnik-v.html
-	date 21_01_2020
-	ii sputnik_vaccine_argentina_prezident
+	set url https://strana.ua/news/313249-prezident-arhentiny-fernandes-privilsja-rossijskoj-vaktsinoj-sputnik-v.html
+	set date 21_01_2020
+	set ii sputnik_vaccine_argentina_prezident
 page 
-	url https://www.radiosvoboda.org/a/archive-photos-zhyvyi-lantsiug-lviv-kyiv/30386492.html
-	date 22_01_2020
-	ii sobornist_1990
+	set url https://www.radiosvoboda.org/a/archive-photos-zhyvyi-lantsiug-lviv-kyiv/30386492.html
+	set date 22_01_2020
+	set ii sobornist_1990
 page 
-	url https://www.radiosvoboda.org/a/den-zagybeli-igorya-branovytskogo/31062163.html
-	date 21_01_2020
-	ii smert_igor_branovystkii_kiborg_2015
+	set url https://www.radiosvoboda.org/a/den-zagybeli-igorya-branovytskogo/31062163.html
+	set date 21_01_2020
+	set ii smert_igor_branovystkii_kiborg_2015
 page
-	url https://gazeta.ua/articles/kiev-life/_skandalna-blogerka-yaka-lyubit-rosiyu-poprosila-dopomogi-v-avakova/1009901
-	date 22_01_2020
-	ii taisia_malaman
+	set url https://gazeta.ua/articles/kiev-life/_skandalna-blogerka-yaka-lyubit-rosiyu-poprosila-dopomogi-v-avakova/1009901
+	set date 22_01_2020
+	set ii taisia_malaman
 page
-	url https://www.pravda.com.ua/podcasts/5fee9b842e098/2021/01/1/7278743/
-	date 01_01_2020
-	ii 6_dniv_ukraina
+	set url https://www.pravda.com.ua/podcasts/5fee9b842e098/2021/01/1/7278743/
+	set date 01_01_2020
+	set ii 6_dniv_ukraina
 page 
-	url https://www.pravda.com.ua/news/2021/01/22/7280809/
-	date 22_01_2020
-	ii maidan_krysha_obval
+	set url https://www.pravda.com.ua/news/2021/01/22/7280809/
+	set date 22_01_2020
+	set ii maidan_krysha_obval
 page
-	url https://www.pravda.com.ua/columns/2021/01/22/7280766/
-	date 22_01_2020
-	ii navischo_nam_sobornist
+	set url https://www.pravda.com.ua/columns/2021/01/22/7280766/
+	set date 22_01_2020
+	set ii navischo_nam_sobornist
 page 
-	url https://news.obozrevatel.com/society/svyaschennik-zahariya-kerstyuk-na-stolichnom-vokzale-sotni-bezdomnyih-okazalis-v-rabstve.htm
-	date 22_01_2020
-	ii bomzhy_zaharia_kerstuk_kiev
+	set url https://news.obozrevatel.com/society/svyaschennik-zahariya-kerstyuk-na-stolichnom-vokzale-sotni-bezdomnyih-okazalis-v-rabstve.htm
+	set date 22_01_2020
+	set ii bomzhy_zaharia_kerstuk_kiev
 page 
-	url https://world.fakty.ua/366422-chelovek-ustroil-samosozhzhenie-v-centre-minska
-	date 22_01_2020
-	ii minsk_chelovek_samosozzhenie
+	set url https://world.fakty.ua/366422-chelovek-ustroil-samosozhzhenie-v-centre-minska
+	set date 22_01_2020
+	set ii minsk_chelovek_samosozzhenie
 page 
-	url https://ukrainenews.fakty.ua/365998-general-nazarov-strashno-kogda-v-rodnoj-strane-za-spinoj-bolshe-vragov-chem-vidish-pered-soboj
-	date 18_01_2021
-	ii general_nazarov_vragi
+	set url https://ukrainenews.fakty.ua/365998-general-nazarov-strashno-kogda-v-rodnoj-strane-za-spinoj-bolshe-vragov-chem-vidish-pered-soboj
+	set date 18_01_2021
+	set ii general_nazarov_vragi
 page 
-	url https://society.fakty.ua/366376-posle-stychki-so-shtirlicem-oskandalivshayasya-blogersha-poprosila-zacshity-u-avakova
-	date 21_01_2021
-	ii taisia_malaman
+	set url https://society.fakty.ua/366376-posle-stychki-so-shtirlicem-oskandalivshayasya-blogersha-poprosila-zacshity-u-avakova
+	set date 21_01_2021
+	set ii taisia_malaman
 page 
-	url http://lug-info.com/news/one/studenty-skulptory-kolledzha-lgaki-sozdali-v-luganske-alleyu-snezhnykh-figur-foto-63890
-	date 21_01_2021
-	ii lugansk_sneg_figury
+	set url http://lug-info.com/news/one/studenty-skulptory-kolledzha-lgaki-sozdali-v-luganske-alleyu-snezhnykh-figur-foto-63890
+	set date 21_01_2021
+	set ii lugansk_sneg_figury
 page 
-	url http://lug-info.com/news/one/zaschitniki-lnr-na-kreschenie-okunulis-v-prudu-u-khrama-georgiya-pobedonostsa-v-alchevske-foto-63806
-	date 19_01_2021
-	ii kreschenie_voda_kupel_zaschitniki_lnr
+	set url http://lug-info.com/news/one/zaschitniki-lnr-na-kreschenie-okunulis-v-prudu-u-khrama-georgiya-pobedonostsa-v-alchevske-foto-63806
+	set date 19_01_2021
+	set ii kreschenie_voda_kupel_zaschitniki_lnr
 page 
-	url https://strana.ua/news/313145-blohershu-onatskuju-zatravili-za-zhelanie-poekhat-v-rossiju-podrobnosti-skandala.html
-	date 22_01_2021
-	ii nazis_ischut_blogerov
+	set url https://strana.ua/news/313145-blohershu-onatskuju-zatravili-za-zhelanie-poekhat-v-rossiju-podrobnosti-skandala.html
+	set date 22_01_2021
+	set ii nazis_ischut_blogerov
 page 
-	url https://strana.ua/news/313190-mitinh-23-janvarja-2021-i-bunt-v-tiktoke-chto-izvestno-ob-aktsii-v-podderzhku-navalnoho.html
-	date 22_01_2021
-	ii tik_tok_maidan_rossia_deti
+	set url https://strana.ua/news/313190-mitinh-23-janvarja-2021-i-bunt-v-tiktoke-chto-izvestno-ob-aktsii-v-podderzhku-navalnoho.html
+	set date 22_01_2021
+	set ii tik_tok_maidan_rossia_deti
 page 
-	url https://strana.ua/news/313388-ukrainskie-kursantki-snjali-tiktok-s-rossijskim-politsiejskim-video.html
-	date 22_01_2021
-	ii sternenko_police_kursantki_tiktok
+	set url https://strana.ua/news/313388-ukrainskie-kursantki-snjali-tiktok-s-rossijskim-politsiejskim-video.html
+	set date 22_01_2021
+	set ii sternenko_police_kursantki_tiktok
 page 
-	url https://strana.ua/news/313039-ot-tiktok-trebujut-prekratit-rasprostranjat-prizyvy-k-uchastiju-detej-v-aktsijakh-za-navalnoho.html
-	date 20_01_2021
-	ii rossia_tiktok_vkontakte_zaprety
+	set url https://strana.ua/news/313039-ot-tiktok-trebujut-prekratit-rasprostranjat-prizyvy-k-uchastiju-detej-v-aktsijakh-za-navalnoho.html
+	set date 20_01_2021
+	set ii rossia_tiktok_vkontakte_zaprety
 page 
-	url https://strana.ua/news/313493-posolstvo-ssha-v-rossii-mesta-provedenija-aktsij-v-podderzhku-navalnoho.html
-	date 22_01_2021
-	ii posolstvo_usa_navalny_akcii_publikacia
+	set url https://strana.ua/news/313493-posolstvo-ssha-v-rossii-mesta-provedenija-aktsij-v-podderzhku-navalnoho.html
+	set date 22_01_2021
+	set ii posolstvo_usa_navalny_akcii_publikacia
 page
-	url https://strana.ua/articles/305286-strana-vyjasnila-kak-konfety-iz-rossii-zapolonili-ukrainskie-prilavki.html
-	ii konfety_rossia
+	set url https://strana.ua/articles/305286-strana-vyjasnila-kak-konfety-iz-rossii-zapolonili-ukrainskie-prilavki.html
+	set ii konfety_rossia
 #reparse: 1
 page
-	url https://strana.ua/news/313627-25-janvarja-na-den-rozhdenija-zelenskoho-v-ukraine-projdet-tarifnyj-majdan.html
-	ii tarifnii_maidan_zelja
+	set url https://strana.ua/news/313627-25-janvarja-na-den-rozhdenija-zelenskoho-v-ukraine-projdet-tarifnyj-majdan.html
+	set ii tarifnii_maidan_zelja
 page 
-	url https://strana.ua/articles/analysis/311296-rost-kommunalnykh-tarifov-chem-zakonchatsja-aktsii-protesta-v-rehionakh.html
-	ii tarify_mvf
+	set url https://strana.ua/articles/analysis/311296-rost-kommunalnykh-tarifov-chem-zakonchatsja-aktsii-protesta-v-rehionakh.html
+	set ii tarify_mvf
 page
-	url https://strana.ua/news/311321-foto-mertvykh-zhuravlej-kotorye-pohibli-v-zapovednike-askanija-nova.html
-	ii askania_nova_zhuravli_gibel'
+	set url https://strana.ua/news/311321-foto-mertvykh-zhuravlej-kotorye-pohibli-v-zapovednike-askanija-nova.html
+	set ii askania_nova_zhuravli_gibel'
 page 
-	url https://strana.ua/news/313438-mitinh-23-janvarja-2021-v-podderzhku-navalnoho-prjamaja-transljatsija-iz-moskvy-poslednie-novosti.html
-	ii navalny_akcii
-	tags navalny
-	acts|list|
+	set url https://strana.ua/news/313438-mitinh-23-janvarja-2021-v-podderzhku-navalnoho-prjamaja-transljatsija-iz-moskvy-poslednie-novosti.html
+	set ii navalny_akcii
+	set tags navalny
+	set acts|list|
 		fetch
 		no_img
 		db_update
 page 
-	url https://strana.ua/news/313595-moskva-mitinhi-v-rossii-za-navalnoho-23-janvarja-hlavnye-vyvody.html
-	ii navalny_deti
+	set url https://strana.ua/news/313595-moskva-mitinhi-v-rossii-za-navalnoho-23-janvarja-hlavnye-vyvody.html
+	set ii navalny_deti
 page 
-	url https://strana.ua/articles/istorii/307269-stepan-bandera-i-varshavskij-protsess-za-chto-sudili-budushcheho-lidera-oun.html
-	ii bandera_varshava_process
-	tags bandera
+	set url https://strana.ua/articles/istorii/307269-stepan-bandera-i-varshavskij-protsess-za-chto-sudili-budushcheho-lidera-oun.html
+	set ii bandera_varshava_process
+	set tags bandera
 page 
-	url https://strana.ua/news/302276-avtor-novoho-bolshoho-herba-ukrainy-ranshe-risoval-karikatury-na-ukraintsev-i-amerikantsev.html
-	ii hudozhnik_bolshoi_gerb_ukrainy
-	tags art
+	set url https://strana.ua/news/302276-avtor-novoho-bolshoho-herba-ukrainy-ranshe-risoval-karikatury-na-ukraintsev-i-amerikantsev.html
+	set ii hudozhnik_bolshoi_gerb_ukrainy
+	set tags art
 page
-	url https://strana.ua/news/301910-konkurs-na-luchshij-eskiz-bolshoho-hosudarstvennoho-herba.html
-	ii ukraina_gerb_project
-	tags ukraina_gerb
+	set url https://strana.ua/news/301910-konkurs-na-luchshij-eskiz-bolshoho-hosudarstvennoho-herba.html
+	set ii ukraina_gerb_project
+	set tags ukraina_gerb
 page 
-	url https://kiev.strana.ua/313647-vozle-posolstva-rossii-v-kieve-mitinhovali-v-podderzhku-navalnoho-23-janvarja.html
-	ii rossia_posolstvo_kiev_navalny_akcia
-	tags navalny,kiev,rossia
+	set url https://kiev.strana.ua/313647-vozle-posolstva-rossii-v-kieve-mitinhovali-v-podderzhku-navalnoho-23-janvarja.html
+	set ii rossia_posolstvo_kiev_navalny_akcia
+	set tags navalny,kiev,rossia
 page 
-	url https://strana.ua/news/284775-maksim-tkachuk-ne-edet-na-detskoe-evrovidenie-2020-iz-za-smuhljanki-kak-sirotu-travili-natsionalisty-i-pochemu-notu-ne-dopustila-k-konkursu.html
-	ii maxim_tkachuk_smugljanka_evrovidenie
-	tags tkachuk_maxim
+	set url https://strana.ua/news/284775-maksim-tkachuk-ne-edet-na-detskoe-evrovidenie-2020-iz-za-smuhljanki-kak-sirotu-travili-natsionalisty-i-pochemu-notu-ne-dopustila-k-konkursu.html
+	set ii maxim_tkachuk_smugljanka_evrovidenie
+	set tags tkachuk_maxim
 
 page 
-	url https://strana.ua/news/313353-kakaja-situatsija-v-ssha-pole-izbranija-bajdena-prezidentom-.html
-	ii we_dont_want_baiden
-	tags usa,baiden_joe
+	set url https://strana.ua/news/313353-kakaja-situatsija-v-ssha-pole-izbranija-bajdena-prezidentom-.html
+	set ii we_dont_want_baiden
+	set tags usa,baiden_joe
 page 
-	url https://strana.ua/news/313715-makfol-sravnil-navalnoho-s-mandeloj-i-martinom-ljuterom-kinhom.html
-	ii makfol_navalny
-	tags navalny
+	set url https://strana.ua/news/313715-makfol-sravnil-navalnoho-s-mandeloj-i-martinom-ljuterom-kinhom.html
+	set ii makfol_navalny
+	set tags navalny
 page
-	url https://strana.ua/news/313661-mitinhi-v-moskve-za-navalnoho-reaktsija-v-ukraine.html
-	ii ukraina_comments_navalny_razvedka
-	tags navalny
+	set url https://strana.ua/news/313661-mitinhi-v-moskve-za-navalnoho-reaktsija-v-ukraine.html
+	set ii ukraina_comments_navalny_razvedka
+	set tags navalny
 #reparse: 1
 page 
-	url https://strana.ua/news/313728-sluzhba-vneshnej-razvedki-opublikovala-beluju-knihu-v-ukraine.html
-	ii sluzhba_vneshnej_razvedki_belaja_kniga
+	set url https://strana.ua/news/313728-sluzhba-vneshnej-razvedki-opublikovala-beluju-knihu-v-ukraine.html
+	set ii sluzhba_vneshnej_razvedki_belaja_kniga
 page
-	url https://strana.ua/news/236579-elena-lukash-otreahirovala-na-zhelanie-zelenskoho-vstretitsja-so-studentami-majdanovtsami.html
-	ii oni_zhe_dedy_lukash_zelja
+	set url https://strana.ua/news/236579-elena-lukash-otreahirovala-na-zhelanie-zelenskoho-vstretitsja-so-studentami-majdanovtsami.html
+	set ii oni_zhe_dedy_lukash_zelja
 page 
-	url https://strana.ua/news/179965-provokatsiju-pravoho-sektora-u-khrama-upts-v-vinnitse-ostanovili-tysjachi-pravoslavnykh.html
-	ii pravyy_sektor_provokacia_vinnica_upc_hram
+	set url https://strana.ua/news/179965-provokatsiju-pravoho-sektora-u-khrama-upts-v-vinnitse-ostanovili-tysjachi-pravoslavnykh.html
+	set ii pravyy_sektor_provokacia_vinnica_upc_hram
 page 
-	url https://strana.ua/news/310343-na-ivano-frankovshchine-horsovet-prizval-zhitelej-ne-khodit-v-khram-upts-mp.html
-	ii ivano_frankovsk_oblast_upc_gorsovet
-	reparse 1
+	set url https://strana.ua/news/310343-na-ivano-frankovshchine-horsovet-prizval-zhitelej-ne-khodit-v-khram-upts-mp.html
+	set ii ivano_frankovsk_oblast_upc_gorsovet
+	set reparse 1
 page 
-	url https://strana.ua/news/282703-video-opasnykh-oranzhevykh-oblakov-v-nebe-nad-bejrutom-posle-vzryva.html
-	ii beirut_vzryv
+	set url https://strana.ua/news/282703-video-opasnykh-oranzhevykh-oblakov-v-nebe-nad-bejrutom-posle-vzryva.html
+	set ii beirut_vzryv
 page 
-	url https://kharkov.strana.ua/313807-pozhar-v-dome-prestarelykh-v-kharkove-umer-16-j-postradavshij.html
-	ii pozhar_v_dome_starikov_harkov
+	set url https://kharkov.strana.ua/313807-pozhar-v-dome-prestarelykh-v-kharkove-umer-16-j-postradavshij.html
+	set ii pozhar_v_dome_starikov_harkov
 page 
-	url https://strana.ua/news/282552-ukrainskie-diplomaty-ne-postradali-vo-vremja-vzryva-v-portu-bejruta.html
-	ii beirut_ukraina_diplomaty
-	acts|list|
+	set url https://strana.ua/news/282552-ukrainskie-diplomaty-ne-postradali-vo-vremja-vzryva-v-portu-bejruta.html
+	set ii beirut_ukraina_diplomaty
+	set acts|list|
 		no_img
 page 
-	url https://strana.ua/news/313821-ukraina-namerena-otkazatsja-ot-enerhosistem-rossii-i-belarusi.html
-	ii kuleba_energetika_rossia_ukraina
+	set url https://strana.ua/news/313821-ukraina-namerena-otkazatsja-ot-enerhosistem-rossii-i-belarusi.html
+	set ii kuleba_energetika_rossia_ukraina
 page 
-	url https://odessa.strana.ua/313830-morjaki-perekryli-trassu-odessa-kiev.html
-	ii morjaki_odessa_kiev_protest
+	set url https://odessa.strana.ua/313830-morjaki-perekryli-trassu-odessa-kiev.html
+	set ii morjaki_odessa_kiev_protest
 page 
-	url https://strana.ua/news/313840-v-rehionakh-ukrainy-prodolzhajutsja-protestnye-aktsii.html
-	ii tarify_dorogi_protest
-	tags tarify
+	set url https://strana.ua/news/313840-v-rehionakh-ukrainy-prodolzhajutsja-protestnye-aktsii.html
+	set ii tarify_dorogi_protest
+	set tags tarify
 page 
-	url https://strana.ua/news/313799-v-parizhe-izbili-parnja-iz-ukrainy-chto-proizoshlo.html
-	ii ukrainec_podrostok_parizh_bili
+	set url https://strana.ua/news/313799-v-parizhe-izbili-parnja-iz-ukrainy-chto-proizoshlo.html
+	set ii ukrainec_podrostok_parizh_bili
 page 
-	url https://strana.ua/news/313844-v-zhitomire-protestujut-protiv-povyshenija-tarify-mitinhujushchie-vorvalis-v-horsovet.html
-	ii zhitomir_protest_tarify
-	tags tarify
+	set url https://strana.ua/news/313844-v-zhitomire-protestujut-protiv-povyshenija-tarify-mitinhujushchie-vorvalis-v-horsovet.html
+	set ii zhitomir_protest_tarify
+	set tags tarify
 page 
-	url https://strana.ua/news/313851-putin-vpervye-prokommentiroval-film-oppozitsionera-navalnoho.html
-	ii putin_skuchko_devochki
-	tags putin
+	set url https://strana.ua/news/313851-putin-vpervye-prokommentiroval-film-oppozitsionera-navalnoho.html
+	set ii putin_skuchko_devochki
+	set tags putin
 page 
-	url https://strana.ua/news/313720-akkaunt-rohozina-v-facebook-zablokirovali-na-sutki.html
-	ii rogozin_facebook_ban_roskosmos
-	tags navalny,rogozin,roskosmos,facebook
+	set url https://strana.ua/news/313720-akkaunt-rohozina-v-facebook-zablokirovali-na-sutki.html
+	set ii rogozin_facebook_ban_roskosmos
+	set tags navalny,rogozin,roskosmos,facebook
 page 
-	url https://strana.ua/news/313852-protesty-protiv-tarifov-25-janvarja-novosti-video-foto.html
-	ii tarif_maidan
-	tags tarify,ukraina
+	set url https://strana.ua/news/313852-protesty-protiv-tarifov-25-janvarja-novosti-video-foto.html
+	set ii tarif_maidan
+	set tags tarify,ukraina
 page 
-	url https://strana.ua/sport/football/273521-domahoj-vida-skandirovavshij-slava-ukraine-perekhodit-ihrat-v-rossijskij-klub.html
-	ii football_domagoi_vida
-	tags vida_domagoi
+	set url https://strana.ua/sport/football/273521-domahoj-vida-skandirovavshij-slava-ukraine-perekhodit-ihrat-v-rossijskij-klub.html
+	set ii football_domagoi_vida
+	set tags vida_domagoi
 page 
-	url https://strana.ua/news/150715-chm-2018-senator-hosdumy-frants-klintsevich-nazval-khorvatov-predateljami-posle-video-domahoja-vidy-so-slovami-slava-ukraine.html
-	ii domagoi_vida_slava_ukraine
-	tags vida_domagoi,rossia,gosduma
+	set url https://strana.ua/news/150715-chm-2018-senator-hosdumy-frants-klintsevich-nazval-khorvatov-predateljami-posle-video-domahoja-vidy-so-slovami-slava-ukraine.html
+	set ii domagoi_vida_slava_ukraine
+	set tags vida_domagoi,rossia,gosduma
 page 
-	url https://strana.ua/news/150653-slava-ukraine-stranitse-fifa-v-fejsbuk-polzovateli-stavjat-samuju-nizkuju-otsenku.html
-	ii fifa_slava_ukraine
-	tags fifa,ukraina
+	set url https://strana.ua/news/150653-slava-ukraine-stranitse-fifa-v-fejsbuk-polzovateli-stavjat-samuju-nizkuju-otsenku.html
+	set ii fifa_slava_ukraine
+	set tags fifa,ukraina
 page 
-	url https://strana.ua/news/313853-ukraintsy-ne-doverjajut-kitajskoj-vaktsine-i-ne-khotjat-delat-privivki-ot-koronavirusa-opros.html
-	ii opros_kitajskaja_vaccina_6_procentov
-	tags covid_vaccine
+	set url https://strana.ua/news/313853-ukraintsy-ne-doverjajut-kitajskoj-vaktsine-i-ne-khotjat-delat-privivki-ot-koronavirusa-opros.html
+	set ii opros_kitajskaja_vaccina_6_procentov
+	set tags covid_vaccine
 page 
-	url https://strana.ua/news/313849-tarifnyj-majdan-s-plakatami-prishel-pod-ofis-zelenskoho-i-sobiraetsja-k-nemu-na-dachu.html
-	ii tarify_ofis_zelja
-	tags tarify,zelja
+	set url https://strana.ua/news/313849-tarifnyj-majdan-s-plakatami-prishel-pod-ofis-zelenskoho-i-sobiraetsja-k-nemu-na-dachu.html
+	set ii tarify_ofis_zelja
+	set tags tarify,zelja
 page 
-	url https://kiev.strana.ua/313806-politsija-vyvela-v-tsentr-kieva-voennykh-i-kinolohov-v-ozhidanii-shestvija.html
-	ii policia_protest_kinologi
-	tags protest,policia,tarify
+	set url https://kiev.strana.ua/313806-politsija-vyvela-v-tsentr-kieva-voennykh-i-kinolohov-v-ozhidanii-shestvija.html
+	set ii policia_protest_kinologi
+	set tags protest,policia,tarify
 page 
-	url https://kiev.strana.ua/313647-vozle-posolstva-rossii-v-kieve-mitinhovali-v-podderzhku-navalnoho-23-janvarja.html
-	ii rossia_posolstvo_kiev_navalny_akcia
-	tags navalny
+	set url https://kiev.strana.ua/313647-vozle-posolstva-rossii-v-kieve-mitinhovali-v-podderzhku-navalnoho-23-janvarja.html
+	set ii rossia_posolstvo_kiev_navalny_akcia
+	set tags navalny
 page 
-	url https://strana.ua/news/313693-alekhina-i-shtejn-iz-pussy-riot-zaderzhany-v-moskve.html
-	ii pussy_riot_navalny
-	tags navalny,pussy_riot
+	set url https://strana.ua/news/313693-alekhina-i-shtejn-iz-pussy-riot-zaderzhany-v-moskve.html
+	set ii pussy_riot_navalny
+	set tags navalny,pussy_riot
 page 
-	url https://lenta.ru/articles/2021/01/22/naz/
-	ii ukraina_lavra_borsch
-	tags ukraina,rossia,lavra
+	set url https://lenta.ru/articles/2021/01/22/naz/
+	set ii ukraina_lavra_borsch
+	set tags ukraina,rossia,lavra
 page 
-	url https://lenta.ru/news/2020/12/11/borsh_11/
-	ii ukraina_borsch_nasledie_unesco
-	tags borsch_battle,ukraina,rossia,unesco
+	set url https://lenta.ru/news/2020/12/11/borsh_11/
+	set ii ukraina_borsch_nasledie_unesco
+	set tags borsch_battle,ukraina,rossia,unesco
 page 
-	url https://lenta.ru/news/2021/01/25/maidan/
-	ii maidan_tarify_zelja_dacha
-	tags tarify
+	set url https://lenta.ru/news/2021/01/25/maidan/
+	set ii maidan_tarify_zelja_dacha
+	set tags tarify
 page 
-	url https://lenta.ru/photo/2021/01/20/inauguration
-	ii demokratia_torzhestvo
-	tags usa,demokratia
+	set url https://lenta.ru/photo/2021/01/20/inauguration
+	set ii demokratia_torzhestvo
+	set tags usa,demokratia
 page 
-	url https://strana.ua/news/313871-evheniju-bilchenko-trebujut-uvolit-iz-npu-drahomanova-iz-za-movnoho-zakona.html
-	tags bilchenko_evgenia,sternenko
+	set url https://strana.ua/news/313871-evheniju-bilchenko-trebujut-uvolit-iz-npu-drahomanova-iz-za-movnoho-zakona.html
+	set tags bilchenko_evgenia,sternenko
 page 
-	url https://strana.ua/news/313846-zhelanie-poekhat-v-rossiju-eto-zrada-opros-antoniny-belohlazovoj.html
-	tags rossia,ukraina
+	set url https://strana.ua/news/313846-zhelanie-poekhat-v-rossiju-eto-zrada-opros-antoniny-belohlazovoj.html
+	set tags rossia,ukraina
 page 
-	url https://strana.ua/news/313808-kak-zelenskoho-v-sotssetjakh-pozdravljajut.html
-	tags tarify_zelja_dr
+	set url https://strana.ua/news/313808-kak-zelenskoho-v-sotssetjakh-pozdravljajut.html
+	set tags tarify_zelja_dr
 page 
-	url https://strana.ua/news/312143-ukrainizatsija-sfery-usluh-s-16-janvarja-vse-novosti.html
-	tags ukrainizacia
+	set url https://strana.ua/news/312143-ukrainizatsija-sfery-usluh-s-16-janvarja-vse-novosti.html
+	set tags ukrainizacia
 page 
-	url https://strana.ua/articles/analysis/311738-chto-delat-esli-zastavljajut-sobljudat-jazykovoj-zakon.html
-	tags ukrainizacia
+	set url https://strana.ua/articles/analysis/311738-chto-delat-esli-zastavljajut-sobljudat-jazykovoj-zakon.html
+	set tags ukrainizacia
 page 
-	url https://strana.ua/articles/analysis/311844-s-16-janvarja-vvodjat-ukrainizatsiju-sfery-usluh-kak-postupat-s-proverjajushchimi.html
-	tags ukrainizacia
+	set url https://strana.ua/articles/analysis/311844-s-16-janvarja-vvodjat-ukrainizatsiju-sfery-usluh-kak-postupat-s-proverjajushchimi.html
+	set tags ukrainizacia
 page 
-	url https://strana.ua/news/313902-belaja-kniha-sluzhby-vneshnej-razvedki-ukrainy-o-chem-doklad-szr.html
-	tags razvedka
+	set url https://strana.ua/news/313902-belaja-kniha-sluzhby-vneshnej-razvedki-ukrainy-o-chem-doklad-szr.html
+	set tags razvedka
 page 
-	url https://support.apple.com/en-us/HT201548
-	tags macos,pc,admin
+	set url https://support.apple.com/en-us/HT201548
+	set tags macos,pc,admin
 page 
-	url https://lenta.ru/news/2021/01/26/schoolgirl/
-	tags anglia,smert,shkola
+	set url https://lenta.ru/news/2021/01/26/schoolgirl/
+	set tags anglia,smert,shkola
 page 
-	url https://lenta.ru/news/2021/01/26/belorus_shatal/
-	tags belarus,lukashenko,protests
+	set url https://lenta.ru/news/2021/01/26/belorus_shatal/
+	set tags belarus,lukashenko,protests
 page 
-	url https://lenta.ru/articles/2021/01/24/domodedovo/
-	tags domodedovo,terakt,rossia,24_01_2011
+	set url https://lenta.ru/articles/2021/01/24/domodedovo/
+	set tags domodedovo,terakt,rossia,24_01_2011
 page 
-	url https://life.ru/p/1364254
-	tags ukraina,vaccine,covid
+	set url https://life.ru/p/1364254
+	set tags ukraina,vaccine,covid
 page 
-	url https://zaxid.net/vikladachka_kiyivskogo_peduniversitetu_nazvala_ukrayinu_amerikanskoyu_koloniyeyu_n1513487
-	tags bilchenko_evgenia
+	set url https://zaxid.net/vikladachka_kiyivskogo_peduniversitetu_nazvala_ukrayinu_amerikanskoyu_koloniyeyu_n1513487
+	set tags bilchenko_evgenia
 page 
-	url https://zaxid.net/oask_za_pozovom_portnova_zaboroniv_provedennya_zahodiv_na_chest_nizki_ukrayinskih_diyachiv_n1513496
-	tags portnov
+	set url https://zaxid.net/oask_za_pozovom_portnova_zaboroniv_provedennya_zahodiv_na_chest_nizki_ukrayinskih_diyachiv_n1513496
+	set tags portnov
 page 
-	url https://news.obozrevatel.com/kiyany/life/v-seti-pokazali-kak-vyiglyadel-kiev-bolee-100-let-nazad-foto.htm
-	tags kiev,istoria
+	set url https://news.obozrevatel.com/kiyany/life/v-seti-pokazali-kak-vyiglyadel-kiev-bolee-100-let-nazad-foto.htm
+	set tags kiev,istoria
 page 
-	url https://news.obozrevatel.com/kiyany/life/istoriya-bordelej-kieva-izvestnyie-doma-terpimosti-foto.htm
-	tags kiev,istoria,bordeli
-	acts|list|
+	set url https://news.obozrevatel.com/kiyany/life/istoriya-bordelej-kieva-izvestnyie-doma-terpimosti-foto.htm
+	set tags kiev,istoria,bordeli
+	set acts|list|
 		get_img
 		fetch
 		no_img
 page 
-	url https://strana.ua/news/314150-v-zhitomire-proveli-ekskursiju-kartonnomu-ilonu-masku-.html
-	tags mask_ilon,korolev_sergei,zhitomir
+	set url https://strana.ua/news/314150-v-zhitomire-proveli-ekskursiju-kartonnomu-ilonu-masku-.html
+	set tags mask_ilon,korolev_sergei,zhitomir
 page 
-	url https://strana.ua/news/311477-zelenskij-prihlasil-ilona-maska-v-zhitomir.html
-	tags zelenskii_vladimir,mask_ilon,zhitomir
+	set url https://strana.ua/news/311477-zelenskij-prihlasil-ilona-maska-v-zhitomir.html
+	set tags zelenskii_vladimir,mask_ilon,zhitomir
 page 
-	url https://strana.ua/news/280072-ilon-mask-otreahiroval-na-terakt-v-lutske.html
-	tags mask_ilon,terakt,lutsk
+	set url https://strana.ua/news/280072-ilon-mask-otreahiroval-na-terakt-v-lutske.html
+	set tags mask_ilon,terakt,lutsk
 page 
-	url https://strana.ua/news/280066-terakt-v-lutske-krivosh-ne-uhrozhal-zalozhnikam-v-avtobuse.html
-	tags krivosh_maxim,terakt,lutsk
+	set url https://strana.ua/news/280066-terakt-v-lutske-krivosh-ne-uhrozhal-zalozhnikam-v-avtobuse.html
+	set tags krivosh_maxim,terakt,lutsk
 page 
-	url https://strana.ua/news/280060-zelenskij-opublikovavshij-video-o-filme-zemljane-sdelal-vse-pravilno-herashchenko.html
-	tags terakt,lutsk,geraschenko_anton
+	set url https://strana.ua/news/280060-zelenskij-opublikovavshij-video-o-filme-zemljane-sdelal-vse-pravilno-herashchenko.html
+	set tags terakt,lutsk,geraschenko_anton
 page 
-	url https://strana.ua/news/279977-zemljane-film-kotoryj-trebuet-posmotret-maksim-krivosh-zakhvativshij-zalozhnikov-v-lutske.html
-	tags terakt,lutsk,zelenskii,film
+	set url https://strana.ua/news/279977-zemljane-film-kotoryj-trebuet-posmotret-maksim-krivosh-zakhvativshij-zalozhnikov-v-lutske.html
+	set tags terakt,lutsk,zelenskii,film
 page 
-	url https://cairographics.org/download/
-	tags cairo,pc,download
+	set url https://cairographics.org/download/
+	set tags cairo,pc,download
 page 
-	url https://cairosvg.org/documentation/
-	tags pc,python,cairosvg,docs
+	set url https://cairosvg.org/documentation/
+	set tags pc,python,cairosvg,docs
 page 
-	url https://docs.python.org/3/library/datetime.html
-	tags pc,python3,datetime
+	set url https://docs.python.org/3/library/datetime.html
+	set tags pc,python3,datetime
 page 
-	url https://strana.ua/news/311488-bitva-za-koroleva-priedet-li-ilon-mask-v-zhitomir-posle-tvitter-battla-o-velikom-konstruktore.html
-	tags mask_ilon,korolev_sergei,zelenskii_vladimir
+	set url https://strana.ua/news/311488-bitva-za-koroleva-priedet-li-ilon-mask-v-zhitomir-posle-tvitter-battla-o-velikom-konstruktore.html
+	set tags mask_ilon,korolev_sergei,zelenskii_vladimir
 page 
-	url https://strana.ua/news/238653-v-kosmos-iz-zhitomira-v-muzee-kosmonavtiki-pojavilsja-unikalnyj-zvezdolet.html
-	tags zhitomir,korolev_sergei,muzei_kosmonavtiki
+	set url https://strana.ua/news/238653-v-kosmos-iz-zhitomira-v-muzee-kosmonavtiki-pojavilsja-unikalnyj-zvezdolet.html
+	set tags zhitomir,korolev_sergei,muzei_kosmonavtiki
 page 
-	url https://strana.ua/news/236567-astronavtka-s-mks-sfotohrafirovala-amazonku.html
-	tags nasa,amazonka,meir_jessica
+	set url https://strana.ua/news/236567-astronavtka-s-mks-sfotohrafirovala-amazonku.html
+	set tags nasa,amazonka,meir_jessica
 page 
-	url https://strana.ua/news/314309-v-ssha-arestovali-4-podrostkov-po-obvineniju-v-ubijstve.html
-	tags usa,murder,podrostki
+	set url https://strana.ua/news/314309-v-ssha-arestovali-4-podrostkov-po-obvineniju-v-ubijstve.html
+	set tags usa,murder,podrostki
 page 
-	url https://strana.ua/news/309991-syn-vyzval-politsiju-na-mat.html
-	tags podrostki,rossia
+	set url https://strana.ua/news/309991-syn-vyzval-politsiju-na-mat.html
+	set tags podrostki,rossia
 page 
-	url https://kiev.strana.ua/308211-video-kak-v-kieve-politsejskie-pomohli-taksistu-otvezti-rebenka-v-bolnitsu.html
-	tags policia,taksist,deti
+	set url https://kiev.strana.ua/308211-video-kak-v-kieve-politsejskie-pomohli-taksistu-otvezti-rebenka-v-bolnitsu.html
+	set tags policia,taksist,deti
 page 
-	url https://strana.ua/news/314004-ukrainizatsija-sfery-usluh-top-5-skandalov-za-desjat-dnej.html
-	tags mova,ukrainizacia
+	set url https://strana.ua/news/314004-ukrainizatsija-sfery-usluh-top-5-skandalov-za-desjat-dnej.html
+	set tags mova,ukrainizacia
 page 
-	url https://strana.ua/news/314279-hlava-mid-venhrii-rasskazal-o-prichinakh-reshenija-ispolzovat-rossijskuju-vaktsinu.html
-	tags vengria,rossia,vaccine,covid
+	set url https://strana.ua/news/314279-hlava-mid-venhrii-rasskazal-o-prichinakh-reshenija-ispolzovat-rossijskuju-vaktsinu.html
+	set tags vengria,rossia,vaccine,covid
 page 
-	url https://plus.obozrevatel.com/crime/goldman.htm
-	tags goldman_roman,medicine,ukraina
+	set url https://plus.obozrevatel.com/crime/goldman.htm
+	set tags goldman_roman,medicine,ukraina
 page 
-	url https://news.obozrevatel.com/society/na-rivnenschine-umerli-molodaya-zhenschina-s-covid-19-i-ee-rebenok.htm
-	tags smert,covid,ukraina,rivne
+	set url https://news.obozrevatel.com/society/na-rivnenschine-umerli-molodaya-zhenschina-s-covid-19-i-ee-rebenok.htm
+	set tags smert,covid,ukraina,rivne
 page 
-	url https://strana.ua/news/314307-v-dnepre-uchitel-natsionalistka-vyzvala-skandal-propahandoj-nenavisti-k-russkim-i-rf.html
-	tags dnepropetrovsk,mova,shkola
+	set url https://strana.ua/news/314307-v-dnepre-uchitel-natsionalistka-vyzvala-skandal-propahandoj-nenavisti-k-russkim-i-rf.html
+	set tags dnepropetrovsk,mova,shkola
 page 
-	url https://strana.ua/news/314313-kostja-kievskij-iz-tik-tok-khausa-v-chem-obvinjajut-blohera-kievskyyy.html
-	tags kostja_kievskii,navalny,ukraina,rossia,fsb
-	acts|list|
+	set url https://strana.ua/news/314313-kostja-kievskij-iz-tik-tok-khausa-v-chem-obvinjajut-blohera-kievskyyy.html
+	set tags kostja_kievskii,navalny,ukraina,rossia,fsb
+	set acts|list|
 		fetch
 		get_img
 		db_update
 page 
-	url https://strana.ua/news/314464-pase-podtverdila-polnomochija-delehatsii-rossii-v-polnom-obeme.html
-	tags pase,rossia,ukraina
+	set url https://strana.ua/news/314464-pase-podtverdila-polnomochija-delehatsii-rossii-v-polnom-obeme.html
+	set tags pase,rossia,ukraina
 page 
-	url https://strana.ua/news/314106-kak-izmenjat-20-dollarov-ssha-kem-zamenjat-dzheksona.html
-	tags usa,money
+	set url https://strana.ua/news/314106-kak-izmenjat-20-dollarov-ssha-kem-zamenjat-dzheksona.html
+	set tags usa,money
 page 
-	url https://strana.ua/news/314484-posle-shturma-kapitolija-v-ssha-pokonchili-zhizn-samoubijstvom-dvoe-kopov-.html
-	tags usa,shturm_kapitolii_2021,smert,policia
+	set url https://strana.ua/news/314484-posle-shturma-kapitolija-v-ssha-pokonchili-zhizn-samoubijstvom-dvoe-kopov-.html
+	set tags usa,shturm_kapitolii_2021,smert,policia
 page 
-	url https://strana.ua/news/313454-kravchuk-i-kozak-possorilis-v-tkh-po-donbassu-s-cheho-nachalsja-hod-mezhdu-ukrainoj-i-rossiej.html
-	tags kravchuk_leonid,kozak_dmitrii,donbass,peregovory
-	acts|list|
+	set url https://strana.ua/news/313454-kravchuk-i-kozak-possorilis-v-tkh-po-donbassu-s-cheho-nachalsja-hod-mezhdu-ukrainoj-i-rossiej.html
+	set tags kravchuk_leonid,kozak_dmitrii,donbass,peregovory
+	set acts|list|
 		fetch
 		get_img
 		db_update
 page 
-	url https://zaxid.net/okruzhniy_adminsud_kiyeva_skasuvav_noviy_ukrayinskiy_pravopis_n1513610
-	tags mova
+	set url https://zaxid.net/okruzhniy_adminsud_kiyeva_skasuvav_noviy_ukrayinskiy_pravopis_n1513610
+	set tags mova
 page 
-	url http://day.kyiv.ua/uk/blog/polityka/nehay-do-kyyeva-vede-mova-zamist-yazyka
-	tags mova
+	set url http://day.kyiv.ua/uk/blog/polityka/nehay-do-kyyeva-vede-mova-zamist-yazyka
+	set tags mova
 page 
-	url http://day.kyiv.ua/uk/blog/polityka/ideya-rosiyskoyi-yednosti
-	tags rossia,ukraina,istoria
+	set url http://day.kyiv.ua/uk/blog/polityka/ideya-rosiyskoyi-yednosti
+	set tags rossia,ukraina,istoria
 page 
-	url https://zaxid.net/golokost_neyevreyska_pamyat_n1513553
-	tags holokost,ukraina,istoria
+	set url https://zaxid.net/golokost_neyevreyska_pamyat_n1513553
+	set tags holokost,ukraina,istoria
 page 
-	url https://www.pravda.com.ua/news/2021/01/28/7281501/
-	tags kuleba_dmitrii
+	set url https://www.pravda.com.ua/news/2021/01/28/7281501/
+	set tags kuleba_dmitrii
 page 
-	url https://www.vesti.ru/article/2516150
-	tags covid,vaccine,vooz,sputnik_v
+	set url https://www.vesti.ru/article/2516150
+	set tags covid,vaccine,vooz,sputnik_v
 page 
-	url https://strana.ua/news/300438-kak-chasto-voennye-na-donbasse-popadajutsja-na-domohatelstvakh.html
-	tags donbass,deti,crime
-	acts|list|
+	set url https://strana.ua/news/300438-kak-chasto-voennye-na-donbasse-popadajutsja-na-domohatelstvakh.html
+	set tags donbass,deti,crime
+	set acts|list|
 		fetch
 		get_img
 		db_update
  
-	url https://strana.ua/news/248006-kak-v-odesse-snesli-poslednij-barelef-zhukovu.html
-	tags nazi,zhukov,odessa
+	set url https://strana.ua/news/248006-kak-v-odesse-snesli-poslednij-barelef-zhukovu.html
+	set tags nazi,zhukov,odessa
 page 
-	url https://lenta.ru/news/2021/01/28/dytlov/
-	tags pereval_djatlova,istoria,sssr
+	set url https://lenta.ru/news/2021/01/28/dytlov/
+	set tags pereval_djatlova,istoria,sssr
 page 
-	url https://lenta.ru/articles/2021/01/28/voenkor_karabakh/
-	tags karabah,vojna
+	set url https://lenta.ru/articles/2021/01/28/voenkor_karabakh/
+	set tags karabah,vojna
 page 
-	url https://lenta.ru/parts/authors/mkirillov/
-	tags kirillov_mihail,news.ru.lenta
+	set url https://lenta.ru/parts/authors/mkirillov/
+	set tags kirillov_mihail,news.ru.lenta
 page 
-	url https://moslenta.ru/city/pochemu-menya-ne-vydali-ne-znayu-istoriya-moskvichki-sumevshei-perezhit-kholokost.htm
-	tags holokost,istoria
+	set url https://moslenta.ru/city/pochemu-menya-ne-vydali-ne-znayu-istoriya-moskvichki-sumevshei-perezhit-kholokost.htm
+	set tags holokost,istoria
 
 endyaml
 page
-	url https://strana.ua/news/303230-roman-bondarenko-kto-eto-takoj-i-pochemu-belarusi-hrozjat-za-neho-sanktsijami.html
-	in 27_11_2020
-page
-	url https://strana.ua/articles/interview/303182-serhej-kozachek-poluchil-donorskoe-serdtse-eho-zhena-valerija-rasskazala-o-transplantatsii.html
-	in 27_11_2020
-page
-	url https://kiev.strana.ua/303353-v-kieve-na-stene-25-etazhki-pojavilsja-samyj-vysokij-mural-v-evrope.html
-	title В Киеве появился самый высокий мурал в Европе. Он посвящен материнству и семейным ценностям. Фото
-	in 27_11_2020
-page
-	url https://strana.ua/news/235042-samyj-bolshoj-mural-ukrainy-pojavilsja-v-zaporozhe.html
-	title В Запорожье создали самый большой мурал в Украине
-	in 22_11_2020
-page
-	url https://strana.ua/news/272711-sbu-ko-dnju-rossii-ustanovila-bilbordy-i-narisovala-mural-naprotiv-konsulstv-rf.html
-	title Муралы с эмблемой контрразведки напротив консульств РФ в Украине оказались "приветом от СБУ"
-	in 12_06_2020
-page
-	url https://strana.ua/news/272488-kak-sternenko-ubil-cheloveka-v-odesse-fabula-dela-ot-sbu.html
-	title "Бежал за раненым Кузнецовым почти 100 метров". СБУ описала, как Стерненко убил человека в Одессе
-	in 11_06_2020
-page
-	url https://strana.ua/news/272487-pod-zdaniem-sbu-hruppa-podderzhki-sternenko-prizyvaet-plevat-v-litso-zhurnalistam.html
-	title "Плюйте им в еб@ло, если будете видеть". Под СБУ группа поддержки Стерненко призвала к унижениям журналистов
-	in 11_06_2020
-page
-	url https://strana.ua/news/302959-vezd-v-ukrainu-iz-rossii-sehodnja-pasport-rf-priznan-nedejstvitelnym-rasporjazhenie-kabmina-362.html
-	title Паспорт нон грата. Как Украина запретила въезд в страну потомкам запорожских казаков 
-	in 26_11_2020
-page
-	url https://strana.ua/articles/interview/300808-aleksandr-kirkicha-v-cherkassakh-prinjal-rody-u-zheny-na-ulitse-pod-vishnej-v-bolnitsu-ikh-ne-vpustili-iz-za-kovida.html
-	title "Жена легла на землю под вишней и начала рожать. Я подстелил курточку и поймал дочь в свои руки"
-	in 13_11_2020
-page
-	url https://www.pravda.com.ua/articles/2020/11/27/7274982/
-	title Новий Майдан – Зеленському: Хай приїжджає, гляне, як ми бідуємо
-	in 27_11_2020
-page
-	url https://www.pravda.com.ua/news/2020/11/27/7275058/
-	title У Києві - новий антирекорд коронавірусу: захворіли більше півтори тисячі людей
-	in 27_11_2020
-page
-	url https://www.radiosvoboda.org/a/rosiyski-vaktsyny-i-kremlivskyi-patsient/30969018.html
-	title Віталій Портников: Російські вакцини і кремлівський пацієнт, який їх уникає 
-	in 25_11_2020
-page
-	url https://www.radiosvoboda.org/a/news-vaktsyna-ugorshchyna-rosiya/30965133.html
-	title Угорщина повідомила про тестування російської вакцини від коронавірусу 
-	in 23_11_2020
-page
-	url https://lenta.ru/articles/2020/11/27/australian_warcrimes/
-	title Крещение кровью
-	in 27_11_2020
-page
-	url https://lenta.ru/articles/2020/11/26/pirozhok_ukr/
-	title «Я украинец второго сорта»
-	in 26_11_2020
-page
-	url https://lenta.ru/news/2020/11/26/rada_russia/
-	title На Украине рассказали о национальной идее «насолить России и умереть»
-	in 26_11_2020
-page
-	url https://ukraine.fakty.ua/361803-zakon-o-golodomore-moroz-isportil-vybrosiv-ottuda-slova-ob-ukrainskoj-nacii---vasilenko
-	title «Закон «О Голодоморе...» Мороз испортил, выбросив оттуда слова об украинской нации», — Василенко
-	in 27_11_2020
-page
-	url https://society.fakty.ua/338316-nataliya-orlyanskaya-zachem-rak-prishel-v-moyu-zhizn-uverena-dlya-etogo-est-prichina-chast-4
-	title Наталия Орлянская: «Зачем рак пришел в мою жизнь? Уверена, для этого есть причина» (часть 4)
-	in 26_03_2020
-page
-	url https://www.bbc.com/ukrainian/features-54984370
-	title Перегони трьох вакцин. Ми їх порівняли, і ось що з цього вийшло
-	in 18_11_2020
-page
-	url https://strana.ua/news/303423-v-minoborony-irana-priznali-ubijstvo-fizika-fakhrizade-teraktom.html
-	title В Минобороны Ирана назвали терактом убийство физика Фахризаде
-	in 27_11_2020
-	ii terakt_iran_fizik_murder
-page
-	url https://strana.ua/news/303401-vedushcheho-iranskoho-fizika-jadershchika-mokhsina-fakhrizade-vzorvali-pod-teheranom.html
-	title Возле Тегерана взрывом бомбы убит ведущий иранский физик-ядерщик
-	in 27_11_2020
-	ii teheran_murder_fizik
-page
-	url https://www.facebook.com/kate.zharkih.5/posts/5325428124149915
-	title С Днём Рождения, лучший папа на свете
-	in 27_11_2020
-	ii dr_denis_zharkih
-	tags dr
-page
-	url https://www.facebook.com/groups/story.kiev.ua/permalink/1525269924336470/
-	title О ЗАПАХАХ И ВКУСАХ НАШЕГО ДЕТСТВА. ПРЕДСТАВЛЯЮ ВАМ ВЫДЕРЖКИ ИЗ ГЛАВЫ ИЗ КНИГИ "БУКВОГРФИЯ КИЕВА"
-	in 27_11_2020
-	ii zapahi_kiev
-	tags kiev
-page
-	url https://www.facebook.com/groups/story.kiev.ua/permalink/1525338420996287/
-	title НАКИПІЛО! Я народилася у країні, де моїх предків знищували лише тому...
-	in 27_11_2020
-	ii nakipelo_kraina
-	tags kiev,ukraine
-page
-	url https://strana.ua/news/303450-movnyj-ombudsmen-potreboval-uchit-hlukhikh-detej-na-ukrainskom-jazyke-zhestov.html
-	title Мовный омбудсмен потребовал искоренить русский язык жестов и учить глухих только на украинском
-	in 27_11_2020
-	ii mova_ruskij_jazyk_zhestov_ombudsman
-	tags mova,ukraine,absurd
-page
-	url https://odessa.strana.ua/302969-v-odesskom-tramvae-passazhiry-s-matom-i-prokljatijami-sporili-na-kakom-jazyke-nuzhno-hovorit.html
-	title В одесском трамвае разгорелся языковой конфликт с матом и проклятиями. Видео
-	in 25_11_2020
-	ii odessa_tramvaj_mova_scandal
-	tags mova,odessa,scandal
-page
-	url https://strana.ua/news/303370-pevitsa-kira-mazur-popala-v-jazykovoj-skandal-.html
-	title Националисты затравили украинскую певицу за пост на русском. Она ответила, что это часть нашей истории
-	in 27_11_2020
-	ii kira_mazur_mova_jazyk_scandal
-	tags mova,jazyk,scandal
-page
-	url https://strana.ua/news/300647-vrach-dobrobuta-zajavil-chto-jazykovoj-skandal-s-bondarenko-na-ruku-russkomu-miru.html
-	title Языковой скандал экс-мэром Киева Бондаренко. Врач "Добробута" сообщил об угрозах расправой
-	in 12_11_2020
-	ii elizarov_bondarenko_mova_video
-	tags elizarov,mova,bondarenko,scandal
-page
-	url https://strana.ua/news/225176-marharita-pasha-v-seti-razhorelsja-jazykovoj-skandal-iz-za-miss-ukraina-2019.html
-	title Не дала интервью Осадчей и заявила, что думает на русском. Почему вокруг "Мисс Украина" разгорелся языковой скандал
-	in 01_10_2019
-	ii margarita_pasha_mova_jazyk
-	tags mova,jazyk,scandal,miss_ukraina
-page
-	url https://www.obozrevatel.com/society/ot-udara-lyudi-iz-mashinyi-vyileteli-na-dorogu-podrobnosti-avarii-na-rivnenschine-eksklyuziv.htm
-	title На Ривненщине в ДТП с фурой разбилась семья священника: подробности трагедии
-	in 27_11_2020
-	ii dtp_rivne_priest
-	tags dtp,priest,rivne,death
-page
-	url https://www.obozrevatel.com/society/tamara-lozovaya-ruzkijmir-u-lvovi-hto-jogo-finansue.htm
-	title "Рузькіймір" у Львові: хто його фінансує?
-	in 19_09_2020
-	ii ruzkij_mir_lvov
-	tags mova,ruskij_mir,lvov
-page
-	url https://lenta.ru/news/2020/11/28/pidpal/
-	title Украинский военный ограбил и поджег сослуживца в Донбассе
-	in 28_11_2020
-	ii zsu_ubil_sosluzhivca_donbass
-	tags donbass,zsu,ukraine,death
-page
-	url https://from-ua.com/articles/576470-v-ukraine-nachalsya-poslednii-etap-deindustrializacii.html
-	title В Украине начался последний этап деиндустриализации
-	in 27_11_2020
-	ii ukr_poslednii_etap_deindustrializacii
-page
-	url https://strana.ua/opinions/300623-zashchita-russkoho-jazyka-eto-ne-ushchemlenie-ukrainskoho.html
-	title Защита русского языка - это не ущемление украинского
-	in 12_11_2020
-	ii jazyk_mogilnickii_petition
-	tags mova,jazyk,petition
-page
-	url https://cynicallviv.com.ua/rosijska-mova-chastyna-nashoyi-istoriyi-uchasnytsya-natsvidboru-na-yevrobachennya-potrapyla-u-movnyj-skandal/?fbclid=IwAR1vZ0l4mWIVeDkqglb1C7nvc_tQrZZjSi-KkMxqlAw3UDRaXQ8kjY_ZOH0
-	title “Російська мова – частина нашої історії”: учасниця нацвідбору на Євробачення потрапила у мовний скандал
-	in 28_11_2020
-	ii kira_mazur_lvov
-	tags mova,jazyk
-page
-	url https://strana.ua/news/303675-vneshnee-upravlenie-ssha-i-ukraina-pochemu-tema-vnov-na-slukhu-i-chto-dumajut-kievljane.html
-	title "Точно не независимые". Что думают киевляне о внешнем управлении США. Опрос "Страны"
-	in 29_11_2020
-	ii vneshneje_upravlenije_opros
-page
-	url https://strana.ua/news/303783-daniljuk-rjaboshapka-i-klimkin-sozdajut-sovmestnyj-tsentr-stojkosti-i-razvitija-hosudarstva.html
-	title Данилюк, Рябошапка и Климкин заявили об угрозе "потери государственности" и создают "Центр устойчивости"
-	in 30_11_2020
-	ii centr_daniljuk_klimkin_rjaboshapka
-	tags ukraine,derzhava
-page
-	url https://strana.ua/news/303639-napadenie-na-zhurnalistku-newsone-v-kieve-podrobnosti-i-reaktsija-vlastej.html
-	title "Уверен в своей безнаказанности". Как на журналистку NewsOne напали в прямом эфире
-	in 30_11_2020
-	ii napadenije_newsone
-page
-	url https://strana.ua/articles/istorii/303726-kohda-i-pochemu-proekt-mezhdunarodnoj-kosmicheskoj-stantsii-mks-budet-zavershen.html
-	title Прощай, МКС. Как символ окончания Холодной войны уходит в прошлое и что теперь будет с освоением космоса 
-	in 29_11_2020
-	ii russia_mks_kosmos
-	tags russia,mks,kosmos
-page
-	url https://www.pravda.com.ua/articles/2020/11/29/7275244/
-	title Ніч, з якої почався Євромайдан. Погляд учасника з 2020-го
-	in 29_11_2020
-	ii nich_majdan_2020_pogljad
-	tags maidan2
-page
-	url https://www.obozrevatel.com/society/v-ukraine-bolnyie-covid-19-ne-mogut-popast-v-bolnitsu-no-u-minzdrava-polno-koek-razbor-situatsii-na-primere-odessyi.htm
-	title Коллапс с COVID-19 в Одессе показал необходимость срочного локдауна в Украине, а власть заявляет, что "коек полно"
-	in 30_11_2020
-	ii covid_odessa_lockdown
-	tags covid,lockdown,odessa
-page
-	url https://www.ng.ru/ng_exlibris/2020-11-25/9_1057_uspensky.html
-	title Непонятый мифотворец
-	in 25_11_2020
-	ii mihail_uspenskii_pisatel_70_let
-	tags writers,uspenskii
-page
-	url https://echo.msk.ru/blog/amountain/2747926-echo/
-	title Вода в Крыму заканчивается. Возможна гуманитарная катастрофа. Молимся
-	in 26_11_2020
-	ii voda_krym
-	tags voda,krym
-page
-	url https://firtka.if.ua/blog/view/pomerla-likar-laborant-imunolog-oblasnoyi-klinichnoyi-likarni?fbclid=IwAR33SWJTWu5kcRvQ6x2JTKDr1m1vVtPnjoiRKTz3HIrf_pvft2g-F0heouw
-	title Померла лікар-лаборант імунолог обласної клінічної лікарні
-	in 26_11_2020
-	ii death_ivano_frankovsk_likar
-	tags death,ivano_frankovsk
-page
-	url https://firtka.if.ua/blog/view/oksana-lozinska-nailegshe-pishetsia-same-nairidnishoiu-movoiu-tiieiu-iakoyi-navchili-mama-z-tatom
-	title Оксана Лозинська: Найлегше пишеться саме найріднішою, мовою, тією, якої навчили мама з татом
-	in 25_11_2020
-	ii mova_oksana_lozinska
-page
-	url https://volyninfa.com.ua/news/volyn/2020/11/29/84517/?fbclid=IwAR1B3zH31iw7IkGQkCk1fNfNlEsZMrXiXF6iW_l25z1REK-Mx-jUdHWwWI0
-	title У Луцьку юнаки знесли лампадки, присвячені пам’яті про жертв Голодомору. ФОТО
-	in 29_11_2020
-	ii holodomor_lutsk_lampadky_youth
-page
-	url https://volyninfa.com.ua/news/2020/11/07/78957/
-	title Матір і двох синів поховали в одній могилі: трагедія, яка сколихнула усю Волинь
-	in 07_11_2020
-	ii volyn_deaths_gribi
-page
-	url https://volyninfa.com.ua/news/2020/05/27/44136/
-	title Річниця битви за донецький аеропорт: як проходили найзапекліші бої на Донбасі
-	in 27_05_2020
-	ii doneck_aeroport_bitva
-page
-	url https://www.facebook.com/oleksandra.fedoruk/posts/1730609513680461
-	title Тому я не прощу ніколи. моя ненависть абсолютна і чиста ...
-	in 26_11_2017
-	ii holodomor_pomsta
-page
-	url https://www.facebook.com/roman.barashev/posts/2178300355635765
-	title ""...и хочу, чтобы в школах преподавали русский язык. Родион, 9 лет, Киев."
-	in 28_11_2020
-	ii barashev_deti
-page
-	url https://from-ua.com/articles/576806-minskii-mir-obrechen-potomu-chto-bolshe-nikogo-ne-ustraivaet.html
-	title Минский мир обречен, потому что больше никого не устраивает
-	in 30_11_2020
-	ii minskii_mir
-page
-	url https://www.facebook.com/lyubov.serdunich/posts/1448808008582402?__cft__[0]=AZW7uxkWitzPmugBmUUGBgTlQv4APzr0BLlNAewwpro9YJN6nipyJEz9t8Ioh7ltRwJsOEmiONiz3xzMC6AoD5gutbm_DZlAZxnXili6dSb0weIk3kqhZKV_DyleXTO2-h6X6q0TVBaSdSZ1dFn5dxyVItGG8eu9GSMjNmiseK0eLmCEmjILhqEpotgheCNQ4lN2Zx9ihHoUyAX9Yu4jJqfs&__tn__=%2CO%2CP-y-R
-	title МОНОЛОГ ІЗ ТРИДЦЯТЬ ТРЕТЬОГО
-	in 24_11_2018
-	ii monolog_holodomor
-page
-	url https://www.pravda.com.ua/articles/2020/11/28/7275126/
-	title Сповідь ката
-	in 28_11_2020
-	ii spovid_kata
-	tags holodomor
-page
-	url https://lenta.ru/articles/2020/01/18/ukr_rada/
-	title «Понятия единого народа не существовало»
-	in jan_2020
-	ii tairova_jakovleva_perejaslav_rada
-	tags russia,perejaslav_1654
-page
-	url https://from-ua.com/articles/577506-zelenskogo-dobyot-umishlenno-razduvaemii-nacionalnii-vopros.html
-	title Зеленского добьёт умышленно раздуваемый национальный вопрос
-	in 04_12_2020
-	ii zelja_nacionalizm_vopros
-	tags nationalism,zelenskii
-page
-	url https://www.facebook.com/permalink.php?story_fbid=1047354042412180&id=100014127811690&notif_id=1607286041333054&notif_t=nf_share_story&ref=notif
-	title Спочивайте з миром, Герої… 
-	in 03_11_2020
-	ii geroi_ato_ukraine
-	tags ukraine,ato,heroes,army
-page
-	url https://www.facebook.com/permalink.php?story_fbid=1102353063532516&id=100012734983596
-	title Помоліться за хлопців на Сході..
-	in 06_12_2020
-	ii pomolitsa_za_hlopciv_na_sxodi
-	tags ato,zima
-page
-	url https://www.vesti.ru/article/2499235
-	title Первый взлет: МС-21 подняли в небо российские двигатели
-	in 15_12_2020
-	ii samolet_mc21_russia
-	tags russia,aviacia,mc21,samolet
-page
-	url https://raven-yellow.livejournal.com/8257.html
-	title Звенигород 
-	in 11_06_2015
-	ii zvenigorod_moskva_fotos
-	tags zvenigorod_moskva
-page
-	url https://1981dn.livejournal.com/34815.html
-	title Софийские граффити 
-	in 12_07_2016
-	ii graffiti_sofia_kiev
-	tags kiev,istoria
-page
-	url https://strana.ua/articles/istorii/303726-kohda-i-pochemu-proekt-mezhdunarodnoj-kosmicheskoj-stantsii-mks-budet-zavershen.html
-	title Прощай, МКС. Как символ окончания Холодной войны уходит в прошлое и что теперь будет с освоением космоса 
-	in 30_11_2020
-	ii kosmos_rossija
-	tags russia,kosmos,mks
-page
-	url https://from-ua.com/intervyu/584630-nicoi-rosiiska-mova-v-ukraini-ce-ne-prirodne-yavische.html
-	tags nicoi_larisa,mova,ukraina
-page
-	url https://blogs.pravda.com.ua/authors/farion/6011d605ad5d5/
-	tags mova,farion_irina
-page
-	url https://blogs.pravda.com.ua/authors/farion/60085f741a774/
-	tags mova
-page
-	url https://blogs.pravda.com.ua/authors/farion/5fd2181ff3555/
-	tags mova
-page
-	url https://sharij.net/vyatrovich-poslal-koczabu-na-hj
-	tags vjatrovich_vladimir
-page
-	url https://sharij.net/goncharenko-v-pase-eto-tam-vy-graf-tolstoj-a-zdes-prostoj
-	tags pase,rossia,ukraina,goncharenko_alexei
-page
-	url https://gazeta.ua/articles/donbas/_pokazali-shokuyuchi-foto-rosijskogo-konctaboru-v-okupovanomu-donecku/1010910
-	tags dnr,ukraina,tortury
-page
-	url https://pravoslavie.ru/136953.html
-	tags vera,rasskaz,literatura,satana
-page
-	url https://pravoslavie.ru/134755.html
-	tags smirnov_dmitrii,pravoslavie,vera
-page
-	url https://pravoslavie.ru/136089.html
-	tags slovo,mysli
-page
-	url https://pravoslavie.ru/51099.html
-	tags rasskaz
-	redo 1
-page
-	url https://pravoslavie.ru/50935.html
-	tags chelovek,mysli
-	redo 1
-	fail 1
-page
-	url https://strana.ua/news/314488-razvorot-k-rossii-proval-bolshoj-strojki-chto-pishut-inosmi-o-zelenskom-i-ukraine.html
-	tags zelenskii_vladimir,rossia,zapad
-page
-	url https://strana.ua/news/314551-doktrina-russkij-donbass-chto-v-nej-napisano-o-sudbe-dnr-i-lnr.html
-	tags rossia,donbass
-page
-	url https://strana.ua/news/188082-vasilij-lanovoj-umer-biohrafija-filmy-foto-prichina-smerti.html
-	tags lanovoi_vasilii,smert,sssr
-page
-	url https://strana.ua/news/314694-slepakov-stikh-o-protestakh-navalnoho-v-instahram-vyzval-travlju-poeta.html
-	tags slepakov_semen,navalny,poezia
-	redo 1
-page
-	url https://zaxid.net/vidpovidalne_liderstvo_n1513613
-	tags ukraina,lider,mysli
-page
-	url https://lenta.ru/photo/2021/01/29/lanovoy/
-	tags lanovoi_vasilii,smert,sssr
-page
-	url https://lenta.ru/articles/2021/01/28/netherlands_protests/
-	tags nederland,protests
-page
-	url https://lenta.ru/news/2021/01/29/sideeffects/
-	tags serbia,sputnik_v,covid,vaccine,pfizer
-page
-	url https://lenta.ru/articles/2021/01/18/komms_africa/
-	tags afrika,sssr,kommunizm
-page
-	url https://lenta.ru/articles/2021/01/29/sexprosvet/
-	tags podrostki,rossia,seks
-page
-	url https://from-ua.com/articles/585098-eto-zakon-o-yazike-ili-yazikovaya-provokaciya.html
-	tags mova,ukraina
-page
-	url https://plus.obozrevatel.com/crime/umerla-pod-stenami-bolnitsyi-na-kievschine-tak-i-ne-rassleduyut-delo-o-smerti-patsientki.htm
-	tags kiev,medicine,smert,gonchar_svetlana,bojarka
-page
-	url https://news.obozrevatel.com/society/na-kievschine-zhenschina-umerla-pod-stenami-reanimatsii-kuda-ee-ne-prinyali-iz-za-nehvatki-mest-eksklyuziv.htm
-	tags smert,gonchar_svetlana,kiev,bojarka
+	set url https://strana.ua/news/303230-roman-bondarenko-kto-eto-takoj-i-pochemu-belarusi-hrozjat-za-neho-sanktsijami.html
+	set in 27_11_2020
+page
+	set url https://strana.ua/articles/interview/303182-serhej-kozachek-poluchil-donorskoe-serdtse-eho-zhena-valerija-rasskazala-o-transplantatsii.html
+	set in 27_11_2020
+page
+	set url https://kiev.strana.ua/303353-v-kieve-na-stene-25-etazhki-pojavilsja-samyj-vysokij-mural-v-evrope.html
+	set title В Киеве появился самый высокий мурал в Европе. Он посвящен материнству и семейным ценностям. Фото
+	set in 27_11_2020
+page
+	set url https://strana.ua/news/235042-samyj-bolshoj-mural-ukrainy-pojavilsja-v-zaporozhe.html
+	set title В Запорожье создали самый большой мурал в Украине
+	set in 22_11_2020
+page
+	set url https://strana.ua/news/272711-sbu-ko-dnju-rossii-ustanovila-bilbordy-i-narisovala-mural-naprotiv-konsulstv-rf.html
+	set title Муралы с эмблемой контрразведки напротив консульств РФ в Украине оказались "приветом от СБУ"
+	set in 12_06_2020
+page
+	set url https://strana.ua/news/272488-kak-sternenko-ubil-cheloveka-v-odesse-fabula-dela-ot-sbu.html
+	set title "Бежал за раненым Кузнецовым почти 100 метров". СБУ описала, как Стерненко убил человека в Одессе
+	set in 11_06_2020
+page
+	set url https://strana.ua/news/272487-pod-zdaniem-sbu-hruppa-podderzhki-sternenko-prizyvaet-plevat-v-litso-zhurnalistam.html
+	set title "Плюйте им в еб@ло, если будете видеть". Под СБУ группа поддержки Стерненко призвала к унижениям журналистов
+	set in 11_06_2020
+page
+	set url https://strana.ua/news/302959-vezd-v-ukrainu-iz-rossii-sehodnja-pasport-rf-priznan-nedejstvitelnym-rasporjazhenie-kabmina-362.html
+	set title Паспорт нон грата. Как Украина запретила въезд в страну потомкам запорожских казаков 
+	set in 26_11_2020
+page
+	set url https://strana.ua/articles/interview/300808-aleksandr-kirkicha-v-cherkassakh-prinjal-rody-u-zheny-na-ulitse-pod-vishnej-v-bolnitsu-ikh-ne-vpustili-iz-za-kovida.html
+	set title "Жена легла на землю под вишней и начала рожать. Я подстелил курточку и поймал дочь в свои руки"
+	set in 13_11_2020
+page
+	set url https://www.pravda.com.ua/articles/2020/11/27/7274982/
+	set title Новий Майдан – Зеленському: Хай приїжджає, гляне, як ми бідуємо
+	set in 27_11_2020
+page
+	set url https://www.pravda.com.ua/news/2020/11/27/7275058/
+	set title У Києві - новий антирекорд коронавірусу: захворіли більше півтори тисячі людей
+	set in 27_11_2020
+page
+	set url https://www.radiosvoboda.org/a/rosiyski-vaktsyny-i-kremlivskyi-patsient/30969018.html
+	set title Віталій Портников: Російські вакцини і кремлівський пацієнт, який їх уникає 
+	set in 25_11_2020
+page
+	set url https://www.radiosvoboda.org/a/news-vaktsyna-ugorshchyna-rosiya/30965133.html
+	set title Угорщина повідомила про тестування російської вакцини від коронавірусу 
+	set in 23_11_2020
+page
+	set url https://lenta.ru/articles/2020/11/27/australian_warcrimes/
+	set title Крещение кровью
+	set in 27_11_2020
+page
+	set url https://lenta.ru/articles/2020/11/26/pirozhok_ukr/
+	set title «Я украинец второго сорта»
+	set in 26_11_2020
+page
+	set url https://lenta.ru/news/2020/11/26/rada_russia/
+	set title На Украине рассказали о национальной идее «насолить России и умереть»
+	set in 26_11_2020
+page
+	set url https://ukraine.fakty.ua/361803-zakon-o-golodomore-moroz-isportil-vybrosiv-ottuda-slova-ob-ukrainskoj-nacii---vasilenko
+	set title «Закон «О Голодоморе...» Мороз испортил, выбросив оттуда слова об украинской нации», — Василенко
+	set in 27_11_2020
+page
+	set url https://society.fakty.ua/338316-nataliya-orlyanskaya-zachem-rak-prishel-v-moyu-zhizn-uverena-dlya-etogo-est-prichina-chast-4
+	set title Наталия Орлянская: «Зачем рак пришел в мою жизнь? Уверена, для этого есть причина» (часть 4)
+	set in 26_03_2020
+page
+	set url https://www.bbc.com/ukrainian/features-54984370
+	set title Перегони трьох вакцин. Ми їх порівняли, і ось що з цього вийшло
+	set in 18_11_2020
+page
+	set url https://strana.ua/news/303423-v-minoborony-irana-priznali-ubijstvo-fizika-fakhrizade-teraktom.html
+	set title В Минобороны Ирана назвали терактом убийство физика Фахризаде
+	set in 27_11_2020
+	set ii terakt_iran_fizik_murder
+page
+	set url https://strana.ua/news/303401-vedushcheho-iranskoho-fizika-jadershchika-mokhsina-fakhrizade-vzorvali-pod-teheranom.html
+	set title Возле Тегерана взрывом бомбы убит ведущий иранский физик-ядерщик
+	set in 27_11_2020
+	set ii teheran_murder_fizik
+page
+	set url https://www.facebook.com/kate.zharkih.5/posts/5325428124149915
+	set title С Днём Рождения, лучший папа на свете
+	set in 27_11_2020
+	set ii dr_denis_zharkih
+	set tags dr
+page
+	set url https://www.facebook.com/groups/story.kiev.ua/permalink/1525269924336470/
+	set title О ЗАПАХАХ И ВКУСАХ НАШЕГО ДЕТСТВА. ПРЕДСТАВЛЯЮ ВАМ ВЫДЕРЖКИ ИЗ ГЛАВЫ ИЗ КНИГИ "БУКВОГРФИЯ КИЕВА"
+	set in 27_11_2020
+	set ii zapahi_kiev
+	set tags kiev
+page
+	set url https://www.facebook.com/groups/story.kiev.ua/permalink/1525338420996287/
+	set title НАКИПІЛО! Я народилася у країні, де моїх предків знищували лише тому...
+	set in 27_11_2020
+	set ii nakipelo_kraina
+	set tags kiev,ukraine
+page
+	set url https://strana.ua/news/303450-movnyj-ombudsmen-potreboval-uchit-hlukhikh-detej-na-ukrainskom-jazyke-zhestov.html
+	set title Мовный омбудсмен потребовал искоренить русский язык жестов и учить глухих только на украинском
+	set in 27_11_2020
+	set ii mova_ruskij_jazyk_zhestov_ombudsman
+	set tags mova,ukraine,absurd
+page
+	set url https://odessa.strana.ua/302969-v-odesskom-tramvae-passazhiry-s-matom-i-prokljatijami-sporili-na-kakom-jazyke-nuzhno-hovorit.html
+	set title В одесском трамвае разгорелся языковой конфликт с матом и проклятиями. Видео
+	set in 25_11_2020
+	set ii odessa_tramvaj_mova_scandal
+	set tags mova,odessa,scandal
+page
+	set url https://strana.ua/news/303370-pevitsa-kira-mazur-popala-v-jazykovoj-skandal-.html
+	set title Националисты затравили украинскую певицу за пост на русском. Она ответила, что это часть нашей истории
+	set in 27_11_2020
+	set ii kira_mazur_mova_jazyk_scandal
+	set tags mova,jazyk,scandal
+page
+	set url https://strana.ua/news/300647-vrach-dobrobuta-zajavil-chto-jazykovoj-skandal-s-bondarenko-na-ruku-russkomu-miru.html
+	set title Языковой скандал экс-мэром Киева Бондаренко. Врач "Добробута" сообщил об угрозах расправой
+	set in 12_11_2020
+	set ii elizarov_bondarenko_mova_video
+	set tags elizarov,mova,bondarenko,scandal
+page
+	set url https://strana.ua/news/225176-marharita-pasha-v-seti-razhorelsja-jazykovoj-skandal-iz-za-miss-ukraina-2019.html
+	set title Не дала интервью Осадчей и заявила, что думает на русском. Почему вокруг "Мисс Украина" разгорелся языковой скандал
+	set in 01_10_2019
+	set ii margarita_pasha_mova_jazyk
+	set tags mova,jazyk,scandal,miss_ukraina
+page
+	set url https://www.obozrevatel.com/society/ot-udara-lyudi-iz-mashinyi-vyileteli-na-dorogu-podrobnosti-avarii-na-rivnenschine-eksklyuziv.htm
+	set title На Ривненщине в ДТП с фурой разбилась семья священника: подробности трагедии
+	set in 27_11_2020
+	set ii dtp_rivne_priest
+	set tags dtp,priest,rivne,death
+page
+	set url https://www.obozrevatel.com/society/tamara-lozovaya-ruzkijmir-u-lvovi-hto-jogo-finansue.htm
+	set title "Рузькіймір" у Львові: хто його фінансує?
+	set in 19_09_2020
+	set ii ruzkij_mir_lvov
+	set tags mova,ruskij_mir,lvov
+page
+	set url https://lenta.ru/news/2020/11/28/pidpal/
+	set title Украинский военный ограбил и поджег сослуживца в Донбассе
+	set in 28_11_2020
+	set ii zsu_ubil_sosluzhivca_donbass
+	set tags donbass,zsu,ukraine,death
+page
+	set url https://from-ua.com/articles/576470-v-ukraine-nachalsya-poslednii-etap-deindustrializacii.html
+	set title В Украине начался последний этап деиндустриализации
+	set in 27_11_2020
+	set ii ukr_poslednii_etap_deindustrializacii
+page
+	set url https://strana.ua/opinions/300623-zashchita-russkoho-jazyka-eto-ne-ushchemlenie-ukrainskoho.html
+	set title Защита русского языка - это не ущемление украинского
+	set in 12_11_2020
+	set ii jazyk_mogilnickii_petition
+	set tags mova,jazyk,petition
+page
+	set url https://cynicallviv.com.ua/rosijska-mova-chastyna-nashoyi-istoriyi-uchasnytsya-natsvidboru-na-yevrobachennya-potrapyla-u-movnyj-skandal/?fbclid=IwAR1vZ0l4mWIVeDkqglb1C7nvc_tQrZZjSi-KkMxqlAw3UDRaXQ8kjY_ZOH0
+	set title “Російська мова – частина нашої історії”: учасниця нацвідбору на Євробачення потрапила у мовний скандал
+	set in 28_11_2020
+	set ii kira_mazur_lvov
+	set tags mova,jazyk
+page
+	set url https://strana.ua/news/303675-vneshnee-upravlenie-ssha-i-ukraina-pochemu-tema-vnov-na-slukhu-i-chto-dumajut-kievljane.html
+	set title "Точно не независимые". Что думают киевляне о внешнем управлении США. Опрос "Страны"
+	set in 29_11_2020
+	set ii vneshneje_upravlenije_opros
+page
+	set url https://strana.ua/news/303783-daniljuk-rjaboshapka-i-klimkin-sozdajut-sovmestnyj-tsentr-stojkosti-i-razvitija-hosudarstva.html
+	set title Данилюк, Рябошапка и Климкин заявили об угрозе "потери государственности" и создают "Центр устойчивости"
+	set in 30_11_2020
+	set ii centr_daniljuk_klimkin_rjaboshapka
+	set tags ukraine,derzhava
+page
+	set url https://strana.ua/news/303639-napadenie-na-zhurnalistku-newsone-v-kieve-podrobnosti-i-reaktsija-vlastej.html
+	set title "Уверен в своей безнаказанности". Как на журналистку NewsOne напали в прямом эфире
+	set in 30_11_2020
+	set ii napadenije_newsone
+page
+	set url https://strana.ua/articles/istorii/303726-kohda-i-pochemu-proekt-mezhdunarodnoj-kosmicheskoj-stantsii-mks-budet-zavershen.html
+	set title Прощай, МКС. Как символ окончания Холодной войны уходит в прошлое и что теперь будет с освоением космоса 
+	set in 29_11_2020
+	set ii russia_mks_kosmos
+	set tags russia,mks,kosmos
+page
+	set url https://www.pravda.com.ua/articles/2020/11/29/7275244/
+	set title Ніч, з якої почався Євромайдан. Погляд учасника з 2020-го
+	set in 29_11_2020
+	set ii nich_majdan_2020_pogljad
+	set tags maidan2
+page
+	set url https://www.obozrevatel.com/society/v-ukraine-bolnyie-covid-19-ne-mogut-popast-v-bolnitsu-no-u-minzdrava-polno-koek-razbor-situatsii-na-primere-odessyi.htm
+	set title Коллапс с COVID-19 в Одессе показал необходимость срочного локдауна в Украине, а власть заявляет, что "коек полно"
+	set in 30_11_2020
+	set ii covid_odessa_lockdown
+	set tags covid,lockdown,odessa
+page
+	set url https://www.ng.ru/ng_exlibris/2020-11-25/9_1057_uspensky.html
+	set title Непонятый мифотворец
+	set in 25_11_2020
+	set ii mihail_uspenskii_pisatel_70_let
+	set tags writers,uspenskii
+page
+	set url https://echo.msk.ru/blog/amountain/2747926-echo/
+	set title Вода в Крыму заканчивается. Возможна гуманитарная катастрофа. Молимся
+	set in 26_11_2020
+	set ii voda_krym
+	set tags voda,krym
+page
+	set url https://firtka.if.ua/blog/view/pomerla-likar-laborant-imunolog-oblasnoyi-klinichnoyi-likarni?fbclid=IwAR33SWJTWu5kcRvQ6x2JTKDr1m1vVtPnjoiRKTz3HIrf_pvft2g-F0heouw
+	set title Померла лікар-лаборант імунолог обласної клінічної лікарні
+	set in 26_11_2020
+	set ii death_ivano_frankovsk_likar
+	set tags death,ivano_frankovsk
+page
+	set url https://firtka.if.ua/blog/view/oksana-lozinska-nailegshe-pishetsia-same-nairidnishoiu-movoiu-tiieiu-iakoyi-navchili-mama-z-tatom
+	set title Оксана Лозинська: Найлегше пишеться саме найріднішою, мовою, тією, якої навчили мама з татом
+	set in 25_11_2020
+	set ii mova_oksana_lozinska
+page
+	set url https://volyninfa.com.ua/news/volyn/2020/11/29/84517/?fbclid=IwAR1B3zH31iw7IkGQkCk1fNfNlEsZMrXiXF6iW_l25z1REK-Mx-jUdHWwWI0
+	set title У Луцьку юнаки знесли лампадки, присвячені пам’яті про жертв Голодомору. ФОТО
+	set in 29_11_2020
+	set ii holodomor_lutsk_lampadky_youth
+page
+	set url https://volyninfa.com.ua/news/2020/11/07/78957/
+	set title Матір і двох синів поховали в одній могилі: трагедія, яка сколихнула усю Волинь
+	set in 07_11_2020
+	set ii volyn_deaths_gribi
+page
+	set url https://volyninfa.com.ua/news/2020/05/27/44136/
+	set title Річниця битви за донецький аеропорт: як проходили найзапекліші бої на Донбасі
+	set in 27_05_2020
+	set ii doneck_aeroport_bitva
+page
+	set url https://www.facebook.com/oleksandra.fedoruk/posts/1730609513680461
+	set title Тому я не прощу ніколи. моя ненависть абсолютна і чиста ...
+	set in 26_11_2017
+	set ii holodomor_pomsta
+page
+	set url https://www.facebook.com/roman.barashev/posts/2178300355635765
+	set title ""...и хочу, чтобы в школах преподавали русский язык. Родион, 9 лет, Киев."
+	set in 28_11_2020
+	set ii barashev_deti
+page
+	set url https://from-ua.com/articles/576806-minskii-mir-obrechen-potomu-chto-bolshe-nikogo-ne-ustraivaet.html
+	set title Минский мир обречен, потому что больше никого не устраивает
+	set in 30_11_2020
+	set ii minskii_mir
+page
+	set url https://www.facebook.com/lyubov.serdunich/posts/1448808008582402?__cft__[0]=AZW7uxkWitzPmugBmUUGBgTlQv4APzr0BLlNAewwpro9YJN6nipyJEz9t8Ioh7ltRwJsOEmiONiz3xzMC6AoD5gutbm_DZlAZxnXili6dSb0weIk3kqhZKV_DyleXTO2-h6X6q0TVBaSdSZ1dFn5dxyVItGG8eu9GSMjNmiseK0eLmCEmjILhqEpotgheCNQ4lN2Zx9ihHoUyAX9Yu4jJqfs&__tn__=%2CO%2CP-y-R
+	set title МОНОЛОГ ІЗ ТРИДЦЯТЬ ТРЕТЬОГО
+	set in 24_11_2018
+	set ii monolog_holodomor
+page
+	set url https://www.pravda.com.ua/articles/2020/11/28/7275126/
+	set title Сповідь ката
+	set in 28_11_2020
+	set ii spovid_kata
+	set tags holodomor
+page
+	set url https://lenta.ru/articles/2020/01/18/ukr_rada/
+	set title «Понятия единого народа не существовало»
+	set in jan_2020
+	set ii tairova_jakovleva_perejaslav_rada
+	set tags russia,perejaslav_1654
+page
+	set url https://from-ua.com/articles/577506-zelenskogo-dobyot-umishlenno-razduvaemii-nacionalnii-vopros.html
+	set title Зеленского добьёт умышленно раздуваемый национальный вопрос
+	set in 04_12_2020
+	set ii zelja_nacionalizm_vopros
+	set tags nationalism,zelenskii
+page
+	set url https://www.facebook.com/permalink.php?story_fbid=1047354042412180&id=100014127811690&notif_id=1607286041333054&notif_t=nf_share_story&ref=notif
+	set title Спочивайте з миром, Герої… 
+	set in 03_11_2020
+	set ii geroi_ato_ukraine
+	set tags ukraine,ato,heroes,army
+page
+	set url https://www.facebook.com/permalink.php?story_fbid=1102353063532516&id=100012734983596
+	set title Помоліться за хлопців на Сході..
+	set in 06_12_2020
+	set ii pomolitsa_za_hlopciv_na_sxodi
+	set tags ato,zima
+page
+	set url https://www.vesti.ru/article/2499235
+	set title Первый взлет: МС-21 подняли в небо российские двигатели
+	set in 15_12_2020
+	set ii samolet_mc21_russia
+	set tags russia,aviacia,mc21,samolet
+page
+	set url https://raven-yellow.livejournal.com/8257.html
+	set title Звенигород 
+	set in 11_06_2015
+	set ii zvenigorod_moskva_fotos
+	set tags zvenigorod_moskva
+page
+	set url https://1981dn.livejournal.com/34815.html
+	set title Софийские граффити 
+	set in 12_07_2016
+	set ii graffiti_sofia_kiev
+	set tags kiev,istoria
+page
+	set url https://strana.ua/articles/istorii/303726-kohda-i-pochemu-proekt-mezhdunarodnoj-kosmicheskoj-stantsii-mks-budet-zavershen.html
+	set title Прощай, МКС. Как символ окончания Холодной войны уходит в прошлое и что теперь будет с освоением космоса 
+	set in 30_11_2020
+	set ii kosmos_rossija
+	set tags russia,kosmos,mks
+page
+	set url https://from-ua.com/intervyu/584630-nicoi-rosiiska-mova-v-ukraini-ce-ne-prirodne-yavische.html
+	set tags nicoi_larisa,mova,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/farion/6011d605ad5d5/
+	set tags mova,farion_irina
+page
+	set url https://blogs.pravda.com.ua/authors/farion/60085f741a774/
+	set tags mova
+page
+	set url https://blogs.pravda.com.ua/authors/farion/5fd2181ff3555/
+	set tags mova
+page
+	set url https://sharij.net/vyatrovich-poslal-koczabu-na-hj
+	set tags vjatrovich_vladimir
+page
+	set url https://sharij.net/goncharenko-v-pase-eto-tam-vy-graf-tolstoj-a-zdes-prostoj
+	set tags pase,rossia,ukraina,goncharenko_alexei
+page
+	set url https://gazeta.ua/articles/donbas/_pokazali-shokuyuchi-foto-rosijskogo-konctaboru-v-okupovanomu-donecku/1010910
+	set tags dnr,ukraina,tortury
+page
+	set url https://pravoslavie.ru/136953.html
+	set tags vera,rasskaz,literatura,satana
+page
+	set url https://pravoslavie.ru/134755.html
+	set tags smirnov_dmitrii,pravoslavie,vera
+page
+	set url https://pravoslavie.ru/136089.html
+	set tags slovo,mysli
+page
+	set url https://pravoslavie.ru/51099.html
+	set tags rasskaz
+	set redo 1
+page
+	set url https://pravoslavie.ru/50935.html
+	set tags chelovek,mysli
+	set redo 1
+	set fail 1
+page
+	set url https://strana.ua/news/314488-razvorot-k-rossii-proval-bolshoj-strojki-chto-pishut-inosmi-o-zelenskom-i-ukraine.html
+	set tags zelenskii_vladimir,rossia,zapad
+page
+	set url https://strana.ua/news/314551-doktrina-russkij-donbass-chto-v-nej-napisano-o-sudbe-dnr-i-lnr.html
+	set tags rossia,donbass
+page
+	set url https://strana.ua/news/188082-vasilij-lanovoj-umer-biohrafija-filmy-foto-prichina-smerti.html
+	set tags lanovoi_vasilii,smert,sssr
+page
+	set url https://strana.ua/news/314694-slepakov-stikh-o-protestakh-navalnoho-v-instahram-vyzval-travlju-poeta.html
+	set tags slepakov_semen,navalny,poezia
+	set redo 1
+page
+	set url https://zaxid.net/vidpovidalne_liderstvo_n1513613
+	set tags ukraina,lider,mysli
+page
+	set url https://lenta.ru/photo/2021/01/29/lanovoy/
+	set tags lanovoi_vasilii,smert,sssr
+page
+	set url https://lenta.ru/articles/2021/01/28/netherlands_protests/
+	set tags nederland,protests
+page
+	set url https://lenta.ru/news/2021/01/29/sideeffects/
+	set tags serbia,sputnik_v,covid,vaccine,pfizer
+page
+	set url https://lenta.ru/articles/2021/01/18/komms_africa/
+	set tags afrika,sssr,kommunizm
+page
+	set url https://lenta.ru/articles/2021/01/29/sexprosvet/
+	set tags podrostki,rossia,seks
+page
+	set url https://from-ua.com/articles/585098-eto-zakon-o-yazike-ili-yazikovaya-provokaciya.html
+	set tags mova,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/umerla-pod-stenami-bolnitsyi-na-kievschine-tak-i-ne-rassleduyut-delo-o-smerti-patsientki.htm
+	set tags kiev,medicine,smert,gonchar_svetlana,bojarka
+page
+	set url https://news.obozrevatel.com/society/na-kievschine-zhenschina-umerla-pod-stenami-reanimatsii-kuda-ee-ne-prinyali-iz-za-nehvatki-mest-eksklyuziv.htm
+	set tags smert,gonchar_svetlana,kiev,bojarka
 on
 global
-	#set redo = 1
-	#set acts|list|
-		#fetch
-		#get_img
-		#<++>
-page
-	url https://news.obozrevatel.com/show/people/vasilij-lanovoj-chto-govoril-pro-ukrainu-umer-legenda-rossijskogo-kino.htm
-	acts|list|
+	set redo 1
+	setlist acts
 		fetch
 		get_img
 		db_update
 		<++>
-	tags lanovoi_vasilii,ukraina,rossia
-off
 page
-	url https://plus.obozrevatel.com/crime/donbass-propagandist-babayan-pokazal-razruhu-v-donetske-foto.htm
-	tags donbass,vojna
+	set url https://news.obozrevatel.com/show/people/vasilij-lanovoj-chto-govoril-pro-ukrainu-umer-legenda-rossijskogo-kino.htm
+	setlist acts
+		#fetch
+		#get_img
+		#db_update
+		<++>
+	set tags lanovoi_vasilii,ukraina,rossia
+page
+	set url https://plus.obozrevatel.com/crime/donbass-propagandist-babayan-pokazal-razruhu-v-donetske-foto.htm
+	set tags donbass,vojna

@@ -993,6 +993,7 @@ page
 	set url https://www.sitepoint.com/bundle-static-site-webpack/
 	set tags js,webpack,pc
 	set redo 1
+    fail  
 on
 page 
 	set url https://zaxid.net/vikladachka_kiyivskogo_peduniversitetu_nazvala_ukrayinu_amerikanskoyu_koloniyeyu_n1513487

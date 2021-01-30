@@ -416,9 +416,6 @@ page
 	set url https://life.ru/p/1364254
 	set tags ukraina,vaccine,covid
 page 
-	set url https://zaxid.net/vikladachka_kiyivskogo_peduniversitetu_nazvala_ukrayinu_amerikanskoyu_koloniyeyu_n1513487
-	set tags bilchenko_evgenia
-page 
 	set url https://zaxid.net/oask_za_pozovom_portnova_zaboroniv_provedennya_zahodiv_na_chest_nizki_ukrayinskih_diyachiv_n1513496
 	set tags portnov
 page 
@@ -907,7 +904,6 @@ page
 	set url https://pravoslavie.ru/50935.html
 	set tags chelovek,mysli
 	set redo 1
-	set fail 1
 page
 	set url https://strana.ua/news/314488-razvorot-k-rossii-proval-bolshoj-strojki-chto-pishut-inosmi-o-zelenskom-i-ukraine.html
 	set tags zelenskii_vladimir,rossia,zapad
@@ -970,7 +966,7 @@ page
 page
 	set url https://plus.obozrevatel.com/crime/donbass-propagandist-babayan-pokazal-razruhu-v-donetske-foto.htm
 	set tags donbass,vojna
-	set redo 1
+    todo
 page
 	set url https://strana.ua/news/314910-twitter-zablokiroval-akkaunt-semena-slepakova-.html
 	set tags twitter,slepakov_semen,rossia,protests,poezia
@@ -992,6 +988,24 @@ page
 page
 	set url https://strana.ua/news/314306-mitinh-31-janvarja-2021-moskva-karta-vo-skolko-shestvie-na-lubjanskoj-i-staroj-ploshchadi-hlavnye-novosti.html
 	set tags navalny,moskva,putin,protests
+off
+page
+	set url https://www.sitepoint.com/bundle-static-site-webpack/
+	set tags js,webpack,pc
+	set redo 1
+on
+page 
+	set url https://zaxid.net/vikladachka_kiyivskogo_peduniversitetu_nazvala_ukrayinu_amerikanskoyu_koloniyeyu_n1513487
+	set tags bilchenko_evgenia
+    todo
+page
+	set url https://lenta.ru/news/2021/01/30/tunisia/
+	set tags tunis,vaccine,sputnik_v,covid
+    todo
+page
+	set url https://lenta.ru/articles/2021/01/31/corpus/
+	set tags mikelangelo,david,istoria
+    todo
 off
 page
 	set url <++>

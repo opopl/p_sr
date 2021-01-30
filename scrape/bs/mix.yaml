@@ -17,6 +17,7 @@ include:
     - pc.cairographics 
     - pc.cairosvg
     - pc.docs.python
+    - pc.articles.sitepoint
     - vera.ru.pravoslavie
 
 urls:

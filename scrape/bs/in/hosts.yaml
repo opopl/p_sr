@@ -16,3 +16,4 @@
 'cairosvg.org' : { 'site' : 'pc.cairosvg' }
 'docs.python.org' : { 'site' : 'pc.docs.python' }
 'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }
+'sitepoint.com' : { 'site' : 'pc.articles.sitepoint' }

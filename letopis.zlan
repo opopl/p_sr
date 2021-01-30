@@ -950,19 +950,14 @@ page
 	set tags smert,gonchar_svetlana,kiev,bojarka
 on
 global
-	set redo 1
-	setlist acts
-		fetch
-		get_img
-		db_update
-		<++>
-page
-	set url https://news.obozrevatel.com/show/people/vasilij-lanovoj-chto-govoril-pro-ukrainu-umer-legenda-rossijskogo-kino.htm
+	set redo 3
 	setlist acts
 		#fetch
 		#get_img
 		#db_update
-		<++>
+		#<++>
+page
+	set url https://news.obozrevatel.com/show/people/vasilij-lanovoj-chto-govoril-pro-ukrainu-umer-legenda-rossijskogo-kino.htm
 	set tags lanovoi_vasilii,ukraina,rossia
 page
 	set url https://plus.obozrevatel.com/crime/donbass-propagandist-babayan-pokazal-razruhu-v-donetske-foto.htm

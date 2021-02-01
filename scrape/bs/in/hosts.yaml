@@ -5,6 +5,7 @@
 'www.radiosvoboda.org' : { 'site' : 'news.ua.radiosvoboda' }
 'pravda.com.ua' : { 'site' : 'news.ua.pravda' }
 'lb.ua' : { 'site' : 'news.ua.lb' }
+'imi.org.ua' : { 'site' : 'news.ua.imi' }
 'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
 'lenta.ru' : { 'site' : 'news.ru.lenta' }
 'fakty.ua' : { 'site' : 'news.ua.fakty' }

@@ -11,6 +11,7 @@ include:
     - news.ua.strana
     - news.ua.zaxid
     - news.ua.oboz
+    - news.ua.pravda
     - news.ru.lenta
     - news.ru.life
     - com.us.apple
@@ -19,6 +20,3 @@ include:
     - pc.docs.python
     - pc.articles.sitepoint
     - vera.ru.pravoslavie
-
-urls:
-

@@ -938,7 +938,6 @@ page
 page
 	set url https://from-ua.com/articles/585098-eto-zakon-o-yazike-ili-yazikovaya-provokaciya.html
 	set tags mova,ukraina
-off
 page
 	set url https://plus.obozrevatel.com/crime/umerla-pod-stenami-bolnitsyi-na-kievschine-tak-i-ne-rassleduyut-delo-o-smerti-patsientki.htm
 	set tags kiev,medicine,smert,gonchar_svetlana,bojarka
@@ -963,10 +962,12 @@ on
 page
 	set url https://news.obozrevatel.com/show/people/vasilij-lanovoj-chto-govoril-pro-ukrainu-umer-legenda-rossijskogo-kino.htm
 	set tags lanovoi_vasilii,ukraina,rossia
+	set redo 1
 page
 	set url https://plus.obozrevatel.com/crime/donbass-propagandist-babayan-pokazal-razruhu-v-donetske-foto.htm
 	set tags donbass,vojna
     todo
+off
 page
 	set url https://strana.ua/news/314910-twitter-zablokiroval-akkaunt-semena-slepakova-.html
 	set tags twitter,slepakov_semen,rossia,protests,poezia
@@ -988,25 +989,98 @@ page
 page
 	set url https://strana.ua/news/314306-mitinh-31-janvarja-2021-moskva-karta-vo-skolko-shestvie-na-lubjanskoj-i-staroj-ploshchadi-hlavnye-novosti.html
 	set tags navalny,moskva,putin,protests
-off
 page
 	set url https://www.sitepoint.com/bundle-static-site-webpack/
 	set tags js,webpack,pc
 	set redo 1
-    fail  
-on
+	fail  
 page 
 	set url https://zaxid.net/vikladachka_kiyivskogo_peduniversitetu_nazvala_ukrayinu_amerikanskoyu_koloniyeyu_n1513487
 	set tags bilchenko_evgenia
-    todo
+	todo
 page
 	set url https://lenta.ru/news/2021/01/30/tunisia/
 	set tags tunis,vaccine,sputnik_v,covid
-    todo
+	todo
 page
 	set url https://lenta.ru/articles/2021/01/31/corpus/
 	set tags mikelangelo,david,istoria
-    todo
+	todo
+page
+	set url https://strana.ua/news/314923-dizel-shou-prokommentiroval-perekhod-na-rossijskoe-tv-.html
+	set tags dizel_show,ukraina,smeh,rossia
+page
+	set url https://www.pravda.com.ua/articles/2021/01/31/7281728/
+	set tags vaccine,covid,vera,ukraina
+	set redo 1
+	fail
+page
+	set url https://news.obozrevatel.com/society/u-nositelej-russkogo-gena-vstroena-knopka-na-samounichtozhenie.htm
+	set tags rossia,mysli
+	set redo 1
+page
+	set url https://news.obozrevatel.com/abroad/covid-19-voz-prizvala-velikobritaniyu-priostanovit-vaktsinatsiyu.htm
+	set tags vooz,vaccine,covid,anglia
+page
+	set url https://blogs.pravda.com.ua/authors/bratushchak/6012df02b8d2a/
+	set tags strana_ua,mova
+page
+	set url https://imi.org.ua/monitorings/donosy-ta-rozkol-ukrayiny-yak-prorosijski-media-vidreaguvaly-na-ukrayinsku-v-obslugovuvanni-i37309
+	set tags mova,ukraina,rossia
+page
+	set url https://imi.org.ua/monitorings/donosy-na-rosijskomovnyh-ta-snid-u-lavah-zsu-shho-pyshut-pro-ukrayinu-v-l-dnr-i37205
+	set tags dnr,lnr,news,analiz
+page
+	set url https://novorosinform.org/841585
+	set tags shkola,nacizm,ukraina
+page
+	set url https://strana.ua/news/314966-v-hoskomteleradio-objasnili-zapret-na-vvoz-iz-rossii-knih-bulhakova-i-akunina.html
+	set tags bulgakov,knigi,ukraina,zapret
+page
+	set url https://strana.ua/news/94546-boris-akunin-nazval-mrakobesiem-zapret-svoikh-knih-v-ukraine.html
+	set tags akunin,istoria,zapret,ukraina
+page
+	set url https://strana.ua/news/141791-v-ukrainu-zapretili-vvozit-knihi-moskovskij-kreml-i-simfonija-tmy-iz-za-propahandy-strany-ahressora.html
+	set tags knigi,rossia,ukraina,zapret
+page
+	set url https://strana.ua/news/315066-intervju-zelenskoho-hbo-1-fevralja-hlavnye-zajavlenija-prezidenta-ukrainy.html
+	set tags zelenskii_vladimir,interview,hbo
+page
+	set url https://strana.ua/news/314985-mitinhi-za-navalnoho-31-janvarja-hlavnye-vyvody.html
+	set tags rossia,navalny
+page
+	set url https://zaxid.net/pomer_lvivskiy_skripal_petro_chaykovskiy_n1513739
+	set tags chaikovskii_petro_skripach,lviv
+page
+	set url https://www.vesti.ru/article/2517726
+	set tags chehia,vaccine,covid,sputnik_v,zeman_milosh
+page
+	set url https://lenta.ru/news/2021/02/01/set/
+	set tags rossia,internet
+page
+	set url https://lenta.ru/articles/2021/01/31/venclova/
+	set tags litva,sssr
+page
+	set url https://inosmi.ru/politic/20210201/249031561.html
+	set tags rossia
+page
+	set url https://inosmi.ru/asviewedby/20210117/248884278.html
+	set tags slovakia,rossia,student,mgu,moscow
+page
+	set url https://strana.ua/news/315112-intervju-zelenskoho-dlja-hbo-polnyj-tekst.html
+	set tags hbo,zelenskii_vladimir,rossia,ukraina,interview
+page
+	set url https://strana.ua/articles/analysis/315028-kto-vinovat-v-smerti-italjanskoho-fotohrafa-pod-slavjanskom.html
+	set tags markiv,ukraina,italia,sud,slavjansk,vojna
+page
+	set url https://strana.ua/articles/analysis/314977-chto-znachit-reshenie-snbo-o-sanktsijakh-protiv-kitajskikh-vladeltsev-motor-sichi.html
+	set tags motor_sich,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/315040-v-ukraine-zapretili-mastera-i-marharitu-a-takzhe-knihi-pro-fandorina-chto-proizoshlo.html
+	set tags zapret,ukraina,knigi,rossia,ilja_muromec,akunin_boris
+page
+	set url https://stihi.ru/2020/12/12/3712
+	set tags poezia,rossia,blogger
 off
 page
 	set url <++>

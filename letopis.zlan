@@ -1081,6 +1081,38 @@ page
 page
 	set url https://stihi.ru/2020/12/12/3712
 	set tags poezia,rossia,blogger
+page
+	set url https://strana.ua/news/315150-v-ispanii-posle-pervoj-dozy-vaktsinypfizer-sovid-19-zaboleli-78-starikov-semero-umerli.html
+	set tags pfizer,vaccine,covid,ispania
+page
+	set url https://strana.ua/news/315107-zelenskij-objasnil-pochemu-ukraina-ne-budet-pokupat-rossijskuju-vaktsinu.html
+	set tags rossia,zelenskii_vladimir,vaccine,sputnik_v
+page
+	set url https://strana.ua/news/314792-zelenskij-podpisal-zakon-ob-uskorennoj-rehistratsii-vaktsin-ot-covid-19.html
+	set tags rossia,sputnik_v,vaccine,zelenskii_vladimir
+page
+	set url https://strana.ua/news/315175-opzzh-raskritikovala-vlasti-za-zapret-knihi-bulhakova.html
+	set tags bulgakov_mihail,rossia,ukraina,opzzh,zapret
+page
+	set url https://strana.ua/news/315130-kto-takoj-serhej-olijnyk-kotoryj-zapretil-vvozit-v-ukrainu-knihi-akunina-i-mastera-i-marharitu.html
+	set tags olijnyk_sergei,oun,bulgakov
+page
+	set url https://gazeta.ua/blog/54545/molyus-abi-zyavivsya-ukrayinskij-de-goll
+	set title Молюсь, аби з'явився український де Голль
+	set tags ukraina,mysli,de-gaulle
+page
+	set url https://gazeta.ua/blog/54511/comu-ukrayina-ne-amerika
+	set tags amerika,ukraina,trump_donald
+page
+	set url https://from-ua.com/articles/585436-tarifnii-plan-vlasti-i-tarifnii-maidan-ukraincev.html
+	set tags tarify
+page
+	set url https://strana.ua/news/315163-pfajzer-vaktsina-ot-koronavirusa-pobochnye-effekty-massovye-smerti-davlenie-pri-rehistratsii-v-es.html
+	set tags pfizer,vaccine,covid,ukraina
+page
+	set url https://www.radiosvoboda.org/a/hetman-petro-poroshenko/31078931.html
+	set tags doroshenko_petro,istoria,moskva,mogyla
+eof
 off
 page
 	set url <++>

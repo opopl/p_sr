@@ -947,10 +947,6 @@ page
 	set tags smert,gonchar_svetlana,kiev,bojarka
 	set redo 1
 	setlist acts
-		fetch
-		get_img
-		db_update
-		aa
 global
    # set redo 1
 	#listpush acts
@@ -1178,6 +1174,9 @@ page
 page
 	set url https://blogs.korrespondent.net/blog/politics/4230332/
 	set tags svoboda_slova,girkin_igor,gordon_dmitrii,vojna,poklonskaja_natalja
+page
+	set url https://www.vesti.ru/article/2518668
+	set tags sputnik_v,lancet,phase_3
 eof
 off
 page

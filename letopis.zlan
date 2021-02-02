@@ -1181,6 +1181,51 @@ page
 	setlist acts
 		db_update
 		fetch
+page
+	set url https://news.obozrevatel.com/kiyany/life/stantsiyu-metro-teatralnaya-nachali-stroit-ranshe-chem-tunnel-k-nej-foto-i-video.htm
+	set tags kiev,metro
+page
+	set url https://lenta.ru/news/2021/02/02/itogi/
+	set tags vaccine,covid,sputnik_v,phase_3
+page
+	set url https://lenta.ru/news/2021/02/02/merkel/
+	set tags merkel_angela,sputnik_v,vaccine,covid
+page
+	set url https://zen.yandex.ru/media/history_russian/fakty-ob-aleksandre-pushkine-kotorye-ne-priniato-afishirovat-5fe4df9eb590cf1d64d8cf9d
+	set tags pushkin_aleksandr,fakty
+page
+	set url https://ukraina.ru/opinion/20210202/1030424325.html
+	set tags zelenskii_vladimir,interview,ukraina
+page
+	set url https://ukraina.ru/opinion/20210202/1030420233.html
+	set tags cenzura,ukraina
+page
+	set url https://ukraina.ru/opinion/20210122/1030320955.html
+	set tags ukraina,pozhar,kharkov
+page
+	set url https://ukraina.ru/exclusive/20210202/1030424518.html
+	set tags sbu,telegram,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210130/1030399730.html
+	set tags lyzhi,mukachevo,tisa,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210202/1030418465.html
+	set tags krym,ukraina,covid
+page
+	set url https://ukraina.ru/interview/20210201/1030416775.html
+	set tags pase,tolstoi_petr,goncharenko_alexei
+page
+	set url https://ukraina.ru/news/20210201/1030420413.html
+	set tags ukraina,sbu,telegram
+page
+	set url https://ukraina.ru/history/20210201/1030420916.html
+	set tags kolcov_mihail,kiev,rasstrel,smert,sssr
+page
+	set url https://ukraina.ru/exclusive/20200719/1028235645.html
+	set tags bulgakov_mihail,kniga
+page
+	set url https://ukraina.ru/sn/20210129/1030396469.html
+	set tags mova,jazyk,ukraina
 eof
 off
 page

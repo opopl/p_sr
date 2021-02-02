@@ -1153,6 +1153,9 @@ page
 page
 	set url https://strana.ua/news/315346-v-pervomajske-horit-epitsentr-2-fervalja.html
 	set tags pervomajsk,pozhar,epicentr
+page
+	set url https://lenta.ru/news/2021/02/02/lancet/
+	set tags lancet,sputnik_v,vaccine,covid,rossia
 eof
 off
 page

@@ -966,7 +966,7 @@ page
 page
 	set url https://plus.obozrevatel.com/crime/donbass-propagandist-babayan-pokazal-razruhu-v-donetske-foto.htm
 	set tags donbass,vojna
-    todo
+	todo
 off
 page
 	set url https://strana.ua/news/314910-twitter-zablokiroval-akkaunt-semena-slepakova-.html
@@ -1112,6 +1112,40 @@ page
 page
 	set url https://www.radiosvoboda.org/a/hetman-petro-poroshenko/31078931.html
 	set tags doroshenko_petro,istoria,moskva,mogyla
+page
+	set url https://strana.ua/news/315176-pochemu-v-ukraine-mediki-ne-khotjat-vaktsinirovatsja-ot-covid-19.html
+	set tags vaccine,covid,ukraina
+page
+	set url https://strana.ua/news/315133-1-fevralja-v-ldnr-nachinajut-vaktsinatsiju-rossijskim-preparatom-sputnik-v.html
+	set tags vaccine,covid,lnr,dnr,sputnik_v
+page
+	set url https://strana.ua/news/315136-marusja-zveroboj-i-ato-kakoj-kompromat-slivajut-na-kandidata-ot-poroshenko-.html
+	set tags zveroboj_marusja,vo_svoboda,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/okkupantyi-na-donbasse-nachali-vaktsinatsiyu-rossijskim-sputnikom-pervyim-privilsya-pushilin-foto.htm
+	set tags vaccine,covid,sputnik_v,pushilin_denis
+page
+	set url https://news.obozrevatel.com/society/esli-tyi-umresh-ya-umru-vmeste-s-toboj-kak-medsestra-voennogo-gospitalya-boretsya-za-zhizn-docheri.htm
+	set tags medicine,rak,ukraina
+page
+	set url https://news.obozrevatel.com/society/lyuboj-tsenoj-podalshe-ot-ukrainyi-teper-rasplachivayutsya.htm
+	set tags sssr,ukraina
+page
+	set url https://strana.ua/news/315262-sud-izbral-meru-presechenija-zaderzhannoj-po-delu-telehram-kanalov-lehitimnyj-i-rezident.html
+	set tags sbu,telegram,ukraina,sud,daskalica_viktoria
+on
+page
+	set url https://strana.ua/news/315183-sbu-otkryla-delo-na-telehram-kanaly-lehitimnyj-i-rezident-chto-eto-oznachaet.html
+	set tags sud,telegram,sbu,ukraina,daskalica_viktoria
+page
+	set url https://strana.ua/news/315200-dubinskoho-iskljuchili-iz-fraktsii-sluha-naroda-reaktsija-deputata-i-sotssetej-.html
+	set tags dubinskii_aleksandr,sluga_naroda,verhovna_rada,ukraina
+page
+	set url https://strana.ua/news/315343-v-mjanme-fitnes-blohersha-sluchajno-zasnjala-na-video-voennyj-perevorot.html
+	set tags mjanma,muzika,perevorot
+page
+	set url https://strana.ua/news/315335-sbu-razoblachila-prizyvavshikh-k-zakhvatu-vlasti-v-ukraine-internet-ahitatorov-.html
+	set tags sbu,ukraina
 eof
 off
 page

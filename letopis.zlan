@@ -1259,6 +1259,27 @@ page
 page
 	set url http://lug-info.com/media/oznakomlenie-glavy-lnr-leonida-pasechnika-s-proizvodstvom-retsirkulyatorov-dlya-ochistki-vozdukha-lugansk-28-oktyabrya-2020-goda-914
 	set tags pasechnik_leonid,lnr
+page
+	set url https://censor.net/ru/news/3245400/krysy_pomoyinye_vy_zabyli_kak_krichali_chto_zelenskiyi_vatnik_i_hochet_v_rf_sovetnik_po_strategicheskim
+	set tags arestovich_alexei,zelenskii_vladimir
+page
+	set url https://censor.net/ru/news/3245586/ukrainskiyi_voin_pogib_ot_puli_snayipera_vozle_shumov_vrajeskie_obstrely_zafiksirovany_vozle_krymskogo
+	set tags vojna
+page
+	set url https://censor.net/ru/blogs/3245450/kakayarazntsa_abo_chomu_ne_v_mov_sprava
+	set tags mova
+page
+	set url https://strana.ua/news/315459-112-newsone-zik-otkljuchili-ot-teleefira.html
+	set tags zelenskii_vladimir,zik,newsone,112.ua
+page
+	set url https://strana.ua/news/306287-v-opzzh-nakazanie-ukrainskikh-telekanalov-za-nepravilnye-multiki-nazvali-shizofreniej.html
+	set tags opzzh,multik,zapret
+page
+	set url https://strana.ua/news/315408-stalo-izvestno-kto-i-zachem-podzheh-epitsentr-v-nikolaevskoj-oblasti.html
+	set tags kriminal,epicentr,ukraina
+page
+	set url https://www.radiosvoboda.org/a/elita-psevdoelita-narod-ukrayina/31080910.html
+	set tags ukraina,mysli
 eof
 off
 page

@@ -237,7 +237,7 @@ page
 	set url https://strana.ua/news/313438-mitinh-23-janvarja-2021-v-podderzhku-navalnoho-prjamaja-transljatsija-iz-moskvy-poslednie-novosti.html
 	set ii navalny_akcii
 	set tags navalny
-	set acts|list|
+	setlist acts
 		fetch
 		no_img
 		db_update
@@ -1177,6 +1177,10 @@ page
 page
 	set url https://www.vesti.ru/article/2518668
 	set tags sputnik_v,lancet,phase_3
+	set redo 1
+	setlist acts
+		db_update
+		fetch
 eof
 off
 page

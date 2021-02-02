@@ -1226,6 +1226,39 @@ page
 page
 	set url https://ukraina.ru/sn/20210129/1030396469.html
 	set tags mova,jazyk,ukraina
+page
+	set url https://ukraina.ru/opinion/20210202/1030416240.html
+	set tags navalny,rossia
+page
+	set url https://ukraina.ru/news/20210202/1030434697.html
+	set tags sputnik_v,merkel_angela,vaccine,covid
+page
+	set url https://ukraina.ru/exclusive/20210128/1030378832.html
+	set tags vaccine,sputnik_v,moskva,kiev,ukraina,rossia
+page
+	set url https://ukraina.ru/exclusive/20210111/1030188585.html
+	set tags vaccine,covid,sputnik_v,ukraina,rossia,zapret
+page
+	set url https://news.lugansk.info/2021/000340.shtml
+	set tags lnr
+page
+	set url http://lug-info.com/news/one/personalnaya-vystavka-khudozhnika-artema-fesenko-otkrylas-v-stolichnoi-galeree-iskusstv-foto-64310
+	set tags art,vystavka,fesenko_artem
+page
+	set url http://lug-info.com/news/one/zhiteli-lnr-prostilis-s-nagrazhdennym-5-yu-medalyami-za-otvagu-veteranom-alekseem-voronovym-foto-64214
+	set tags lnr
+page
+	set url http://lug-info.com/news/one/boitsy-vsu-razobrali-khozpostroiki-i-ukrali-ugol-u-zhitelei-zolotogo-narodnaya-militsiya-64302
+	set tags zsu,kriminal,lnr
+page
+	set url http://lug-info.com/news/one/lzhd-poluchila-dva-teplovoza-mintrans-foto-64270
+	set tags lnr,railways
+page
+	set url http://lug-info.com/media/909
+	set tags lnr
+page
+	set url http://lug-info.com/media/oznakomlenie-glavy-lnr-leonida-pasechnika-s-proizvodstvom-retsirkulyatorov-dlya-ochistki-vozdukha-lugansk-28-oktyabrya-2020-goda-914
+	set tags pasechnik_leonid,lnr
 eof
 off
 page

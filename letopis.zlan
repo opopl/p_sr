@@ -1280,6 +1280,18 @@ page
 page
 	set url https://www.radiosvoboda.org/a/elita-psevdoelita-narod-ukrayina/31080910.html
 	set tags ukraina,mysli
+page
+	set url https://www.pravda.com.ua/articles/2021/02/2/7281959/
+	set tags mova,kremin_taras
+page
+	set url https://www.pravda.com.ua/news/2021/02/2/7282097/
+	set tags rnbo,ukraina,kozak_taras,sanctions
+page
+	set url https://news.obozrevatel.com/economics/fea/snbo-vvela-personalnyie-sanktsii-protiv-pravoj-ruki-medvedchuka.htm
+	set tags 112.ua,zapret,rnbo,ukraina
+page
+	set url https://zen.yandex.ru/media/history_russian/chto-pisali-o-drevnih-rusah-arabskie-puteshestvenniki-6016e4e47fd0a5390f4b6e3e
+	set tags rossia,istoria,arabs
 eof
 off
 page

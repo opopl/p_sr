@@ -1146,6 +1146,13 @@ page
 page
 	set url https://strana.ua/news/315335-sbu-razoblachila-prizyvavshikh-k-zakhvatu-vlasti-v-ukraine-internet-ahitatorov-.html
 	set tags sbu,ukraina
+page
+	set url https://strana.ua/news/315290-razhovor-blinkena-i-kuleby-1-fevralja-sravnenie-versij-hosdepa-i-mid-ukrainy.html
+	set tags kuleba,usa,gosdep
+	set redo 1
+page
+	set url https://strana.ua/news/315346-v-pervomajske-horit-epitsentr-2-fervalja.html
+	set tags pervomajsk,pozhar,epicentr
 eof
 off
 page

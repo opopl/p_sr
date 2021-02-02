@@ -941,7 +941,7 @@ page
 page
 	set url https://plus.obozrevatel.com/crime/umerla-pod-stenami-bolnitsyi-na-kievschine-tak-i-ne-rassleduyut-delo-o-smerti-patsientki.htm
 	set tags kiev,medicine,smert,gonchar_svetlana,bojarka
-	set redo 2
+	set redo 1
 page
 	set url https://news.obozrevatel.com/society/na-kievschine-zhenschina-umerla-pod-stenami-reanimatsii-kuda-ee-ne-prinyali-iz-za-nehvatki-mest-eksklyuziv.htm
 	set tags smert,gonchar_svetlana,kiev,bojarka
@@ -1131,9 +1131,9 @@ page
 	set url https://news.obozrevatel.com/society/lyuboj-tsenoj-podalshe-ot-ukrainyi-teper-rasplachivayutsya.htm
 	set tags sssr,ukraina
 page
+on
 	set url https://strana.ua/news/315262-sud-izbral-meru-presechenija-zaderzhannoj-po-delu-telehram-kanalov-lehitimnyj-i-rezident.html
 	set tags sbu,telegram,ukraina,sud,daskalica_viktoria
-on
 page
 	set url https://strana.ua/news/315183-sbu-otkryla-delo-na-telehram-kanaly-lehitimnyj-i-rezident-chto-eto-oznachaet.html
 	set tags sud,telegram,sbu,ukraina,daskalica_viktoria
@@ -1156,6 +1156,28 @@ page
 page
 	set url https://lenta.ru/news/2021/02/02/lancet/
 	set tags lancet,sputnik_v,vaccine,covid,rossia
+page
+	set url https://plus.obozrevatel.com/crime/zoloto-iz-ukrainskih-bankov-vyivezli-v-rossiyu-a-sami-legli-pod-fsb-audioperehvat-razgovorov-boevikov-dnr.htm
+	set tags dnr,moskva,kriminal
+	set redo 1
+page
+	set url https://news.obozrevatel.com/society/lzhivyie-filmyi-pro-ukrainu.htm
+	set tags filmy,sssr,ukraina
+page
+	set url https://strana.ua/news/315344-khomchak-i-taran-vojujut-v-minoborony-za-kontrol-nad-finansirovaniem-podrobnosti-skandala.html
+	set tags vsu,homchak,ukraina,min_oborony
+page
+	set url https://blogs.korrespondent.net/blog/politics/4022490/
+	set tags kiev,politika,mysli
+page
+	set url https://news.obozrevatel.com/society/rossiya-zavezla-na-donbass-vaktsinu-sputnik-v-kazanskij-utochnil-vazhnyij-nyuans.htm
+	set tags vaccine,covid,sputnik_v
+page
+	set url https://blogs.korrespondent.net/blog/world/4279628/
+	set tags baiden_joe,trump_donald,debaty
+page
+	set url https://blogs.korrespondent.net/blog/politics/4230332/
+	set tags svoboda_slova,girkin_igor,gordon_dmitrii,vojna,poklonskaja_natalja
 eof
 off
 page

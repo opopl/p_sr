@@ -40,7 +40,7 @@ class PageParser(RootPageParser):
     parts = list(f)
 
     if len(parts) > 3:
-      if parts[0] in util.qw('articles news photo'):
+      if parts[0] in util.qw('articles news photo brief'):
         year  = parts[1]
         month = parts[2]
         day   = parts[3]

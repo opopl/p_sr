@@ -954,7 +954,6 @@ global
 		#get_img
 		#db_update
 		#<++>
-on
 page
 	set url https://news.obozrevatel.com/show/people/vasilij-lanovoj-chto-govoril-pro-ukrainu-umer-legenda-rossijskogo-kino.htm
 	set tags lanovoi_vasilii,ukraina,rossia
@@ -1127,7 +1126,6 @@ page
 	set url https://news.obozrevatel.com/society/lyuboj-tsenoj-podalshe-ot-ukrainyi-teper-rasplachivayutsya.htm
 	set tags sssr,ukraina
 page
-on
 	set url https://strana.ua/news/315262-sud-izbral-meru-presechenija-zaderzhannoj-po-delu-telehram-kanalov-lehitimnyj-i-rezident.html
 	set tags sbu,telegram,ukraina,sud,daskalica_viktoria
 page
@@ -1280,9 +1278,11 @@ page
 page
 	set url https://www.radiosvoboda.org/a/elita-psevdoelita-narod-ukrayina/31080910.html
 	set tags ukraina,mysli
+on
 page
 	set url https://www.pravda.com.ua/articles/2021/02/2/7281959/
 	set tags mova,kremin_taras
+	set redo 1
 page
 	set url https://www.pravda.com.ua/news/2021/02/2/7282097/
 	set tags rnbo,ukraina,kozak_taras,sanctions
@@ -1292,6 +1292,78 @@ page
 page
 	set url https://zen.yandex.ru/media/history_russian/chto-pisali-o-drevnih-rusah-arabskie-puteshestvenniki-6016e4e47fd0a5390f4b6e3e
 	set tags rossia,istoria,arabs
+page
+	set url https://lenta.ru/brief/2021/02/03/imp_zel/
+	set tags zelenskii_vladimir,newsone,zik,112_ua,ukraina,opzzh
+page
+	set url https://lenta.ru/news/2021/02/03/racist/
+	set tags rasizm,usa,muzykant
+page
+	set url https://www.radiosvoboda.org/a/news-sankciji-proty-112-newsone-zik/31083395.html
+	set tags tomilenko_sergii,ukraina
+page
+	set url https://from-ua.com/articles/585755-ekonomika-kompradorskogo-eksporta-idet-bolshaya-rasprodazha-ukraini.html
+	set tags ekonomika,ukraina
+page
+	set url https://strana.ua/articles/analysis/315582-osnovanie-dlja-impichmenta-kakie-posledstvija-dlja-zelenskoho-budut-imet-sanktsii-protiv-telekanalov.html
+	set tags ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/315488-telekanaly-112-zik-i-njusvan-zakryty-chto-dalshe-onlajn-transljatsija.html
+	set tags ukraina,zapret
+page
+	set url https://strana.ua/news/315157-navalnyj-sud-2-fevralja-prjamaja-transljatsii-iz-moshorsuda-prihovor.html
+	set tags navalny,rossia
+page
+	set url https://strana.ua/news/315602-eks-ministr-justitsii-lukash-otreahirovala-na-blokirovku-telekanalov.html
+	set tags lukash_elena,zapret,ukraina
+page
+	set url https://strana.ua/news/315534-razumkov-zajavil-chto-ne-podderzhivaet-sanktsii-k-telekanalam-112-newsone-i-zik-.html
+	set tags razumkov_dmitrii,rnbo,ukraina,zapret,zik,newsone,112_ua
+page
+	set url https://strana.ua/news/315507-opzzh-initsiiruet-protseduru-impichmenta-zelenskoho.html
+	set tags opzzh
+page
+	set url https://strana.ua/news/315500-kiva-prokommentiroval-zakrytie-telekanalov-newsone-zik-i-112-zelenskim.html
+	set tags kiva_ilja,zapret,ukraina,newsone,zik,112_ua
+page
+	set url https://news.obozrevatel.com/society/yurist-o-zaprete-kanalov-medvedchuka-oni-vedut-podryivnuyu-deyatelnost-gosudarstvo-imeet-pravo-vmeshivatsya.htm
+	set tags sankcii,zelenskii_vladimir,newsone,zik,112_ua,ukraina
+page
+	set url https://news.obozrevatel.com/politics/pryamom-espresso-5-mu-kanalu-i-drugim-prigotovitsya.htm
+	set tags ukraina,sankcii,newsone,112_ua,zik
+page
+	set url https://news.obozrevatel.com/politics/zakryitie-kanalov-inogda-oni-vozvraschayutsya.htm
+	set tags portnikov_vitalii,zapret
+page
+	set url https://ukraina.ru/opinion/20210203/1030437267.html
+	set tags ukraina
+page
+	set url https://ukraina.ru/interview/20210203/1030445338.html
+	set tags ukraina,bondarenko_elena,zelenskii_vladimir
+page
+	set url https://ukraina.ru/exclusive/20210203/1030441743.html
+	set tags ukraina,vaccine
+page
+	set url https://ukraina.ru/exclusive/20210203/1030445420.html
+	set tags ukraina
+page
+	set url https://ukraina.ru/opinion/20210203/1030447289.html
+	set tags ukraina
+page
+	set url https://ukraina.ru/exclusive/20210203/1030440667.html
+	set tags ukraina
+page
+	set url http://day.kyiv.ua/uk/news/030221-yes-pozytyvno-ocinyv-vprovadzhennya-sankciy-proty-telekanaliv-medvedchuka
+	set tags ukraina,es
+page
+	set url https://lenta.ru/news/2021/02/03/shakal/
+	set tags rossia,kadyrov_ramzan
+page
+	set url https://www.vesti.ru/article/2518960
+	set tags ukraina
+page
+	set url https://gazeta.ua/blog/54554/akscho-u-kozaka-nema-rosijskogo-pasporta-to-sankciyi-budut-fakapom-prezidenta
+	set tags ukraina
 eof
 off
 page

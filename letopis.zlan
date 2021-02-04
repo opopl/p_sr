@@ -1278,7 +1278,6 @@ page
 page
 	set url https://www.radiosvoboda.org/a/elita-psevdoelita-narod-ukrayina/31080910.html
 	set tags ukraina,mysli
-on
 page
 	set url https://www.pravda.com.ua/articles/2021/02/2/7281959/
 	set tags mova,kremin_taras
@@ -1428,10 +1427,94 @@ page
 page
 	set url https://inosmi.ru/science/20210202/249050018.html
 	set tags vaccine,covid,sputnik_v,rossia
-on
 page
 	set url https://strana.ua/news/315896-ukaz-zelenskoho-o-zakrytii-trekh-telekanalov-obzhalovan-v-verkhovnom-sude.html
 	set tags telekanaly,zapret,ukraina
+page
+	set url https://strana.ua/news/315893-zakrytie-telekanalov-priznak-smeny-kursa-k-avtoritarizmu-evrodeputat.html
+	set tags zapret,telekanaly,ukraina
+on
+page
+	set url https://strana.ua/news/315806-karas-u-kanala-nash-draki-i-perepalka-s-zhurnalistami.html
+	set tags karas_evgenii,kiev,ukraina,telekanal_nash
+page
+	set url https://strana.ua/articles/analysis/315598-kakimi-budut-posledstvija-blokirovki-kanalov-dlja-zelenskoho-.html
+	set tags zapret,ukraina,telekanaly
+page
+	set url https://strana.ua/news/315797-kanal-nash-stychki-s-karasem-iz-s14-video.html
+	set tags telekanal_nash,ukraina,kiev,c14,karas_evgenii
+page
+	set url https://news.obozrevatel.com/society/solnechnaya-i-ochen-silnaya-druzya-rasskazali-o-vrache-kotoraya-pogibla-vo-vremya-pozhara-v-zaporozhe.htm
+	set tags pozhar,zaporozhie,smert
+page
+	set url https://plus.obozrevatel.com/crime/ukraina-prevraschaetsya-v-svalku-meditsinskih-othodov-kto-vinovat-i-chto-delat.htm
+	set tags medicine,ukraina
+page
+	set url https://news.obozrevatel.com/kiyany/life/kak-zhil-kiev-vo-vremena-sssr.htm
+	set tags kiev,istoria
+page
+	set url https://www.obozrevatel.com/russia/veschi-strogo-zapreschennyie-v-sssr.htm
+	set tags sssr,istoria
+page
+	set url https://ukraina.ru/exclusive/20210204/1030451104.html
+	set tags ukraina,avaria,energodar,pozhar
+page
+	set url https://ukraina.ru/exclusive/20210204/1030455823.html
+	set tags sputnik_v,covid,vaccine,rossia
+page
+	set url https://ukraina.ru/exclusive/20210204/1030448104.html
+	set tags ukraina,sputnik_v,lancet,phase_3,rossia
+page
+	set url https://ukraina.ru/interview/20210122/1030325595.html
+	set tags sputnik_v,rossia,ukraina,mysli
+page
+	set url https://ukraina.ru/exclusive/20210204/1030456760.html
+	set tags zelenskii_vladimir,rossia,ukraina,perevorot
+page
+	set url https://zen.yandex.ru/media/cyrillitsa.ru/pochemu-u-russkih-vysokii-bolevoi-porog-60022596fd62ee06892b0b71
+	set tags rossia
+page
+	set url https://cyrillitsa.ru/tradition/154328-kogda-na-rusi-muzhchinu-mogli-nasilno-zh.html
+	set tags rossia,istoria,rus
+page
+	set url https://cyrillitsa.ru/past/146437-apokalipsis-ioanna-bogoslova-kaki.html
+	set tags rossia,apokalipsis,istoria,biblia,hristos
+page
+	set url https://cyrillitsa.ru/past/154341-simvol-russkogo-iskusstva-chto-izvest.html
+	set tags ikony,rossia,rus,istoria
+page
+	set url https://cyrillitsa.ru/history/154313-kakie-strashnye-bolezni-prishli-na-rus.html
+	set tags rossia,istoria,bolezni
+page
+	set url https://cyrillitsa.ru/tradition/154350-smertnye-grekhi-v-islame-chem-oni-otlicha.html
+	set tags islam,greh,hristos
+page
+	set url https://cyrillitsa.ru/past/154274-baba-yaga-i-zmey-gorynych-skolko-vekov-r.html
+	set tags rossia,istoria,skazki
+page
+	set url https://zen.yandex.ru/media/cyrillitsa.ru/kak-postupali-s-pianicami-na-rusi-601b8e8fce93531089aafc62
+	set tags pjanstvo,rus,istoria,rossia
+page
+	set url https://zen.yandex.ru/media/rebjakov/kto-takie-russkie-chto-govorit-genetika-5fdf0c928ae4867dad974ac1
+	set tags rossia,istoria,rus,genetika
+page
+	set url https://zen.yandex.ru/media/rebjakov/pochemu-stolica-iz-kieva-pereshla-v-moskvu-6018fb7a8414c340c6480f64
+	set tags kiev,istoria,rus,rossia
+page
+	set url https://zen.yandex.ru/media/rebjakov/ia-tupoi-vatnik-601959828414c340c6336fe4
+	set tags vatnik,rossia,mysli
+page
+	set url https://zen.yandex.ru/media/rebjakov/zachem-nenavidet-svoiu-stranu-6012c7b7f26bf62c16e63fa4
+	set tags rossia,lubov,rodina,mysli
+page
+	set url https://zen.yandex.ru/media/rebjakov/esli-bloger-i-ego-storonniki-pridut-k-vlasti-prekrasnaia-rossiia-buduscego-kakaia-ona-600d36f841733326eb2caa3d
+	set tags navalny,rossia,istoria
+page
+	set url https://ukraina.ru/news/20210204/1030462723.html
+	set tags ukraina,usa,sikorskii_igor,kiev
+page
+	set url https://ukraina.ru/news/20210204/1030462460.html
+	set tags nazizm,kiev,telekanal_nash
 eof
 off
 page

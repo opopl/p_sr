@@ -1282,7 +1282,7 @@ on
 page
 	set url https://www.pravda.com.ua/articles/2021/02/2/7281959/
 	set tags mova,kremin_taras
-	set redo 1
+	#set redo 1
 page
 	set url https://www.pravda.com.ua/news/2021/02/2/7282097/
 	set tags rnbo,ukraina,kozak_taras,sanctions
@@ -1349,9 +1349,12 @@ page
 page
 	set url https://ukraina.ru/opinion/20210203/1030447289.html
 	set tags ukraina
+on
 page
 	set url https://ukraina.ru/exclusive/20210203/1030440667.html
 	set tags ukraina
+	set redo 1
+off
 page
 	set url http://day.kyiv.ua/uk/news/030221-yes-pozytyvno-ocinyv-vprovadzhennya-sankciy-proty-telekanaliv-medvedchuka
 	set tags ukraina,es
@@ -1364,6 +1367,27 @@ page
 page
 	set url https://gazeta.ua/blog/54554/akscho-u-kozaka-nema-rosijskogo-pasporta-to-sankciyi-budut-fakapom-prezidenta
 	set tags ukraina
+page
+	set url https://strana.ua/news/315472-okhrana-ne-puskaet-hostej-na-studiju-dovzhenko-hde-idet-marafon-trekh-kanalov.html
+	set tags ukraina
+page
+	set url https://strana.ua/news/315467-taras-kozak-o-sanktsijakh-zelenskoho-protiv-neho-i-zaprete-trekh-telekanalov.html
+	set tags ukraina,kozak_taras
+page
+	set url https://strana.ua/news/315466-zajavlenie-telekanalov-mediakholdinha-novosti-112-ukraina-newsone-i-zik.html
+	set tags ukraina,
+page
+	set url https://112.ua/mir/evrodeputat-zelenskomu-poka-vy-podavlyaete-svobodnye-smi-ustupok-po-otnosheniyu-k-ukraine-ne-budet-566638.html
+	set tags ukraina,zelenskii_vladimir
+page
+	set url https://112.ua/glavnye-novosti/sayt-telekanala-zik-pereehal-na-novyy-domen-staryy-prosto-zabrali-566609.html
+	set tags zik,ukraina
+page
+	set url https://strana.ua/news/315613-aleksandr-zelenskij-rasskazal-o-svoem-mnenii-po-sanktsij-k-oppozitsionnym-telekanalov.html
+	set tags zelenskii_aleksandr
+page
+	set url https://strana.ua/news/315616-chto-pishut-na-zapade-ob-otkljuchenii-trekh-telekanalov-v-ukraine.html
+	set tags zelenskii_vladimir,ukraina
 eof
 off
 page

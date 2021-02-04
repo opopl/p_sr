@@ -1,4 +1,6 @@
 
+###ua
+
 'strana.ua' : { 'site' : 'news.ua.strana' } 
 'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
 'obozrevatel.com' : { 'site' : 'news.ua.oboz' }
@@ -6,15 +8,32 @@
 'pravda.com.ua' : { 'site' : 'news.ua.pravda' }
 'lb.ua' : { 'site' : 'news.ua.lb' }
 'imi.org.ua' : { 'site' : 'news.ua.imi' }
-'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
-'lenta.ru' : { 'site' : 'news.ru.lenta' }
 'fakty.ua' : { 'site' : 'news.ua.fakty' }
 'day.kiev.ua,day.kyiv.ua' : { 'site' : 'news.ua.day_kiev_ua' }
-'apple.com' : { 'site' : 'com.us.apple' }
-'life.ru' : { 'site' : 'news.ru.life' }
 'zaxid.net' : { 'site' : 'news.ua.zaxid' }
+'112.ua' : { 'site' : 'news.ua.112' }
+
+###vera
+'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }
+
+###ru
+
+'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
+'lenta.ru' : { 'site' : 'news.ru.lenta' }
+'life.ru' : { 'site' : 'news.ru.life' }
+'ukraina.ru' : { 'site' : 'news.ru.ukraina' }
+'vesti.ru' : { 'site' : 'news.ru.vesti_ru' }
+'zen.yandex.ru' : { 'site' : 'news.ru.yandex.zen' }
+
+###pc
+
 'cairographics.org' : { 'site' : 'pc.cairographics' }
 'cairosvg.org' : { 'site' : 'pc.cairosvg' }
 'docs.python.org' : { 'site' : 'pc.docs.python' }
-'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }
 'sitepoint.com' : { 'site' : 'pc.articles.sitepoint' }
+
+###com
+#
+'apple.com' : { 'site' : 'com.us.apple' }
+
+

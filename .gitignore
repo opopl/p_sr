@@ -28,3 +28,5 @@ log
 *.mtc*
 html/url
 *.tree
+__pycache__
+scrape/bs/out

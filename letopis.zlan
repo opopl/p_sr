@@ -1388,6 +1388,9 @@ page
 page
 	set url https://strana.ua/news/315616-chto-pishut-na-zapade-ob-otkljuchenii-trekh-telekanalov-v-ukraine.html
 	set tags zelenskii_vladimir,ukraina
+page
+	set url https://strana.ua/news/315803-spisok-zapreshchennykh-k-vvozu-v-ukrainu-knih-popolnilsja-tremja-naimenovanijami.html
+	set tags knigi,zapret
 eof
 off
 page

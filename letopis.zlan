@@ -1358,6 +1358,7 @@ off
 page
 	set url http://day.kyiv.ua/uk/news/030221-yes-pozytyvno-ocinyv-vprovadzhennya-sankciy-proty-telekanaliv-medvedchuka
 	set tags ukraina,es
+	set redo 1
 page
 	set url https://lenta.ru/news/2021/02/03/shakal/
 	set tags rossia,kadyrov_ramzan
@@ -1391,6 +1392,46 @@ page
 page
 	set url https://strana.ua/news/315803-spisok-zapreshchennykh-k-vvozu-v-ukrainu-knih-popolnilsja-tremja-naimenovanijami.html
 	set tags knigi,zapret
+page
+	set url https://strana.ua/news/315742-pozhar-v-infektsionnoj-bolnitse-zaporozhe-vse-podrobnosti-foto.html
+	set tags pozhar,zaporozhie,gospital,covid
+page
+	set url https://strana.ua/news/315713-pozhar-v-infektsionnoj-bolnitse-zaporozhja-unes-zhizni-trekh-patsientov-i-molodoho-vracha.html
+	set tags zaporozhie,pozhar,energodar,smert
+page
+	set url https://strana.ua/news/315675-iz-zi-avarii-na-zaporozhskoj-tes-enerhodar-ostalsja-bez-sveta-i-vody.html
+	set tags energodar,pozhar,zaporozhie
+page
+	set url https://strana.ua/news/315659-newsone-zik-i-112-kak-zakryvali-telekanaly-na-zasedanii-snbo-versija-sekretarja-alekseja-danilova.html
+	set tags rnbo,zapret,telekanaly,danilov_alexei
+page
+	set url https://gazeta.ua/articles/politics/_e-nizka-antiukrayinskih-kanaliv-potriben-zakon-pro-kolaborantiv/1012721
+	set tags zapret,ukraina,telekanaly
+page
+	set url https://gazeta.ua/articles/posuti/_ukrayina-gotuyetsya-do-vakcinaciyi-vid-covid19-scho-varto-znati/1012715
+	set tags vaccine,covid,ukraina
+page
+	set url https://lenta.ru/news/2021/02/04/welt/
+	set tags vaccine,covid,rossia,germania,sputnik_v
+page
+	set url https://lenta.ru/articles/2021/02/04/pogrebinskiy/
+	set tags pogrebinskii_mihail,zelenskii_vladimir,ukraina,rossia
+page
+	set url https://www.vesti.ru/article/2519520
+	set tags vaccine,covid,sputnik_v,rossia
+page
+	set url https://www.npr.org/2021/02/03/963730363/what-role-russias-sputnik-v-covid-19-vaccine-will-play-in-ending-the-pandemic?t=1612452266763
+	set tags vaccine,rossia,sputnik_v
+page
+	set url https://inosmi.ru/politic/20210204/249058924.html
+	set tags vaccine,covid,rossia,sputnik_v,die_welt
+page
+	set url https://inosmi.ru/science/20210202/249050018.html
+	set tags vaccine,covid,sputnik_v,rossia
+on
+page
+	set url https://strana.ua/news/315896-ukaz-zelenskoho-o-zakrytii-trekh-telekanalov-obzhalovan-v-verkhovnom-sude.html
+	set tags telekanaly,zapret,ukraina
 eof
 off
 page

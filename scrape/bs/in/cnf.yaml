@@ -39,6 +39,7 @@ sel:
   clean:
     - 'style'
     - 'aside'
+    - 'link'
     - 'script'
     - 'meta'
     - 'header'

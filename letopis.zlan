@@ -1612,6 +1612,12 @@ page
 page
 	set url https://life.pravda.com.ua/volunteers/56f10efd18841/
 	set tags ato,ukraina,volontery
+page
+	set url https://www.pravda.com.ua/articles/2019/06/21/7217344/
+	set tags avia,ukraina,industria
+page
+	set url https://www.epravda.com.ua/rus/publications/2018/08/21/639792/
+	set tags avia,industria,ukraina
 eof
 off
 page

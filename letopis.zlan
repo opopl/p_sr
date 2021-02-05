@@ -1348,7 +1348,7 @@ page
 page
 	set url https://ukraina.ru/opinion/20210203/1030447289.html
 	set tags ukraina
-on
+#on
 page
 	set url https://ukraina.ru/exclusive/20210203/1030440667.html
 	set tags ukraina
@@ -1515,6 +1515,21 @@ page
 page
 	set url https://ukraina.ru/news/20210204/1030462460.html
 	set tags nazizm,kiev,telekanal_nash
+page
+	set url https://news.obozrevatel.com/politics/ukraintsyi-otbilis-ot-ruk-u-rossijskoj-propagandyi-podgoraet.htm
+	set tags rossia,ukraina,telekanaly,zapret
+page
+	set url https://gordonua.com/blogs/jurbutusov/posle-udara-po-opzhz-i-informacionnym-proektam-rf-v-ukraine-zelenskiy-otrezal-sebe-puti-otstupleniya-bit-tak-bit-1538588.html
+	set tags opzzh,ukraina,mysli
+page
+	set url https://strana.ua/news/315941-ukaz-o-telekanalakh-v-verkhovnom-sude-ataka-radikalov-na-nash-kabmin-prospal-pfizer.html
+	set tags telekanaly,ukraina
+page
+	set url https://strana.ua/news/315915-iski-v-verkhovnyj-sud-protiv-zakrytija-telekanalov-podali-ne-oni.html
+	set tags telekanaly,ukraina,verhodnyy_sud
+page
+	set url https://from-ua.com/articles/586061-zelenskii-obeschal-posadit-poroshenko-a-nachal-voinu-protiv-medvedchuka-i-opzzh.html
+	set tags zapret,telekanaly,opzzh,ukraina
 eof
 off
 page

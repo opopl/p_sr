@@ -1561,6 +1561,42 @@ page
 page
 	set url https://zaxid.net/lvivskiy_deputat_zaproponuvav_ne_puskati_do_radi_zhurnalistiv_telekanaliv_medvedchuka_n1514009
 	set tags ukraina,verhovna_rada,zapret,telekanaly
+page
+	set url https://strana.ua/news/315966-kak-izbivajut-zhurnalistov-posle-zakrytija-oppozitsionnykh-telekanalov.html
+	set tags smi,ukraina,travlja
+page
+	set url https://life.pravda.com.ua/travel/2021/02/5/243850/
+	set tags ukraina,vernadsky_stancia,antarktida
+page
+	set url https://life.pravda.com.ua/travel/2017/05/26/224362/
+	set tags ukraina,vernadsky_stancia,antarktida
+page
+	set url http://uac.gov.ua/rezultati-konkursu-privitaj-polyarnika-z-novim-rokom/
+	set tags ukraina,vernadsky_stancia,antarktida
+page
+	set url https://uritsk.livejournal.com/116450.html
+	set tags ukraina,vernadsky_stancia,antarktida
+page
+	set url https://uritsk.livejournal.com/118247.html?utm_source=map
+	set tags ukraina,vernadsky_stancia,antarktida
+page
+	set url https://antcold.livejournal.com/photo/album/493/
+	set tags ukraina,vernadsky_stancia,antarktida
+page
+	set url https://antarctica-antcold.blogspot.com/2018/02/blog-post.html
+	set tags ukraina,vernadsky_stancia,antarktida
+page
+	set url https://antarctica-antcold.blogspot.com/2011/08/blog-post.html
+	set tags ukraina,vernadsky_stancia,antarktida
+page
+	set url https://antarctica-antcold.blogspot.com/2011/10/
+	set tags ukraina,vernadsky_stancia,antarktida
+page
+	set url https://antarctica-antcold.blogspot.com/2011/02/blog-post_339.html
+	set tags ukraina,vernadsky_stancia,antarktida
+page
+	set url https://antarctica-antcold.blogspot.com/2011/02/blog-post.html
+	set tags ukraina,vernadsky_stancia,antarktida
 eof
 off
 page

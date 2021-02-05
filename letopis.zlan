@@ -1624,6 +1624,18 @@ page
 page
 	set url https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 	set tags flexbox,pc
+page
+	set url https://strana.ua/news/316132-v-serbii-khotjat-nachat-proizvodstvo-rossijskoj-vaktsiny-ot-koronavirusa-sputnik-v.html
+	set tags serbia,sputnik_v,covid,vaccine
+page
+	set url https://strana.ua/news/316089-video-zelenskoho-o-zakrytii-telekanalov-5-fevralja-hlavnoe.html
+	set tags zelenskii_vladimir,video
+page
+	set url https://strana.ua/news/315973-pesnja-ot-ukrainy-na-evrovidenie-2021-video-vse-podrobnosti.html
+	set tags evrovidenie,ukraina
+page
+	set url https://ukraina.ru/opinion/20210205/1030472815.html
+	set tags rossia,internet
 eof
 off
 page

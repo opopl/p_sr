@@ -1618,6 +1618,12 @@ page
 page
 	set url https://www.epravda.com.ua/rus/publications/2018/08/21/639792/
 	set tags avia,industria,ukraina
+page
+	set url https://freshman.tech/flexbox-navbar/
+	set tags pc,flexbox
+page
+	set url https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+	set tags flexbox,pc
 eof
 off
 page

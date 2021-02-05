@@ -1636,6 +1636,15 @@ page
 page
 	set url https://ukraina.ru/opinion/20210205/1030472815.html
 	set tags rossia,internet
+page
+	set url https://strana.ua/news/316138-durov-prizval-ne-prizyvat-v-telehram-k-nasiliju.html
+	set tags telegram,durov_pavel
+page
+	set url https://fakty.ua/367617-devushka-po-ruke-nagadala-avtoru-cshedrika-nikolayu-leontovichu-chto-ego-zhizn-vot-vot-oborvetsya
+	set tags leontovych_mykola,smert
+page
+	set url https://stihi.ru/2016/08/25/3624
+	set tags gogol,ukraina
 eof
 off
 page

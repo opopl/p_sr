@@ -1433,7 +1433,6 @@ page
 page
 	set url https://strana.ua/news/315893-zakrytie-telekanalov-priznak-smeny-kursa-k-avtoritarizmu-evrodeputat.html
 	set tags zapret,telekanaly,ukraina
-on
 page
 	set url https://strana.ua/news/315806-karas-u-kanala-nash-draki-i-perepalka-s-zhurnalistami.html
 	set tags karas_evgenii,kiev,ukraina,telekanal_nash
@@ -1443,9 +1442,14 @@ page
 page
 	set url https://strana.ua/news/315797-kanal-nash-stychki-s-karasem-iz-s14-video.html
 	set tags telekanal_nash,ukraina,kiev,c14,karas_evgenii
+on
 page
 	set url https://news.obozrevatel.com/society/solnechnaya-i-ochen-silnaya-druzya-rasskazali-o-vrache-kotoraya-pogibla-vo-vremya-pozhara-v-zaporozhe.htm
 	set tags pozhar,zaporozhie,smert
+	set redo 1
+	setlist acts
+		db_update
+off
 page
 	set url https://plus.obozrevatel.com/crime/ukraina-prevraschaetsya-v-svalku-meditsinskih-othodov-kto-vinovat-i-chto-delat.htm
 	set tags medicine,ukraina
@@ -1530,6 +1534,33 @@ page
 page
 	set url https://from-ua.com/articles/586061-zelenskii-obeschal-posadit-poroshenko-a-nachal-voinu-protiv-medvedchuka-i-opzzh.html
 	set tags zapret,telekanaly,opzzh,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/glava-natssoveta-po-televidenyu-obyasnila-za-chto-kanal-nash-zahoteli-lishit-litsenzii.htm
+	set tags ukraina,telekanal_nash,zapret
+page
+	set url https://www.obozrevatel.com/russia/yakovenko-o-dele-navalnogo-putin-sam-prizyivaet-lyudej-k-nasiliyu-znachit-budet-nasilie.htm
+	set tags rossia,putin
+page
+	set url https://www.vesti.ru/article/2519948
+	set tags sputnik_v,rossia,es
+page
+	set url https://www.vesti.ru/article/2519843
+	set tags kuban,rossia,sputnik_v,vaccine,covid
+page
+	set url https://www.vesti.ru/article/2519803
+	set tags parizh,francia,covid,vaccine,sputnik_v,rossia
+page
+	set url https://lenta.ru/news/2021/02/05/nazad/
+	set tags rossia,covid,statistics
+page
+	set url https://inosmi.ru/science/20210205/249073393.html
+	set tags sputnik_v,vaccine,covid,rossia,zapad
+page
+	set url https://inosmi.ru/politic/20210205/249065163.html
+	set tags francia,covid,vaccine,sputnik_v,rossia
+page
+	set url https://zaxid.net/lvivskiy_deputat_zaproponuvav_ne_puskati_do_radi_zhurnalistiv_telekanaliv_medvedchuka_n1514009
+	set tags ukraina,verhovna_rada,zapret,telekanaly
 eof
 off
 page

@@ -7,6 +7,34 @@ url: {}
 log:
   reset
 
+PageParser:
+  get_date_meta:
+    sels:
+      - { 
+          'find' : 'meta[itemprop="datePublished"]', 
+          'get'  : 'attr', 
+          'attr' : 'content', 
+        }
+      - { 
+          'find' : 'meta[property="article:published_time"]', 
+          'get'  : 'attr', 
+          'attr' : 'content', 
+        }
+  get_author_meta:
+    sels:
+      - { 
+          'str' : {
+             'find' : 'meta[name="author"]', 
+             'get'  : 'attr', 
+             'attr' : 'content', 
+          },
+          'url' : {
+             'find' : 'meta[property="article:author"]', 
+             'get'  : 'attr', 
+             'attr' : 'content', 
+          },
+        }
+
 sel:
   clean:
     - 'style'

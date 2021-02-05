@@ -1606,6 +1606,12 @@ page
 page
 	set url https://life.pravda.com.ua/society/2018/02/7/228838/
 	set tags ukraina,vernadsky_stancia,antarktida
+page
+	set url https://life.pravda.com.ua/culture/2021/02/4/243837/
+	set tags films,kultura
+page
+	set url https://life.pravda.com.ua/volunteers/56f10efd18841/
+	set tags ato,ukraina,volontery
 eof
 off
 page

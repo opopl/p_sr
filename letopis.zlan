@@ -1687,10 +1687,10 @@ page
 page
 	set url https://www.radiosvoboda.org/a/ukrayina-i-demokratiya-dyskusiya-istorykiv/31088581.html
 	set tags plohii_sergii,ukraina,demokratia,diskussia
-eof
 page
 	set url https://www.radiosvoboda.org/a/prorosiyski-partii-ukraina/31086415.html
 	set tags ukraina,telekanaly
+eof
 off
 page
 	set url <++>

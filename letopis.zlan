@@ -454,7 +454,7 @@ page
 	set tags pc,python,cairosvg,docs
 page 
 	set url https://docs.python.org/3/library/datetime.html
-	set tags pc,python3,datetime
+	set tags pc,python3,datetime,docs
 page 
 	set url https://strana.ua/news/311488-bitva-za-koroleva-priedet-li-ilon-mask-v-zhitomir-posle-tvitter-battla-o-velikom-konstruktore.html
 	set tags mask_ilon,korolev_sergei,zelenskii_vladimir
@@ -1675,6 +1675,42 @@ page
 page
 	set url http://day.kyiv.ua/uk/blog/suspilstvo/zig-hayl-lorda-ho-ho-i-zik-tovaryshiv-gav-gav
 	set tags moskva,ukraina,telekanaly
+page
+	set url https://vz.ru/opinions/2021/1/3/1078682.html
+	set tags rossia,mysli
+page
+	set url https://lenta.ru/news/2021/02/06/breakthrough/
+	set tags rossia,nauka,sputnik_v,vaccine,covid
+page
+	set url https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00191-4/fulltext
+	set tags lancet,sputnik_v,covid,vaccine,rossia
+page
+	set url https://www.bloomberg.com/news/articles/2021-02-06/putin-s-once-scorned-vaccine-is-now-a-favorite-in-pandemic-fight
+	set tags lancet,sputnik_v,covid,vaccine,rossia
+page
+	set url https://lenta.ru/news/2021/02/05/sputnik_certify/
+	set tags lancet,sputnik_v,covid,vaccine,rossia,evrokomissia,borrel_zhozep,es
+page
+	set url https://lenta.ru/news/2021/02/06/sancdeput/
+	set tags sankcii,danilov_alexei,telekanaly,ukraina
+page
+	set url https://gazeta.ua/articles/history/_u-kosteli-vidkrili-muzej-rosijskoukrayinskoyi-vijni/1013104
+	set tags vojna,ato,ukraina
+page
+	set url https://gazeta.ua/articles/sogodennya/_pogano-znayut-ale-ye-bazhannya-vchiti/1013053
+	set tags mova,ukraina,ukrainizacia
+page
+	set url https://gazeta.ua/articles/sogodennya/_kak-eto-vy-v-ukraine-ne-ponimaete-russkij-yak-kafe-i-magazini-perehodyat-na-ukrayinsku-movu/1011018
+	set tags mova,ukraina,ukrainizacia
+page
+	set url https://gazeta.ua/blog/54578/ukrayinci-mayut-podoroslishati-svoboda-slova-ce-ne-bezmezhnij-potik-brehni
+	set tags telekanaly,zapret,ukraina
+page
+	set url https://docs.python.org/3/library/glob.html
+	set tags pc,python3,docs,glob
+page
+	set url https://docs.python.org/3/library/pathlib.html
+	set tags pc,python3,docs,pathlib
 eof
 off
 page

@@ -1675,6 +1675,9 @@ page
 page
 	set url http://day.kyiv.ua/uk/blog/suspilstvo/zig-hayl-lorda-ho-ho-i-zik-tovaryshiv-gav-gav
 	set tags moskva,ukraina,telekanaly
+page
+	set url https://www.pravda.com.ua/articles/2021/02/6/7282509/
+	set tags kernes_gennadii,ukraina
 eof
 off
 page

@@ -1449,7 +1449,6 @@ page
 	set redo 1
 	setlist acts
 		db_update
-off
 page
 	set url https://plus.obozrevatel.com/crime/ukraina-prevraschaetsya-v-svalku-meditsinskih-othodov-kto-vinovat-i-chto-delat.htm
 	set tags medicine,ukraina
@@ -1711,6 +1710,7 @@ page
 page
 	set url https://docs.python.org/3/library/pathlib.html
 	set tags pc,python3,docs,pathlib
+page
 	set url https://www.pravda.com.ua/articles/2021/02/6/7282509/
 	set tags kernes_gennadii,ukraina
 page
@@ -1725,6 +1725,27 @@ page
 page
 	set url https://www.radiosvoboda.org/a/prorosiyski-partii-ukraina/31086415.html
 	set tags ukraina,telekanaly
+page
+	set url https://strana.ua/news/316229-natsionalisty-vo-vremja-aktsii-protesta-pod-telekanalom-nash-nachali-oskorbljat-aktrisu.html
+	set tags titarenko_lubov,nazis,ukraina
+page
+	set url https://strana.ua/news/316207-telekanal-nash-prjamoj-efir-s-mitinhov-natsionalistov-6-fevralja-onlajn-transljatsija.html
+	set tags nazis,ukraina,telekanal_nash,telekanaly
+page
+	set url https://strana.ua/news/316073-novavaks-podrobnoe-opisanie-vaktsiny-dlja-ukrainy.html
+	set tags vaccine,covid,ukraina
+page
+	set url https://kiev.strana.ua/316215-6-fevralja-nachalas-aktsija-protesta-vozle-ofisa-telekanala-nash.html
+	set tags ukraina,telekanal_nash,protests,nazis
+page
+	set url https://kiev.strana.ua/315924-zhurnalist-telekanala-nash-rasskazal-o-napadenii-natsionalistov.html
+	set tags telekanal_nash,ukraina,napadenie,policia,kriminal
+page
+	set url https://strana.ua/news/315868-napadenie-na-kanal-nash-seredjuk-peredumal-vybrasyvatsjaiz-okna.html
+	set tags ukraina,nazis,c14
+page
+	set url https://strana.ua/news/315834-na-aktsii-protiv-kanala-nash-nakhodilsja-paren-so-svastikoj.html
+	set tags telekanal_nash,nazis,ukraina
 eof
 off
 page

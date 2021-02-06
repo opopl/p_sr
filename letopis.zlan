@@ -1645,6 +1645,30 @@ page
 page
 	set url https://stihi.ru/2016/08/25/3624
 	set tags gogol,ukraina
+page
+	set url https://fakty.ua/364557-igor-poklad-uveren-chto-i-tam-naverhu-stoit-gomericheskij-hohot-ot-shutok-tarapunki
+	set tags tarapunka,shtepsel,ukraina,istoria
+page
+	set url https://strana.ua/news/316141-u-shustera-zamhlavredu-strany-ne-dali-vystupit-o-presledovanijakh-smi.html
+	set tags krjukova_svetlana,ukraina,svoboda_slova,shuster_savik
+page
+	set url https://strana.ua/articles/analysis/78721-delo-guzhvy.html
+	set tags gushva_igor,ukraina
+page
+	set url https://strana.ua/news/316112-v-subbotu-radikaly-sobirajut-novuju-aktsiju-u-telekanala-nash.html
+	set tags karas_evgenii,c14,ukraina
+page
+	set url https://strana.ua/news/315725-taras-kozak-objasnil-zakrytie-kanalov.html
+	set tags kozak_taras,newsone,ukraina,telekanaly
+page
+	set url https://www.ng.ru/blogs/filatov/rossiyskiy-koronavirusnyy-fenomen.php
+	set tags rossia,covid,karantin
+page
+	set url https://vz.ru/opinions/2021/2/3/1083299.html
+	set tags 2014,rossia,ukraina,mysli,revolucia
+page
+	set url https://ishadeed.com/article/website-headers-flexbox/
+	set tags pc,flexbox,header
 eof
 off
 page

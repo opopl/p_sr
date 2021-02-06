@@ -1684,7 +1684,13 @@ page
 page
 	set url https://strana.ua/news/316175-chleny-snbo-vvodili-sanktsii-protiv-kozaka-bez-imejushchikhsja-dokazatelstv-protiv-neho.html
 	set tags telekanaly,rnbo,ukraina,zapret
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-i-demokratiya-dyskusiya-istorykiv/31088581.html
+	set tags plohii_sergii,ukraina,demokratia,diskussia
 eof
+page
+	set url https://www.radiosvoboda.org/a/prorosiyski-partii-ukraina/31086415.html
+	set tags ukraina,telekanaly
 off
 page
 	set url <++>

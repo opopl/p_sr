@@ -1763,6 +1763,42 @@ page
 page
 	set url https://www.pravda.com.ua/news/2021/02/6/7282571/
 	set tags vaccine,covid,rossia
+page
+	set url https://www.pravda.com.ua/news/2021/02/7/7282579/
+	set tags vojna,ukraina,smert
+page
+	set url https://www.radiosvoboda.org/a/covid-vaktsyna-ukrayina/31088546.html
+	set tags covid,vaccine,sputnik_v,ukraina
+page
+	set url https://ukraina.ru/opinion/20210206/1030477987.html
+	set tags ukraina,cenzura,telekanaly
+page
+	set url https://ukraina.ru/exclusive/20210207/1030475192.html
+	set tags ukraina,istoria,sssr,vov,1944
+page
+	set url https://ukraina.ru/history/20210206/1030477518.html
+	set tags ukraina,istoria,primadonna,tarasova_alla,06_02_1898
+page
+	set url https://ukraina.ru/exclusive/20210207/1030447310.html
+	set tags kiev,dnepr,mify,istoria
+page
+	set url https://ukraina.ru/exclusive/20210207/1030406446.html
+	set tags kiev,bulgakov_mihail
+page
+	set url https://ukraina.ru/opinion/20210207/1030479887.html
+	set tags ukraina,mysli,nazizm
+page
+	set url https://ukraina.ru/exclusive/20210207/1030447672.html
+	set tags borsch,ukraina,doneck,recept
+page
+	set url https://ukraina.ru/news/20201109/1029552717.html
+	set tags kondratjuk_igor,borsch,rossia,ukraina,rusfobia
+page
+	set url https://ukraina.ru/opinion/20200211/1026661544.html
+	set tags kondratjuk_igor,rossia,ukraina,rusfobia
+page
+	set url https://ukraina.ru/exclusive/20201201/1029814829.html
+	set tags nazizm,ukraina
 eof
 off
 page

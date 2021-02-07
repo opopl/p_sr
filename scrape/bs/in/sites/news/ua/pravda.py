@@ -25,21 +25,35 @@ class PageParser(RootPageParser):
 
     url = app.page.url
 
+    og_url = util.get(app,'page.meta.og_url')
+    if og_url:
+      url = og_url
+
     u = util.url_parse(url)
 
     path = u['path']
-    parts = path.split('/')
 
+    m = re.match(r'^[/]*(\w+)/(\d{4})/(\d{2})/(\d{2})/',path)
+    if m:
+      category = m.group(1)
+      year     = m.group(2)
+      month    = m.group(3)
+      day      = m.group(4)
+
+      date = '_'.join([day,month,year])
+      app.page.set({ 'date' :  date })
+
+    parts = path.split('/')
     f = filter(lambda x: len(x) > 0, path.split('/') )
     parts = list(f)
 
-    if len(parts) > 3:
-      if parts[0] in util.qw('news travel culture society'):
-        year  = parts[1]
-        month = parts[2]
-        day   = parts[3]
+#    if len(parts) > 3:
+      #if parts[0] in util.qw('news travel culture society'):
+        #year  = parts[1]
+        #month = parts[2]
+        #day   = parts[3]
 
-        date = '_'.join([day,month,year])
-        app.page.set({ 'date' :  date })
+        #date = '_'.join([day,month,year])
+        #app.page.set({ 'date' :  date })
 
     return self

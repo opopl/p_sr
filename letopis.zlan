@@ -1930,6 +1930,25 @@ page
 page
 	set url http://lug-info.com/news/one/vystavka-rabot-chudesa-iz-tkani-svoimi-rukami-otkrylas-v-luganskoi-biblioteke-dlya-detei-foto-64450
 	set tags lnr,vystavka,deti
+	set redo 1
+page
+	set url http://lug-info.com/news/one/vrachi-luganskogo-onkodispansera-blagodarya-rf-osvoili-tekhnologiyu-maloinvazivnoi-khirurgii-foto-64331
+	set tags lnr,hirurgia,medicina
+page
+	set url http://lug-info.com/news/one/sotrudniki-luganskikh-brigad-skoroi-pomoschi-polozhitelno-otsenili-vaktsinu-sputnik-v-64439
+	set tags lnr,vaccine,covid,sputnik_v,medicina
+page
+	set url https://lenta.ru/news/2021/02/08/most_safe/
+	set tags vaccine,covid,sputnik_v,maduro_nikolas,venezuela
+page
+	set url https://zen.yandex.ru/media/adella/starec-lavrentii-chernigovskii-vse-budut-pod-vlastiu-antihrista-no-ne-rossiia-6013c09f1dce1b4b96fe1c25
+	set tags rossia,vera,lavrentii_chernigovskii
+page
+	set url https://zen.yandex.ru/media/different_angle/kak-monahini-usmiriali-svoe-vlechenie-k-mujchinam-600d5bff41733326eb77692a
+	set tags rossia,vera
+page
+	set url https://zen.yandex.ru/media/different_angle/tmutarakan--chem-proslavilsia-etot-drevnii-gorod-5fd92ff946486a6770e01925
+	set tags rossia,tmutarakan,istoria
 eof
 off
 page

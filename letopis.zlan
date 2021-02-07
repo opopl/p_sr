@@ -1348,12 +1348,10 @@ page
 page
 	set url https://ukraina.ru/opinion/20210203/1030447289.html
 	set tags ukraina
-#on
 page
 	set url https://ukraina.ru/exclusive/20210203/1030440667.html
 	set tags ukraina
 	set redo 1
-off
 page
 	set url http://day.kyiv.ua/uk/news/030221-yes-pozytyvno-ocinyv-vprovadzhennya-sankciy-proty-telekanaliv-medvedchuka
 	set tags ukraina,es
@@ -1442,14 +1440,13 @@ page
 page
 	set url https://strana.ua/news/315797-kanal-nash-stychki-s-karasem-iz-s14-video.html
 	set tags telekanal_nash,ukraina,kiev,c14,karas_evgenii
-#on
+on
 page
 	set url https://news.obozrevatel.com/society/solnechnaya-i-ochen-silnaya-druzya-rasskazali-o-vrache-kotoraya-pogibla-vo-vremya-pozhara-v-zaporozhe.htm
 	set tags pozhar,zaporozhie,smert
 	set redo 1
 	setlist acts
 		db_update
-off
 page
 	set url https://plus.obozrevatel.com/crime/ukraina-prevraschaetsya-v-svalku-meditsinskih-othodov-kto-vinovat-i-chto-delat.htm
 	set tags medicine,ukraina
@@ -1750,10 +1747,18 @@ page
 page
 	set url https://strana.ua/news/316268-v-kolonii-rf-skonchalsja-hrazhdanin-ukrainy-.html
 	set tags rossia,smert,tjurma
-on
 page
 	set url https://strana.ua/news/316240-sanktsii-protiv-telekanalov-kozaka-byli-vvedeny-nezakonno.html
 	set tags ukraina,telekanaly,zapret,pravo
+page
+	set url https://strana.ua/news/316281-issledovanija-pokazali-nizkuju-effektivnost-vaktsiny-astrazeneca-pri-mutatsii-koronavirusa.html
+	set tags astrazeneca,vaccine,covid,world
+page
+	set url https://gazeta.ua/articles/posuti/_vid-covid19-cogorich-scheplyat-miljoni-ukrayinciv-scho-varto-znati-pro-start-vakcinaciyi/1012715
+	set tags vaccine,covid,ukraina,vaccinacia
+page
+	set url https://gazeta.ua/blog/54553/zelenskij-obmezhiv-zdatnist-rf-vesti-vijnu-iyi-vidpovid-bude-zhorstkoyu
+	set tags ukraina,telekanaly,zapret
 eof
 off
 page

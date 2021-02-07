@@ -1442,13 +1442,14 @@ page
 page
 	set url https://strana.ua/news/315797-kanal-nash-stychki-s-karasem-iz-s14-video.html
 	set tags telekanal_nash,ukraina,kiev,c14,karas_evgenii
-on
+#on
 page
 	set url https://news.obozrevatel.com/society/solnechnaya-i-ochen-silnaya-druzya-rasskazali-o-vrache-kotoraya-pogibla-vo-vremya-pozhara-v-zaporozhe.htm
 	set tags pozhar,zaporozhie,smert
 	set redo 1
 	setlist acts
 		db_update
+off
 page
 	set url https://plus.obozrevatel.com/crime/ukraina-prevraschaetsya-v-svalku-meditsinskih-othodov-kto-vinovat-i-chto-delat.htm
 	set tags medicine,ukraina
@@ -1746,6 +1747,13 @@ page
 page
 	set url https://strana.ua/news/315834-na-aktsii-protiv-kanala-nash-nakhodilsja-paren-so-svastikoj.html
 	set tags telekanal_nash,nazis,ukraina
+page
+	set url https://strana.ua/news/316268-v-kolonii-rf-skonchalsja-hrazhdanin-ukrainy-.html
+	set tags rossia,smert,tjurma
+on
+page
+	set url https://strana.ua/news/316240-sanktsii-protiv-telekanalov-kozaka-byli-vvedeny-nezakonno.html
+	set tags ukraina,telekanaly,zapret,pravo
 eof
 off
 page

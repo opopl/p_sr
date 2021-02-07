@@ -8,6 +8,7 @@ log:
   reset
 
 PageParser:
+  get_date_html:
   get_date_meta:
     sels:
       - { 

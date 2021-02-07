@@ -27,3 +27,13 @@ sel:
           'css' : 'span.author-article a'
       }
     }
+
+PageParser:
+  get_date_html:
+    sels:
+      - { 
+          'find' : 'time.date span.strana-adate', 
+          'get'  : 'attr', 
+          'attr' : 'data-time', 
+          'split'  : ' ', 
+        }

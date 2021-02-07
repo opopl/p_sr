@@ -5,7 +5,7 @@
 'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
 'obozrevatel.com' : { 'site' : 'news.ua.oboz' }
 'www.radiosvoboda.org' : { 'site' : 'news.ua.radiosvoboda' }
-'pravda.com.ua' : { 'site' : 'news.ua.pravda' }
+'pravda.com.ua,eurointegration.com.ua' : { 'site' : 'news.ua.pravda' }
 'lb.ua' : { 'site' : 'news.ua.lb' }
 'imi.org.ua' : { 'site' : 'news.ua.imi' }
 'fakty.ua' : { 'site' : 'news.ua.fakty' }

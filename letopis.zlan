@@ -1850,6 +1850,86 @@ page
 	set url https://lenta.ru/brief/2021/02/04/sakhar/
 	set tags navalny,rossia,protests
 	set redo 1
+page
+	set url https://strana.ua/showbiz/316378-na-holose-uchastnik-ispolnil-sovremennyj-kaver-ukrainskoj-narodnoj-pesni.html
+	set tags showbiz,pesnja,ukraina,golos_konkurs
+page
+	set url https://strana.ua/showbiz/315051-shou-holos-perezahruzka-vtoroj-efir-vystuplenija-pervykh-konkursantov.html
+	set tags ukraina,golos_konkurs,pesnja
+page
+	set url https://strana.ua/articles/analysis/316361-foto-chem-hrozit-poslednjaja-razrabotka-ilona-maska-v-oblasti-chipizatsii-mozha.html
+	set tags mask_ilon,mozg,chelovek
+page
+	set url https://strana.ua/articles/analysis/316320-perebolelo-li-koronavirusom-polstrany-i-nuzhna-li-nam-eshche-vaktsina.html
+	set tags vaccine,covid,ukraina
+page
+	set url https://strana.ua/news/314892-v-polshe-nabirajut-populjarnost-rossijskie-serialy.html
+	set tags poland,filmy,rossia
+page
+	set url https://strana.ua/news/316386-pozhar-v-bolnitse-v-zaporozhe-v-kropivnitskom-pokhoronili-anestezioloha-olhu-hlivu.html
+	set tags gliva_olga,pozhar,smert,pozhar,zaporozhie
+page
+	set url https://strana.ua/news/315860-pozhar-v-bolnitse-v-zaporozhe-odin-chelovek-nakhoditsja-v-tjazhelom-sostojanii.html
+	set tags stepanov_maxim,ukraina,gliva_olga,pozhar,zaporozhie
+page
+	set url https://strana.ua/news/315783-pozhar-v-zaporozhskoj-infektsionnoj-bolnitse-chto-izvestno-o-pohibshem-vrache.html
+	set tags gliva_olga,smert,zaporozhie,pozhar,ukraina
+page
+	set url https://strana.ua/news/315775-iz-za-pozhara-v-infektsionnoj-bolnitse-v-zaporozhskoj-oblasti-objavljajut-traur.html
+	set tags gliva_olga,traur,zaporozhie,ukraina,pozhar
+page
+	set url https://strana.ua/news/315726-stepanov-vyletaet-v-bolnitsu-zaporozhja-hde-3-fevralja-byl-pozhar.html
+	set tags stepanov_maxim,pozhar,zaporozhie,ukraina
+page
+	set url https://dnepr.strana.ua/313555-v-pavlohrade-zahorelos-obshchezhitie.html
+	set tags pavlograd,ukraina,pozhar
+page
+	set url https://kharkov.strana.ua/313248-chrezvychajnaja-situatsija-hosudarstvennoho-urovnja-posle-pozhara-v-kharkove.html
+	set tags kharkov,pozhar,ukraina
+page
+	set url https://strana.ua/news/313199-v-kharkove-horit-dom-prestarelykh-pohibli-ne-menee-15-chelovek.html
+	set tags kharkov,pozhar,ukraina
+page
+	set url https://kharkov.strana.ua/313222-shorevshij-dom-prestarelykh-rabotal-nelehalno-terekhov.html
+	set tags kharkov,ukraina,pozhar
+page
+	set url https://kiev.strana.ua/312601-v-kieve-proizoshel-pozhar-v-trekhetazhnom-zhilom-dome-na-darnitse.html
+	set tags kiev,pozhar,ukraina
+page
+	set url https://strana.ua/news/316356-ukrainskij-knizhnyj-mahazin-prodajut-knihu-o-tom-kak-pravilno-nazyvat-evreev.html
+	set tags nazizm,ukraina,knigi
+page
+	set url https://strana.ua/news/315978-zvezdy-kvartala-95-i-pevtsy-kravets-koshevoj-skripka-astafeva-ozvuchili-audioknihi.html
+	set tags ukraina,knigi,zno
+page
+	set url https://strana.ua/news/315936-natsionalisty-sobirajut-lichnye-dannye-sotrudnikov-zik-newsone-i-112.html
+	set tags sternenko_sergei,ukraina,repressii,telekanaly
+page
+	set url https://www.eurointegration.com.ua/news/2021/02/7/7119517/
+	set tags vaccine,covid,sputnik_v,vengria,rossia
+	todo
+page
+	set url https://www.eurointegration.com.ua/news/2021/02/7/7119511/
+	set tags vaccine,covid,sputnik_v,rossia,es,avstria
+	todo
+page
+	set url https://www.eurointegration.com.ua/articles/2021/02/5/7119476/
+	set tags moskva,rossia,es,politika
+page
+	set url https://www.pravda.com.ua/articles/2021/02/5/7280779/
+	set tags ukraina,muzei,kultura
+page
+	set url https://www.pravda.com.ua/articles/2020/12/30/7278237/
+	set tags ukraina,schastje
+page
+	set url https://life.pravda.com.ua/projects/ukraine/2019/09/17/238198/
+	set tags ukraina,pryroda,volyn
+page
+	set url https://www.pravda.com.ua/articles/2021/01/29/7281576/
+	set tags ukraina,sudno,kapitan_belousov
+page
+	set url http://lug-info.com/news/one/vystavka-rabot-chudesa-iz-tkani-svoimi-rukami-otkrylas-v-luganskoi-biblioteke-dlya-detei-foto-64450
+	set tags lnr,vystavka,deti
 eof
 off
 page

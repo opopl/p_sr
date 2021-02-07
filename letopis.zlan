@@ -1447,7 +1447,6 @@ page
 	set redo 1
 	setlist acts
 		db_update
-off
 page
 	set url https://plus.obozrevatel.com/crime/ukraina-prevraschaetsya-v-svalku-meditsinskih-othodov-kto-vinovat-i-chto-delat.htm
 	set tags medicine,ukraina
@@ -1799,6 +1798,30 @@ page
 page
 	set url https://ukraina.ru/exclusive/20201201/1029814829.html
 	set tags nazizm,ukraina
+page
+	set url https://ukraina.ru/news/20210207/1030481127.html
+	set tags avstria,covid,vaccine,sputnik_v
+page
+	set url https://ukraina.ru/history/20210205/1030463934.html
+	set tags petr_pervyi,istoria,rossia,ukraina,prokopovych_feofan
+page
+	set url https://ukraina.ru/sn/20210203/1030439594.html
+	set tags ukraina,telekanaly,smi,ukraina,poroshenko_petro
+page
+	set url https://www.obozrevatel.com/russia/v-rossii-proizoshel-gosudarstvennyij-perevorot.htm
+	set tags rossia,mysli
+page
+	set url https://plus.obozrevatel.com/kiyany/crime/v-kieve-iz-kvartiryi-glavnogo-prodyusera-telekanalov-medvedchuka-voryi-zabrali-bolee-8-millionov.htm
+	set tags kiev,ukraina,kriminal,telekanaly
+page
+	set url https://news.obozrevatel.com/society/tarakanyi-kryisyi-vshi-luchshie-druzya-russkogo-mira.htm
+	set tags mysli,istoria,sssr,rusmir
+page
+	set url https://news.obozrevatel.com/society/ukrainskie-vrachi-chudom-spasli-rebenka-kotorogo-sbil-poezd-na-dnepropetrovschine.htm
+	set tags ukraina,rebenok,medicina,deti
+page
+	set url https://beztabu.net/prezident-zelenskij-rozpoviv-pravdu-pro-zakrittya-kanaliv-medvedchuka_n72901
+	set tags sankcii,zelenskii_vladimir,telekanaly,ukraina
 eof
 off
 page

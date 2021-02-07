@@ -1958,6 +1958,27 @@ page
 page
 	set url https://zen.yandex.ru/media/dutch_in_russia/gollandec-v-rossii-vrachi-v-rossii-otlichaiutsia-ot-gollandskih-sluchai-v-detskoi-poliklinike-5fe647699c06f6134fa83d85
 	set tags gollandec_v_rossii,rossia,travel,dutch
+page
+	set url https://zen.yandex.ru/media/dutch_in_russia/gollandec-v-rossii-delius-receptom-samogo-vkusnogo-bliuda-kotoroe-ia-proboval-idealnyi-ujin-dlia-zimnego-vechera-5ff36ed9af142f0b171f7f8a
+	set tags gollandec_v_rossii,rossia,travel,dutch,kuhnja
+page
+	set url https://www.radiosvoboda.org/a/31090674.html
+	set tags ukraina,chaikovskii_mihal,istoria
+page
+	set url https://www.radiosvoboda.org/a/30188765.html
+	set tags vyshneveckii_mihal,istoria,poland,rusmir
+page
+	set url https://www.radiosvoboda.org/a/news-danilov-zakon-pro-movu-rosija/31069700.html
+	set tags danilov_alexei,mova,rossia
+page
+	set url https://www.radiosvoboda.org/a/lesia-ukrainka-europa-ukrayinska-literatura/31087950.html
+	set tags lesja_ukrainka,ukraina,kultura,istoria
+page
+	set url https://www.radiosvoboda.org/a/petro-pershyi-likvidatsiya-patriarshestva/31066540.html
+	set tags vera,rossia,petr_pervyy,ukraina,istoria
+page
+	set url https://www.radiosvoboda.org/a/bibliya-ostrozka-ostroh-ukrajina/31063955.html
+	set tags istoria,ukraina,rossia,biblia,vera
 eof
 off
 page

@@ -1949,6 +1949,15 @@ page
 page
 	set url https://zen.yandex.ru/media/different_angle/tmutarakan--chem-proslavilsia-etot-drevnii-gorod-5fd92ff946486a6770e01925
 	set tags rossia,tmutarakan,istoria
+page
+	set url https://zen.yandex.ru/media/dutch_in_russia/gollandec-v-rossii-proehal-na-neobychnom-poezde-v-gollandii-ne-videl-takih-nikogda-601d9a5b5fadcc22a9ce0f5c
+	set tags rossia,travel
+page
+	set url https://zen.yandex.ru/media/dutch_in_russia/gollandec-v-rossii-durak-i-drugie-slova-kotorye-gollandcy-vziali-u-russkih-6001ea48f8b1af50bbe764cb
+	set tags rossia,travel,gollandec_v_rossii,dutch
+page
+	set url https://zen.yandex.ru/media/dutch_in_russia/gollandec-v-rossii-vrachi-v-rossii-otlichaiutsia-ot-gollandskih-sluchai-v-detskoi-poliklinike-5fe647699c06f6134fa83d85
+	set tags gollandec_v_rossii,rossia,travel,dutch
 eof
 off
 page

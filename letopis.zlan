@@ -1822,6 +1822,34 @@ page
 page
 	set url https://beztabu.net/prezident-zelenskij-rozpoviv-pravdu-pro-zakrittya-kanaliv-medvedchuka_n72901
 	set tags sankcii,zelenskii_vladimir,telekanaly,ukraina
+page
+	set url https://strana.ua/articles/analysis/316267-spisok-politikov-kotorye-byli-na-efirakh-zik-newsone-i-112-a-teper-podderzhivajut-zakrytie-kanalov.html
+	set tags ukraina,telekanaly,zapret
+page
+	set url https://strana.ua/news/316283-pochemu-na-donbasse-obostrilsja-konflikt.html
+	set tags vojna,donbass,ukraina,obse
+page
+	set url https://strana.ua/news/316217-6-fevralja-natsionalisty-sobralis-u-zdanija-telekanala-inter-.html
+	set tags korchinskii_dmitrii,telekanal_nash,ukraina,kiev,nazis
+page
+	set url https://strana.ua/news/315857-zaderzhannyj-vo-vremja-shturma-telekanala-nash-trebuet-priezda-avakova.html
+	set tags nazis,protests,kiev,telekanaly,policia
+page
+	set url https://strana.ua/news/316312-posle-intervju-s-medvedchukom-sbu-nachala-proverjat-vyskazyvanija-zhurnalistki-berezovskoj.html
+	set tags sbu,ukraina,berezovskaja_elena,medvedchuk_viktor
+page
+	set url https://strana.ua/articles/analysis/316097--zachem-zelenskij-boretsja-s-poroshenko-i-staraetsja-na-neho-pokhodit.html
+	set tags zelenskii_vladimir,ukraina,mysli
+page
+	set url https://lenta.ru/articles/2021/02/07/tof/
+	set tags sssr,istoria,avia,katastrofa
+page
+	set url https://lenta.ru/news/2021/02/07/sputnik/
+	set tags sputnik_v,rossia,vaccine,covid
+page
+	set url https://lenta.ru/brief/2021/02/04/sakhar/
+	set tags navalny,rossia,protests
+	set redo 1
 eof
 off
 page

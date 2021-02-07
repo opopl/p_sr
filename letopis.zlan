@@ -1447,6 +1447,7 @@ page
 	set redo 1
 	setlist acts
 		db_update
+off
 page
 	set url https://plus.obozrevatel.com/crime/ukraina-prevraschaetsya-v-svalku-meditsinskih-othodov-kto-vinovat-i-chto-delat.htm
 	set tags medicine,ukraina
@@ -1759,6 +1760,9 @@ page
 page
 	set url https://gazeta.ua/blog/54553/zelenskij-obmezhiv-zdatnist-rf-vesti-vijnu-iyi-vidpovid-bude-zhorstkoyu
 	set tags ukraina,telekanaly,zapret
+page
+	set url https://www.pravda.com.ua/news/2021/02/6/7282571/
+	set tags vaccine,covid,rossia
 eof
 off
 page

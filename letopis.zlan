@@ -1934,9 +1934,11 @@ page
 page
 	set url http://lug-info.com/news/one/vrachi-luganskogo-onkodispansera-blagodarya-rf-osvoili-tekhnologiyu-maloinvazivnoi-khirurgii-foto-64331
 	set tags lnr,hirurgia,medicina
+	set redo 1
 page
 	set url http://lug-info.com/news/one/sotrudniki-luganskikh-brigad-skoroi-pomoschi-polozhitelno-otsenili-vaktsinu-sputnik-v-64439
 	set tags lnr,vaccine,covid,sputnik_v,medicina
+	set redo 1
 page
 	set url https://lenta.ru/news/2021/02/08/most_safe/
 	set tags vaccine,covid,sputnik_v,maduro_nikolas,venezuela

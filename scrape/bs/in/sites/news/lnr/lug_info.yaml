@@ -1,6 +1,19 @@
 
 sel:
   clean:
+    - .mobile_menu
+    - .mobile_category
+    - .footer
+    - .drop_menu
+    - .menu
+    - .long_search
+    - .lang
+    - .search
+    - .layer_header
+    - .mobile_menu_closed
+    - .center_title
+    - .margin_free, .h4_float
+    - .center_header_top
   author: 
     { 
       'url' : {

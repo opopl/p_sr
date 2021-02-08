@@ -11,7 +11,7 @@ from Base.Scraper.PageParser import RootPageParser
 
 class PageParser(RootPageParser):
 
-  month_map = {
+  month_map_genitive = {
     'января'   : '01',
     'февраля'  : '02',
     'марта'    : '03',
@@ -29,7 +29,7 @@ class PageParser(RootPageParser):
   def __init__(self,ref={}):
     super().__init__(ref)
 
-    self.months = list(self.month_map.keys())
+    self.month_list_genitive = list(self.month_map_genitive.keys())
 
   def generate_ii(self,ref={}):
     super().generate_ii(ref)
@@ -46,12 +46,28 @@ class PageParser(RootPageParser):
 
     ss = soup.select_one('.middle_news_date p').string.strip()
     sa = ss.split()
+
+    dt_now = datetime.datetime.now()
+    d = {
+      'year' : str(dt_now.year)
+    }
+
     while len(sa):
       s = sa.pop(0)
 
       m = re.match(r'(\d{2})',s)
+      if m:
+        d['day'] = m.group(1)
 
-    import pdb; pdb.set_trace()
+      m = re.match(r'(\w+)',s)
+      if m:
+        word = m.group(1)
+        if word in self.month_list_genitive:
+          d['month'] = self.month_map_genitive.get(word)
+
+    if d['day'] and d['month'] and d['year']:
+      kk = util.qw('day month year')
+      date = '_'.join( list(map(lambda x: d[x], kk )) )
 
     if date:
       app.page.set({ 'date' : date })

@@ -1979,6 +1979,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/bibliya-ostrozka-ostroh-ukrajina/31063955.html
 	set tags istoria,ukraina,rossia,biblia,vera
+page
+	set url https://strana.ua/news/316396-odesskij-skulptor-pokazal-eskiz-hihantskoho-monumenta-koronavirusu-s-zashifrovannym-poslaniem-foto.html
+	set tags covid,world,monument,art
 eof
 off
 page

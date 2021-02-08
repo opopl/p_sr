@@ -1,22 +1,23 @@
 
 sel:
   clean:
-    - .mobile_menu
-    - .mobile_category
-    - .footer
-    - .drop_menu
-    - .menu
-    - .long_search
-    - .lang
-    - .search
-    - .layer_header
-    - .mobile_menu_closed
-    - .center_title
-    - .margin_free, .h4_float
     - .center_header_top
-    - .slider-nav
-    - .right
+    - .center_title
+    - .drop_menu
+    - .footer
     - .footer_wrapper
+    - .lang
+    - .layer_header
+    - .long_search
+    - .margin_free, .h4_float
+    - .menu
+    - .menu_button
+    - .mobile_category
+    - .mobile_menu
+    - .mobile_menu_closed
+    - .right
+    - .search
+    - .slider-nav
   author: 
     { 
       'url' : {

@@ -31,6 +31,14 @@ class PageParser(RootPageParser):
 
     self.month_list_genitive = list(self.month_map_genitive.keys())
 
+  def clean(self,ref={}):
+    super().clean(ref)
+
+    app = self.app
+    soup = app.soup
+
+    return self
+
   def generate_ii(self,ref={}):
     super().generate_ii(ref)
 
@@ -44,6 +52,10 @@ class PageParser(RootPageParser):
 
     date = None
 
+    # --------------------------------------------------
+    ss = soup.select_one('.data_news_center p').string.strip()
+
+    # --------------------------------------------------
     ss = soup.select_one('.middle_news_date p').string.strip()
     sa = ss.split()
 

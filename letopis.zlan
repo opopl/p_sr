@@ -2069,6 +2069,105 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210208/1030485747.html
 	set tags zelenskii_vladimir,ukraina,napoleon
+page
+	set url https://strana.ua/articles/analysis/316433-posleduet-li-za-atakoj-na-svobodu-slova-nakat-na-tserkov.html
+	set tags upc,kiev,gonenija,ukraina
+page
+	set url https://strana.ua/news/316511-oksanu-marchenko-terrorizirujut-zvonkami-posle-ee-popadanija-v-bazu-mirotvortsa.html
+	set tags ukraina,medvedchuk_viktor,kriminal,ugrozy
+page
+	set url https://strana.ua/news/316422-vaktsina-astrazeneka-v-ukraine-chto-o-nej-izvestno-i-kakie-skandaly-idut-v-mire.html
+	set tags vaccine,covid,ukraina,astrazeneca
+page
+	set url https://strana.ua/news/213126-sud-ne-udovletvoril-apelljatsiju-minkulta-v-dele-o-pereimenovanii-upts-mp.html
+	set tags upc,ukraina,sud,vera
+page
+	set url https://strana.ua/news/212161-hodovshchina-kreshchenija-rusi-27-28-ijulja-prohramma-meroprijatij-v-kieve.html
+	set tags upc,vera,ukraina,rusmir
+page
+	set url https://strana.ua/news/307367-astrazeneka-sanofi-kovaks-kakie-vaktsiny-ot-koronavirusa-budut-delat-v-ukraine.html
+	set tags astrazeneca,vaccine,covid,ukraina
+page
+	set url https://strana.ua/news/306125-astrazeneca-ispytyvaet-vaktsinatsiju-kombinirovannuju-s-rossijskim-sputnikom-v.html
+	set tags covid,vaccine,rossia,astrazeneca,sputnik_v
+page
+	set url https://strana.ua/news/306103-boris-todurov-rasskazal-ob-otnoshenii-k-rossijskoj-vaktsine-ot-koronavirusa.html
+	set tags todurov_boris,vaccine,covid,ukraina,rossia,sputnik_v
+page
+	set url https://plus.obozrevatel.com/crime/likvidatsiyu-givi-organizovala-ukrainka-vtorogo-agenta-sbu-shvatili-i-nechelovecheski-pyitali-butusov.htm
+	set tags tolstyh_mihail,ukraina,dnr,sbu
+page
+	set url https://strana.ua/articles/interview/305908-boris-todurov-intervju-olese-medvedevoj-video-i-tekst.html
+	set tags todurov_boris,medvedeva_olesja,ukraina,interview
+page
+	set url https://strana.ua/news/316382-ukrainskij-posol-osudil-slova-shtajnmajera-o-vojne-i-severnom-potoke.html
+	set tags ukraina,germania,sssr,rossia
+page
+	set url https://www.pravda.com.ua/articles/2021/02/8/7282622/
+	set tags kasparov_garry,interview,rossia
+page
+	set url https://life.pravda.com.ua/society/2021/02/8/243883/
+	set tags ukraina,bilchenko_evgenia
+page
+	set url https://life.pravda.com.ua/society/2020/10/20/242736/
+	set tags ukraina,mova
+page
+	set url https://apostrophe.ua/ua/news/society/2021-01-26/v-kieve-prepodavatelnitsa-tsinichno-unizila-ukrainskiy-yazyik-studentyi-ustroili-bunt-foto-i-video-/221276
+	set tags bilchenko_evgenia,skandal,ukraina,mova
+page
+	set url https://apostrophe.ua/ua/article/lime/person/2021-02-08/v-rossii-ischez-84-letniy-leonid-kuravlev---zvezda-filma-ivan-vasilevich-menyaet-professiyu/37784
+	set tags sssr,rossia,kuravljov_leonid
+page
+	set url https://apostrophe.ua/ua/article/lime/read/2020-08-24/proukrainskogo-prezidenta-u-nas-poka-ne-byilo-bogdan-benyuk-ob-oshibkah-nezavisimoy-ukrainyi/34580
+	set tags benjuk_bogdan,ukraina,interview
+page
+	set url https://buzina.org/golos-naroda/3900-bilchenko.html
+	set tags bilchenko_evgenia,ukraina,interview
+page
+	set url https://buzina.org/publications/1484-taars-mirotvorets.html
+	set tags buzina_oles,ukraina,shevchenko_taras
+page
+	set url https://lenta.ru/news/2021/02/08/germany_expels/
+	set tags rossia,diplomatia,es
+page
+	set url https://lenta.ru/news/2021/02/08/rot_ua/
+	set tags ukraina,zhurnalisty,protest,zapret
+page
+	set url https://www.vesti.ru/article/2520774
+	set tags berezovskaja_alena,ukraina,sbu,rossia,interview,medvedchuk_viktor
+page
+	set url https://www.vesti.ru/article/2521192
+	set tags mova,jazyk,nikolaev,ukraina
+page
+	set url https://ukrainenews.fakty.ua/367944-stepanov-hochet-pervymi-vakcinirovat-avtoritetov-obcshestva
+	set tags ukraina,vaccination
+page
+	set url https://society.fakty.ua/367938-skandalnuyu-professorshu-kievskogo-peduniversiteta-otstranili-ot-prepodavaniya
+	set tags bilchenko_evgenia,kiev,ukraina,skandal
+page
+	set url https://world.fakty.ua/367866-kak-v-biblejskom-prorochestve-derevnyu-v-indonezii-zatopili-reki-krovi
+	set tags indonezia,world,biblia
+page
+	set url https://society.fakty.ua/367715-tolkavshie-avtozak-zaderzhannye-v-rossii-stali-memom
+	set tags rossia,protests,mems
+page
+	set url https://kiev.strana.ua/316056-pod-kievom-muzhchina-ubil-i-raschlenil-svoju-sozhitelnitsu-.html
+	set tags kriminal,ukraina,kiev
+page
+	set url https://strana.ua/news/298396-v-nikolaevskoj-oblasti-muzhchina-oblil-zhenu-i-detej-kislotoj.html
+	set tags kriminal,nikolaev,ukraina,policia
+page
+	set url https://zikua.tv/news/ludyna/saity_telekanaliv_zik_112_ukraina_ta_newsone_pereikhaly_na_rezervni_adresy_de_teper_mozhna_chytaty_novyny_995381
+	set tags ukraina,zik,telekanaly
+page
+	set url https://newsoneua.tv/news/accidents/teper_on_vash_ya_bolshe_ne_mogu_v_slovakii_devushka_minetom_zaderzhala_grabitelya_do_priezda_kopov.html
+	set tags slovakia,komedia,kriminal
+page
+	set url https://newsoneua.tv/opinions/goldarb_bolshego_naglogo_krichashhe_nekonstitucionnogo_nastupleniya_na_svobodu_slova_chem_pozvolil_sebe_zelenskiy_ne_bylo_za_vsyu_istoriyu_ukrainy.html
+	set tags telekanaly,ukraina,mysli
+page
+	set url https://112ua.tv/mnenie/ne-hvataet-vakciny-est-sputnik-v-567128.html
+	set tags sputnik_v,rossia,vaccine,covid
 eof
 off
 page

@@ -8,16 +8,21 @@ exclude:
 
 include:
   sites:
-    - news.ua.strana
-    - news.ua.zaxid
-    - news.ua.oboz
-    - news.ua.pravda
+    #- pc.docs.python
+    - com.us.apple
+    - news.lnr.lug_info
     - news.ru.lenta
     - news.ru.life
-    - com.us.apple
+    - news.ua.oboz
+    - news.ua.pravda
+    - news.ua.strana
+    - news.ua.zaxid
+    - news.ua.fakty
+    - news.ua.zik
+    - news.ua.newsone
+    - news.ua.apostrof
+    - news.ua.112ua
+    - pc.articles.sitepoint
     - pc.cairographics 
     - pc.cairosvg
-    #- pc.docs.python
-    - pc.articles.sitepoint
     - vera.ru.pravoslavie
-    - news.lnr.lug_info

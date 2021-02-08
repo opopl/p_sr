@@ -11,7 +11,10 @@
 'fakty.ua' : { 'site' : 'news.ua.fakty' }
 'day.kiev.ua,day.kyiv.ua' : { 'site' : 'news.ua.day_kiev_ua' }
 'zaxid.net' : { 'site' : 'news.ua.zaxid' }
-'112.ua' : { 'site' : 'news.ua.112' }
+'112.ua,112ua.tv' : { 'site' : 'news.ua.112ua' }
+'newsoneua.tv' : { 'site' : 'news.ua.newsone' }
+'zikua.tv' : { 'site' : 'news.ua.zik' }
+'apostrophe.ua' : { 'site' : 'news.ua.apostrof' }
 
 ###vera
 'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }

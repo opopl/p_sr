@@ -2036,6 +2036,39 @@ page
 page
 	set url https://www.vesti.ru/article/2520806
 	set tags rossia,usa,vaccine,covid,sputnik_v,fauchi_anthony
+page
+	set url https://www.radiosvoboda.org/a/news-mzs-twitter-krym/31091880.html
+	set tags rossia,ukraina,twitter,mzs
+page
+	set url https://www.radiosvoboda.org/a/eksperty-ssha-pro-kanaly-medvedchuka/31091496.html
+	set tags usa,ukraina,zapret,telekanaly
+page
+	set url https://from-ua.com/articles/586477-kogda-zhe-ukrainci-poluchat-polskuyu-zarplatu.html
+	set tags ukraina,ekonomika
+page
+	set url https://ukraina.ru/exclusive/20210208/1030490020.html
+	set tags vaccine,sputnik_v,ukraina,zelenskii_vladimir
+page
+	set url https://ukraina.ru/exclusive/20210116/1030252234.html
+	set tags ukraina,vaccine,covid,sputnik_v
+page
+	set url https://ukraina.ru/exclusive/20210208/1030483030.html
+	set tags ukraina,vaccination,vaccine,sputnik_v,stepanov_maxim
+page
+	set url https://ukraina.ru/history/20210208/1030488046.html
+	set tags donbass,istoria,kharkov
+page
+	set url https://gazeta.ua/articles/politics/_sonajmenshe-polovina-naselennya-otrimaye-vakcinu-zelenskij/1013400
+	set tags zelenskii_vladimir,vaccine,vaccination,ukraina
+page
+	set url https://gazeta.ua/blog/54584/dolya-demokratiyi-virishuvatimetsya-v-ukrayini-i-tajvani
+	set tags nato,ukraina,demokratia,usa
+page
+	set url https://gazeta.ua/blog/54560/sankciyi-proti-telekanaliv-medvedchuka-ce-test-dlya-patriotiv
+	set tags mysli,ukraina,patriotizm
+page
+	set url https://ukraina.ru/exclusive/20210208/1030485747.html
+	set tags zelenskii_vladimir,ukraina,napoleon
 eof
 off
 page

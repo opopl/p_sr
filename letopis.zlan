@@ -2003,6 +2003,39 @@ page
 page
 	set url https://news.obozrevatel.com/society/postanovochnyie-foto-schastlivoj-sovetskoj-zhizni.htm
 	set tags sssr,istoria
+page
+	set url https://news.obozrevatel.com/ukr/society/zelenskij-pro-rosijsku-vaktsinu-gromadyani-ukraini-ne-piddoslidni-kroliki.htm
+	set tags zelenskii_vladimir,vaccine,covid,sputnik_v,vooz,fake
+page
+	set url https://news.obozrevatel.com/abroad/premer-litvyi-nazvala-rossijskuyu-vaktsinu-gibridnyim-oruzhiem-putina.htm
+	set tags litva,rossia,putin_vladimir,sputnik_v,covid,vaccine
+page
+	set url https://news.obozrevatel.com/politics/zelenskij-na-forume-ukraintsyi-ne-kroliki-a-ya-gotov-vaktsinirovatsya-v-pryamom-efire.htm
+	set tags zelenskii_vladimir,vaccine,covid,sputnik_v,rossia,ukraina
+page
+	set url https://news.obozrevatel.com/abroad/v-vengrii-otkazalis-rekomendovat-vaktsinyi-ot-covid-19-iz-rossii-i-kitaya.htm
+	set tags vengria,sputnik_v,rossia,vaccine,covid
+page
+	set url https://news.obozrevatel.com/ukr/abroad/rosiya-diskredituvala-zahidni-vaktsini-dlya-prosuvannya-suputnik-v-the-new-york-times.htm
+	set tags rossia,sputnik_v,vaccine,covid
+page
+	set url https://lenta.ru/news/2021/02/08/lider/
+	set tags putin_vladimir,rossia,sputnik_v,vaccine,covid
+page
+	set url https://lenta.ru/articles/2021/02/08/voenkor2/
+	set tags armenia,karabah,vojna,rossia
+page
+	set url https://lenta.ru/news/2021/02/08/zaharovazelensky/
+	set tags zaharova_maria,rossia,sputnik_v,vaccine,covid
+page
+	set url https://www.foxnews.com/health/russias-sputnik-v-vaccine-91-6-effective-against-covid-19-in-late-stage-trial-study
+	set tags sputnik_v,rossia,vaccine,covid
+page
+	set url https://www.en24news.com/e/2021/02/european-union-sputnik-v-is-good-news-for-humanity.html
+	set tags es,borrel_jozef,vaccine,covid,sputnik_v
+page
+	set url https://www.vesti.ru/article/2520806
+	set tags rossia,usa,vaccine,covid,sputnik_v,fauchi_anthony
 eof
 off
 page

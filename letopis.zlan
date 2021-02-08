@@ -1440,7 +1440,7 @@ page
 page
 	set url https://strana.ua/news/315797-kanal-nash-stychki-s-karasem-iz-s14-video.html
 	set tags telekanal_nash,ukraina,kiev,c14,karas_evgenii
-on
+#on
 page
 	set url https://news.obozrevatel.com/society/solnechnaya-i-ochen-silnaya-druzya-rasskazali-o-vrache-kotoraya-pogibla-vo-vremya-pozhara-v-zaporozhe.htm
 	set tags pozhar,zaporozhie,smert
@@ -1931,6 +1931,7 @@ page
 	set url http://lug-info.com/news/one/vystavka-rabot-chudesa-iz-tkani-svoimi-rukami-otkrylas-v-luganskoi-biblioteke-dlya-detei-foto-64450
 	set tags lnr,vystavka,deti
 	set redo 1
+on
 page
 	set url http://lug-info.com/news/one/vrachi-luganskogo-onkodispansera-blagodarya-rf-osvoili-tekhnologiyu-maloinvazivnoi-khirurgii-foto-64331
 	set tags lnr,hirurgia,medicina
@@ -1984,6 +1985,18 @@ page
 page
 	set url https://strana.ua/news/316396-odesskij-skulptor-pokazal-eskiz-hihantskoho-monumenta-koronavirusu-s-zashifrovannym-poslaniem-foto.html
 	set tags covid,world,monument,art
+page
+	set url https://strana.ua/news/316438-mitropolit-kliment-rasskazal-otberut-li-kievo-pecherskuju-lavru-u-upts.html
+	set tags kiev,lavra,ukraina,cerkov,upc
+page
+	set url https://strana.ua/news/310580-mitropolit-onufrij-predstojatel-upts-zapisal-pozdravlenie-s-rozhdestvom.html
+	set tags onufrii_mitropolit,upc,ukraina,cerkov,rozhdestvo
+page
+	set url https://strana.ua/articles/interview/316379-vedushchaja-newsone-diana-panchenko-rasskazal-sanktsijakh-i-blokirovke-trekh-kanalov.html
+	set tags telekanaly,ukraina,zapret,panchenko_diana,interview
+page
+	set url https://strana.ua/news/316263-kak-otrazilos-zakrytie-trekh-telekanalov-na-otnoshenii-k-zelenskomu-na-zapadnoj-ukraine-.html
+	set tags zelenskii_vladimir,ukraina,telekanaly,zapret,ukraina_zapad
 eof
 off
 page

@@ -52,17 +52,25 @@ class PageParser(RootPageParser):
 
     date = None
 
-    # --------------------------------------------------
-    ss = soup.select_one('.data_news_center p').string.strip()
-
-    # --------------------------------------------------
-    ss = soup.select_one('.middle_news_date p').string.strip()
-    sa = ss.split()
-
     dt_now = datetime.datetime.now()
     d = {
       'year' : str(dt_now.year)
     }
+
+    # --------------------------------------------------
+    el = soup.select_one('.data_news_center p')
+    if el:
+      txt = re.sub(r'[\s\n]', '', el.text).strip()
+      sa = txt.split(',')
+      while len(sa):
+        s = sa.pop(0)
+        m = re.match('вчера',s)
+        #if m:
+          #day = dt_now.day - 1
+
+    # --------------------------------------------------
+    ss = soup.select_one('.middle_news_date p').string.strip()
+    sa = ss.split()
 
     while len(sa):
       s = sa.pop(0)

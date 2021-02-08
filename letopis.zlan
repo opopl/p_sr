@@ -1997,6 +1997,12 @@ page
 page
 	set url https://strana.ua/news/316263-kak-otrazilos-zakrytie-trekh-telekanalov-na-otnoshenii-k-zelenskomu-na-zapadnoj-ukraine-.html
 	set tags zelenskii_vladimir,ukraina,telekanaly,zapret,ukraina_zapad
+page
+	set url https://news.obozrevatel.com/politics/u-putina-nazvali-ukrainu-chastyu-russkogo-mira.htm
+	set tags rusmir,ukraina,rossia,peskov_dmitrii
+page
+	set url https://news.obozrevatel.com/society/postanovochnyie-foto-schastlivoj-sovetskoj-zhizni.htm
+	set tags sssr,istoria
 eof
 off
 page

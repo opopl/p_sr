@@ -2168,6 +2168,24 @@ page
 page
 	set url https://112ua.tv/mnenie/ne-hvataet-vakciny-est-sputnik-v-567128.html
 	set tags sputnik_v,rossia,vaccine,covid
+page
+	set url https://strana.ua/articles/analysis/316490-ukraintsy-nachali-poluchat-kosmicheskie-platezhki-za-janvar-pochemu-tak-doroho.html
+	set tags tarify,ukraina
+page
+	set url https://strana.ua/news/316579-video-kak-posle-ubijstva-politsejskimi-ulichnoho-zhonhlera-v-chili-vspykhnuli-protesty.html
+	set tags chili,smert,kriminal,amerika
+page
+	set url https://zaxid.net/svitanok_novogo_dnya_n1514108
+	set tags ukraina,usa,politika
+page
+	set url https://zaxid.net/zelenskiy_proti_medvedchuka_n1513956
+	set tags ukraina,zelenskii_vladimir,usa,rossia,politika
+page
+	set url https://www.vesti.ru/article/2521203
+	set tags ukraina,nazis,telekanaly
+page
+	set url https://inosmi.ru/politic/20210208/249092378.html
+	set tags germania,rossia,sputnik_v,covid,vaccine
 eof
 off
 page

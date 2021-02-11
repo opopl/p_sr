@@ -14,6 +14,7 @@ from Base.Scraper.PageParser import RootPageParser
 class PageParser(RootPageParser):
 
   def generate_ii(self,ref={}):
+
     app = self.app
 
     if app.page.title:
@@ -27,7 +28,12 @@ class PageParser(RootPageParser):
     return self
 
   def get_date(self,ref={}):
+    super().get_date(ref)
+
     app = self.app
+
+    if app.page.get('date'):
+      return self
 
     url = app.page.url
 

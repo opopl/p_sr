@@ -418,10 +418,6 @@ page
 page 
 	set url https://news.obozrevatel.com/kiyany/life/istoriya-bordelej-kieva-izvestnyie-doma-terpimosti-foto.htm
 	set tags kiev,istoria,bordeli
-	set acts|list|
-		get_img
-		fetch
-		no_img
 page 
 	set url https://strana.ua/news/314150-v-zhitomire-proveli-ekskursiju-kartonnomu-ilonu-masku-.html
 	set tags mask_ilon,korolev_sergei,zhitomir
@@ -485,10 +481,6 @@ page
 page 
 	set url https://strana.ua/news/314313-kostja-kievskij-iz-tik-tok-khausa-v-chem-obvinjajut-blohera-kievskyyy.html
 	set tags kostja_kievskii,navalny,ukraina,rossia,fsb
-	set acts|list|
-		fetch
-		get_img
-		db_update
 page 
 	set url https://strana.ua/news/314464-pase-podtverdila-polnomochija-delehatsii-rossii-v-polnom-obeme.html
 	set tags pase,rossia,ukraina
@@ -501,10 +493,6 @@ page
 page 
 	set url https://strana.ua/news/313454-kravchuk-i-kozak-possorilis-v-tkh-po-donbassu-s-cheho-nachalsja-hod-mezhdu-ukrainoj-i-rossiej.html
 	set tags kravchuk_leonid,kozak_dmitrii,donbass,peregovory
-	set acts|list|
-		fetch
-		get_img
-		db_update
 page 
 	set url https://zaxid.net/okruzhniy_adminsud_kiyeva_skasuvav_noviy_ukrayinskiy_pravopis_n1513610
 	set tags mova
@@ -538,6 +526,8 @@ page
 page 
 	set url https://lenta.ru/parts/authors/mkirillov/
 	set tags kirillov_mihail,news.ru.lenta
+	setlist opts
+		no_date
 page 
 	set url https://moslenta.ru/city/pochemu-menya-ne-vydali-ne-znayu-istoriya-moskvichki-sumevshei-perezhit-kholokost.htm
 	set tags holokost,istoria
@@ -2290,6 +2280,39 @@ page
 page
 	set url https://www.pravda.com.ua/news/2021/02/10/7283016/
 	set tags ukraina,covid,vaccine,sputnik_v,rossia,zapret
+page
+	set url https://kiev.strana.ua/317076-sud-v-kieve-vernul-prospektu-bandery-prezhnee-nazvanie.html
+	set tags kiev,pereimenovanija,prospekt_moskovskii
+page
+	set url https://strana.ua/news/317012-sostojanie-doroh-kiev-pohoda-sehodnja-po-chasam-i-prohnoz-na-zavtra-sovety-v-snehopad.html
+	set tags kiev,ukraina,snegopad,sneg,pogoda
+page
+	set url https://kiev.strana.ua/317078-dorotich-zajavil-chto-fopov-prosjat-vremenno-pokinut-majdan-nezavisimosti-.html
+	set tags kiev,ukraina,savefop,maidan,nebesna_sotnja
+page
+	set url https://kiev.strana.ua/314539-mitinh-predprinimatelej-v-kieve-28-janvarja-.html
+	set tags kiev,ukraina,savefop,protest
+page
+	set url https://kiev.strana.ua/311692-mezhdu-fopami-kotorye-mitinhujut-v-kieve-i-neizvestnymi-proizoshli-potasovki-13-janvarja.html
+	set tags kiev,ukraina,pechenie,draka,savefop,maidan
+page
+	set url https://strana.ua/articles/analysis/316998-chto-nezakonnoho-v-ukaze-zelenskoho-o-zakrytii-112-newsone-i-zik.html
+	set tags ukraina,telenakaly,zelenskii_vladimir,ukaz,zapret
+page
+	set url https://www.pravda.com.ua/articles/2021/02/11/7283024/
+	set tags kozak_taras,ukraina,finansy
+page
+	set url https://www.radiosvoboda.org/a/31096031.html
+	set tags dnr,rossia,molodezh,video,navalny,protest
+page
+	set url https://www.radiosvoboda.org/a/war-inside-out-natalia-skorykova-vijna/31092184.html
+	set tags rossia,ukraina,world,mysli
+page
+	set url https://www.radiosvoboda.org/a/31095640.html
+	set tags vaccine,ukraina,rossia,sputnik_v,mnenie
+page
+	set url https://www.radiosvoboda.org/a/oos-strelba-blokpost-smert-voditelia-victorovka/31096144.html
+	set tags vojna,smert,donbass,ukraina,incident
 eof
 off
 page

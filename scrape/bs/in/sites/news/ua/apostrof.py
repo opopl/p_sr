@@ -18,6 +18,18 @@ class PageParser(RootPageParser):
   def get_date(self,ref={}):
     super().get_date(ref)
 
+    app = self.app
+
+    for part in self.url_parts:
+      m = re.match(r'^(\d{4})-(\d{2})-(\d{2})$', part)
+      if m:
+        year  = m.group(1)
+        month = m.group(2)
+        day   = m.group(3)
+        date = '_'.join([day,month,year])
+        app.page.set({ 'date' : date })
+        break
+
     return self
 
   def clean(self,ref={}):

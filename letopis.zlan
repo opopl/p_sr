@@ -1,9 +1,9 @@
-off
+on
 page 
 	set url https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
 	set ii sternenko_mova_odessa
 page 
-	set url https://strana.ua/news/312717-peskov-prokommentiroval-situatsiju-s-navalnym.html 
+	set url https://strana.ua/news/312717-peskov-prokommentiroval-situatsiju-s-navalnym.html
 	set ii peskov_comment_navalny 
 page 
 	set url https://kiev.strana.ua/312720-andrej-medvedko-zajavil-chto-pravye-khoteli-sorvat-antifashistskuju-aktsiju-v-kieve.html
@@ -237,10 +237,6 @@ page
 	set url https://strana.ua/news/313438-mitinh-23-janvarja-2021-v-podderzhku-navalnoho-prjamaja-transljatsija-iz-moskvy-poslednie-novosti.html
 	set ii navalny_akcii
 	set tags navalny
-	setlist acts
-		fetch
-		no_img
-		db_update
 page 
 	set url https://strana.ua/news/313595-moskva-mitinhi-v-rossii-za-navalnoho-23-janvarja-hlavnye-vyvody.html
 	set ii navalny_deti
@@ -300,8 +296,6 @@ page
 page 
 	set url https://strana.ua/news/282552-ukrainskie-diplomaty-ne-postradali-vo-vremja-vzryva-v-portu-bejruta.html
 	set ii beirut_ukraina_diplomaty
-	set acts|list|
-		no_img
 page 
 	set url https://strana.ua/news/313821-ukraina-namerena-otkazatsja-ot-enerhosistem-rossii-i-belarusi.html
 	set ii kuleba_energetika_rossia_ukraina
@@ -532,11 +526,7 @@ page
 page 
 	set url https://strana.ua/news/300438-kak-chasto-voennye-na-donbasse-popadajutsja-na-domohatelstvakh.html
 	set tags donbass,deti,crime
-	set acts|list|
-		fetch
-		get_img
-		db_update
- 
+page 
 	set url https://strana.ua/news/248006-kak-v-odesse-snesli-poslednij-barelef-zhukovu.html
 	set tags nazi,zhukov,odessa
 page 
@@ -551,8 +541,6 @@ page
 page 
 	set url https://moslenta.ru/city/pochemu-menya-ne-vydali-ne-znayu-istoriya-moskvichki-sumevshei-perezhit-kholokost.htm
 	set tags holokost,istoria
-
-endyaml
 page
 	set url https://strana.ua/news/303230-roman-bondarenko-kto-eto-takoj-i-pochemu-belarusi-hrozjat-za-neho-sanktsijami.html
 	set in 27_11_2020
@@ -899,11 +887,9 @@ page
 page
 	set url https://pravoslavie.ru/51099.html
 	set tags rasskaz
-	set redo 1
 page
 	set url https://pravoslavie.ru/50935.html
 	set tags chelovek,mysli
-	set redo 1
 page
 	set url https://strana.ua/news/314488-razvorot-k-rossii-proval-bolshoj-strojki-chto-pishut-inosmi-o-zelenskom-i-ukraine.html
 	set tags zelenskii_vladimir,rossia,zapad
@@ -916,7 +902,6 @@ page
 page
 	set url https://strana.ua/news/314694-slepakov-stikh-o-protestakh-navalnoho-v-instahram-vyzval-travlju-poeta.html
 	set tags slepakov_semen,navalny,poezia
-	set redo 1
 page
 	set url https://zaxid.net/vidpovidalne_liderstvo_n1513613
 	set tags ukraina,lider,mysli
@@ -941,28 +926,22 @@ page
 page
 	set url https://plus.obozrevatel.com/crime/umerla-pod-stenami-bolnitsyi-na-kievschine-tak-i-ne-rassleduyut-delo-o-smerti-patsientki.htm
 	set tags kiev,medicine,smert,gonchar_svetlana,bojarka
-	set redo 1
 page
 	set url https://news.obozrevatel.com/society/na-kievschine-zhenschina-umerla-pod-stenami-reanimatsii-kuda-ee-ne-prinyali-iz-za-nehvatki-mest-eksklyuziv.htm
 	set tags smert,gonchar_svetlana,kiev,bojarka
-	set redo 1
-	setlist acts
 global
-   # set redo 1
 	#listpush acts
 		#fetch
 		#get_img
 		#db_update
-		#<++>
+		#no_img
 page
 	set url https://news.obozrevatel.com/show/people/vasilij-lanovoj-chto-govoril-pro-ukrainu-umer-legenda-rossijskogo-kino.htm
 	set tags lanovoi_vasilii,ukraina,rossia
-	set redo 1
 page
 	set url https://plus.obozrevatel.com/crime/donbass-propagandist-babayan-pokazal-razruhu-v-donetske-foto.htm
 	set tags donbass,vojna
 	todo
-off
 page
 	set url https://strana.ua/news/314910-twitter-zablokiroval-akkaunt-semena-slepakova-.html
 	set tags twitter,slepakov_semen,rossia,protests,poezia
@@ -987,8 +966,6 @@ page
 page
 	set url https://www.sitepoint.com/bundle-static-site-webpack/
 	set tags js,webpack,pc
-	set redo 1
-	fail  
 page 
 	set url https://zaxid.net/vikladachka_kiyivskogo_peduniversitetu_nazvala_ukrayinu_amerikanskoyu_koloniyeyu_n1513487
 	set tags bilchenko_evgenia
@@ -1007,12 +984,9 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/01/31/7281728/
 	set tags vaccine,covid,vera,ukraina
-	set redo 1
-	fail
 page
 	set url https://news.obozrevatel.com/society/u-nositelej-russkogo-gena-vstroena-knopka-na-samounichtozhenie.htm
 	set tags rossia,mysli
-	set redo 1
 page
 	set url https://news.obozrevatel.com/abroad/covid-19-voz-prizvala-velikobritaniyu-priostanovit-vaktsinatsiyu.htm
 	set tags vooz,vaccine,covid,anglia
@@ -1143,7 +1117,6 @@ page
 page
 	set url https://strana.ua/news/315290-razhovor-blinkena-i-kuleby-1-fevralja-sravnenie-versij-hosdepa-i-mid-ukrainy.html
 	set tags kuleba,usa,gosdep
-	set redo 1
 page
 	set url https://strana.ua/news/315346-v-pervomajske-horit-epitsentr-2-fervalja.html
 	set tags pervomajsk,pozhar,epicentr
@@ -1153,7 +1126,6 @@ page
 page
 	set url https://plus.obozrevatel.com/crime/zoloto-iz-ukrainskih-bankov-vyivezli-v-rossiyu-a-sami-legli-pod-fsb-audioperehvat-razgovorov-boevikov-dnr.htm
 	set tags dnr,moskva,kriminal
-	set redo 1
 page
 	set url https://news.obozrevatel.com/society/lzhivyie-filmyi-pro-ukrainu.htm
 	set tags filmy,sssr,ukraina
@@ -1175,10 +1147,6 @@ page
 page
 	set url https://www.vesti.ru/article/2518668
 	set tags sputnik_v,lancet,phase_3
-	set redo 1
-	setlist acts
-		db_update
-		fetch
 page
 	set url https://news.obozrevatel.com/kiyany/life/stantsiyu-metro-teatralnaya-nachali-stroit-ranshe-chem-tunnel-k-nej-foto-i-video.htm
 	set tags kiev,metro
@@ -1281,7 +1249,6 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/02/2/7281959/
 	set tags mova,kremin_taras
-	#set redo 1
 page
 	set url https://www.pravda.com.ua/news/2021/02/2/7282097/
 	set tags rnbo,ukraina,kozak_taras,sanctions
@@ -1351,11 +1318,9 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210203/1030440667.html
 	set tags ukraina
-	set redo 1
 page
 	set url http://day.kyiv.ua/uk/news/030221-yes-pozytyvno-ocinyv-vprovadzhennya-sankciy-proty-telekanaliv-medvedchuka
 	set tags ukraina,es
-	set redo 1
 page
 	set url https://lenta.ru/news/2021/02/03/shakal/
 	set tags rossia,kadyrov_ramzan
@@ -1444,9 +1409,6 @@ page
 page
 	set url https://news.obozrevatel.com/society/solnechnaya-i-ochen-silnaya-druzya-rasskazali-o-vrache-kotoraya-pogibla-vo-vremya-pozhara-v-zaporozhe.htm
 	set tags pozhar,zaporozhie,smert
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://plus.obozrevatel.com/crime/ukraina-prevraschaetsya-v-svalku-meditsinskih-othodov-kto-vinovat-i-chto-delat.htm
 	set tags medicine,ukraina
@@ -1849,7 +1811,6 @@ page
 page
 	set url https://lenta.ru/brief/2021/02/04/sakhar/
 	set tags navalny,rossia,protests
-	set redo 1
 page
 	set url https://strana.ua/showbiz/316378-na-holose-uchastnik-ispolnil-sovremennyj-kaver-ukrainskoj-narodnoj-pesni.html
 	set tags showbiz,pesnja,ukraina,golos_konkurs
@@ -1930,16 +1891,12 @@ page
 page
 	set url http://lug-info.com/news/one/vystavka-rabot-chudesa-iz-tkani-svoimi-rukami-otkrylas-v-luganskoi-biblioteke-dlya-detei-foto-64450
 	set tags lnr,vystavka,deti
-	set redo 1
-on
 page
 	set url http://lug-info.com/news/one/vrachi-luganskogo-onkodispansera-blagodarya-rf-osvoili-tekhnologiyu-maloinvazivnoi-khirurgii-foto-64331
 	set tags lnr,hirurgia,medicina
-	set redo 1
 page
 	set url http://lug-info.com/news/one/sotrudniki-luganskikh-brigad-skoroi-pomoschi-polozhitelno-otsenili-vaktsinu-sputnik-v-64439
 	set tags lnr,vaccine,covid,sputnik_v,medicina
-	set redo 1
 page
 	set url https://lenta.ru/news/2021/02/08/most_safe/
 	set tags vaccine,covid,sputnik_v,maduro_nikolas,venezuela
@@ -2186,6 +2143,153 @@ page
 page
 	set url https://inosmi.ru/politic/20210208/249092378.html
 	set tags germania,rossia,sputnik_v,covid,vaccine
+page
+	set url https://strana.ua/news/316692-uholnyj-biznes-tarasa-kozaka-v-dnr-i-lnr-otkuda-poshli-takie-slukhi.html
+	set tags ukraina,kozak_taras,telekanaly
+page
+	set url https://strana.ua/news/316620-statistika-koronavirusa-v-ukraine-uluchshaetsja-kak-eto-svjazano-s-vaktsinami.html
+	set tags ukraina,covid,statistika
+page
+	set url https://lenta.ru/news/2021/02/09/vac_kazakhstan/
+	set tags vaccine,covid,kazahstran,sputnik_v,rossia
+page
+	set url https://www.istpravda.com.ua/columns/2021/02/9/158962/
+	set tags scott_robert,dnevnik,istoria
+page
+	set url https://www.radiosvoboda.org/a/news-covid-oduzhannya-116-rokiv/31094358.html
+	set tags covid,francia
+page
+	set url https://www.radiosvoboda.org/a/snig-komunalniki-shtormove-pogoda-dorogi-zatory/31094027.html
+	set tags kiev,sneg,pogoda
+page
+	set url https://www.radiosvoboda.org/a/mozolevsky-skifske-zoloto-pektoral/31088220.html
+	set tags mozolevskii_boris,pektoral,skify,ukraina
+page
+	set url https://gazeta.ua/blog/54588/ukrayincyam-treba-dozvoliti-mati-legalnu-zbroyu-vdoma
+	set tags dykyy_evgen,ukraina,zbroja
+page
+	set url https://gazeta.ua/articles/ivan-stolyarchuk/_dopotopna-mova/1012834
+	set tags ukraina,mova
+page
+	set url https://blogs.pravda.com.ua/authors/taran/601b93db3d491/
+	set tags ukraina,mysli,rusmir
+page
+	set url https://blogs.pravda.com.ua/authors/farion/6016a7a3bf5b9/
+	set tags ukraina,istoria,puljuj_ivan
+page
+	set url https://lenta.ru/news/2021/02/09/zayavka/
+	set tags sputnik_v,rossia,registracia,evropa,es
+page
+	set url https://strana.ua/news/316794-foto-na-severe-izrailja-nashli-monetu-vremen-rimskoj-imperii.html
+	set tags izrael,rim,moneta,arheologia
+page
+	set url https://kiev.strana.ua/316788-foto-i-video-kak-natsionalisty-prishli-zakryvat-telekanal-nash-v-kieve.html
+	set tags c14,nazis,telekanal_nash,ukraina,protest
+page
+	set url https://strana.ua/news/316661-shtab-oos-soobshchil-o-tom-chto-vsu-rasstreljali-avtomobil-s-hrazhdanskimi.html
+	set tags ukraina,vsu,vojna,donbass,smert
+page
+	set url https://kiev.strana.ua/316942-natskorpus-zablokiroval-zakrytuju-territoriju-hde-jakoby-nakhodjatsja-titushki-opzzh.html
+	set tags kiev,nazis,nazkorpus
+page
+	set url https://strana.ua/news/292018-batalon-azov-provel-tseremoniju-pamjati-pohibshikh-bojtsov-video.html
+	set tags kiev,nazkorpus
+page
+	set url https://strana.ua/news/316693-jan-monastyrskij-vladeltsa-shorevsheho-bistro-v-kieve-zatravili-natsionalisty.html
+	set tags kiev,jan_monastyrskii,pozhar,kafe
+page
+	set url https://strana.ua/articles/analysis/316823-podrobnyj-spisok-hostej-efirov-zik-newsone-i-112-kotorye-podderzhali-zapret-telekanalov.html
+	set tags ukraina,telekanaly,newsone,gosti,zapret
+page
+	set url https://strana.ua/news/316944-zhurnalisty-zakrytykh-telekanalov-proveli-press-konferentsiju.html
+	set tags ukraina,telekanaly,zapret,press_konferencia
+page
+	set url https://strana.ua/news/316863-sternenko-obnarodoval-lichnye-dannye-zhurnalistov-s-kanalov-popavshikh-pod-sanktsii-zelenskoho.html
+	set tags ukraina,sternenko,zhurnalisty,dannye
+page
+	set url https://strana.ua/news/316694-v-nszhu-nazvali-blokirovku-kanalov-opasnym-pretsedentom.html
+	set tags ukraina,nszhu,zapret
+page
+	set url https://strana.ua/news/315989-v-oon-obespokoeny-svobodoj-vyrazhenija-mnenija-v-ukraine-.html
+	set tags ukraina,zapret,oon,telekanaly
+page
+	set url https://strana.ua/news/315462-otkljuchenie-newsone-zik-112-chto-ob-etom-hovorjat-zhurnalisty.html
+	set tags ukraina,newsone,tomilenko_sergei,nszhu,zapret
+page
+	set url https://lenta.ru/news/2021/02/10/gordon_tv/
+	set tags ukraina,rusmir,gordon_dmitrii
+page
+	set url https://inosmi.ru/politic/20210210/249109504.html
+	set tags rossia,vaccine,covid,sputnik_v,world
+page
+	set url https://inosmi.ru/politic/20210210/249104090.html
+	set tags rossia,sputnik_v,britania
+page
+	set url https://inosmi.ru/politic/20210208/249090391.html
+	set tags sputnik_v,rossia,evropa
+page
+	set url https://www.vesti.ru/article/2522141
+	set tags rossia,vaccine,covid,iran,sputnik_v
+page
+	set url https://www.vesti.ru/article/2522169
+	set tags kriminal,rossia
+page
+	set url https://vz.ru/opinions/2021/2/10/1084253.html
+	set tags rossia,vaccine,covid,evropa,sputnik_v
+page
+	set url https://vz.ru/politics/2021/2/9/1084076.html
+	set tags rossia,ukraina,sputnik_v,zelenskii_vladimir
+page
+	set url https://vz.ru/opinions/2021/2/10/1083118.html
+	set tags pushkin_aleksandr,rossia,istoria,poezia
+page
+	set url https://nakipelo.ua/pavel-makov-esli-u-vas-est-atomnaya-bomba-no-net-kultury-vy-vse-ravno-nevidimy/
+	set tags kharkov,kultura
+page
+	set url https://nakipelo.ua/uk/takie-zhe-kak-ty-istoriya-mishi-elizarova-2/
+	set tags ukraina,ljudi
+page
+	set url https://odessa.strana.ua/317033-ssha-peredali-vsu-bronirovannye-vnedorozhniki-i-naduvnye-lodki.html
+	set tags amerika,vsu,ukraina,podarok
+page
+	set url https://strana.ua/news/316902-temniki-bankovoj-chto-hovorjat-u-zelenskoho-pro-zakrytye-telekanaly-i-rossijskuju-vaktsinu.html
+	set tags ukraina,ofis_prezidenta,temnik
+page
+	set url https://strana.ua/news/316824-skandal-mezhdu-ukrainoj-i-frh-andrej-melnik-kritikuet-prezidenta-shtajnmajera.html
+	set tags ukraina,germania,diplomatia
+page
+	set url https://strana.ua/news/316591-zelenskij-pod-zashchitoj-natskorpusa-posol-ukrainy-protiv-prezidenta-hermanii-zrada-tvittera.html
+	set tags ukraina,zelenskii_vladimir,itogi
+page
+	set url https://strana.ua/news/316442-vladimir-zelenskij-zajavil-chto-ukraina-ne-budet-zakupat-sputnik-v.html
+	set tags ukraina,vaccine,covid,sputnik_v,zelenskii_vladimir
+page
+	set url https://strana.ua/news/315379-vaktsina-sputnik-v-proshla-tretju-fazu-ispytanij.html
+	set tags lancet,sputnik_v,rossia,covid,vaccine
+page
+	set url https://strana.ua/news/314719-pobochnye-effekty-vaktsin-pfizer-sputnik-i-sinopharm-zafiksirovali-v-serbii.html
+	set tags pfizer,vaccine,covid,sputnik_v,serbia
+page
+	set url https://strana.ua/news/312036-pobochnye-effekty-posle-privivki-vaktsinoj-pfizer-zafiksirovali-v-niderlandakh.html
+	set tags gollandia,pfizer,covid,vaccine,pobochka
+page
+	set url https://zaxid.net/moskva_maydan_gidnist_n1514220
+	set tags moskva,maidan,ukraina,rossia
+page
+	set url https://zaxid.net/uryad_zaboroniv_rosiysku_vaktsinu_proti_covid_19_na_teritoriyi_ukrayini_n1514251
+	set tags ukraina,sputnik_v,rossia,zapret
+page
+	set url https://ukraina.ru/exclusive/20210210/1030511140.html
+	set tags telekanaly,zapret,ukraina
+page
+	set url https://ukraina.ru/news/20210210/1030519744.html
+	set tags ukraina,kiva_ilja,nazkorpus,kiev
+page
+	set url https://www.vesti.ru/article/2522218
+	set tags sputnik_v,covid,vaccine,evropa,registracia
+page
+	set url https://www.pravda.com.ua/news/2021/02/10/7283016/
+	set tags ukraina,covid,vaccine,sputnik_v,rossia,zapret
 eof
 off
 page

@@ -23,17 +23,7 @@ class PageParser(RootPageParser):
     if util.get(app.page,'date'):
       return self
 
-    url = app.page.url
-
-    og_url = util.get(app,'page.meta.og_url')
-    if og_url:
-      url = og_url
-
-    u = util.url_parse(url)
-
-    path = u['path']
-
-    m = re.match(r'^[/]*(\w+)/(\d{4})/(\d{2})/(\d{2})/',path)
+    m = re.match(r'^[/]*(\w+)/(\d{4})/(\d{2})/(\d{2})/',self.url_path)
     if m:
       category = m.group(1)
       year     = m.group(2)
@@ -43,11 +33,7 @@ class PageParser(RootPageParser):
       date = '_'.join([day,month,year])
       app.page.set({ 'date' :  date })
 
-    parts = path.split('/')
-    f = filter(lambda x: len(x) > 0, path.split('/') )
-    parts = list(f)
-
-#    if len(parts) > 3:
+#    if len(self.url_parts) > 3:
       #if parts[0] in util.qw('news travel culture society'):
         #year  = parts[1]
         #month = parts[2]

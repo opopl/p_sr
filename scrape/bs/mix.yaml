@@ -12,7 +12,7 @@ include:
     - com.us.apple
     - news.lnr.lug_info
     - news.ru.lenta
-    - news.ru.life
+    #- news.ru.life - DATE
     - news.ua.oboz
     - news.ua.pravda
     - news.ua.strana
@@ -23,6 +23,6 @@ include:
     - news.ua.apostrof
     - news.ua.112ua
     - pc.articles.sitepoint
-    - pc.cairographics 
-    - pc.cairosvg
+    #- pc.cairographics 
+    #- pc.cairosvg
     - vera.ru.pravoslavie

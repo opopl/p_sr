@@ -11,25 +11,10 @@ from Base.Scraper.PageParser import RootPageParser
 
 class PageParser(RootPageParser):
 
-  month_map_genitive = {
-    'января'   : '01',
-    'февраля'  : '02',
-    'марта'    : '03',
-    'апреля'   : '04',
-    'мая'      : '05',
-    'июня'     : '06',
-    'июля'     : '07',
-    'августа'  : '08',
-    'сентября' : '09',
-    'октября'  : '10',
-    'ноября'   : '11',
-    'декабря'  : '12',
-  }
-
   def __init__(self,ref={}):
     super().__init__(ref)
 
-    self.month_list_genitive = list(self.month_map_genitive.keys())
+    self.month_list_genitive = list(self.month_map_genitive['rus'].keys())
 
   def clean(self,ref={}):
     super().clean(ref)
@@ -83,7 +68,7 @@ class PageParser(RootPageParser):
       if m:
         word = m.group(1)
         if word in self.month_list_genitive:
-          d['month'] = self.month_map_genitive.get(word)
+          d['month'] = self.month_map_genitive['rus'].get(word)
 
     if d['day'] and d['month'] and d['year']:
       kk = util.qw('day month year')

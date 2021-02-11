@@ -11,20 +11,7 @@ from Base.Scraper.PageParser import RootPageParser
 
 class PageParser(RootPageParser):
 
-  month_map_genitive = {
-    'січня'     : '01',
-    'лютого'    : '02',
-    'березня'   : '03',
-    'квітня'    : '04',
-    'травня'    : '05',
-    'червня'    : '06',
-    'липня'     : '07',
-    'серпня'    : '08',
-    'вересня'   : '09',
-    'жовтня'    : '10',
-    'листопада' : '11',
-    'грудня'    : '12',
-  }
+
 
   def generate_ii(self,ref={}):
     super().generate_ii(ref)
@@ -80,7 +67,7 @@ class PageParser(RootPageParser):
           month_gen = m.group(2)
           year      = m.group(3)
   
-          month = self.month_map_genitive.get(month_gen,'')
+          month = self.month_map_genitive['ukr'].get(month_gen,'')
   
           if month:
             date = '_'.join([day,month,year])

@@ -18,10 +18,6 @@ class PageParser(RootPageParser):
   def get_date(self,ref={}):
     super().get_date(ref)
 
-    app = self.app
-    if util.get(app.page,'date'):
-      return self
-
     return self
 
   def clean(self,ref={}):

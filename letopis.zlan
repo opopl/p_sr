@@ -2313,6 +2313,81 @@ page
 page
 	set url https://www.radiosvoboda.org/a/oos-strelba-blokpost-smert-voditelia-victorovka/31096144.html
 	set tags vojna,smert,donbass,ukraina,incident
+page
+	set url https://plus.obozrevatel.com/crime/twitter-priznal-ofitsialnyimi-akkauntyi-mvd-rossii-v-kryimu.htm
+	set tags rossia,mvd,krym,ukraina,twitter
+page
+	set url https://strana.ua/news/317123-nazvana-prichina-anomalnykh-snehopadov-v-ukraine.html
+	set tags ukraina,rossia,pogoda
+page
+	set url https://strana.ua/news/316872-jazykovoj-skandal-v-novuse-kak-mahazin-nachal-uvolnjat-svoikh-kassirov-za-jazyk-obsluzhivanija.html
+	set tags ukraina,mova,skandal,novus
+page
+	set url https://strana.ua/news/312114-chto-dumajut-v-krupnykh-supermarketakh-o-perekhode-sfery-obsluzhivanija-na-ukrainskij-jazyk.html
+	set tags ukraina,mova
+page
+	set url https://strana.ua/opinions/311279-ukrainskij-jazyk-ne-ispolzuetsja-dlja-razvitija-nauki-iskusstva.html
+	set tags ukraina,mova,mysli
+page
+	set url https://strana.ua/opinions/316981-vojna-s-rossiej-davno-uzhe-podmenena-vojnoj-s-russkim-jazykom.html
+	set tags ukraina,rusmir,mysli,vojna
+page
+	set url https://www.radiosvoboda.org/a/news-viyskovyi-poranenyi-na-donbasi/31097381.html
+	set tags vojna,donbass,smert,tkg,ukraina,vsu
+page
+	set url https://www.radiosvoboda.org/a/news-reznikov-rosiia-liudy-v-ordlo/31095960.html
+	set tags donbass,reznikov_alexei,rossia,ukraina
+page
+	set url http://lug-info.com/news/one/kommunalschiki-planiruyut-v-2021-godu-vysadit-v-luganske-196-tys-tsvetov-i-3-tys-derevev-64571
+	set tags lnr,priroda,parki
+page
+	set url http://lug-info.com/news/one/kiev-proyavil-nekompetentnost-obviniv-lnr-v-obstrele-severodonetska-narodnaya-militsiya-64445
+	set tags lnr,vojna,obstrel,dezinformacia,ukraina
+page
+	set url http://lug-info.com/news/one/luganskii-teatr-imeni-luspekaeva-pristupil-k-podgotovke-novogo-spektaklya-dlya-detei-64565
+	set tags lnr,teatr,deti
+page
+	set url http://lug-info.com/news/one/zayavlenie-polnomochnogo-predstavitelya-lnr-na-minskikh-peregovorakh-vladislava-deinego-64566
+	set tags ukraina,lnr,reznikov_alexei,dejnego_vladislav
+page
+	set url http://lug-info.com/news/one/pyat-legkoatletov-iz-lnr-zanyali-prizovye-mesta-na-chempionate-rostovskoi-oblasti-foto-64570
+	set tags lnr,sport,rossia,legkoatletika
+page
+	set url http://lug-info.com/news/one/boksery-iz-lnr-zavoevali-na-vserossiiskom-turnire-v-tambove-chetyre-medali-foto-64028
+	set tags sport,lnr,boks,priz,sorevnovanie
+page
+	set url http://lug-info.com/news/one/studsovety-lnr-obsudili-vzaimodeistvie-v-ramkakh-assotsiatsii-studencheskogo-samoupravleniya-foto-64573
+	set tags lnr,studenty
+page
+	set url http://lug-info.com/news/one/chspk-otmenila-ogranicheniya-dlya-predpriyatii-obschepita-64516
+	set tags lnr,covid,karantin
+page
+	set url http://lug-info.com/comments/one/master-kluba-levsha-inna-chekareva-ukrashennyi-svoimi-rukami-dom-stanovitsya-osobenno-teplym-i-uyutnym-809
+	set tags lnr,kultura
+page
+	set url http://lug-info.com/comments/one/afganets-igor-nosal-svoi-dolg-soldata-ispolnil-chestno-i-togda-i-seichas-810
+	set tags lnr,afganistan,vojna,sssr,istoria
+page
+	set url https://strana.ua/news/317132-evroparlament-potreboval-ot-ukrainy-zakryt-sajt-mirotvorets.html
+	set tags evroparlament,ukraina,mirotvorec_sajt,zapret
+page
+	set url https://strana.ua/news/317062-naduvnye-lodki-reaktsija-ukraintsev-na-voennuju-pomoshch-ssha-ukraine.html
+	set tags ukraina,usa,titanik,lodki,vsu
+page
+	set url https://kiev.strana.ua/317126-khha-obzhaluet-reshenie-oaks-o-vozvrashchenii-starykh-nazvanij-ulits-kieva.html
+	set tags kiev,klichko,bandera_stepan,prospekt_moskovskii
+page
+	set url https://strana.ua/news/97729-v-kalushe-radikaly-zapuhivajut-protivnika-pereimenovanija-ulitsy.html
+	set tags ukraina
+page
+	set url https://strana.ua/news/12111-vnuk-soldata-divizii-ss-galichina-szhigaet-na-marshe-bessmertnogo-polka-georgievskie-lenty.html
+	set tags kiev,skandal,ss
+page
+	set url https://gazeta.ua/blog/54600/mi-zrobili-fatalnu-pomilku-treba-zminyuvati-mentalitet
+	set tags ukraina,mentalitet,vatnik,sovok,mysli
+page
+	set url https://gazeta.ua/articles/celebrities/_vitni-gyuston-znajshli-mertvoyu-u-vanni/1014197
+	set tags usa,uitni_hjuston,smert
 eof
 off
 page

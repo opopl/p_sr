@@ -19,3 +19,12 @@ class PageParser(RootPageParser):
     super().get_date(ref)
 
     return self
+
+  def get_date_html(self,ref={}):
+    super().get_date_html(ref)
+
+    app = self.app
+    if app.page.get('date'):
+      return self
+
+    return self

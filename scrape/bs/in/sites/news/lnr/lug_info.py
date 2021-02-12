@@ -54,27 +54,37 @@ class PageParser(RootPageParser):
           #day = dt_now.day - 1
 
     # --------------------------------------------------
-    ss = soup.select_one('.middle_news_date p').string.strip()
-    sa = ss.split()
+    tries = '''
+    .middle_news_date p
+    .another-date p
+    '''.split('\n')
 
-    while len(sa):
-      s = sa.pop(0)
+    tries = list(map(lambda x: x.strip(),tries))
+    tries = list(filter(lambda x: len(x) > 0,tries))
 
-      m = re.match(r'(\d{2})',s)
-      if m:
-        d['day'] = m.group(1)
-
-      m = re.match(r'(\w+)',s)
-      if m:
-        word = m.group(1)
-        if word in self.month_list_genitive:
-          d['month'] = self.month_map_genitive['rus'].get(word)
-
-    if d['day'] and d['month'] and d['year']:
-      kk = util.qw('day month year')
-      date = '_'.join( list(map(lambda x: d[x], kk )) )
-
-    if date:
-      app.page.set({ 'date' : date })
+    for selector in tries:
+      el = soup.select_one(selector)
+      if el:
+        sa = self._el_date_parts(el)
+    
+        while len(sa):
+          s = sa.pop(0)
+    
+          m = re.match(r'(\d{2})',s)
+          if m:
+            d['day'] = m.group(1)
+    
+          m = re.match(r'(\w+)',s)
+          if m:
+            word = m.group(1)
+            if word in self.month_list_genitive:
+              d['month'] = self.month_map_genitive['rus'].get(word)
+    
+        if d['day'] and d['month'] and d['year']:
+          kk = util.qw('day month year')
+          date = '_'.join( list(map(lambda x: d[x], kk )) )
+    
+        if date:
+          app.page.set({ 'date' : date })
 
     return self

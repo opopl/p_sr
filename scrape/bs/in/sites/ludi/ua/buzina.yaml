@@ -1,6 +1,9 @@
 
 sel:
   clean:
+    - '#comments'
+    - '.art-block'
+    - '.breadcrumbs'
   author: 
     { 
       'url' : {
@@ -11,3 +14,9 @@ sel:
           'css' : '.b-topic__content__author .name'
       }
     }
+PageParser:
+  get_date:
+    sels: 
+      - { 
+          'find': '.art-postheadericons',
+        }

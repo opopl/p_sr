@@ -9,12 +9,13 @@
 'lb.ua' : { 'site' : 'news.ua.lb' }
 'imi.org.ua' : { 'site' : 'news.ua.imi' }
 'fakty.ua' : { 'site' : 'news.ua.fakty' }
-'day.kiev.ua,day.kyiv.ua' : { 'site' : 'news.ua.day_kiev_ua' }
+'day.kiev.ua,day.kyiv.ua' : { 'site' : 'news.ua.den' }
 'zaxid.net' : { 'site' : 'news.ua.zaxid' }
 '112.ua,112ua.tv' : { 'site' : 'news.ua.112ua' }
 'newsoneua.tv' : { 'site' : 'news.ua.newsone' }
 'zikua.tv' : { 'site' : 'news.ua.zik' }
 'apostrophe.ua' : { 'site' : 'news.ua.apostrof' }
+'buzina.org' : { 'site' : 'ludi.ua.buzina' }
 
 ###vera
 'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }
@@ -24,9 +25,11 @@
 'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
 'lenta.ru' : { 'site' : 'news.ru.lenta' }
 'life.ru' : { 'site' : 'news.ru.life' }
+'vz.ru' : { 'site' : 'news.ru.vzgljad' }
 'ukraina.ru' : { 'site' : 'news.ru.ukraina' }
 'vesti.ru' : { 'site' : 'news.ru.vesti_ru' }
 'zen.yandex.ru' : { 'site' : 'news.ru.yandex.zen' }
+'inosmi.ru' : { 'site' : 'news.ru.inosmi' }
 
 ###pc
 

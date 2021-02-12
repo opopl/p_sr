@@ -61,7 +61,7 @@ class PageParser(RootPageParser):
       el = app.soup.select_one('.bdate')
       if el:
         date_s = el.string.strip().split(',')[0]
-        m = re.match(r'^(\d+)\s+(\w+)\s+(\w+)',date_s)
+        m = re.match(r'^(\d+)\s+(\w+)\s+(\d+)',date_s)
         if m:
           day       = m.group(1)
           month_gen = m.group(2)

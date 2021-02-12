@@ -12,6 +12,8 @@ include:
     - com.us.apple
     - news.lnr.lug_info
     - news.ru.lenta
+    - news.ru.inosmi
+    - news.ru.vzgljad
     #- news.ru.life - DATE
     - news.ua.oboz
     - news.ua.pravda
@@ -19,6 +21,7 @@ include:
     - news.ua.zaxid
     - news.ua.fakty
     - news.ua.zik
+    - news.ua.den
     - news.ua.newsone
     - news.ua.apostrof
     - news.ua.112ua
@@ -26,3 +29,4 @@ include:
     #- pc.cairographics 
     #- pc.cairosvg
     - vera.ru.pravoslavie
+    - ludi.ua.buzina

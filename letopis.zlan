@@ -2615,6 +2615,42 @@ page
 page
 	set url https://day.kyiv.ua/uk/article/podrobyci/gotovnist-do-vidsichi
 	set tags rossia,ukraina,istoria,vojna
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/nashyynyk-z-perlamutrovym-vichkom
+	set tags ukraina,rasskaz
+page
+	set url https://day.kyiv.ua/uk/article/den-planety/vizantiyska-hytrist
+	set tags ukraina,rossia,istoria,vizantia
+page
+	set url https://strana.ua/news/317529-pohoda-sehodnja-spasateli-predupredili-ob-ukhudshenii-situatsii.html
+	set tags ukraina,sneg,pogoda,zima
+page
+	set url https://strana.ua/news/317469-podrobnosti-skandala-s-izbienijami-detej-v-stomatolohicheskoj-klinike-v-rovno.html
+	set tags ukraina,kriminal
+page
+	set url https://www.radiosvoboda.org/a/31099743.html
+	set tags rossia,krym,protest
+page
+	set url https://www.radiosvoboda.org/a/news-ukraintsi-ispanii-sharii/31100969.html
+	set tags sharii_anatolii,ukraina,italia
+page
+	set url https://www.radiosvoboda.org/a/protydiya-dezinformatsiyi/31098847.html
+	set tags demokratia,svoboda,dezinformacia
+page
+	set url https://www.radiosvoboda.org/a/sprava-demyanyuka-zmusyla-nimtsiv-shukaty-vynnyh-u-holokosti-v-nimechchyni/31096562.html
+	set tags germania,demjanjuk_ivan,nazizm
+page
+	set url https://zaxid.net/kolektivniy_ukrayinets_n1514368
+	set tags ukraina,mentalitet
+page
+	set url https://zaxid.net/ye_mriya_yaka_pochinaye_stavati_realnistyu_n1514318
+	set tags lvov,okean,lodka,ukraina
+page
+	set url https://zaxid.net/cherez_pivsvitu_na_veslah_n1360240
+	set tags rezvoi_pavel,lvov,okean,ukraina
+page
+	set url https://zaxid.net/lvivyanin_planuye_pereplivti_atlantichniy_okean_na_veslah_n1355465
+	set tags rezvoi_pavel,okean,lodka,ukraina
 eof
 off
 page

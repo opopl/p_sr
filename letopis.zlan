@@ -2651,6 +2651,51 @@ page
 page
 	set url https://zaxid.net/lvivyanin_planuye_pereplivti_atlantichniy_okean_na_veslah_n1355465
 	set tags rezvoi_pavel,okean,lodka,ukraina
+page
+	set url https://zaxid.net/dmitro_ryezvoy_gotuyetsya_na_veslah_zdolati_do_5000_kilometriv_atlantichnim_okeanom_n1489858
+	set tags rezvoi_dmitrii,lvov,ukraina,okean
+page
+	set url https://zaxid.net/mayster_samouk_iz_lvivshhini_skonstruyuvav_okeansku_yahtu_n1505837
+	set tags gumeneckii_myron,okean,lodka,ukraina,lvov
+page
+	set url https://zaxid.net/lvivska_kozatska_chayka_predstavit_ukrayinu_na_mizhnarodniy_morskiy_areni_n1389182
+	set tags lvov,ukraina,lodka
+page
+	set url https://zaxid.net/ne_moskvoyu_odniyeyu_treba_miryati_nashi_porazki_n1514364
+	set tags ukraina,rusmir,rossia,istoria,moskva
+page
+	set url https://zaxid.net/koli_kolumb_pliv_do_ameriki_lemko_vzhe_vertavsya_zvidti_n1514021
+	set tags ukraina,emigracia,zapad
+page
+	set url https://zaxid.net/tayemnitsi_kozatskih_portretiv_n1513679
+	set tags ukraina,istoria,portrety,kozaky
+page
+	set url https://plus.obozrevatel.com/kiyany/crime/kievlyanka-spasla-muzhchinu-kotorogo-otravili-i-brosili-v-sneg-umirat-istoriya-prostogo-podviga.htm
+	set tags kiev,podvig,sneg,pogoda,obschestvo
+page
+	set url https://lenta.ru/news/2021/02/13/krim/
+	set tags rossia,krym,usa,sankcii
+page
+	set url https://lenta.ru/news/2021/02/13/donosy/
+	set tags kiev,ukraina,donos,ukrainizacia
+page
+	set url https://www.vesti.ru/article/2523284
+	set tags rossia,medicina,covid
+page
+	set url https://ukraina.ru/opinion/20210212/1030545865.html
+	set tags ukraina,kiev,sneg,zima,pogoda,bandera_stepan
+page
+	set url https://ukraina.ru/history/20210212/1030546583.html
+	set tags istoria,ukraina,sssr
+page
+	set url https://ukraina.ru/sn/20210211/1030534962.html
+	set tags kiev,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210212/1030484703.html
+	set tags donbass,vojna,2014
+page
+	set url https://ukraina.ru/opinion/20210212/1030537614.html
+	set tags sputnik_v,covid,vaccine,rossia,ukraina,zapret
 eof
 off
 page

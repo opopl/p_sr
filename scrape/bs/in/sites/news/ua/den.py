@@ -41,10 +41,12 @@ class PageParser(RootPageParser):
       month_gen = m.group(2)
       year      = m.group(3)
 
-      month = self.month_map_genitive['ukr'].get(month_gen,'')
-  
-      if month:
-        date = '_'.join([day,month,year])
+      for lang in util.qw('ukr rus'):
+        month = self.month_map_genitive[lang].get(month_gen,'')
+    
+        if month:
+          date = self._date_dmy(day,month,year)
+          break
 
     #date = None
     return date

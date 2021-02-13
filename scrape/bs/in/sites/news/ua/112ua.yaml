@@ -11,11 +11,3 @@ sel:
           'css' : '.b-topic__content__author .name'
       }
     }
-
-PageParser:
-  get_date_html:
-    sels : 
-      - {
-          'find' : '.node_date',
-          'get'  : 'text',
-        }

@@ -2563,6 +2563,55 @@ page
 page
 	set url https://www.radiosvoboda.org/a/news-zakon-pro-movu/31097967.html
 	set tags mova,ukraina,ukrainizacia
+page
+	set url https://www.radiosvoboda.org/a/news-zakon-pro-movu-porushennya/31099780.html
+	set tags mova,ukraina
+page
+	set url https://www.radiosvoboda.org/a/30833701.html
+	set tags mova,ukraina,jazyk
+page
+	set url https://www.radiosvoboda.org/a/30704043.html
+	set tags mova,rahmanin_sergei,ukraina
+page
+	set url https://www.radiosvoboda.org/a/30816850.html
+	set tags ukraina,mova
+page
+	set url https://www.radiosvoboda.org/a/donbass--realii/30794373.html
+	set tags ukraina,mova,cennosti
+page
+	set url https://www.radiosvoboda.org/a/30737035.html
+	set tags mova,istoria,ukraina
+page
+	set url https://www.radiosvoboda.org/a/30729401.html
+	set tags ukraina,russifikacia,mova
+page
+	set url https://www.radiosvoboda.org/a/30313221.html
+	set tags mova,ukraina,miroshnichenko_artem,smert
+page
+	set url https://strana.ua/news/317443-ljudi-karasja-sovershili-na-menja-otkrovennoe-napadenie-a-politsii-zatjahivaet-s-rassledovaniem-zhurnalist-serhej-shevchuk-o-podrobnostjakh-napadenija-.html
+	set tags ukraina,c14,karas_evgenii,kriminal,zhurnalisty
+page
+	set url https://strana.ua/news/317413-chto-skazal-drozdov-o-zriteljakh-zakrytykh-telekanalov-podrobnosti-skandala.html
+	set tags drozdov_ostap,skandal
+page
+	set url https://strana.ua/news/317464-zelenskij-pozdravil-kitajtsev-s-novym-hodom-kartinkoj-s-vidom-nepala.html
+	set tags zelenskii_vladimir,kitaj
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/chomu-nihto-ne-plache-za-medvedchukivskymy-telekanalamy
+	set tags ukraina,telekanaly,zapret
+page
+	set url https://day.kyiv.ua/uk/news/120221-ukrayina-gotuyetsya-do-vidnovlennya-vyrobnyctva-vakcyn-lyashko
+	set tags vaccine,ukraina,covid
+page
+	set url https://lenta.ru/news/2021/02/11/elcin/
+	set tags ukraina,rossia,kravchuk_leonid,elcin_boris
+page
+	set url https://news.obozrevatel.com/society/dazhe-nebo-oplakivaet-nashego-sashu-stali-izvestnyi-podrobnosti-o-pogibshem-na-donbasse-poltovchanine.htm
+	set tags vsu,donbass,vojna,ukraina,smert
+page
+	set url https://buzina.org/povtorenie/2383-rada-zluka.html
+	set tags istoria,ukraina
+	set date 23_01_2009
 eof
 off
 page

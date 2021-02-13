@@ -32,3 +32,5 @@ __pycache__
 scrape/bs/out
 log.txt
 log_*.txt
+*.png
+*.jpg

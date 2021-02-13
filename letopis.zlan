@@ -2612,6 +2612,9 @@ page
 	set url https://buzina.org/povtorenie/2383-rada-zluka.html
 	set tags istoria,ukraina
 	set date 23_01_2009
+page
+	set url https://day.kyiv.ua/uk/article/podrobyci/gotovnist-do-vidsichi
+	set tags rossia,ukraina,istoria,vojna
 eof
 off
 page

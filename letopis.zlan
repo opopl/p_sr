@@ -2696,6 +2696,45 @@ page
 page
 	set url https://ukraina.ru/opinion/20210212/1030537614.html
 	set tags sputnik_v,covid,vaccine,rossia,ukraina,zapret
+page
+	set url https://gazeta.ua/articles/politics/_zurnalistiv-kanaliv-medvedchuka-pozbavili-akreditaciyi-v-radu/1014622
+	set tags ukraina,telekanaly,zapret,verhovna_rada
+page
+	set url https://gazeta.ua/blog/54593/iz-zelenskim-v-ukrayini-nema-majbutnogo
+	set tags ukraina,zelenskii_vladimir,politika
+page
+	set url https://gazeta.ua/blog/54606/rosiyani-sami-vinni-dzhina-iz-plyashki-voni-vipustili-sim-rokiv-tomu
+	set tags kazarin_pavel,krym,rossia,ukraina,mnenie
+page
+	set url https://from-ua.com/articles/587175-pcu-i-golubie-eli-kto-stoit-za-gomoseksualnim-skandalom.html
+	set tags ukraina,pcu,vera,cerkov,lbgt,gei
+page
+	set url https://from-ua.com/articles/587089-ukraine-nuzhno-ne-menee-50-millionov-doz-vakcini-gde-ih-vzyat.html
+	set tags ukraina,vaccinacia
+page
+	set url https://from-ua.com/news/587293-medvedchuk-evroparlament-stal-na-zaschitu-ukrainskih-zhurnalistov-i-chetko-ukazal-zelenskomu-na-nezakonnost-ego-sankcii.html
+	set tags ukraina,medvedchuk_viktor,telekanaly,zapret
+page
+	set url https://gazeta.ua/blog/54598/rosiyani-rozuchilisya-dumati-ihnye-najpopulyarnishe-zahoplennya-putiniana
+	set tags putin,mnenie,navalny,protest
+page
+	set url https://strana.ua/news/317539-v-rovno-iz-sneha-vytashchili-hruzovik-hruppy-bez-obmezhen.html
+	set tags rovno,sneg,zima,ukraina,avto,muzykanty
+page
+	set url https://strana.ua/news/317134-troe-kubintsev-33-dnja-proveli-na-neobitaemom-ostrove.html
+	set tags bagamy,robinzon,kuba
+page
+	set url https://inosmi.ru/politic/20210212/249128207.html
+	set tags rossia,evrosojuz,es,diplomatia
+page
+	set url https://lenta.ru/photo/2021/02/13/kavkaz/#2
+	set tags rossia,kavkaz,turizm
+page
+	set url https://lenta.ru/photo/2021/02/08/butan/
+	set tags turizm,butan
+page
+	set url https://www.facebook.com/notes/364517684906528/l
+	set tags ukraina,katastrofa,laviny,smert
 eof
 off
 page

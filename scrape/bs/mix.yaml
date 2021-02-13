@@ -8,7 +8,7 @@ exclude:
 
 include:
   sites:
-    #- pc.docs.python
+    - pc.docs.python
     - com.us.apple
     - news.lnr.lug_info
     - news.ru.lenta

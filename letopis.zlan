@@ -2735,6 +2735,102 @@ page
 page
 	set url https://www.facebook.com/notes/364517684906528/l
 	set tags ukraina,katastrofa,laviny,smert
+page
+	set url https://lenta.ru/articles/2021/02/13/xx/
+	set tags stalin_iosif,istoria,sssr,kult_lichnosti
+page
+	set url https://strana.ua/news/317564-jurij-vlasov-umer-foto-i-biohrafija-tjazheloatleta-video-olimpijskoho-rekorda.html
+	set tags sssr,sport,vlasov_jurij,atletika,smert
+page
+	set url https://strana.ua/news/317506-pochemu-po-tv-v-turtsii-pokazali-kartu-s-krymom-i-donbassom-v-ee-sostave.html
+	set tags ukraina,turcia,imperia
+page
+	set url https://vz.ru/world/2021/2/13/1084908.html
+	set tags aes,atom,ukraina
+page
+	set url https://www.vesti.ru/article/2523312
+	set tags sputnik_v,rossia,sputnik_lite,covid,vaccine
+page
+	set url https://zaxid.net/stalo_vidome_imya_vbitogo_rosiyskim_snayperom_ukrayinskogo_viyskogo_n1514314
+	set tags glushko_oleksandr,smert,vsu,donbass,vojna
+page
+	set url https://www.obozrevatel.com/russia/maski-v-kremle-sbroshenyi-rossiya-idet-k-vojne-krahu-tupiku-i-krovi-eks-polkovnik-fsb-gudkov.htm
+	set tags rossia,putin_vladimir,protest,navalny
+page
+	set url https://racurs.ua/ua/n149887-vasha-strana-ogromnaya-davno-rozvalylasya-scho-vy-tut-zabuly-u-radi-vidpovily-opzj.html
+	set tags verhovna_rada,ukraina,rabinovich_vadim
+page
+	set url https://racurs.ua/ua/b189-ugasauschaya-gosudarstvennost.html
+	set tags ukraina,gluzman_semen
+page
+	set url https://racurs.ua/ua/b180-jizn-v-strane-yazychnikov.html
+	set tags gluzman_semen,ukraina,mysli
+page
+	set url https://racurs.ua/ua/b174-semen-gluzman-podobie-kolonii-i-gospoja-posol.html
+	set tags usa,ukraina
+page
+	set url https://proza.ru/editor/2020/12/20/629
+	set tags elka,igrushka,istoria
+page
+	set url http://lug-info.com/news/one/luganskaya-afisha-64625
+	set tags lnr,lugansk,afisha
+page
+	set url https://redray-lnr-news.su/allnews/important_day/2071-v-luganske-sostoyalsya-miting-posvyaschennyy-pyatoy-godovschine-nachala-russkoy-vesny.html
+	set tags lnr,rusvesna,miting,lugansk
+page
+	set url https://redray-lnr-news.su/allnews/important_day/15321-vsem-kazakam-goroda-krasnyy-luch.html
+	set tags lnr,kazaki,krasnyy_luch
+page
+	set url https://medvedy-teddy.livejournal.com/118869.html
+	set tags vojna,donbass
+page
+	set url https://gorod-lugansk.com/2016/06/14/fotoakciya-v-obektive-semya-startuet-s-13-iyunya.html
+	set tags lnr,konkurs,foto,semja
+page
+	set url https://news-front.info/2021/02/13/ukraina-ahillesova-pyata-rossii-leonid-shhukin/
+	set tags ukraina_ne_rossia,ukraina,rossia,mnenie
+page
+	set url http://luganskonline.su/lenta/15-sentjabrja-obzor-situacii-za-sutki.html
+	set tags lnr,vojna
+page
+	set url https://lugradar.net/2018/04/182510
+	set tags lnr,foto,lugansk
+page
+	set url http://lug-info.com/news/one/lutugintsy-otmetili-78-yu-godovschinu-osvobozhdeniya-goroda-ot-nemetsko-fashistskikh-zakhvatchikov-foto-64654
+	set tags lnr,miting,patjat,vov,vojna
+page
+	set url http://lug-info.com/news/one/aktivisty-v-ramkakh-mezhdunarodnoi-aktsii-razvernuli-v-perevalske-200-metrovoe-znamya-pobedy-foto-64653
+	set tags lnr,perevalsk,pamjat,pobeda
+page
+	set url http://lug-info.com/news/one/vaktsinatsiya-voennosluzhaschikh-narodnoi-militsii-lnr-ot-covid-idet-soglasno-grafiku-medsluzhba-foto-64598
+	set tags lnr,vaccine,covid,sputnik_v,nm_lnr
+page
+	set url http://lug-info.com/news/one/glava-lnr-obsudil-s-rukovoditelyami-ministerstv-i-vuzov-aktualnye-voprosy-obrazovaniya-foto-64583
+	set tags lnr,obrazovanie
+page
+	set url http://lug-info.com/news/one/sotrudnik-mchs-lnr-rasskazal-chto-posle-vaktsinatsii-sputnik-v-chuvstvuet-sebya-otlichno-foto-64554
+	set tags lnr,sputnik_v,covid,vaccine
+page
+	set url https://day.kyiv.ua/uk/news/130221-moskva-i-pekin-vikoristovuyut-vlasni-vakcini-yak-politichniy-instrument-biliy-dim
+	set tags usa,pekin,moskva,vaccine,covid
+page
+	set url https://www.pravda.com.ua/articles/2021/02/14/7278228/
+	set tags mova,jazyk,ukraina,rossia
+page
+	set url https://www.pravda.com.ua/articles/2020/08/9/7261197/
+	set tags ukraina,mova
+page
+	set url https://www.pravda.com.ua/news/2018/02/28/7173097/
+	set tags ukraina,mova,zakon,sud
+page
+	set url https://www.pravda.com.ua/news/2020/07/16/7259601/
+	set tags mova,dyktant,buzhanskii_maksim,geraschenko_iryna
+page
+	set url https://www.pravda.com.ua/news/2021/02/13/7283368/
+	set tags armenia,earthquake
+page
+	set url http://lug-info.com/news/one/pozdravlenie-predsedatelya-narodnogo-soveta-lnr-s-dnem-osvobozhdeniya-luganska-ot-fashistov-64615
+	set tags lnr,vov,fashizm,nazizm,vojna,pamjat
 eof
 off
 page

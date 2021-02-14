@@ -1,6 +1,7 @@
 
 sel:
   clean:
+    - .top_menu
   author: 
     { 
       'url' : {

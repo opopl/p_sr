@@ -2831,6 +2831,63 @@ page
 page
 	set url http://lug-info.com/news/one/pozdravlenie-predsedatelya-narodnogo-soveta-lnr-s-dnem-osvobozhdeniya-luganska-ot-fashistov-64615
 	set tags lnr,vov,fashizm,nazizm,vojna,pamjat
+page
+	set url https://www.pravda.com.ua/news/2021/02/14/7283408/
+	set tags vojna,vsu,donbass,ukraina,smert
+page
+	set url https://www.pravda.com.ua/news/2021/02/13/7283367/
+	set tags vojna,donbass,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2020/08/22/7263828/
+	set tags ukraina,rossia,nacia
+page
+	set url https://www.pravda.com.ua/articles/2021/01/14/7279849/
+	set tags ukraina,zelenskii_vladimir
+page
+	set url https://blogs.pravda.com.ua/authors/yakhno/602830d1d5601/
+	set tags ukraina
+page
+	set url https://strana.ua/news/317632-chto-oznachaet-proval-vtoroho-impichmenta-trampa-.html
+	set tags trump_donald,usa,senat,sud,impichment
+page
+	set url https://strana.ua/news/317177-putin-poobeshchal-ne-brosat-donbass-i-otsenil-perspektivy-eho-prisoedinenija-k-rossii.html
+	set tags rossia,donbass,putin_vladimir
+page
+	set url https://strana.ua/news/316917-kabmin-zanimaetsja-razrabotkoj-zakonoproektov-po-vosstanovleniju-ekonomiki-donbassa.html
+	set tags ukraina,donbass,reznikov_aleksei
+page
+	set url https://strana.ua/news/317658-posle-pjanoj-draki-muzhchina-umer-u-sebja-doma-v-odesskoj-oblasti.html
+	set tags ukraina,kriminal,odessa
+page
+	set url https://kiev.strana.ua/314367-vo-vremja-zastolja-v-kieve-pjanaja-zhenshchina-zabila-do-smerti-sosedku-derevjannoj-tolkushkoj.html
+	set tags ukraina,kriminal,smert,kiev
+page
+	set url https://strana.ua/news/307987-v-hostomele-muzhchina-do-smerti-zabil-truboj-svoeho-brata.html
+	set tags ukraina,kriminal,smert,ubijstvo
+page
+	set url https://zaxid.net/na_donbasi_zaginuli_troye_ukrayinskih_viyskovih_n1514422
+	set tags smert,vsu,oos,ukraina,donbass,vojna
+page
+	set url https://plus.obozrevatel.com/crime/nazvano-imya-ukrainskogo-voina-ubitogo-vrazheskim-snajperom-na-donbasse-foto-geroya.htm
+	set tags glushko_aleksandr,smert,ato,vojna,vsu,ukraina
+page
+	set url https://news.obozrevatel.com/society/novosti-iz-zonyi-nasilie-v-ordlo-stalo-normoj.htm
+	set tags donbass,ukraina
+page
+	set url https://lenta.ru/articles/2021/02/14/transvaal/
+	set tags moskva,rossia,katastrofa,akvapark
+page
+	set url https://lenta.ru/news/2021/02/13/otstali/
+	set tags ukraina,rossia,rusmir,kievrus,veche
+page
+	set url https://www.vesti.ru/article/2523777
+	set tags sputnik_v,rossia,india,covid,vaccine
+page
+	set url https://vz.ru/world/2021/2/14/1084613.html
+	set tags evropa,karantin,covid
+page
+	set url https://vz.ru/news/2021/2/13/1084937.html
+	set tags priroda,ukraina,deti
 eof
 off
 page

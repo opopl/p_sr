@@ -1,6 +1,22 @@
 
 sel:
   clean:
+    - .article_choice_pic
+    - .club_banner_1
+    - .club_banner_wrapper
+    - .container_sub_adv_article
+    - .container_sub_adv_news
+    - .container_sub_side_news
+    - .footer_banner
+    - .post_other_news
+    - .post_tags
+    - .section_choice_articles
+    - .section_choice_articles
+    - .social_item
+    - .unit_news_banner_bottom
+    - .topmenu
+    - .topmenubg
+    - .top-left
   author: 
     { 
       'url' : {

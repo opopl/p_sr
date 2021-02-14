@@ -22,6 +22,7 @@
 
 ###ru
 
+'news-front.info' : { 'site' : 'news.ru.newsfront' }
 'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
 'lenta.ru' : { 'site' : 'news.ru.lenta' }
 'life.ru' : { 'site' : 'news.ru.life' }

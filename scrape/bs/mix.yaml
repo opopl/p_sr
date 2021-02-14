@@ -14,6 +14,7 @@ include:
     - news.ru.lenta
     - news.ru.inosmi
     - news.ru.vzgljad
+    - news.ru.newsfront
     #- news.ru.life - DATE
     - news.ua.oboz
     - news.ua.pravda

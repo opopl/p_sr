@@ -1,4 +1,4 @@
-on
+off
 page 
 	set url https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
 	set ii sternenko_mova_odessa
@@ -2888,6 +2888,145 @@ page
 page
 	set url https://vz.ru/news/2021/2/13/1084937.html
 	set tags priroda,ukraina,deti
+page
+	set url https://vz.ru/news/2021/2/14/1084958.html
+	set tags putin_vladimir,biblia,rossia,usa
+page
+	set url https://www.radiosvoboda.org/a/buran-krimea-simferopol-baykonur-space/31099335.html
+	set tags buran,sssr,istoria,kosmos
+page
+	set url https://www.radiosvoboda.org/a/rozkurkulennya-rody-usykiv-kripakiv-chobaniv/31097518.html
+	set tags istoria,sssr,kollektivizacia
+page
+	set url https://www.radiosvoboda.org/a/pomer-tsymbalist-petro-skazkiv/31087875.html
+	set tags skazkiv_petro,muzyka,muzykanty,smert,ukraina,karpaty
+page
+	set url https://gazeta.ua/articles/regions/_mi-tak-chekali-scho-ti-priyidesh-a-ti-povernuvsya-nezhivij-dva-sela-na-kolinah-proschalisya-z-desantnikom/1014675
+	set tags vsu,ukraina,smert,vojna,donbass
+page
+	set url https://gazeta.ua/articles/edu-and-science/_145-rokiv-tomu-prezentuvali-pershij-telefon/1014518
+	set tags istoria,telefon
+page
+	set url https://gazeta.ua/articles/chyrkov/_asha-maye-chitko-znati-vin-hoche-yisti-chi-zamerz/1014273
+	set tags ukraina,telekanaly,zapret
+page
+	set url https://inosmi.ru/military/20210213/249133006.html
+	set tags kievrus,rusmir,ukraina,mnenie,istoria,politika
+page
+	set url https://inosmi.ru/politic/20210213/249133076.html
+	set tags kievrus,rusmir,ukraina,mnenie,istoria,politika
+page
+	set url https://inosmi.ru/social/20210214/249128437.html
+	set tags ukraina,pornografia,kiev,society
+page
+	set url https://inosmi.ru/social/20210214/249133700.html
+	set tags rossia,japan,istoria
+page
+	set url https://society.fakty.ua/368466-proverka-chuvstv-vlyublennye-ukraincy-prikovali-drug-druga-cepyu-i-popytayutsya-tak-prozhit-tri-mesyaca
+	set tags ukraina,love,society
+page
+	set url https://world.fakty.ua/368333-putina-pytayutsya-zapihnut-v-kletku-zasnezhennoj-nigerii-chtoby-gadil-kak-mozhno-menshe---slava-rabinovich
+	set tags putin_vladimir,rossia,mnenie,protest,navalny
+page
+	set url https://ukrainenews.fakty.ua/368346-stalo-izvestno-imya-pogibshego-pod-novomihajlovkoj-bojca-vsu
+	set tags vsu,smert,ukraina,donbass,vojna
+page
+	set url https://112ua.tv/statji/nakryl-menya-soboyu-i-spas-zhizn-istorii-lyubvi-skvoz-goda-i-vopreki-obstoyatelstvam-567768.html
+	set tags ukraina,zhizn
+page
+	set url https://112ua.tv/statji/my-perezhivem-eto-s-gordostyu-nam-ne-budet-stydno-smotret-v-glaza-nashim-zritelyam-zhurnalisty-112-ukraina-zik-i-newsone-o-rabote-vopreki-davleniyu-567683.html
+	set tags ukraina,zapret,telekanaly,censura
+page
+	set url https://112ua.tv/statji/vlast-protiv-112-ukraina-kak-zelenskiy-prishel-k-zakrytiyu-neugodnyh-kanalov-566883.html
+	set tags ukraina,telekanaly,cenzura
+page
+	set url https://tv.112ua.tv/mnenie/zayavlenie-telekanala-112-ukraina-po-faktu-akta-gruboy-cenzury-so-storony-vlasti-i-vopiyushhego-narusheniya-svobody-slova-565903.html
+	set tags telekanaly,ukraina,cenzura
+page
+	set url https://strana.ua/news/317698-na-hore-hemba-poterjalis-dva-turista-odnoho-iz-nikh-nashli.html
+	set tags karpaty,ukraina,turizm,spasateli,hemba,zima
+page
+	set url https://strana.ua/news/317635-prospekt-bandery-ili-moskovskij-opros-antoniny-belohlazovoj-video.html
+	set tags ukraina,bandera_stepan,prospekt_moskovskii
+page
+	set url https://vz.ru/world/2021/2/14/1084994.html
+	set tags biden_joe,usa
+page
+	set url https://day.kyiv.ua/uk/article/den-planety-svitovi-dyskusiyi/pro-chervoni-ta-vazhlyvi-zeleni-liniyi
+	set tags ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/kultura/ptsr
+	set tags ukraina,kultura,film,atlantida
+page
+	set url https://lenta.ru/articles/2021/02/14/zoya/
+	set tags fedorova_zoja,murder,sssr,istoria
+page
+	set url https://zen.yandex.ru/media/russian_time/boinia-v-novocherkasske--kak-eto-bylo-5ed5b1bf8e01ac764064a637
+	set tags novocherkassk,sssr,istoria,rasstrel
+page
+	set url https://zen.yandex.ru/media/russian_time/den-russkoi-voinskoi-slavy--rovno-230-let-nazad-armiia-suvorova-shturmom-vziala-tureckuiu-krepost-izmail-5fe4cb8becae270e94ce13c2
+	set tags suvorov_aleksandr,rossia,istoria,izmail
+page
+	set url https://zen.yandex.ru/media/russian_time/moskva-do-tla-spalennaia-tatarami-5ee26bee7cadb75a66e47e71
+	set tags rossia,istoria,moskva,krym
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/korol-yak-i-ranishe-golyy
+	set tags zelenskii_vladimir,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/ya-inshyy-subyekt-chy-pravo-mayu
+	set tags ukraina,cenzura,telekanaly
+page
+	set url https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export
+	set tags js,docs,export
+page
+	set url https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+	set tags js,docs,module,export
+page
+	set url https://v8.dev/features/modules#mjs
+	set tags js,module,docs
+page
+	set url https://www.pravda.ru/news/health/1545282-koronavirus/
+	set tags rossia,sputnik_v,vaccine,covid
+page
+	set url https://www.pravda.ru/news/world/1590515-donbass/
+	set tags lnr,vsu,vojna,smert
+page
+	set url http://lug-info.com/news/one/tri-voennosluzhaschikh-vsu-pogibli-podorvavshis-na-ukrainskoi-mine-narodnaya-militsiya-64665
+	set tags lnr,vsu,vojna,smert,ukraina
+page
+	set url http://lug-info.com/media/miting-rekviem-pamyati-pogibshikh-zhurnalistov-vgtrk-igorya-kornelyuka-i-antona-voloshina-slavyanoserbskii-raion-17-iyunya-2020-goda-903
+	set tags lnr,rekviem,pamjat,smert,korneljuk_igor,vgtrk,rossia,voloshin_anton
+page
+	set url https://www.pravda.com.ua/news/2021/02/14/7283430/
+	set tags kitaj,ukraina,posol,smert
+page
+	set url https://www.pravda.com.ua/news/2021/02/14/7283425/
+	set tags vsu,vojna,smert,donbass,ukraina
+page
+	set url https://life.pravda.com.ua/columns/2021/02/14/243926/
+	set tags lnr,ukraina,life,love
+page
+	set url https://life.pravda.com.ua/columns/2021/02/1/243817/
+	set tags lnr,vojna,life
+page
+	set url https://life.pravda.com.ua/columns/2021/01/15/243672/
+	set tags lnr,life,ukraina
+page
+	set url https://life.pravda.com.ua/columns/2020/06/3/241203/
+	set tags lnr,lugansk,life
+page
+	set url https://life.pravda.com.ua/columns/2020/02/6/239821/
+	set tags lnr,vojna,life
+page
+	set url https://life.pravda.com.ua/columns/2019/11/8/238839/
+	set tags life,lnr,ukraina,shkola
+page
+	set url https://life.pravda.com.ua/society/2016/02/23/208582/
+	set tags lugansk,life,foto,lnr
+page
+	set url https://life.pravda.com.ua/columns/2020/01/20/239622/
+	set tags lnr,lugansk,life
+on
 eof
 off
 page

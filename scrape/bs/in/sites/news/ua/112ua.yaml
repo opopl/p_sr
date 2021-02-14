@@ -1,6 +1,9 @@
 
 sel:
   clean:
+    - .article-attachment
+    - .breadcrumbs
+    - .random-box
   author: 
     { 
       'url' : {

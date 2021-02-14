@@ -38,6 +38,7 @@
 'cairosvg.org' : { 'site' : 'pc.cairosvg' }
 'docs.python.org' : { 'site' : 'pc.docs.python' }
 'sitepoint.com' : { 'site' : 'pc.articles.sitepoint' }
+'developer.mozilla.org' : { 'site' : 'pc.docs.mozilla' }
 
 ###com
 #

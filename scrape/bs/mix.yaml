@@ -9,12 +9,14 @@ exclude:
 include:
   sites:
     - pc.docs.python
+    - pc.docs.mozilla
     - com.us.apple
     - news.lnr.lug_info
     - news.ru.lenta
     - news.ru.inosmi
     - news.ru.vzgljad
-    - news.ru.newsfront
+    - news.ru.newsfron
+    - news.ru.yandex.zen
     #- news.ru.life - DATE
     - news.ua.oboz
     - news.ua.pravda
@@ -26,6 +28,7 @@ include:
     - news.ua.newsone
     - news.ua.apostrof
     - news.ua.112ua
+    #- news.ua.radiosvoboda
     - pc.articles.sitepoint
     #- pc.cairographics 
     #- pc.cairosvg

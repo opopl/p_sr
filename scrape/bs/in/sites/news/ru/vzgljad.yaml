@@ -2,6 +2,12 @@
 sel:
   clean:
     - .top_menu
+    - .fly-panel__sections
+    - .fly-panel__topnews
+    - .menu
+    - .lenta2
+  only:
+    - article
   author: 
     { 
       'url' : {

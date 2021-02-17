@@ -3027,6 +3027,502 @@ page
 	set url https://life.pravda.com.ua/columns/2020/01/20/239622/
 	set tags lnr,lugansk,life
 on
+page
+	set url https://strana.ua/news/317721-foto-raznotsvetnoho-kratera-diametrom-12-kilometrov-na-marse.html
+	set tags roskosmos,mars,foto
+page
+	set url https://strana.ua/news/316971-kitajskij-zond-tjanven-1-vyshel-na-orbitu-marsa.html
+	set tags mars,kitaj,zond,foto
+page
+	set url https://strana.ua/finance/317409-kak-ukraintsy-stali-bolshe-zarabatyvat-na-obmene-valjut-na-svoikh-schetakh.html
+	set tags ukraina,finansy
+page
+	set url https://news.obozrevatel.com/society/v-harkove-prorektor-vuza-nazval-banderlogami-storonnikov-dekommunizatsii.htm
+	set tags kharkov,ukraina,skandal,zhukov_georgii
+page
+	set url https://news.obozrevatel.com/abroad/oshibka-prezidenta.htm
+	set tags world,usa,trump_donald,mnenie
+page
+	set url https://www.obozrevatel.com/life/philosophy/yak-rozpochali-zhiti-yak-lyudi-a-ne-yak-mavpi.htm
+	set tags ukraina,filosofia,chelovek
+page
+	set url https://news.obozrevatel.com/society/10287-dorogie-malorossyi-ili-oda-na-provozglashenie-malorossii.htm
+	set tags ukraina,rusmir
+page
+	set url https://news.obozrevatel.com/politics/rukami-ukrainyi-arestovich-obyasnil-kak-ssha-zharyat-rossiyu-na-medlennom-ogne.htm
+	set tags arestovich_aleksei,ukraina,rossia,usa,vojna
+page
+	set url https://www.obozrevatel.com/blogs/18579-za-chto-russkie-nenavidyat-ukraintsev.htm
+	set tags ukraina,rusmir,rossia
+page
+	set url https://www.obozrevatel.com/blogs/70253-doktor-haos.htm
+	set tags ukraina,nacia,society
+page
+	set url https://www.obozrevatel.com/blogs/07965-posle-donetskogo-aeroporta-vata-nachala-zamenyat-ukrov-na-ukrainskih-voennyih.htm
+	set tags ukraina,vojna
+page
+	set url https://news.obozrevatel.com/society/36097-sterti-rosijskogo-vedmedya-u-poroh.htm
+	set tags rossia,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/politics/51463-ruina-i-chernaya-rada-bloger-obyasnil-pochemu-v-ukraine-ne-budet-edinogo-yazika.htm
+	set tags mova,jazyk,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/27504-vsego-50-km-na-vostok-arestovich-nazval-klyuch-k-vojne-na-donbasse.htm
+	set tags vojna,ukraina
+page
+	set url https://www.obozrevatel.com/blogs/56928-odesse-nelzya-prodat-nikakuyu-ideyu.htm
+	set tags odessa,rusmir
+page
+	set url https://politeka.net/news/605255-mi-dika-krayina-vijskovij-ekspert-poperediv-pro-strashne
+	set tags rusmir,rossia,ukraina
+page
+	set url https://politeka.net/uk/news/525484-sobiraetsya-tretij-majdan-chto-vazhno-znat-ukraintsam
+	set tags maidan3,ukraina
+page
+	set url https://styler.rbc.ua/rus/zhizn/ne-nravitsya-perevospityvay-voennyy-ekspert-1517899056.html
+	set tags donbass,ukraina,mnenie,vojna
+page
+	set url https://lenta.ru/news/2021/02/15/sovet/
+	set tags komarovskii_evgenii,ukraina,rossia,medicina,covid
+page
+	set url https://lenta.ru/articles/2021/02/15/vns/
+	set tags lukashenko_aleksandr,belarus,protest
+page
+	set url https://lenta.ru/articles/2021/02/10/indian_ambassador/
+	set tags india,rossia,vaccine,covid,sputnik_v
+page
+	set url https://lenta.ru/articles/2020/10/15/vaccine_diplomacy/
+	set tags vaccine,covid,politika,world
+page
+	set url https://lenta.ru/articles/2021/02/11/egypt_after_2011/
+	set tags rossia,arab_vesna,egipet,diktatura
+page
+	set url https://lenta.ru/articles/2021/02/15/kaleb-surgut/?utm_source=RCM-F6FE&from=RCM-F6FE
+	set tags rossia,zhizn,sever
+page
+	set url https://www.pravda.com.ua/articles/2021/02/15/7283431/
+	set tags maidan2,rasstrely,kiev,mama,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2017/11/20/7162649/
+	set tags ukraina,maidan2,nebesna_sotnja
+page
+	set url https://politeka.net/news/471362-ekspert-rasskazal-kak-ukraintsy-mogut-obstavit-evropejtsev
+	set tags ukraina,nacia,mentalitet
+page
+	set url http://restorer.kiev.ua/?p=6783
+	set tags kartina,ukraina,maidan2,bachu_spravy_tvoi
+page
+	set url https://umoloda.kyiv.ua/number/3579/164/144528/
+	set tags melnyk_oleksandr,bachu_spravy_tvoi,ukraina,maidan2
+page
+	set url https://www.bbc.com/ukrainian/features-47304875
+	set tags maidan2,ukraina,foto
+page
+	set url https://news.obozrevatel.com/society/sadok-vishnevij-z-avtomatom.htm
+	set tags arestovich,ukraina,nacia,mentalitet
+page
+	set url https://news.obozrevatel.com/society/kak-na-samom-dele-vyiglyadela-moskva-pri-staline.htm
+	set tags moskva,istoria,sssr
+page
+	set url https://news.obozrevatel.com/society/nevyidumannaya-istoriya-vtoroj-mirovoj-o-chem-vrala-lubochnaya-propaganda-sssr.htm
+	set tags mirvojna2,sssr,istoria
+page
+	set url https://www.pravda.com.ua/news/2021/02/15/7283438/
+	set tags mir,mars,kosmos,foto,arab,oae
+	set redo 1
+page
+	set url https://strana.ua/news/317098-sretenie-hospodne-2021-chto-za-prazdnik-narodnye-primety-kartinki-i-otkrytki-.html
+	set tags vera,sretenie
+page
+	set url https://strana.ua/news/315885-prichina-smertelnoho-pozhara-v-infektsionnoj-bolnitse-zaporozhja.html
+	set tags pozhar,zaporozhie,ukraina,stepanov_maksim
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-donski-kozaky-bayda-vyshnevetsky/31102663.html
+	set tags kozaky,istoria,ukraina
+page
+	set url https://www.radiosvoboda.org/a/30451463.html
+	set tags debalcevo,vojna,donbass,ukraina
+page
+	set url https://www.radiosvoboda.org/a/30311598.html
+	set tags ukraina,vsu,vojna,bitva
+page
+	set url https://www.radiosvoboda.org/a/news-rosiyska-vaktsyna-doslidzhennia/31082563.html
+	set tags lancet,sputnik_v,rossia,vaccine,covid
+page
+	set url https://www.vesti.ru/article/2523887
+	set tags rossia,istoria,vaccine,medicina,covid
+page
+	set url https://lenta.ru/articles/2021/02/03/thelady/
+	set tags mjanma,mir,perevorot,politika
+page
+	set url https://lenta.ru/news/2021/02/15/spchrus/
+	set tags navalny,rossia,protest
+page
+	set url https://strana.ua/news/317702-clubhouse-eto-sotsset-v-kotoroj-sidit-ilon-mask-i-mozhet-pojavitsja-putin-chto-o-nej-izvestno.html
+	set tags ilon_mask,ukraina,clubhouse,putin_vladimir,socset
+page
+	set url https://strana.ua/news/224867-zhurnalisty-babchenko-i-muzhdabaev-mnoho-raz-hlumilis-nad-smenrtjami-hrazhdan-rossii.html
+	set tags babchenko_arkadii,rossia,smert,glumlenie
+page
+	set url https://strana.ua/news/224796-ajder-muzhdabaev-prizval-ne-skorbet-po-smerti-rezhissera-marka-zakharova.html
+	set tags zaharov_mark,glumlenie,muzhdabaev_aider
+page
+	set url https://strana.ua/news/224860-mark-zakharov-umer-ukrainskie-zhurnalisty-pohlumilis-nad-eho-smertju.html
+	set tags zaharov_mark,smert,glumlenie
+page
+	set url https://strana.ua/news/224810-ljubimye-tsitaty-iz-filmov-umersheho-zakharova-stavshie-krylatymi.html
+	set tags zaharov_mark,filmy,pamjat
+page
+	set url https://strana.ua/news/217879-mark-zakharov-umer-biohrafija-semja-foto-filmy.html
+	set tags zaharov_mark,smert
+page
+	set url https://strana.ua/news/317759-vaktsinatsija-ot-koronavirusa-v-ukraine-kto-obeshchal-start-15-fevralja.html
+	set tags vaccination,ukraina,vaccine,covid
+page
+	set url https://strana.ua/news/317537-astrazeneca-budet-protestirovana-na-detjakh-vpervye.html
+	set tags astrazeneka,ukraina,covid,vaccine,deti
+page
+	set url https://strana.ua/news/316513-obshchestvennykh-avtoritetov-v-ukraine-mohut-vaktsinirovat-ot-koronavirusa-bez-ocheredi.html
+	set tags ukraina,covid,vaccine,stepanov_maksim
+page
+	set url https://strana.ua/news/316463-v-posolstve-ssha-zajavili-chto-nedoverie-k-vaktsinatsii-vozniklo-iz-za-dezinformatsii.html
+	set tags usa,vaccine,covid,ukraina
+page
+	set url https://strana.ua/news/316436-zelenskij-predlozhil-privitsja-vsem-rossijanam-vaktsinoj-sputnik-v.html
+	set tags ukraina,vaccine,covid,sputnik_v,rossia
+page
+	set url https://from-ua.com/news/587460-teper-mi-zhivem-v-epohu-pobedivshego-sorosizma.html
+	set tags ukraina,mir,soros_georgii,politika
+page
+	set url https://from-ua.com/news/587461-tkachenko-rossiya-finansirovala-pokupku-kanalov-kozaka.html
+	set tags tkachenko_aleksandr,rossia,ukraina,kozak_taras,zapret,telekanaly
+page
+	set url https://www.radiosvoboda.org/a/news-microsoft/31103411.html
+	set tags rossia,kiberataka,usa,razvedka
+page
+	set url https://www.radiosvoboda.org/a/news-khakery-microsoft/31029402.html
+	set tags microsoft,hakery,kiberataka,usa
+page
+	set url https://zaxid.net/lyudina_yaka_sluhaye_baha_chi_motsarta_ne_pide_vbivati_n1514444
+	set tags bach,mozart,ukraina,muzyka
+page
+	set url https://lvoropaeva.livejournal.com/49813.html
+	set tags mozart,hitler
+page
+	set url https://lvoropaeva.livejournal.com/11726447.html?thread=55834479#t55834479
+	set tags vera,mysli
+page
+	set url https://lvoropaeva.livejournal.com/11726715.html?thread=55834235#t55834235
+	set tags 2020
+page
+	set url https://lvoropaeva.livejournal.com/11728116.html
+	set tags love,pesnja
+page
+	set url https://gazeta.ua/blog/54614/rosiya-rozrivaye-stosunki-z-civilizovanim-svitom
+	set tags rossia,politika,mir,ukraina
+page
+	set url https://gazeta.ua/articles/celebrities/_ukrayinskij-vikonavec-vipustiv-pisnyu-dlya-odinokih-serdec/1014860
+	set tags pesnja,ukraina
+page
+	set url https://112ua.tv/obshchestvo/v-chernigovskoy-obl-muzhchina-pozvonil-v-policiyu-i-zayavil-ob-ubiystve-chtoby-emu-prochistili-dorogu-567902.html
+	set tags ukraina,policia
+page
+	set url https://112ua.tv/kiev/probki-v-kieve-na-dorogah-stolicy-obrazovalsya-transportnyy-kollaps-karta-567327.html
+	set tags kiev,pogoda,sneg,zima
+page
+	set url https://112ua.tv/mir/evrosoyuz-napomnil-zelenskomu-chto-nezavisimost-i-svoboda-smi-dolzhny-byt-v-prioritete-u-prezidenta--euronews-567899.html
+	set tags ukraina,zapret,telekanaly,evropa
+page
+	set url https://112ua.tv/kultura/gruppa-bumboks-vypustila-klip-na-novuyu-pesnyu-zhal-567874.html
+	set tags ukraina,bumboks,muzyka,pesnja
+page
+	set url http://lug-info.com/news/one/uchastnik-shturma-debaltsevo-viktor-kabanyuk-vot-takie-u-menya-dve-voiny-za-plechami-64673
+	set tags lnr,afganistan,vojna,pamjat
+page
+	set url http://lug-info.com/news/one/gruppa-alpinistov-lnr-pribyla-na-kavkaz-i-gotovitsya-pokorit-piki-massiva-erydag-foto-64679
+	set tags alpinizm,lnr,rossia,kavkaz
+page
+	set url http://lug-info.com/news/one/miting-po-sluchayu-32-i-godovschiny-vyvoda-sovetskikh-voisk-iz-afganistana-sostoyalsya-v-luganske-foto-64680
+	set tags afganistan,lnr,miting,pamjat,vojna
+page
+	set url https://lenta.ru/news/2021/02/15/ges_georgia/
+	set tags gruzia,protest,ges
+page
+	set url https://lenta.ru/news/2021/02/15/caranomob/
+	set tags cenzura,usa
+page
+	set url https://lenta.ru/articles/2021/02/01/serfebr/
+	set tags film,kultura
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/politychnyy-rozvorot
+	set tags ukraina,mnenie,cenzura
+page
+	set url https://sharij.net/v-policzii-los-andzhelesa-razgorelsya-skandal-iz-za-valentinok-s-dzhordzhem-flojdom
+	set tags floyd_george,usa,valentinka
+page
+	set url https://sharij.net/pfizer-moderna-astrazeneca-sputnik-v-kakoj-vakczine-doveryayut-bogatye-i-znamenitye
+	set tags covid,vaccine,mir
+page
+	set url https://sharij.net/kusturicza-privilsya-vakczinoj-sputnik-v
+	set tags kusturica_emir,serbia,sputnik_v,rossia,covid,vaccine
+page
+	set url https://sharij.net/zeit-pochemu-v-germanii-opasayutsya-bojczov-azova
+	set tags germania,nazis,azov_polk,ukraina
+page
+	set url https://www.obozrevatel.com/travel/news/na-zanzibare-zastryali-180-ukraintsev-nochuyut-na-ulitse-i-v-antisanitarii-foto-i-video.htm
+	set tags zanzibar,afrika,ukraina,turizm,incident
+page
+	set url https://www.obozrevatel.com/lady/holidays/kogda-sretenie-gospodne-2021-data-traditsii-i-zapretyi-prazdnika.htm
+	set tags sretenie,vera,ukraina,rusmir
+page
+	set url https://www.pravda.com.ua/news/2021/02/15/7283463/
+	set tags gorlovka,donbass,kriminal,bezler
+page
+	set url https://strana.ua/news/317804-pod-dneprom-voennosluzhashchij-25-j-opdbr-zadushil-kollehu.html
+	set tags ukraina,kriminal,vsu
+page
+	set url https://strana.ua/news/292927-na-khersonshchine-byl-ubit-voennosluzhashchij.html
+	set tags ukraina,vsu,kriminal
+page
+	set url https://www.radiosvoboda.org/a/news-vakcyna-vid-covid-19/31103706.html
+	set tags ukraina,vaccination,vaccine,covid
+page
+	set url http://lug-info.com/news/one/kievskie-siloviki-dva-raza-za-sutki-narushili-rezhim-tishiny-64670
+	set tags lnr,kiev,vsu,nm_lnr,vojna,donbass
+page
+	set url http://lug-info.com/news/one/luganskaya-afisha-64626
+	set tags lnr,afisha,lugansk
+page
+	set url https://strana.ua/news/317829-poroshenko-potreboval-vernut-vsu-na-donbasse-na-prezhnie-pozitsii.html
+	set tags poroshenko_petr,ukraina,vojna,vsu,donbass
+page
+	set url https://strana.ua/news/317818-lavrov-rasskazal-ob-unizhenii-evrosojuza-vo-vremja-majdana.html
+	set tags lavrov,2014,ukraina,rossia,maidan2,es
+page
+	set url https://strana.ua/articles/interview/317806-pochemu-zhenja-dudnik-uvolilsja-s-telekanala-nash-v-den-blokirovki-kanalov-konkurentov.html
+	set tags ukraina,telekanaly,zapret
+page
+	set url https://strana.ua/articles/private-life/317799-hlava-hosmihratsionnoj-sluzhby-i-ukrainka-sobachkoj-iz-ukhanja-v-den-vljublennykh-zastrjali-na-zanzibare.html
+	set tags ukraina,life,ludi,zanzibar,afrika
+page
+	set url https://strana.ua/news/317817-v-polshe-proizoshla-draka-mezhdu-hruzinami-i-ukraintsami.html
+	set tags poland,kriminal,gruzia,ukraina
+page
+	set url https://strana.ua/news/317073-v-polshu-pytalis-popast-bolshe-100-ukraintsev-i-moldovan-s-falshivymi-dokumentami.html
+	set tags polsha,ukraina,dokumenty,kriminal
+page
+	set url https://www.pravda.com.ua/news/2021/02/15/7283501/
+	set tags mask_ilon,putin_vladimir,clubhouse,socset
+page
+	set url https://strana.ua/news/317826-prohnoz-pohody-v-ukraine-na-15-fevralja-ot-natali-didenko.html
+	set tags kiev,ukraina,pogoda,zima,moroz
+page
+	set url https://lvov.strana.ua/317738-vo-lvove-zarabotal-biznes-po-otkapyvaniju-mashin-iz-sneha.html
+	set tags ukraina,lvov,sneg,uslugi,dengi,pogoda
+page
+	set url https://strana.ua/news/317730-zhitel-chernihovskoj-oblasti-sovral-politsejskim-ob-ubijstve-chtoby-u-doma-pochistili-sneh.html
+	set tags ukraina,policia,sneg,pogoda,chernovcy
+page
+	set url https://strana.ua/news/317613-prohnoz-pohody-v-ukraine-na-voskresene-14-fevralja.html
+	set tags ukraina,pogoda,zima
+page
+	set url https://strana.ua/news/317788-v-evrosojuze-planirujut-privit-vsekh-zhelajushchikh-ot-koronavirusa-do-kontsa-leta.html
+	set tags es,vaccination,vaccine,covid
+page
+	set url https://news.obozrevatel.com/politics/sosnu-v-podarok-i-so-mnoj-tverdeet-v-vr-snova-reshili-borotsya-s-seksistskoj-reklamoj.htm
+	set tags reklama,seks,ukraina
+page
+	set url https://www.obozrevatel.com/russia/peskov-obyasnil-slova-putina-o-tom-chto-rossiya-ne-brosit-donbass.htm
+	set tags peskov_dmitrii,rossia,donbass,putin_vladimir
+page
+	set url http://lug-info.com/news/one/vlasti-i-obschestvenniki-luganska-pozdravili-s-95-letiem-veterana-mikhaila-guzenko-foto-64698
+	set tags lnr,veteran,vov,pamjat,guzenko_mihail
+page
+	set url https://www.eurointegration.com.ua/articles/2021/01/11/7118368/
+	set tags rossia,usa,svoboda_slova,trump_donald,twitter
+page
+	set url https://strana.ua/news/317871-ddos-ataka-na-stranu-16-fevralja-2021-hoda-podrobnosti-i-prichiny.html
+	set tags ddos,kiberataka,stranaua
+page
+	set url https://strana.ua/news/317830-v-stolichnom-kafe-eks-nardep-ot-svobody-ustroil-ponozhovshchinu-iz-za-russkoho-jazyka.html
+	set tags kiev,kriminal,partia_svoboda,ukraina,mova
+page
+	set url https://strana.ua/news/316503-v-horsovete-nikolaeva-proizoshel-ocherednoj-jazykovoj-skandal-8-fevralja.html
+	set tags nikolaev,ukraina,mova,skandal
+page
+	set url https://strana.ua/news/83161-izvestnogo-zhurnalista-prognali-s-efira-za-otkaz-govorit-na-ukrainskom-yazyke.html
+	set tags ukraina,mova,skandal,romanenko_jurij
+page
+	set url https://strana.ua/articles/rassledovania/60766-million-ukraincev-v-polshe-zarobitchan-stali-chashe-kidat-a-poroj-i-byut-za-movu.html
+	set tags polsha,mova,kriminal,ukraina
+page
+	set url https://strana.ua/news/76134-policiya-zavershila-proverku-v-otnoshenii-olega-skripki-za-ego-slova-o-yazykovom-getto.html
+	set tags skripka_oleg,mova
+page
+	set url https://strana.ua/news/66921-opublikovana-audiozapis-podtverzhdayushaya-slova-skripki-pro-getto.html
+	set tags ukraina,skripka_oleg,mova
+page
+	set url https://strana.ua/news/66760--byl-skripka-i-vyshel-ves-kak-otreagirovali-socseti-na-skandalnoe-zayavlenie-muzykanta.html
+	set tags skripka_oleg,ukraina,mova,jazyk
+page
+	set url https://strana.ua/articles/private-life/65387-ne-nado-stesnyatsya-vse-chto-govoril-pevec-ivan-dorn-o-rossii-ukraine-patriotizme-i-pomoshi-ato.html
+	set tags ukraina,dorn_ivan,patriotizm
+page
+	set url https://strana.ua/news/317879-v-hretsii-srazu-posle-privivki-ot-koronavirusa-umer-85-letnij-starik.html
+	set tags covid,vaccine,smert,grecia
+page
+	set url https://strana.ua/news/313656-v-kalifornii-muzhchina-umer-posle-vaktsinatsii-ot-koronavirusa.html
+	set tags vaccine,covid,pfizer,usa,smert
+page
+	set url https://strana.ua/news/313561-v-turtsii-naladjat-proizvodstvo-rossijskoj-vaktsiny.html
+	set tags sputnik_v,rossia,turcia,vaccine,covid
+page
+	set url https://strana.ua/news/317757-v-horlovke-15-fevralja-vzorvalsja-avtomobil-kombata-narodnoj-militsii-dnr.html
+	set tags dnr,horlovka,terakt,nm_dnr
+page
+	set url https://strana.ua/news/315205-v-kontse-janvarja-na-donbasse-bez-oruzhija-ischez-ukrainskij-voennyj.html
+	set tags vsu,donbass,vojna,ukraina,dezertir
+page
+	set url https://strana.ua/news/295673-politsija-na-bukovine-razyskivaet-nastojatelja-monastyrja-on-propal-bez-vesti.html
+	set tags ukraina,vera,cerkov,chelovek_propal
+page
+	set url https://strana.ua/news/317890-obostrenie-na-donbasse-pochemu-arestovich-hovorit-o-vojne-vesnoj-letom.html
+	set tags donbass,ukraina,zapad,vojna,zelenskii_vladimir
+page
+	set url https://strana.ua/news/317905-prizrachnaja-vaktsinatsija-obkakavshijsja-mvf-poroshenko-khochet-boev-na-donbasse.html
+	set tags ukraina,vaccinacia,vaccine,covid
+page
+	set url https://www.pravda.com.ua/articles/2021/02/16/7283550/
+	set tags vaccine,covid,ukraina,vaccinacia
+page
+	set url https://zaxid.net/sovki_i_fashisti_n1514454
+	set tags sssr,istoria,mentalitet,mysli
+page
+	set url https://gazeta.ua/articles/donbas/_pislya-vijni-pereselenci-ne-povernutsya-dodomu/1014981
+	set tags donbass,ukraina,life
+page
+	set url https://gazeta.ua/articles/history/_rozkrili-vhid-do-grobnici/1014863
+	set tags tutanhamon,egipt,istoria
+page
+	set url https://gazeta.ua/articles/world-life/_svitu-zagrozhuye-nova-yaderna-zbroya-yaku-stvorila-rosiya-rozvidka-norvegiyi/1015143
+	set tags rossia,nuclear_weapon,razvedka,norvegia
+page
+	set url https://news.obozrevatel.com/society/obschestvennyie-organizatsii-i-podruga-advokata-kto-stoit-za-otmenoj-pereimenovanij-ulits-i-ukrainskogo-pravopisaniya.htm
+	set tags society,ukraina,bandera_stepan,mova
+page
+	set url https://plus.obozrevatel.com/crime/sbu-obyavila-shariyu-podozrenie-v-gosizmene.htm
+	set tags sharij_anatolij,sbu,ukraina
+page
+	set url https://strana.ua/news/317980-vsu-o-sryve-peremirija-na-donbasse-mnenija-voennykh.html
+	set tags vsu,donbass,vojna
+page
+	set url https://strana.ua/news/317997-kitajskaja-vaktsina-coronavac-pochemu-ona-ne-doekhala-do-ukrainy.html
+	set tags vaccine,ukraina,covid,kitaj,vaccinacia
+page
+	set url https://strana.ua/news/317876-svobodovets-oleh-helevej-v-kafe-alfredo-podrobnosti-draki-s-ponozhovshchinoj-iz-za-russkoho-jazyka.html
+	set tags mova,ukraina,skandal
+page
+	set url https://strana.ua/news/318046-shufrich-sobiraetsja-v-venhriju-chtoby-privitsja-ot-covid-19-rossijskoj-vaktsinoj.html
+	set tags shuvrich_nestor,ukraina,vengria,covid,vaccine,sputnik_v
+page
+	set url https://strana.ua/news/318091-pod-zhitomirom-poezd-otrezal-zhenshchine-nohu-na-hlazakh-u-syna.html
+	set tags incident,ukraina,poezd
+page
+	set url https://strana.ua/news/315184-vo-frantsii-muzhchina-obezhlavil-cheloveka-i-vybrosil-eho-holovu-iz-okna.html
+	set tags francia,kriminal
+page
+	set url https://strana.ua/news/318036-shariju-soobshchili-o-podozrenii-v-hosudarstvennoj-izmene.html
+	set tags sharij_anatolij,ukraina,sbu
+page
+	set url https://strana.ua/news/278249-v-kharkove-proizoshli-stolknovenija-partii-sharija-i-natskorpusa.html
+	set tags sharij_anatolij,ukraina,partija_sharija
+page
+	set url https://www.bbc.com/ukrainian/features-56074896
+	set tags tkachenko_aleksandr,ukraina
+page
+	set url https://www.bbc.com/ukrainian/features-56023397
+	set tags universe,fizika,time
+page
+	set url https://www.bbc.com/ukrainian/news-55922369
+	set tags ukraina,svoboda_slova,kanaly
+page
+	set url https://www.bbc.com/ukrainian/vert-cap-54839461
+	set tags covid,psihologia,mir
+page
+	set url https://lenta.ru/news/2021/02/16/satellite_five/
+	set tags lavrov_sergei,rossia,druzhba,usa,vaccine,covid
+page
+	set url https://lenta.ru/news/2021/02/16/pfizer_ua/
+	set tags pfizer,ukraina,covid,vaccine
+page
+	set url https://life.pravda.com.ua/society/2021/01/27/243775/
+	set tags life,ukraina,medicina,paramedyk
+page
+	set url https://life.pravda.com.ua/columns/2021/02/15/243909/
+	set tags veterany,ato,vojna,ukraina,psihologia
+page
+	set url https://zaxid.net/informatsiyniy_liknep_n1514514
+	set tags ukraina,rossia,informacia
+page
+	set url https://gazeta.ua/blog/54624/pidozra-sariyu-patriotichna-strategiya-chi-reakciya-zelenskogo-na-padinnya-rejtingu
+	set tags sharij_anatolij,ukraina,sbu
+page
+	set url https://gazeta.ua/blog/54623/ukrayina-ne-znaye-kudi-ruhayetsya-u-kremli-schiro-radiyut
+	set tags ukraina,rossia
+page
+	set url https://gazeta.ua/blog/54616/ak-rozpiznati-okupanta
+	set tags ukraina,mova
+page
+	set url https://gazeta.ua/blog/54536/tridcyat-rokiv-tomu-ukrayini-poschastilo-todi-ne-bulo-andriya-portnova
+	set tags portnov_andrei,ukraina
+page
+	set url https://strana.ua/news/318114-tsena-na-haz-6-99-do-kontsa-hoda-tkachenko-protiv-shtrafov-za-russkij.html
+	set tags ukraina
+page
+	set url https://lenta.ru/photo/2021/02/16/kaska/#9
+	set tags germania,mirvojna2,foto
+page
+	set url https://www.vesti.ru/article/2524980
+	set tags covid,mir
+page
+	set url https://www.vesti.ru/article/2524979
+	set tags sputnik_v,rossia,covid,vaccine
+page
+	set url https://www.vesti.ru/article/2524996
+	set tags zima,texas,usa
+page
+	set url https://www.vesti.ru/article/2525073
+	set tags usa,zima
+page
+	set url https://vz.ru/politics/2021/2/17/1085392.html
+	set tags lubjanka,moskva,rossia
+page
+	set url https://vz.ru/news/2021/2/16/1085368.html
+	set tags izrael,palestina,sputnik_v,rossia,covid,vaccine
+page
+	set url https://riafan.ru/1386098-na-ukraine-razgorelsya-novyi-skandal-iz-za-russkoi-odessy-i-dnepropetrovska
+	set tags odessa,ukraina,istoria,skandal
+page
+	set url https://www.radiosvoboda.org/a/tiktok-i-populiaryzacija-ukrajinskoji-movy/31091727.html
+	set tags mova,shimanovskii_andrii,ukraina,tiktok
+page
+	set url https://www.radiosvoboda.org/a/viyna-ukrayini-ta-rosii-u-wikipedii-chto-za-tsym-stoyit/31045993.html
+	set tags wikipedia,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/mykola-kostomarov-skhidna-slobozhanshchyna-ukrayina/31044136.html
+	set tags kostomarov_mykola,ukraina,istoria
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/krovna-poruka
+	set tags policia,rossia,navalny,ukraina
+page
+	set url https://news.obozrevatel.com/society/ushli-na-front-potomu-chto-kto-to-dolzhen-zaschischat-rodnyie-rasskazali-podrobnosti-o-zhizni-pogibshih-voennyih-na-donbasse.htm
+	set tags ukraina,vsu,smert,den_valentina,vojna,donbass
+page
+	set url https://from-ua.com/articles/587735-a-teper-sharii-populyarnogo-blogera-obyavili-izmennikom-rodini.html
+	set tags sharij_anatolii,ukraina,sbu
+page
+	set url https://blogs.pravda.com.ua/authors/sobolev/602c17646dfe4/
+	set tags rossia,ukraina,zelenskii_vladimir,infvojna
 eof
 off
 page

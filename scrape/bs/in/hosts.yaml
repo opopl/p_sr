@@ -17,6 +17,9 @@
 'apostrophe.ua' : { 'site' : 'news.ua.apostrof' }
 'buzina.org' : { 'site' : 'ludi.ua.buzina' }
 
+###anglia
+'bbc.com' : { 'site' : 'news.anglia.bbc' }
+
 ###vera
 'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }
 

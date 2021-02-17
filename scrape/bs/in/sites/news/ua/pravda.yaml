@@ -17,13 +17,11 @@ sel:
     - .topmenu
     - .topmenubg
     - .top-left
-  author: 
-    { 
-      'url' : {
-          'css' : '.b-topic__content__author a', 
-          'attr' : 'href' 
-      },
-      'name' : {
-          'css' : '.b-topic__content__author .name'
-      }
-    }
+
+PageParser:
+  get_date_html:
+    sels:
+      - { 
+          'find' : '.article_date',
+          'get' : 'text',
+        }

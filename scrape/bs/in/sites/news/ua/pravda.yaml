@@ -22,6 +22,12 @@ PageParser:
   get_date_html:
     sels:
       - { 
-          'find' : '.article_date',
-          'get' : 'text',
+          'find'  : '.article_date',
+          'get'   : 'text',
+          'split' : ',',
+        }
+      - { 
+          'find'  : '.bdata',
+          'get'   : 'text',
+          'split' : ',',
         }

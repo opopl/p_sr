@@ -2,6 +2,8 @@
 sel:
   clean: 
     - header.personTags
+    - .headerSticky
+    - .author_imgWrap
   #keep: []
   keep: 
     - header

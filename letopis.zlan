@@ -3523,6 +3523,54 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/sobolev/602c17646dfe4/
 	set tags rossia,ukraina,zelenskii_vladimir,infvojna
+page
+	set url https://blogs.pravda.com.ua/authors/sobolev/60256559cd539/
+	set tags opzzh,ukraina,telekanaly,rossia,rusmir
+page
+	set url https://strana.ua/news/318218-kitajskoj-vaktsine-doverjaet-vseho-1-ukraintsev.html
+	set tags vaccine,covid,ukraina
+page
+	set url https://strana.ua/articles/private-life/317813-snezhnye-zabavy-klichko-mladsheho-zimnjaja-rybalka-pokatushki-po-zamerzshemu-kievskomu-morju-i-khokkej-na-svezhem-vozdukhe.html
+	set tags klichko_vladimir,zima,ukraina
+page
+	set url https://strana.ua/news/318188-sluhi-naroda-hrozjat-otstavkoj-hlave-minzdrava-stepanovu-za-sryv-vaktsinatsii.html
+	set tags vaccinacia,ukraina,stepanov_maksim
+page
+	set url https://strana.ua/news/318219-v-ldnr-objavili-o-pomoshchi-russkojazychnym-ukraintsam.html
+	set tags ukraina,dnr,jazyk
+page
+	set url https://www.radiosvoboda.org/a/news-verhovna-rada-zayava-pro-evromaidan/31107334.html
+	set tags ukraina,evromaidan,revgidnosti
+page
+	set url https://lenta.ru/news/2021/02/17/dnepr/
+	set tags dnepropetrovsk,jazyk,mova,skandal,ukraina
+page
+	set url https://lenta.ru/articles/2021/02/17/who_interview/
+	set tags voz,rossia,vaccine,covid
+page
+	set url https://zaxid.net/rada_viznala_revolyutsiyu_gidnosti_odnim_iz_klyuchovih_momentiv_derzhavotvorennya_n1514563
+	set tags revgidnosti,ukraina,verhovna_rada
+page
+	set url https://zaxid.net/sud_zobovyazav_minosviti_pereglyanuti_pidruchniki_z_istoriyi_shhodo_podiy_revolyutsiyi_gidnosti_n1513505
+	set tags portnov_andrei,ukraina,revgidnosti
+page
+	set url https://news.obozrevatel.com/society/russkij-mir-vo-vsej-krase-mozhet-stoit-pokazat-pravdu.htm
+	set tags rusmir
+page
+	set url https://www.obozrevatel.com/person/olena-stepova.htm
+	set tags stepova_olena,ukraina,avtor
+	setlist opts
+		no_date
+page
+	set url https://news.obozrevatel.com/society/velichajshaya-tajna-stalina.htm
+	set tags stalin_iosif,terror1937,sssr,istoria
+page
+	set url https://news.obozrevatel.com/abroad/v-kremle-gotovyatsya-k-vojne-s-narodom-rossii.htm
+	set tags lavrov_sergei,rossia,ukraina
+page
+	set url https://docs.python.org/3/library/datetime.html#examples-of-usage-date
+	set tags datetime,pc,python3,docs
+	set redo 1
 eof
 off
 page

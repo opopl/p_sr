@@ -47,8 +47,8 @@ class PageParser(RootPageParser):
 
     return self
 
-  def get_date(self,ref={}):
-    super().get_date(ref)
+  def get_date_html(self,ref={}):
+    super().get_date_html(ref)
 
     app = self.app
 
@@ -58,21 +58,48 @@ class PageParser(RootPageParser):
     host = app.page.get('host','')
     m = re.match(r'^blogs\.',host)
     if m:
-      el = app.soup.select_one('.bdate')
-      if el:
-        date_s = el.string.strip().split(',')[0]
-        m = re.match(r'^(\d+)\s+(\w+)\s+(\d+)',date_s)
-        if m:
-          day       = m.group(1)
-          month_gen = m.group(2)
-          year      = m.group(3)
-  
-          month = self.month_map_genitive['ukr'].get(month_gen,'')
-  
-          if month:
-            date = '_'.join([day,month,year])
-            app.page.set({ 'date' :  date })
-            return self
+      sels = self._sels('get_date_html')
+      for sel in sels:
+        find = sel.get('find')
+        sep  = sel.get('split',const.comma)
+
+        if not find:
+         continue
+
+        el = app.soup.select_one(find)
+        if el:
+          date_s = el.string.strip().split(sep)[0]
+          m = re.match(r'^(\d+)\s+(\w+)\s+(\d+)',date_s)
+          if m:
+            day       = m.group(1)
+            month_gen = m.group(2)
+            year      = m.group(3)
+    
+            for lang in self.langs:
+              month = self.month_map_genitive.get(lang,{}).get(month_gen,'')
+      
+              if month:
+                date = '_'.join([day,month,year])
+                app.page.set({ 'date' :  date })
+                return self
+
+    return self
+
+  def get_date(self,ref={}):
+    super().get_date(ref)
+
+    app = self.app
+    if util.get(app.page,'date'):
+      return self
+
+    return self
+
+  def get_date_url(self,ref={}):
+    super().get_date_url(ref)
+
+    app = self.app
+    if util.get(app.page,'date'):
+      return self
 
     m = re.match(r'^[/]*(\w+)/(\d{4})/(\d{2})/(\d{2})/',self.url_path)
     if m:
@@ -83,6 +110,7 @@ class PageParser(RootPageParser):
 
       date = '_'.join([day,month,year])
       app.page.set({ 'date' :  date })
+      return self
 
 #    if len(self.url_parts) > 3:
       #if parts[0] in util.qw('news travel culture society'):

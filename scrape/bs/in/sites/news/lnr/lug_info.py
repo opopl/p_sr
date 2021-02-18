@@ -35,56 +35,61 @@ class PageParser(RootPageParser):
     app = self.app
     soup = app.soup
 
+    app = self.app
+    if app.page.get('date'):
+      return self
+
+  def get_date_html(self,ref={}):
+    super().get_date_html(ref)
+
+    app = self.app
+    if app.page.get('date'):
+      return self
+
+    self.get_date_html_front(ref)
+
+    return self
+
+  def _date_from_bare(self,sel):
+
+    app = self.app
     date = None
 
-    dt_now = datetime.datetime.now()
+    dt_now = datetime.datetime.today()
     d = {
       'year' : str(dt_now.year)
     }
 
-    # --------------------------------------------------
-    el = soup.select_one('.data_news_center p')
-    if el:
-      txt = re.sub(r'[\s\n]', '', el.text).strip()
-      sa = txt.split(',')
-      while len(sa):
-        s = sa.pop(0)
-        m = re.match('вчера',s)
-        #if m:
-          #day = dt_now.day - 1
+    s = self.date_bare
 
-    # --------------------------------------------------
-    tries = '''
-    .middle_news_date p
-    .another-date p
-    '''.split('\n')
+    m = re.match(r'^(\w+)$',s)
+    if m:
+      ds      = m.group(1)
+      if ds == 'сегодня':
+        date = dt_now.strftime(self.date_fmt)
+        return date
 
-    tries = list(map(lambda x: x.strip(),tries))
-    tries = list(filter(lambda x: len(x) > 0,tries))
+      if ds == 'вчера':
+        dt = dt_now - datetime.timedelta(days=1)
+        date = dt.strftime(self.date_fmt)
+        return date
 
-    for selector in tries:
-      el = soup.select_one(selector)
-      if el:
-        sa = self._el_date_parts(el)
-    
-        while len(sa):
-          s = sa.pop(0)
-    
-          m = re.match(r'(\d{2})',s)
-          if m:
-            d['day'] = m.group(1)
-    
-          m = re.match(r'(\w+)',s)
-          if m:
-            word = m.group(1)
-            if word in self.month_list_genitive:
-              d['month'] = self.month_map_genitive['rus'].get(word)
-    
-        if d['day'] and d['month'] and d['year']:
-          kk = util.qw('day month year')
-          date = '_'.join( list(map(lambda x: d[x], kk )) )
-    
-        if date:
-          app.page.set({ 'date' : date })
+    m = re.match(r'^(\d+)\s+(\w+)\s+(\d+)$',s)
+    if m:
+      day       = int(m.group(1))
+      year      = int(m.group(3))
 
-    return self
+      month_gen = m.group(2)
+
+      month = None
+      for lang in self.langs:
+        month = self.month_map_genitive.get(lang,{}).get(month_gen,'')
+        if month:
+          break
+
+      if month:
+        month = int(month)
+        dt = datetime.datetime(year,month,day)
+        date = dt.strftime(self.date_fmt)
+
+    return date

@@ -15,7 +15,7 @@ include:
     - news.ru.lenta
     - news.ru.inosmi
     - news.ru.vzgljad
-    - news.ru.newsfron
+    - news.ru.newsfront
     - news.ru.yandex.zen
     #- news.ru.life - DATE
     - news.ua.oboz
@@ -31,6 +31,7 @@ include:
     #- news.anglia.bbc
     #- news.ua.radiosvoboda
     - pc.articles.sitepoint
+    - pc.articles.pavlutin
     #- pc.cairographics 
     #- pc.cairosvg
     - vera.ru.pravoslavie

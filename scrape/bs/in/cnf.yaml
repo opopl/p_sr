@@ -7,6 +7,16 @@ url: {}
 log:
   reset
 
+BS:
+  ii_insert_js_css:
+    tipes:
+      - clean
+      - core
+      - dbrid
+      - img
+      - img_clean
+      - log
+
 PageParser:
   get_date:
   get_date_html:

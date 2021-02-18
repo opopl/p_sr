@@ -15,6 +15,9 @@
 'newsoneua.tv' : { 'site' : 'news.ua.newsone' }
 'zikua.tv' : { 'site' : 'news.ua.zik' }
 'apostrophe.ua' : { 'site' : 'news.ua.apostrof' }
+
+
+###ludi
 'buzina.org' : { 'site' : 'ludi.ua.buzina' }
 
 ###anglia
@@ -43,8 +46,9 @@
 'sitepoint.com' : { 'site' : 'pc.articles.sitepoint' }
 'developer.mozilla.org' : { 'site' : 'pc.docs.mozilla' }
 
+'dmitripavlutin.com' : { 'site' : 'pc.articles.pavlutin' }
+
 ###com
 #
 'apple.com' : { 'site' : 'com.us.apple' }
-
 

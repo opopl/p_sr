@@ -18,13 +18,11 @@ sel:
     - .right
     - .search
     - .slider-nav
-  author: 
-    { 
-      'url' : {
-          'css' : '.b-topic__content__author a', 
-          'attr' : 'href' 
-      },
-      'name' : {
-          'css' : '.b-topic__content__author .name'
-      }
-    }
+PageParser:
+  get_date_html:
+    sels:
+      - {
+          'find'  : '.data_news_center p',
+          'get'   : 'text',
+          'split' : ',',
+        }

@@ -20,11 +20,11 @@ sel:
   author: 
     { 
       'url' : {
-          'css' : 'span.author-article a', 
+          'find' : 'span.author-article a', 
           'attr' : 'href' 
       },
       'name' : {
-          'css' : 'span.author-article a'
+          'find' : 'span.author-article a'
       }
     }
 

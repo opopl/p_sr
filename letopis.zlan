@@ -3129,7 +3129,6 @@ page
 page
 	set url https://www.pravda.com.ua/news/2021/02/15/7283438/
 	set tags mir,mars,kosmos,foto,arab,oae
-	set redo 1
 page
 	set url https://strana.ua/news/317098-sretenie-hospodne-2021-chto-za-prazdnik-narodnye-primety-kartinki-i-otkrytki-.html
 	set tags vera,sretenie
@@ -3570,7 +3569,449 @@ page
 page
 	set url https://docs.python.org/3/library/datetime.html#examples-of-usage-date
 	set tags datetime,pc,python3,docs
+page
+	set url https://strana.ua/news/318145-clubhouse-v-ukraine-i-rossii-vse-novosti-izvestnye-ljudi.html
+	set tags clubhouse,ukraina,rossia
+page
+	set url https://strana.ua/news/318229-lvovskij-oblsovet-prosit-kabmin-i-radu-o-priznanii-na-hosurovne-bojtsov-halichiny.html
+	set tags ss_galychyna,ukraina,lvov
+page
+	set url https://strana.ua/news/261840-v-lvove-na-hlavpochtamte-ustroili-vystavku-marok-i-otkrytok-ss-halichina-.html
+	set tags ss_galychyna,lvov,pochta
+page
+	set url https://life.pravda.com.ua/society/2021/02/17/243965/
+	set tags dnepropetrovsk,ukraina,mova,skandal,barista
+page
+	set url https://www.pravda.com.ua/news/2021/02/17/7283788/
+	set tags vaccine,covid,sputnik_v,rossia,es
+page
+	set url https://strana.ua/news/318204-v-dnepre-baristu-uvolili-iz-za-russkoho-jazyka-v-skandale-zameshan-pravyj-sektor.html
+	set tags mova,ukraina,dnepropetrovsk,skandal,barista
+#page
+	#set url https://dmitripavlutin.com/parse-url-javascript/
+	#set tags pc,docs,js,url_parsing
+page
+	set url https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+	set tags js,regex,pc,docs
+page
+	set url https://strana.ua/news/318303-hde-shkolnitsy-iz-bojarki-nashli-retsept-samoubijstva-v-seti-tiktok-ofis-henprokurora-.html
+	set tags bojarka,deti,ukraina
+page
+	set url https://kiev.strana.ua/318037-v-bojarke-dve-shkolnitsy-otravilis-neizvestnymi-veshchestvami.html
+	set tags ukraina,bojarka,smert
+page
+	set url https://strana.ua/news/318156-postanovlenie-rady-o-sedmoj-hodovshchine-majdana-analiz-dokumenta.html
+	set tags verhovna_rada,janukovich,parubii,maidan2
+page
+	set url https://zaxid.net/v_umani_dvoye_vosmiklasnits_nakovtalis_pigulok_drotaverinu_i_potrapili_do_likarni_n1514607
+	set tags deti,uman,ukraina,bolnica
+page
+	set url https://www.radiosvoboda.org/a/30706244.html
+	set tags lavra,kiev,ukraina,istoria
+page
+	set url https://www.radiosvoboda.org/a/30462192.html
+	set tags kievrus,istoria,mova,jazyk
+page
+	set url https://www.radiosvoboda.org/a/30241018.html
+	set tags kievrus,istoria,grafiti,sofia_sobor
+page
+	set url https://strana.ua/news/318239-vaktsinatsija-ot-koronavirusa-v-dnr-otzyvy-onlajn-zapis-hde-delajut-privivki-mozhno-li-perebolevshim.html
+	set tags donbass,dnr,sputnik_v,vaccine,covid
+page
+	set url https://www.npmjs.com/package/webpack-jquery-ui
+	set tags npm,docs,js,jquery,jquery_ui
+page
+	set url https://strana.ua/news/318366-v-moskve-umer-andrej-mjahkov-zvezda-ironii-sudby.html
+	set tags mjagkov_andrei,film,sssr,ironija_sudby,smert
+page
+	set url https://strana.ua/news/318425-peskov-posovetoval-ssha-menshe-dumat-o-severnom-potoke-2.html
+	set tags rossia,usa,texas,sevpotok2
+page
+	set url https://www.pravda.com.ua/news/2021/02/18/7283897/
+	set tags rossia,ukraina,peskov_dmitrii
+page
+	set url https://www.pravda.com.ua/news/2021/02/18/7283901/
+	set tags hor_tureckii,rossia,ukraina,muzyka,kultura
+page
+	set url https://lenta.ru/news/2021/02/18/italy/
+	set tags sputnik_v,rossia,italia,covid,vaccine
+page
+	set url https://lenta.ru/articles/2021/02/18/victory_strategy/
+	set tags belarus,protest,tihanovskaja_svetlana,lukashenko_aleksandr
+page
+	set url https://lenta.ru/news/2021/02/18/fis_katusha/
+	set tags katjusha,pesnja,rossia,sport
+page
+	set url https://vz.ru/world/2021/2/18/1085472.html
+	set tags rossia,ukraina,elektrika
+page
+	set url https://news.obozrevatel.com/society/v-kremenchuge-poproschalis-s-pogibshimi-na-donbasse-voinami-foto.htm
+	set tags vojna,vsu,ukraina,donbass,smert
+page
+	set url http://lug-info.com/news/one/uchastnik-debaltsevskoi-operatsii-leonid-volkodav-nas-dobili-by-kazhdogo-po-otdelnosti-64796
+	set tags debalcevo,ukraina,donbass,vojna
+page
+	set url http://lug-info.com/news/one/pyanye-boitsy-vsu-podozhgli-tank-vblizi-zhilykh-domov-v-zone-oos-narodnaya-militsiya-64800
+	set tags lnr,ukraina,vsu,incident,nm_lnr
+page
+	set url http://lug-info.com/news/one/soobschenie-delegatsii-lnr-v-kontaktnoi-gruppe-64795
+	set tags lnr,tkg,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-nebesna-sotnia-geroyi-vshanuvannia/31109077.html
+	set tags kiev,ukraina,nebesna_sotnja,pamjat
+page
+	set url https://ukraina.ru/exclusive/20210218/1030595247.html
+	set tags ukraina,maidan2,rasstrely
+page
+	set url https://ukraina.ru/exclusive/20210218/1030601772.html
+	set tags debalcevo,ukraina,vojna,donbass,rossia
+page
+	set url https://ukraina.ru/exclusive/20210218/1030592143.html
+	set tags ukraina,nebesna_sotnja,maidan2
+page
+	set url https://zen.yandex.ru/media/id/5ac912b51410c3ab8458a321/-proishojdenie-nazvaniia-rus-5ad7a81ad7bf21915ec3a0bf
+	set tags rossia,rusmir,istoria
+page
+	set url https://day.kyiv.ua/uk/article/den-ukrayiny/ne-buvaye-chuzhogo-bolyu
+	set tags mace_james,ukraina,istoria
+page
+	set url https://inosmi.ru/social/20210217/249162795.html
+	set tags sputnik_v,rossia,covid,vaccine,latin_america
+page
+	set url https://www.vesti.ru/television/article/2525718
+	set tags mjagkov_andrei,rossia,smert,pamjat
+page
+	set url https://www.radiosvoboda.org/a/kino-opolchenochka-skandal-russia/31108256.html
+	set tags film,dnr,donbass,opolchency,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/30982198.html
+	set tags rossia,ukraina,donbass,vojna
+page
+	set url https://112ua.tv/obshchestvo/prokuratura-prosit-dlya-sergeya-sternenko-8-let-tyurmy-s-konfiskaciey-imushhestva-568269.html
+	set tags sternenko_sergei,ukraina,sud,prokuratura
+page
+	set url https://112ua.tv/mir/slovakiya-zayavila-o-zhelanii-kupit-rossiyskuyu-vakcinu-cputnik-v-568278.html
+	set tags slovakia,vaccine,covid,rossia,sputnik_v
+page
+	set url https://www.pravda.com.ua/news/2021/02/18/7283905/
+	set tags maidan2,ukraina,nigojan_sergei,smert
+page
+	set url https://blogs.pravda.com.ua/authors/bileckyj/600ac2aeb0817/
+	set tags bileckii_andrei,mova,ukraina
+page
+	set url https://strana.ua/news/318454-rovenskomu-stomatolohu-soobshchili-o-podozrenii-v-izbienii-detej.html
+	set tags rovno,ukraina,kriminal,deti
+page
+	set url https://buzina.org/golos-naroda/3914-miagkov-rip.html
+	set tags mjagkov_andrei,pamjat
+page
+	set url https://buzina.org/golos-naroda/3913-golovachev.html
+	set tags putin_vladimir,ukraina,vojna
+page
+	set url https://buzina.org/golos-naroda/3910-valentinka.html
+	set tags ukraina,mysli,valentinka
+page
+	set url https://www.otkroveniya.eu/poems/15.02.21.html
+	set tags rusmir,poezia
+page
+	set url https://www.radiosvoboda.org/a/news-latvija-rosija-tv-solovyov-zaborona-vjizdu/31109706.html
+	set tags rossia,latvia,nazizm
+page
+	set url https://gazeta.ua/articles/life/_rosiya-shukatime-sariyu-zaminu/1015616
+	set tags rossia,ukraina,sharij_anatolij
+page
+	set url https://day.kyiv.ua/uk/article/podrobyci/ukrayina-i-problema-falshyvoyi-istorychnoyi-pamyati-3
+	set tags istoria,ukraina,pamjat,maidan2
+page
+	set url https://strana.ua/news/318472-sternenko-mohut-dat-8-let-za-pokhishchenie-deputata-fabula-dela.html
+	set tags sternenko_sergei,kriminal,ukraina,sud
+page
+	set url https://strana.ua/articles/analysis/318474-v-ukraine-volna-podrostkovykh-samoubijstv-politsija-podozrevaet-hruppy-smerti-v-sotssetjakh.html
+	set tags ukraina,deti,socset,gruppy_smerti
+page
+	set url https://strana.ua/news/318409-damba-v-krym-kak-u-zelenskoho-khotjat-zakuporit-kanal-iz-dnepra-v-krym.html
+	set tags krym,ukraina,kanal
+page
+	set url https://ukraina.ru/opinion/20210218/1030592345.html
+	set tags ukraina,sharij_anatolij,repressii
+page
+	set url https://ukraina.ru/interview/20210218/1030605483.html
+	set tags bortnik_ruslan,ukraina,donbass,vojna
+page
+	set url https://ukraina.ru/exclusive/20210213/1030493658.html
+	set tags mova,ukraina
+page
+	set url https://ukraina.ru/opinion/20210218/1030602799.html
+	set tags scherbickii_vladimir,ukraina,sssr,istoria
+page
+	set url https://ukraina.ru/interview/20210218/1030604681.html
+	set tags ukraina,politika,maidan2
+page
+	set url https://ukraina.ru/history/20210218/1030595719.html
+	set tags istoria,rosimperia,rasstrel,rossia
+page
+	set url https://ukraina.ru/exclusive/20210218/1030603021.html
+	set tags ukraina,sputnik_v,vaccine,covid,gabon,usa
+page
+	set url https://ukraina.ru/news/20210218/1030603814.html
+	set tags tnmk,interview,ukraina,muzykanty,zelenskii_vladimir
+page
+	set url https://ukraina.ru/news/20210218/1030603309.html
+	set tags jolka,kiev,ukraina,muzykant
+page
+	set url https://ukraina.ru/sn/20210217/1030588986.html
+	set tags sharij_anatolii,ukraina,svoboda_slova
+page
+	set url https://www.pravda.com.ua/news/2021/02/18/7283916/
+	set tags ukraina,marki,ukrposhta,minoborony
+page
+	set url https://life.pravda.com.ua/culture/2021/01/17/243657/
+	set tags chernigov,ukraina,mozaika,monumentalizm
+page
+	set url https://life.pravda.com.ua/culture/2016/04/26/211587/
+	set tags pripjat,ukraina,istoria
+page
+	set url https://news.obozrevatel.com/show/people/umer-legendarnyij-akter-andrej-myagkov.htm
+	set tags mjagkov_andrei,smert,pamjat
+page
+	set url https://news.obozrevatel.com/show/people/umer-andrej-myagkov-kakimi-legendarnyimi-rolyami-zapomnilsya-akter.htm
+	set tags mjagkov_andrei,pamjat,istoria,film,akter
+page
+	set url https://news.obozrevatel.com/show/people/umer-andrej-myagkov-svetlaya-pamyat-akteru.htm
+	set tags mjagkov_andrei,pamjat,smert
+page
+	set url https://culture.fakty.ua/368599-umer-odin-iz-luchshih-basov-ukrainy-solist-odesskoj-opery
+	set tags basov_aleksandr,odessa,ukraina,smert
+page
+	set url https://society.fakty.ua/368750-v-lekciyah-oskandalivshejsya-bilchenko-nashli-narusheniya
+	set tags bilchenko_evgenia,ukraina,mova,skandal
+page
+	set url https://www.radiosvoboda.org/a/photo-nebesna-sotnya-vshanuvannya-kyiv/31109687.html
+	set tags nebesna_sotnja,kiev,ukraina,maidan2,pamjat
+page
+	set url https://www.radiosvoboda.org/a/photo-kyiv-maydan-vshanuvannya-heroyiv-nebesnoyi-sotni/31068495.html
+	set tags maidan2,ukraina,kiev,pamjat,nebesna_sotnja
+page
+	set url https://www.radiosvoboda.org/a/photo-kyiv-rizdvyani-novorichni-lokatsiyi/31025265.html
+	set tags rizdvo,kiev,ukraina,prazdnik
+page
+	set url https://censor.net/ru/blogs/3248685/mayidan_7_rokv_po_tomu
+	set tags maidan2,ukraina
+page
+	set url https://censor.net/ru/blogs/3232439/den_gdnost_ta_svobodi
+	set tags ukraina,den_gidnosti_svobody
+page
+	set url https://censor.net/ru/blogs/3248739/nch_z_18go_na_20e_lyutogo_spogadi
+	set tags maidan2,ukraina
+page
+	set url https://vz.ru/opinions/2021/2/16/1085146.html
+	set tags rossia,mysli,rodina
+page
+	set url https://strana.ua/news/318493-zelenskij-v-horlovke-i-donetske-v-2014-hodu-foto-i-video.html
+	set tags zelenskii_vladimir,bezler_igor,dnr,donbass,koncert,kvartal95
+page
+	set url https://strana.ua/news/318407-15-letnjaja-liza-leonenko-opublikovala-v-tiktok-skandalnoe-video-pro-ukrainskij-jazyk.html
+	set tags kiev,mova,jazyk,tiktok,skandal
+page
+	set url https://strana.ua/news/292319-vo-vremja-zasedanija-komiteta-rady-s-fokinym-voznik-jazykovoj-skandal-s-elenoj-berezhnoj.html
+	set tags fokin,mova,verhovna_rada,ukraina,skandal
+page
+	set url https://strana.ua/articles/analysis/317378-sem-let-ubijstvam-na-majdane-chto-proiskhodit-s-rassledovaniem-prestuplenij-revoljutsii.html
+	set tags maidan2,istoria,ukraina
+page
+	set url https://strana.ua/news/318506-65-ukraintsev-ubezhdeny-chto-ukraina-nakhoditsja-pod-vneshnim-upravleniem-opros.html
+	set tags ukraina,socopros,vneshnee_upravlenie
+page
+	set url https://gazeta.ua/articles/poglyad/_hto-zdijsnyuye-zovnishnye-upravlinnya-ukrayinoyu/1015550
+	set tags rossia,ukraina,vneshnee_upravlenie
+page
+	set url https://gazeta.ua/blog/54639/18-lyutogo-chornij-den-kalendarya-nas-vbivali-rano-chi-pizno-viddamo-borg
+	set tags maidan2,istoria,ukraina
+page
+	set url https://gazeta.ua/blog/54628/zelenskij-absolyutnij-nul-v-usomu-majbutnye-ukrayini-lyakaye
+	set tags ukraina,future,zelenskii_vladimir
+page
+	set url https://gazeta.ua/articles/zhezhera/_ti-hto-spivav/1015377
+	set tags pisni,ukraina,mysli
+page
+	set url https://gazeta.ua/articles/culture/_derzhava-dopomagaye-lyagti-v-trunu-viselyayut-biblioteku-im-evgena-pluzhnika/1015661
+	set tags ukraina,biblioteka,knigi,derzhava
+page
+	set url https://sharij.net/umer-andrej-myagkov-zvezda-ironii-sudby-i-sluzhebnogo-romana
+	set tags mjagkov_andrei,smert,pamjat,akter
+page
+	set url https://sharij.net/tiktok-bloger-zayavila-chto-ee-besit-ukrainskij-yazyk
+	set tags tiktok,mova,skandal,kiev
+page
+	set url https://sharij.net/poterpevshij-na-majdane-daj-bog-chtoby-v-ukrainu-prishla-vojna-video
+	set tags maidan2,ukraina,vojna
+page
+	set url http://lug-info.com/news/one/luganskii-russkii-teatr-pristupil-k-podgotovke-spektaklya-in-i-yan-chernaya-versiya-64821
+	set tags lnr,teatr,akunin_boris
+page
+	set url http://lug-info.com/news/one/luganskii-russkii-dramteatr-predstavil-premeru-po-misticheskoi-pese-akunina-in-i-yan-foto-62524
+	set tags lnr,teatr,akunin_boris
+page
+	set url http://lug-info.com/news/one/luganskaya-filarmoniya-predstavit-tri-kontsertnye-programmy-ko-dnyu-zaschitnika-otechestva-64820
+	set tags lnr,muzyka,filarmonia,prazdnik
+page
+	set url http://lug-info.com/news/one/glava-slavyanoserbskogo-raiona-peredal-podarki-materyam-pogibshikh-zaschitnikov-respubliki-foto-64786
+	set tags lnr,voiny
+page
+	set url http://lug-info.com/news/one/respublika-otmetila-shestuyu-godovschinu-osvobozhdeniya-debaltsevo-foto-64812
+	set tags lnr,pamjat,debalcevo
+page
+	set url http://lug-info.com/news/one/etnoforum-k-mezhdunarodnomu-dnyu-rodnogo-yazyka-sostoyalsya-v-luganskoi-gorkovke-foto-64816
+	set tags lnr,kultura
+page
+	set url http://lug-info.com/news/one/predstavitelnitsa-krasnogo-lucha-pobedila-v-respublikanskom-konkurse-oratorskogo-iskusstva-foto-64822
+	set tags kultura,oratory,lnr,debaty
+page
+	set url http://lug-info.com/news/one/bolee-15-tys-vokalistov-iz-lnr-dnr-i-rf-prinyali-uchastie-v-festivale-v-bryanke-foto-64710
+	set tags festival,rossia,brjanka,pesnja,lnr,donbass
+page
+	set url http://lug-info.com/news/one/pyatyi-antifashistskii-forum-verim-v-donbass-proshel-v-bryanke-s-uchastiem-gostei-iz-dnr-i-rf-foto-64704
+	set tags lnr,forum,antifashist
+page
+	set url http://lug-info.com/news/one/proekt-zabota-o-veteranakh-v-2020-godu-provel-pochti-350-meropriyatii-koordinator-foto-64802
+	set tags lnr,veterany,mir_luganschine
+page
+	set url http://lug-info.com/news/one/proekt-zabota-o-veteranakh-provel-v-2019-godu-bolee-500-massovykh-meropriyatii-52370
+	set tags lnr,veteran,vov
+page
+	set url http://lug-info.com/news/one/predsedatel-komissii-op-vozglavila-delegatsiyu-veteranov-lnr-na-balu-pobeditelei-v-moskve-foto-51270
+	set tags lnr,moskva,bal,pobeda,vov
+page
+	set url http://lug-info.com/news/one/veterany-velikoi-otechestvennoi-voiny-iz-lnr-pobyvali-na-balu-pobeditelei-v-moskve-foto-30449
+	set tags vov,veteran,lnr,moskva
+page
+	set url http://lug-info.com/news/one/pyat-let-lnr-travmatolog-sergei-kucherenko-my-dezhurili-po-poltora-sutok-cherez-noch-42937
+	set tags lnr,medik,vojna
+page
+	set url http://lug-info.com/news/one/uchastnik-debaltsevskoi-operatsii-vladimir-kulik-zhertvy-mirnykh-lyudei-auknulis-ukrainskim-karatelyam-katastrofoi-64708
+	set tags lnr,donbass,debalcevo,pamjat,vojna
+page
+	set url http://lug-info.com/news/one/lnr-i-dnr-oderzhali-v-debaltsevo-sudbonosnuyu-pobedu-pasechnik-42713
+	set tags donbass,lnr,chernuhino,vojna,debalcevo
+page
+	set url http://lug-info.com/news/one/boets-vsu-pogib-sluchaino-brosiv-pachku-patronov-v-pech-narodnaya-militsiya-42779
+	set tags vsu,lnr,vojna,smert
+page
+	set url http://lug-info.com/news/one/boets-vsu-lishilsya-ruki-pri-izgotovlenii-vzryvnogo-ustroistva-dlya-bpla-narodnaya-militsiya-64731
+	set tags svu,lnr,incident,vojna,donbass
+page
+	set url http://lug-info.com/news/one/sbu-vyyavila-tainik-s-pokhischennymi-boitsami-vsu-boepripasami-narodnaya-militsiya-64578
+	set tags nm_lnr,ukraina,vsu,vojna,donbass
+page
+	set url http://lug-info.com/comments/one/osnovatel-luganskogo-lazertag-kluba-sergei-sholom-lazertag-ne-ostavit-ravnodushnym-nikogo-foto-805
+	set tags lnr,igra,lazertag,sport
+page
+	set url https://www.radiosvoboda.org/a/rosiya-menshyny-komi-mova-ivanov-protesty-navalnyy-sud/31109963.html
+	set tags rossia,jazyk
+page
+	set url https://www.radiosvoboda.org/a/30485395.html
+	set tags istoria,sssr
+page
+	set url https://www.radiosvoboda.org/a/pavlo-kazarin-uroky-samospalennya/30164326.html
+	set tags razin_albert,rossia,selfburn
+page
+	set url https://www.radiosvoboda.org/a/pavlo-kazarin-masandra-i-ruskij-mir/30956877.html
+	set tags rusmir,rossia,krym,massandra
+page
+	set url https://www.radiosvoboda.org/a/pavlo-kazarin-navischo-rosii-potriben-krym/30907555.html
+	set tags krym,rossia
+page
+	set url https://www.radiosvoboda.org/a/pavel-kazarin-zaglyanut-v-bezdnu/30829373.html
+	set tags rossia,mysli
+page
+	set url https://kiev.strana.ua/318529-na-ostanovke-vozle-metro-lukjanovskaja-v-kieve-nashli-okochenevshee-telo-muzhchiny.html
+	set tags kiev,smert,zima
+page
+	set url https://kiev.strana.ua/318122-foto-v-kievskomparke-partizanskoj-slavy-nashli-telo-devushki.html
+	set tags devushka,smert,kiev,ukraina,zima
+page
+	set url https://strana.ua/news/318413-liza-leonenko-bloher-tiktok-sut-skandala-iz-ukrainskoho-jazyka-.html
+	set tags leonenko_liza,mova,jazyk,kiev,ukraina,skandal
+page
+	set url https://www.dialog.ua/ukraine/224205_1613672677
+	set tags krivoj_rog,ukraina,mova,skandal,ukrposhta
+page
+	set url https://www.dialog.ua/ukraine/224157_1613597314
+	set tags ukraina,skandal,mova
+page
+	set url https://www.dialog.ua/ukraine/223338_1612275278
+	set tags di_rubens,onackaja_taisia,ukraina,mova,skandal
+page
+	set url https://www.dialog.ua/ukraine/222293_1610616874
+	set tags ukraina,rossia,di_rubens,mova,skandal,onackaja_taisia
+page
+	set url https://www.dialog.ua/ukraine/224199_1613662660
+	set tags leonenko_liza,mova,skandal,kiev,ukraina
+page
+	set url https://www.dialog.ua/ukraine/223043_1611847437
+	set tags bilchenko_evgenia,vojna,skandal,mova,kiev,ukraina
+page
+	set url https://www.dialog.ua/ukraine/224031_1613421211
+	set tags kiev,kiva_ilja,ukraina,opzzh
+page
+	set url https://www.dialog.ua/science/224198_1613662169
+	set tags nasa,usa,perseverance,mars
+page
+	set url https://www.dialog.ua/ukraine/224203_1613668291
+	set tags donbass,life,dnr
+page
+	set url https://112ua.tv/ato/den-v-oos-boeviki-dvazhdy-narushili-rezhim-tishiny-primeniv-granatomet-i-pulemet-568309.html
+	set tags donbass,vojna,oos,obse
+page
+	set url https://lenta.ru/photo/2021/02/18/myagkovphoto/
+	set tags mjagkov_andrei,rossia,smert,pamjat
+page
+	set url https://from-ua.com/news/587697-chto-takoe-tistechko-v-dnepre-oficiantka-otkazalas-obsluzhivat-na-ukrainskom.html
+	set tags mova,ukraina,skandal,dnepropetrovsk
+page
+	set url https://lenta.ru/news/2021/02/18/satellite_five/
+	set tags sputnik_v,usa,moskva,rossia,covid,vaccine
+page
+	set url https://www.washingtonpost.com/world/2021/02/10/russia-sputnik-vaccine-underestimated/
+	set tags vaccine,covid,sputnik_v,usa,rossia
+page
+	set url https://www.washingtonpost.com/national-security/state-department-coronavirus-vaccine-diplomats/2021/02/17/ec507e84-70d5-11eb-a4eb-44012a612cf9_story.html
+	set tags vaccine,covid,sputnik_v,rossia,usa,posolstvo_usa
+page
+	set url https://lenta.ru/news/2021/02/18/snova_voina/
+	set tags kravchuk_leonid,rossia,ukraina,tkg,vojna,donbass
+page
+	set url https://gazeta.ua/articles/kiev-life/_u-stolici-trivaye-marsh-pamyati-nebesnoyi-sotni/1015703
+	set tags kiev,ukraina,nebesna_sotnja,marsh
+page
+	set url https://strana.ua/news/318548-umer-vrach-kardioloh-bernard-laun-kotoryj-izobrel-defibrilljator.html
+	set tags lown_bernard,smert,defibrillator,nobel_prize
 	set redo 1
+	set depth 1
+page
+	set url https://kiev.strana.ua/318546-v-kieve-zavershilsja-marsh-pamjati-po-nebesnoj-sotne-foto-video.html
+	set tags kiev,ukraina,nebesna_sotnja,pamjat
+page
+	set url https://kiev.strana.ua/318531-v-kieve-nachalsja-marsh-pamjati-po-nebesnoj-sotne-foto-i-video.html
+	set tags kiev,ukraina,nebesna_sotnja,marsh,pamjat
+page
+	set url https://apnews.com/article/boston-nobel-prizes-lithuania-massachusetts-2ce00f16b928b60fe3ec4b3858e7fc23
+	set tags lown_bernard,smert,nobel_prize
+page
+	set url https://strana.ua/opinions/318497-po-zakonam-ukrainy-militsionerov-na-majdane-ubivali-pravilno.html
+	set tags maidan2,ukraina,milicia
+page
+	set url https://www.radiosvoboda.org/a/news-nasa-perseverance-landing/31110152.html
+	set tags mars,nasa,marsohod,posadka
+page
+	set url https://www.vesti.ru/television/article/2521897
+	set tags konek_gorbunok,rossia,film
+page
+	set url https://vz.ru/world/2021/2/18/1085775.html
+	set tags rossia,sputnik_v,vaccine,covid,world
+page
+	set url https://vz.ru/news/2021/2/18/1085789.html
+	set tags usa,rossia,gosdep,sputnik_v,vaccine,covid
 eof
 off
 page

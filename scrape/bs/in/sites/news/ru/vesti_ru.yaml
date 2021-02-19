@@ -9,9 +9,8 @@ PageParser:
   get_date_html:
     sels:
       - { 
-          'find'  : '',
-          'get'   : 'attr',
-          'attr'  : '',
+          'find'  : '.article__date',
+          'get'   : 'text',
           'split' : ' ',
         }
   get_author:
@@ -19,14 +18,13 @@ PageParser:
     sels:
       - { 
           'url' : {
-              'find' : '.b-topic__content__author a', 
-              'get' : 'attr',
-              'attr' : 'href' 
+              'find' : '', 
+              'get'  : '',
+              'attr' : '' 
           },
           'str' : {
-              'find' : '.b-topic__content__author .name',
-              'get' : 'attr',
-              'attr' : 'href' 
+              'find' : '.article__author',
+              'get'  : 'text',
           }
         }
   get_author_meta:

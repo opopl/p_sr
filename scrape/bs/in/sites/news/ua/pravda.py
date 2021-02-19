@@ -75,13 +75,12 @@ class PageParser(RootPageParser):
             month_gen = m.group(2)
             year      = m.group(3)
     
-            for lang in self.langs:
-              month = self.month_map_genitive.get(lang,{}).get(month_gen,'')
+            month = self._month_by_gen(month_gen)
       
-              if month:
-                date = '_'.join([day,month,year])
-                app.page.set({ 'date' :  date })
-                return self
+            if month:
+              date = '_'.join([day,month,year])
+              app.page.set({ 'date' :  date })
+              return self
 
     return self
 

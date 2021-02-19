@@ -3986,7 +3986,6 @@ page
 page
 	set url https://strana.ua/news/318548-umer-vrach-kardioloh-bernard-laun-kotoryj-izobrel-defibrilljator.html
 	set tags lown_bernard,smert,defibrillator,nobel_prize
-	set redo 1
 	set depth 1
 page
 	set url https://kiev.strana.ua/318546-v-kieve-zavershilsja-marsh-pamjati-po-nebesnoj-sotne-foto-video.html
@@ -4143,7 +4142,6 @@ page
 page
 	set url https://plus.obozrevatel.com/crime/ukrainskij-zavod-vyipustil-pivo-moskovskoe-s-simvolikoj-rossii-foto.htm
 	set tags ukraina,pivo,moskva,zrada,shtefan_anatolii
-	set redo 1
 page
 	set url https://day.kyiv.ua/uk/blog/suspilstvo/zamist-sercya-polumyanyy-motor
 	set tags rossia,istoria,gumulev_lev,putin_vladimir
@@ -4195,6 +4193,10 @@ page
 page
 	set url https://vesti.ua/kultura/vycherknut-iz-narodnyh-neugodnyj-artistov-hotyat-lishit-zvanij
 	set tags kultura,ukraina,rossia,kirkorov_filipp
+page
+	set url https://blogs.pravda.com.ua/authors/lucenko/602fe4b51045a/
+	set tags lucenko_jurij,revgidnosti,ukraina,maidan2
+	set redo 1
 eof
 off
 page

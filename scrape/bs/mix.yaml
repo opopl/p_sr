@@ -17,7 +17,7 @@ include:
     - news.ru.vzgljad
     - news.ru.newsfront
     - news.ru.yandex.zen
-    - news.ru.vesti_ru
+    #- news.ru.vesti_ru
     #- news.ru.life - DATE
     - news.ua.oboz
     - news.ua.pravda

@@ -9,10 +9,10 @@ PageParser:
   get_date_html:
     sels:
       - { 
-          'find'  : '',
-          'get'   : 'attr',
-          'attr'  : '',
+          'find'  : '#dat span',
+          'get'   : 'text',
           'split' : ' ',
+          'fmt'   : '%d.%m.%Y',
         }
   get_author:
   get_author_html:

@@ -4115,8 +4115,6 @@ page
 page
 	set url https://kulturologia.ru/blogs/131113/19253/
 	set tags novgorod,istoria,rusmir,beresta
-	setlist opts
-		no_date
 eof
 off
 page

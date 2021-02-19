@@ -1,18 +1,6 @@
 
 sel:
   clean:
-    - .sr-only
-    - .menu-pnl
-    - .hdr-20
-    - .c-hlights
-    - .date-time-area
-    - .category
-    - .btn__text
-    - '.media-block, .also-read'
-    - .comments-parent
-    - .media-block-wrap
-    - .back-to-top-nav
-    - .responsive-indicator
 
 PageParser:
   get_date:
@@ -31,13 +19,13 @@ PageParser:
     sels:
       - { 
           'url' : {
-              'find' : '', 
-              'get'  : 'attr',
+              'find' : '.b-topic__content__author a', 
+              'get' : 'attr',
               'attr' : 'href' 
           },
-          'name' : {
-              'find' : '',
-              'get'  : 'attr',
+          'str' : {
+              'find' : '.b-topic__content__author .name',
+              'get' : 'attr',
               'attr' : 'href' 
           }
         }

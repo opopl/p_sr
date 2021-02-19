@@ -29,10 +29,11 @@ include:
     - news.ua.apostrof
     - news.ua.112ua
     #- news.anglia.bbc
-    #- news.ua.radiosvoboda
+    - news.ua.radiosvoboda
     - pc.articles.sitepoint
     - pc.articles.pavlutin
     #- pc.cairographics 
     #- pc.cairosvg
     - vera.ru.pravoslavie
     - ludi.ua.buzina
+    - ru.kulturologia

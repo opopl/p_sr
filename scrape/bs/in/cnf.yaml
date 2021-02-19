@@ -12,6 +12,7 @@ BS:
     tipes:
       - clean
       - core
+      - core_clean
       - dbrid
       - img
       - img_clean
@@ -35,7 +36,7 @@ PageParser:
   get_author_meta:
     sels:
       - { 
-          'str' : {
+          'name' : {
              'find' : 'meta[name="author"]', 
              'get'  : 'attr', 
              'attr' : 'content', 

@@ -4012,6 +4012,111 @@ page
 page
 	set url https://vz.ru/news/2021/2/18/1085789.html
 	set tags usa,rossia,gosdep,sputnik_v,vaccine,covid
+page
+	set url https://lenta.ru/news/2021/02/19/vacine_est/
+	set tags estonia,rossia,sputnik_v,vaccine,covid
+page
+	set url https://lenta.ru/news/2021/02/19/peredumali/
+	set tags ukraina,minsk_treaty,reznikov_aleksei
+page
+	set url https://lenta.ru/news/2021/02/12/tkg/
+	set tags ukraina,arestovich_aleksei,peremirie,donbass,vojna
+page
+	set url https://strana.ua/news/318596-observatoriju-v-karpatakh-pokryl-sneh-spasateli-opublikovali-foto.html
+	set tags ukraina,karpaty,pip_ivan,observatoria
+page
+	set url https://www.radiosvoboda.org/a/news-kravchuk/31110790.html
+	set tags kravchuk_leonid,tkg,pushilin_denis,donbass
+page
+	set url https://www.radiosvoboda.org/a/ukrainsky-onlain-schkoly-ssha/31099584.html
+	set tags ukraina,mova,diaspora,usa
+	set redo 1
+page
+	set url https://www.radiosvoboda.org/a/30917948.html
+	set tags mova,kapranov_vitalii,ukraina
+page
+	set url https://www.radiosvoboda.org/a/mayzhe-200-tysyach-uchniv-pereyshly-na-ukrayins%CA%B9ku-i-tse-nezvorotn%CA%B9o-movnyy-ombudsmen/30817619.html
+	set tags mova,ukraina,deti,shkola
+page
+	set url https://www.radiosvoboda.org/a/30884262.html
+	set tags kuban,rossia,ukraina,russifikacia
+page
+	set url https://www.radiosvoboda.org/a/news-oon-kst-gertv-boyovyh-donbas/31110937.html
+	set tags rossia,ukraina,donbass,vojna,statistika
+page
+	set url https://www.radiosvoboda.org/a/poman-shved-spohady-srsr-sovety/31104258.html
+	set tags ukraina,istoria,okkupacia
+page
+	set url https://kiev.strana.ua/318613-kiev-voshel-v-top-horodov-mira-s-samym-hrjaznym-vozdukhom.html
+	set tags kiev,ekologia,ukraina
+page
+	set url https://strana.ua/opinions/293232-za-poslednie-hody-ukraina-prevratilas-v-stranu-ekolohicheskikh-katastrof.html
+	set tags ukraina,ekologia
+page
+	set url https://gazeta.ua/blog/54641/nova-putinska-menshist-tuzhit-za-terorom-rozpad-imperiyi-neminuchij
+	set tags rossia,mysli,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/alyarm-sadyba-chaykovskogo-v-galchyni
+	set tags chaikovskii_mihailo,galchin,ukraina
+page
+	set url https://day.kyiv.ua/uk/article/cuspilstvo/vdyachni-za-svobodu
+	set tags revgidnosti,ukraina,shkola,deti
+page
+	set url https://day.kyiv.ua/uk/article/den-ukrayiny/oglyadach-dnya-potrapyv-na-mars
+	set tags mars,humanity,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/sud-i-dolya-anastasiyi-shevchenko
+	set tags rossia,sud,shevchenko_anastasia
+page
+	set url https://news.obozrevatel.com/society/davali-podzatyilniki-i-zakleivali-rot-skotchem-na-volyini-v-detskom-sadu-pedagogi-izdevalis-nad-malyishami.htm
+	set tags lutsk,ukraina,deti,skandal
+page
+	set url https://news.obozrevatel.com/tech/science/google-zrelischno-pozdravil-marsohod-nasa-s-vyisadkoj-na-mars-foto.htm
+	set tags mars,nasa,perseverance,foto
+page
+	set url https://strana.ua/news/318414-vaktsinatsija-ot-koronavirusa-v-rossii-dlja-ukraintsev-punkty-v-moskve-spisok-dokumentov.html
+	set tags rossia,ukraina,vaccine,covid,sputnik_v
+page
+	set url https://112ua.tv/zdorovie/uzhe-strashno-nazyvat-konkretnuyu-datu-vakcinacii-v-sluge-naroda-prokommentirovali-vozmozhnoe-uvolnenie-stepanova-568375.html
+	set tags ukraina,vaccinacia,covid,vaccine
+page
+	set url https://112ua.tv/statji/v-gostyah-u-besa-kak-zelenskiy-v-zahvachennoy-bezlerom-gorlovke-koncert-daval-i-pivo-pil-568313.html
+	set tags zelenskii_vladimir,rusmir,bezler_igor,rossia,ukraina,gorlovka
+page
+	set url https://112ua.tv/statji/novoe-issledovanie-ukrainsko-rossiyskogo-konflikta-obnaruzhivaet-glubokie-raznoglasiya-vo-vzglyadah-v-spornom-donbasse-567960.html
+	set tags donbass,ukraina,analitika,zapad,vojna,rossia
+page
+	set url http://lug-info.com/news/one/aktsiya-filarmonii-iskusstvo-bez-granits-startovala-kontsertom-v-zheltom-foto-64828
+	set tags art,kultura,lnr,filarmonia,muzyka
+page
+	set url http://lug-info.com/news/one/bryankovchane-proveli-chas-pamyati-posvyaschennyi-6-i-godovschine-obstrela-goroda-so-storony-vsu-foto-64834
+	set tags lnr,donbass,pamjat,brjanka,mir_luganschine
+page
+	set url https://112ua.tv/mnenie/pochemu-ukraine-ne-nuzhno-zapuskat-svoy-sputnik-568267.html
+	set tags kosmos,ukraina,jangel_mihail
+page
+	set url https://vz.ru/news/2021/2/19/1085909.html
+	set tags rossia,india,sputnik_v,vaccine,covid
+page
+	set url https://news.novgorod.ru/news/anna-cherepanova-nazvala-politikoy-dvoynykh-standartov-otkaz-v-provedenii-mitinga-i-shestviya--177587.html
+	set tags novgorod,jabloko_partia,rossia,protest
+page
+	set url https://news.novgorod.ru/photo/view/2021-02/restorer_grekovy/
+	set tags novgorod,rossia,foto,istoria,vov
+page
+	set url https://news.novgorod.ru/photo/view/2021-01/winter_haze/
+	set tags novgorod,rossia,foto,zima
+page
+	set url https://news.novgorod.ru/articles/read/1057.html
+	set tags novgorod,rossia,francia,life,parizh
+page
+	set url https://news.novgorod.ru/photo/view/2021-02/navalny/image-20015.html
+	set tags novgorod,rossia,protest,navalny
+page
+	set url https://kulturologia.ru/blogs/131113/19253/
+	set tags novgorod,istoria,rusmir,beresta
+	setlist opts
+		no_date
 eof
 off
 page

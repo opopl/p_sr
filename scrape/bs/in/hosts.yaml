@@ -16,6 +16,8 @@
 'zikua.tv' : { 'site' : 'news.ua.zik' }
 'apostrophe.ua' : { 'site' : 'news.ua.apostrof' }
 
+###ru
+'kulturologia.ru' : { 'site' : 'ru.kulturologia' }
 
 ###ludi
 'buzina.org' : { 'site' : 'ludi.ua.buzina' }

@@ -12,7 +12,7 @@ PageParser:
   get_author_meta:
     sels:
       - { 
-          'str' : {
+          'name' : {
              'find' : 'meta[name="cXenseParse:obo-author"]', 
              'get'  : 'attr', 
              'attr' : 'content', 

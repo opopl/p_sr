@@ -4030,7 +4030,6 @@ page
 page
 	set url https://www.radiosvoboda.org/a/ukrainsky-onlain-schkoly-ssha/31099584.html
 	set tags ukraina,mova,diaspora,usa
-	set redo 1
 page
 	set url https://www.radiosvoboda.org/a/30917948.html
 	set tags mova,kapranov_vitalii,ukraina
@@ -4115,6 +4114,32 @@ page
 page
 	set url https://kulturologia.ru/blogs/131113/19253/
 	set tags novgorod,istoria,rusmir,beresta
+page
+	set url https://kulturologia.ru/blogs/080114/19714/
+	set tags krym,rossia,rusmir,ukraina,istoria,vojna
+page
+	set url https://kulturologia.ru/blogs/021115/27003/
+	set tags hristos,raspjatie,istoria,rim,kazn
+page
+	set url https://kulturologia.ru/blogs/110915/26223/
+	set tags rossia,istoria,groznyy_ivan,kazn,rusmir
+off
+page
+	set url https://kulturologia.ru/blogs/190221/49073/
+	set tags vov,deti,podvig,sssr,istoria
+on
+page
+	set url https://strana.ua/news/318648-pod-dneprom-pokonchila-s-soboj-studentka-turisticheskoho-kolledzha.html
+	set tags ukraina,dnepropetrovsk,suicid
+page
+	set url https://www.pravda.com.ua/articles/2021/02/19/7283894/
+	set tags odessa,ukraina,istoria,rossia
+page
+	set url https://zaxid.net/zhodni_buri_chasu_ne_torkayutsya_tsiyeyi_muziki_n1514713
+	set tags lvov,ukraina,muzyka
+page
+	set url https://zaxid.net/proyekt_ukrayina_n1514641
+	set tags ukraina,rossia,mnenie
 eof
 off
 page

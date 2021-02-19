@@ -4140,6 +4140,61 @@ page
 page
 	set url https://zaxid.net/proyekt_ukrayina_n1514641
 	set tags ukraina,rossia,mnenie
+page
+	set url https://plus.obozrevatel.com/crime/ukrainskij-zavod-vyipustil-pivo-moskovskoe-s-simvolikoj-rossii-foto.htm
+	set tags ukraina,pivo,moskva,zrada,shtefan_anatolii
+	set redo 1
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/zamist-sercya-polumyanyy-motor
+	set tags rossia,istoria,gumulev_lev,putin_vladimir
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/peresliduvannya-yuriya-dmytriyeva
+	set tags dmitriev_jurii,rossia,repressii
+page
+	set url https://strana.ua/news/318673-sanktsii-snbo-protiv-medvedchuka-19-fevralja-hlavnoe.html
+	set tags medvedchuk_viktor,sankcii,ukraina,rnbo
+page
+	set url https://kiev.strana.ua/318685-voditelem-ubivshim-cheloveka-v-kieve-okazalsja-azerbajdzhanets.html
+	set tags kiev,kriminal,avto
+page
+	set url https://strana.ua/news/279603-v-kieve-na-osokorkakh-u-rebenka-ukrali-velosiped.html
+	set tags kiev,kriminal,krazha,velosiped
+page
+	set url https://strana.ua/news/318703-v-etom-hodu-ukraina-sozdast-i-zapustit-sobstvennyj-sputnik-zelenskij.html
+	set tags kosmos,ukraina,sputnik
+page
+	set url https://strana.ua/opinions/318572-u-zelenskoho-net-stop-krana-i-eto-zakonchitsja-plokho-dlja-neho-i-dlja-nas.html
+	set tags zelenskii_vladimir,ukraina,mnenie
+page
+	set url https://strana.ua/news/318592-vo-vremja-otdykha-v-ehipte-pohibla-hrazhdanka-ukrainy-zhitelnitsa-rovno.html
+	set tags ukraina,smert,egipet
+page
+	set url https://ukraina.ru/opinion/20210219/1030623957.html
+	set tags ukraina,zelenskii_vladimir,vojna
+page
+	set url https://ukraina.ru/history/20210219/1030621530.html
+	set tags novorossia,ukraina,istoria,novaja_serbia
+page
+	set url https://www.pravda.com.ua/news/2021/02/19/7284075/
+	set tags rnbo,medvedchuk_viktor,ukraina
+page
+	set url https://zaxid.net/u_lvovi_shkolyari_rozvisili_paperovih_angeliv_na_memoriali_nebesnoyi_sotni_n1514726
+	set tags nebesna_sotnja,lvov,ukraina
+page
+	set url https://gazeta.ua/articles/life/_v-rnbo-vimagali-zakriti-kanal-nas-pereviriti-portnova-ta-peredati-derzhavi-rinok-stolichnij/1015911
+	set tags rnbo,ukraina,protest
+page
+	set url https://strana.ua/news/318704-anomalnye-kholoda-v-ssha-ubili-minimum-47-chelovek-washington-post-.html
+	set tags zima,usa,holod,pogoda,smert
+page
+	set url https://www.radiosvoboda.org/a/photo-kyiv-anhely-pamyati/31111538.html
+	set tags nebesna_sotnja,ukraina,pamjat
+page
+	set url https://112ua.tv/mnenie/amerikanskie-diplomaty-zhaluyutsya-na-nehvatku-vakciny-i-sami-privivayutsya-rossiyskoy-568428.html
+	set tags gosdep,usa,rossia,us_embassy
+page
+	set url https://vesti.ua/kultura/vycherknut-iz-narodnyh-neugodnyj-artistov-hotyat-lishit-zvanij
+	set tags kultura,ukraina,rossia,kirkorov_filipp
 eof
 off
 page

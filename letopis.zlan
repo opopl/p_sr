@@ -4197,6 +4197,24 @@ page
 	set url https://blogs.pravda.com.ua/authors/lucenko/602fe4b51045a/
 	set tags lucenko_jurij,revgidnosti,ukraina,maidan2
 	set redo 1
+page
+	set url https://blogs.pravda.com.ua/authors/yakhno/6009fde2d3643/
+	set tags ukraina,sobornist,mysli,nacia
+page
+	set url https://blogs.pravda.com.ua/authors/yakhno/5e57b46b3df48/
+	set tags rossia,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/danilov/46b8181b2b1bc/
+	set tags danilov_aleksei,ukraina,mnenie
+page
+	set url https://lenta.ru/news/2021/02/19/bear/
+	set tags medved,usa,kurjez
+page
+	set url https://gazeta.ua/articles/edu-and-science/_stvorili-unikalnu-mobilnu-programu-dlya-vivchennya-ukrayinskoyi/1015896
+	set tags mova,ukraina,it,pc
+page
+	set url https://blogs.pravda.com.ua/authors/danilov/49df01b01c273/
+	set tags ukraina,mysli,moral
 eof
 off
 page

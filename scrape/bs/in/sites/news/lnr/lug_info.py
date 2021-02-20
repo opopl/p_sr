@@ -14,8 +14,6 @@ class PageParser(RootPageParser):
   def __init__(self,ref={}):
     super().__init__(ref)
 
-    self.month_list_genitive = list(self.month_map_genitive['rus'].keys())
-
   def clean(self,ref={}):
     super().clean(ref)
 
@@ -51,6 +49,9 @@ class PageParser(RootPageParser):
     return self
 
   def _date_from_bare(self,sel):
+    date = super()._date_from_bare(sel)
+    if date:
+      return date
 
     app = self.app
     date = None

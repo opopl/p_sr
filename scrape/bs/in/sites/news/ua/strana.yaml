@@ -17,18 +17,21 @@ sel:
     - 'div.newsfeed'
     - div.tags.breadcrumbs
     - .sunsite_actions
-  author: 
-    { 
-      'url' : {
-          'find' : 'span.author-article a', 
-          'attr' : 'href' 
-      },
-      'name' : {
-          'find' : 'span.author-article a'
-      }
-    }
 
 PageParser:
+  get_author_html:
+    sels:
+      - { 
+          'url' : {
+              'find' : 'span.author-article a', 
+              'get'  : 'attr',
+              'attr' : 'href',
+          },
+          'name' : {
+              'find' : 'span.author-article a',
+              'get'  : 'text',
+          }
+        }
   get_date_html:
     sels:
       - { 

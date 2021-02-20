@@ -4196,7 +4196,6 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/lucenko/602fe4b51045a/
 	set tags lucenko_jurij,revgidnosti,ukraina,maidan2
-	set redo 1
 page
 	set url https://blogs.pravda.com.ua/authors/yakhno/6009fde2d3643/
 	set tags ukraina,sobornist,mysli,nacia
@@ -4215,6 +4214,138 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/danilov/49df01b01c273/
 	set tags ukraina,mysli,moral
+page
+	set url https://strana.ua/news/318719-v-opzzh-nazvali-sanktsii-protiv-medvedchuka-i-eho-zheny-unichtozheniem-demokratii.html
+	set tags medvedchuk_viktor,sankcii,ukraina,opzzh
+page
+	set url https://zaxid.net/ne_otruyitisya_istoriyeyu_n1514717
+	set tags ukraina,istoria
+page
+	set url https://zaxid.net/vira_nadiya_nenavist_n1512735
+	set tags ukraina,mysli
+page
+	set url https://zaxid.net/v_poshukah_ukrayinskogo_shhastya_n1512368
+	set tags ukraina,mysli,schastje
+page
+	set url https://zaxid.net/rozshmatuvati_ukrayinu_n1509490
+	set tags ukraina,mysli
+page
+	set url https://zaxid.net/ne_yihnya_pamyat_n1508510
+	set tags ukraina,istoria,mysli
+page
+	set url https://zaxid.net/patent_na_patriotizm_n1506386
+	set tags ukraina,patriotizm
+page
+	set url https://news.obozrevatel.com/politics/tkachenko-o-sanktsiyah-snbo-nachalo-novoj-eryi-kogda-vraga-nakonets-to-nazyivayut-po-imeni.htm
+	set tags sankcii,medvedchuk_viktor,ukraina
+page
+	set url https://news.obozrevatel.com/society/nevyiuchennyie-uroki-afganskij-sindrom.htm
+	set tags afganistan,istoria,sssr,ukraina,mnenie
+page
+	set url https://www.radiosvoboda.org/a/news-sputnik-es-pomylka/31112047.html
+	set tags ukraina,rossia,es,sputnik_v,covid,vaccine
+page
+	set url https://www.radiosvoboda.org/a/chym-valtsynuvatymut-ukrayintsiv/31093670.html
+	set tags ukraina,vaccine,covid,vaccinacia,sputnik_v
+page
+	set url https://www.radiosvoboda.org/a/vaktsynatsyia-v-luganske-sputnik-v/31089113.html
+	set tags sputnik_v,rossia,ukraina,donbass,covid,vaccine
+page
+	set url https://www.radiosvoboda.org/a/news-kuleba-vaktsyna-covid/31090552.html
+	set tags ukraina,vaccine,sputnik_v,covid
+page
+	set url https://www.radiosvoboda.org/a/vactcinatciya-covid-svit-ukraina/31082393.html
+	set tags ukraina,vaccine,covid,sputnik_v,vaccinacia
+page
+	set url https://www.radiosvoboda.org/a/news-lnr-rosijska-vakcyna-sputnik/31080193.html
+	set tags lnr,rossia,sputnik_v,covid,vaccine
+page
+	set url https://www.radiosvoboda.org/a/news-zelenskyi-zavershennia-lokdaunu-vaktsynatsia/31068434.html
+	set tags ukraina,vaccine,covid,vaccinacia
+page
+	set url https://www.radiosvoboda.org/a/31067747.html
+	set tags zelenskii_vladimir,ukraina
+page
+	set url https://lenta.ru/news/2021/02/19/rogozin/
+	set tags rogozin_dmitrii,roskosmos,kosmos,mars,perseverance
+page
+	set url https://lenta.ru/news/2021/02/19/sposob/
+	set tags bill_gates,vaccine,covid,world
+page
+	set url https://lenta.ru/news/2021/02/19/monaco/
+	set tags rossia,vaccine,covid,sputnik_v
+page
+	set url https://www.vesti.ru/article/2526268
+	set tags rossia,covid,vaccine
+page
+	set url https://www.vesti.ru/article/2526183
+	set tags stepanov_maksim,ukraina,vaccinacia,vaccine,covid
+page
+	set url https://www.vesti.ru/article/2526323
+	set tags rossia,poezia,chastushki,covid
+page
+	set url https://www.vesti.ru/article/2526158
+	set tags covid,vaccine,sputnik_v,rossia
+page
+	set url https://www.vesti.ru/article/2526122
+	set tags rossia,mid_rf,zaharova_maria,covid,vaccine,sputnik_v
+page
+	set url https://www.vesti.ru/article/2525804
+	set tags covid,vaccine,sputnik_v,rossia,vaccinacia
+page
+	set url https://gogov.ru/articles/covid-v-stats
+	set tags vaccinacia,rossia,statistika,covid,vaccine
+page
+	set url https://lenta.ru/news/2021/02/18/23people/?utm_source=yxnews&utm_medium=desktop
+	set tags usa,vaccine,smert,new_york
+page
+	set url https://meduza.io/feature/2021/02/19/rossiya-tak-aktivno-postavlyaet-sputnik-v-po-vsemu-miru-chto-zapadnye-smi-zagovorili-o-vaktsinnoy-diplomatii-i-o-privivochnom-natsionalizme-ssha-i-evropy
+	set tags rossia,diplomatia,covid,vaccine
+page
+	set url https://meduza.io/news/2021/02/19/rossiyskiy-mid-predlozhil-vsem-inostrannym-diplomatam-privitsya-sputnikom-v-amerikanskiy-posol-otkazalsya
+	set tags rossia,vaccine,covid,sputnik_v
+page
+	set url https://meduza.io/feature/2021/02/02/nakonets-to-sozdateli-sputnika-v-opublikovali-rezultaty-issledovaniya-etoy-vaktsiny-glavnyy-ona-bezopasna-i-ochen-effektivna-no-voprosy-ostalis
+	set tags covid,vaccine,sputnik_v,rossia,nauka,lancet
+page
+	set url https://meduza.io/feature/2021/01/20/skazali-zhdat-zvonok-v-marte
+	set tags vaccinacia,rossia,vaccine
+page
+	set url https://meduza.io/feature/2021/01/14/skolko-vse-taki-lyudey-uzhe-vaktsinirovali-v-rossii-samyy-chestnyy-otvet-nikto-ne-znaet
+	set tags rossia,vaccinacia,statistika
+page
+	set url https://www.gazeta.ru/social/news/2021/02/20/n_15644336.shtml?utm_source=yxnews&utm_medium=desktop
+	set tags rossia,sputnik_v,vaccine,covid,registracia
+page
+	set url http://lug-info.com/news/one/kievskie-siloviki-odin-raz-za-sutki-narushili-rezhim-tishiny-64870
+	set tags kiev,donbass,vojna,lnr
+page
+	set url http://lug-info.com/news/one/studentka-lgaki-zavoevala-gran-pri-muzykalnogo-konkursa-luganskii-kapris-64875
+	set tags lnr,muzyka,priz,festival
+page
+	set url https://strana.ua/news/318718-pamjatnik-feliksu-dzerzhinskomu-ili-aleksandru-nevskomu-istorija-voprosa-holosovanie-na-aktivnyj-hrazhdanin.html
+	set tags lubjanka,moskva,pamjatnik,rossia,nevskii_aleksandr,dzerzhinskii_feliks
+page
+	set url https://strana.ua/news/318770-oksana-marchenko-popala-pod-sanktsii-chto-izvestno-o-televedushchej.html
+	set tags marchenko_oksana,medvedchuk_viktor,rossia,ukraina,sankcii
+page
+	set url https://strana.ua/news/318672-ljashko-zadeklariroval-vyihrysh-v-lotereju-po-poddelnomu-biletu.html
+	set tags ljashko_oleg,ukraina,lottery
+page
+	set url https://strana.ua/news/318800-sanktsii-snbo-dmitrij-peskov-nazval-dejstvija-ukrainy-trevozhnymi.html
+	set tags rossia,kreml,ukraina,peskov_dmitrii
+page
+	set url https://www.pravda.com.ua/news/2021/02/20/7284125/
+	set tags nebesna_sotnja,ukraina,pamjat,zelenskii_vladimir
+page
+	set url https://www.pravda.com.ua/news/2021/02/20/7284140/
+	set tags biden_joe,zelenskii_vladimir,ukraina,usa
+page
+	set url https://www.pravda.com.ua/news/2021/02/20/7284141/
+	set tags navalny,rossia,sud,veteran
+page
+	set url https://lenta.ru/news/2021/02/20/flu/
+	set tags rossia,bolezn,ptichii_gripp
 eof
 off
 page

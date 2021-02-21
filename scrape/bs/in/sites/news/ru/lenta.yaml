@@ -11,13 +11,18 @@ sel:
      - 'aside'
      - 'a.social-snippet__telegram'
      - .b-socials__comments
-  author: 
-    { 
-      'url' : {
-          'css' : '.b-topic__content__author a', 
-          'attr' : 'href' 
-      },
-      'name' : {
-          'css' : '.b-topic__content__author .name'
+
+PageParser:
+  get_author_html:
+    sels: 
+      { 
+        'url' : {
+            'find' : '.b-topic__content__author a',
+            'get'  : 'attr',
+            'attr' : 'href',
+        },
+        'name' : {
+            'find' : '.b-topic__content__author .name',
+            'get'  : 'text', 
+        }
       }
-    }

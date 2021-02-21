@@ -4469,13 +4469,13 @@ page
 page
 	set url https://www.pravda.com.ua/news/2021/02/21/7284216/
 	set tags chornogoria,ukraina,sputnik_v,covid,vaccine,serbia
-	set redo 1
 page
 	set url https://www.eurointegration.com.ua/news/2021/02/12/7119723/
 	set tags sputnik_v,chornogoria,vaccine,covid,rossia
 page
 	set url https://lenta.ru/articles/2021/02/21/latino/
 	set tags latin_amerika,travel
+	set redo 1
 eof
 off
 page

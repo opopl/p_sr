@@ -31,14 +31,13 @@ PageParser:
     sels:
       - { 
           'url' : {
-              'find' : '', 
+              'find' : '.publishing-details a.links__item-link', 
               'get'  : 'attr',
               'attr' : 'href' 
           },
           'name' : {
-              'find' : '',
-              'get'  : 'attr',
-              'attr' : 'href' 
+              'find' : '.publishing-details a.links__item-link',
+              'get'  : 'text',
           }
         }
   get_author_meta:

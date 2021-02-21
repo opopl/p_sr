@@ -26,3 +26,8 @@ PageParser:
           'get'   : 'text',
           'split' : ',',
         }
+      - {
+          'find'  : '.data_news p',
+          'get'   : 'text',
+          'split' : ',',
+        }

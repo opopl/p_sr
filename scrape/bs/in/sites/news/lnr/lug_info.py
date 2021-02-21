@@ -44,7 +44,7 @@ class PageParser(RootPageParser):
     if app.page.get('date'):
       return self
 
-    self.get_date_html_front(ref)
+    #self.get_date_html_front(ref)
 
     return self
 

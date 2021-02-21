@@ -4346,6 +4346,92 @@ page
 page
 	set url https://lenta.ru/news/2021/02/20/flu/
 	set tags rossia,bolezn,ptichii_gripp
+page
+	set url http://lug-info.com/news/one/boitsy-vsu-izbili-starshinu-predlozhivshego-otmetit-23-fevralya-narodnaya-militsiya-64881
+	set tags lnr,nm_lnr,23fevralja,prazdnik,vsu,kriminal
+page
+	set url http://lug-info.com/news/one/maior-vsu-vskryl-veny-iz-za-tyazheloi-narkoticheskoi-zavisimosti-narodnaya-militsiya-64880
+	set tags suicid,vsu,lnr,ukraina,donbass,vojna
+page
+	set url http://lug-info.com/news/one/narodnaya-militsiya-lnr-zafiksirovala-prisutstvie-boitsov-vsu-na-uchastke-razvedeniya-u-zolotogo-64873
+	set tags lnr,nm_lnr,vojna,donbass,vsu
+page
+	set url http://lug-info.com/media/kremlevskaya-elka-zazhglas-dlya-detei-luganskoi-narodnoi-respubliki-12
+	set tags lnr,donbass,elka,prazdnik
+page
+	set url http://lug-info.com/media/obmen-uderzhivaemymi-litsami-lugansk-schaste-16-aprelya-2020-goda-896
+	set tags ludi,obmen,plennye,lnr,ukraina,donbass,vojna
+page
+	set url http://lug-info.com/news/one/lardt-pokazal-spektakl-vremya-vybor-volya-uchastnikam-chernukhino-debaltsevskoi-operatsii-64874
+	set tags lnr,lardt,teatr,spektakl,donbass,vojna
+page
+	set url http://lug-info.com/news/one/vystavka-rabot-khudozhnika-grafika-olega-bezuglogo-otkrylas-v-lgaki-foto-64852
+	set tags lnr,lugansk,hudozhnik,vystavka
+page
+	set url http://lug-info.com/news/one/tseremoniya-posvyascheniya-v-kadety-sostoyalas-v-dvukh-shkolakh-pervomaiska-foto-64867
+	set tags lnr,shkola,kadety,ceremonia
+page
+	set url http://lug-info.com/news/one/bolee-30-kadetskikh-klassov-deistvuyut-pri-shkolakh-respubliki-sovetnik-glavy-lnr-foto-62572
+	set tags kadety,shkola,lnr
+page
+	set url https://strana.ua/showbiz/318803-umer-andrej-mjahkov-artista-pokhoronili-na-troekurovskom-kladbishche.html
+	set tags mjagkov_andrei,moskva,rossia,pohoron
+page
+	set url https://strana.ua/showbiz/314324-umer-akter-jurij-lakhin-syhravshij-v-likvidatsii-vechnom-zove-hromovykh.html
+	set tags lahin_jurij,smert,covid,likvidacia_film,akter,rossia
+page
+	set url https://strana.ua/showbiz/300872-akter-armen-dzhikharkhanjan-skonchalsja.html
+	set tags zhigarhanjan_armen,smert,moskva,akter,rossia
+page
+	set url https://strana.ua/news/300211-ot-koronavirusa-umerla-teshcha-petra-poroshenko.html
+	set tags poroshenko_petr,tescha,ukraina,smert,covid
+page
+	set url https://vz.ru/news/2021/2/20/1086080.html
+	set tags kuleba_dmitrii,rossia,nato,es,moskva
+page
+	set url https://zaxid.net/na_lichakivskomu_kladovishhi_vshanuvali_geroyiv_nebesnoyi_sotni_n1514744
+	set tags nebesna_sotnja,ukraina,lvov
+page
+	set url https://zaxid.net/do_donu_pro_ukrayinsku_kuban_n1514538
+	set tags kuban,ukraina,rossia,mnenie
+page
+	set url https://www.radiosvoboda.org/a/chomu-rosiji-vdalosia-zaxopyty-krym/31106434.html
+	set tags tuzla,krym,2014,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/krym_bilorusija_rozkol/30772132.html
+	set tags krym,belarus,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/holod-ukrayina-1946-1947-roky/31111293.html
+	set tags ukraina,istoria,sssr,golod_1947
+page
+	set url https://www.radiosvoboda.org/a/27772772.html
+	set tags golod_1947,ukraina,istoria,sssr
+page
+	set url https://strana.ua/news/318846-kakie-imenno-sanktsii-zelenskij-vvel-protiv-medvedchuka-marchenko-i-ostalnykh.html
+	set tags ukraina,sankcii,medvedchuk_viktor
+page
+	set url https://strana.ua/news/315688-v-snbo-dopustili-zakrytie-druhikh-telekanalov-po-vsej-ukraine.html
+	set tags rnbo,sankcii,ukraina,telekanaly
+page
+	set url https://strana.ua/news/317431-navalnyj-v-sude-po-veteranu-samye-jarkie-tsitaty.html
+	set tags navalny,rossia,sud,veteran
+page
+	set url https://www.radiosvoboda.org/a/lesya-ukrainka-oksana-zabuzhko/31111684.html
+	set tags lesja_ukrainka,maidan2,ukraina,rossia,zabuzhko_oksana
+page
+	set url https://www.radiosvoboda.org/a/lesia-ukrayinka-vyzvolna-borotba-ukrayiny/31109525.html
+	set tags ukraina,lesja_ukrainka,maidan2
+page
+	set url https://www.radiosvoboda.org/a/subotnje-interview-z-oksanoju-zabuzhko/31112062.html
+	set tags zabuzhko_oksana,rossia,ukraina
+	set redo 1
+page
+	set url https://www.radiosvoboda.org/a/lesia-ukrayinka-10-faktiv/31096181.html
+	set tags lesja_ukrainka,kultura,ukraina
+page
+	set url https://strana.ua/news/317959-vaktsina-sovishield-v-ukraine-analoh-astrazeneka-opisanie-hrafik-privivok-na-2021-hod.html
+	set tags ukraina,vaccine,covid,vaccinacia,covishield,india
+	set redo 1
 eof
 off
 page

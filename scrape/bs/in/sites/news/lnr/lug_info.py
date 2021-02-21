@@ -50,6 +50,7 @@ class PageParser(RootPageParser):
 
   def _date_from_bare(self,sel):
     date = super()._date_from_bare(sel)
+
     if date:
       return date
 

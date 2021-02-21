@@ -4499,6 +4499,34 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210221/1030618446.html
 	set tags maidan2,ukraina
+page
+	set url https://ukraina.ru/opinion/20210220/1030634229.html
+	set tags zrada,ukraina,pivo,rossia
+page
+	set url https://ukraina.ru/opinion/20210221/1030637985.html
+	set tags ukraina,istoria,rossia,hmelnickii_bogdan
+page
+	set url https://gazeta.ua/blog/54636/nashimi-zhilami-dosi-gulyaye-spilna-z-russkimi-krov-ce-motoroshnij-fakt
+	set tags rusmir,ukraina,rossia,mnenie
+page
+	set url https://gazeta.ua/blog/54356/potribna-nacionalna-ideya-bez-neyi-podalshij-ruh-ce-borsannya-pered-zagibellyu
+	set tags nacia,ukraina,nacidea,mnenie
+page
+	set url https://gazeta.ua/blog/54282/trohi-nepriyemnoyi-pravdi-pro-ukrayinsku-scenu
+	set tags youtube,ukraina,kultura
+page
+	set url https://gazeta.ua/blog/53242/e-dvi-formi-vladi-i-stavlennya-do-neyi-ale-v-ukrayini-vlasnij-shlyah-v-nikudi
+	set tags ukraina,mnenie,vlada,demokratia
+page
+	set url https://day.kyiv.ua/uk/article/den-ukrayiny/zmenshyty-kut-vidhylennya
+	set tags zhurnalistika,ukraina
+	set redo 1
+page
+	set url https://ukraina.ru/history/20200531/1027840623.html
+	set tags istoria,ukraina,rossia,hmelnickii_bogdan,pushkin_aleksandr
+page
+	set url http://lug-info.com/news/one/boets-vsu-povredil-glaz-raspilivaya-bolgarkoi-ukradennyi-konteiner-narodnaya-militsiya-64905
+	set tags vsu,ukraina,lnr,nm_lnr
 eof
 off
 page

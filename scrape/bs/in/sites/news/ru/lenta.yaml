@@ -15,14 +15,14 @@ sel:
 PageParser:
   get_author_html:
     sels: 
-      { 
-        'url' : {
+      - { 
+          'url' : {
             'find' : '.b-topic__content__author a',
             'get'  : 'attr',
             'attr' : 'href',
-        },
-        'name' : {
+          },
+          'name' : {
             'find' : '.b-topic__content__author .name',
             'get'  : 'text', 
+          }
         }
-      }

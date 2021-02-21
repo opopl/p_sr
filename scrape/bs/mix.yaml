@@ -16,6 +16,7 @@ include:
     - news.ru.inosmi
     - news.ru.vzgljad
     - news.ru.newsfront
+    #- news.ua.ukraina
     - news.ru.yandex.zen
     #- news.ru.vesti_ru
     #- news.ru.life - DATE

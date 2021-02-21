@@ -4475,7 +4475,30 @@ page
 page
 	set url https://lenta.ru/articles/2021/02/21/latino/
 	set tags latin_amerika,travel
-	set redo 1
+page
+	set url https://lenta.ru/articles/2019/07/13/karpaty/
+	set tags rossia,ukraina,zakarpatie
+page
+	set url https://lenta.ru/articles/2021/02/20/culture_war/
+	set tags kirkorov_filipp,kultura,pribaltika,rossia,zapret
+page
+	set url https://lenta.ru/news/2021/02/21/pozdrav/
+	set tags rossia,den_gondona,prazdnik,kurjez,policia
+page
+	set url https://zaxid.net/iran_zayaviv_pro_zavershennya_rozsliduvannya_aviakatastrofi_litaka_mau_n1514774
+	set tags iran,ukraina,mau,katastrofa,rassledovanie
+page
+	set url https://zaxid.net/inozemtsi_u_lvivski_goteli_ne_investuyut_lishe_rosiyani_n1514695
+	set tags goteli,lvov,rossia,ekonomika
+page
+	set url https://www.radiosvoboda.org/a/politychna-karykatura-satyra/30750868.html
+	set tags karikatura,ukraina
+page
+	set url https://news.obozrevatel.com/society/ukraina-poluchit-vaktsinu-covishield-iz-indii-chto-izvestno-o-preparate-i-ego-effektivnosti.htm
+	set tags covishield,india,ukraina,covid,vaccine
+page
+	set url https://ukraina.ru/exclusive/20210221/1030618446.html
+	set tags maidan2,ukraina
 eof
 off
 page

@@ -17,6 +17,7 @@ sel:
     - .topmenu
     - .topmenubg
     - .top-left
+    - .menu_wrapper
 
 PageParser:
   get_author_html:

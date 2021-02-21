@@ -4424,14 +4424,58 @@ page
 page
 	set url https://www.radiosvoboda.org/a/subotnje-interview-z-oksanoju-zabuzhko/31112062.html
 	set tags zabuzhko_oksana,rossia,ukraina
-	set redo 1
 page
 	set url https://www.radiosvoboda.org/a/lesia-ukrayinka-10-faktiv/31096181.html
 	set tags lesja_ukrainka,kultura,ukraina
 page
 	set url https://strana.ua/news/317959-vaktsina-sovishield-v-ukraine-analoh-astrazeneka-opisanie-hrafik-privivok-na-2021-hod.html
 	set tags ukraina,vaccine,covid,vaccinacia,covishield,india
+page
+	set url https://strana.ua/articles/318553-uproshchenija-dlja-zarobitchan-koho-i-na-kakie-zarplaty-zhdut-v-hermanii-.html
+	set tags ukraina,germania,rabota
+page
+	set url https://strana.ua/news/318910-chto-budet-so-sportmasterom-i-druhimi-popavshimi-pod-sanktsii-kompanijami.html
+	set tags sankcii,ukraina,rnbo,sportmaster
+page
+	set url https://strana.ua/news/318847-polnyj-spisok-sanktsij-protiv-fizicheskikh-i-juridicheskikh-lits-.html
+	set tags sankcii,zelenskii_vladimir,ukraina
+page
+	set url https://strana.ua/news/318840-20-fevralja-vladimir-zelenskij-podpisal-ukaz-o-reshenii-snbo.html
+	set tags sankcii,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/318700-dolja-marchenko-v-11-arestovana-sohlasno-resheniju-snbo.html
+	set tags marchenko_oksana,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/318616-aktsija-protesta-natsionalistov-19-fevralja-prokhodit-pod-ofisom-prezidenta.html
+	set tags nazis,protest,ukraina,kiev,telekanaly,zapret
+page
+	set url https://strana.ua/news/317874-pravoradikaly-ustroili-piket-u-doma-muraeva-s-trebovaniem-zakryt-kanal-nash.html
+	set tags muraev_evgenii,telekanal_nash,kiev,nazis,ukraina
+page
+	set url https://strana.ua/news/318860-portnov-prokommentiroval-sanktsii-protiv-sportmastera-.html
+	set tags portnov_andrei,sportmaster,zelenskii_vladimir,ukraina,marazm
+page
+	set url https://strana.ua/news/318829-posolstvo-ssha-v-ukraine-odobrilo-reshenie-snbo-o-sanktsijakh-protiv-medvedchuka-i-eho-zheny.html
+	set tags usa_embassy,ukraina,sankcii,marchenko_oksana
+page
+	set url https://www.radiosvoboda.org/a/sanktsiyi-medvedchuk-putin-viyna/31113234.html
+	set tags sankcii,ukraina,medvedchuk_viktor,world
+page
+	set url https://www.radiosvoboda.org/a/29823542.html
+	set tags estonia,mova,zahyst,inkvizicia
+page
+	set url https://www.pravda.com.ua/news/2021/02/21/7284214/
+	set tags kiev,ukraina,pozhar,obschezhitie
+page
+	set url https://www.pravda.com.ua/news/2021/02/21/7284216/
+	set tags chornogoria,ukraina,sputnik_v,covid,vaccine,serbia
 	set redo 1
+page
+	set url https://www.eurointegration.com.ua/news/2021/02/12/7119723/
+	set tags sputnik_v,chornogoria,vaccine,covid,rossia
+page
+	set url https://lenta.ru/articles/2021/02/21/latino/
+	set tags latin_amerika,travel
 eof
 off
 page

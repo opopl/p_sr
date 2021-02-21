@@ -55,7 +55,7 @@ sel:
     - 'link'
     - 'script'
     - 'meta'
-    - 'header'
+    #- 'header'
     - 'footer'
     - 'nav'
     - 'noscript'

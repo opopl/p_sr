@@ -4520,7 +4520,6 @@ page
 page
 	set url https://day.kyiv.ua/uk/article/den-ukrayiny/zmenshyty-kut-vidhylennya
 	set tags zhurnalistika,ukraina
-	set redo 1
 page
 	set url https://ukraina.ru/history/20200531/1027840623.html
 	set tags istoria,ukraina,rossia,hmelnickii_bogdan,pushkin_aleksandr
@@ -4535,6 +4534,150 @@ page
 page
 	set url https://strana.ua/news/319020-v-amerikanskikh-shkolakh-khotjat-izmenit-prepodavanie-matematiki-iz-za-rasizma.html
 	set tags matematika,usa,rasizm
+page
+	set url https://strana.ua/news/283205-nasa-izmenit-nazvanija-rasistskikh-kosmicheskikh-obektov.html
+	set tags nasa,rasizm,usa,kosmos
+page
+	set url https://strana.ua/news/319018-k-zemle-22-fevralja-podletjat-tri-asteroida.html
+	set tags kosmos,asteroid,zemlja
+page
+	set url https://www.radiosvoboda.org/a/debal%CA%B9tsevo-6-rokiv/31107761.html?withmediaplayer=1
+	set tags debalcevo,donbass,vojna,ukraina
+page
+	set url https://www.radiosvoboda.org/a/31096031.html?withmediaplayer=1
+	set tags donbass,rossia,ukraina,doneck,molodezh
+page
+	set url https://lenta.ru/articles/2021/02/22/nastya/
+	set tags rossia,usa,sport,ljukin_nastja
+page
+	set url https://lenta.ru/news/2021/02/22/language/
+	set tags mova,skandal,ukrposhta,krivoj_rog,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/02/22/7284169/
+	set tags ekelchik_sergii,ukraina,istoria
+page
+	set url https://www.pravda.com.ua/articles/2021/02/21/7284022/
+	set tags veterany,ato,vojna,psihologia,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/02/3/7282161/
+	set tags zelenskii_vladimir,ukraina,viktor_medvedchuk,kanaly,zapret
+page
+	set url https://112ua.tv/mnenie/marchevskiy-repressiyami-protiv-oppozicii-rezhim-pytaetsya-ottyanut-svoy-konec-568646.html
+	set tags telekanaly,zapret,cenzura,ukraina,zelenskii_vladimir
+page
+	set url https://day.kyiv.ua/uk/news/220221-zvedennya-z-koronavirusu-220221
+	set tags ukraina,covid,statistika
+page
+	set url https://vz.ru/news/2021/2/22/1086311.html
+	set tags krym,voda,ukraina,germania,rossia
+page
+	set url https://vz.ru/society/2021/2/22/1085702.html
+	set tags rkka,vov,sssr,istoria,velosiped
+page
+	set url https://vz.ru/world/2021/2/21/1086140.html
+	set tags leonenko_liza,ukraina,travlja,mova,skandal
+page
+	set url https://vz.ru/opinions/2021/2/20/1086084.html
+	set tags rossia,ukraina,maidan2
+page
+	set url https://strana.ua/news/319036-uruskij-i-kadyrov-popali-na-odno-foto.html
+	set tags kadyrov_ramzan,rossia,ukraina
+page
+	set url https://pravoslavie.ru/137412.html
+	set tags sneg,zima,vera,rossia
+page
+	set url https://news.obozrevatel.com/politics/gozman-rossiya-proigrala-kampaniyu-na-donbasse-a-bajden-ne-sdast-ukrainu-putinu.htm
+	set tags putin_vladimir,ukraina,rossia
+page
+	set url https://news.obozrevatel.com/society/sohranenii-pamyati-o-holokoste-duhovno-bednyie-natsii-ne-mogut-stat-materialno-bogatyimi.htm
+	set tags nacia,holokost,ukraina,istoria
+page
+	set url https://news.obozrevatel.com/society/duhovnyie-zaschitniki-ukrainyi.htm
+	set tags vera,cerkov,vsu,ukraina,rossia
+page
+	set url https://gazeta.ua/articles/life/_ukrposhta-vidreaguvala-na-movnij-skandal-u-krivomu-rozi/1016192
+	set tags ukrposhta,mova,skandal,ukraina,krivoj_rog
+page
+	set url https://gazeta.ua/blog/54643/bidnyakiv-staye-dedali-bilshe-putin-vvodit-prodovolchi-kartki
+	set tags rossia,bednost
+page
+	set url http://lug-info.com/news/one/vsu-primenil-udarnyi-bpla-pri-udare-po-pozitsiyam-narodnoi-militsii-v-raione-kalinovo-stskk-64911
+	set tags vsu,vojna,donbass,lnr,ukraina
+page
+	set url http://lug-info.com/news/one/pervyi-etap-vaktsinatsii-ot-covid-19-v-lnr-proshel-uspeshno-zamglavvracha-64900
+	set tags lnr,vaccinacia,sputnik_v,vaccine,covid
+page
+	set url http://lug-info.com/news/one/obraschenie-predsedatelya-pravitelstva-po-sluchayu-dnya-okonchaniya-debaltsevskoi-operatsii-64252
+	set tags debalcevo,ukraina,lnr,kozlov_sergei,vojna,donbass
+page
+	set url http://lug-info.com/comments/one/literator-galina-berezina-novyi-vzmakh-zamechatelnogo-luganskogo-almanakha-krylya-803
+	set tags lnr,kultura
+page
+	set url http://lug-info.com/news/one/administratsiya-glavy-lnr-i-predstaviteli-regionov-obsudili-vozraschenie-k-ochnomu-obucheniyu-foto-64782
+	set tags lnr,shkola
+page
+	set url http://lug-info.com/comments/one/sekretar-sp-lnr-andrei-chernov-v-luganske-podobnogo-roda-knigi-ne-izdavalis-foto-807
+	set tags lnr,kultura
+page
+	set url http://lug-info.com/news/one/luganskaya-afisha-64851
+	set tags lnr,afisha,lugansk,kultura
+page
+	set url http://lug-info.com/comments/one/muzykant-mitya-kuznetsov-uchastniki-detskoi-skazki-pritchi-preobrazhayut-zhizn-i-mir-nachinaet-menyatsya-781
+	set tags lnr,skazka,savenkova_faina,literatura,kuznecov_mitja
+page
+	set url http://lug-info.com/comments/one/yunyi-dramaturg-faina-savenkova-seichas-soyuz-pisatelei-pokhozh-na-energichnogo-podrostka-756
+	set tags savenkova_faina,kultura,literatura,lnr
+page
+	set url https://www.tatpressa.ru/news/346596.html
+	set tags rossia,kultura,konkurs,poezia,literatura
+page
+	set url http://lug-info.com/news/one/klub-levsha-predstavil-na-vystavke-v-luganske-raboty-bolee-200-masterov-so-vsei-lnr-foto-42790
+	set tags lnr,levsha,konkurs,art
+page
+	set url http://lug-info.com/news/one/klub-levsha-predstavil-v-galeree-luganska-palitru-narodnogo-tvorchestva-foto-33683
+	set tags art,lnr,tvorchestvo,chelovek
+page
+	set url http://lug-info.com/news/one/lgaki-predstavila-novuyu-kontsertnuyu-programmu-iz-glubiny-vekov-zvuchit-napev-foto-64836
+	set tags lgaki,lnr,muzyka,opera,pesnja
+page
+	set url http://lug-info.com/news/one/ansambl-lad-iz-krasnodarskogo-kraya-vystupil-s-kontsertom-dlya-zhitelei-perevalska-42701
+	set tags perevalsk,lnr,muzyka,kultura,pesnja
+page
+	set url https://kiev.strana.ua/319050-v-lavre-nachalsja-sezd-predstavitelej-obshchin-zakhvachennykh-khramov-upts.html
+	set tags vera,ukraina,upc,cerkov,lavra
+page
+	set url https://strana.ua/news/319025-situatsija-v-oos-posle-zajavlenij-danilova-ob-otkrytii-ohnja-budet-li-novaja-vojna.html
+	set tags donbass,vojna,danilov_aleksei,vsu
+page
+	set url https://strana.ua/opinions/319061-neprimirimost-v-obshchestve-prevysila-vse-razumnye-predely-.html
+	set tags ukraina,mnenie,obschestvo,neprimirimost
+page
+	set url https://blogs.pravda.com.ua/authors/fedoriv/60333c8488af3/
+	set tags titushki,sbu,kiev,ukraina,kriminal
+page
+	set url https://blogs.pravda.com.ua/authors/smeshko/603119c569cae/
+	set tags ukraina,sankcii,smeshko_igor,rnbo
+page
+	set url https://blogs.pravda.com.ua/authors/farion/5fc7612da7cd1/
+	set tags ukraina,kultura
+page
+	set url https://blogs.pravda.com.ua/authors/tereshkov/5f8f0dfd9deb9/
+	set tags ukraina,kultura,kniga
+page
+	set url https://blogs.pravda.com.ua/authors/farion/6014260fbb426/
+	set tags ukraina,mova,pravopys
+page
+	set url https://www.vesti.ru/article/2527350
+	set tags ukraina,vaccine,covid,astrazeneka
+page
+	set url https://www.vesti.ru/article/2527111
+	set tags rossia,vaccine,covid,centr_chumakova
+page
+	set url https://vesti.ua/kiev/327347-na-kievshchine-vpervye-predstavjat-istoricheskie-arkhivnye-dokumenty-tarasa-shevchenko
+	set tags shevchenko_taras,istoria,ukraina
+page
+	set url https://vesti.ua/politika/obshhestvennaya-ekspertiza-pochemu-ukraintsy-tak-i-ne-uslyshali-pravdy-o-majdane
+	set tags ukraina,maidan2
 eof
 off
 page

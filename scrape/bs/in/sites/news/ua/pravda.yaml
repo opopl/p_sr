@@ -33,6 +33,14 @@ PageParser:
             'attr' : 'href',
           }
         }
+      - {
+          'name' : {
+            'find'  : '.post_author',
+            'get'   : 'text',
+            'split' : '—',
+          },
+          'url' : {}
+        }
   get_date_html:
     sels:
       - { 

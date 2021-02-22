@@ -4527,6 +4527,14 @@ page
 page
 	set url http://lug-info.com/news/one/boets-vsu-povredil-glaz-raspilivaya-bolgarkoi-ukradennyi-konteiner-narodnaya-militsiya-64905
 	set tags vsu,ukraina,lnr,nm_lnr
+	#setlist acts
+		#fetch
+page
+	set url http://lug-info.com/news/one/ottsepivshayasya-ot-buksira-pushka-vsu-pridavila-trekh-zhitelei-zony-oos-narodnaya-militsiya-64903
+	set tags vsu,lnr,donbass,incident
+page
+	set url https://strana.ua/news/319020-v-amerikanskikh-shkolakh-khotjat-izmenit-prepodavanie-matematiki-iz-za-rasizma.html
+	set tags matematika,usa,rasizm
 eof
 off
 page

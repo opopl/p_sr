@@ -15,6 +15,7 @@
 'newsoneua.tv' : { 'site' : 'news.ua.newsone' }
 'zikua.tv' : { 'site' : 'news.ua.zik' }
 'apostrophe.ua' : { 'site' : 'news.ua.apostrof' }
+'from-ua.com' : { 'site' : 'news.ua.fromua' }
 
 ###ru
 'kulturologia.ru' : { 'site' : 'ru.kulturologia' }

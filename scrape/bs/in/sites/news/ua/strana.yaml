@@ -32,6 +32,15 @@ PageParser:
               'get'  : 'text',
           }
         }
+        # opinions
+      - { 
+          'name' : {
+              'find' : '.opinion-author .name', 
+              'get'  : 'text',
+          },
+          'url' : {}
+        }
+        
   get_date_html:
     sels:
       - { 

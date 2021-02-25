@@ -100,15 +100,17 @@ class PageParser(RootPageParser):
     if util.get(app.page,'date'):
       return self
 
-    m = re.match(r'^[/]*(\w+)/(\d{4})/(\d{2})/(\d{2})/',self.url_path)
+    m = re.match(r'^[/]*(\w+)/(\d{4})/(\d{1,2})/(\d{1,2})/',self.url_path)
     if m:
       category = m.group(1)
       year     = m.group(2)
       month    = m.group(3)
       day      = m.group(4)
 
-      date = '_'.join([day,month,year])
+      date = self._date_dmy(day,month,year)
+
       app.page.set({ 'date' :  date })
+
       return self
 
 #    if len(self.url_parts) > 3:

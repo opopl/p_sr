@@ -18,6 +18,12 @@ sel:
     - .topmenubg
     - .top-left
     - .menu_wrapper
+    # life.pravda
+    - .top-logo-block
+    - .logo-block
+    - .drop-navbar
+    - .net-wrap
+    - .sidebar
 
 PageParser:
   get_author_html:
@@ -38,6 +44,14 @@ PageParser:
             'find'  : '.post_author',
             'get'   : 'text',
             'split' : '—',
+          },
+          'url' : {}
+        }
+      - {
+          'name' : {
+            'find'  : '.autor-name',
+            'get'   : 'text',
+            'split' : '',
           },
           'url' : {}
         }

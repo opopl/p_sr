@@ -30,6 +30,7 @@ include:
     - news.ua.newsone
     - news.ua.apostrof
     - news.ua.112ua
+    - news.ua.fromua
     #- news.anglia.bbc
     - news.ua.radiosvoboda
     - pc.articles.sitepoint

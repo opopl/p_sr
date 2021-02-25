@@ -4857,6 +4857,7 @@ page
 page
 	set url http://maysterni.com/publication.php?id=92626
 	set tags pesnja,prekrasnoje_daleko,perevod,rusmir
+	set date 30_06_2013
 page
 	set url https://112ua.tv/mnenie/pobeda-absurda--nam-prodali-vakcinu-sozdannuyu-dlya-otstalyh-stran-568672.html
 	set tags vaccine,covid,sputnik_v,ukraina
@@ -5163,6 +5164,222 @@ page
 page
 	set url https://zikua.tv/blogs/zabutyi_shpyhun_zavdiaky_iakomu_srsr_vyhrav_druhu_svitovu_viinu_997357
 	set tags zorge_richard,spy,sssr,istoria,vov,germania
+page
+	set url https://www.radiosvoboda.org/a/vyrok-sternenku-za-shcho-aktyvista-zasudyly-do-7-rokiv-vyaznytsi/31120077.html
+	set tags sternenko_sergei,ukraina,odessa,sud
+page
+	set url https://www.radiosvoboda.org/a/lesia-ukrainka-150-rokiv-nevidomi-fakty/31120122.html
+	set tags lesja_ukrainka,istoria,ukraina,kultura
+page
+	set url https://strana.ua/news/319676-v-ukraine-zablokirovano-246-sajtov.html
+	set tags ukraina,cenzura,vlast,internet
+page
+	set url https://strana.ua/news/319576-telegram-kanaly-lehitimnyj-spletnitsa-rezident-i-kartel-zablokirovali-v-ukraine.html
+	set tags sbu,telegram,cenzura,ukraina
+page
+	set url https://strana.ua/news/319560-zhurnalistu-dudkinu-soobshchili-o-podozrenii-v-hosizmene.html
+	set tags sbu,ukraina,gosizmena
+page
+	set url https://strana.ua/news/319562-sovishield-indijskaja-vaktsina-kak-v-ukraine-nachalas-vaktsinatsija-pochemu-privivku-ne-sdelal-zelenskij.html
+	set tags ukraina,covishield,covid,vaccine,vaccinacia
+page
+	set url https://strana.ua/news/319574-zakonoproekty-sluh-naroda-o-kollaborantakh-v-chem-ikh-sut.html
+	set tags ukraina,repressii,zakon
+page
+	set url https://strana.ua/articles/analysis/319173-zachem-v-radu-vnesen-proekt-zakona-o-zaprete-relihioznykh-orhanizatsij.html
+	set tags upc,cerkov,ukraina,zapret
+page
+	set url https://112ua.tv/mnenie/rossiyskaya-vakcina-okazalas-dostupnee-dlya-evropeycev-569028.html
+	set tags vaccine,covid,sputnik_v,rossia,es
+page
+	set url https://smotrim.ru/article/2527987?utm_source=vesti_left
+	set tags medvedchuk_viktor,opzzh,ukraina,sankcii
+page
+	set url https://vz.ru/opinions/2021/2/23/1086094.html
+	set tags rusmir,rossia,cennosti,buduschee
+page
+	set url https://vz.ru/news/2021/2/25/1086760.html
+	set tags aksenov_sergei,krym,ukraina
+page
+	set url https://112ua.tv/glavnye-novosti/gde-i-kak-v-mire-prohodit-vakcinaciya-ot-koronavirusa-karta-563800.html
+	set tags covid,vaccinacia,world,statistika
+page
+	set url http://lug-info.com/news/one/boitsy-vsu-otkazavshis-oplatit-banket-v-drake-ubili-zhitelya-lisichanska-narodnaya-militsiya-64993
+	set tags lnr,donbass,vsu,kriminal,smert
+page
+	set url http://lug-info.com/news/one/narodnaya-militsiya-perekhvatila-udarnyi-bespilotnik-vsu-sledovavshii-v-raion-kalinovo-foto-64915
+	set tags nm_lnr,bpla,vojna,donbass,vsu
+page
+	set url http://lug-info.com/news/one/proekt-volonter-peredal-produktovye-nabory-sverdlovskim-medikam-64995
+	set tags lnr,volontery,mir_luganschine
+page
+	set url https://strana.ua/news/319668-kovishild-i-rost-statistiki-po-koronavirusu-v-ukraine-kak-oni-svjazany.html
+	set tags covishield,covid,vaccine,vaccinacia,ukraina
+page
+	set url https://ukraina.ru/opinion/20210225/1030659131.html
+	set tags galicia,lvov,ukraina
+page
+	set url https://from-ua.com/articles/575455-tak-kto-zhe-vsyo-taki-sdal-krim.html
+	set tags ukraina,krym,rossia
+page
+	set url https://strana.ua/news/319700-deputaty-podderzhivajushchie-sternenko-predlozhili-iskljuchit-sebja-iz-fraktsii-sluha-naroda.html
+	set tags ukraina,verhovna_rada,sternenko_sergei
+page
+	set url https://strana.ua/news/319424-serhej-kostenko-prihovor-sternenko-polnostju-obosnovan.html
+	set tags sternenko_sergei,prokuratura,sud,ukraina
+page
+	set url https://strana.ua/news/319359-na-mitinh-za-sternenko-v-kieve-nabirajut-massovku-za-250-hriven.html
+	set tags sternenko_sergei,sud,ukraina,protest
+page
+	set url https://strana.ua/news/319342-v-fejsbuke-pojavilos-meroprijatie-aktsii-protesta-storonnikov-sternenko.html
+	set tags ukraina,sternenko_sergei,sud,protest
+page
+	set url https://strana.ua/news/319318-hlava-filiala-fonda-vozrozhdenie-otreahiroval-na-prihovor-sternenko-i-zahovoril-o-sanktsijakh.html
+	set tags rnbo,sternenko_sergei,ukraina,sud
+page
+	set url https://buzina.org/golos-naroda/3920-ukrainka150.html
+	set tags lesja_ukrainka,kultura
+page
+	set url https://buzina.org/golos-naroda/3919-belenyuk.html
+	set tags belenjuk_zhan,mova,skandal,ukraina
+page
+	set url https://strana.ua/news/319727-v-shkole-krivoho-roha-vspykhnul-skandal-iz-za-sbora-deneh-na-den-rozhdenija-uchitelju.html
+	set tags shkola,deti,life,ukraina
+page
+	set url https://strana.ua/news/319685-blokirovka-sajtov-i-telehram-kanalov-v-ukraine-polnyj-spisok-i-prichiny.html
+	set tags ukraina,cenzura,internet,sbu
+page
+	set url https://strana.ua/news/319717-vo-lvovskom-horsovete-sozdali-deputatskij-khor.html
+	set tags muzyka,hor,ukraina,lvov,miskrada
+page
+	set url https://strana.ua/news/229680-khoru-verevki-mstjat-za-pesnju-o-pozhare-v-dome-hontarevoj.html
+	set tags ukraina,hor_verevki,travlja,presledovanie,rossia,druzhba
+page
+	set url https://strana.ua/news/319625-v-moskve-umerla-20-letnjaja-pisatelnitsa-rodom-iz-ukrainy-adelina-sheldon.html
+	set tags sheldon_adelina,ukraina,smert,rossia,moskva
+page
+	set url https://strana.ua/news/228980-v-khore-verevki-pozhalovalis-na-uhrozy-i-rasskazali-pochemu-ne-otkazali-kvartalu-95.html
+	set tags gontareva_valeria,ukraina,hor_verevki
+page
+	set url https://strana.ua/news/319731-v-ukraine-zablokirujut-sajt-dlja-razrabotchikov-github.html
+	set tags cenzura,sbu,internet,github,ukraina
+page
+	set url https://news.obozrevatel.com/society/vaktsine-iz-indii-mozhno-doveryat-vrach-iz-izrailya.htm
+	set tags ukraina,vaccinacia,covishield,india,astrazeneka
+page
+	set url https://lenta.ru/news/2021/02/25/sput/
+	set tags sputnik_v,vaccine,covid,rossia
+page
+	set url https://ukraina.ru/opinion/20210225/1030670675.html
+	set tags lesja_ukrainka,ukraina,istoria,literatura,kultura
+page
+	set url https://ukraina.ru/exclusive/20210225/1030667138.html
+	set tags ukraina,cenzura,internet
+page
+	set url https://ukraina.ru/exclusive/20210225/1030660708.html
+	set tags ukraina,kollaborant,verhovna_rada,sluga_naroda
+page
+	set url https://ukraina.ru/exclusive/20210225/1030661393.html
+	set tags nackorpus,sternenko_sergei,ukraina,sud
+page
+	set url https://ukraina.ru/news/20210225/1030666188.html
+	set tags sternenko_sergei,ukraina,usa,suprun_uljana
+page
+	set url https://strana.ua/news/319746-v-ukraine-zablokirujut-426-sajtov-reshenie-suda.html
+	set tags internet,ukraina,cenzura
+page
+	set url https://strana.ua/news/319736-blokirovka-sajtov-v-ukraine-isk-v-sud-podal-fizlitso-aleksandr-pan.html
+	set tags ukraina,internet,cenzura
+page
+	set url https://strana.ua/news/319683-vinnitskij-novostnoj-sajt-20-minut-reshili-zablokirovat.html
+	set tags ukraina,internet,cenzura
+page
+	set url https://strana.ua/news/319697-v-armenii-armija-trebuet-otstavki-premera-pashinjana-chto-eto-znachit.html
+	set tags armenia,rossia,pashinjan_nikol,perevorot
+page
+	set url https://news.obozrevatel.com/economics/analytics-and-forecasts/ukraintsa-obvinili-v-moshennichestve-400-sajtov-on-podal-v-sud-i-vse-ih-zakryili-kto-takoj-aleksandr-pan.htm
+	set tags ukraina,cenzura,internet,pan_aleksandr
+page
+	set url https://news.obozrevatel.com/politics/kryim-eto-nadgrobnyij-kamen-na-mogile-rossii.htm
+	set tags portnikov_vitalii,krym,ukraina,rossia
+page
+	set url https://plus.obozrevatel.com/crime/osuzhdenie-sternenko-poterpevshij-scherbich-rasskazal-o-napadenii-pohischenii-i-pyitkah-v-2015-godu-video.htm
+	set tags sternenko_sergei,ukraina,sud
+page
+	set url https://www.radiosvoboda.org/a/29790030.html
+	set tags kurbas_les,ukraina,istoria,sandarmoh,nkvd,kultura,teatr
+page
+	set url https://www.radiosvoboda.org/a/29582023.html
+	set tags sandarmoh,ukraina,kultura,nkvd,istoria
+page
+	set url https://www.radiosvoboda.org/a/24477308.html
+	set tags sandarmoh,ukraina,istoria,nkvd
+page
+	set url https://www.radiosvoboda.org/a/rozkurkulennya-buryakiv-bakazyukiv-chorniiv-hlopitskyh/31109325.html
+	set tags istoria,sssr,kollektivizacia,stalin_jozef
+page
+	set url https://strana.ua/news/319763-delo-o-blokirovke-426-sajtov-v-ukraine-zakryto.html
+	set tags ukraina,cenzura,internet
+page
+	set url https://strana.ua/articles/analysis/319735-chto-ne-tak-s-indijskoj-vaktsinoj-covishield-kotoroj-nachali-massovo-privivat-medikov-.html
+	set tags ukraina,covishield,vaccine,covid,vaccinacia
+page
+	set url https://112ua.tv/mnenie/kuzmin-po-logike-zelenskogo-poluchaetsya-esli-ty-hvalish-vlast-to-ty--zhurnalist-i-molodec-esli-zhe-kritikuesh-to-ty--propagandist-i-predatel-rodiny-569083.html
+	set tags ukraina,telekanaly,cenzura,zapret
+page
+	set url https://112ua.tv/glavnye-novosti/den-pirshestva-i-veselya-v-pamyat-o-chudesnom-spasenii-iudei-vsego-mira-otmechayut-purim-568926.html
+	set tags izrail,prazdnik,purim,evrei
+page
+	set url https://112ua.tv/politika/shufrich-vystupil-na-zasedanii-pa-obse-i-ukazal-na-nezakonnye-deystviya-vlasti-v-otnoshenii-treh-telekanalov-i-liderov-oppozicii-569094.html
+	set tags shufrich_nestor,ukraina,obse,cenzura,sankcii,presledovanie,oppozicia
+page
+	set url https://112ua.tv/mnenie/kogda-nachnetsya-vyhod-ukrainy-iz-krizisa-569088.html
+	set tags ukraina,ekonomika
+page
+	set url https://from-ua.com/news/588999-reznikov-nazval-vakcinacii-v-krimu-i-ordlo-voennim-prestupleniem.html
+	set tags reznikov_aleksei,sputnik_v,rossia,ukraina,donbass,vaccine,vaccinacia,absurd
+page
+	set url https://www.radiosvoboda.org/a/news-nash-telekanal-perevirky/31121839.html
+	set tags ukraina,telekanal_nash,absurd,cenzura
+page
+	set url https://kiev.strana.ua/319782-video-v-kievskom-ofise-oppoplatformy-na-shota-rustaveli-obyski-i-aresty.html
+	set tags opzzh,ukraina,policia,kiev
+page
+	set url https://gazeta.ua/articles/history/_mi-dorosli-do-sevchenka-i-franka-teper-mayemo-dorosti-do-lesi-ukrayinki/1016978
+	set tags ukraina,lesja_ukrainka,kultura
+page
+	set url https://gazeta.ua/blog/54673/u-zakonoproyektah-pro-kolaborantiv-nema-golovnogo-zaboroni-golosuvati
+	set tags rusmir,ukraina,mnenie
+page
+	set url https://gazeta.ua/blog/54660/virok-sternenku-ce-sproba-vtyagnuti-ukrayinu-nazad-v-sovok
+	set tags sternenko_sergei,ukraina,sud
+page
+	set url https://gazeta.ua/blog/54664/nacionalnij-sorom-derzhava-ne-mozhe-priborkati-kilkoh-padlyuk
+	set tags ukraina,politika,oask
+page
+	set url https://gazeta.ua/blog/54662/virok-sternenku-ne-prosto-politichna-zakazuha-a-specoperaciya-voroga
+	set tags sternenko_sergei,ukraina
+page
+	set url https://gazeta.ua/blog/54671/rosiya-kotitsya-vniz-glibina-zanepadu-mozhe-viperediti-najsmilivishi-prognozi
+	set tags rossia,ukraina,mnenie
+page
+	set url https://gazeta.ua/blog/54667/sudova-gilka-vladi-ce-agenturna-merezha-kremlya-vlada-maye-dati-yij-po-zubah
+	set tags rossia,kreml,ukraina,sternenko_sergei
+page
+	set url https://zikua.tv/news/ludyna/u_frankivsku_likarnia_perestala_pryimaty_khvorykh_na_sovid_cherez_vidsutnist_lizhok_997613
+	set tags covid,ukraina,ivano_frankovsk
+page
+	set url https://zikua.tv/blogs/tsyfrova_matrytsia_zemli_nova_naukova_revoliutsiia_997596
+	set tags matrica,zemlja,nauka
+page
+	set url https://zikua.tv/news/world/na_ostrovi_borneo_zanovo_vidkryly_unikalnoho_ptakha_vin_khovavsia_vid_liudei_170_rokiv_997610
+	set tags indonesia,priroda,ptah,foto
+page
+	set url https://zikua.tv/article/kriz_pryzmu_stolit_krym_vid_ai_petri_do_henuezkoi_fortetsi_997443
+	set tags krym,ukraina,foto,travel
+page
+	set url https://lenta.ru/news/2021/02/25/drezinushka/
+	set tags rossia,diplomatia,drezina,kndr
 eof
 off
 page

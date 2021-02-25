@@ -17,6 +17,9 @@
 'apostrophe.ua' : { 'site' : 'news.ua.apostrof' }
 'from-ua.com' : { 'site' : 'news.ua.fromua' }
 
+###poezia
+'maysterni.com' : { 'site' : 'poezia.ua.maysterni' }
+
 ###ru
 'kulturologia.ru' : { 'site' : 'ru.kulturologia' }
 

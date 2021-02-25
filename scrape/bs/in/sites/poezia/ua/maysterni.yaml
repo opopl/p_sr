@@ -1,13 +1,6 @@
 
 sel:
-  only:
-    - article
   clean:
-    - 'style'
-    - 'script'
-    - 'meta'
-    - 'header'
-    - 'footer'
 
 PageParser:
   get_date:
@@ -26,12 +19,12 @@ PageParser:
     sels:
       - { 
           'url' : {
-              'find' : 'a.name', 
+              'find' : '', 
               'get'  : 'attr',
               'attr' : 'href' 
           },
           'name' : {
-              'find' : 'a.name',
+              'find' : '',
               'get'  : 'text',
           }
         }

@@ -16,7 +16,7 @@ include:
     - news.ru.inosmi
     #- news.ru.vzgljad
     - news.ru.newsfront
-    #- news.ru.ukraina
+    - news.ru.ukraina
     - news.ru.yandex.zen
     #- news.ru.vesti_ru
     #- news.ru.life - DATE
@@ -31,6 +31,7 @@ include:
     - news.ua.apostrof
     - news.ua.112ua
     - news.ua.fromua
+    - news.ua.gazeta
     #- news.anglia.bbc
     - news.ua.radiosvoboda
     - pc.articles.sitepoint
@@ -40,3 +41,4 @@ include:
     #- vera.ru.pravoslavie
     - ludi.ua.buzina
     - ru.kulturologia
+    - poezia.ua.maysterni

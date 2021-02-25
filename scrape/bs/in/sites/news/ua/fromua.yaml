@@ -23,7 +23,7 @@ PageParser:
               'get' : 'attr',
               'attr' : 'href' 
           },
-          'str' : {
+          'name' : {
               'find' : '.b-topic__content__author .name',
               'get' : 'attr',
               'attr' : 'href' 

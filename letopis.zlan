@@ -5380,6 +5380,9 @@ page
 page
 	set url https://lenta.ru/news/2021/02/25/drezinushka/
 	set tags rossia,diplomatia,drezina,kndr
+page
+	set url https://lenta.ru/news/2021/02/25/kazahstanec/
+	set tags maldivy,okean,chelovek,world
 eof
 off
 page

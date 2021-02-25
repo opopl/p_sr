@@ -9,9 +9,9 @@ PageParser:
   get_date_html:
     sels:
       - { 
-          'find'  : '',
+          'find'  : '.published',
           'get'   : 'attr',
-          'attr'  : '',
+          'attr'  : 'content',
           'split' : ' ',
         }
   get_author:

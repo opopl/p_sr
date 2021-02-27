@@ -5767,6 +5767,30 @@ page
 page
 	set url https://pikabu.ru/story/1362_god_kak_kiev_perestal_byit_russkim_6354888
 	set tags kiev,rusmir,1362,vkl,istoria,rossia,ukraina
+page
+	set url https://ukrainenews.fakty.ua/368214-vrazheskij-snajper-ubil-bojca-vsu-na-donbasse
+	set tags ukraina,donbass,vojna,vsu,smert,sushko_aleksandr
+page
+	set url https://ukrainenews.fakty.ua/369560-sternenko-obratilsya-k-zelenskomu
+	set tags sternenko_sergei,zelenskii_vladimir,ukraina,sizo,sud
+page
+	set url https://politics.fakty.ua/369674-kostinskij-nazval-poslednim-shagom-primenenie-telefonnogo-prava-dlya-otklyucheniya-pervogo-nezavisimogo---smi
+	set tags ukraina,cenzura,telekanaly
+page
+	set url https://strana.ua/news/320091-reportery-bez-hranits-osudili-sanktsii-protiv-zik-newsone-112.html
+	set tags ukraina,cenzura
+page
+	set url https://strana.ua/news/320142-roskosmos-obnarodoval-snimki-smerchej-na-marse-.html
+	set tags mars,foto,kosmos
+page
+	set url https://strana.ua/news/317355-kitajskij-zond-prislal-video-s-orbity-marsa-.html
+	set tags kitaj,zond,mars,kosmos,foto
+page
+	set url https://www.radiosvoboda.org/a/putin-stalin-dzerzhynsky-kdb-fsb/31124789.html
+	set tags ukraina,rossia,stalin_jozef,pamjatnik,dzerzhinskii_feliks
+page
+	set url https://life.pravda.com.ua/culture/2021/02/27/244060/
+	set tags life,ukraina
 eof
 off
 page

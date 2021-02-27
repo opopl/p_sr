@@ -16,6 +16,7 @@
 'zikua.tv' : { 'site' : 'news.ua.zik' }
 'apostrophe.ua' : { 'site' : 'news.ua.apostrof' }
 'from-ua.com' : { 'site' : 'news.ua.fromua' }
+'sprotyv.info' : { 'site' : 'news.ua.sprotyv' }
 
 ###poezia
 'maysterni.com' : { 'site' : 'poezia.ua.maysterni' }
@@ -43,6 +44,7 @@
 'vesti.ru' : { 'site' : 'news.ru.vesti_ru' }
 'zen.yandex.ru' : { 'site' : 'news.ru.yandex.zen' }
 'inosmi.ru' : { 'site' : 'news.ru.inosmi' }
+'kp.ru' : { 'site' : 'news.ru.kp' }
 
 ###pc
 

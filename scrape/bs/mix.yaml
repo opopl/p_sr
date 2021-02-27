@@ -18,6 +18,7 @@ include:
     - news.ru.newsfront
     - news.ru.ukraina
     - news.ru.yandex.zen
+    - news.ru.kp
     #- news.ru.vesti_ru
     #- news.ru.life - DATE
     - news.ua.oboz
@@ -32,6 +33,7 @@ include:
     - news.ua.112ua
     - news.ua.fromua
     - news.ua.gazeta
+    #- news.ua.sprotyv
     #- news.anglia.bbc
     - news.ua.radiosvoboda
     - pc.articles.sitepoint

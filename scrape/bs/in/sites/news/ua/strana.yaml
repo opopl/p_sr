@@ -23,13 +23,13 @@ PageParser:
     sels:
       - { 
           'url' : {
-              'find' : 'span.author-article a', 
-              'get'  : 'attr',
-              'attr' : 'href',
+              'find'   : 'span.author-article a',
+              'get'    : 'attr',
+              'attr'   : 'href',
           },
           'name' : {
-              'find' : 'span.author-article a',
-              'get'  : 'text',
+              'find'   : 'span.author-article a',
+              'get'    : 'text',
           }
         }
         # opinions

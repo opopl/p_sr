@@ -5699,6 +5699,74 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210224/1030647882.html
 	set tags rossia,mysli,metanoja
+page
+	set url https://kiev.strana.ua/320120-natspolitsija-rasskazala-kak-proshel-mitinh-storonnikov-sternenko-na-bankovoj.html
+	set tags sternenko_sergei,policia,ukraina,kiev
+page
+	set url https://kiev.strana.ua/319401-storonniki-sternenko-sobirajut-na-bankovoj-protest-v-subbotu-27-fevralja-2021-hoda.html
+	set tags policia,ukraina,sternenko_sergei
+page
+	set url https://gazeta.ua/articles/politics/_sprava-sternenka-pid-ofisom-prezidenta-zibralas-gromadskist/1017336
+	set tags sternenko_sergei,ukraina,kiev,protest
+page
+	set url https://gazeta.ua/articles/politics/_mudilo-balo-zavali-bereza-vidpoviv-dobkinu/1017207
+	set tags dobkin_mihail,bereza_borislav,ukraina,kiev
+page
+	set url https://gazeta.ua/blog/54679/doki-zelenskij-polyuye-na-vidom-rosiya-gotuyetsya-do-nastupu
+	set tags sternenko_sergei,ukraina,sud
+page
+	set url https://day.kyiv.ua/uk/photo/spravedlyvist-sternenku-spravedlyvist-usim
+	set tags sternenko_sergei,kiev,ukraina,protest
+	set fail img
+	set fail_desc got only thumbnails, need to get images
+page
+	set url https://day.kyiv.ua/uk/news/270221-viyskovi-ssha-razom-iz-lvivyanamy-vshanuvaly-pamyat-zagyblyh-ukrayinskyh-geroyiv
+	set tags ukraina,geroi,vojna,pamjat
+page
+	set url https://lenta.ru/photo/2021/02/27/tuva/#3
+	set tags rossia,tuva,travel,foto
+page
+	set url https://www.pravda.com.ua/articles/2021/02/27/7284885/
+	set tags krym,ukraina,life,rossia
+page
+	set url https://strana.ua/news/320119-v-pompejakh-nashli-kolesnitsu-dlja-torzhestvennykh-tseremonij.html
+	set tags pompei,italia,arheologia
+page
+	set url https://plus.obozrevatel.com/kiyany/crime/po-kievu-prokatilas-volna-napadenij-na-muzhchin-gde-oruduyut-prestupniki-i-kak-uberechsya.htm
+	set tags kiev,ukraina,kriminal
+page
+	set url https://news.obozrevatel.com/society/na-luganschine-nachali-vaktsinatsiyu-voennyih-ot-koronavirusa.htm
+	set tags ukraina,covid,vaccinacia,lugansk_oblast
+page
+	set url https://www.pravda.com.ua/news/2021/02/27/7284968/
+	set tags nemcov_boris,pamjat,rossia
+page
+	set url https://zaxid.net/chomu_zelenskiy_ne_kotigoroshko_n1515049
+	set tags kotygoroshko,zelenskii_vladimir,ukraina
+page
+	set url https://zaxid.net/bumerang_degumanizatsiyi_n1498115
+	set tags ukraina,chelovek,mysli,humanizm
+page
+	set url https://zaxid.net/velike_mavpuvannya_n1500006
+	set tags ukraina,mysli,mentalitet,nacia
+page
+	set url https://zaxid.net/efekt_klikush_n1499205
+	set tags ukraina,klikusha,mysli,nacia
+page
+	set url https://zaxid.net/zahidniki_i_slovyanofili_ta_uryad_denisa_shmigalya_n1498739
+	set tags ukraina,rossia,mentalitet,nacia,slavjanofil,zapadnik
+page
+	set url https://vz.ru/video/2021/2/27/1087132.html
+	set tags ukraina,serdce,zelenskii_vladimir
+page
+	set url https://ukrainenews.fakty.ua/369527-sasha-kak-budto-chuvstvoval-chto-ne-vernetsya-domoj-i-poprosil-zhenu-pohoronit-ego-ryadom-s-otcom
+	set tags glushko_aleksandr,ukraina,vojna,smert,pamjat
+page
+	set url https://zaxid.net/ukrayina_mizh_travm_natsizmom_ta_komunizmom_n1498573
+	set tags ukraina,nazizm,kommunizm,nacia
+page
+	set url https://pikabu.ru/story/1362_god_kak_kiev_perestal_byit_russkim_6354888
+	set tags kiev,rusmir,1362,vkl,istoria,rossia,ukraina
 eof
 off
 page

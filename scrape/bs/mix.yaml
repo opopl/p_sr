@@ -19,6 +19,7 @@ include:
     - news.ru.ukraina
     - news.ru.yandex.zen
     - news.ru.kp
+    - news.ru.pikabu
     #- news.ru.vesti_ru
     #- news.ru.life - DATE
     - news.ua.oboz

@@ -6074,6 +6074,54 @@ page
 page
 	set url https://gazeta.ua/blog/51114/budyake-givno-traplyayetsya-z-nami-todi-koli-prokidayetsya-vnutrishnij-zombi
 	set tags ukraina,rossia,vanga,predskazanie,future,givno,zombi
+page
+	set url https://gazeta.ua/blog/50828/rosiya-storichchyami-poterpaye-vid-nezlichennih-ukrayinskih-troyanciv
+	set tags prokopovych_feofan,ukraina,rossia,imperia
+page
+	set url https://gazeta.ua/blog/51021/proukrayinskij-rosiyanin-zvuchit-use-absurdnishe-j-nemozhlivishe
+	set tags ukraina,rossia,bratstvo
+page
+	set url https://gazeta.ua/blog/50760/ak-vidrizniti-nashih-vid-rosiyan-yakscho-nashi-ne-u-vishivankah
+	set tags ukraina,rossia,mova,jazyk,ispania
+page
+	set url https://gazeta.ua/blog/51069/zlochinci-obrostali-ryasami-borodami-i-pochinali-viriti-u-vlasnu-svyatist
+	set tags ukraina,rossia,pochaev,cerkov,vera
+page
+	set url https://gazeta.ua/blog/50690/svini-pravlyat-svitom-uzhe-40-rokiv
+	set tags ukraina,svynja,world
+page
+	set url https://gazeta.ua/blog/50594/comu-ukrayinci-masovo-nischat-sami-sebe
+	set tags ukraina,egipet,nacia
+page
+	set url https://gazeta.ua/blog/50529/mokre-dilo-scho-moskva-maye-na-trampa
+	set tags ukraina,rossia,trump_donald
+page
+	set url https://gazeta.ua/blog/50251/rosijska-kinoindustriya-ta-nezalezhnist-ukrayini-kudi-vse-ruhayetsya
+	set tags ukraina,rossia,zaxid,kino
+page
+	set url https://gazeta.ua/blog/50069/stihi
+	set tags rossia,poezia,plagiat
+page
+	set url https://gazeta.ua/blog/49995/slyahi-povidomlennya
+	set tags ukraina,mova,jazyk,rossia
+page
+	set url https://gazeta.ua/blog/52380/zavmirayemo-v-ochikuvanni-nakolotyh-apelsin-drugogo-pokolinnya
+	set tags bogdan_andrei,ukraina,mysli
+page
+	set url https://gazeta.ua/blog/52140/viriti-u-chervoni-liniyi-neaktualno-ih-rishuche-likviduvav-ukrayinskij-viborec
+	set tags ukraina,politika,chervoni_linii
+page
+	set url https://www.radiosvoboda.org/a/kulinarni-tradytsii-ukrainskyh-rodyn/31124093.html
+	set tags ukraina,kulinaria,kuhnja,eda
+page
+	set url https://news.novgorod.ru/photo/view/2020-12/ny-snow/
+	set tags novgorod,rossia,pogoda,sneg,zima,foto
+page
+	set url http://lug-info.com/news/one/nedelya-glazami-eksperta-stoyaschii-avtobus-v-schaste-byudzhetnyi-general-i-organ-demokratizatsii-65101
+	set tags lnr,donbass
+page
+	set url https://dnepr.strana.ua/320200-strelba-v-dnepre-paru-khotela-rasstreljat-tolpa-ljudej.html
+	set tags ukraina,dnepropetrovsk,strelba,kriminal,semja
 eof
 off
 page

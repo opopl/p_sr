@@ -46,6 +46,7 @@
 'inosmi.ru' : { 'site' : 'news.ru.inosmi' }
 'kp.ru' : { 'site' : 'news.ru.kp' }
 'pikabu.ru' : { 'site' : 'news.ru.pikabu' }
+'news.allcrimea.net' : { 'site' : 'news.ru.allcrimea_net' }
 
 ###pc
 

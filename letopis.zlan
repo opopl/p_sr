@@ -1,4 +1,3 @@
-off
 page 
 	set url https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
 	set ii sternenko_mova_odessa
@@ -3026,7 +3025,6 @@ page
 page
 	set url https://life.pravda.com.ua/columns/2020/01/20/239622/
 	set tags lnr,lugansk,life
-on
 page
 	set url https://strana.ua/news/317721-foto-raznotsvetnoho-kratera-diametrom-12-kilometrov-na-marse.html
 	set tags roskosmos,mars,foto
@@ -4122,11 +4120,9 @@ page
 page
 	set url https://kulturologia.ru/blogs/110915/26223/
 	set tags rossia,istoria,groznyy_ivan,kazn,rusmir
-off
 page
 	set url https://kulturologia.ru/blogs/190221/49073/
 	set tags vov,deti,podvig,sssr,istoria
-on
 page
 	set url https://strana.ua/news/318648-pod-dneprom-pokonchila-s-soboj-studentka-turisticheskoho-kolledzha.html
 	set tags ukraina,dnepropetrovsk,suicid
@@ -5791,6 +5787,159 @@ page
 page
 	set url https://life.pravda.com.ua/culture/2021/02/27/244060/
 	set tags life,ukraina
+page
+	set url https://news.allcrimea.net/news/2021/2/27/v-krymu-krepnut-antipravitelstvennye-nastroeniya-143399/
+	set tags krym,rossia
+page
+	set url https://news.allcrimea.net/news/2021/2/27/ukraina-reshila-postavit-tochku-u-ryadom-s-krymom-143401/
+	set tags krym,ukraina,rossia,vsu
+page
+	set url http://lug-info.com/news/one/ukrainskie-miny-s-iyulya-unesli-zhizni-50-voennosluzhaschikh-otg-vsu-sever-narodnaya-militsiya-65095
+	set tags nm_lnr,lnr,vojna,donbass,vsu,smert
+page
+	set url https://strana.ua/news/320146-kharakteristika-osuzhdennoho-sternenko-ot-eho-shkolnoj-uchitelnitsy-.html
+	set tags sternenko_sergei,ukraina,shkola,uchitel
+page
+	set url https://gazeta.ua/articles/politics/_zelenskij-najchastishe-spilkuyetsya-iz-ssa-infografika/1017368
+	set tags zelenskii_vladimir,ukraina,statistika
+page
+	set url https://gazeta.ua/blog/54674/doki-materi-zmusheni-vizvolyati-z-vorozhogo-polonu-ditej-samotuzhki-dobre-ne-bude
+	set tags kniga,ukraina,donbass,vojna
+page
+	set url https://gazeta.ua/articles/yermolenko/_lesya/1017232
+	set tags lesja_ukrainka,rossia,ukraina,kultura,literatura
+page
+	set url https://racurs.ua/b192-semen-gluzman-moy-nekrasov.html
+	set tags nekrasov_viktor,ukraina,vospominanija
+page
+	set url https://inosmi.ru/social/20201110/248498877.html
+	set tags rossia,ukraina,borsch
+page
+	set url https://www.istpravda.com.ua/articles/2020/11/3/158395/
+	set tags borsch,ukraina,rossia
+page
+	set url https://inosmi.ru/social/20201108/248483102.html
+	set tags borsch,ukraina,rossia
+page
+	set url https://inosmi.ru/social/20201015/248324705.html
+	set tags borsch,ukraina,rossia
+page
+	set url https://inosmi.ru/social/20210115/248915546.html
+	set tags ukraina,rossia,koljadka,pesnja,krazha
+page
+	set url https://df.news/2021/01/13/pysmennyk-rosiiany-iedynyj-slov-ianskyj-narod-iakyj-ne-maie-svoikh-koliad/
+	set tags koljadka,rossia,pesnja
+page
+	set url https://pearative.ru/stati/tradiczii-kolyadovaniya-na-rusi/
+	set tags koljadka,rossia,obychaj
+page
+	set url https://bigenc.ru/ethnology/text/2621567
+	set tags koljadka,rossia,istoria
+page
+	set url https://zen.yandex.ru/media/history_world/drevnii-obriad-koliadovaniia-na-rusi-5b066f3d9e29a23982b27462
+	set tags koljadka,rusmir,rossia,ukraina
+page
+	set url https://inosmi.ru/social/20210101/248704940.html
+	set tags ukraina,rossia,borsch
+page
+	set url https://strana.ua/news/320163-v-ssha-devochka-bloher-ubila-svoju-sestru-invalida-.html
+	set tags usa,kriminal,tiktok,semja
+page
+	set url https://strana.ua/news/318788-ukraintsy-sobirajut-podpisi-za-zapret-tiktok.html
+	set tags suicide,ukraina,tiktok
+page
+	set url http://lug-info.com/news/one/lutuginskaya-tsentralnaya-bolnitsa-vvela-v-ekspluatatsiyu-novoe-oborudovanie-glavvrach-65102
+	set tags lnr,bolnica,medicina
+page
+	set url https://blogs.pravda.com.ua/authors/haran/60393e4002830/
+	set tags sternenko_sergei,ukraina,protest
+page
+	set url https://blogs.pravda.com.ua/authors/haran/5fe6580182689/
+	set tags rozhdestvo,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/farion/603801c83ee2c/
+	set tags ukraina,lesja_ukrainka,mova
+page
+	set url https://blogs.pravda.com.ua/authors/farion/5f521a5f01a42/
+	set tags mova,jazyk,farion_iryna
+page
+	set url https://nv.ua/opinion/sternenko-prigovor-chto-prigovor-suda-odessy-oznachaet-dlya-ukraincev-novosti-ukrainy-50144237.html
+	set tags sternenko_sergei,ukraina,sud
+page
+	set url https://news.obozrevatel.com/economics/fea/v-ukraine-rasprostranyayut-falshivyie-dengi-gde-podsovyivayut-i-kak-ne-popastsya.htm
+	set tags ukraina,dengi,falshivka
+page
+	set url https://strana.ua/news/320148-vzryv-v-bolnitse-chernovtsov-kakovy-versii-trahedii-.html
+	set tags ukraina,pozhar,chernivci,bolnica
+page
+	set url https://112ua.tv/mir/prezident-chehii-zeman-poprosil-rf-nachat-postavki-vakciny-sputnik-v-569342.html
+	set tags zeman_milosh,chehia,sputnik_v,rossia,vaccine,covid,putin_vladimir
+page
+	set url https://nv.ua/opinion/pro-kitay-kak-ponyat-kitaycev-i-k-chemu-oni-stremyatsya-poslednie-novosti-50144281.html
+	set tags kitaj,mnenie,analiz
+page
+	set url https://www.pravda.com.ua/news/2021/02/28/7285005/
+	set tags krym,voda,rossia,vodohranilische
+page
+	set url https://www.pravda.com.ua/articles/2021/02/28/7284894/
+	set tags krym,rossia,ukraina,ludi
+page
+	set url https://www.radiosvoboda.org/a/promizhni-vybory-u-verhovnu-radu-hto-zmagayetsya-za-mandat/31117689.html
+	set tags vybory,ukraina
+page
+	set url https://www.radiosvoboda.org/a/30744736.html
+	set tags ukraina,kultura,film
+page
+	set url https://112ua.tv/obshchestvo/ukraina-poluchila-vozmozhnost-proizvodstva-sputnik-v-na-svoey-territorii-eshhe-v-proshlom-godu-568447.html
+	set tags ukraina,vaccinacia,vaccine,covid,sputnik_v,rossia
+page
+	set url https://lenta.ru/articles/2021/02/28/sundown/
+	set tags usa,negro,racizm
+page
+	set url https://lenta.ru/news/2021/02/27/nazalno/
+	set tags covid,vaccine,rossia,sputnik_v
+page
+	set url https://news.allcrimea.net/news/2021/2/28/napolnitsya-li-kogdanibud-simferopolskoe-vodohranilishe-143398/
+	set tags krym,rossia,voda,vodohranilische
+page
+	set url https://news.allcrimea.net/news/2021/2/28/v-krymu-nachinaetsya-tainoe-razvertyvanie-opresnitelnyh-ustanovok-143400/
+	set tags krym,rossia,voda
+page
+	set url https://gazeta.ua/blog/54682/mentovskij-byespryedyel-spilna-bida-zdatna-obyednati-ukrayinciv
+	set tags sternenko_sergei,mnenie,ukraina,zlo
+page
+	set url https://gazeta.ua/blog/54066/putin-medvechuk-i-toj-hto-vtyav-golovu-vchitelevi-za-ne-ti-kartinki-odnakove-zlo
+	set tags zlo,putin_vladimir,medvedchuk_viktor,ukraina
+page
+	set url https://gazeta.ua/blog/54013/rosijska-vakcina-politichnij-instrument-istoriya-yiyi-stvorennya-mutna
+	set tags ukraina,rossia,vaccine,covid,sputnik_v
+page
+	set url https://gazeta.ua/blog/53885/patonivschina-zrujnuvala-nauku-v-mertvi-mihi-nema-sensu-vlivati-koshti
+	set tags ukraina,paton_boris,akademia_nauk
+page
+	set url https://gazeta.ua/blog/53304/2-travnya-2014go-v-odesi-zdohla-nenarodzhenoyu-putinska-novorosiya
+	set tags ukraina,tragedia,odessa,02.05.2014,mysli,novorossia
+page
+	set url https://gazeta.ua/blog/52992/krim-osos-sprobuyut-napoyiti-i-nazavzhdi-viddati-rosiyi
+	set tags rossia,krym,voda,ukraina
+page
+	set url https://gazeta.ua/blog/52684/2020j-bude-virishalnim-mi-abo-voni-ukrayina-chi-malorosiya
+	set tags ukraina,malorossia,vojna,2020,mysli
+page
+	set url https://gazeta.ua/blog/52532/ti-hto-vizhili-fizichno-stali-mertvimi-mentalno
+	set tags ukraina,nacia,holodomor
+page
+	set url https://gazeta.ua/blog/52364/den-imunitetu-naciyi
+	set tags ukraina,nacia
+page
+	set url https://gazeta.ua/blog/52192/rosiya-pochala-najmasshtabnishu-pislya-russkoj-vesny-specoperaciyu-proti-ukrayini
+	set tags ukraina,nacia,rossia
+page
+	set url https://gazeta.ua/blog/51957/referendum-pro-dvomovnist-donbasu--gibridna-kapitulyaciya-pered-moskvoyu
+	set tags ukraina,vojna,mova,jazyk
+page
+	set url https://gazeta.ua/blog/51992/nova-moskovska-norma-shalenimi-tempami-prosuvayetsya-po-vsih-napryamkah
+	set tags ukraina,portnov_andrei,moskva,rossia,norma
 eof
 off
 page

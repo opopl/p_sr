@@ -1,3 +1,4 @@
+off
 page 
 	set url https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
 	set ii sternenko_mova_odessa
@@ -5940,6 +5941,139 @@ page
 page
 	set url https://gazeta.ua/blog/51992/nova-moskovska-norma-shalenimi-tempami-prosuvayetsya-po-vsih-napryamkah
 	set tags ukraina,portnov_andrei,moskva,rossia,norma
+on
+page
+	set url https://news.allcrimea.net/news/2021/2/27/poklonskaya-ishet-kontakt-s-ukrainskimi-politikami-143394/
+	set tags poklonskaja_natalia,krym,rossia,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/farion/57da7aa6157da/
+	set tags mova,jazyk,lvov,sadovyj_andrii
+page
+	set url https://gazeta.ua/blog/51838/nam-proponuyut-probachiti-rosiyi-vsi-zlochini
+	set tags rossia,ukraina,mysli
+page
+	set url https://gazeta.ua/blog/51483/moskovske-carstvo-gotove-zadushiti-u-bratnih-obijmah-hohliv
+	set tags ukraina,rossia,hohly,moskva,bratstvo
+page
+	set url https://vz.ru/opinions/2021/2/26/1086942.html
+	set tags sssr,istoria,gorshkov,admiral
+page
+	set url https://gazeta.ua/blog/51342/ukrayinci-distali-pasivnu-hohlyacku-biomasu
+	set tags ukraina,hohly,mysli,nacia
+page
+	set url https://gazeta.ua/blog/51313/vstavaj-bandera-nasha-vijna-trivaye
+	set tags ukraina,mnenie,vojna,maidan2
+page
+	set url https://gazeta.ua/blog/51253/sud-uhvaliv-scho-mi-prirecheni-zhivotiti-i-zdohnuti-v-sovku
+	set tags suprun_uljana,ukraina,medicina
+page
+	set url https://gazeta.ua/blog/51190/ostatochna-peremoga-bude-bo-lyudi-trimayutsya-za-ruki-z-oboh-beregiv-dnipra
+	set tags ukraina,pobeda,dnipro
+page
+	set url https://gazeta.ua/blog/50878/ak-zaslana-amerikanka-rujnuye-nashu-prekrasnu-medicinu
+	set tags ukraina,suprun_uljana,medicina,sssr
+page
+	set url https://gazeta.ua/blog/50662/pidnimemo-nash-prapor-nad-ruyinami-kremlya
+	set tags rossia,kreml,ukraina,prapor
+page
+	set url https://gazeta.ua/blog/50454/ckuvannya-romiv-vijna-za-pravo-bezkarno-zagrizati-slabshogo
+	set tags ukraina,romy
+page
+	set url https://gazeta.ua/blog/49932/2018j-maye-stati-rokom-spilnoyi-peremogi-patriotiv
+	set tags ukraina,nacia,patriotizm
+page
+	set url https://gazeta.ua/blog/49891/comu-revolyuciya-bula-nedaremna
+	set tags ukraina,maidan2,revolucia
+page
+	set url https://gazeta.ua/blog/49818/dva-zakoni-pro-okupaciyu-yak-znajti-kompromis
+	set tags okupacia,ukraina,zakon,verhovna_rada
+page
+	set url https://gazeta.ua/blog/49774/pecherni-lyudi-proti-majbutnogo
+	set tags novorossia,ukraina
+page
+	set url https://gazeta.ua/blog/49627/a-mayu-mriyu-abo-ukrayina-ilona-maska
+	set tags ukraina,mechta,mask_ilon
+page
+	set url https://gazeta.ua/blog/49631/nezruchni-notatki-serditogo-patriota
+	set tags ukraina,patriotizm
+page
+	set url https://gazeta.ua/blog/49417/dobrobati-z-chestyu-pishli-v-istoriyu
+	set tags dobrobaty,ukraina,istoria,2014,vojna
+page
+	set url https://gazeta.ua/blog/49210/den-zahisnika-ukrayini-chiye-svyato
+	set tags ukraina,zaschitnik,hohly
+page
+	set url https://gazeta.ua/blog/49122/siritka-savchenko-abo-ukrayinci-v-pershomu-pokolinni
+	set tags ukraina,maidan2,antimaidan
+page
+	set url https://gazeta.ua/blog/53469/mayemo-stribnuti-na-batut-maska-inakshe-zastryanemo-u-staromu-lifti-z-rosiyanami
+	set tags batut,mask_ilon,ukraina,rossia
+page
+	set url https://gazeta.ua/blog/53526/na-amerikanskij-majdan-mi-divimosya-kriz-kremlivski-okulyari-pora-yih-znyati
+	set tags ukraina,maidan_usa,usa,kreml
+page
+	set url https://gazeta.ua/blog/53838/vbivci-stusa-vpevneni-u-svoyij-bezkarnosti-ce-nash-virok-i-ganba
+	set tags stus_vasyl,ukraina
+page
+	set url https://gazeta.ua/blog/54541/geroyi-krut-ishli-na-smert-zahischayuchi-majbutnye-tih-hto-yih-lyuto-nenavidiv
+	set tags kruty,geroi,ukraina,istoria
+page
+	set url https://gazeta.ua/blog/54231/dav-zhe-bog-movu-kozhnomu-pravilu-superechit-yakes-inshe-pravilo
+	set tags mova,bog,ukraina,analiz
+page
+	set url https://gazeta.ua/blog/54107/u-dupi-nasha-bezpeka-j-oborona-yakscho-sekretar-rnbo-danilov-a-ne-danilov
+	set tags danilov_aleksei,ukraina,mova,jazyk
+page
+	set url https://gazeta.ua/blog/53935/babushki-sterezhut-minule-molod-nablizhaye-majbutnye-sansi-na-peremogu-rivni
+	set tags ukraina,istoria,petr_pervyj,poltava
+page
+	set url https://gazeta.ua/blog/53900/razom-iz-kovidnoyu-poshestyu-ukrayina-perezhivaye-totalne-vzayemne-obduryuvannya
+	set tags ukraina,durni,mysli
+page
+	set url https://gazeta.ua/blog/53610/pogane-volodinnya-anglijskoyu-vilazit-nam-bokom-krayinu-zasmoktuye-u-russkij-mir
+	set tags ukraina,english,rusmir
+page
+	set url https://gazeta.ua/blog/53401/moskva-vinesla-smertnij-virok-nobelivskomu-laureatu
+	set tags kamu_alber,ukraina,rossia,smert,nobel_prize
+page
+	set url https://gazeta.ua/blog/53237/u-vsyakoyi-krayini-ye-spisok-togo-scho-varto-perestati-v-ukrayinciv-jomu-kincya-ne-vidno
+	set tags ukraina,kitaj,virus,nacia
+page
+	set url https://gazeta.ua/blog/52581/lukashenko-zlivaye-reshtki-biloruskoyi-nezalezhnosti-do-spilnogo-mordora
+	set tags ukraina,belarus,rossia,mordor
+page
+	set url https://gazeta.ua/blog/52293/tak-bagato-svobodi-yak-oce-nini-v-ukrayinciv-sche-ne-krali-a-yim-ce-chomus-u-kajf
+	set tags shevchenko_taras,ukraina,rabstvo
+page
+	set url https://gazeta.ua/blog/52059/so-dlya-shodu-ukrayini-progres-te-dlya-zahodu-degradaciya
+	set tags ukraina,zaxid,sxid
+page
+	set url https://gazeta.ua/blog/51976/ukrayina-vvijshla-u-nedobru-fazu-potriben-detonator
+	set tags ukraina,rossia,detonator,vubyh
+page
+	set url https://gazeta.ua/blog/51801/byusya-ob-zaklad-scho-anukovicha-nam-triumfalno-povernut
+	set tags ukraina,janukovych,triumf
+page
+	set url https://gazeta.ua/blog/51668/prozrinnya-neminuche-navit-pri-masovomu-zasliplenni
+	set tags hristos,ukraina,analiz
+page
+	set url https://gazeta.ua/blog/51626/kilim-na-stini-olivye-na-stoli-yuvilej-pugachovoyi-vichni-cinnosti-znovu-tut
+	set tags cennosti,pugacheva_alla,ukraina,olivje_salat
+page
+	set url https://gazeta.ua/blog/51335/donbas-vsyudi-navit-ne-poruch-iz-nami-a-v-nas
+	set tags donbass,ukraina
+page
+	set url https://gazeta.ua/blog/51370/nashi-vibori-kompensuyut-rosiyanam-emocijnij-nedobir-u-vlasnih
+	set tags rossia,ukraina,vybory,emocii
+page
+	set url https://gazeta.ua/blog/51174/ukrayincyam-potriben-spravnij-chinovnik-a-ne-matirbereginya-chi-otecgoduvalnik
+	set tags ukraina,cennosti,chinovnik
+page
+	set url https://gazeta.ua/blog/51148/taksisti-vikonuyut-misiyu-z-prinizhennya-kiyeva-nevzhe-moskva-donini-yih-derzhit
+	set tags ukraina,kiev,moskva,taksi
+page
+	set url https://gazeta.ua/blog/51114/budyake-givno-traplyayetsya-z-nami-todi-koli-prokidayetsya-vnutrishnij-zombi
+	set tags ukraina,rossia,vanga,predskazanie,future,givno,zombi
 eof
 off
 page

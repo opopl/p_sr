@@ -6464,9 +6464,6 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5e839be75f081e20a965b976/pochemu-rus-nazvali-gardarikoi-i-pochemu-eto-vajno-dlia-nas-601828898414c340c643efb4
 	set tags rossia,rusmir,istoria,gardarika
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://strana.ua/news/320432-poroshenko-v-rade-obruhal-vaktsinu-kovishild-kotoroj-privivajut-ukraintsev.html
 	set tags ukraina,govno,vaccine,covid,vaccinacia
@@ -6515,6 +6512,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5e839be75f081e20a965b976/byla-li-kievskaia-rus-602dc3263ad6ee787c6212eb
 	set tags ukraina,rossia,rusmir,kievrus,kiev
+page
+	set url https://zen.yandex.ru/media/kotofei/rossiia-belorussiia-ukraina-chto-znachat-nazvaniia-etih-stran-60002c359bebf134004cdf01
+	set tags ukraina,rossia,belarus,istoria
 eof
 off
 page

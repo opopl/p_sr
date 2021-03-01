@@ -6515,6 +6515,15 @@ page
 page
 	set url https://zen.yandex.ru/media/kotofei/rossiia-belorussiia-ukraina-chto-znachat-nazvaniia-etih-stran-60002c359bebf134004cdf01
 	set tags ukraina,rossia,belarus,istoria
+page
+	set url https://www.radiosvoboda.org/a/upc-mp-moskovsky-patriarkhat-viyna/31124061.html
+	set tags ukraina,rossia,upc,vera,cerkov
+page
+	set url https://zaxid.net/korol_danilo_i_divchinka_mem_n1515149
+	set tags ukraina,deep_nostalgia
+page
+	set url https://zaxid.net/lyudska_karta_n1497889
+	set tags ukraina,karta,ludi
 eof
 off
 page

@@ -11,18 +11,24 @@ include:
     - pc.docs.python
     - pc.docs.mozilla
     - com.us.apple
+###lnr
     - news.lnr.lug_info
-    - news.ru.lenta
-    - news.ru.inosmi
-    #- news.ru.vzgljad
-    - news.ru.newsfront
-    - news.ru.ukraina
-    - news.ru.yandex.zen
-    - news.ru.kp
-    - news.ru.pikabu
+###news_ru
     - news.ru.allcrimea_net
-    #- news.ru.vesti_ru
-    #- news.ru.life - DATE
+    - news.ru.inosmi
+    - news.ru.kp
+    - news.ru.lenta
+    - news.ru.life 
+    - news.ru.newsfront
+    - news.ru.pikabu
+    - news.ru.smotrim
+    - news.ru.ukraina
+    - news.ru.vesti_ru
+    - news.ru.vzgljad
+    - news.ru.yandex.zen
+###ru
+    - ru.kulturologia
+###news_ua
     - news.ua.oboz
     - news.ua.pravda
     - news.ua.strana
@@ -44,5 +50,4 @@ include:
     #- pc.cairosvg
     #- vera.ru.pravoslavie
     - ludi.ua.buzina
-    - ru.kulturologia
     - poezia.ua.maysterni

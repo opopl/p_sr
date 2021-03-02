@@ -47,6 +47,7 @@
 'kp.ru' : { 'site' : 'news.ru.kp' }
 'pikabu.ru' : { 'site' : 'news.ru.pikabu' }
 'news.allcrimea.net' : { 'site' : 'news.ru.allcrimea_net' }
+'smotrim.ru' : { 'site' : 'news.ru.smotrim' }
 
 ###pc
 

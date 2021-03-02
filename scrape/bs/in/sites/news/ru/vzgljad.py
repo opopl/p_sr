@@ -26,7 +26,7 @@ class PageParser(RootPageParser):
     path  = self.url_path
 
     if len(parts) > 3:
-      if parts[0] in util.qw('news opinions politics world'):
+      if parts[0] in util.qw('society news opinions politics world'):
         year  = parts[1]
         month = parts[2]
         day   = parts[3]

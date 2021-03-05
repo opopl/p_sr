@@ -7483,6 +7483,12 @@ page
 page
 	set url https://112ua.tv/obshchestvo/ya-mog-umeret-rebenkom-aleksandr-usik-rasskazal-oksane-marchenko-kak-prishel-k-vere-569982.html
 	set tags usik_aleksandr,marchenko_oksana,interview,ukraina,vera,cerkov,lavra,kiev
+page
+	set url https://zikua.tv/article/de_shukaty_ukrainsku_atlantydu_top_mists_kudy_varto_poikhaty_na_khmelnychchyni_998036
+	set tags ukraina,turizm,atlantida
+	set redo 1
+	setlist acts
+		db_update
 eof
 off
 page

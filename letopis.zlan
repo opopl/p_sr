@@ -7486,6 +7486,18 @@ page
 page
 	set url https://zikua.tv/article/de_shukaty_ukrainsku_atlantydu_top_mists_kudy_varto_poikhaty_na_khmelnychchyni_998036
 	set tags ukraina,turizm,atlantida
+page
+	set url https://zikua.tv/blogs/yevropa_robyt_stavku_na_rosiisku_vaktsynu_v_borotbi_z_koronavirusom_998141
+	set tags covid,vaccine,evropa,sputnik_v,rossia
+page
+	set url http://lug-info.com/news/one/luganskie-artisty-prazdnichnym-kontsertom-pozdravili-zhitelnits-goroda-s-8-marta-65334
+	set tags lnr,society,8_marta,prazdnik,pozdravlenie
+page
+	set url http://lug-info.com/comments/one/poetessa-svetlana-senichkina-neobkhodimost-osmyslit-proiskhodyaschee-porodila-nebyvalyi-tvorcheskii-vsplesk-773
+	set tags poezia,lnr,world_day_of_poetry
+page
+	set url https://kulturologia.ru/blogs/040321/49192/
+	set tags shumer,istoria,izobretenie
 eof
 off
 page

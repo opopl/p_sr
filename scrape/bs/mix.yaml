@@ -41,6 +41,7 @@ include:
     - news.ua.112ua
     - news.ua.fromua
     - news.ua.gazeta
+    - news.ua.gordon
     #- news.ua.sprotyv
     #- news.anglia.bbc
     - news.ua.radiosvoboda
@@ -48,6 +49,6 @@ include:
     - pc.articles.pavlutin
     #- pc.cairographics 
     #- pc.cairosvg
-    #- vera.ru.pravoslavie
+    - vera.ru.pravoslavie
     - ludi.ua.buzina
     - poezia.ua.maysterni

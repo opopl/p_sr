@@ -4,7 +4,7 @@
 'strana.ua' : { 'site' : 'news.ua.strana' } 
 'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
 'obozrevatel.com' : { 'site' : 'news.ua.oboz' }
-'www.radiosvoboda.org' : { 'site' : 'news.ua.radiosvoboda' }
+'www.radiosvoboda.org,ru.krymr.com' : { 'site' : 'news.ua.radiosvoboda' }
 'pravda.com.ua,eurointegration.com.ua' : { 'site' : 'news.ua.pravda' }
 'lb.ua' : { 'site' : 'news.ua.lb' }
 'imi.org.ua' : { 'site' : 'news.ua.imi' }
@@ -17,6 +17,8 @@
 'apostrophe.ua' : { 'site' : 'news.ua.apostrof' }
 'from-ua.com' : { 'site' : 'news.ua.fromua' }
 'sprotyv.info' : { 'site' : 'news.ua.sprotyv' }
+'048.ua' : { 'site' : 'news.ua.048' }
+'gordonua.com' : { 'site' : 'news.ua.gordon' }
 
 ###poezia
 'maysterni.com' : { 'site' : 'poezia.ua.maysterni' }

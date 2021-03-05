@@ -1,5 +1,7 @@
 
 sel:
+  only:
+    - section.main
   clean:
     - 'div.main-right-column'
     - 'div.main-header-news'
@@ -17,6 +19,8 @@ sel:
     - 'div.newsfeed'
     - div.tags.breadcrumbs
     - .sunsite_actions
+    # /opinions
+    - article.opinion-top
 
 PageParser:
   get_author_html:

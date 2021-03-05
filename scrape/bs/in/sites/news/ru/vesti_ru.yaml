@@ -1,6 +1,8 @@
 
 sel:
   clean:
+  only:
+    - article
 
 PageParser:
   get_date:

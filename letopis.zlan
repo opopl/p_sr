@@ -7519,6 +7519,57 @@ page
 page
 	set url https://lenta.ru/news/2021/03/03/dnrmvd/?utm_source=RCM-F6FE&from=RCM-F6FE
 	set tags dnr,vojna,snaiper,smert,mvd_dnr
+page
+	set url https://strana.ua/news/321209-vo-lvove-natsionalisty-izbili-muzykantov-i-ikh-apparaturu-za-pesni-na-russkom-jazyke.html
+	set tags lvov,muzykant,izbienie,mova,jazyk,ukraina,skandal
+page
+	set url https://112ua.tv/obshchestvo/ukrainskie-uchenye-pervymi-v-mire-nauchilis-prognozirovat-covid-oslozhneniya-po-analizu-krovi-569932.html
+	set tags ukraina,covid,medicina,institut_bogomolca_nanu
+page
+	set url https://www.pravda.com.ua/news/2021/03/5/7285680/
+	set tags sputnik_v,italia,covid,vaccine,rim,rossia
+page
+	set url https://ru.krymr.com/a/news-krym-sevastopol-gastroli-rossijskih-akterov/31136097.html
+	set tags krym,rossia,sevastopol,kultura
+page
+	set url https://news.obozrevatel.com/society/ona-byila-angelom-podrobnosti-gibeli-shkolnitsyi-v-sele-na-zakarpate.htm
+	set tags ukraina,zakarpatje,smert,suicide,podrostok
+page
+	set url https://news.obozrevatel.com/russia/dobro-pozhalovat-v-37-j-obnovlennaya-putinskaya-versiya.htm
+	set tags rusmir,rossia,stalin_jozef,1937,mysli
+page
+	set url https://strana.ua/news/321271-youtube-zablokiroval-prjamuju-transljatsiju-kanala-112.html
+	set tags ukraina,youtube,112ua,cenzura
+page
+	set url https://112ua.tv/obshchestvo/youtube-pod-davleniem-bankovoy-zablokiroval-onlayn-translyaciyu-efira-112-ukraina-569999.html
+	set tags ukraina,112ua,cenzura,youtube
+page
+	set url https://www.pravda.com.ua/news/2021/03/5/7285709/
+	set tags sankcii,youtube,112ua,ukraina,cenzura
+page
+	set url https://strana.ua/news/321266-semja-ihorja-kolomojskoho-zhena-irina-deti-hrihorij-i-anzhelika-chto-o-nikh-izvestno-hde-zhivut-foto.html
+	set tags kolomojskii_igor,sankcii,ukraina,usa
+page
+	set url https://strana.ua/articles/analysis/321256-chto-dumajut-deputaty-sluhi-naroda-o-sanktsijakh-protiv-kolomojskoho.html
+	set tags kolomojskii_igor,sankcii,usa,ukraina
+page
+	set url https://strana.ua/opinions/321131-v-hrazhdanskoj-vojne-vsehda-proihryvaet-strana-hde-eto-proiskhodit.html
+	set tags ukraina,mnenie
+page
+	set url https://strana.ua/opinions/321127-delo-protiv-pohrebinskoho-eto-perebor-daleko-za-hranju-absurda.html
+	set tags pogrebinskii_mihail,ukraina,repressii,presledovanie
+page
+	set url https://strana.ua/opinions/321257-nam-ne-polozheno-oskorbljat-belykh-ljudej-svoimi-tekhnicheskimi-dostizhenijami.html
+	set tags ukraina,usa,tehnika,nauka
+page
+	set url https://strana.ua/opinions/319556-ukraina-popala-v-film-sobache-serdtse.html
+	set tags ukraina,bulgakov_mihail,sobachje_serdce
+page
+	set url https://gazeta.ua/articles/health/_covishield-vidriznyayetsya-vid-astrazeneca-tilki-vodoyu/1018005
+	set tags covishield,astrazeneka,vaccine,covid,ukraina,vaccinacia
+	set redo 1
+	setlist acts
+		db_update
 eof
 off
 page

@@ -8,6 +8,10 @@ sel:
     - 'meta'
     - 'header'
     - 'footer'
+    - .socpanel
+    - .telegram
+    - a.tw
+    - a.fb
 
 PageParser:
   get_date:

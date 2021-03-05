@@ -7567,9 +7567,21 @@ page
 page
 	set url https://gazeta.ua/articles/health/_covishield-vidriznyayetsya-vid-astrazeneca-tilki-vodoyu/1018005
 	set tags covishield,astrazeneka,vaccine,covid,ukraina,vaccinacia
-	set redo 1
-	setlist acts
-		db_update
+page
+	set url https://gazeta.ua/blog/54710/kreml-naduvaye-schoki-i-shipit-resursiv-na-podvig-uzhe-nema
+	set tags ukraina,rossia,mnenie,politika
+page
+	set url https://day.kyiv.ua/uk/article/podrobyci/ukrayina-i-problema-falshyvoyi-istorychnoyi-pamyati-5
+	set tags ukraina,istoria,pamjat,zhukov_georgii
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/v-ochikuvanni-vashyngtona
+	set tags ukraina,washington,sputnik_v,rossia
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/zapuskayte-berlagu
+	set tags ukraina,rossia,berlaga
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/bozhe-berezhy-ukrayinu
+	set tags ukraina,evrej,vybory,zelenskii_vladimir,palij_oleksandr
 eof
 off
 page

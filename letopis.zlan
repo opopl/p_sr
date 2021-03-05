@@ -7498,6 +7498,27 @@ page
 page
 	set url https://kulturologia.ru/blogs/040321/49192/
 	set tags shumer,istoria,izobretenie
+page
+	set url https://strana.ua/news/321246-provedenie-festivalja-borshcha-v-den-smerti-stalina-eto-sovpadenie-tkachenko.html
+	set tags borsch,stalin_jozef,ukraina
+page
+	set url https://strana.ua/news/321236-pravitelstvo-italii-poprosili-nachat-proizvodstvo-rossijskoj-vaktsiny.html
+	set tags sputnik_v,italia,rim,rossia,covid,vaccine
+page
+	set url https://www.pravda.com.ua/news/2021/03/5/7285687/
+	set tags telekanaly,zapret,cenzura,ukraina,repressii,rnbo,danilov_aleksei
+page
+	set url https://www.radiosvoboda.org/a/donetsk-ukrainskiy-miting/31135010.html
+	set tags maidan2,2014,ukraina,rossia,doneck
+page
+	set url https://lenta.ru/news/2021/03/05/vtoroy/
+	set tags sputnik_v,rossia,vaccine,covid
+page
+	set url https://lenta.ru/news/2021/03/05/sankts/
+	set tags ukraina,rossia,sankcii
+page
+	set url https://lenta.ru/news/2021/03/03/dnrmvd/?utm_source=RCM-F6FE&from=RCM-F6FE
+	set tags dnr,vojna,snaiper,smert,mvd_dnr
 eof
 off
 page

@@ -1,7 +1,7 @@
 
 sel:
   only:
-     - article
+     #- article
   clean:
      - 'section.b-yellow-box'
      - 'section.b-header'

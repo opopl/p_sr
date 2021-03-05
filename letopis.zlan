@@ -7486,9 +7486,6 @@ page
 page
 	set url https://zikua.tv/article/de_shukaty_ukrainsku_atlantydu_top_mists_kudy_varto_poikhaty_na_khmelnychchyni_998036
 	set tags ukraina,turizm,atlantida
-	set redo 1
-	setlist acts
-		db_update
 eof
 off
 page

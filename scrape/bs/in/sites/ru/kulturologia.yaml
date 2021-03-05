@@ -1,6 +1,8 @@
 
 sel:
   clean:
+    - '#menu-top'
+    - '#menu-main'
 
 PageParser:
   get_date:

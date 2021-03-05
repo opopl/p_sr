@@ -7450,6 +7450,39 @@ page
 page
 	set url https://www.pravda.com.ua/news/2021/03/1/7285159/
 	set tags rossia,vaccine,covid,socopros,sputnik_v
+page
+	set url https://strana.ua/news/321180-v-ivano-frankovskoj-oblasti-otrezali-holovu-na-pamjatnike-tarasu-shevchenko-.html
+	set tags shevchenko_taras,ivano_frankovsk,vandalizm,ukraina,pamjatnik
+page
+	set url https://strana.ua/news/232682-v-odesse-natsionalisty-vojujut-s-ocherednoj-memorialnoj-doskoj-zhukova.html
+	set tags zhukov_georgii,vandalizm,ukraina,odessa
+page
+	set url https://strana.ua/opinions/321172-vaktsinatsija-v-efire-demonstratsija-otchajanija-vlasti-kotoroj-ne-verjat-ljudi.html
+	set tags lukash_elena,ukraina,vaccinacia
+page
+	set url https://from-ua.com/articles/589996-ukraina-gibridnaya-strana-v-gibridnom-krizise.html
+	set tags ukraina,nacia,derzhava,strana,gibrid
+page
+	set url https://plus.obozrevatel.com/crime/na-donbasse-ranili-voina-vsu1.htm
+	set tags vojna,ukraina,donbass,ranenie,vsu
+page
+	set url https://kulturologia.ru/blogs/050321/49203/
+	set tags rimimperia,dorogi,istoria,rim
+page
+	set url https://strana.ua/news/321228-posolstvo-ssha-v-kieve-opublikovalo-illjustratsii-k-sanktsijam-protiv-kolomojskoho.html
+	set tags ukraina,kolomojskii_igor,sankcii,us_embassy
+page
+	set url https://112ua.tv/glavnye-novosti/izrail-obyavil-o-pobede-nad-pandemiey-covid-19-kak-im-eto-udalos-569948.html
+	set tags izrail,pandemia,covid,vaccinacia,vaccine
+page
+	set url https://112ua.tv/glavnye-novosti/ukraincev-nedelyu-nazad-nachali-privivat-ot-covid-19-kak-prohodit-immunizaciya-i-na-chto-zhaluyutsya-vakcinirovannye-569745.html
+	set tags ukraina,vaccine,vaccinacia,covid
+page
+	set url https://112ua.tv/glavnye-novosti/perepolnennye-bolnicy-novoe-delenie-na-zony-i-britanskiy-shtamm-ukrainu-nakryla-tretya-volna-koronavirusa-569904.html
+	set tags ukraina,covid,pandemia,bolnica,zabolevshie
+page
+	set url https://112ua.tv/obshchestvo/ya-mog-umeret-rebenkom-aleksandr-usik-rasskazal-oksane-marchenko-kak-prishel-k-vere-569982.html
+	set tags usik_aleksandr,marchenko_oksana,interview,ukraina,vera,cerkov,lavra,kiev
 eof
 off
 page

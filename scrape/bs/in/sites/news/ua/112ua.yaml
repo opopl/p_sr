@@ -7,6 +7,8 @@ sel:
     - .mob-wrapper
     - .mob-nav
     - .site-header
+  only:
+    - article
 
 PageParser:
   get_date:

@@ -7582,6 +7582,101 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/suspilstvo/bozhe-berezhy-ukrayinu
 	set tags ukraina,evrej,vybory,zelenskii_vladimir,palij_oleksandr
+page
+	set url https://strana.ua/news/321173-dvojnoe-hrazhdanstvo-v-ukraine-chto-hotovjat-vlasti.html
+	set tags rossia,ukraina,passport,citizenship,verhovna_rada,zakon
+page
+	set url https://strana.ua/news/321227-sanktsii-protiv-kolomojskoho-chto-oni-oznachajut.html
+	set tags kolomojskii_igor,zelenskii_vladimir,usa,ukraina,sankcii,repressii
+page
+	set url https://strana.ua/news/321327-dtp-v-polshe-stalo-prichinoj-smerti-6-ukraintsev-foto.html
+	set tags ukraina,polsha,katastrofa,avtobus
+page
+	set url https://day.kyiv.ua/uk/article/den-ukrayiny/yak-vyglyadav-yaroslav-mudryy
+	set tags jaroslav_mudryj,kievrus,istoria,ukraina
+page
+	set url https://strana.ua/news/321333-ihor-matovich-slovakija-ne-otkazhetsja-ot-rossijskoj-vaktsiny-sputnik-v.html
+	set tags rossia,slovakia,sputnik_v,vaccine,covid
+page
+	set url https://strana.ua/news/321144-kubinskaja-vaktsina-chto-izvestno-novykh-privivkakh-ot-koronavirusa-s-ostrova-svobody.html
+	set tags kuba,vaccine,covid,medicina
+page
+	set url https://strana.ua/opinions/321325-zelenskij-ne-sdelal-nicheho-chtoby-oslabit-vneshnee-upravlenie.html
+	set tags zelenskii_vladimir,kolomojskii_igor,ukraina,usa,sankcii,repressii
+page
+	set url https://strana.ua/news/321316-v-kievskoj-oblasti-syn-do-smerti-izbil-mat-skalkoj-i-sprjatal-v-vyhrebnoj-jame.html
+	set tags kiev,ukraina,kriminal,syn,mater
+page
+	set url https://vz.ru/world/2021/3/6/1088177.html
+	set tags rossia,slovakia,vaccine,covid,sputnik_v,politika
+page
+	set url https://www.pravda.com.ua/articles/2021/03/6/7285027/
+	set tags ukraina,ludi,smert,mysli,life
+page
+	set url https://www.radiosvoboda.org/a/omelyan-kovch-pravednyk-jevreji-holocaust/31133271.html
+	set tags kovch_omeljan,evrei,golokost,ukraina,mirvojna2,konclager,nazizm
+page
+	set url https://www.radiosvoboda.org/a/pedofiliya-rozbeshchennya-nepovnolitnikh-seksualne-nasylstvo/31131861.html
+	set tags ukraina,lvov,pedofilia,kriminal,sud
+page
+	set url https://www.radiosvoboda.org/a/modest-sosenko-tserkovni-ikony-rozpysy/31125805.html
+	set tags sosenko_modest,mytropolyt_sheptyckii,ukraina,vystavka,lvov
+page
+	set url https://gazeta.ua/articles/travels/_pokinuti-robotu-i-pustitisya-v-trivali-mandri-pid-silu-ne-kozhnomu-yevropejcyu/1017685
+	set tags ukraina,travel,asia,gollandia
+page
+	set url https://zaxid.net/aktivist__tse_ne_robota_n1515394
+	set tags ukraina,robota,aktivist,society
+page
+	set url https://zaxid.net/demoversiya_putina_n1509039
+	set tags ukraina,rossia,ukraina,zelenskii_vladimir,referendum,putin_vladimir
+page
+	set url https://zaxid.net/u__boga_za_dverima_lezhala_sokira_n1503771
+	set tags ukraina,mova,jazyk,zakon
+page
+	set url https://strana.ua/news/318638-kakoho-chisla-maslenitsa-v-2021-hodu.html
+	set tags maslenica,ukraina,prazdnik
+page
+	set url https://lenta.ru/articles/2021/03/06/fulton_speech/
+	set tags rossia,sssr,istoria,fulton_speech,churchill_winston
+	set fail img
+	set fail_desc not all images in clean
+page
+	set url https://vz.ru/world/2021/3/6/1088157.html
+	set tags istoria,sssr,usa,atomic_bomb,shpion,sud,rozenberg_suprugi
+page
+	set url https://vz.ru/opinions/2021/3/6/1088106.html
+	set tags ukraina,rossia,minsk_dogovor,usa,vojna,donbass
+page
+	set url https://vz.ru/news/2021/3/6/1088247.html
+	set tags ukraina,rossia,sovfed,kravchuk_leonid,tkg
+page
+	set url http://lug-info.com/news/one/vsu-razmestili-bronetransportery-vo-dvore-zhilogo-doma-v-schaste-narodnaya-militsiya-65343
+	set tags vsu,bronetransporter,lnr,nm_lnr,vojna,donbass
+page
+	set url https://zikua.tv/news/politics/dianova_prykhid_oksany_marchenko_prynese_v_ukrainsku_polityku_dukhovnist_i_pravdu_998174
+	set tags marchenko_oksana,ukraina,politika,sankcii,medvedchuk_viktor
+page
+	set url https://plus.obozrevatel.com/kiyany/crime/v-kieve-bombyat-magazinyi-obmeniki-i-kvartiryi-gde-ohotyatsya-prestupniki.htm
+	set tags kiev,kriminal,ukraina
+page
+	set url https://news.obozrevatel.com/russia/tiranyi-umirayut-v-odinochestve-i-strahe.htm
+	set tags ukraina,putin_vladimir,stalin_jozef,rossia,analiz
+page
+	set url https://inosmi.ru/politic/20210306/249280827.html
+	set tags rossia,japan,vaccine,covid,sputnik_v
+page
+	set url https://inosmi.ru/social/20210306/249276675.html
+	set tags istoria,sssr,film,recenzia,rusmir,rossia
+page
+	set url https://inosmi.ru/social/20200727/247821698.html
+	set tags rossia,kino,anglia,pandemia
+page
+	set url http://lug-info.com/news/one/pervenstvo-lnr-po-klassicheskomu-silovomu-troeboryu-proshlo-v-luganske-foto-65345
+	set tags lnr,sport,troeborje,sorevnovanie
+page
+	set url http://lug-info.com/news/one/luganskaya-respublikanskaya-federatsiya-boksa-otkryla-otdelenie-etno-sporta-foto-65310
+	set tags lnr,boks,sport,foto
 eof
 off
 page

@@ -1,5 +1,7 @@
 
 sel:
+  only:
+    - article
   clean:
     - .article_choice_pic
     - .club_banner_1

@@ -1,6 +1,7 @@
 
 sel:
   clean:
+    - '.tags__item'
   only:
     - article
 

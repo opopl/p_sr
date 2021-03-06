@@ -25,6 +25,7 @@
 
 ###ru
 'kulturologia.ru' : { 'site' : 'ru.kulturologia' }
+'cyrillitsa.ru' : { 'site' : 'ru.kultura.cyrillitsa' }
 
 ###ludi
 'buzina.org' : { 'site' : 'ludi.ua.buzina' }
@@ -37,19 +38,19 @@
 
 ###ru
 
-'news-front.info' : { 'site' : 'news.ru.newsfront' }
-'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
-'lenta.ru' : { 'site' : 'news.ru.lenta' }
-'life.ru' : { 'site' : 'news.ru.life' }
-'vz.ru' : { 'site' : 'news.ru.vzgljad' }
-'ukraina.ru' : { 'site' : 'news.ru.ukraina' }
-'vesti.ru' : { 'site' : 'news.ru.vesti_ru' }
-'zen.yandex.ru' : { 'site' : 'news.ru.yandex.zen' }
 'inosmi.ru' : { 'site' : 'news.ru.inosmi' }
 'kp.ru' : { 'site' : 'news.ru.kp' }
-'pikabu.ru' : { 'site' : 'news.ru.pikabu' }
+'lenta.ru' : { 'site' : 'news.ru.lenta' }
+'life.ru' : { 'site' : 'news.ru.life' }
+'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
+'news-front.info' : { 'site' : 'news.ru.newsfront' }
 'news.allcrimea.net' : { 'site' : 'news.ru.allcrimea_net' }
+'pikabu.ru' : { 'site' : 'news.ru.pikabu' }
 'smotrim.ru' : { 'site' : 'news.ru.smotrim' }
+'ukraina.ru' : { 'site' : 'news.ru.ukraina' }
+'vesti.ru' : { 'site' : 'news.ru.vesti_ru' }
+'vz.ru' : { 'site' : 'news.ru.vzgljad' }
+'zen.yandex.ru' : { 'site' : 'news.ru.yandex.zen' }
 
 ###pc
 

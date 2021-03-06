@@ -7639,8 +7639,6 @@ page
 page
 	set url https://lenta.ru/articles/2021/03/06/fulton_speech/
 	set tags rossia,sssr,istoria,fulton_speech,churchill_winston
-	set fail img
-	set fail_desc not all images in clean
 page
 	set url https://vz.ru/world/2021/3/6/1088157.html
 	set tags istoria,sssr,usa,atomic_bomb,shpion,sud,rozenberg_suprugi
@@ -7677,6 +7675,156 @@ page
 page
 	set url http://lug-info.com/news/one/luganskaya-respublikanskaya-federatsiya-boksa-otkryla-otdelenie-etno-sporta-foto-65310
 	set tags lnr,boks,sport,foto
+page
+	set url https://lenta.ru/news/2021/03/06/turchinov/
+	set tags ukraina,krym,rossia,turchinov_aleksandr
+page
+	set url https://lenta.ru/articles/2021/03/02/berlinale1/
+	set tags world,kultura,berlin,festival,kino
+page
+	set url https://inosmi.ru/social/20210306/249276060.html
+	set tags rossia,istoria,britania
+page
+	set url https://strana.ua/news/321402-prezident-venesuely-privilsja-rossijskoj-vaktsinoj-sputnik-v.html
+	set tags maduro_nikolas,venezuela,rossia,sputnik_v,vaccine,covid
+page
+	set url https://strana.ua/articles/analysis/321270-kak-ukraina-prisoedinjaetsja-k-zelenomu-kursu-es.html
+	set tags ukraina,es,evropa,kabmin
+page
+	set url https://strana.ua/news/321364-anzhela-eremenko-iz-tsik-popala-v-skandal-s-vibratorom-reaktsija-sotssetej.html
+	set tags ukraina,vibrator,skandal,cik,rabota
+page
+	set url https://vz.ru/opinions/2021/3/5/1088181.html
+	set tags pandemia,world,society,covid
+page
+	set url https://strana.ua/news/321259-mer-arhentinskoho-horoda-roka-peres-hasparini-privilsja-s-portretom-putina-v-rukakh.html
+	set tags covid,vaccine,argentina,putin_vladimir,sputnik_v
+page
+	set url https://plus.obozrevatel.com/crime/sovetnik-glavyi-mvd-myi-gotovyi-vernut-okkupirovannyij-donbass.htm
+	set tags vojna,donbass,ukraina,rossia
+page
+	set url https://112ua.tv/obshchestvo/infekcionist-entoni-fauchi-dannye-kotorye-ya-znayu-o-sputnike-v-dostatochno-horoshie-570089.html
+	set tags fauchi_anthony,sputnik_v,rossia,vaccine,covid,usa
+page
+	set url https://112ua.tv/politika/mezhdunarodnye-smi-pishut-chto-reakciya-nemeckih-diplomatov-na-sankcii-protiv-medvedchuka--eto-demonstraciya-dvoynyh-standartov-570076.html
+	set tags medvedchuk_viktor,ukraina,sankcii,repressii,es,evropa
+page
+	set url https://gazeta.ua/articles/donbas/_na-donbasi-raptovo-pomerla-rozvidnicya-zsu/1018673
+	set tags vsu,ukraina,smert,vojna
+page
+	set url https://blogs.pravda.com.ua/authors/yakhno/604386b6ac881/
+	set tags rossia,ukraina,mnenie
+page
+	set url https://www.pravda.com.ua/articles/2020/10/12/7269382/
+	set tags ukraina,brand,nacia,missia,future
+page
+	set url https://life.pravda.com.ua/health/2020/05/21/241056/
+	set tags ukraina,molecular_biology,interview,tukalo_mihail,covid
+page
+	set url https://www.pravda.com.ua/articles/2020/04/16/7248102/
+	set tags ukraina,ugkc,cerkov,covid,hram,interview,vera
+page
+	set url https://inosmi.ru/social/20201228/248846560.html
+	set tags world,vera,bog,pandemia,covid
+page
+	set url https://inosmi.ru/social/20210221/249154296.html
+	set tags turizm,istoria,sssr,pohody,ideologia
+page
+	set url https://inosmi.ru/military/20210128/249005989.html
+	set tags sssr,avia,world,samolet
+page
+	set url https://www.radiosvoboda.org/a/khortytsya-lafet-arheology-artefakt/31136320.html
+	set tags hortica,muzei,ukraina,zaporozhie,istoria
+page
+	set url https://www.vesti.ru/article/2533022
+	set tags dnr,pushilin_denis,ukraina,vojna,donbass
+page
+	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/kogda-ia-vyuchil-gimn-naizust-vyiasnilos-chto-ia-ne-mogu-ego-pet-bez-slez-sekret-gimna-rossii-ot-britanca-60312448756eeb31f08fd6b1
+	set tags rossia,britanec,hymn,slezy,pesnja
+page
+	set url https://cyrillitsa.ru/pravdali/151282-vossiyaet-velikoe-blagodenstvie-cht.html
+	set tags rossia,paracels,predskazanie,future
+page
+	set url https://cyrillitsa.ru/past/152409-chukhonskie-starcy-kakoe-budushhee-oni.html
+	set tags rossia,predskazanie
+page
+	set url https://cyrillitsa.ru/history/155758-otkuda-plemya-rusov-prishlo-na-rus.html
+	set tags rossia,istoria,rusmir
+page
+	set url https://cyrillitsa.ru/history/155731-luchshe-smert-pochemu-russkie-zhenshhiny-p.html
+	set tags rossia,istoria,mongoly,smert,rusmir
+page
+	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/russkaia-dusha-mif-ili-realnost-malenkaia-zametka-odnogo-britanca-o-russkoi-dushe-603fc72c8f2f5b70bf753b19
+	set tags rossia,britanec,rusdusha,mentalitet,impressions
+page
+	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/skajem-chestno-etot-gimn-muzykalnoe-chudo-kommentarii-inostrancev-i-nemnogo-istorii-5f8d687a4ab7c3765a3e3627
+	set tags rossia,hymn,muzyka,inostrancy,impressions
+page
+	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/v-rossii-ne-ty-poesh-gimn-gimn-zastavliaet-tebia-pet-samye-iarkie-epizody-s-ispolneniem-gimna-i-kommentarii-inostrancev-5fccb6cb8f8c7853ed29c500
+	set tags rossia,hymn,krym,ispolnenie,inostrancy
+page
+	set url https://gazeta.ua/articles/life/_so-vidriznyaye-ukrayinciv-vid-rosiyan-i-yevropejciv/1018533
+	set tags ukraina,rossia,evropa,mentalitet
+page
+	set url https://zen.yandex.ru/media/istoriko/russkie--eto-rtut-i-s-ih-gosudarstvom-nichego-ne-sluchitsia-esce-1000-let-tak-skazal-bismark-603e50d08da63757afb2a868
+	set tags rossia,rusmir,istoria,bismark,future
+page
+	set url https://zen.yandex.ru/media/istoriko/bismark-nikogda-ne-nazyval-rossiiu-opasnoi-ili-glupoi-on-vsegda-schital-ee-nerazrushimoi-5f8298eb109c65627e950498
+	set tags bismark,ukraina,rossia,istoria,nacia
+page
+	set url https://zen.yandex.ru/media/istoriko/rossiia--eto-ne-aziia-a-evropa-privoju-neskolko-samyh-ubeditelnyh-dovodov-5fe651f9dba1eb4af855d0dd
+	set tags rossia,evropa,asia,analiz
+page
+	set url https://zen.yandex.ru/media/istoriko/federalizaciia-ukrainy--eto-edinstvennyi-vyhod-dlia-etoi-prekrasnoi-i-miloi-strany-6035a7572dc579563616fcc8
+	set tags ukraina,federacia,derzhava,nacia,shvejcaria,rabinovich_vadim
+page
+	set url https://zen.yandex.ru/media/istoriko/rossiia-idet-v-otryv-ot-zapadnyh-cennostei-my-sami-pridumaem-sebe-cennosti-bez-vsiakih-ukazok-602826f1241d462d447a1bf0
+	set tags rossia,zapad,derzhava,rasvitie,future
+page
+	set url https://news.obozrevatel.com/russia/kreml-zateyal-ocherednuyu-holodnuyu-vojnu-zachem.htm
+	set tags rossia,zapad,holodnaja_vojna,ukraina
+page
+	set url https://lenta.ru/news/2021/03/06/obbb/
+	set tags rossia,katastrofa,pozhar,reka_ob'
+page
+	set url http://lug-info.com/news/one/volonter-peredal-nastolnye-igry-biblioteke-poselka-sofievskii-foto-65351
+	set tags lnr,mir_luganschine,volonter
+page
+	set url http://lug-info.com/news/one/volonter-s-sentyabrya-peredal-255-nastolnykh-igry-v-prifrontovye-i-otdalennye-raiony-lnr-foto-64324
+	set tags lnr,mir_luganschine,volonter,deti
+page
+	set url http://lug-info.com/news/one/kombrig-vsu-k-8-marta-poruchil-naznachit-v-naryady-voennosluzhaschikh-zhenschin-narodnaya-militsiya-65348
+	set tags nm_lnr,lnr,8_marta,vsu,donbass,vojna
+page
+	set url http://lug-info.com/news/one/boitsy-vsu-izbili-zhitelya-schastya-potrebovavshego-ubrat-btr-so-dvora-narodnaya-militsiya-65346
+	set tags nm_lnr,lnr,vsu,ukraina,donbass,vojna
+page
+	set url http://lug-info.com/news/one/respublika-poluchila-avtomobili-skoroi-pomoschi-dlya-antratsita-i-krasnogo-lucha-foto-65326
+	set tags lnr,avto,ambulance,help
+page
+	set url http://lug-info.com/news/one/vlasti-lnr-priobreli-i-peredali-regionam-respubliki-25-avtomobilei-skoroi-pomoschi-foto-60906
+	set tags lnr,ambulance,avto,help
+page
+	set url https://lenta.ru/news/2021/03/07/pat_rap/
+	set tags rap,muzyka,rossia,krym,festival
+page
+	set url https://strana.ua/articles/interview/321412-muzykant-na-kotoroho-napali-vo-lvove-iz-za-pesni-na-russkom-rasskazal-ob-izbienii-.html
+	set tags ukraina,muzyka,mova,jazyk,skandal,izbienie,lvov
+page
+	set url https://strana.ua/opinions/321392-lvovskim-razzhihateljam-rusofobii-nado-ponimat-takikh-rabov-kak-oni-v-raj-ne-puskajut.html
+	set tags lvov,mova,skandal,izbienie,mnenie,jazyk
+page
+	set url https://strana.ua/opinions/321393-rano-ili-pozdno-ideolohicheskij-totalitarizm-nakryvaetsja-mednym-tazom.html
+	set tags totalitarizm,ukraina,mnenie
+page
+	set url https://strana.ua/news/321435-maksima-stepanova-raskritikovali-v-fejsbuk-za-izobrazhenie-dalaj-lamy.html
+	set tags ukraina,stepanov_maksim,dalai_lama,vaccinacia,vaccine,covishield
+page
+	set url https://www.vesti.ru/article/2533080
+	set tags rossia,sssr,vov,8_marta,podvig,minoborony
+page
+	set url https://smotrim.ru/article/2532537
+	set tags devushka,kursant,uchenija,korabl,rossia
 eof
 off
 page
@@ -7685,4 +7833,4 @@ page
 
 	#set redo 1
 	#setlist acts
-		#db_update
+		db_update

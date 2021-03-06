@@ -1,7 +1,9 @@
 
 sel:
   only:
-     #- article
+     - article
+  keep:
+     - aside
   clean:
      - 'section.b-yellow-box'
      - 'section.b-header'
@@ -10,7 +12,6 @@ sel:
      - 'section.b-topic-addition'
      - 'section.b-longgrid-column'
      - 'a.b-favorite__item'
-     - 'aside'
      - 'a.social-snippet__telegram'
      - .b-socials__comments
 

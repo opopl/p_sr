@@ -28,6 +28,7 @@ include:
     - news.ru.yandex.zen
 ###ru
     - ru.kulturologia
+    - ru.kultura.cyrillitsa
 ###news_ua
     - news.ua.oboz
     - news.ua.pravda

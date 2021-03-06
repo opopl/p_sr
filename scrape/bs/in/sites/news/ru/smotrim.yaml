@@ -1,8 +1,6 @@
 
 sel:
   clean:
-  only:
-    - article
 
 PageParser:
   get_date:
@@ -21,12 +19,12 @@ PageParser:
     sels:
       - { 
           'url' : {
-              'find' : 'a.publisher-controls__channel-name', 
+              'find' : '', 
               'get'  : 'attr',
               'attr' : 'href' 
           },
           'name' : {
-              'find' : 'a.publisher-controls__channel-name',
+              'find' : '.article__authors',
               'get'  : 'text',
           }
         }

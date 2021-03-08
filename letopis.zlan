@@ -8346,12 +8346,15 @@ page
 page
 	set url https://iz.ru/1133241/igor-litvinenko/grustnyi-baloven-sudby-pochemu-my-prodolzhaem-liubit-andreia-mironova
 	set tags mironov_andrej,akter,showbiz,rossia,sssr,ljubov
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://iz.ru/783181/igor-karmazin/kit-protiv-kota-kak-ukrainskaia-mova-rvet-s-russkim-iazykom
 	set tags mova,jazyk,kit,kot,ukraina,pravopys
+page
+	set url https://riakursk.ru/rebyenok-robot-pylesos-i-tyulpany-kuryanki-rasskazali-o-samykh-neobychnykh-i-zhelannykh-podarkakh-k-8-marta/
+	set tags kursk,rossia,8_marta,podarok
+	set redo 1
+	setlist acts
+		db_update
 eof
 off
 page

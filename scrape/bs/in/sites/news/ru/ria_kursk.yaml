@@ -1,10 +1,12 @@
 
 sel:
   clean:
+    - .navbar-brand
+    - .related-posts
   only:
-    #- '.entry-header'
-    #- figure
-    #- article
+    - '.entry-header'
+    - [ 'figure', 0 ]
+    - article
   keep:
 
 PageParser:

@@ -8328,6 +8328,18 @@ page
 page
 	set url https://censor.net/ru/resonance/3241582/paramedik_nka_arstova_dvchata_yak_zaraz_povertayutsya_z_vyini_ne_znayut_u_yak_dver_postukati_schob_otrimati
 	set tags ukraina,vojna,donbass,paramedik,medicina
+page
+	set url https://censor.net/ru/photo_news/3251990/fotoreportaj_k_8_marta_jenschiny_prishli_v_armiyu_ne_dlya_togo_chtoby_byt_ukrasheniem_kollektiva_ili
+	set tags ukraina,8_marta,woman,vsu,rodina
+page
+	set url https://censor.net/ru/news/3251991/zelenskiyi_pozdravil_jenschin_s_8_marta_bez_vas_my_prosto_biologicheskie_suschestva_s_vami_lyudi_i_lichnosti
+	set tags ukraina,8_marta,zelenskii_vladimir,pozdravlenie,prazdnik
+page
+	set url https://censor.net/ru/blogs/3251821/test_dlya_kolaborantv_onlayin_dznayisya_pro_svoyu_tsifru_zavchasno
+	set tags ukraina,kollaborant,krym,rossia,test
+page
+	set url https://censor.net/ru/blogs/3251833/mperya_zakonomrniyi_rezultat_rozvitku_natsonalno_derjavnost
+	set tags ukraina,rossia,imperia,derzhava,nacia,future
 eof
 off
 page

@@ -1,8 +1,10 @@
 
 sel:
   clean:
+    - 'h1 time'
   only:
     - article
+    - .gotocomm
   keep:
 
 PageParser:
@@ -18,6 +20,12 @@ PageParser:
           'attr'  : 'datetime',
           'split' : '',
         }
+      - { 
+          'find'  : 'time[itemprop="datePublished"]',
+          'get'   : 'attr',
+          'attr'  : 'datetime',
+          'split' : '',
+        }
   get_author:
   get_author_html:
     sels:
@@ -29,6 +37,17 @@ PageParser:
           },
           'name' : {
               'find' : '.authors_name a', 
+              'get'  : 'text',
+          }
+        }
+      - { 
+          'url' : {
+              'find' : '.authors_name', 
+              'get'  : 'attr',
+              'attr' : 'href' 
+          },
+          'name' : {
+              'find' : '.authors_name', 
               'get'  : 'text',
           }
         }

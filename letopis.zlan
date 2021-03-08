@@ -8322,6 +8322,12 @@ page
 page
 	set url https://www.radiosvoboda.org/a/video-marsh-zhinok-u-kyyevi/31139980.html
 	set tags kiev,marsh,8_marta,ukraina,feminizm
+page
+	set url https://censor.net/ru/resonance/3250808/antimayidan_tse_t_lyudi_yak_sidli_vdoma_ne_hotli_vihoditi_revolyutsya_gdnost_ochima_shkolyarv
+	set tags ukraina,shkola,deti,maidan2,antimaidan,slovo
+	set redo 1
+	setlist acts
+		db_update
 eof
 off
 page

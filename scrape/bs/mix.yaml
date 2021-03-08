@@ -46,6 +46,7 @@ include:
     - news.ua.fromua
     - news.ua.gazeta
     - news.ua.gordon
+    - news.ua.censor
     #- news.ua.sprotyv
     #- news.anglia.bbc
     - news.ua.radiosvoboda

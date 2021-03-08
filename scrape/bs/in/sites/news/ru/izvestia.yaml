@@ -1,0 +1,37 @@
+
+sel:
+  clean:
+  only:
+    - article
+  keep:
+
+PageParser:
+  get_date:
+  get_date_meta:
+  get_date_ld_json:
+  get_date_url:
+  get_date_html:
+    sels:
+      - { 
+          'find'  : '',
+          'get'   : 'attr',
+          'attr'  : '',
+          'split' : ' ',
+        }
+  get_author:
+  get_author_html:
+    sels:
+      - { 
+          'url' : {
+              'find' : 'div[itemprop="author"]',
+              'get'  : 'attr',
+              'attr' : 'data-url' 
+          },
+          'name' : {
+              'find' : 'div[itemprop="author"]',
+              'get'  : 'attr',
+              'attr' : 'data-title',
+          }
+        }
+  get_author_meta:
+  get_author_ld_json:

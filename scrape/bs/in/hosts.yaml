@@ -55,6 +55,7 @@
 'vz.ru' : { 'site' : 'news.ru.vzgljad' }
 'zen.yandex.ru' : { 'site' : 'news.ru.yandex.zen' }
 'riakursk.ru' : { 'site' : 'news.ru.ria_kursk' }
+'iz.ru' : { 'site' : 'news.ru.izvestia' }
 
 ###pc
 

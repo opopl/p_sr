@@ -27,6 +27,7 @@ include:
     - news.ru.vzgljad
     - news.ru.yandex.zen
     - news.ru.ria_kursk
+    - news.ru.izvestia
 ###bib
     - bib.ua.exlibris
 ###ru

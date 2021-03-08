@@ -26,6 +26,9 @@ include:
     - news.ru.vesti_ru
     - news.ru.vzgljad
     - news.ru.yandex.zen
+    - news.ru.ria_kursk
+###bib
+    - bib.ua.exlibris
 ###ru
     - ru.kulturologia
     - ru.kultura.cyrillitsa

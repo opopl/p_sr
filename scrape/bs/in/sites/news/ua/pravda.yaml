@@ -60,6 +60,16 @@ PageParser:
   get_date_html:
     sels:
       - { 
+          'find'  : 'script',
+          'get'   : 'text',
+          'text' : { 
+            'strip_n'  : 0,
+            'lines'    : {
+              're_match' : '^\s*article_publication_date:\s*"(.*)"\s*$',
+            }
+          },
+        }
+      - { 
           'find'  : '.bdate',
           'get'   : 'text',
           'split' : ',',

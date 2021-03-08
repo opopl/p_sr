@@ -1,39 +1,36 @@
 
 sel:
-  only:
-    - .post
   clean:
-    - '#menu-top'
-    - '#menu-main'
-    - '#sub-menu'
-    - .bordered
-    - .r-vote
-    - noindex
-    - .postLikesBox
+  only:
+    #- '.entry-header'
+    #- figure
+    #- article
+  keep:
 
 PageParser:
   get_date:
   get_date_meta:
   get_date_ld_json:
+  get_date_url:
   get_date_html:
     sels:
       - { 
-          'find'  : '#dat span',
+          'find'  : '.post-cat',
           'get'   : 'text',
-          'split' : ' ',
-          'fmt'   : '%d.%m.%Y',
+          'attr'  : '',
+          'split' : '',
         }
   get_author:
   get_author_html:
     sels:
       - { 
           'url' : {
-              'find' : '#usr a', 
+              'find' : '', 
               'get'  : 'attr',
-              'attr' : 'href',
+              'attr' : 'href' 
           },
-          'str' : {
-              'find' : '#usr a', 
+          'name' : {
+              'find' : '',
               'get'  : 'text',
           }
         }

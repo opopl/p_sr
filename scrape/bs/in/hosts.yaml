@@ -27,6 +27,8 @@
 'kulturologia.ru' : { 'site' : 'ru.kulturologia' }
 'cyrillitsa.ru' : { 'site' : 'ru.kultura.cyrillitsa' }
 
+'exlibris.org.ua' : { 'site' : 'bib.ua.exlibris' }
+
 ###ludi
 'buzina.org' : { 'site' : 'ludi.ua.buzina' }
 
@@ -51,6 +53,7 @@
 'vesti.ru' : { 'site' : 'news.ru.vesti_ru' }
 'vz.ru' : { 'site' : 'news.ru.vzgljad' }
 'zen.yandex.ru' : { 'site' : 'news.ru.yandex.zen' }
+'riakursk.ru' : { 'site' : 'news.ru.ria_kursk' }
 
 ###pc
 

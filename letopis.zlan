@@ -8310,6 +8310,18 @@ page
 page
 	set url https://day.kyiv.ua/uk/news/080321-u-kyyevi-marsh-zhinok-vymagav-ratyfikuvaty-stambulsku-konvenciyu
 	set tags ukraina,kiev,8_marta,stambul_convention,miting,marsh
+page
+	set url https://www.pravda.com.ua/news/2021/03/8/7285923/
+	set tags ukraina,8_marta,pamjat,institut_nacpamjati
+page
+	set url https://kulturologia.ru/blogs/080321/49227/
+	set tags cetkin_klara,luksemburg_roza,8_marta,istoria,sssr
+page
+	set url https://kulturologia.ru/blogs/070321/49153/
+	set tags gerkulanum,istoria,arheologia,italia,vezuvij_vulkan,79ad
+page
+	set url https://www.radiosvoboda.org/a/video-marsh-zhinok-u-kyyevi/31139980.html
+	set tags kiev,marsh,8_marta,ukraina,feminizm
 eof
 off
 page

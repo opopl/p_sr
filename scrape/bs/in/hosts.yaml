@@ -19,6 +19,7 @@
 'sprotyv.info' : { 'site' : 'news.ua.sprotyv' }
 '048.ua' : { 'site' : 'news.ua.048' }
 'gordonua.com' : { 'site' : 'news.ua.gordon' }
+'censor.net.ua' : { 'site' : 'news.ua.censor' }
 
 ###poezia
 'maysterni.com' : { 'site' : 'poezia.ua.maysterni' }

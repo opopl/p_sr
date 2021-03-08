@@ -8253,9 +8253,6 @@ page
 	set url https://riakursk.ru/dvoryanin-vo-krestyanstve-ili-pevets-russkoy-glubinki-iz-kurskoy-gubernii/
 	set tags trutovskij_konstantin,zhivopis,rossia,istoria,ukraina,isskustvo
 	set author Олег Качмарский
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://vz.ru/opinions/2021/3/8/1088139.html
 	set tags rossia,sssr,istoria,feminizm,8_marta
@@ -8277,6 +8274,42 @@ page
 page
 	set url https://kiev.strana.ua/321632-u-hosdachi-zelenskoho-v-koncha-zaspe-nachalas-aktsija-protesta-storonnikov-sternenko.html
 	set tags sternenko_sergei,zelenskii_vladimir,protest,ukraina,koncha_zaspa
+page
+	set url https://strana.ua/news/321623-smerti-posle-privivki-astrazeneca-v-juzhnoj-koree-ne-svjazany-s-vaktsinoj-vrachi.html
+	set tags covid,vaccine,astrazeneka,korea_south,smert,world
+page
+	set url https://food.obozrevatel.com/news/blinyi-so-vsego-mira.htm
+	set tags ukraina,maslenica,bliny,tradicii
+page
+	set url https://www.pravda.com.ua/news/2021/03/8/7285914/
+	set tags krym,rossia,protest,putin_vladimir,park,foros
+page
+	set url https://www.radiosvoboda.org/a/jak-likvidovuvaly-uhkc/31139331.html
+	set tags ukraina,ugkc,vera,cerkov,nkvd,sssr,istoria,stalin_jozef
+page
+	set url https://kiev.strana.ua/321636-v-kieve-znachitelno-ukhudshilas-pohoda-stolitsu-nakryl-snehopad-foto-i-video.html
+	set tags kiev,8_marta,sneg,pogoda,ukraina
+page
+	set url https://strana.ua/opinions/321644-djavoly-i-bohi-ukrainskoho-aktivista-milleniala.html
+	set tags ukraina,mnenie,aktivist,es,evropa
+page
+	set url https://gazeta.ua/articles/np/_brat-ubiv-sestru-a-tilo-spaliv/1018867
+	set tags ukraina,kriminal,brat,sestra,murder,smert
+page
+	set url http://lug-info.com/news/one/kombrig-vsu-ostavil-podchinennykh-zhenschin-bez-vykhodnogo-v-chest-8-marta-narodnaya-militsiya-65372
+	set tags nm_lnr,vsu,8_marta,ukraina,vojna,donbass,lnr
+page
+	set url https://lenta.ru/news/2021/03/08/diplomat/
+	set tags ukraina,rossia,diplomatia
+page
+	set url https://zaxid.net/ne_hochu_shhob_pamyat_pro_batka_politizuvali_n1515446
+	set tags vakarchuk_ivan,lvov,ukraina,pamjat,fizika
+page
+	set url https://vz.ru/politics/2021/3/8/1088409.html
+	set tags rossia,facebook,cenzura,fsb,ukraina,voronezh
+page
+	set url https://day.kyiv.ua/uk/news/080321-u-kyyevi-marsh-zhinok-vymagav-ratyfikuvaty-stambulsku-konvenciyu
+	set tags ukraina,kiev,8_marta,stambul_convention,miting,marsh
 eof
 off
 page

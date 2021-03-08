@@ -1,7 +1,10 @@
 
 sel:
   clean:
+    #- .float_href_block 
   only:
+    #- .display_table
+    - .top_big_img_article__info
     - article
   keep:
 

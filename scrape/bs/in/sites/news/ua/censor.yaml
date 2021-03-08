@@ -23,12 +23,12 @@ PageParser:
     sels:
       - { 
           'url' : {
-              'find' : '', 
+              'find' : '.authors_name a', 
               'get'  : 'attr',
               'attr' : 'href' 
           },
           'name' : {
-              'find' : '',
+              'find' : '.authors_name a', 
               'get'  : 'text',
           }
         }

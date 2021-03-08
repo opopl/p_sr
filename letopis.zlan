@@ -8325,9 +8325,9 @@ page
 page
 	set url https://censor.net/ru/resonance/3250808/antimayidan_tse_t_lyudi_yak_sidli_vdoma_ne_hotli_vihoditi_revolyutsya_gdnost_ochima_shkolyarv
 	set tags ukraina,shkola,deti,maidan2,antimaidan,slovo
-	set redo 1
-	setlist acts
-		db_update
+page
+	set url https://censor.net/ru/resonance/3241582/paramedik_nka_arstova_dvchata_yak_zaraz_povertayutsya_z_vyini_ne_znayut_u_yak_dver_postukati_schob_otrimati
+	set tags ukraina,vojna,donbass,paramedik,medicina
 eof
 off
 page

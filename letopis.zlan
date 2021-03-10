@@ -8352,9 +8352,468 @@ page
 page
 	set url https://riakursk.ru/rebyenok-robot-pylesos-i-tyulpany-kuryanki-rasskazali-o-samykh-neobychnykh-i-zhelannykh-podarkakh-k-8-marta/
 	set tags kursk,rossia,8_marta,podarok
-	set redo 1
-	setlist acts
-		db_update
+page
+	set url https://www.kommersant.ru/doc/4682524
+	set tags ukraina,cenzura,life
+page
+	set url https://strana.ua/news/321674-v-den-rozhdenija-shevchenko-morozy-udarjat-po-ukraine-srazu-posle-8-marta.html
+	set tags shevchenko_taras,ukraina,pogoda
+page
+	set url https://www.radiosvoboda.org/a/news-kolesnykova-premia-ssha/31140254.html
+	set tags kolesnikova_maria,usa,prize,belarus
+page
+	set url http://lug-info.com/news/one/nabor-v-vsu-predstavitelei-lgbt-soobschestva-vyzval-raskol-sredi-boitsov-narodnaya-militsiya-65373
+	set tags ukraina,lnr,nm_lnr,nazis,lbgt,vsu
+page
+	set url https://lenta.ru/news/2021/03/08/tsel/
+	set tags evrovision,rossia,showbiz,manizha
+page
+	set url https://lenta.ru/news/2021/03/08/obse/
+	set tags ukraina,krym,rossia,obse
+page
+	set url https://lenta.ru/news/2021/03/08/mariazaharova/
+	set tags ukraina,rossia,sovfed,gruzia,diplomatia
+page
+	set url https://lenta.ru/articles/2021/03/07/kollontai/
+	set tags kollontaj_aleksandra,rossia,istoria,sssr
+page
+	set url https://zaxid.net/ukrayinki_posili_dva_pershi_mistsya_na_chempionati_yevropi_z_legkoyi_atletiki_n1515459
+	set tags ukraina,sport,evropa,polsha
+page
+	set url https://112ua.tv/glavnye-novosti/chto-podarit-na-8-marta-idei-podarkov-soglasno-rezultatam-socoprosa-570020.html
+	set tags ukraina,8_marta,prazdnik,podarok
+page
+	set url https://news.obozrevatel.com/society/kogda-perestanut-strelyat-kak-myi-budem-reintegrirovat-ordlo-i-kto-za-eto-zaplatit.htm
+	set tags ukraina,donbass,rossia,reintegracia,vojna
+page
+	set url https://plus.obozrevatel.com/crime/tseniteli-g-plombir-i-kolbasa-vyitesnyaet-mozg-u-millionov-lyudej.htm
+	set tags ukraina,rossia,fsb,facebook,cenzura
+page
+	set url https://news.obozrevatel.com/society/ya-byil-rozhden-rabom-v-imperii-no-rabom-ne-budu-bolshe-uzhe-nikogda.htm
+	set tags rabstvo,imperia,rossia
+page
+	set url https://news.obozrevatel.com/society/8-marta-falshivyij-prazdnik-v-sssr.htm
+	set tags 8_marta,rossia,prazdnik,sssr,ukraina
+page
+	set url https://news.obozrevatel.com/society/mezhdunarodnyij-zhenskij-den-gde-zhe-spravedlivost.htm
+	set tags 8_marta,spravedlivost,world,ukraina,rossia,sssr
+page
+	set url https://news.obozrevatel.com/ukr/society/ukrainki-v-krimu-vijshli-na-mitingi-proti-okupatsii-u-merezhi-zgadali-foto-i-video.htm
+	set tags ukraina,rossia,krym,putin_vladimir
+page
+	set url https://news.obozrevatel.com/society/zhivite-v-realnost-ne-stoit-nedootsenivat-protivnika.htm
+	set tags ukraina,rossia,sputnik_v,vaccine,covid,es,evropa
+page
+	set url https://www.vesti.ru/article/2533714
+	set tags world,covid,statistika
+page
+	set url https://www.vesti.ru/television/article/2533710
+	set tags rossia,film,led_2,kino,kultura
+page
+	set url https://zen.yandex.ru/media/id/5cd6db2d9daa6300b389ca3f/zlye-russkie-i-dobrye-i-tolerantnye-inostrancy-600640ffee9f25022bbff1e1
+	set tags rossia,gollandia,deti,mentalitet,rabota
+page
+	set url https://zen.yandex.ru/media/bonorus/solnechnaia-sut-giperboreiskoi-rusi-dnkgenealogiia-ne-protivorechit-istoricheskoi-istine-603b76a52d4e6e7971c28efb
+	set tags rusmir,istoria,kultura,religia,solnce
+page
+	set url https://zen.yandex.ru/media/bonorus/a-ved-mogli-nazvatsia-i-rusiniei-k-lingvistike-ukrainskogo-iazyka-601bb40e27294500e4713bc9
+	set tags rusmir,rossia,ukraina,istoria,jazyk,mova
+page
+	set url https://zen.yandex.ru/media/bonorus/neskolko-slov-po-povodu-zapreta-russkogo-iazyka-na-ukraine-6009368ffc8f1029f7ae08e5
+	set tags ukraina,mova,jazyk,ukrainizacia
+page
+	set url https://zen.yandex.ru/media/bonorus/kuda-ni-kin--vsiudu-v-angliiskom-iazyke-chtoto-rodnoe-i-znakomoe-5fdc98347ec4a2413dfe0fb5
+	set tags lingvistika,jazyk,anglia,analiz,slovo
+page
+	set url https://zen.yandex.ru/media/bonorus/pochemu-vizantiicy-nazyvali-drevnih-tavrov-kryma--rusami-kto-istinnye-avtohtony-tavridy-5fc1e6eb39eab6574d4b922d
+	set tags ukraina,rossia,istoria,krym,tavry
+page
+	set url https://zen.yandex.ru/media/bonorus/vsem-edinoplemennym-narodam--narod-russkii-i-russkoe-imia--glava-5f952d27d2b7e412881a73e9
+	set tags rusmir,istoria,jazyk,lingvistika
+page
+	set url https://zen.yandex.ru/media/bonorus/hristianizaciia-rusi-byla-instrumentom-usileniia-vlasti-kniazia-vladimira-5f0d513726a32021de087d49
+	set tags rossia,rusmir,istoria,knjaz_vladimir
+page
+	set url https://zen.yandex.ru/media/bonorus/polabe-istoki-russkoi-rusi-5ef30dc592b60f4fff49c2c0
+	set tags rusmir,istoria,rossia
+page
+	set url https://zen.yandex.ru/media/bonorus/prishedshie-s-riurikom-variagi-stroili-goroda-s-russkimi-nazvaniiami-novgorod-izborsk-beloozero-5eaa9fbc007c871a15906edd
+	set tags rurik,istoria,rusmir,rossia,novgorod
+page
+	set url https://zen.yandex.ru/media/bonorus/russkaia-istoriia-odnoi-kievskoi-rusiu-daleko-ne-ogranichivaetsia-5e91e089745aae440c90c58b
+	set tags rusmir,istoria,rossia
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-rosiyska-propahanda-i-dezinformatsiya/31140188.html
+	set tags ukraina,rossia,propaganda,cenzura,telekanaly,repressii,svoboda_slova
+page
+	set url https://zen.yandex.ru/media/bonorus/kto-byl-etimi-goluboglazymi-drevnimi-redinami-maldiv-priblijenie-k-razgadke-5e7f2adc5aa311731cd587b9
+	set tags hejerdal_tor,maldivy,istoria,rediny,arheologia
+page
+	set url https://zen.yandex.ru/media/bonorus/u-grekov-imia-rus-zadolgo-do-riurika-znaemo-bylo-5e43e5aab83d707e09fb45d3
+	set tags rusmir,rossia,istoria,pushkin_aleksandr,ekaterina_II,rusimperia
+page
+	set url https://zen.yandex.ru/media/bonorus/angliiskii-nujno-izuchat-chtoby-poniat-drevnost-russkogo-iazyka-5e24265543863f00b137af14
+	set tags english,jazyk,lingvistika
+page
+	set url https://zen.yandex.ru/media/bonorus/rouskie-variagi-5db938b01febd400b188fb20
+	set tags rusmir,rossia,istoria,dnepr,volga,reka
+page
+	set url https://zen.yandex.ru/media/bonorus/est-li-granica-mejdu-ukrainskim-i-russkim-iazykami-5d978e04aad43600b1cdbde5
+	set tags ukraina,rossia,belarus,istoria,jazyk,mova
+page
+	set url https://zen.yandex.ru/media/bonorus/russkii-iazyk-v-ukrainskom-viden-nevoorujennym-glazom-5d70fe678600e100add144ae
+	set tags ukraina,rossia,istoria,mova,jazyk,narechie,florinskij_timofej
+page
+	set url https://zen.yandex.ru/media/bonorus/drevnerusskie-korni-latinskogo-iazyka-5d864031bd639600ad80379d
+	set tags jazyk,latinskij,lingvistika,istoria
+page
+	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/kogda-rossiia-poet-mir-slushaet-znamenitye-russkie-pesni-i-reakciia-so-vsego-mira-601ade7ec5e0377269a8e61b
+	set tags rossia,pesnja,world
+page
+	set url https://www.radiosvoboda.org/a/yevropa-rosiyska-vaktsyna-sputnik/31139911.html
+	set tags rossia,evropa,es,sputnik_v,vaccine,covid
+page
+	set url https://zen.yandex.ru/media/smapse_travel/10-faktov-o-rossii-kotorye-delaiut-ee-samoisamoi-5feb76145fec142ae958a91b
+	set tags rossia,fakty
+page
+	set url https://zen.yandex.ru/media/princesa/chto-govoriat-o-rossii-po-chiliiskomu-televideniiu-6041597e151e6928773b904f
+	set tags rossia,world,chili
+page
+	set url https://zen.yandex.ru/media/russtrat/o-prichinah-degradacii-postsovetskih-okrain-603782e7109f4c102e4426a9
+	set tags rossia,analiz
+page
+	set url https://zen.yandex.ru/media/zhizn/nachnetsia-novaia-era-dlia-vsego-chelovechestva-zagadochnoe-predskazanie-matrony-moskovskoi-kotoroe-poka-ne-sbylos-60292bef0454f6146a5f21df
+	set tags matrona_moskovskaja,prorochestvo,rossia,moskva
+page
+	set url https://zen.yandex.ru/media/muzograf/sovetskaia-pesnia-stavshaia-populiarnoi-na-zapade-60113ee27d9f5f1cccec0b7a
+	set tags rossia,pesnja,zapad
+page
+	set url https://vz.ru/world/2021/3/9/1088439.html
+	set tags latvia,rossia,evropa,jazyk,rusmir
+page
+	set url https://vz.ru/news/2021/3/9/1088462.html
+	set tags sputnik_v,rossia,vaccine,covid,es,evropa
+page
+	set url https://vz.ru/news/2021/3/9/1088513.html
+	set tags poljakova_tatjana,detektiv,smert,knigi,rossia,vladimir
+page
+	set url https://vz.ru/economy/2021/3/7/1088343.html
+	set tags ukraina,rossia,energetika,verhovna_rada
+page
+	set url https://vz.ru/opinions/2021/3/9/1086969.html
+	set tags rusimperia,rossia,istoria,petrograd,fevral_revolucia,revolucia,fevral
+page
+	set url https://vz.ru/politics/2019/11/2/1006365.html
+	set tags urok,rusimperia,rossia,istoria,nikolai_II,tsar
+page
+	set url https://strana.ua/news/321696-den-rozhdenija-tarasa-shevchenko-2021-chto-dumajut-o-eho-tvorchestve-sehodnja.html
+	set tags 9_marta,shevchenko_taras,ukraina,istoria,kultura,literatura
+page
+	set url https://strana.ua/news/321726-v-ukraine-aktivno-smotrjat-rossijskie-kanaly-schitaet-tkachenko.html
+	set tags ukraina,cenzura,rossia,telekanaly,repressii,tv
+page
+	set url https://strana.ua/news/321724-zablokirovannye-kanaly-112-newsone-i-zik-pytajutsja-zapretit-v-youtube.html
+	set tags telekanaly,zapret,cenzura,zelenskii_vladimir,ukraina,youtube,repressii,tv
+page
+	set url https://strana.ua/news/321303-transljatsija-pershoho-nezalezhnoho-na-youtube-kanale-112-ukraina.html
+	set tags tv,ukraina,youtube,cenzura,pershyj_nezalezhnyj,telekanal
+page
+	set url https://strana.ua/news/321624-skandalnoe-intervju-markl-i-harri-o-chem-rasskazala-para-i-kakova-reaktsija-v-mire.html
+	set tags markl_megan,united_kingdom,interview
+page
+	set url https://strana.ua/news/321693-sezd-sudej-v-kieve-9-marta-prishli-piketirovat-storonniki-sternenko-onlajn-transljatsija.html
+	set tags sternenko_sergei,sud,ukraina,odessa
+page
+	set url https://strana.ua/opinions/320986-osoboe-mnenie-razumkova-po-povodu-zakrytija-kanalov-isparilos-na-hlazakh.html
+	set tags ukraina,razumkov_dmitrii,telekanaly,cenzura,rnbo
+page
+	set url https://kiev.strana.ua/321737-v-kieve-evakuator-zabral-karetu.html
+	set tags ukraina,kareta,evakuator,night
+page
+	set url https://strana.ua/news/321734-zelenskij-schitaet-zashchishchennym-ukrainskij-jazyk.html
+	set tags mova,jazyk,ukraina,ukrainizacia
+page
+	set url https://strana.ua/news/321717-9-marta-2021-hoda-so-dnja-rozhdenija-jurija-haharina-ispolnilos-87-let.html
+	set tags 9_marta,gagarin_jurij,kosmonavt,kosmos,sssr,istoria
+page
+	set url https://strana.ua/news/275823-umer-anatolij-daron-konstruktor-dvihatelej-rakety-sputnik-1.html
+	set tags daron_anatolij,kosmos,gagarin_jurij,kosmonavt,kosmos,raketa,sssr,istoria,smert
+page
+	set url https://lenta.ru/news/2021/03/09/italian_sputnik/
+	set tags italia,rossia,sputnik_v,vaccine,covid,proizvodstvo
+page
+	set url https://lenta.ru/news/2021/03/09/vodaaa/
+	set tags krym,aksenov_sergej,rossia,voda,turizm
+page
+	set url https://www.pravda.com.ua/articles/2021/03/9/7285850/
+	set tags planeta,ukraina
+page
+	set url https://www.pravda.com.ua/news/2021/03/9/7285978/
+	set tags rnbo,ukraina,zhurnalist
+page
+	set url https://www.pravda.com.ua/news/2021/03/9/7285979/
+	set tags youtube,zelenskii_vladimir,ukraina,cenzura,repressii
+page
+	set url https://www.pravda.com.ua/news/2021/03/9/7285965/
+	set tags zelenskii_vladimir,ukraina,cenzura,dezinformacia
+page
+	set url https://www.radiosvoboda.org/a/nashchadok-shevchenka-mykola-tregub/31139897.html
+	set tags shevchenko_taras,9_marta,ukraina,kultura,literatura
+page
+	set url https://www.radiosvoboda.org/a/petro-rozumniy-95-rokiv-dysydent/31129743.html
+	set tags rusimperia,rusmir,rossia,rozumnyj_petro,pamjat
+page
+	set url https://www.radiosvoboda.org/a/taras-shevchenko-rosiyska-imperiya/31139587.html
+	set tags shevchenko_taras,rusimperia,rossia,ukraina,kultura,literatura,prorochestvo,strah
+page
+	set url https://www.radiosvoboda.org/a/photo-irak-papa-frantsysk/31139441.html
+	set tags papa_rimskij,iraq,vizit,world
+page
+	set url https://life.pravda.com.ua/society/2021/03/9/244159/
+	set tags merkurij,planeta,kosmos
+page
+	set url https://life.pravda.com.ua/columns/2021/02/24/244033/
+	set tags lesja_ukrainka,ukraina,zvezda,celebrity,kultura,literatura
+page
+	set url https://life.pravda.com.ua/columns/2021/02/24/244037/
+	set tags deti,ukraina,psihologia
+page
+	set url https://day.kyiv.ua/uk/news/090321-znannya-angliyskoyi-movy-ye-zaporukoyu-nezalezhnosti-nashoyi-krayiny-danilov
+	set tags danilov_aleksei,english,ukraina,nezalezhnist
+page
+	set url https://ukrrain.com/tarasu_shevchenko_sogodni_-_207_rokiv._chogo_mi_shhe_ne_znaemo_pro_kobzarya.html
+	set tags shevchenko_taras,kultura,ukraina,literatura,istoria
+page
+	set url https://gazeta.ua/articles/cookery/_borsch-po-svitu-poshirili-yevreyi/1018262
+	set tags borsch,ukraina,istoria,kuhnja
+page
+	set url https://gazeta.ua/articles/sport/_bobbi-fisher-20-rokiv-ne-grav-u-shahi/1018910
+	set tags chess,fisher_robert,usa,birthday
+page
+	set url https://news.obozrevatel.com/politics/vtoryim-yazyikom-v-ukraine-dolzhen-byit-anglijskij-danilov.htm
+	set tags danilov_aleksei,english,ukraina,derzhava
+page
+	set url https://zaxid.net/53_richniy_lvivyanin_chotiri_razi_vistriliv_u_perehozhogo_i_zastrelivsya_sam_n1515487
+	set tags ukraina,lvov,kriminal
+page
+	set url https://zaxid.net/nezvichniy_shevchenko_n1343501
+	set tags shevchenko_taras,portrety,ukraina,kultura
+page
+	set url https://ukraina.ru/exclusive/20210309/1030771890.html
+	set tags shevchenko_taras,ukraina,pamjatnik,world,birthday,9_marta
+page
+	set url https://ukraina.ru/opinion/20210309/1030766986.html
+	set tags ukraina,maidan2,zlo,nacia,mentalitet,analiz,nenavyst
+page
+	set url https://ukraina.ru/opinion/20180629/1020541556.html
+	set tags ukraina,maidan2,nenavist,zlo,kriminal
+page
+	set url http://lug-info.com/news/one/vaktsinatsiya-preparatom-sputnik-v-prokhodit-v-privivochnom-punkte-luganskoi-polikliniki-10-foto-65383
+	set tags lnr,lugansk,privivka,sputnik_v,vaccine,covid
+page
+	set url https://pravoslavie.ru/44978.html
+	set tags maslenica,tradicii,ukraina,rusmir,rossia,cerkov,vera
+page
+	set url https://www.pravda.com.ua/news/2021/03/9/7285960/
+	set tags usa,dezinformacia,vaccine,covid,pfizer,rossia
+page
+	set url https://pravoslavie.ru/137766.html
+	set tags rossia,cerkov,miloserdie,volonter,vera
+page
+	set url https://www.vesti.ru/article/2533967
+	set tags rossia,usa,gosdep,vaccine,covid,dezinformacia
+page
+	set url https://smotrim.ru/article/2533920?utm_source=vesti_left
+	set tags putin_vladimir,rossia,nauka,society
+page
+	set url https://ukraina.ru/exclusive/20210309/1030765310.html
+	set tags zlo,ukraina,rossia,tv,zhurnalist
+page
+	set url https://ukraina.ru/exclusive/20210206/1030447236.html
+	set tags ukraina,galicia,mif,lvov
+page
+	set url https://ukraina.ru/interview/20210309/1030773480.html
+	set tags ukraina,rossia,russofobia,zelenskii_vladimir
+page
+	set url https://ukraina.ru/history/20210309/1030774780.html
+	set tags 9_marta,shevchenko_taras,ukraina,sssr,istoria
+page
+	set url https://strana.ua/news/321754-bolshe-poloviny-medikov-otkazalis-vaktsinirovatsja-ot-koronavirusa.html
+	set tags vaccinacia,vaccinacia,covid,vaccine,ukraina,stepanov_maksim
+page
+	set url https://strana.ua/news/321743-u-strany-pojavilsja-akkaunt-v-tiktok.html
+	set tags strana_ua,tiktok,ukraina
+page
+	set url https://strana.ua/news/321649-junye-sportsmeny-ostavili-kuchi-musora-v-vahone-poezda-video.html
+	set tags ukraina,hamstvo,poezd,sport
+page
+	set url https://strana.ua/news/231468-pojavilos-foto-kak-v-kupe-poezda-ukrzaliznytsi-vyrosli-hriby.html
+	set tags ukraina,ukrzaliznycia,griby,kurjez
+page
+	set url https://strana.ua/news/321753-zelenskij-otreahiroval-na-kritiku-poroshenko-naschet-vaktsiny-covishield.html
+	set tags poroshenko_petr,zelenskii_vladimir,govno,vaccinacia,vaccine,covid,ukraina
+page
+	set url http://lug-info.com/news/one/volontery-mira-luganschine-za-nedelyu-pomogli-48-nakhodyaschimsya-na-samoizolyatsii-zhitelyam-lnr-65382
+	set tags lnr,mir_luganschine,volonter,izoljacia,covid,karantin
+page
+	set url https://ukrainenews.fakty.ua/370394-zelenskij-prigrozil-shariyu-pozhiznennym-banom-v-youtube
+	set tags sharij_anatolij,ukraina,zelenskii_vladimir,cenzura,repressii
+page
+	set url https://112ua.tv/glavnye-novosti/kvantovyy-skachok-v-hhi-vek-ili-pochemu-taras-shevchenko-ne-sovsem-takoy-kakim-vy-ego-sebe-predstavlyaete-569877.html
+	set tags shevchenko_taras,ukraina,xxi_vek,kultura,literatura
+page
+	set url https://buzina.org/politics/1480-repressii.html
+	set tags stalin_jozef,ukraina,stalinizm
+page
+	set url https://buzina.org/culture/1864-natsionalism-kak-pribezhsche-negodiaya.html
+	set tags ukraina,nacionalizm,kravchuk_leonid,javorivskij_vladimir
+page
+	set url https://strana.ua/news/321812-v-kieve-hrazhdanina-azerbajdzhana-zaderzhali-za-iznasilovanie-devushki.html
+	set tags kiev,kriminal,ukraina,devushka,iznasilovanie
+page
+	set url https://strana.ua/news/315380-konhressvumen-ssha-obvinila-politsejskoho-v-iznasilovanii-.html
+	set tags usa,congress,iznasilovanie,demokratia,policia
+page
+	set url https://strana.ua/news/314947-fbr-arestovali-dvukh-zhenshchin-kotorye-uchastvovali-v-shturme-zdanija-konhressa.html
+	set tags usa,palosi_nancy,arest,kapitolij
+page
+	set url https://strana.ua/news/321811-zelenskij-pozdravil-ukraintsev-s-hodovshchinoj-so-dnja-rozhdenija-shevchenko.html
+	set tags shevchenko_taras,zelenskii_vladimir,ukraina,9_marta,pamjat,literatura,kultura
+page
+	set url https://strana.ua/opinions/321804-taras-shevchenko-primer-toho-kak-natsionalnoe-samosoznanie-formiruetsja-na-ljubvi.html
+	set tags shevchenko_taras,ljubov,ukraina,literatura,kultura,9_marta
+page
+	set url https://strana.ua/news/321762-maksim-stepanov-rasskazal-o-khode-vaktsinatsii-v-ukraine.html
+	set tags ukraina,vaccinacia,vaccine,stepanov_maksim
+page
+	set url https://zaxid.net/sergiy_pritula_pokinuv_shou_de_logika_cherez_rosiyskih_vlasnikiv_yogo_formatu_n1515524
+	set tags pritula_sergej,rossia,ukraina,showbiz
+page
+	set url https://www.radiosvoboda.org/a/biloruska-mova-vykhodyt-na-peredovu-sprotyvu/31141586.html
+	set tags belarus,protest,language
+page
+	set url https://lenta.ru/news/2021/03/09/shkola/
+	set tags ukraina,shkola,zelenskii_vladimir,shevchenko_taras
+page
+	set url https://lenta.ru/news/2021/03/09/karlov_mfa/
+	set tags murder,turcia,rossia,diplomatia,sud,prigovor
+page
+	set url https://blogs.pravda.com.ua/authors/bratushchak/604764211d1a7/
+	set tags ukraina,opzzh,marchenko_oksana,putin_vladimir,medvedchuk_viktor
+page
+	set url https://news.obozrevatel.com/politics/zelenskij-poobeschal-kanalam-medvedchuka-pozhiznennyij-ban-v-youtube.htm
+	set tags ukraina,cenzura,youtube,zelenskii_vladimir,tv,repressii
+page
+	set url https://culture.fakty.ua/369398-zvezdu-zvezdu-semnadcati-mgnovenij-vesny-pohoronili-ryadom-s-yurskim-gaftom-i-myagkovym
+	set tags gradova_ekaterina,smert,rossia,film,sssr
+page
+	set url https://day.kyiv.ua/uk/news/090321-shevchenko-novyy-poglyad-na-klasyka-vid-ua-kultura
+	set tags shevchenko_taras,ukraina,kultura,9_marta,pamjat
+page
+	set url https://day.kyiv.ua/uk/news/090321-zelenskyy-vvazhaye-shcho-ukrayinska-mova-povnistyu-zahyshchena
+	set tags zelenskii_vladimir,mova,ukrainizacia,ukraina
+page
+	set url https://day.kyiv.ua/ru/blog/obshchestvo/v-ozhidanii-vashingtona
+	set tags washington,ukraina,society,derzhava
+page
+	set url https://gazeta.ua/blog/54725/sevchenko-zajshov-u-mij-svit-cherez-maminu-slozu
+	set tags shevchenko_taras,simvol,ukraina,kazahstan,kultura,literatura
+page
+	set url https://gazeta.ua/articles/history/_ponad-450-lyudej-sudili-za-uchast-u-neisnuyuchij-organizaciyi/1018988
+	set tags ukraina,sssr,istoria,stalinizm,process_svu,kharkov
+page
+	set url https://gazeta.ua/articles/history/_divilisya-nache-na-bozhevilnogo-8-spogadiv-pro-tarasa-sevchenka/1018960
+	set tags shevchenko_taras,ukraina,istoria,kultura,rossia,rusmir
+page
+	set url https://gazeta.ua/articles/history/_likar-visunuv-novu-teoriyu-isnuvannya/1018853
+	set tags kopernik_nikolaj,nauka,istoria,universe,polsha,9_marta
+page
+	set url https://gazeta.ua/articles/history/_zinki-vijshli-na-vulici-z-kastrulyami/1018748
+	set tags 8_marta,usa,1857,08_03_1857,marsh,women
+page
+	set url https://day.kyiv.ua/uk/article/cuspilstvo-istoriya-i-ya/tak-hochetsya-pochuty-ridne-ukrayinske-slovo
+	set tags shevchenko_taras,mova,jazyk,ukraina,rossia,rusmir,istoria,literatura,pismo
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/marafon-samozahystu
+	set tags ukraina,krym,rossia,2014
+page
+	set url https://lenta.ru/news/2021/03/10/zimbabwe/
+	set tags zimbabve,rossia,sputnik_v,vaccine,covid,world
+page
+	set url https://www.radiosvoboda.org/a/brytanskyy-shtam-kovid-shpytalizatsiya/31142150.html
+	set tags ukraina,covid,bolnica,lvov,ivano_frankovsk
+page
+	set url https://www.radiosvoboda.org/a/represiyi-pid-chas-velykoyi-vitchyznyanoyi-viyny/31142036.html
+	set tags vov,istoria,sssr,repressii,stalinizm
+page
+	set url https://www.radiosvoboda.org/a/28920973.html
+	set tags sssr,istoria,nkvd,stalinizm,arhiv
+page
+	set url https://zaxid.net/chi_bula_revolyutsiya_n1515504
+	set tags ukraina,maidan2,revgidnosti,2014
+page
+	set url https://strana.ua/news/321810-anhlijskij-vtoroj-hosudarstvennyj-v-ukraine-pochemu-snbo-khochet-novyj-jazyk.html
+	set tags english,rossia,ukraina,rnbo,danilov_aleksei
+page
+	set url https://strana.ua/news/321733-danilov-schitaet-chto-vtorym-jazykom-v-ukraine-dolzhen-stat-anhlijskij.html
+	set tags jazyk,mova,danilov_aleksei,ukraina,english,nezalezhnist
+page
+	set url https://kiev.strana.ua/321850-na-oboloni-v-podezde-hrabitel-napal-na-pozhiluju-zhenshchinu-video.html
+	set tags kiev,napadenie,kriminal,ukraina,woman
+page
+	set url https://vz.ru/politics/2021/3/9/1088522.html
+	set tags rossia,usa,vaccine
+page
+	set url https://news.obozrevatel.com/society/vstala-na-steklo-i-poletela-vniz-podrobnosti-gibeli-ukrainki-na-zarabotkah-v-chehii.htm
+	set tags chehia,smert,ukraina,zarobitchane,woman,mater
+page
+	set url https://news.obozrevatel.com/russia/putin-spotknulsya-ob-ukrainu-eto-samaya-bolshaya-oshibka-moskvyi-v-hhi-veke.htm
+	set tags ukraina,rossia,putin_vladimir
+page
+	set url https://news.obozrevatel.com/society/skrepyi-narodov-donbassa.htm
+	set tags rusmir,donbass,ukraina
+page
+	set url http://lug-info.com/news/one/luganskaya-afisha-65390
+	set tags lnr,afisha,kino
+page
+	set url http://lug-info.com/news/one/boitsy-vsu-otobrali-oborudovanie-u-pribyvshikh-v-zonu-oos-propagandistov-narodnaya-militsiya-65389
+	set tags lnr,nm_lnr,zhurnalist,ukraina,vsu,vojna,donbass
+page
+	set url https://buzina.org/povtorenie/2444-taars-mirotvorets.html
+	set tags shevchenko_taras,ukraina,istoria,9_marta,kultura,literatura,chelovek
+page
+	set url https://smotrim.ru/article/2533937
+	set tags usa,rossia,vaccine,sputnik_v,peskov_dmitrii
+page
+	set url https://www.kp.ru/online/news/4214551/
+	set tags pamjat,istoria,kaluga,rossia,gagarin_jurij,9_marta
+page
+	set url https://vz.ru/news/2021/3/9/1088604.html
+	set tags es,evropa,ema,vaccine,sputnik_v,rossia,ekspertiza
+page
+	set url https://112ua.tv/obshchestvo/taras-shevchenko-stal-mirovym-rekordsmenom-po-kolichestvu-ustanovlennyh-pamyatnikov-mid-570367.html
+	set tags shevchenko_taras,statistika,ukraina,pamjatnik,mzs
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-s-10-po-14-iyunya-proydyet-masshtabnyy-voenno-istoricheskiy-festival/
+	set tags rossia,kursk,festival,rusmir,istoria,kievrus
+page
+	set url https://riakursk.ru/v-kurske-mogut-poyavitsya-pamyatniki-zachetke-velosipedu-i-myachu/
+	set tags rossia,kursk,pamjatnik
+page
+	set url https://riakursk.ru/kurskie-ukraintsy-snyali-dva-filma-o-geroyakh-velikoy-otechestvennoy-voyny/
+	set tags ukraina,rossia,kursk,vov,film
+page
+	set url https://riakursk.ru/odna-pered-orkestrom-tyazhelo-li-byt-dirizhyerom-kuryanke-yulii-zharkovoy/
+	set tags rossia,kursk,muzyka,dirizher,interview
+page
+	set url https://riakursk.ru/olga-germanova-uspeshnyy-chelovek-tot-kto-dukhovno-zdorov/
+	set tags woman,vlast,rossia,gosduma,interview
+page
+	set url https://riakursk.ru/serebro-i-zoloto-kurskogo-mastera-ili-kogda-fotografiya-stanovitsya-predmetom-iskusstva/
+	set tags rossia,kursk,fotograf,75_let,interview,tenenev_vitalij
+page
+	set url https://riakursk.ru/17-letnyaya-kuryanka-zanyala-vtoroe-mesto-v-sorevnovanii-yunarmyaytsev/
+	set tags rossia,kursk,sorevnovanie,shkola,deti
 eof
 off
 page

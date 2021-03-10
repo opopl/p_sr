@@ -5,19 +5,40 @@ sel:
     - '#header'
     - '.art-block'
     - '.breadcrumbs'
-#  author: 
-    #{ 
-      #'url' : {
-          #'css' : '.b-topic__content__author a', 
-          #'attr' : 'href' 
-      #},
-      #'name' : {
-          #'css' : '.b-topic__content__author .name'
-      #}
-    #}
+
 PageParser:
   get_date:
-    sels: 
+  get_date_meta:
+  get_date_ld_json:
+  get_date_url:
+  get_date_html:
+    sels:
+      - { 
+          'find'  : '',
+          'get'   : 'attr',
+          'attr'  : '',
+          'split' : ' ',
+        }
+      - { 
+          'search' : { 
+            'css'       : '.author-description',
+            'css_index' : 'last',
+            'text' : {
+              'lines' : {
+                'match' : { 
+                  'pat'  : '(.*)$',
+                  'name' : 1,
+                }
+              }
+            }
+          }
+        }
+  get_author:
+  get_author_html:
+    sels:
       - { 
           'find': '.art-postheadericons',
+          'get'   : 'text',
         }
+  get_author_meta:
+  get_author_ld_json:

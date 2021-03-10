@@ -26,14 +26,16 @@ PageParser:
   get_author_html:
     sels:
       - { 
-          'url' : {
-              'find' : '', 
-              'get'  : 'attr',
-              'attr' : 'href' 
-          },
-          'name' : {
-              'find' : '',
-              'get'  : 'text',
+          'search' : { 
+            'css' : 'article tbody tr .extra',
+            'text' : {
+              'lines' : {
+                'match' : { 
+                  'pat'  : 'Текст:\s+(.*)$',
+                  'name' : 1,
+                }
+              }
+            }
           }
         }
   get_author_meta:

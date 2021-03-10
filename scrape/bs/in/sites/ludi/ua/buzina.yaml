@@ -21,13 +21,37 @@ PageParser:
         }
       - { 
           'search' : { 
-            'css'       : '.author-description',
+            'css'       : [ 
+              '.author-description',
+              '.art-article',
+            ],
             'css_index' : 'last',
             'text' : {
               'lines' : {
                 'match' : { 
-                  'pat'  : '(.*)$',
-                  'name' : 1,
+                  'pat'   : '(.*)$',
+                  'split_found' : { 
+                    'sep'     : ','   ,
+                    'try_all' : 1
+                  }
+                }
+              }
+            }
+          }
+        }
+      - { 
+          'search' : { 
+            'css'       : [ 
+              '.autor2',
+            ],
+            'text' : {
+              'lines' : {
+                'match' : { 
+                  'pat'   : '(.*)$',
+                  'split_found' : { 
+                    'sep'     : '|'   ,
+                    'try_all' : 1
+                  }
                 }
               }
             }

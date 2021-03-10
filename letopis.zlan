@@ -8814,6 +8814,93 @@ page
 page
 	set url https://riakursk.ru/17-letnyaya-kuryanka-zanyala-vtoroe-mesto-v-sorevnovanii-yunarmyaytsev/
 	set tags rossia,kursk,sorevnovanie,shkola,deti
+page
+	set url https://buzina.org/culture/1769-kak-ya-pogubil-ukrainskuyu-inteligentsikyu.html
+	set tags ukraina,inteligencia,nacia
+page
+	set url https://buzina.org/culture/1523-decalog.html
+	set tags ukraina,zapoved,nacia,mentalitet
+page
+	set url https://buzina.org/culture/1488-dom-profsoyuzov.html
+	set tags ukraina,maidan,dom_profsojuzov,kiev
+page
+	set url https://buzina.org/publications/1476-bolotniy-koren-slavian.html
+	set tags rusmir,istoria,slavjane,rossia,ukraina
+page
+	set url https://strana.ua/news/321872-chto-ukrainskie-znamenitosti-dumajut-ob-intervju-printsa-harri-i-mehan.html
+	set tags ukraina,britania,markl_megan,interview,mnenie,life
+page
+	set url https://strana.ua/news/321926-u-putina-zajavili-o-hotovnosti-bystro-rassmotret-vozmozhnost-vstrechi-s-zelenskim.html
+	set tags putin_vladimir,zelenskii_vladimir,kreml,rossia,ukraina
+page
+	set url https://strana.ua/news/321930--nikolenko-otvetil-poslu-izrailja-na-trebovanie-otmenit-pereimenovanie-stadiona-shukhevicha.html
+	set tags ukraina,ternopil,shuhevych_roman,izrail,diplomatia,istoria
+page
+	set url https://strana.ua/opinions/321814-v-hodovshchinu-babeho-jara-nazvat-stadion-imenem-shukhevicha-eto-nado-bylo-postaratsja.html
+	set tags ukraina,shuhevych_roman,ternopil,mnenie,babij_jar,kiev
+page
+	set url https://lenta.ru/articles/2021/03/10/pashov/
+	set tags rossia,deputat,arest,rybalka,gosduma
+page
+	set url http://lug-info.com/news/one/luganskii-dramteatr-19-i-20-marta-priglashaet-na-premeru-spektaklya-moya-zhena-lgunya-65405
+	set tags lnr,teatr,afisha
+page
+	set url http://lug-info.com/news/one/pozhilaya-zhenschina-pogibla-na-pozhare-v-poselke-yubileinoe-mchs-lnr-65400
+	set tags lnr,smert,60_plus,woman
+page
+	set url http://lug-info.com/news/one/nachalnik-gosarkhiva-lnr-viktor-kulik-istoriya-i-sovremennost-svyazany-mnozhestvom-krepkikh-nitei-foto-65396
+	set tags istoria,lnr,arhiv,gos_arhiv_lnr
+page
+	set url http://lug-info.com/news/one/molodezhnye-aktivisty-i-inspektory-gibdd-pozdravili-zhenschin-voditelei-s-8-marta-foto-65362
+	set tags lnr,8_marta,gibdd,pozdravlenie,prazdnik,aktivist
+page
+	set url http://lug-info.com/news/one/vsu-primenili-120-mm-minomety-pri-obstrele-territorii-respubliki-narodnaya-militsiya-65399
+	set tags ukraina,lnr,vojna,donbass,vsu,nm_lnr,kalinovo
+page
+	set url https://www.radiosvoboda.org/a/sport-week-review/31143062.html
+	set tags ukraina,sport,kubok_devisa,maguchih_jaroslava,geraschenko_iryna
+page
+	set url https://www.radiosvoboda.org/a/sport-za-tyzhden/31091891.html
+	set tags sport,ukraina,maguchih_jaroslava,atletika,legkoatletika
+page
+	set url https://www.radiosvoboda.org/a/photo-kyiv-aktsiya-solidarnosti-z-krymom/31142237.html
+	set tags krym,rossia,ukraina,shevchenko_taras,2014
+page
+	set url https://riakursk.ru/kuryanka-inna-deriglazova-stala-luchshyay-na-turnire-silnyayshikh/
+	set tags rossia,sport,kursk,deriglazova_inna
+page
+	set url https://riakursk.ru/kholostyak-po-kurski-samye-izvestnye-zhenikhi-solovinogo-kraya/
+	set tags rossia,kursk,zhenih,solovej
+page
+	set url https://riakursk.ru/tri-istorii-lyubvi-rasskazannykh-kurskimi-nezryachimi/
+	set tags kursk,rossia,ljubov,slepota
+page
+	set url https://riakursk.ru/synovya-glavvracha-detskoy-oblastnoy-bolnitsy-rabotayut-v-kurskom-kovidnom-gospitale/
+	set tags covid,rossia,bolnica,deputat,zorja_andrej,zorja_aleksandr,zorja_igor
+page
+	set url https://riakursk.ru/afanasiy-fet-nichyaynyy-syn-chistyy-poet-i-zhestokiy-lyubovnik/
+	set tags fet_afanasii,rossia,istoria,poezia,kultura,literatura
+page
+	set url https://riakursk.ru/zakalit-dukh-i-kharakter-kak-uchatsya-v-kurskom-kadetskom-klasse/
+	set tags rossia,kadety,shkola,23_feb
+page
+	set url https://www.pravda.com.ua/articles/2021/03/10/7286053/
+	set tags padre,ukraina,cerkov,strah,tiktok,pcu,vera
+page
+	set url https://from-ua.com/articles/590653-mi-chto-to-odno-a-vi-chto-to-drugoe-ukraincev-kosit-epidemiya-hamskogo-panstva.html
+	set tags ukraina,nacia,mentalitet,hamstvo
+page
+	set url https://from-ua.com/news/554282-dyachenko-radi-deneg-ukrainci-zhivut-v-rabstve-i-putayut-vozmozhnosti-s-nastoyaschei-svobodoi.html
+	set tags ukraina,rabstvo,dengi,mentalitet,nacia
+page
+	set url https://from-ua.com/articles/552804-starikam-zdes-ne-mesto-mir-v-shage-ot-gerontocida.html
+	set tags zapoved,stariki,ukraina,mentalitet,nacia,gerontocid
+page
+	set url https://from-ua.com/news/550670-viktor-dyachenko-institut-nacionalnoi-pamyati-eto-organ-zanimayuschiisya-perepisivaniem-istorii-ukraini.html
+	set tags vjatrovich_vladimir,sssr,istoria,ukraina
+page
+	set url https://from-ua.com/articles/533997-problema-ukrainskoi-zavisimosti.html
+	set tags ukraina,nacia,analitika,nezalezhnist
 eof
 off
 page

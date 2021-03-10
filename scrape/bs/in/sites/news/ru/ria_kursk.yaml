@@ -3,6 +3,8 @@ sel:
   clean:
     - .navbar-brand
     - .related-posts
+    #- .wow
+    - .sticky-sidebar
   only:
     - '.entry-header'
     - [ 'figure', 0 ]

@@ -17,7 +17,6 @@ class PageParser(RootPageParser):
 
   def get_date(self,ref={}):
     super().get_date(ref)
-    import pdb; pdb.set_trace()
 
     app = self.app
     if app.page.get('date'):

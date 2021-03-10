@@ -8913,6 +8913,42 @@ page
 page
 	set url https://lifedon.com.ua/economy/agro-industrial_complex/63199-ukrainu-uverenno-prevraschayut-v-ekonomicheskuyu-pustynyu-nazvany-glavnye-vinovniki.html
 	set tags ukraina,ekonomika,desert
+page
+	set url https://from-ua.com/obzor-pressi/5258-nedoukrainci-ili-novii-narod.html
+	set tags ukraina,rossia,maidan,nacia,mentalitet
+page
+	set url https://from-ua.com/obzor-pressi/5254-ne-ochen-horoshii-sposob-nachinat-demokratiyu.html
+	set tags ukraina,juschenko_viktor,janukovich_viktor,demokratia,analiz
+page
+	set url https://gazeta.ua/articles/history/_ukrayinskij-robin-gud-borovsya-z-panami-23-roki/1019145
+	set tags karmaljuk_ustym,ukraina,robin_hood,istoria,10_mar,1787
+page
+	set url https://gazeta.ua/articles/history/_zaginuli-bilshist-zhiteliv-sela/1019152
+	set tags ukraina,istoria,mirvojna2,smert,selo,murder
+page
+	set url https://gazeta.ua/blog/54732/bozhe-yak-vin-zhiv-biografiya-sevchenka-ce-gollivudska-istoriya
+	set tags shevchenko_taras,ukraina,hollywood,istoria,life,kultura,literatura
+page
+	set url https://gazeta.ua/blog/54728/sevchenko-pokazav-yak-grandiozne-kino-minulumajbutnyu-ukrayinu
+	set tags shevchenko_taras,gogol_nikolai,istoria,ukraina,rusimperia,poezia,kultura,literatura
+page
+	set url https://pravoslavie.ru/137872.html
+	set tags rossia,ukraina,cerkov,upc,vera
+page
+	set url https://ukraina.ru/opinion/20210310/1030775213.html
+	set tags ukraina,mova,jazyk,nenavist,analitika
+page
+	set url https://ukraina.ru/history/20210310/1030774104.html
+	set tags ukraina,rossia,istoria,kultura,kuhnja,borsch,shevchenko_taras
+page
+	set url https://www.pravda.com.ua/news/2021/03/10/7286101/
+	set tags izrail,ukraina,shuhevych_roman,ternopil
+page
+	set url https://news.obozrevatel.com/russia/padezh-sajtov-nanesen-udar-po-kanalam-rossijskoj-propagandyi.htm
+	set tags rossia,internet
+page
+	set url https://news.obozrevatel.com/society/velikij-kommunist-i-russkij-polkovodets-nevskij-urok-istorii-dlya-rossiyan.htm
+	set tags rossia,nevskii_aleksandr,istoria,analitika
 eof
 off
 page

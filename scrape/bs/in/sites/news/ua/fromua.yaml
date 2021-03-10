@@ -7,10 +7,13 @@ sel:
     - .readalso
     - .tabs
     - .nav
+    - .content-header
+    - '.current,.active'
     - .send-text-error
     - '#widget-novosti-featured'
     - '#widget-glavnoe'
     - '#widget-novosti-ot-marketgid'
+    - '#header'
 
 PageParser:
   get_date:

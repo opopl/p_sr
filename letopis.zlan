@@ -8901,6 +8901,18 @@ page
 page
 	set url https://from-ua.com/articles/533997-problema-ukrainskoi-zavisimosti.html
 	set tags ukraina,nacia,analitika,nezalezhnist
+page
+	set url https://from-ua.com/news/453896-novii-perl-rossiiskoi-propagandi-nezavisimost-ukraini-dosadnaya-sluchainost.html
+	set tags ukraina,rossia,bratstvo,istoria,sssr
+page
+	set url https://from-ua.com/news/590636-zelenskii-schel-neaktualnim-vopros-o-yazike.html
+	set tags zelenskii_vladimir,mova,jazyk,ukraina
+page
+	set url https://lenta.ru/articles/2021/03/10/bondarenko/
+	set tags ukraina,diktatura,zelenskii_vladimir,politika
+page
+	set url https://lifedon.com.ua/economy/agro-industrial_complex/63199-ukrainu-uverenno-prevraschayut-v-ekonomicheskuyu-pustynyu-nazvany-glavnye-vinovniki.html
+	set tags ukraina,ekonomika,desert
 eof
 off
 page

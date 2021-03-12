@@ -9775,6 +9775,243 @@ page
 page
 	set url https://strana.ua/opinions/322258-samyj-effektivnyj-sposob-borby-s-dezinformatsiej-vovremja-vydavat-pravdu.html
 	set tags ukraina,pravda,dezinformacia
+page
+	set url https://www.radiosvoboda.org/a/news-eu-lgbti-rights/31147096.html
+	set tags evropa,es,lbgt,evroparlament
+page
+	set url https://pravoslavie.ru/137873.html
+	set tags psihologia,vera,cerkov,bog,zhizn,rossia,rusmir,ljubov,ustalost
+page
+	set url https://lenta.ru/news/2021/03/12/blinchiki/
+	set tags maslenica,rossia,detdom,bliny,krazha,smert
+page
+	set url https://lenta.ru/news/2021/03/12/hlam/
+	set tags ukraina,ljashko_oleg,covishield,covid,vaccinacia,vaccine,india
+page
+	set url https://lenta.ru/photo/2021/03/07/colourwar/?utm_source=RCM-F6FE&from=RCM-F6FE
+	set tags vov,mirvojna2,ukraina,germania,foto,okupacia
+page
+	set url https://www.riakursk.ru/kuryanka-vyigrala-chempionat-tsfo-po-klassicheskim-shakhmatam/
+	set tags rossia,chess,pobeda,kursk,hohlova_darja,chempionat
+page
+	set url https://www.riakursk.ru/kurskiy-plovets-zavoeval-6-medalyay-na-chempionate-tsfo/
+	set tags rossia,plavanie,sport,pobeda,glazunov_georgij,kursk
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-lyudi-uzhe-govoryat-zachem-nam-eta-rossiya-s-prihodom-rossii-nachalsya-takoj-deriban.htm
+	set tags ukraina,rossia,krym,zhizn
+page
+	set url https://www.radiosvoboda.org/a/donbass-realii-kakoj-dolzhna-byt-sovremennaja-biblioteka/31143791.html
+	set tags biblioteka,lnr,lugansk,ukraina,interview,knigi,kultura
+page
+	set url https://blogs.pravda.com.ua/authors/sobolev/604a79107bbc7/
+	set tags shuhevych_roman,ukraina,istoria,izrail,polsha,pamjat
+page
+	set url https://blogs.pravda.com.ua/authors/sobolev/601afdc3cb3c7/
+	set tags ukraina,sankcii,repressii,cenzura,zelenskii_vladimir,telekanal,tv,rossia
+page
+	set url https://blogs.pravda.com.ua/authors/popova/604a494b2fedf/
+	set tags rusvesna,novorossia,ukraina,2014,vojna,donbass,gordon_dmitrii,dnepropetrovsk,filatov_boris
+page
+	set url https://112ua.tv/obshchestvo/oksana-marchenko-vypustila-vtoroy-film-svoego-avtorskogo-proekta-palomnica-570655.html
+	set tags marchenko_oksana,lavra,vera,bog,cerkov,palomnik,ukraina,tv,film,kultura
+page
+	set url https://strana.ua/news/322330-bolharija-priostanavlivaet-vaktsinatsiju-ot-koronavirusa-preparatom-astrazeneca.html
+	set tags covid,vaccine,vaccinacia,bolgaria,astrazeneka
+page
+	set url https://strana.ua/news/321613-v-slovakii-bolshe-doverjajut-sputniku-v-chem-astrazeneca-i-moderna.html
+	set tags slovakia,vaccinacia,vaccine,covid,sputnik_v,pfizer,moderna,astrazeneka,rossia
+page
+	set url https://inosmi.ru/social/20210311/249308524.html
+	set tags rossia,sputnik_v,vaccine,covid,medicina,germania
+page
+	set url https://inosmi.ru/politic/20210311/249303928.html
+	set tags rossia,sputnik_v,vaccine,covid,priznanie,evropa
+page
+	set url https://inosmi.ru/news/20210306/249281395.html
+	set tags fauchi_anthony,vaccine,covid,sputnik_v,usa,rossia,medicina
+page
+	set url https://inosmi.ru/politic/20210309/249285211.html
+	set tags chehia,rossia,sputnik_v,vaccine,covid
+page
+	set url https://vz.ru/opinions/2021/3/12/1089102.html
+	set tags usa,demokratia,repressii,gajki,cenzura,analitika
+page
+	set url https://ukraina.ru/opinion/20210312/1030806832.html
+	set tags ukraina,rnbo,sovet,sankcii,zelenskii_vladimir,kolomojskii_igor,danilov_aleksei,ozhidanie
+page
+	set url https://ukraina.ru/exclusive/20210312/1030807026.html
+	set tags ukraina,rnbo,danilov_aleksei,zelenskii_vladimir,petlja,sankcii,indemnitet,2010,harkovskie_soglashenia,sbu
+page
+	set url https://ukraina.ru/exclusive/20210312/1030803299.html
+	set tags ukraina,rossia,rnbo,medvedchuk_viktor,arest,sluhi,sbu,sankcii,repressii,cenzura
+page
+	set url https://ukraina.ru/sn/20210312/1030809787.html
+	set tags ukraina,rnbo,vlast,cirk,harkovskie_soglashenia,2010,krym,rossia
+page
+	set url https://ukraina.ru/history/20210312/1030805232.html
+	set tags istoria,12_mar,polsha,ukraina,reznja,murder,upa,1944,mirvojna2
+page
+	set url https://ukraina.ru/exclusive/20210312/1030805987.html
+	set tags janukovich_viktor,medvedev_dmitrij,rossia,ukraina,harkovskie_soglashenia,rnbo,sbu,indemnitet,verhovna_rada,danilov_aleksei
+page
+	set url https://ukraina.ru/history/20191014/1025303758.html
+	set tags 1919,istoria,kiev,bolsheviki,14_oct,erenburg_ilja,vospominanie
+page
+	set url https://ukraina.ru/history/20190513/1023545522.html
+	set tags kiev,rusmir,1917,mat_gorodam_ruskim,rossia,ukraina,istoria
+page
+	set url https://ukraina.ru/history/20181214/1022078191.html
+	set tags 1918,kiev,istoria,rusimperia,rossia,rusmir,ukraina,belaja_gvardia_roman,bulgakov_mihail
+page
+	set url https://ukraina.ru/history/20180907/1021060850.html
+	set tags shulgin_vasilij,rusmir,istoria,ukraina,hohol,rossia
+page
+	set url https://ukraina.ru/exclusive/20161117/1017840948.html
+	set tags odessa,katajev_valentin,rossia,ljubov,ukraina,odessa_mama
+page
+	set url https://ukraina.ru/video_plot/20180522/1020377938.html
+	set tags ukraina,buzina_oles,vospominanie,pamjat,interview,rossia,kiev
+page
+	set url https://ukraina.ru/exclusive/20210219/1030604939.html
+	set tags 19_feb,2014,kiev,maidan2,ukraina,gosperevorot,peredyshka
+page
+	set url https://ukraina.ru/news/20150422/1012825282.html
+	set tags ravreba_maksim,ukraina,pereezd,kiev
+page
+	set url https://ukraina.ru/exclusive/20210309/1030772664.html
+	set tags ukraina,nacia,mentalitet,shevchenko_taras
+page
+	set url https://sharij.net/vef-ubral-knyaginyu-olgu-iz-spiska-izmenivshih-istoriyu-zhenshhin-posle-kritiki-poroshenko
+	set tags olga_knjaginja,rossia,ukraina,istoria,world,politika,poroshenko_petr
+page
+	set url https://sharij.net/poklonskaya-hochet-vstrechi-s-zelenskim-v-nashih-silah-izmenit-nastoyashhee-a-ne-proshloe
+	set tags poklonskaja_natalia,zelenskii_vladimir,ukraina,rossia,gosduma,krym,dialog
+page
+	set url https://sharij.net/nadezhda-savchenko-ya-pojdu-na-eshhyo-odnu-revolyucziyu
+	set tags savchenko_natalia,revolucia,interview,ukraina,maidan2,1917,2014,volja,mova,jazyk
+page
+	set url https://sharij.net/tekst-harkovskih-soglashenij-gotovil-zamestitel-danilova-smi
+	set tags danilov_aleksei,ukraina,rossia,harkovskie_soglashenia,rnbo,2010
+page
+	set url https://blogs.pravda.com.ua/authors/danilov/46bc600955e9f/
+	set tags danilov_aleksei,ukraina,nacia,mysli,derzhava,platon
+page
+	set url https://blogs.pravda.com.ua/authors/danilov/46b0fdc0866b6/
+	set tags ukraina,zhurnalist,shevchenko_petr,murder,lugansk,pravda
+page
+	set url https://blogs.pravda.com.ua/authors/danilov/46a9ef43ad203/
+	set tags ukraina,vranje
+page
+	set url https://blogs.pravda.com.ua/authors/danilov/46b6d275213e6/
+	set tags moral,politika,ukraina,krizis
+page
+	set url https://lenta.ru/news/2021/03/12/olga/
+	set tags olga_knjaginja,poroshenko_petr,rusmir,kievrus,davos,ukraina,world,marazm
+page
+	set url https://lenta.ru/news/2021/03/12/poroh/
+	set tags poroshenko_petr,ukraina,rossia,harkovskie_soglashenia,2010,vygoda,najem_mustafa,janukovich_viktor
+page
+	set url https://lenta.ru/articles/2021/03/12/nn/
+	set tags nizhnij_novgorod,rossia,istoria,800_letie,prazdnovanie
+page
+	set url https://plus.obozrevatel.com/crime/felgengauer-kreml-hochet-udarit-pervyim-i-gotovit-nastuplenie-k-dnepru.htm
+	set tags ukraina,rossia,zapad,medvedchuk_viktor,sankcii,repressii
+page
+	set url https://news.obozrevatel.com/politics/nachalas-zachistka-medvedchuka-kurchenko-i-interesov-rossii-i-kitaya-v-ukraine.htm
+	set tags danilov_aleksei,medvedchuk_viktor,rnbo,ukraina,rossia,sankcii,cenzura,repressii
+page
+	set url https://news.obozrevatel.com/society/dvorets-sovetov-utopicheskij-proekt-sssr-stoimostyu-v-neskolko-gorodov.htm
+	set tags dvorec_sovetov,istoria,sssr,moskva,kirov_sergej,hram_hrista_spasitelja,1931
+page
+	set url https://kharkov.strana.ua/322380-v-kharkove-na-stene-stantsii-metro-majdan-konstitutsii-napisali-stm-imeni-nato.html
+	set tags harkov,metro,nato,usa,flag
+page
+	set url https://strana.ua/news/322374-ssha-initsiirujut-kampaniju-po-diskreditatsii-sputnika-v.html
+	set tags usa,kreml,dezinformacia,sputnik_v,vaccine,covid,rossia
+page
+	set url https://strana.ua/news/322377-v-azerbajdzhane-odobrili-primenenie-sputnika-v.html
+	set tags azerbajdzhan,sputnik_v,rossia,pokupka,covid,vaccine
+page
+	set url https://strana.ua/news/322248-ministr-zdravookhranenija-slovakii-pokinul-post-iz-za-rossijskoj-vaktsiny-sputnik-v.html
+	set tags sputnik_v,vaccine,covid,rossia,slovakia,skandal,otstavka,minzdrav
+page
+	set url https://strana.ua/news/322279-izdatelstvo-kieva-reshilo-vycherknut-iz-knihi-upominanie-o-sekse-mezhdu-parnjami.html
+	set tags kniga,ukraina,skandal,seks,shvecia
+page
+	set url https://strana.ua/opinions/315119-73-protsentov-holosovali-ne-za-to-chtoby-u-nas-zapreshchali-nepravilnye-knihi.html
+	set tags ukraina,73_percent,knigi,zapret,narod
+page
+	set url https://fakty.ua/370177-soblaznil-nevestu-lyubimogo-uchitelya-za-chto-shevchenko-mog-nenavidet-carya-nikolaya-i
+	set tags shevchenko_taras,kniga,ukraina,biografia,rosoveckij_stanislav
+page
+	set url https://crime.fakty.ua/70247-za-osnovu-pamyatnika-tarasu-shevchenko-na-chernechej-gore-skulptor-manizer-vzyal-zerkalnoe-otobrazhenie-monumenta-ustanovlennogo-v-skvere-naprotiv-kievskogo-universiteta
+	set tags ukraina,istoria,pamjatnik,shevchenko_taras,kultura
+page
+	set url https://crime.fakty.ua/70837-v-svoem-zavecshanii-grigorij-shevchenko-opredelil-quot-sinovi-tarasu-iz-mogo-hazyajstva-nichogo-ne-treba-z-jogo-bude-abo-cshos-duzhe-dobre-abo-velike-ledacsho-quot
+	set tags shevchenko_taras,zaveschanie,ukraina,istoria,kultura,literatura,poezia,shevchenko_grigorij_otec_tarasa
+page
+	set url brjullov_karl
+	set tags hudozhnik,shevchenko_taras,istoria,rossia,ukraina,art,vystavka,moskva
+page
+	set url https://culture.fakty.ua/178022-ivan-dzyuba-u-shevchenko-kak-v-biblii-mozhno-najti-slovo-na-vse-sluchai-zhizni
+	set tags shevchenko_taras,istoria,rozhdenie,1814,9_mar,25_feb,shevchenko_grigorij_otec_tarasa,ukraina,dzjuba_ivan
+page
+	set url https://culture.fakty.ua/159273-chtoby-kazhdyj-den-videtsya-s-docheryu-taras-shevchenko-stal-davat-ej-uroki-risovaniya
+	set tags shevchenko_taras,dochka,istoria,ukraina,maksimovich_mihail,kiev
+page
+	set url https://crime.fakty.ua/17286-taras-shevchenko-ne-tolko-mechtal-postavit-hatu-nad-dneprom-no-i-razrabotal-ee-arhitekturnyj-proekt-predusmotrev-vse-detali
+	set tags shevchenko_taras,dnepr,kiev,ukraina,istoria,mechta
+page
+	set url https://culture.fakty.ua/129494-tarasa-shevchenko-sobiralis-pohoronit-v-kieve-obsuzhdalis-tri-mesta-cshekavickaya-gora-askoldova-mogila-i-vydubickij-monastyr
+	set tags shevchenko_taras,istoria,pohoron,kiev,ukraina,smert,askoldova_mogila
+page
+	set url https://fakty.ua/133211-kogda-spustya-78-let-posle-smerti-tarasa-shevchenko-razryli-ego-mogilu-i-otkryli-grob-poet-lezhal-kak-zhivoj
+	set tags kiev,ukraina,istoria,kanev,smert,shevchenko_taras
+page
+	set url https://culture.fakty.ua/57349-u-avtora-quot-kobzarya-quot-byl-praded-andrej-shevchenko-i-tri-rodnye-sestry-po-imeni-mariya
+	set tags shevchenko_taras,istoria,ukraina,kobzar,1861,kiev
+page
+	set url https://www.radiosvoboda.org/a/pavlo-kazarin-anhliyska-zamist-rosiyskoi-movy/31147398.html
+	set tags mova,jazyk,english,ukraina,danilov_aleksei,language
+page
+	set url https://vz.ru/world/2021/3/12/1089084.html
+	set tags astrazeneka,evropa,vaccinacia,neudacha
+page
+	set url https://lenta.ru/news/2021/03/12/atack/
+	set tags pfizer,sputnik_v,vaccine,covid,rossia,usa,dezinformacia
+page
+	set url https://vz.ru/society/2021/3/12/1088888.html
+	set tags rusimperia,rossia,istoria,sssr,nauka
+page
+	set url https://www.vesti.ru/article/2535727
+	set tags sputnik_v,vaccine,covid,rossia,usa,dezinformacia,ataka
+page
+	set url https://news.obozrevatel.com/russia/rossiya-beremennaya-vojnoj.htm
+	set tags rossia,beremennost,vojna
+page
+	set url https://strana.ua/news/322385-v-prohramme-hrihorija-azarenka-tajnye-pruzhiny-politiki-ukraintsev-nazvali-vymirajushchim-narodom.html
+	set tags belarus,ukraina,tv,narod
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-s-23-marta-nachinaetsya-priem-zayavleniy-v-detskie-lagerya/
+	set tags rossia,kursk,deti,lager
+page
+	set url http://lug-info.com/news/one/volonter-peredal-65-nastolnykh-igr-bibliotekam-krasnogo-lucha-foto-65484
+	set tags lnr,mir_luganschine,podarok,volonter
+page
+	set url https://gazeta.ua/articles/poglyad/_putin-geopolitichno-bozhevilnij/1019442
+	set tags rossia,putin_vladimir
+page
+	set url http://lug-info.com/news/one/aktivisty-od-mir-luganschine-peredali-20-kg-sladostei-vospitannikam-rovenkovskogo-detsada-foto-65492
+	set tags deti,sladosti,podarok,mir_luganschine,lnr,lugansk,volonter
+page
+	set url https://strana.ua/articles/interview/322425-vladimir-litvin-zajajail-chto-snbo-pytaetsja-sbit-eho-s-konkursa-na-rektora-knu-shevchenko.html
+	set tags litvin_vladimir,ukraina,rnbo,skandal,gosizmena,2010,harkovskie_soglashenia,deputat,interview
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://strana.ua/news/322361-tsentr-po-protivodejstviju-dezinformatsii-pri-zelenskom-chto-eto-takoe.html
+	set tags ukraina,zelenskii_vladimir,bot,fejk,dezinformacia
 eof
 off
 page

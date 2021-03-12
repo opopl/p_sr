@@ -25,25 +25,20 @@ sel:
 PageParser:
   get_author_html:
     sels:
-      # older
       - { 
-          'url' : {
-              'find'   : 'span.author-article a',
-              'get'    : 'attr',
-              'attr'   : 'href',
+          'search' : {
+              'css'   : [ 
+                'span.author-article a',
+                '.opinion-author .name',
+              ],
+              'map' : {
+                  'name' : 'text',
+                  'url'  : { 
+                    'get' : 'attr',
+                    'attr' : 'href',
+                  }
+              },
           },
-          'name' : {
-              'find'   : 'span.author-article a',
-              'get'    : 'text',
-          }
-        }
-        # opinions
-      - { 
-          'name' : {
-              'find' : '.opinion-author .name', 
-              'get'  : 'text',
-          },
-          'url' : {}
         }
         
   get_date_html:

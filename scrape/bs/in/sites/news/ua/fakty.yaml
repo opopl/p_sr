@@ -8,29 +8,32 @@ sel:
 
 PageParser:
   get_date:
+    tries: 
+      order:
+        - meta
+        - html
   get_date_meta:
   get_date_ld_json:
   get_date_url:
   get_date_html:
     sels:
       - { 
-          'find'  : '',
-          'get'   : 'attr',
-          'attr'  : '',
-          'split' : ' ',
+          'find'  : '#article_date',
+          'get'   : 'text',
         }
   get_author:
   get_author_html:
     sels:
       - { 
-          'url' : {
-              'find' : '', 
-              'get'  : 'attr',
-              'attr' : 'href' 
-          },
-          'name' : {
-              'find' : '',
-              'get'  : 'text',
+          'search' : {
+              'css' : [ ],
+              'map' : {
+                  'name' : 'text',
+                  'url'  : { 
+                    'get' : 'attr',
+                    'attr' : 'href',
+                  }
+              },
           }
         }
   get_author_meta:

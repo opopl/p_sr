@@ -9574,9 +9574,6 @@ page
 page
 	set url https://strana.ua/news/322198-kharkovskie-sohlashenija-i-uholovnye-dela-na-akhmetova-i-eshche-235-deputatov-kakaja-svjaz.html
 	set tags ukraina,danilov_aleksei,gosizmena,2010,harkovskie_soglashenia,rnbo,chernomorskij_flot,krym
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://strana.ua/news/322200-hde-i-pochemu-prekratili-vaktsinatsiju-astrazeneca.html
 	set tags astrazeneka,ukraina,evropa,pobochka,vaccine,vaccinacia,ostanovka
@@ -9950,8 +9947,11 @@ page
 	set url https://crime.fakty.ua/70837-v-svoem-zavecshanii-grigorij-shevchenko-opredelil-quot-sinovi-tarasu-iz-mogo-hazyajstva-nichogo-ne-treba-z-jogo-bude-abo-cshos-duzhe-dobre-abo-velike-ledacsho-quot
 	set tags shevchenko_taras,zaveschanie,ukraina,istoria,kultura,literatura,poezia,shevchenko_grigorij_otec_tarasa
 page
-	set url brjullov_karl
-	set tags hudozhnik,shevchenko_taras,istoria,rossia,ukraina,art,vystavka,moskva
+	set url https://culture.fakty.ua/158942-hodyat-legendy-chto-za-risunok-karla-bryullova-davali-stolko-zolotyh-monet-skolko-na-risunke-pomecshalos
+	set tags hudozhnik,shevchenko_taras,istoria,rossia,ukraina,art,vystavka,moskva,brjullov_karl
+	set redo 1
+	setlist acts
+		db_update
 page
 	set url https://culture.fakty.ua/178022-ivan-dzyuba-u-shevchenko-kak-v-biblii-mozhno-najti-slovo-na-vse-sluchai-zhizni
 	set tags shevchenko_taras,istoria,rozhdenie,1814,9_mar,25_feb,shevchenko_grigorij_otec_tarasa,ukraina,dzjuba_ivan
@@ -10006,12 +10006,12 @@ page
 page
 	set url https://strana.ua/articles/interview/322425-vladimir-litvin-zajajail-chto-snbo-pytaetsja-sbit-eho-s-konkursa-na-rektora-knu-shevchenko.html
 	set tags litvin_vladimir,ukraina,rnbo,skandal,gosizmena,2010,harkovskie_soglashenia,deputat,interview
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://strana.ua/news/322361-tsentr-po-protivodejstviju-dezinformatsii-pri-zelenskom-chto-eto-takoe.html
 	set tags ukraina,zelenskii_vladimir,bot,fejk,dezinformacia
+page
+	set url https://strana.ua/news/322375-problemy-s-astrazeneca-pochemu-vaktsinatsiju-priostanovili-13-stran.html
+	set tags astrazeneka,vaccinacia,otkaz,world,covid,vaccine
 eof
 off
 page

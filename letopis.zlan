@@ -10063,6 +10063,140 @@ page
 page
 	set url https://lenta.ru/news/2021/03/11/astratromb/
 	set tags ostanovka,astrazeneka,world,vaccinacia,vaccine,covid,tromboz
+page
+	set url https://gazeta.ua/articles/world-life/_vooz-dala-dobro-novij-vakcini-vid-koronavirusu/1019792
+	set tags vooz,world,vaccine,covid,razreshenie
+page
+	set url https://gazeta.ua/blog/54744/zelenskomu-treba-viznati-scho-u-nogo-maniya-velichi-zijti-zi-sceni-i-sisti-v-zal
+	set tags zelenskii_vladimir,ukraina,psihologia,mania,velichie
+page
+	set url https://gazeta.ua/articles/donbas/_v-rnbo-zayavili-pro-psihologichnu-ataku-rosiyi/1019790
+	set tags rnbo,ukraina,rossia,ataka,psihologia,vojna,donbass
+page
+	set url https://www.radiosvoboda.org/a/sscha-vymagaut-vid-rosii-zvilnyny-politvyazniv/31148186.html
+	set tags ukraina,rossia,krym,usa,prizyv
+page
+	set url https://from-ua.com/mneniya/591074-sergei-shahov-poka-u-politikov-klassa-a-v-ukraine-ne-naladitsya-s-golovoi-mira-ne-vidat.html
+	set tags ukraina,rossia,politika,golova,donbass,vojna
+page
+	set url https://pravoslavie.ru/68804.html
+	set tags proschenije,vera,cerkov,rusmir,rossia,proschenoe_voskresenie,voskresenie
+page
+	set url https://plus.obozrevatel.com/kiyany/crime/v-kieve-devushka-pokonchila-s-soboj-povesivshis-v-podezde-doma.htm
+	set tags ukraina,kriminal,devushka,suicid,smert,policia
+page
+	set url https://zaxid.net/kuhnya_geroyiv_n1515695
+	set tags ukraina,geroj,shuhevych_roman,ternopil,analitika,nacia,istoria,bandera_stepan
+page
+	set url https://world.fakty.ua/370657-koroleva-elizaveta-vpervye-posle-intervyu-megan-i-garri-poyavilas-na-publike-poshutiv-pro-yuriya-gagarina
+	set tags britania,gagarin_jurij,elizaveta_II_koroleva,1961,rossia,sssr,istoria
+page
+	set url https://society.fakty.ua/370483-v-ukrainskom-vuze-torzhestvenno-otkryli-tualet-yazykovoj-ombudsmen-trebuet-raspravy
+	set tags kremin_taras,ukraina,vuz,tualet,mova,jazyk,skandal,ukrainizacia
+page
+	set url https://society.fakty.ua/370352-ochen-nelogichno-institut-nacionalnoj-pamyati-prizval-ukraincev-zadumatsya-o-prazdnike-8-marta
+	set tags ukraina,institut_nacpamjati,8_marta,logika,prazdnik,prazdnovanie
+page
+	set url https://www.vesti.ru/article/2535945
+	set tags brazil,rossia,pokupka,kontrakt,sputnik_v,vaccine,covid
+page
+	set url https://smotrim.ru/article/2535781
+	set tags strah,bolezn,rossia,spasenie,vrach,bolnica,st_peterburg
+page
+	set url https://smotrim.ru/article/2535864
+	set tags sputnik_v,infvojna,vaccine,covid,serbia,rossia,proval
+page
+	set url https://riakursk.ru/kuryane-mogut-kupit-bilety-na-vystavku-v-bozhiy-mir-cherez-prikosnovenie-za-5-rublyay/
+	set tags kursk,rossia,muzej,ikona,vera,istoria,cerkov,isskustvo,derevo
+page
+	set url https://www.riakursk.ru/v-kurske-ushel-iz-zhizni-glavnyy-vrach-bolnitsy-imeni-samashko-aleksandr-chikhirin/
+	set tags rossia,kursk,smert,bolnica
+page
+	set url https://riakursk.ru/dlya-9-kurskikh-detyay-so-spinalnoy-myshechnoy-atrofiyay-zakupyat-lekarstva-cherez-fond-krug-dobra/
+	set tags rossia,kursk,deti,pomosch,medicina,bolezn
+page
+	set url https://inosmi.ru/video/20210313/237294841.html
+	set tags usa,kuhnja,rossia,holodec
+page
+	set url https://inosmi.ru/inoblog/20210313/249294032.html
+	set tags rossia,kitaj,sladosti,narkotik
+page
+	set url https://inosmi.ru/social/20210312/249319030.html
+	set tags astrazeneka,reputacia,koncepcia,vaccine,covid,vaccinacia,ostanovka,world,dania
+page
+	set url https://ukraina.ru/opinion/20210312/1030815721.html
+	set tags ukraina,medik,rabota,bolnica,raduckii_mihail,klichko_vitalij,kiev
+page
+	set url https://ukraina.ru/opinion/20200403/1027253371.html
+	set tags usa,medicina,kollaps
+page
+	set url https://ukraina.ru/exclusive/20210312/1030812271.html
+	set tags kuleba_dmitrii,krym,deokupacia,plan,ukraina,rossia
+page
+	set url https://ukraina.ru/exclusive/20210312/1030789746.html
+	set tags ukraina,sluga_naroda,kpss
+page
+	set url https://ukraina.ru/opinion/20210312/1030814598.html
+	set tags ukraina,sankcii,usa,kolomojskii_igor,vojna
+page
+	set url https://ukraina.ru/exclusive/20210312/1030817737.html
+	set tags ukraina,hleb,zrelischa,zelenskii_vladimir,vlast
+page
+	set url https://ukraina.ru/interview/20210312/1030814454.html
+	set tags ukraina,rossia,zakon,rnbo,terror,repressii,sankcii,harkovskie_soglashenia,gosizmena
+page
+	set url https://ukraina.ru/interview/20210212/1030537582.html
+	set tags us_embassy,usa,zelenskii_vladimir,prikaz,opzzh,cenzura,repressii,sankcii
+page
+	set url http://lug-info.com/news/one/ministr-zdravookhraneniya-lnr-vruchila-gramotu-shkolniku-spasshemu-provalivshegosya-v-yamu-druga-foto-65496
+	set tags lnr,ministr,minzdrav,shkola,deti,spasenie,drug,gramota
+page
+	set url http://lug-info.com/news/one/spasateli-podnyali-iz-zorinskoi-shakhty-19-gornyakov-iz-za-ostanovki-ventilyatora-mchs-58046
+	set tags lnr,spasenie,shahta
+	set date 01_01_1900
+page
+	set url http://lug-info.com/news/one/vlasti-evakuirovali-uchaschikhsya-shkoly-v-zolotom-5-vo-vremya-obstrela-so-storony-vsu-kobtseva-65444
+	set tags ukraina,vojna,donbass,lnr,shkola,deti,evakuacia
+	set date 01_01_1900
+page
+	set url https://zen.yandex.ru/media/smapse/slaviane-o-kotoryh-vy-ne-znaete-gde-oni-jivut-6025096dcd2cb47e63a85dcc
+	set tags slavjane,zhizn,geografia,narod
+page
+	set url https://zen.yandex.ru/media/history_russian/ioakimovskaia-letopis-utrachennoe-znanie-o-dohristianskoi-rusi-60250e34b1a0bb52b49ca610
+	set tags rossia,rusmir,istoria,letopis,gerodot,tatischev_vasilij
+page
+	set url https://zen.yandex.ru/media/id/600a93756f1fa165c1d09105/pervyi-god-v-rossii-priiatnye-otkrytiia-i-iarkie-vpechatleniia-6040d607151e69287750a8cd
+	set tags rossia,zhizn,pereselenec,impressions
+page
+	set url https://zen.yandex.ru/media/ruopen2/kamerunec-teo-priehal-v-rossiiu-pristrastilsia-k-smetane-i-stal-russkim-604a1cd253bd6e5e97d52e1d
+	set tags kamerun,rossia,afrika,immigrant,zhizn,krasnodar,zhena,svadba
+page
+	set url https://zen.yandex.ru/media/internetwar/otkuda-est-poshla-zemlia-nijegorodskaia-60012529dc0ac42b28eabbc1
+	set tags istoria,nizhnij_novgorod,letopis,rossia,volga,murom
+page
+	set url https://zen.yandex.ru/media/philological_maniac/zavtra-vedryi-den-budet-eto-kakoi-chto-nazyvali-slovom-vedro-na-rusi-60322094756eeb31f0a2ea46
+	set tags rossia,istoria,vedro,slovo
+page
+	set url https://zen.yandex.ru/media/philological_maniac/zamerz-kak-cucik--vyrajenie-so-vremen-ekateriny-ii-kto-takoi-cucik-na-samom-dele-5ff439d0bb14d54ffb03f926
+	set tags rusmir,ekaterina_II,slovo,cucyk,rossia,istoria,ukraina,jazyk,language
+page
+	set url https://zen.yandex.ru/media/jpgazeta.ru/aleksandr-rodjers-pochemu-rossiia-vsegda-byla-i-budet-imperiei-60488a9304378d7ce5844ae9
+	set tags rossia,imperia,mysli,analitika,istoria,gegel_georg,dialektika,kitaj
+page
+	set url https://zen.yandex.ru/media/id/5e3c28c16a2d430435041c95/my-boleem-za-byka-pochemu-russkih-na-korride-sajaiut-otdelno-60449fdb44edc6668173a1ea
+	set tags bolelschik,rossia,ispania,korrida,byk
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/otvety-prosnuvshegosia-o-rossii-matushke--chto-bylo-est-i-budet-60474f5fb8613c1dbb8ddbcd
+	set tags rossia,kultura,svarog,istoria,future
+page
+	set url https://www.mk.ru/politics/2021/03/07/my-na-krayu-anatoliy-shariy-predrek-padenie-ukrainy-v-bezdnu.html?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags sharii_anatolii,ukraina,bezdna,zelenskii_vladimir
+page
+	set url https://zen.yandex.ru/media/moslenta/moskvichka-reshila-sobrat-vse-ornamenty-rossii-chto-iz-etogo-vyshlo-5fea35d8b17f202ff3fe547f
+	set tags ornament,rossia,kultura,sobranie,isskustvo,moskva
+page
+	set url https://zen.yandex.ru/media/id/5ec000bb7f5192548fb26d8f/iskajennye-personaji-v-istorii-tolerantnyi-vzgliad-zapada-ili-kuda-my-katimsia-6031e5efa332dd73731f9866
+	set tags rossia,negro,kultura,zapad
 eof
 off
 page

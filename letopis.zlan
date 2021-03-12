@@ -9949,9 +9949,6 @@ page
 page
 	set url https://culture.fakty.ua/158942-hodyat-legendy-chto-za-risunok-karla-bryullova-davali-stolko-zolotyh-monet-skolko-na-risunke-pomecshalos
 	set tags hudozhnik,shevchenko_taras,istoria,rossia,ukraina,art,vystavka,moskva,brjullov_karl
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://culture.fakty.ua/178022-ivan-dzyuba-u-shevchenko-kak-v-biblii-mozhno-najti-slovo-na-vse-sluchai-zhizni
 	set tags shevchenko_taras,istoria,rozhdenie,1814,9_mar,25_feb,shevchenko_grigorij_otec_tarasa,ukraina,dzjuba_ivan
@@ -10012,6 +10009,60 @@ page
 page
 	set url https://strana.ua/news/322375-problemy-s-astrazeneca-pochemu-vaktsinatsiju-priostanovili-13-stran.html
 	set tags astrazeneka,vaccinacia,otkaz,world,covid,vaccine
+page
+	set url https://vz.ru/politics/2021/3/12/1089174.html
+	set tags rossia,usa,zapad,vaccine,covid,sputnik_v,serbia,ataka,dezinformacia
+page
+	set url https://vz.ru/news/2021/3/12/1089184.html
+	set tags es,evropa,astrazeneka,vaccine,covid,pobochka
+page
+	set url https://strana.ua/news/322458-timoshenko-i-putin-dohovorilis-o-razmeshchenii-chernomorskoho-flota-v-ukraine-za-hod-do-kharkovskikh-sohlashenij.html
+	set tags timoshenko_julia,litvin_vladimir,putin_vladimir,rossia,ukraina,harkovskie_soglashenia,2010
+page
+	set url https://strana.ua/news/322443-polnyj-tekst-obrashchenija-zelenskoho-o-reshenijakh-snbo-i-borbe-s-oliharkhami.html
+	set tags ukraina,zelenskii_vladimir,obraschenie,rnbo,nacia,narod,cenzura,repressii,sankcii
+page
+	set url https://strana.ua/news/322442--zelenskij-zapisal-video-po-novym-reshenijam-snbo.html
+	set tags zelenskii_vladimir,ukraina,rossia,sankcii,repressii,cenzura,dezinformacia
+page
+	set url https://strana.ua/opinions/322404-v-informatsionnuju-epokhu-vyihryvaet-tot-chto-umeet-sobirat-informatsiju.html
+	set tags ukraina,mnenie,informacia,infvojna,pobeda
+page
+	set url https://strana.ua/opinions/322444-lvovskij-dotsent-predlahaet-pereimenovat-uman-v-bander-siti.html
+	set tags ukraina,uman,bandera_stepan,pereimenovanija,lvov,nacia
+page
+	set url https://strana.ua/opinions/322452-snbo-prevratilsja-v-marhinalnoe-piar-ahentstvo-prezidenta.html
+	set tags ukraina,rnbo,prezident,dezinformacia,mnenie
+page
+	set url https://strana.ua/opinions/322104-udivitelnaja-mozaika-sobytij-poslednikh-dnej-v-ukraine.html
+	set tags ukraina,mozaika
+page
+	set url https://strana.ua/opinions/322338-v-nashikh-uslovijakh-patriotizm-mozhet-okazatsja-i-sortirnym.html
+	set tags ukraina,patriotizm,kremin_taras,tualet,mova,ukrainizacia
+page
+	set url https://strana.ua/news/322469-ukrainets-bez-oshibok-nazval-23-tysjachi-tsifr-posle-zapjatoj-v-chisle-pi.html
+	set tags matematika,ukraina,chislo_pi,pamjat,psihologia,naizust,rekord,sumy,girin_artem
+page
+	set url https://strana.ua/news/322462-po-lohike-snbo-v-hosizmene-mozhno-ulichit-kravchuka-kuchmu-i-bohdana-khmelnitskoho-litvin.html
+	set tags ukraina,rnbo,hmelnickii_bogdan,litvin_vladimir,kravchuk_leonid,repressii,sbu,gosizmena
+page
+	set url https://strana.ua/articles/analysis/322363-pochemu-vlasti-reanimirujut-idei-suprun-po-doplate-za-medusluhi.html
+	set tags raduckii_mihail,medicina,ukraina,verhovna_rada,strahmed
+page
+	set url https://www.pravda.com.ua/news/2021/03/12/7286457/
+	set tags ukraina,donbass,oos,vojna,peremirie
+page
+	set url https://strana.ua/news/322448-nuzhno-razobratsja-s-temi-kto-pisal-i-prinimal-kharkovskie-sohlashenija.html
+	set tags zelenskii_vladimir,harkovskie_soglashenia,2010,rnbo,ukraina,gosizmena
+page
+	set url https://lenta.ru/news/2021/03/12/katusha/
+	set tags rossia,pesnja,katjusha,tokio,japonia,olympic_games,zapret
+page
+	set url https://lenta.ru/news/2021/03/13/slovak_astra/
+	set tags vaccine,covid,astrazeneka,slovakia,smert,woman,shkola
+page
+	set url https://lenta.ru/news/2021/03/11/astratromb/
+	set tags ostanovka,astrazeneka,world,vaccinacia,vaccine,covid,tromboz
 eof
 off
 page

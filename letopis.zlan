@@ -10197,6 +10197,24 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ec000bb7f5192548fb26d8f/iskajennye-personaji-v-istorii-tolerantnyi-vzgliad-zapada-ili-kuda-my-katimsia-6031e5efa332dd73731f9866
 	set tags rossia,negro,kultura,zapad
+page
+	set url https://zen.yandex.ru/media/id/5f56bf583b3fcc0674d1d4df/russkii-iazyk-boga-chast-vosmaia-mnenie-amerikancev-o-russkom-iazyke-6042284eb8613c1dbb16fc38
+	set tags rossia,rusmir,jazyk,bog,amerika
+page
+	set url https://zen.yandex.ru/media/id/5f56bf583b3fcc0674d1d4df/ukraina-zahvatit-krym-kotel-v-debalcevo-uspeh-vsu-russkii-iazyk-prinadlejit-ukraincam-kratkii-daidjest-novostei-iz-ukrainy-603f40fa5f6b8d26fe608a89
+	set tags rossia,krym,ukraina,chernovol_tatjana,bezumie,jazyk,debalcevo,avakov_arsen,gordon_dmitrii
+page
+	set url https://zen.yandex.ru/media/id/5f56bf583b3fcc0674d1d4df/russkii-iazyk-boga-chast-piataia-zvanie-baby-nujno-zaslujit-ne-vsiakaia-byla-dostoina-603bebb682fc21754d67065b
+	set tags rossia,istoria,filologia,slovo,baba,deti,pravoslavie,vera
+page
+	set url https://zen.yandex.ru/media/philological_maniac/budilnik--chto-oznachalo-eto-slovo-vo-vremena-rusi-60003545dc0ac42b28a75d1e
+	set tags rusmir,istoria,slovo,budilnik,filologia,rossia
+page
+	set url https://zen.yandex.ru/media/id/5e1deb60a1bb8700b26a71ee/slaviane-ulichi-kotorym-ne-vezlo-6017b5297fd0a5390f3777df
+	set tags istoria,slavjane,rusmir,rossia,ukraina,ulichi
+page
+	set url https://tsargrad.tv/news/tak-umyt-ves-zemshar-mozhet-tolko-rossija-voenkor-soobshhil-o-russkoj-sile-moshhnee-oruzhija_330826
+	set tags rossia,zemlja,planeta,sputnik_v,vaccine,covid
 eof
 off
 page

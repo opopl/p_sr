@@ -1,6 +1,7 @@
 
 sel:
   only:
+    - .page-head-block
     - article
   clean:
     - .article_choice_pic

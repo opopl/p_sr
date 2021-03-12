@@ -25,6 +25,7 @@ sel:
 PageParser:
   get_author_html:
     sels:
+      # older
       - { 
           'url' : {
               'find'   : 'span.author-article a',

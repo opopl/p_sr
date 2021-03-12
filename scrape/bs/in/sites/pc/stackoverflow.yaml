@@ -1,13 +1,10 @@
 
 sel:
   clean:
-    #- .float_href_block 
+    - '.top-bar'
+    - '#left-sidebar'
+    - '#sidebar'
   only:
-    #- .display_table
-    - .top_big_img_article__info
-    - .top_big_img_article__img
-    - .article_page__left__opinion
-    - article
   keep:
 
 PageParser:
@@ -18,9 +15,9 @@ PageParser:
   get_date_html:
     sels:
       - { 
-          'find'  : '',
+          'find'  : '.relativetime',
           'get'   : 'attr',
-          'attr'  : '',
+          'attr'  : 'title',
           'split' : ' ',
         }
   get_author:
@@ -28,14 +25,13 @@ PageParser:
     sels:
       - { 
           'url' : {
-              'find' : 'div[itemprop="author"]',
+              'find' : '', 
               'get'  : 'attr',
-              'attr' : 'data-url' 
+              'attr' : 'href' 
           },
           'name' : {
-              'find' : 'div[itemprop="author"]',
-              'get'  : 'attr',
-              'attr' : 'data-title',
+              'find' : '',
+              'get'  : 'text',
           }
         }
   get_author_meta:

@@ -8,6 +8,7 @@ sel:
     - .lenta2
   only:
     - article
+    - '#xdm-container'
 
 PageParser:
   get_date:
@@ -27,12 +28,30 @@ PageParser:
     sels:
       - { 
           'search' : { 
-            'css' : 'article tbody tr .extra',
+            'css' : [ 
+              'article tbody tr .extra',
+              'article .extra',
+            ],
             'text' : {
               'lines' : {
                 'match' : { 
                   'pat'  : 'Текст:\s+(.*)$',
                   'name' : 1,
+                }
+              }
+            }
+          }
+        }
+      - { 
+          'search' : { 
+            'css' : [ 
+              '.expert h5 a',
+            ],
+            'text' : {
+              'lines' : {
+                'match' : { 
+                  'pat'       : '(.*)',
+                  'get_first' : 1,
                 }
               }
             }

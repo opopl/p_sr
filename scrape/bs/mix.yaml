@@ -11,6 +11,8 @@ include:
     - pc.docs.python
     - pc.docs.mozilla
     - com.us.apple
+###pc
+    - pc.stackoverflow
 ###lnr
     - news.lnr.lug_info
 ###news_ru

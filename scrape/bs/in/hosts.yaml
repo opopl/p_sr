@@ -59,6 +59,7 @@
 
 ###pc
 
+'stackoverflow.com' : { 'site' : 'pc.stackoverflow' }
 'cairographics.org' : { 'site' : 'pc.cairographics' }
 'cairosvg.org' : { 'site' : 'pc.cairosvg' }
 'docs.python.org' : { 'site' : 'pc.docs.python' }

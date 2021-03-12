@@ -9763,6 +9763,18 @@ page
 page
 	set url https://day.kyiv.ua/uk/article/kultura/vizerunky-mizh-sercyamy
 	set tags ukraina,mysli,teatr,kultura,chelovek,beregynja
+page
+	set url http://lug-info.com/news/one/zaschitnik-respubliki-pogib-pri-obstrele-so-storony-vsu-narodnaya-militsiya-65458
+	set tags lnr,nm_lnr,ukraina,vsu,vojna,donbass,smert,obstrel
+page
+	set url https://strana.ua/news/322268-chto-izvestno-ob-ubijstve-mashi-borisovoj-pod-khersonom.html
+	set tags ukraina,herson,murder,borisova_maria,deti,kriminal,policia
+page
+	set url https://strana.ua/opinions/322286-prezhde-chem-propahandirovat-anhlijskij-jazyk-danilovu-stoilo-by-vyuchit-ukrainskij.html
+	set tags danilov_aleksei,ukraina,language,english,rnbo,mnenie,mova
+page
+	set url https://strana.ua/opinions/322258-samyj-effektivnyj-sposob-borby-s-dezinformatsiej-vovremja-vydavat-pravdu.html
+	set tags ukraina,pravda,dezinformacia
 eof
 off
 page

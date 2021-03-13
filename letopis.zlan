@@ -10404,6 +10404,234 @@ page
 page
 	set url https://vz.ru/opinions/2021/3/13/1088697.html
 	set tags rossia,evropa,politika,world,analitika,mysli
+page
+	set url https://strana.ua/news/322560-na-krasnoj-ploshchadi-v-moskve-zaderzhali-holoho-muzhchinu.html
+	set tags rossia,moskva,perfomans,chelovek
+page
+	set url https://www.pravda.com.ua/news/2021/03/13/7286533/
+	set tags ukraina,vojna,donbass,vsu,smert
+page
+	set url https://censor.net/ru/resonance/3252231/spvachka_hristina_panasyuk_vdpravlyash_novu_psnyu_hloptsyam_u_dap_a_voni_vmikayut_u_radoefr_zamst_peregovorv
+	set tags ukraina,vojna,donbass,pesnja,dusha,vsu,panasjuk_hristina
+page
+	set url https://censor.net/ru/resonance/3252729/mi_mogli_b_vigotovlyati_analogi_vaktsin_astrazeneka_ta_moderna_vikonavchiyi_direktor_kompan_farmak_volodimir
+	set tags vaccine,covid,proizvodstvo,astrazeneka,moderna,ukraina,farmak,farmacevtika
+page
+	set url https://censor.net/ru/blogs/3253121/kult_bezvdpovdalnost_relgya_atestv
+	set tags ukraina,chelovek,future,deti,planeta
+page
+	set url https://censor.net/ru/blogs/3252961/krizove_domno_sputnik_z_ros_z_lyubovyu
+	set tags zeman_milosh,rossia,vaccine,covid,sputnik_v,chehia,slovakia
+page
+	set url https://vz.ru/opinions/2021/3/10/1087193.html
+	set tags obschestvo,deti,rossia,mysli,obuza
+page
+	set url https://sharij.net/top-5-yazykovyh-skandalov-slovom-edinym-ili-yazykovoj-raskol-to-be-continued
+	set tags ukraina,mova,jazyk,skandal,analitika
+page
+	set url https://censor.net/ru/video_news/448918/n_ya_ne_hochu_splkuvatis_ukranskoyu_politologa_romanenko_vygnali_iz_studii_ukrainskogo_telekanala_video
+	set tags romanenko_jurij,mova,jazyk,skandal,ukraina,drozdov_ostap
+page
+	set url https://glavred.info/ukraine/yazykovoy-skandal-v-dnepre-uchitelnica-obozvala-russkoyazychnyh-detey-vragami-gosudarstva-10243391.html
+	set tags ukraina,dnepropetrovsk,shkola,deti,uchitel,vrag,jazyk,mova,skandal,ukrainizacia
+page
+	set url https://glavred.info/ukraine/patriotiki-iz-zal-py-ot-bites-shkolnica-iz-kieva-obmaterila-ukrainskiy-yazyk-10249292.html
+	set tags mova,jazyk,skandal,ukraina,leonenko_liza,tiktok
+page
+	set url https://glavred.info/opinions/lyubaya-vakcina-segodnya-lotereya-no-v-sluchae-ukrainy-est-odno-no-10255367.html
+	set tags ukraina,vaccinacia,vaccine,covid,astrazeneka,covishield,pfizer
+page
+	set url https://sharij.net/ne-kazhdyj-russkogovoryashhij-vrag-ukrainy-video-zhenshhiny-oficzera-vsu-vyzvalo-skandal
+	set tags ukraina,vsu,mova,jazyk,skandal,tiktok,patriotizm
+page
+	set url https://sharij.net/tut-tebe-ne-lvov-zbali-so-svoim-naczionalizmom-v-odesskom-tramvae-proizoshyol-yazykovoj-skandal
+	set tags mova,jazyk,ukraina,odessa,skandal,tramvaj,brigar_sergej
+page
+	set url https://sharij.net/yazykovoj-skandal-v-dnepre-shkolnik-zapretil-predstavitelyam-voennyh-vuzov-vystupat-na-russkom-yazyke
+	set tags mova,jazyk,skandal,dnepropetrovsk,ukraina,shkola,deti,vsu
+page
+	set url https://sharij.net/v-dnepre-otmenili-konczert-v-chest-filma-brat-2
+	set tags dnepropetrovsk,ukraina,rossia,film,brat_2,zapret,cenzura,skandal,bodrov_sergej
+page
+	set url https://sharij.net/yazyk-tvoj-vrag-moj-kak-v-2021-godu-yazykovoj-vopros-opredelit-budushhee-ukrainy
+	set tags mova,jazyk,ukraina,future,vrag
+page
+	set url https://sharij.net/issledovanie-v-ukrainskih-soczsetyah-84-soobshhenij-na-russkom-yazyke
+	set tags ukraina,socset,statistika,mova,jazyk,internet
+page
+	set url https://sharij.net/olya-polyakova-otvetila-hejteram-ya-russkoyazychnaya-pevicza-i-poyu-po-russki
+	set tags poljakova_olja,ukraina,rossia,mova,jazyk,skandal,nenavist,dubaj,kirkorov_filipp
+page
+	set url https://prostirsvobody.org/news/0/550
+	set tags jazyk,mova,ukraina,statistika,internet,ukrainizacia,zakon
+page
+	set url https://sharij.net/171448
+	set tags poljakova_olja,mova,jazyk,ukraina,vopros
+page
+	set url https://sharij.net/lukashenko-o-filme-pro-nego-eto-kalka-s-filma-pro-putina-dvorczy-eshhyo-chego-to-i-v-shtany-zalezli
+	set tags lukashenko_aleksandr,film,dvorec,belarus,rassledovanie,vpechatlenie
+page
+	set url https://strana.ua/news/322537-doktrina-partii-sluha-naroda-analiz-dokumenta.html
+	set tags sluga_naroda,zelenskii_vladimir,ukraina,mechta,strana,future,nato,gender,vatnik,nacionalist,nacia
+page
+	set url https://www.radiosvoboda.org/a/kurenivska-trahediya-yak-moralnyy-zlochyn-pryzviv-do-tekhnohennoyi-katastrofy/31149340.html
+	set tags 13_mar,kurenevskaja_tragedia,kiev,katastrofa,tragedia,sssr,istoria,babij_jar
+page
+	set url https://www.radiosvoboda.org/a/yatsenyuk-pro-maydan-avakov-zelenskyy-poroshenko-medvedchuk/31148219.html
+	set tags jacenjuk_arsen,ksu,ukraina,interview
+page
+	set url https://lenta.ru/news/2021/03/13/howlong/
+	set tags rossia,sputnik_v,vaccine,covid,ginzburg_aleksandr
+page
+	set url https://sharij.net/uk/skandal-cherez-rosiyu-tiktok-blogersha-vidpovila-na-kontrolne-zapitannya-minoboroni
+	set tags ukraina,mova,jazyk,skandal,rossia,di_rubens,tiktok,blogger,onacka_taisia,vsu
+page
+	set url https://news.obozrevatel.com/politics/kravchuk-dopustil-shirokomasshtabnyij-konflikt-na-donbasse-nuzhno-privlekat-ssha.htm
+	set tags kravchuk_leonid,usa,konflikt,rossia,donbass,vojna,ukraina
+page
+	set url http://lug-info.com/news/one/lnr-prizyvaet-mirovuyu-obschestvennost-povliyat-na-kiev-vo-izbezhanie-eskalatsii-kobtseva-65448
+	set tags lnr,peregovory,ukraina,kiev
+page
+	set url https://news-front.info/2021/03/13/aleksandr-rodzhers-vbrosy-pro-rossiyu-stanovyatsya-vsyo-bredovee/
+	set tags rossia,putin_vladimir,vbros,dezinformacia,infvojna
+page
+	set url https://news-front.info/2021/03/12/v-rezultate-obstrela-so-storony-ukrainskih-boevikov-pogib-voennosluzhashhij-nm-dnr/
+	set tags ukraina,nm_dnr,dnr,vojna,donbass,smert,vsu
+page
+	set url https://news-front.info/2021/03/11/karateli-otkryli-ogon-po-okrainam-doneczka/
+	set tags nm_dnr,dnr,donbass,vojna,karateli,ukraina,vsu,doneck
+page
+	set url https://news-front.info/2021/03/13/godovshhina-mitinga-v-doneczke-pervyj-proval-majdana/
+	set tags maidan2,doneck,miting,vojna,donbass,ukraina
+page
+	set url https://news-front.info/2021/03/12/vojna-edinstvennaya-sut-sovremennoj-istorii-ukrainy-andrej-babiczkij/
+	set tags ukraina,rossia,donbass,vojna,nacia,kiev,psihologia,zagadka
+page
+	set url https://news-front.info/2021/03/12/golos-mordora-propast-kotoruyu-ukraina-sozdala-mezhdu-soboj-i-krymom/
+	set tags ukraina,krym,rossia,mordor,golos,propast,nenavist,macheha
+page
+	set url https://news-front.info/2021/03/13/donbass-v-ozhidanii-ukrainskogo-bliczkriga/
+	set tags donbass,vojna,blic_krig,ukraina,kiev
+page
+	set url https://news-front.info/2021/03/13/nastoyashhee-liczo-ukrainskogo-mira/
+	set tags ukrmir,rusmir,kiev,ukraina,lico,vinnica,kirnasovka,ruiny,zavod,zahar
+page
+	set url https://news-front.info/2021/03/12/ohota-na-harkovskih-vedm-na-ukraine-nashli-srazu-236-predatelej-rodiny-daniil-bezsonov/
+	set tags glupost,idiotizm,zelenskii_vladimir,harkovskie_soglashenia,repressii,ukraina,2010,sbu
+page
+	set url https://news-front.info/2021/03/02/byvshij-komandir-doneczkoj-alfy-vspomnil-vremena-ukrainskogo-majdana/
+	set tags maidan2,ukraina,azarov_nikolaj
+page
+	set url https://ukraina.ru/exclusive/20210313/1030819412.html
+	set tags kiev,ukraina,istoria,rusmir,sladosti,simvol
+page
+	set url https://news-front.info/2021/03/12/pamyatka-ukrainskim-ekskursovodam/
+	set tags ukraina,donbass,ekskursia
+page
+	set url https://gazeta.ua/blog/54751/putin-siye-viter-i-maye-gotuvatisya-pozhati-buryu
+	set tags putin_vladimir,rossia,veter,burja
+page
+	set url https://strana.ua/opinions/322552-2021-j-hod-mozhet-stat-tretim-po-hlubine-peremen-posle-1993-i-2014.html
+	set tags ukraina,analitika,obschestvo,problemy
+page
+	set url https://www.radiosvoboda.org/a/news-fextuvannia-na-shabliax-olha-kharlan/31149445.html
+	set tags ukraina,harlan_olga,sport,neudacha
+page
+	set url https://www.radiosvoboda.org/a/30993963.html
+	set tags ukraina,donbass,vojna,prestuplenie
+page
+	set url https://www.vesti.ru/article/2536308
+	set tags rossia,sputnik_v,vaccine,covid,onkologia,ginzburg_aleksandr,ispytanie
+page
+	set url https://riakursk.ru/kuryanin-s-proektom-o-neotlozhnoy-meditsine-stal-laureatom-konkursa-dobrovolets-rossii/
+	set tags rossia,projekt,dobrovolec,medik,kursk,konkurs,medicina
+page
+	set url https://riakursk.ru/kuryanka-stala-laureatom-mezhdunarodn/
+	set tags rossia,kursk,konkurs,planeta,kozlova_arina,vdohnovenie,shkola,deti
+page
+	set url https://riakursk.ru/kuryane-v-ramkakh-mezhdunarodnogo-proekta-mogut-pozdravit-detyay-invalidov-s-novym-godom/
+	set tags kursk,rossia,odnoklassniki_socset,novyj_god,deti,invalid,pozdravlenie,prazdnik
+page
+	set url https://riakursk.ru/v-kurske-otkryvayut-studiyu-dukhovno-tvo/
+	set tags rossia,kursk,studia,razvitie,kultura,pravoslavie,biblioteka
+page
+	set url https://riakursk.ru/v-kurske-vylepili-iz-snega-kompozitsiyu-maslenitsa-na-teatralnoy-ploshchadi/
+	set tags rossia,kursk,maslenica,sneg,zima,kompozicia,podarok
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-zavtra-ozhidayutsya-5-gradusov-tepla-i-gololeditsa/
+	set tags kursk,rossia,pogoda,sneg,veter
+page
+	set url https://zen.yandex.ru/media/id/5e839be75f081e20a965b976/zachem-rossii-ukraina-a-zaodno-i-pribaltika-604c1e03126a3d455ab64d7b
+	set tags vopros,rossia,ukraina,pribaltika,reznikov_aleksei,ekonomika,armia
+page
+	set url https://zen.yandex.ru/media/id/5e839be75f081e20a965b976/pochemu-v-rossii-liudi-ne-speshat-vakcinirovatsia-otchego-tak-proishodit-604a3cfa6257184ecba0b67b
+	set tags rossia,vaccinacia,analitika,mentalitet,nacia,rusmir,vaccine,covid,sputnik_v
+page
+	set url https://zen.yandex.ru/media/id/5e839be75f081e20a965b976/pochemu-na-ukraine-stali-menshe-est-sala-60489bc104378d7ce5aa3fc8
+	set tags ukraina,salo,kuhnja,eda
+page
+	set url https://zen.yandex.ru/media/id/5e839be75f081e20a965b976/povest-vremennyh-let-o-chem-eta-kniga-lichnoe-mnenie-60409bbcafc00e4c656b1557
+	set tags rossia,istoria,rusmir,nestor_letopisec,analitika
+page
+	set url https://zen.yandex.ru/media/id/5e839be75f081e20a965b976/pochemu-takoe-otnoshenie-k-rossii-ne-ponimaiu-6026a38ac219c97e324b57d3
+	set tags ukraina,rossia,mnenie,pribaltika,otnoshenie
+page
+	set url https://zen.yandex.ru/media/id/5e839be75f081e20a965b976/kak-nado-pisat-ob-istorii-rossii-601f212186f4e22208fae299
+	set tags rossia,istoria,pozitiv,negativ
+page
+	set url https://zen.yandex.ru/media/id/5e839be75f081e20a965b976/zelenskii-kak-politik-kitai-v-nedoumenii-i-ia-toje-60148baa5930a614f2e41ab4
+	set tags ukraina,motor_sich,kidalovo,smelost,zelenskii_vladimir,voshischenie,kitaj,rossia,usa
+page
+	set url https://zen.yandex.ru/media/id/5e839be75f081e20a965b976/pochemu-ia-ne-veriu-chto-mongoly-zavoevali-rus-601adf60571f7906b299c638
+	set tags rossia,rusmir,istoria,mongoly,igo,somnenie
+page
+	set url https://zen.yandex.ru/media/id/5e839be75f081e20a965b976/kto-snial-film-o-dvorce-putina-chto-tam-na-samom-dele-i-prichem-tut-navalnyi-6014c8875930a614f2fe0b19
+	set tags dvorec,navalny,rossia,film,fejk,putin_vladimir
+page
+	set url http://lug-info.com/news/one/luganskaya-afisha-65494
+	set tags lugansk,lnr,afisha,kino,komedia
+page
+	set url https://zen.yandex.ru/media/id/5e839be75f081e20a965b976/ukraina-na-perepute-k-komu-je-pribitsia-600e0c4841733326eba96e30
+	set tags ukraina,future,mechta,analitika
+page
+	set url https://regnum.ru/news/polit/3201210.html
+	set tags ukraina,petlja,svoboda,zelenskii_vladimir,vigvam,analitika,rossia
+page
+	set url https://regnum.ru/news/polit/3214078.html
+	set tags vrag,rossia,gimn,katjusha,olimpiada,zapret
+page
+	set url https://regnum.ru/news/polit/3198263.html
+	set tags rossia,krym,2014,ukraina
+page
+	set url https://regnum.ru/news/society/3190263.html
+	set tags vlasov_jurij,smert,86_let,rossia,pamjat,sport,nauka
+page
+	set url https://regnum.ru/news/society/3210045.html
+	set tags rossia,zhizn,kultura,future
+page
+	set url https://regnum.ru/news/polit/3214098.html
+	set tags rossia,olimpiada,oskorblenie,uspehi,gimn,zapret,katjusha
+page
+	set url https://regnum.ru/news/3213829.html
+	set tags ukraina,rossia,istoria,prezervativ,glupost,olga_knjaginja,goncharenko_alexei,poroshenko_petr,rusmir
+page
+	set url https://regnum.ru/news/polit/3180800.html
+	set tags ukraina,cenzura,knigi,stoun_oliver,zapret,upakovka,1240,666,lbgt
+page
+	set url https://regnum.ru/news/polit/3178298.html
+	set tags ukraina,bezumie,paranoja,psihoz,zelenskii_vladimir,vlast,psihologia
+page
+	set url https://regnum.ru/news/polit/3170365.html
+	set tags ukraina,vnuk,svinopas,istoria,razumovskij_kirill,malorossia,1750,gluhov,22_feb,getman,vojsko_zaporozhskoje
+page
+	set url https://regnum.ru/news/polit/3209909.html
+	set tags rossia,vaccine,covid,sputnik_v,es,evropa,politika
+page
+	set url https://vz.ru/politics/2021/3/11/1088993.html
+	set tags krym,ukraina,rossia
+page
+	set url https://lb.ua/blog/dmytro_lubinets/479644_minski_ugodi_vse_yak_ukraini.html
+	set tags minsk_dogovor,ukraina,rossia,donbass,vojna,vozvraschenie,diplomatia
 eof
 off
 page

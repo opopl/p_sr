@@ -1,5 +1,5 @@
 
-###ua
+###news.ua
 
 'strana.ua' : { 'site' : 'news.ua.strana' } 
 'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
@@ -20,26 +20,11 @@
 '048.ua' : { 'site' : 'news.ua.048' }
 'gordonua.com' : { 'site' : 'news.ua.gordon' }
 'censor.net,censor.net.ua' : { 'site' : 'news.ua.censor' }
+'sharij.net' : { 'site' : 'news.ua.sharij' }
+'glavred.info' : { 'site' : 'news.ua.glavred' }
+'prostirsvobody.org' : { 'site' : 'news.ua.prostirsvobody' }
 
-###poezia
-'maysterni.com' : { 'site' : 'poezia.ua.maysterni' }
-
-###ru
-'kulturologia.ru' : { 'site' : 'ru.kulturologia' }
-'cyrillitsa.ru' : { 'site' : 'ru.kultura.cyrillitsa' }
-
-'exlibris.org.ua' : { 'site' : 'bib.ua.exlibris' }
-
-###ludi
-'buzina.org' : { 'site' : 'ludi.ua.buzina' }
-
-###anglia
-'bbc.com' : { 'site' : 'news.anglia.bbc' }
-
-###vera
-'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }
-
-###ru
+###news.ru
 
 'inosmi.ru' : { 'site' : 'news.ru.inosmi' }
 'kp.ru' : { 'site' : 'news.ru.kp' }
@@ -56,6 +41,28 @@
 'zen.yandex.ru' : { 'site' : 'news.ru.yandex.zen' }
 'riakursk.ru' : { 'site' : 'news.ru.ria_kursk' }
 'iz.ru' : { 'site' : 'news.ru.izvestia' }
+'regnum.ru' : { 'site' : 'news.ru.regnum' }
+
+###bib
+'exlibris.org.ua' : { 'site' : 'bib.ua.exlibris' }
+
+###poezia
+'maysterni.com' : { 'site' : 'poezia.ua.maysterni' }
+
+###ru
+'kulturologia.ru' : { 'site' : 'ru.kulturologia' }
+'cyrillitsa.ru' : { 'site' : 'ru.kultura.cyrillitsa' }
+
+###ludi
+'buzina.org' : { 'site' : 'ludi.ua.buzina' }
+
+###anglia
+'bbc.com' : { 'site' : 'news.anglia.bbc' }
+
+###vera
+'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }
+
+
 
 ###pc
 

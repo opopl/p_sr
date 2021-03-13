@@ -1,3 +1,4 @@
+
 import os,sys,re
 import datetime
 import cyrtranslit
@@ -72,8 +73,8 @@ class PageParser(RootPageParser):
     return self
 
   # import date from input string
-  def _date_from_bare(self, ref={}):
-    date = super()._date_from_bare(ref)
+  def _date_from_bare(self, txt=None):
+    date = super()._date_from_bare(txt)
     if date:
       return date
 

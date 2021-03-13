@@ -30,29 +30,34 @@ include:
     - news.ru.yandex.zen
     - news.ru.ria_kursk
     - news.ru.izvestia
+    - news.ru.regnum
 ###bib
     - bib.ua.exlibris
 ###ru
     - ru.kulturologia
     - ru.kultura.cyrillitsa
 ###news_ua
-    - news.ua.oboz
-    - news.ua.pravda
-    - news.ua.strana
-    - news.ua.zaxid
-    - news.ua.fakty
-    - news.ua.zik
-    - news.ua.den
-    - news.ua.newsone
-    - news.ua.apostrof
     - news.ua.112ua
+    - news.ua.apostrof
+    - news.ua.censor
+    - news.ua.den
+    - news.ua.fakty
     - news.ua.fromua
     - news.ua.gazeta
     - news.ua.gordon
-    - news.ua.censor
+    - news.ua.newsone
+    - news.ua.oboz
+    - news.ua.pravda
+    - news.ua.radiosvoboda
+    - news.ua.sharij
+    - news.ua.strana
+    - news.ua.zaxid
+    - news.ua.zik
+    - news.ua.glavred
+    - news.ua.prostirsvobody
+    - news.ua.lb
     #- news.ua.sprotyv
     #- news.anglia.bbc
-    - news.ua.radiosvoboda
     - pc.articles.sitepoint
     - pc.articles.pavlutin
     #- pc.cairographics 

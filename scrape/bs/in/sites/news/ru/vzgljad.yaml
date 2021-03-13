@@ -35,8 +35,9 @@ PageParser:
             'text' : {
               'lines' : {
                 'match' : { 
-                  'pat'  : 'Текст:\s+(.*)$',
-                  'name' : 1,
+                  'pat'   : 'Текст:\s+(.*)$',
+                  'name'  : 1,
+                  'split' : ',',
                 }
               }
             }

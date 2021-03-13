@@ -10215,6 +10215,192 @@ page
 page
 	set url https://tsargrad.tv/news/tak-umyt-ves-zemshar-mozhet-tolko-rossija-voenkor-soobshhil-o-russkoj-sile-moshhnee-oruzhija_330826
 	set tags rossia,zemlja,planeta,sputnik_v,vaccine,covid
+page
+	set url https://www.vesti.ru/article/2536024
+	set tags rossia,medicina,kazan,universitet,kazan_universitet,covid
+page
+	set url https://www.vesti.ru/article/2535728
+	set tags italia,rossia,evropa,potrjasenie,proizvodstvo,covid,vaccine,sputnik_v
+page
+	set url https://www.vesti.ru/article/2535473
+	set tags rossia,evropa,astrazeneka,covid,vaccine,razreshenie,preimuschestvo
+page
+	set url https://www.vesti.ru/article/2535298
+	set tags evropa,lager,tromboembolia,astrazeneka,pobochka
+page
+	set url https://www.vesti.ru/article/2535056
+	set tags izrail,vaccinacia,planeta,covid,vaccine,pfizer,moderna
+page
+	set url https://smotrim.ru/article/2536068
+	set tags rossia,nauka,neutrino,teleskop,bajkal,icecube_detektor,usa
+page
+	set url https://smotrim.ru/article/2536021?utm_source=vesti_left
+	set tags rossia,akcia,knut,prjanik,mid_rf,zaharova_maria
+page
+	set url https://www.vesti.ru/article/2536115
+	set tags leschenko_lev,pesnja,rossia,olimpiada,zapret,sportsmen
+page
+	set url https://smotrim.ru/article/1004881
+	set tags vasiljeva_ekaterina,jubilej,rossia,akter,kino,kultura
+page
+	set url https://strana.ua/news/322519-v-zhitomirskoj-oblasti-zhenshchina-vyzvala-rody-i-izbavilas-ot-detej.html
+	set tags ukraina,kriminal,policia,mater,deti,zhitomir,pohoron,saraj
+page
+	set url https://strana.ua/news/322505-storonniki-ptsu-izbili-prikhozhanina-upts-pod-chernovtsami.html
+	set tags upc,pcu,kriminal,izbienie,prihozhanin,60_plus,ukraina,cerkov
+page
+	set url https://www.pravda.com.ua/articles/2021/03/13/7286326/
+	set tags rusmir,russifikacia,putin_vladimir,requiem,ukraina,rossia,jazyk,english
+page
+	set url https://strana.ua/news/322461-vladimir-litvin-rasskazal-kak-oppozitsija-pomohla-proholosovat-za-kharkovskie-sohlashenija.html
+	set tags rnbo,harkovskie_soglashenia,2010,litvin_vladimir,rossia,ukraina,golosovanie
+page
+	set url https://strana.ua/news/322228-kommentarij-juristov-reshenija-snbo-po-kharkovskim-sohlashenijam.html
+	set tags ukraina,rnbo,zelenskii_vladimir,danilov_aleksei,zakon,jurist,totalitarizm
+page
+	set url https://strana.ua/articles/analysis/322457-kakim-instrumentom-stal-snbo-pri-zelenskom.html
+	set tags usa,us_embassy,ukraina,oligarh,rnbo,analitika,zelenskii_vladimir
+page
+	set url https://strana.ua/articles/interview/322468-anzhela-jaremenko-rasskazala-strane-kak-v-tsik-otreahirovali-na-ee-post-o-slomannom-vibratore.html
+	set tags ukraina,uvolnenie,vibrator,den_valentina,podarki,jeremenko_angela,cik
+page
+	set url https://strana.ua/opinions/322521-chto-eshche-otmenit-snbo-zakon-arkhimeda-rassvet-na-vostoke.html
+	set tags rnbo,ukraina,arhimed,solnce,zakon,zapret
+page
+	set url https://strana.ua/opinions/322484-idiot-hovorjashchij-na-anhlijskom-nichem-ne-otlichaetsja-ot-ukrainojazychnoho.html
+	set tags danilov_aleksei,english,jazyk,language,idiot,ukraina,mova,mnenie
+page
+	set url https://strana.ua/opinions/322296-prezhde-vseho-za-hosizmenu-dolzhny-otvetit-te-kto-otdal-stranu-vo-vneshnee-upravlenie.html
+	set tags zelenskii_vladimir,rnbo,gosizmena,ukraina,hmelnickii_bogdan,perejaslav_1654,rossia
+page
+	set url https://strana.ua/opinions/320628-mesjats-kak-zakryty-nesohlasnye-s-vlastju-telekanaly.html
+	set tags ukraina,cenzura,telekanaly,tv,repressii,sluga_naroda,sankcii
+page
+	set url https://www.radiosvoboda.org/a/hronika-zrada-zahoplehhya-krymu-nazarov/31145874.html
+	set tags 26_feb,rossia,ukraina,krym,2014,nazarov_viktor
+page
+	set url https://www.radiosvoboda.org/a/news-oon-krym-kyslytsia-porushennia-rosiya/31118827.html
+	set tags kislica_sergej,ukraina,rossia,kultura,oon,krym
+page
+	set url https://www.radiosvoboda.org/a/kurenivska-tragediya-60-rokiv-photo/31148172.html
+	set tags 13_mar,kiev,tragedia,katastrofa,kurenevskaja_tragedia,1961,babij_jar,ukraina,sssr,istoria
+page
+	set url https://www.radiosvoboda.org/a/yak-naspravdi-zhyly-v-srsr-na-photo-valeria-reshetniaka/30661408.html
+	set tags sssr,istoria,foto,zhizn,negativ
+page
+	set url https://gazeta.ua/articles/politics/_mi-podoroslishali-sered-slug-anonsuvali-masshtabne-ochischennya/1019828
+	set tags zelenskii_vladimir,sluga_naroda,chistka,ukraina,sjezd,partia
+page
+	set url https://news.obozrevatel.com/society/tema-tabu-v-sotssetyah-zhenschinyi-ordlo-na-vojne.htm
+	set tags lnr,rossia,ukraina,woman,vojna,donbass,opolchenie
+page
+	set url https://news.obozrevatel.com/society/pismo-doktora-kovidnogo-otdeleniya-reanimatsiya-pohozha-na-gazovuyu-kameru.htm
+	set tags reanimacia,ukraina,covid,bolnica,bolezn
+page
+	set url https://news.obozrevatel.com/abroad/populizm-soyuznik-pandemii.htm
+	set tags populizm,slovakia,rossia,vaccine,covid,sputnik_v,pandemia
+page
+	set url https://www.radiosvoboda.org/a/villa-medvedchuk-marchenko-krym/31148276.html
+	set tags medvedchuk_viktor,marchenko_oksana,villa,ukraina,rossia,rassledovanie,krym
+page
+	set url https://www.radiosvoboda.org/a/zhyteli-khersonshchyny-pro-mozhlyvyi-napad-z-krymu/30775640.html
+	set tags ukraina,herson,krym,rossia,putin_vladimir
+page
+	set url https://lenta.ru/news/2021/03/13/victims/
+	set tags samolet,an_26,katastrofa,kazahstan,avia,almaty
+page
+	set url https://lenta.ru/articles/2021/03/13/invinoveritas/
+	set tags latvia,alkogol,statistika,evropa
+page
+	set url https://lenta.ru/news/2021/03/13/crimea/
+	set tags ukraina,rossia,krym,referendum,2014,putin_vladimir
+page
+	set url https://ukraina.ru/exclusive/20210313/1030810628.html
+	set tags ukraina,sputnik_v,rossia,vaccine,covid,zapad
+page
+	set url https://ukraina.ru/exclusive/20210313/1030812651.html
+	set tags ukraina,rossia,knigi,bulgakov_mihail,krym,zapret
+page
+	set url https://ukraina.ru/exclusive/20210313/1030818759.html
+	set tags 8_marta,karantin,ukraina,ukraina_zapad,covishield,vaccine,covid,anekdot
+page
+	set url https://ukraina.ru/exclusive/20210313/1030818843.html
+	set tags maidan2,2014,doneck,rusvesna,pushilin_denis,donbass,13_mar,ukraina,rossia
+page
+	set url https://inosmi.ru/politic/20210313/249325850.html
+	set tags rossia,vaccine,covid,sputnik_v,usa
+page
+	set url https://lenta.ru/news/2021/03/13/norway/
+	set tags norvegia,tromboz,pobochka,vaccine,covid,astrazeneka
+page
+	set url https://www.pravda.com.ua/news/2021/03/13/7286523/
+	set tags belarus,lukashenko_aleksandr,film
+page
+	set url https://www.radiosvoboda.org/a/viina-donbas-obstrily-nastup/31147777.html
+	set tags ukraina,vojna,donbass,vsu,obostrenie,peremirie
+page
+	set url https://www.radiosvoboda.org/a/donbass-rossiya-ukraina-voyna/31148213.html
+	set tags rossia,donbass,vojna
+page
+	set url https://www.radiosvoboda.org/a/rosiya-tsenzura-internet-putin-navalnyy/31148305.html
+	set tags rossia,internet,cenzura,youtube,google
+page
+	set url https://lb.ua/society/2021/03/13/479773_donbasi_bilya_marinki_zaginuv.html
+	set tags donbass,ukraina,vojna,vsu,smert,marjinka
+page
+	set url http://lug-info.com/news/one/ukrainskie-miny-s-iyulya-unesli-zhizni-53-voennosluzhaschikh-otg-vsu-sever-narodnaya-militsiya-65506
+	set tags nm_lnr,lnr,vojna,donbass,poteri,ukraina,vsu
+page
+	set url http://lug-info.com/news/one/maslenichnyi-bal-dlya-kadetov-i-litseistov-respubliki-proshel-v-luganske-foto-65504
+	set tags lgaki,bal,lnr,lugansk,prazdnik,foto,kadety,licej,shkola
+page
+	set url http://lug-info.com/news/one/luganskii-tsirk-dal-pervoe-predstavlenie-posle-otmeny-ryada-ogranichenii-iz-za-covid-foto-65505
+	set tags kultura,cirk,rossia,lnr,lugansk
+page
+	set url http://lug-info.com/news/one/ltsnt-organizoval-maslenichnye-gulyaniya-s-uchastiem-natsionalno-kulturnykh-obschestv-luganschiny-foto-65482
+	set tags maslenica,prazdnik,lnr,prazdnovanie,lcnt
+page
+	set url http://lug-info.com/news/one/rabotniki-kultury-iz-lnr-i-rf-stanut-zritelyami-onlain-translyatsii-detskogo-kontserta-65508
+	set tags internet,lnr,muzyka,koncert,deti,rossia,lipeck,orkestr
+page
+	set url http://lug-info.com/news/one/vrachi-iz-lnr-prinyali-distantsionnoe-uchastie-v-konferentsii-po-voprosam-lecheniya-glaukomy-65509
+	set tags lnr,konferencia,medicina,glaukoma,rossia,juzhnyj_federalnyj_okrug
+page
+	set url http://lug-info.com/news/one/narodnaya-militsiya-sbila-bpla-kievskikh-silovikov-korrektirovavshii-ogon-po-molodezhnomu-65510
+	set tags nm_lnr,lnr,vsu,vojna,bpla,donbass
+page
+	set url https://gazeta.ua/articles/edu-and-science/_pershij-ukrayinskij-kosmonavt-potrapiv-do-kosmosu/1019654
+	set tags 13_mar,kosmos,kosmonavt,ukraina,usa,ss_columbia,space_shuttle,1997
+page
+	set url https://gazeta.ua/articles/edu-and-science/_vidkrili-novu-planetu-sonyachnoyi-sistemi/1019650
+	set tags solar_system,uran,planeta,13_mar,1781,astronomia,otkrytie,gershel_william,nauka
+page
+	set url https://blogs.pravda.com.ua/authors/haran/604c993b0701a/
+	set tags litvin_vladimir,ukraina,universytet_shevchenka
+page
+	set url https://riakursk.ru/yunye-kurskie-modelisty-zanyali-prizovye-mesta-na-mezhdunarodnom-konkurse/
+	set tags rossia,kursk,konkurs,deti,modelizm,priz
+page
+	set url https://riakursk.ru/film-danily-kozlovskogo-chernobyl-snyatyy-v-kurskoy-oblasti-vyydet-v-kino-15-aprelya/
+	set tags ukraina,rossia,film,chernobyl,kursk,kozlovskij_danila,kultura,kino
+page
+	set url https://riakursk.ru/v-spisok-pamyati-medikov-umershikh-vo-vremya-pandemii-vkhodyat-36-kuryan/
+	set tags spisok,pamjat,kursk,rossia,medik,smert,covid
+page
+	set url https://riakursk.ru/mikhin/
+	set tags mihin_petr,veteran,99_let,smert,rossia,kursk,literatura
+page
+	set url http://lug-info.com/news/one/kievskie-siloviki-perebrosili-v-rubezhnoe-15-gaubits-gvozdika-narodnaya-militsiya-65500
+	set tags ukraina,kiev,vsu,vojna,donbass,gvozdika,lnr,nm_lnr
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-55-chelovek-poluchili-travmy-vo-vremya-ledyanogo-dozhdya/
+	set tags rossia,kursk,led,solnce,dozhd,travma,bolnica
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-politsyayskie-ispolzuyut-v-kachestve-transportnogo-sredstva-sani/
+	set tags rossia,policia,kursk,zhizn,uchastkovyj
+page
+	set url https://vz.ru/society/2021/3/13/1089248.html
+	set tags rossia,nauka,neutrino,bajkal,teleskop,universe,icecube_detektor
 eof
 off
 page

@@ -10401,6 +10401,9 @@ page
 page
 	set url https://vz.ru/society/2021/3/13/1089248.html
 	set tags rossia,nauka,neutrino,bajkal,teleskop,universe,icecube_detektor
+page
+	set url https://vz.ru/opinions/2021/3/13/1088697.html
+	set tags rossia,evropa,politika,world,analitika,mysli
 eof
 off
 page

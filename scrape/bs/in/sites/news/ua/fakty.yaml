@@ -26,12 +26,21 @@ PageParser:
     sels:
       - { 
           'search' : {
-              'css' : [ ],
+              'css' : [ 
+                #'.avtor a',
+                '.avtor',
+              ],
               'map' : {
-                  'name' : 'text',
+                  'name' : { 
+                    'get'   : 'text',
+                    'match' : '^(.*),'
+                  },
                   'url'  : { 
-                    'get' : 'attr',
-                    'attr' : 'href',
+                    'get' : { 
+                      'css' : 'a',
+                      'get' : 'attr',
+                      'attr' : 'href',
+                     }
                   }
               },
           }

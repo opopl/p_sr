@@ -11215,6 +11215,15 @@ page
 page
 	set url http://lug-info.com/news/one/organizatory-prodlili-priem-zayavok-na-konkurs-moi-rodnoi-yazyk-russkii-do-28-marta-65565
 	set tags lgaki,lnr,jazyk,konkurs,lugansk
+page
+	set url https://portal-kultura.ru/articles/kulturnaya-politika/330849-poyushchee-oruzhie-rossiyskaya-pop-kultura-na-zapade/
+	set tags rossia,kultura,pesnja,cheburashka,multik,japonia,oruzhie
+page
+	set url https://portal-kultura.ru/articles/dostoyanie/331373-chasovnya-nadezhdy-dlya-kerchi/
+	set tags rossia,kerch',krym,kultura,antichnost',istoria
+page
+	set url https://news.obozrevatel.com/politics/rossiya-mozhet-stoyat-za-rasprostraneniem-sluhov-ob-otkaze-ot-astrazeneca-ministr.htm
+	set tags rossia,ukraina,tkachenko_aleksandr,covid,vaccine,sputnik_v,astrazeneka,zapret,sluhi
 eof
 off
 page

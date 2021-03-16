@@ -32,23 +32,21 @@ PageParser:
   get_author_html:
     sels: 
       - {
-          'name' : {
-            'find' : '.post_content_author_name a',
-            'get'  : 'text'
-          },
-          'url' : {
-            'find' : '.post_content_author_name a',
-            'get'  : 'attr',
-            'attr' : 'href',
+          'search' : {
+            'css' : [ 
+              '.post_content_author_name a',
+              '.post_author a',
+            ],
+            'map' : {
+              'name' : {
+                'get' : 'text'
+              },
+              'url' : {
+                'get' : 'attr',
+                'attr' : 'href',
+              }
+            }
           }
-        }
-      - {
-          'name' : {
-            'find'  : '.post_author',
-            'get'   : 'text',
-            'split' : '—',
-          },
-          'url' : {}
         }
       - {
           'name' : {

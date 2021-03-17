@@ -11416,6 +11416,9 @@ page
 page
 	set url https://regnum.ru/news/polit/3216507.html
 	set tags rossia,krym,krymvesna,vossoedinenie,prazdnovanie,17_mar,2014
+page
+	set url https://strana.ua/news/323193-posol-ukrainy-v-hermanii-obvinil-nemtsev-v-okkupatsii-kryma-.html
+	set tags krymskaja_platforma,ukraina,germania,rossia,kolonializm,krym,melnik_andrei,posol
 eof
 off
 page

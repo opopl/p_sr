@@ -11422,6 +11422,9 @@ page
 page
 	set url https://lvov.strana.ua/323207-vo-lvove-s-19-marta-uzhestochajut-karantin.html
 	set tags ukraina,lvov,karantin,lockdown,kabmin,covid
+page
+	set url https://www.radiosvoboda.org/a/news-rada-goriv-pult/31155626.html
+	set tags ukraina,verhovna_rada,golosovanie,ogon',goncharenko_alexei
 eof
 off
 page

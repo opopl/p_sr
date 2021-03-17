@@ -11388,6 +11388,34 @@ page
 page
 	set url https://inosmi.ru/social/20210316/249346305.html
 	set tags usa,vojna,donbass,ato,murder,kriminal,florida,obvinenie,ukraina
+page
+	set url https://ukraina.ru/opinion/20210317/1030853211.html
+	set tags ukraina,vlast,zhizha,nacionalist,grantoed,rezhim,zelenskii_vladimir,kravchuk_leonid,predatel'
+page
+	set url https://ukraina.ru/exclusive/20210317/1030843697.html
+	set tags krym,rossia,integracia,ukraina,krymskij_most,2014,19_mar,putin_vladimir
+page
+	set url https://ukraina.ru/history/20210316/1030847105.html
+	set tags sssr,1921,petrichenko_stepan,vosstanie.kronstadt,istoria,rossia,vosstanie,finlandia
+page
+	set url https://www.radiosvoboda.org/a/informatsiyna-viyna-yak-pratsuvatyme-tsentr-protydiyi-pry-rnbo/31154248.html
+	set tags ukraina,rnbo,infvojna,dezinformacia,rossia,putin_vladimir,molodezh,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/news-minjust-pravopys-sud/31152218.html
+	set tags ukraina,oask,pravopys,mova,minjust
+page
+	set url https://www.radiosvoboda.org/a/oask-suddia-vovk-zelensky-ukrayinsky-pravopys/31076053.html
+	set tags kiev,ukraina,oask,sud,kritika,prospekt_moskovskii
+page
+	set url https://strana.ua/news/323198-nardep-ot-sluh-naroda-kachura-rasskazal-kak-mozhno-obmanut-sensornuju-knopku-v-rade.html
+	set tags kachura_aleksandr,deputat,knopkodavstvo,verhovna_rada,ukraina,obman,devajs
+page
+	set url https://regnum.ru/news/society/3217031.html
+	set tags krym,rossia,ukraina,17_mar,2014,vossoedinenie,putin_vladimir
+	set date 17_03_2021
+page
+	set url https://regnum.ru/news/polit/3216507.html
+	set tags rossia,krym,krymvesna,vossoedinenie,prazdnovanie,17_mar,2014
 eof
 off
 page

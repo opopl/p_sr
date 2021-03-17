@@ -62,8 +62,6 @@
 ###vera
 'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }
 
-
-
 ###pc
 
 'stackoverflow.com' : { 'site' : 'pc.stackoverflow' }

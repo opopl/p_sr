@@ -11455,6 +11455,51 @@ page
 page
 	set url https://www.kp.ru/online/news/4224407/
 	set tags ukraina,posol,germania,krym,vozvraschenie,nazizm,mirvojna2,vov,rossia
+page
+	set url https://life.ru/p/1385663
+	set tags ukraina,rossia,krym,vozvraschenie,germania,dolg,nazizm,vov,posol,melnik_andrei
+page
+	set url https://life.ru/p/1385397
+	set tags ukraina,herson,borisova_maria,kriminal,murder
+page
+	set url https://life.ru/p/1122437
+	set tags sssr,istoria,tragedia,1989,3_jun,katastrofa,poezd,ufa,truboprovod,iskra,pozhar,vzryv
+page
+	set url https://vz.ru/world/2021/3/16/1089527.html
+	set tags ukraina,rossia,biden_joe,politika
+page
+	set url https://vz.ru/news/2021/3/17/1089897.html
+	set tags ukraina,kiev,moskva,diplomatia,nota_protesta,mid_rf
+page
+	set url https://strana.ua/finance/323248-rubl-obvalilsja-posle-zajavlenij-bajdena-o-putine-.html
+	set tags biden_joe,putin_vladimir,usa,rossia,isterika
+page
+	set url https://strana.ua/news/323232-volodin-nazval-slova-bajdena-o-putine-isterikoj.html
+	set tags usa,rossia,putin_vladimir,volodin_vjacheslav,gosduma,isterika
+page
+	set url https://strana.ua/news/322829-sputnik-v-letit-v-evropu-kohda-es-nachnet-privivatsja-rossijskoj-vaktsinoj.html
+	set tags evropa,rossia,sputnik_v,pokupka,vaccine,covid,vengria,slovakia,es,proizvodstvo,serbia,politika
+page
+	set url https://strana.ua/news/313175-merkel-hotova-pomoch-s-rehistratsiej-rossijskoj-vaktsiny-ot-covid-19-v-evrosojuze.html
+	set tags merkel_angela,putin_vladimir,vaccine,covid,registracia,germania,ema,es,evropa,pomosch,rossia
+page
+	set url https://strana.ua/news/313139-oae-odobrili-ispolzovanie-vaktsiny-ot-koronavirusa-sputnik-v.html
+	set tags oae,registracia,odobrenie,vaccine,covid,sputnik_v,rossia
+page
+	set url https://strana.ua/news/323030-lokdaun-v-kieve-uzhestochat-li-karantin-v-stolitse.html
+	set tags kiev,ukraina,klichko_vitalij,stepanov_maksim,lockdown,covid,karantin
+page
+	set url https://strana.ua/news/323139-v-shtate-dzhordzhija-rasstreljali-vosem-chelovek-v-spa-salonakh.html
+	set tags usa,kriminal,georgia.shtat_usa,rasstrel,murder,massazh
+page
+	set url https://inosmi.ru/politic/20210316/249347699.html
+	set tags astrazeneka,vaccinacia,vaccine,covid,sputnik_v,rossia,francia
+page
+	set url https://inosmi.ru/politic/20210317/249344393.html
+	set tags rossia,krym,2014,vossoedinenie,germania,interview,posol,nechaev_sergej.posol_rossii
+page
+	set url https://www.radiosvoboda.org/a/dva-roki-v-rukah-bojovikiv-dnr/31155683.html
+	set tags ukraina,donbass,vojna,givi.tolstyh_mihail,zalozhnik,makeevka,dnr,doneck
 eof
 off
 page

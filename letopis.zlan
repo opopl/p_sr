@@ -11425,6 +11425,36 @@ page
 page
 	set url https://www.radiosvoboda.org/a/news-rada-goriv-pult/31155626.html
 	set tags ukraina,verhovna_rada,golosovanie,ogon',goncharenko_alexei
+page
+	set url https://news.obozrevatel.com/society/epidemiolog-predlozhil-snbo-zanyatsya-vaktsinatsiej.htm
+	set tags ukraina,bolezn,covid,vaccinacia,rnbo,aleksandrin_andrej
+page
+	set url https://news.obozrevatel.com/society/epidemiolog-aleksandrin-covid-19-bet-rekordyi-medlennaya-vaktsinatsiya-ugroza-natsbezopasnosti.htm
+	set tags ukraina,izrail,vaccinacia,vaccine,covid
+page
+	set url https://news.obozrevatel.com/society/vyi-buryat-kak-ya-rad-kto-priehal-iz-rossii-na-donbass-voevat.htm
+	set tags rossia,ukraina,donbass,vojna,burjatia
+page
+	set url https://news.obozrevatel.com/politics/arestovich-v-sotsseti-otvetil-matom-na-prosbu-obschatsya-na-ukrainskom-yazyike.htm
+	set tags arestovich_aleksei,na_tri_bukvy,tkg,rossia,ukraina,skandal,mova,jazyk,peregovory
+page
+	set url https://blogs.pravda.com.ua/authors/tregubov/60508dd3f1834/
+	set tags ukraina,kniga,rossia,kultura,izdatelstvo
+page
+	set url https://blogs.pravda.com.ua/authors/tregubov/5f92e6f5b5f64/
+	set tags ukraina,rossia,upc,cerkov,lbgt,vera,demokratychna_sokyra
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-zavtra-ozhidaetsya-6-gradusov-tepla/
+	set tags rossia,kursk,pogoda,prognoz
+page
+	set url https://riakursk.ru/kursk-neogoticheskiy-moskovskiy-zhurnalist-rasskazal-o-samykh-yarkikh-gorodskikhzdaniyakh-v-etom-stile/
+	set tags rossia,kursk,arhitektura,foto
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-skonchalas-22-letnyaya-pevchaya-arkhieryayskogo-podvorya/
+	set tags rossia,kursk,smert,covid,rozhdestvo,angel,devushka,22_goda
+page
+	set url https://www.kp.ru/online/news/4224407/
+	set tags ukraina,posol,germania,krym,vozvraschenie,nazizm,mirvojna2,vov,rossia
 eof
 off
 page

@@ -11500,6 +11500,60 @@ page
 page
 	set url https://www.radiosvoboda.org/a/dva-roki-v-rukah-bojovikiv-dnr/31155683.html
 	set tags ukraina,donbass,vojna,givi.tolstyh_mihail,zalozhnik,makeevka,dnr,doneck
+page
+	set url https://strana.ua/news/323169-vaktsina-astrazeneka-chto-proiskhodit-v-ukraine-i-evrope.html
+	set tags ukraina,kreml,astrazeneka,vaccine,covid,rossia,obvinenie,tromboz
+page
+	set url https://strana.ua/news/323150-novaja-volna-sovid-19-i-skandal-s-banderoj-hlavnye-itohi-dnja.html
+	set tags ukraina,pandemia,karantin,covid,klichko_vitalij,kiev,itogi,galicia,zveroboi_marusja,harkov,vybory
+page
+	set url https://strana.ua/articles/analysis/323245-vtoraja-popytka-kak-prokhodjat-vybory-novoho-rektora-universiteta-imeni-shevchenko.html
+	set tags kiev,ukraina,vybory,universytet_shevchenka,litvin_vladimir
+page
+	set url https://strana.ua/opinions/323215-arestovich-stal-avtoritetom-potomu-chto-umel-krasivo-hovorit.html
+	set tags arestovich_aleksei,ukraina,tkg,na_tri_bukvy,rossia,mentalitet,dusha
+page
+	set url https://strana.ua/opinions/323205-v-istorii-maloletnikh-bloherov-ljubovnikov-obnaruzhena-ruka-kremlja.html
+	set tags ukraina,rossia,kreml,kriminal,blogger,deti,ljubov,kuleba_nikolai.upoln_po_pravam_rebenka
+page
+	set url https://strana.ua/articles/analysis/322874-kontent-dlja-pedofilov-instagram-roman-8-letnej-mily-makhanem-i-13-letneho-pashi-paja.html
+	set tags pedofilia,skandal,deti,ukraina,kiev,mahanec_mila,instagram,paj_pasha
+page
+	set url https://news.obozrevatel.com/economics/fea/bankovskie-scheta-ukraintsev-atakuyut-s-kart-ischezayut-dengi.htm
+	set tags pumb,ukraina,kriminal,finansy,krazha
+page
+	set url https://news.obozrevatel.com/russia/putin-reshil-chto-emu-mozhno-vse.htm
+	set tags putin_vladimir,vozmozhnost',rossia,ukraina,world,siria,donbass,vojna
+page
+	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/svidomiia-rojdenie-rakovoi-kletki-russkogo-mira-60509e746c861f010742a82f
+	set tags ukraina,rossia,istoria,rusmir,svidomia
+page
+	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/doljen-priznat-chto-eto-rabota-chistogo-geniia-operejaet-vremia-grandioznaia-muzykalnaia-klassika-iz-rossii-603b59746cd9133fa6f2222c
+	set tags rossia,rusmir,istoria,kultura,muzyka,shedevr,rimskij_korsakov_nikolaj,chajkovskij_petr.kompozitor
+page
+	set url https://zen.yandex.ru/media/id/5d4e536aac412400ad119f35/stalin-socializm-i-volia-bojiia-6043b7c3665e4413f34c90b6
+	set tags stalin_jozef,bog,cerkov,vera,sssr,istoria,rusmir,rossia,socializm
+page
+	set url https://zen.yandex.ru/media/75737/chto-poteriali-rossiia-i-ukraina-posle-prekrasceniia-sotrudnichestva-v-aviastroenii-604e81c6011181447b1f035c
+	set tags ukraina,rossia,avia,sotrudnichestvo,poteri,sssr,kb_antonov
+page
+	set url https://zen.yandex.ru/media/trickster/kakie-v-biblii-est-shutki-i-iumor-604b404e6257184ecbed77bc
+	set tags biblia,smeh,jumor,vera,bog
+page
+	set url https://zen.yandex.ru/media/id/5f79e70cc9931e58ecf30e40/drug-pashka-iz-dnr-5fe65beb9c06f6134fbf0d38
+	set tags krym,rossia,dnr,donbass,zhizn,drug
+page
+	set url https://zen.yandex.ru/media/id/5f79e70cc9931e58ecf30e40/mentalitet-i-kak-ego-vidno-voorujennym-glazom-jivu-v-sevastopole-6018d956b19d82187e6c845a
+	set tags rossia,sibir,zhizn,vpechatlenie,sevastopol,krym
+page
+	set url https://zen.yandex.ru/media/id/5f79e70cc9931e58ecf30e40/kak-ubrat-znamena-nacionalizma-shovinizma-i-nenavisti-iz-bloga-i-sdelat-obstanovku-zdorovoi-602e0eb93ad6ee787cad573e
+	set tags nenavist,rossia,krym,shovinizm,blogger
+page
+	set url https://zen.yandex.ru/media/id/5f79e70cc9931e58ecf30e40/o-chem-oni-toskuiut-opiat-i-snova-o-krymskom-mentalitete-5f8f22cbc2b29d22946fa1ed
+	set tags sevastopol,rossia,zhizn,mentalitet,krym,toska,vopros,ukraina
+page
+	set url https://strana.ua/news/323313-rossija-otozvala-posla-iz-ssha-posle-slov-bajdena-ob-ubijtse-putine.html
+	set tags rossia,usa,putin_vladimir,biden_joe,posol,zaharova_maria,mid_rf
 eof
 off
 page

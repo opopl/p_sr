@@ -27,6 +27,10 @@
 
 ###news.ru
 
+# stavropol
+'stapravda.ru' : { 'site' : 'news.ru.stapravda' }
+
+'znak.com' : { 'site' : 'news.ru.znak' }
 'donbasstoday.ru' : { 'site' : 'news.ru.donbasstoday' }
 'inosmi.ru' : { 'site' : 'news.ru.inosmi' }
 'kp.ru' : { 'site' : 'news.ru.kp' }

@@ -32,6 +32,8 @@ include:
     - news.ru.izvestia
     - news.ru.regnum
     - news.ru.donbasstoday
+    - news.ru.znak
+    - news.ru.stapravda
 ###bib
     - bib.ua.exlibris
 ###ru

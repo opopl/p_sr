@@ -12008,6 +12008,90 @@ page
 page
 	set url https://www.radiosvoboda.org/a/nepovnolitni-u-sotsmerezhah/31158131.html
 	set tags ukraina,psihologia,deti,socset,internet
+page
+	set url https://zen.yandex.ru/media/politinteres/drevnerusskoe-slovo-mlin-kak-perevoditsia-5fe8b0e10d0c7759ac6027bf
+	set tags drevrus,slovo,bliny,rossia,rusmir,filologia,kultura,jazyk
+page
+	set url https://riafan.ru/region/svs/1405129-byvshii-voennyi-vsu-rasskazal-pochemu-v-2014-godu-prinyal-reshenie-prisyagnut-rossii
+	set tags simferopol,krym,rossia,ukraina,2014,vsu,prisjaga,zhizn,vossoedinenie
+page
+	set url https://zen.yandex.ru/media/id/5e3c7db7b546fc01ff5196f4/chto-delat-hlopcu-s-hutora-s-tem-chto-ponastroila-rossiia-6047dbd504378d7ce5d767c8
+	set tags ukraina,rossia,hutor,kb_antonov,istoria,sssr
+page
+	set url https://zen.yandex.ru/media/id/5e3c7db7b546fc01ff5196f4/istoriia-razvitiia-otnoshenii-ukrainy-i-rossii-ne-zakonchilas-na-maidane--vse-glavnoe-esce-vperedi-604fcc63d3283e6cffa0ae50
+	set tags ukraina,rossia,future,relations,rusmir
+page
+	set url https://zen.yandex.ru/media/id/5e3c7db7b546fc01ff5196f4/kratkaia-istoriia-nezalejnosti-6049b735752e6e35d1cdb0ec
+	set tags ukraina,istoria,nezalezhnist,krym,donbass,mnenie,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/id/5e3c7db7b546fc01ff5196f4/o-strannostiah-ukrainskogo-myshleniia-603df35fa3c2fb4774ff7b17
+	set tags ukraina,rossia,myshlenie,strannost'
+page
+	set url https://zen.yandex.ru/media/id/5e3c7db7b546fc01ff5196f4/nujno-ponimat-obidu-ukraincev-na-vesmirsnami-kotoryi-ih-ograbil-i-ushel-603ff888afc00e4c65d6f232
+	set tags ukraina,rossia,nato,evropa,ves'_mir_s_nami
+page
+	set url https://zen.yandex.ru/media/id/5e3c7db7b546fc01ff5196f4/sce-ne-vmerla-ukrani-60336ae9bd729c71d1f4abd3
+	set tags ukraina,rossia,gimn,vopros
+page
+	set url https://zen.yandex.ru/media/id/5e3c7db7b546fc01ff5196f4/chto-ne-poluchilos-u-ukrainy-60331fbb2dc579563654c40c
+	set tags ukraina,rossia,prygat',podumat'
+page
+	set url https://zen.yandex.ru/media/masterwpoetry/tainstvennoe-stihotvorenie-bloka-o-rossii-kotoroe-vyzyvaet-nepoddelnye-chuvstva-600b06051924cc03310b70cf
+	set tags blok_aleksandr,rus',rossia,rusmir,poezia
+page
+	set url https://zen.yandex.ru/media/tov_krasnov/drugpatriot-602a5a16c219c97e3258983d
+	set tags rossia,rusmir,patriot,drug
+page
+	set url https://zen.yandex.ru/media/kinovoyage/hrupkaia-i-krasivaia-devushka-iz-iaponii-smogla-perepet-shevchuka-pugachevu-i-butusova-poslushaem-nashi-znamenitye-hity-na-iaponskom-603a59d26cd9133fa6b98027
+	set tags rossia,ljubov,svadba,japonia,muzyka,pesnja,ichigo_tanuki,muzykant,suncev_vitalij
+page
+	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/udivitelnye-i-neobychnye-pamiatniki-rossii-5ff881ecfe4e686f6adc71e4
+	set tags rossia,kultura,pamjatnik,klizma,shproty
+page
+	set url https://zen.yandex.ru/media/yasimf/ogon-v-krymu-vystrelili-po-vodnoi-blokade-60537bd13729ca110eab1e93
+	set tags krym,rossia,voda,ogon',blokada,simferopol,ukraina,oon
+page
+	set url https://zen.yandex.ru/media/yasimf/angliiskii-vtoroi-gosudarstvennyi-v-ukraine-i-pochemu-krymchane-sem-nazad-vybrali-rossiiu-6050e5d0974a7a1569dec460
+	set tags ukraina,ukrainizacia,rossia,jazyk,mova,2014,krym,danilov_aleksei,english
+page
+	set url https://zen.yandex.ru/media/gdenamzit/amerikanka-o-rossii-ia-byla-absoliutno-potriasena-v-rossii-krasivymi-cerkviami-soborami-i-monastyriami-600862effc8f1029f7bdcc49
+	set tags krasota,cerkov,rossia,amerikanka,travel,jaroslavl,vpechatlenie
+page
+	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/boris-grachevskii-chelovek-sozdavshii-eralash-6053741753791e021b31b348
+	set tags grachevskij_boris,smert,rossia,eralash,kultura,smeh,1974,hmelik_aleksandr
+page
+	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/elizaveta-vtoraia-chelovek-epoha-604a3b0a53bd6e5e971624fc
+	set tags anglia,elizaveta_II_koroleva,istoria,zhizn,epoha,chelovek
+page
+	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/rossiiskaia-oppoziciia-dalekaia-ot-naroda-60425066b8613c1dbb6c5f3e
+	set tags rossia,oppozicia,narod,navalny,venediktov_aleksei,sobchak_ksenia,moskva,makarevich_andrej
+page
+	set url https://zen.yandex.ru/media/mlozha/kak-horonili-na-rusi-60087e0819811f0c236500ae
+	set tags rusmir,drevrus,drevnost',pohoron,tradicii,rossia,istoria
+page
+	set url https://zen.yandex.ru/media/grimm/pochemu-do-pushkina-v-rossii-ne-bylo-pisatelei-propavshie-temnye-veka-istorii-5ff6d9f8fe4e686f6ab0bc8f
+	set tags literatura,drevnost',drevrus,rossia,istoria,kultura,rusmir,pushkin_aleksandr,pisatel
+page
+	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/olga-sturova-krasavica-i-hranitelnica-narodnoi-pesni-za-takuiu-i-jizn-otdat-i-chertu-roga-oblomat-60008182dc0ac42b28489fb1
+	set tags rusmir,rossia,pesnja,muzyka,kultura,sturova_olga
+page
+	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/russkie-umeiut-tronut-dushu-i-serdce-animaciia-iz-rossii-porazivshaia-mir-aleksandr-petrov-5ffb3eddf906b168725e4624
+	set tags rossia,animacia,dusha,kultura
+page
+	set url https://zen.yandex.ru/media/politinteres/a-esli-vizantiia-ni-pri-chem-otkuda-vzialsia-dvuglavyi-orel-na-russkom-gerbe-5fd7395533ed420c3f8bd426
+	set tags rusimperia,moskovia,rusmir,rossia,istoria,dvuglavyj_orel,vizantia,gerb
+page
+	set url https://zen.yandex.ru/media/lubaslava/jenscina-v-russkoi-kulture-5fe6555d9c06f6134fb8ffaa
+	set tags rossia,kultura,istoria,rusmir,woman
+page
+	set url https://regnum.ru/news/society/3177913.html
+	set tags slepakov_semen,poezia,rossia,protest,navalny,dobro,zlo,liberalizm,terror
+page
+	set url https://zen.yandex.ru/media/id/5e6f6087a398c131b6392f86/sbudutsia-li-predskazaniia-chingishana-5fca9652788eda75c7dab4e5
+	set tags chingishan,mogila,prorochestvo,predskazanie,istoria,mongoly
+page
+	set url https://zen.yandex.ru/media/fishki_i_shishki/russkii-notrdam-pochemu-ego-unichtojili-i-mojno-li-vosstanovit-605129e6974a7a15695d3944
+	set tags cerkov,arhitektura,vera,rossia,istoria,rusmir,1511,moskva
 eof
 off
 page

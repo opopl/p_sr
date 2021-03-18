@@ -31,6 +31,7 @@ include:
     - news.ru.ria_kursk
     - news.ru.izvestia
     - news.ru.regnum
+    - news.ru.donbasstoday
 ###bib
     - bib.ua.exlibris
 ###ru
@@ -56,6 +57,7 @@ include:
     - news.ua.glavred
     - news.ua.prostirsvobody
     - news.ua.lb
+    - news.ua.tyzhden
     #- news.ua.sprotyv
     #- news.anglia.bbc
     - pc.articles.sitepoint

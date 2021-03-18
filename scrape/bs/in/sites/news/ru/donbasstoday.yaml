@@ -3,7 +3,7 @@ sel:
   clean:
   only:
     - article
-    - section.comments
+  keep:
 
 PageParser:
   get_date:
@@ -23,13 +23,22 @@ PageParser:
     sels:
       - { 
           'search' : {
-              'css'   : [ '.article-header__author-name' ],
+              'css'   : [ 'a.author-name' ],
               'map' : {
                   'name' : 'text',
                   'url'  : { 
                     'get' : 'attr',
                     'attr' : 'href',
                   }
+              },
+             'text' : {
+               'lines' : {
+                  'match' : { 
+                      'pat'   : 'Текст:\s+(.*)$',
+                      'name'  : 1,
+                      'split' : ',',
+                  }
+                }
               }
           },
         }

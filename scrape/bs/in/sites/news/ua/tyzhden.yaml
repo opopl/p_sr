@@ -2,8 +2,7 @@
 sel:
   clean:
   only:
-    - article
-    - section.comments
+  keep:
 
 PageParser:
   get_date:
@@ -13,17 +12,15 @@ PageParser:
   get_date_html:
     sels:
       - { 
-          'find'  : '',
-          'get'   : 'attr',
-          'attr'  : '',
-          'split' : ' ',
+          'find' : '.date',
+          'get' : 'text'
         }
   get_author:
   get_author_html:
     sels:
       - { 
           'search' : {
-              'css'   : [ '.article-header__author-name' ],
+              'css'   : [ '.date-and-author a' ],
               'map' : {
                   'name' : 'text',
                   'url'  : { 

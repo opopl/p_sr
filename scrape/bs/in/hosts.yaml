@@ -23,9 +23,11 @@
 'sharij.net' : { 'site' : 'news.ua.sharij' }
 'glavred.info' : { 'site' : 'news.ua.glavred' }
 'prostirsvobody.org' : { 'site' : 'news.ua.prostirsvobody' }
+'tyzhden.ua' : { 'site' : 'news.ua.tyzhden' }
 
 ###news.ru
 
+'donbasstoday.ru' : { 'site' : 'news.ru.donbasstoday' }
 'inosmi.ru' : { 'site' : 'news.ru.inosmi' }
 'kp.ru' : { 'site' : 'news.ru.kp' }
 'lenta.ru' : { 'site' : 'news.ru.lenta' }

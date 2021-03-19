@@ -48,9 +48,15 @@
 'riakursk.ru' : { 'site' : 'news.ru.ria_kursk' }
 'iz.ru' : { 'site' : 'news.ru.izvestia' }
 'regnum.ru' : { 'site' : 'news.ru.regnum' }
+'eadaily.com' : { 'site' : 'news.ru.eadaily' }
 
 ###bib
 'exlibris.org.ua' : { 'site' : 'bib.ua.exlibris' }
+
+###nauka
+
+# Nauka i Zhizn
+'nkj.ru' : { 'site' : 'nauka.ru.nkj' }
 
 ###poezia
 'maysterni.com' : { 'site' : 'poezia.ua.maysterni' }
@@ -67,6 +73,7 @@
 
 ###vera
 'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }
+'radonezh.ru'    : { 'site' : 'vera.ru.radonezh' }
 
 ###pc
 

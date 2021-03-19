@@ -34,6 +34,10 @@ include:
     - news.ru.donbasstoday
     - news.ru.znak
     - news.ru.stapravda
+    - news.ru.eadaily
+
+###nauka_ru
+    - nauka.ru.nkj
 ###bib
     - bib.ua.exlibris
 ###ru
@@ -66,6 +70,13 @@ include:
     - pc.articles.pavlutin
     #- pc.cairographics 
     #- pc.cairosvg
+    
+###vera_ru
     - vera.ru.pravoslavie
+    - vera.ru.radonezh
+
+###ludi
     - ludi.ua.buzina
+
+###poezia
     - poezia.ua.maysterni

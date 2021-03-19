@@ -1,0 +1,65 @@
+
+sel:
+  clean:
+  only:
+  keep:
+
+PageParser:
+  get_date:
+    tries:
+      order:
+  get_date_meta:
+  get_date_ld_json:
+  get_date_url:
+  get_date_html:
+    sels:
+      - { 
+          'find'  : '.datetime time',
+          'get'   : 'attr',
+          'attr'  : 'datetime',
+        }
+  get_author:
+    tries:
+      order:
+  get_author_html:
+    sels:
+      - { 
+          'search' : {
+              'css'   : [ 
+                '.news-text-body p em' 
+              ],
+              'css_index' : 'last',
+#              'map' : {
+                  #'name' : 'text',
+                  #'url'  : { 
+                    #'get' : 'attr',
+                    #'attr' : 'href',
+                  #}
+              #},
+             'text' : {
+               'lines' : {
+                  'match' : { 
+                      'pat'   : '^(.*),специально для',
+                      'name'  : 1,
+                      'split' : ',',
+                  }
+                }
+              }
+          },
+        }
+      - { 
+          'search' : {
+              'css'   : [ 
+                '.news-author a' 
+              ],
+              'map' : {
+                  'name' : 'text',
+                  'url'  : { 
+                    'get' : 'attr',
+                    'attr' : 'href',
+                  }
+              },
+          },
+        }
+  get_author_meta:
+  get_author_ld_json:

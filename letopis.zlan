@@ -12815,6 +12815,9 @@ page
 page
 	set url https://censor.net/ru/video_news/3254619/fayiery_feyierverki_i_razbitye_stekla_pod_ofisom_prezidenta_proshla_aktsiya_v_podderjku_sternenko_videofotoreportaj
 	set tags protest,foto,sternenko_sergei,ukraina,zelenskii_vladimir,ofis_prezidenta,bankova,ogon',podzhog,pozhar
+page
+	set url http://lug-info.com/news/one/ukrainskie-miny-s-iyulya-unesli-zhizni-58-voennosluzhaschikh-otg-vsu-sever-narodnaya-militsiya-65745
+	set tags ukraina,lnr,vojna,donbass,nm_lnr,mina,smert,vsu
 eof
 off
 page

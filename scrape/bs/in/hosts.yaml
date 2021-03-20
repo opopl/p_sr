@@ -24,6 +24,7 @@
 'glavred.info' : { 'site' : 'news.ua.glavred' }
 'prostirsvobody.org' : { 'site' : 'news.ua.prostirsvobody' }
 'tyzhden.ua' : { 'site' : 'news.ua.tyzhden' }
+'fraza.com' : { 'site' : 'news.ua.fraza' }
 
 ###news.ru
 
@@ -74,6 +75,9 @@
 ###vera
 'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }
 'radonezh.ru'    : { 'site' : 'vera.ru.radonezh' }
+
+###video
+'youtube.com'    : { 'site' : 'video.youtube' }
 
 ###pc
 

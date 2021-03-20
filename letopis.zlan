@@ -12515,6 +12515,306 @@ page
 page
 	set url https://strana.ua/news/323726--kak-rada-zaranee-prostila-vse-proizvoditeljam-vaktsin-.html
 	set tags pobochka,kompensacia,zakon,ukraina,verhovna_rada,vaccinacia,vaccine,covid,skandal
+page
+	set url https://strana.ua/news/323780-polzovateli-fejsbuka-pishut-sashe-hrej-chto-borshch-ukrainskoe-bljudo.html
+	set tags pornografia,grej_sasha,blogger,borsch,rossia,ukraina,srach,facebook,socset
+page
+	set url https://strana.ua/news/323621-sasha-hrej-nazvala-borshch-ukrainskim-.html
+	set tags borsch,grej_sasha,youtube,internet,kuhnja,eda,ukraina,rossia
+page
+	set url https://strana.ua/news/299810-v-ukraine-teper-ofitsialno-borshch-natsionalno-bljudo.html
+	set tags ukraina,borsch,rossia,eda,kuhnja,propaganda,soprotivlenie
+page
+	set url https://strana.ua/news/323798-peter-sijjarto-sdelal-vaktsinu-rossijskim-sputnikom.html
+	set tags vengria,vaccinacia,vaccine,rossia,sputnik_v,mid_vengria
+page
+	set url https://kiev.strana.ua/323794-lokdaun-v-kieve-vstupil-v-silu-chto-teper-ne-rabotaet.html
+	set tags lockdown,kiev,ukraina,ogranichenie,covid,pandemia
+page
+	set url https://life.pravda.com.ua/society/2021/03/20/244288/
+	set tags ukraina,pravilo,derevo,posadka,priroda,sovet
+page
+	set url https://www.radiosvoboda.org/a/zaboroneni-photo-holodomoru-henotsydu/31159689.html
+	set tags ukraina,golodomor,foto,pamjat,sssr,istoria,stalin_jozef
+page
+	set url https://www.radiosvoboda.org/a/mohyla-ivana-mazepy-rosiya-kgb/31159821.html
+	set tags mazepa_ivan,ukraina,rossia,strah,vopros,istoria,rusmir,kazaki,pamjatnik
+page
+	set url https://www.radiosvoboda.org/a/rosijanam-skasovuyut-zapys-na-vakcynaciju/31160232.html
+	set tags rossia,vaccinacia,sputnik_v,vaccine,covid
+page
+	set url https://strana.ua/news/323785-v-hermanii-nashli-svjaz-mezhdu-vaktsinoj-astrazeneca-i-trombozom.html
+	set tags ukraina,vaccinacia,vaccine,covid,tromboz,nauka,medicina,issledovanie
+page
+	set url https://www.vesti.ru/article/2539175
+	set tags izvinenie,posolstvo.rossia,usa,biden_joe,putin_vladimir,antonov_anatolii
+page
+	set url https://news.obozrevatel.com/society/odna-smert-chetyire-zhizni-neveroyatnuyu-istoriyu-transplantatsii-v-zaporozhe-pokazali-v-efire-shustera.htm
+	set tags todurov_boris,medicina,operacia,transplantologia,transplantacia,serdce,pochki,insult,ukraina,zaporozhie
+page
+	set url https://news.obozrevatel.com/russia/putin-i-ego-okruzhenie-ne-politiki-a-ubijtsyi-i-voryi.htm
+	set tags deti,rossia,putin_vladimir,killer,skandal,usa,biden_joe
+page
+	set url https://lenta.ru/articles/2021/03/20/borba_s_russkim/
+	set tags lenin_vladimir,istoria,korenizacia,ukraina,rossia,belarus,nacia,rusmir,bolsheviki,1923,12_sjezd_rkpb
+page
+	set url https://lenta.ru/articles/2020/01/21/ukr_obr/
+	set tags ukraina,rossia,shkola,deti,ukrainizacia,obrazovanie,zapret,jazyk,mova,kiev,nacionalist
+page
+	set url https://lenta.ru/articles/2019/08/19/rus_ukr/
+	set tags zelenskii_vladimir,ukraina,vybory,raskol,mova,jazyk
+page
+	set url https://lenta.ru/articles/2019/11/22/maydan_kak_sudba/
+	set tags maidan,ukraina,kiev,juschenko_viktor,22_nov,2004,vojna,donbass,orange_revolution,putin_vladimir,janukovich_viktor
+page
+	set url https://lenta.ru/articles/2019/03/17/rotar_3/
+	set tags kiev,rossia,sssr,istoria,kultura,bulgakov_mihail,literatura,1918,mova,jazyk,patriot,radikaly,slavjansk,donbass,vojna,girkin_igor
+page
+	set url http://lug-info.com/news/one/vsu-razmestili-bronetekhniku-v-zhilykh-raionakh-muratovo-narodnaya-militsiya-65740
+	set tags vsu,vojna,donbass,lnr,nm_lnr
+page
+	set url http://lug-info.com/news/one/luganskii-fitnes-instruktor-podelilas-sovetami-dlya-produktivnogo-nachala-dnya-65724
+	set tags lnr,sport,fitnes,sovet,produktivnost'
+page
+	set url http://lug-info.com/news/one/konferentsiya-travmy-lor-organov-i-glaza-s-uchastiem-vrachei-iz-rf-proshla-v-lgmu-65733
+	set tags lnr,rossia,graza,travma,konferencia,vrach,lgmu,medicina
+page
+	set url https://www.radiosvoboda.org/a/31158848.html
+	set tags ukraina,rossia,ved'ma,verovanie,istoria,kultura,strashnyj_sud,1431,ekaterina_II,1350,kartina,isskustvo,vera,cerkov
+page
+	set url https://www.radiosvoboda.org/a/31157753.html
+	set tags ukraina,rossia,zhizn,doneck,donbass,vojna,rostov_na_donu,taganrog,pokupka,torgovlja,poezdka
+page
+	set url http://lug-info.com/news/one/kommentarii-glavy-lnr-po-povodu-vvedennykh-kievom-sanktsii-65736
+	set tags sankcii,pasechnik_leonid,lnr,ukraina,rossia,sssr,istoria,sluzhba,vernost',predatelstvo,2014,maidan2,zajavlenie
+page
+	set url https://ukraina.ru/opinion/20210319/1030888319.html
+	set tags istoria,parizh,francia,parizh_kommuna,vosstanie,zhitomir,ukraina,1836,150_let,dombrovskij_jaroslav,gimn.polsha
+page
+	set url https://ukraina.ru/exclusive/20210320/1030887678.html
+	set tags ukraina,lvov,ternopil,knjazhestvo,galicia,volyn',sotrudnichestvo
+page
+	set url https://ukraina.ru/exclusive/20210320/1030820573.html
+	set tags istoria,sssr,bulgakov_mihail,film,kultura,ivan_groznii,rusmir,rossia,kiev,ukraina,gajdaj_leonid.rezhisser,1571,moskva,mashina_vremeni,vremja
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-21-semya-poluchit-pomoshch-ot-marafona-mir-detstva/
+	set tags rossia,kursk,deti,pomosch,lechenie
+page
+	set url https://buzina.org/golos-naroda/3930-ukraina.html
+	set tags ukraina,haos,failed_state,schastje,tolstoi_lev.pisatel,rnbo,zelenskii_vladimir
+page
+	set url https://buzina.org/golos-naroda/3931-rusmir.html
+	set tags rusmir,zakon,verhovna_rada,ukraina,zapret,presledovanie,repressii,cenzura
+page
+	set url https://buzina.org/golos-naroda/3927-olga.html
+	set tags rusmir,olga_knjaginja,rossia,istoria,ukraina,world_economic_forum,davos,poroshenko_petr,kievrus,vera,kreschenie,cerkov,pravoslavie
+page
+	set url https://buzina.org/golos-naroda/3928-palomnitsa.html
+	set tags lavra,palomnik,film,marchenko_oksana,ukraina,rusmir,kievrus,cerkov,vera,pravoslavie,peschera
+page
+	set url https://www.youtube.com/watch?v=KkT84P6OWeo
+	set tags ukraina,pesnja,video
+page
+	set url https://kiev.strana.ua/323811-lokdaun-v-kieve-stolichnye-marshrutki-zapolneny-passazhirami.html
+	set tags kiev,ukraina,marshrutka,lockdown,covid,pandemia,karantin
+page
+	set url https://strana.ua/news/323804-imushchestvo-i-aktsii-motor-sichi-arestovali.html
+	set tags sbu,motor_sich,ukraina,derzhava,kitaj,kompensacia
+page
+	set url https://www.radiosvoboda.org/a/donetsk-liky-apteka-deficyt/31159658.html
+	set tags ukraina,doneck,donbass,lekarstvo,apteka,rossia,finansy
+page
+	set url https://www.radiosvoboda.org/a/30853945.html
+	set tags ukraina,rossia,donbass,vojna,novorossia,rusvesna,pamjat,pohoron,smert
+page
+	set url https://gazeta.ua/articles/life/_dlya-prostih-smertnih-vakcina-nedostupna-sergij-zadan-zrobiv-scheplennya-vid-covid19-ta-otrimav-shkval-hejtu/1021211
+	set tags zhadan_sergej,ukraina,vaccinacia,vaccine,facebook,kommentarii,ochered'
+page
+	set url https://gazeta.ua/articles/life/_revolyuciya-v-rosiyi-ce-yak-visadka-inoplanetyan-na-zemlyu/1021195
+	set tags rossia,revolucia,putin_vladimir,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/nepomitna-ale-uspishna-susidka
+	set tags ukraina,slovakia,sosed,ekonomika,zhizn,obschestvo
+page
+	set url https://www.vesti.ru/article/2539218
+	set tags gmii,pamjat,antonova_irina.direktor.gmii,rossia,muzei,98_let
+page
+	set url https://news-front.info/2021/03/19/amerika-prevrashhaet-ukrainu-v-totalitarnoe-gosudarstvo/
+	set tags amerika,usa,zelenskii_vladimir,totalitarizm,ukraina
+page
+	set url https://news-front.info/2021/03/20/pushkov-kak-by-silnyj-veter-istorii-ne-vydul-bajdena-iz-belogo-doma-ranshe-sroka/
+	set tags pushkov_aleksei,biden_joe,veter,padenie,usa,rossia,samolet
+page
+	set url https://strana.ua/news/323809-kto-popal-pod-sanktsii-zelenskoho-19-marta-biohrafii-27-byvshij-chinovnikov-i-militsionerov.html
+	set tags kolesnichenko_vadim,ukraina,rossia,azarov_nikolaj,sankcii,repressii,rnbo,janukovich_viktor,salamatin_dmitrij
+page
+	set url https://kiev.strana.ua/323830-v-kieve-prokhodit-marsh-antiprivivochnikov-i-kovidoskeptikov-.html
+	set tags kiev,ukraina,vaccinacia,privivka,miting,protest,skeptik
+page
+	set url https://fakty.ua/371167-vozle-desyatinnoj-cerkvi-nashli-klad-kotoryj-s-trudom-pomestilsya-v-dva-meshka
+	set tags klad,cerkov.kiev.desjatinnaja,kievrus,istoria,kiev,drevrus,drevnost',arheologia,1204,1171,996,kreschenie.rusi,1605,mogila_petr.mitropolit
+page
+	set url https://fakty.ua/203459-v-sofii-kievskoj-sohranilsya-prizhiznennyj-portret-vladimira-velikogo
+	set tags kievrus,portrety,freska,knjaz_vladimir,ukraina,rossia,istoria,drevrus,sofia_sobor,novgorod,vizantia
+page
+	set url https://crime.fakty.ua/41192-pri-raskopkah-legendarnoj-desyatinnoj-cerkvi-arheologi-obnaruzhili-samuyu-drevnyuyu-nadpis-iz-kogda-libo-najdennyh-v-kieve
+	set tags istoria,kievrus,rossia,ukraina,kultura,knjaz_vladimir,cerkov.kiev.desjatinnaja,nadpis',slovo
+page
+	set url https://culture.fakty.ua/196750-akademik-petr-tolochko-v-letopisi-skazano-chto-vzyav-hersones-knyaz-vladimir-oslep-zrenie-vernulos-kak-tolko-on-proshel-obryad-krecsheniya
+	set tags tolochko_pp,knjaz_vladimir,kievrus,rossia,istoria,ukraina,vera,kreschenie.rusi,vasnecov_viktor.hudozhnik
+page
+	set url https://fakty.ua/370074-vo-vremya-pozhara-v-gorodskom-teatre-kieva-ogneborcam-udalos-otvesti-ogon-ot-elektrostancii-ryadom-s-kotoroj-stoyala-cisterna-s-50-tonnami-nefti
+	set tags istoria,pozhar,teatr,1896,kiev,ukraina,rusmir,rusimperia,kultura,4_feb
+page
+	set url https://culture.fakty.ua/370937-rezhisser-bykov-rasskazal-o-filmah-pro-rashku-govnyashku-i-gosfinansirovanii
+	set tags bykov_jurij.rezhisser,rossia,kultura,kino,film,zvjagincev_andrej.rezhisser,leviafan
+page
+	set url http://lug-info.com/news/one/molodye-dizainery-lnr-predstavili-bolee-80-rabot-na-konkurse-design-ideya-v-lgaki-foto-65742
+	set tags lgaki,dizajn,lnr,kultura,konkurs
+page
+	set url http://lug-info.com/news/one/vsu-spryatali-ot-obse-tri-bmp-vo-dvore-zhilogo-doma-v-schaste-narodnaya-militsiya-65743
+	set tags vsu,obse,vojna,donbass,lnr,nm_lnr,schastje
+page
+	set url http://lug-info.com/news/one/luganskii-tsirk-ustranil-tekhnicheskie-nepoladki-shou-feeriya-poyuschikh-fontanov-direktor-foto-65741
+	set tags lnr,lugansk,cirk,nepoladki,fontan,pesnja
+page
+	set url http://lug-info.com/news/one/molodezhnyi-parlament-lnr-s-21-marta-po-4-aprelya-provedet-konkurs-chtetsov-poezii-foto-65710
+	set tags poezia,parlament,molodezh,konkurs,lnr,socset,vkontakte
+page
+	set url oos
+	set tags ukraina,rossia,donbass,vojna,peremirie,obstrel,obse
+page
+	set url https://www.pravda.com.ua/news/2021/03/20/7287324/
+	set tags donbass,vojna,rossia,ukraina,vsu,oos
+page
+	set url https://gazeta.ua/articles/history/_so-prihovuyut-mifi-rosijskoyi-propagandi-pravda-pro-ivana-mazepu/1021069
+	set tags 20_mar,1639,mazepa_ivan,ukraina,istoria,rossia,rusmir,petr_pervyi,pismo
+page
+	set url https://gazeta.ua/articles/culture-newspaper/_film-pro-kiyivskih-shkolyariv-pokazhut-na-berlinskomu-kinofestivali/1018092
+	set tags deti,shkola,ukraina,festival,film,film.stop_zemlja,germania,berlin
+page
+	set url https://fraza.com/analytics/50272-pisma-advokatu-menshikova-chast-shestaya
+	set tags istoria,mazepa_ivan,petr_pervyi,rossia,ukraina,baturin,kazaki
+page
+	set url http://www.rusarchives.ru/online-projects/mazepa-k-istorii-predatelstva/doc-15-1708-pismo-generala-knyazya-menshikova-petru-i
+	set tags mazepa_ivan,petr_pervyi,istoria,russia,ukraina,men'shikov_aleksandr.knjaz,pismo,1708,26_oct
+page
+	set url https://fraza.com/blog/298798-sbyvajutsja-samye-mrachnye-prorochestva-oruella
+	set tags orwell,pravda,dezinformacia,totalitarizm,ukraina,stagnacia,future,obschestvo,cenzura,infvojna
+page
+	set url https://fraza.com/analytics/298792-zelenoj-plesenju-pokrytaja-strana-mechty-ubitaja-
+	set tags strana,kvartal95,zelenskii_vladimir,ukraina,mechta,plesen'
+page
+	set url https://fraza.com/interview/292359-boris-tarshis-est-kucha-klassnogo-ukrainskogo-repa-i-roka-a-ukrainskih-shainskih-i-krylatovyh-net
+	set tags ukraina,muzyka,interview,pesnja,deti,tvorchestvo,krylatov_evgenij,mova,jazyk
+page
+	set url https://strana.ua/news/323870-mitinh-za-sternenko-20-marta-v-kieve-onlajn-transljatsija.html
+	set tags sternenko_sergei,miting,kiev,ukraina,birthday,ofis_prezidenta,bankovaja
+page
+	set url https://kiev.strana.ua/323871-politsija-usilila-okhranu-pravitelstvennoho-kvartala-v-tsentre-kieva-foto.html
+	set tags kiev,ukraina,sternenko_sergei,miting,protest,bankova,policia,ofis_prezidenta
+page
+	set url https://strana.ua/news/323851-v-amsterdame-prokhodit-aktsija-protesta-protiv-karantinnykh-ohranichenij.html
+	set tags amsterdam,gollandia,protest,medik,veteran,vodomet,policia
+page
+	set url https://lenta.ru/news/2021/03/20/nesterenko_umer/
+	set tags smert,avstria,sssr,istoria,kultura,nesterenko_evgenij.artist.sssr
+page
+	set url https://vz.ru/world/2021/3/20/1090431.html
+	set tags diplomatia,deti,sssr,istoria,usa,holodnaja_vojna,1983,1986,mir,smith_samantha,lycheva_katerina,peremirie
+page
+	set url https://vz.ru/world/2021/3/20/1090447.html
+	set tags ukraina,kitaj,rossia,krym,diplomatia,motor_sich,skandal,priznanie
+page
+	set url https://vz.ru/news/2021/3/20/1090444.html
+	set tags biden_joe,putin_vladimir,smeh,congress,usa,otkaz,beseda,rossia
+page
+	set url https://fraza.com/column/298897-literaturnaja-kritika-ot-gogolja-do-tompsona-
+	set tags literatura,kritika,ukraina,kultura,gogol_nikolai,taras_bulba,kiev,sssr,istoria
+page
+	set url https://fraza.com/analytics/255772-analiziruja-tarasa-bulbu-pochemu-povest-gogolja-zamalchivajut-dlja-ukrainskogo-chitatelja
+	set tags gogol_nikolai,taras_bulba,kritika,ukraina,istoria,kazaki,novorossia,kniga,rossia,rusmir
+page
+	set url https://kiev.strana.ua/323884-anton-herashchenko-nazval-proiskhodjashchee-u-ofisa-prezidenta-khulihanstvom.html
+	set tags geraschenko_anton,policia,protest,sternenko_sergei,ofis_prezidenta,kiev,ukraina
+page
+	set url https://strana.ua/news/323876-v-bolnitse-ivano-frankovskoj-oblasti-iz-za-koronavirusa-za-hod-vdvoe-vyrosla-smertnost.html
+	set tags prikarpatie,bolezn',covid,ukraina,smert,gospitalizacia,bolnica
+page
+	set url https://strana.ua/opinions/321324-deputaty-ne-v-silakh-ponjat-kak-zhe-tak-poluchilos-s-ivano-frankovshchinoj.html
+	set tags ukraina,ivano_frankovsk,covid,bolezn,statistika,zabolevajemost'
+page
+	set url https://strana.ua/opinions/323858-dobitsja-ot-sashi-hrej-priznanija-borshcha-ukrainskim-bljudom.html
+	set tags ukraina,nacia,nacidea,borsch,grej_sasha,evolucia,poroshenko_petr,rossia
+page
+	set url https://strana.ua/articles/323821-otnoshenija-ssha-i-kitaja-chto-oznachaet-perepalka-na-perehovorakh-na-aljaske-i-kak-eto-otrazitsja-na-ukraine-.html
+	set tags rossia,kitaj,biden_joe,usa,diplomatia,skandal
+page
+	set url https://strana.ua/opinions/323861-ljudi-v-antisanitarnykh-uslovijakh-v-busikakh-korchatsja-za-ljutyj-prajs.html
+	set tags ukraina,kiev,karantin,lockdown,strana
+page
+	set url https://ukraina.ru/exclusive/20210320/1030884704.html
+	set tags rossia,astrologia,istoria,sssr,rusimperia,rusmir,flag.rossia,gerb.rossia
+page
+	set url https://ukraina.ru/exclusive/20210320/1030891741.html
+	set tags gubar'_oleg.odessa,66_let,smert,ukraina,odessa,covid,kulikovo_pole.odessa,rusmir,rossia
+page
+	set url https://ukraina.ru/news/20210216/1030569840.html
+	set tags bojko_anatolij.artist.odessa,smert,ukraina,teatr,kultura,opera,balet
+page
+	set url https://fraza.com/fraze/298376-sergej-garmash
+	set tags garmash_sergej.tkg,ukraina,rossia,fraza,rusmir
+page
+	set url https://fraza.com/news/298922--pravoslavnyj-film-gde-ty-adam-pokazhut-v-shesti-gorodah-ukrainy-v-den-torzhestva-pravoslavija
+	set tags film,kultura,kino,ukraina,adam,vopros,pravoslavie,vera,cerkov
+page
+	set url https://www.pravda.com.ua/news/2021/03/20/7287333/
+	set tags ukraina,zelenskii_vladimir,protest,ogon',sternenko_sergei,vandalizm,pozhar
+page
+	set url https://lenta.ru/articles/2021/03/20/armwedding/
+	set tags konjak,russkie,rossia,armenia,tradicii,svadba,kultura,ljubov,erevan
+page
+	set url https://lenta.ru/news/2021/03/19/getto/
+	set tags getto,karantin,covid,ukraina,verhovna_rada,deputat,statistika
+page
+	set url https://zaxid.net/figoviy_listok_ukrayinskih_altruyistiv_n1516023
+	set tags ukraina,altruizm,istoria,geroizm,nacia,analiz
+page
+	set url https://zaxid.net/budivlyu_ofisu_prezidenta_roztroshhili_uchasniki_aktsiyi_na_pidtrimku_sternenka_n1516060
+	set tags zelenskii_vladimir,sternenko_sergei,protest,bankova,kiev,ukraina,ofis_prezidenta,ogon',pozhar
+page
+	set url https://riakursk.ru/podvodniki-i-veterany-vmf-vspominali-ekipazh-aprk-kursk/
+	set tags rossia,pamjat,aprk_kursk,podlodki,115_let,19_mar,tragedia
+page
+	set url https://news.obozrevatel.com/kiyany/storonniki-sternenko-oblili-ofis-prezidenta-kraskoj-i-zazhgli-fajeryi-podrobnosti-foto-i-video.htm
+	set tags protest,zelenskii_vladimir,sternenko_sergei,ukraina,kiev,podzhog,pozhar,ogon',policia,radikaly
+page
+	set url https://news.obozrevatel.com/society/mrachnyie-sovetskie-serialyi.htm
+	set tags sssr,kino,serial,istoria,kultura,film
+page
+	set url https://news.obozrevatel.com/society/mifyi-i-lozh-sssr-otkuda-beret-nachalo.htm
+	set tags sssr,istoria,mif,kultura,lozh',vranje,pravda,lenin_vladimir,strojka,future,kommunizm,ihtamnet,basmachi,kniga
+page
+	set url https://lenta.ru/news/2021/03/19/krym/
+	set tags vsu,ukraina,rossia,krym,2014,krivonos_sergej.general
+page
+	set url https://regnum.ru/news/society/3220297.html
+	set tags rossia,obschestvo,moskva,karantin,pustota,gorod,pandemia,covid,st_peterburg,ekaterinburg
+page
+	set url https://regnum.ru/news/society/3220685.html
+	set tags rossia,arhangelsk,karantin,covid,otchajanie,suicid,abort,smert,dengi,schastje
+page
+	set url https://regnum.ru/news/cultura/3220560.html
+	set tags kultura,rossia,kukla,teatr,istoria,obrazscov_sergej.kukly,1931,moskva
+page
+	set url https://regnum.ru/news/polit/3220613.html
+	set tags usa,kitaj,sila,rossia,mid_rf,kommentarii,biden_joe,putin_vladimir
+page
+	set url https://inosmi.ru/politic/20210320/249374184.html
+	set tags ukraina,rossia,juschenko_viktor,zelenskii_vladimir,sovet,putin_vladimir,russkie,mentalitet,nacia,krym
+page
+	set url https://censor.net/ru/video_news/3254619/fayiery_feyierverki_i_razbitye_stekla_pod_ofisom_prezidenta_proshla_aktsiya_v_podderjku_sternenko_videofotoreportaj
+	set tags protest,foto,sternenko_sergei,ukraina,zelenskii_vladimir,ofis_prezidenta,bankova,ogon',podzhog,pozhar
 eof
 off
 page

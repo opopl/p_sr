@@ -12818,6 +12818,18 @@ page
 page
 	set url http://lug-info.com/news/one/ukrainskie-miny-s-iyulya-unesli-zhizni-58-voennosluzhaschikh-otg-vsu-sever-narodnaya-militsiya-65745
 	set tags ukraina,lnr,vojna,donbass,nm_lnr,mina,smert,vsu
+page
+	set url http://lug-info.com/news/one/luganskii-teatr-kukol-predstavil-premeru-spektaklya-zolotaya-rybka-foto-65746
+	set tags lnr,teatr,kultura,zolotaja_rybka,spektakl,kukla
+page
+	set url http://lug-info.com/news/one/luganskaya-afisha-65706
+	set tags lnr,lugansk,afisha,kultura,kino,teatr
+page
+	set url https://www.radiosvoboda.org/a/news-sternenko-herashchenko-poroshenko/31161375.html
+	set tags geraschenko_anton,sternenko_sergei,ukraina,poroshenko_petr,protest,ofis_prezidenta,pozhar,ogon',podzhog,bankova,kiev
+page
+	set url https://www.pravda.com.ua/news/2021/03/20/7287336/
+	set tags geraschenko_anton,ukraina,mvd,protest,pozhar,krov',ogon',sternenko_sergei,kiev,bankova
 eof
 off
 page
@@ -12827,3 +12839,5 @@ page
 	#set redo 1
 	#setlist acts
 		db_update
+
+#https://catalog.princeton.edu/catalog/4741862#view

@@ -13229,6 +13229,12 @@ page
 page
 	set url https://strana.ua/news/323962-v-rabote-youtube-proizoshel-masshtabnyj-sboj.html
 	set tags youtube,problemy,internet,nepoladki,world,it
+page
+	set url https://zen.yandex.ru/media/onp/chto-v-rossii-proishodilo-v-tot-god-kogda-kolumb-otkryval-ameriku-605078e2e781846a40663db3
+	set tags kolumb_hristofor,amerika,1492,rossia,rusmir,istoria,shkola,obrazovanie
+page
+	set url https://from-ua.com/mneniya/591410-irina-farion-angliiskoyu-movoyu-ukrainu-ne-zbuduesh-i-huk-odrazu-v-schelepu-yakscho-ti-cogo-ne-rozumiesh.html
+	set tags farion_irina,ukraina,mova,english,danilov_aleksei,kultura
 eof
 off
 page

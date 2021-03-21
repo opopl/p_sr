@@ -13250,6 +13250,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/video/28694302.html
 	set tags ukraina,rossia,krym,pozdravlenie,symonenko_vasyl,poezia,nezalezhnist
+page
+	set url https://strana.ua/news/323929-chto-delat-s-zemlej-v-krymu-ukraintsam-sut-ukaza-putina-o-zaprete-vladet-uchastkami-inostrantsam.html
+	set tags sobstvennost',nedvizhimost',putin_vladimir,rossia,ukraina,krym,zapret,vladenie,zakon,zemlja
 eof
 off
 page

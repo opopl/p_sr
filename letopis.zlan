@@ -13262,6 +13262,24 @@ page
 page
 	set url https://regnum.ru/news/3219051.html
 	set tags krym,rossia,ukraina,vossoedinenie,znachenie,rusvesna,sevastopol,18_mar,2014,osmyslenie,vezhlivyje_ludi
+page
+	set url https://plus.obozrevatel.com/crime/sobyitiya-na-bankovoj-shturm-kapitoliya-i-zahvat-terroristami-zdanij-oga-na-donbasse-chto-obschego-i-v-chem-opasnost.htm
+	set tags radikaly,ukraina,pogrom,ofis_prezidenta,zelenskii_vladimir,loh,sternenko_sergei,donbass,protest
+page
+	set url https://news.obozrevatel.com/society/vot-pochemu-lyudi-hotyat-nazad-v-sssr.htm
+	set tags istoria,sssr,ludi,zhelanie,vopros,rossia,ukraina,zhizn
+page
+	set url https://plus.obozrevatel.com/crime/ne-smeshivajte-nesmeshivaemoe-gospoda-ofitseryi.htm
+	set tags ukraina,pozor,pobeda,future,pogrom,ofis_prezidenta,pogrom.20_03_2021
+page
+	set url https://news.obozrevatel.com/society/tri-e-protesta.htm
+	set tags ukraina,pogrom.20_03_2021,ofis_prezidenta,maidan2,protest
+page
+	set url https://news.obozrevatel.com/kiyany/prekrasnyij-monstr-mariya-tarnovskaya-istoriya-znamenitoj-i-opasnoj-kievlyanki.htm
+	set tags tarnovskaja_maria,kiev,ukraina,istoria,1877,devushka,aristokrat
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-esli-prikazhut-tyi-pojdesh-v-menya-strelyat.htm
+	set tags krym,rossia,ukraina,2014,druzhba,strelba
 eof
 off
 page

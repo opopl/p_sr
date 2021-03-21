@@ -13322,6 +13322,15 @@ page
 page
 	set url https://ukraina.ru/opinion/20210321/1030894918.html
 	set tags ukraina,sankcii,zelenskii_vladimir,obschestvo,pasechnik_leonid,donbass,janukovich_viktor,azarov_nikolaj
+page
+	set url https://www.pravda.com.ua/news/2021/03/21/7287386/
+	set tags ukraina,krestnyj_hod,upc,kiev,cerkov,vera,molitva
+page
+	set url https://www.radiosvoboda.org/a/rosiia-obrizaie-tsvyntar-abdal/31162423.html
+	set tags rossia,kladbische,musulmane,abdal.kladbische.simferopol,krym,ukraina
+page
+	set url https://ukrainenews.fakty.ua/370959-ukrainca-vozlozhivshego-9-marta-cvety-k-pamyatniku-shevchenko-v-simferopole-fsb-obvinilo-v-razvedyvatelno-podryvnoj-deyatelnosti-v-interesah-ukrainskih-specsluzhb
+	set tags rossia,fsb,krym,shevchenko_taras,pamjatnik,shpion
 eof
 off
 page

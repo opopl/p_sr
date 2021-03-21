@@ -12959,6 +12959,276 @@ page
 page
 	set url https://ria.ru/20210320/rossiya-1602030545.html
 	set tags rossia,ukraina,podarki,vozvraschenie,geopolitika,rusmir,kultura,jazyk,sssr,istoria,putin_vladimir
+page
+	set url https://ria.ru/20210321/energetika-1602131189.html
+	set tags ukraina,rossia,energetika,agressor,energoatom,procvetanie
+page
+	set url https://strana.ua/news/323906-filimonov-kravchenko-ratushnyj-vihovskij-radikaly-atakovavshie-ofis-prezidenta-20-marta-.html
+	set tags ukraina,pogrom,vandalizm,perun,nacionalist,azov_polk,nackorpus,bankova,ofis_prezidenta,loh
+page
+	set url https://kiev.strana.ua/323891-kak-vyhljadit-ofis-prezidenta-posle-mitinha-radikalov-20-marta.html
+	set tags kiev,ukraina,ofis_prezidenta,loh,zelenskii_vladimir,bankova,pogrom,vandalizm,sternenko_sergei
+page
+	set url https://strana.ua/news/323899-kak-reahirujut-politicheskie-dejateli-i-blohery-na-mitinh-20-marta-vozle-ofisa-prezidenta.html
+	set tags 73_percent,25_percent,loh,prezident,zelenskii_vladimir,ofis_prezidenta,pogrom,ukraina,kiev,bankova,ogon',vandalizm
+page
+	set url https://strana.ua/opinions/323848-v-den-schastja-stoit-vspomnit-toho-kto-sdelal-etu-datu-pronzitelno-svetloj.html
+	set tags 20_mar,2011,butan,ukraina,schastje,world
+page
+	set url https://strana.ua/news/323932-v-sedmuju-hodovshchinu-raboty-na-donbasse-missija-obse-obratilas-k-rosii.html
+	set tags tkg,donbass,ukraina,rossia,us_embassy,ugrozy,obse,prizyv,vojna
+page
+	set url https://strana.ua/news/321728-obse-zafiksirovala-kak-ukraina-peremeshchaet-po-zheleznoj-dorohe-vooruzhenie.html
+	set tags obse,ukraina,oruzhie,poezd,vojna,donbass
+page
+	set url https://lvov.strana.ua/323936-v-odnoj-iz-bolnits-lvovskoj-oblasti-patsientam-peredajut-edu-cherez-okno.html
+	set tags ukraina,lvov,covid,bolnica,eda,kuhnja,pacient,bolezn
+page
+	set url https://strana.ua/news/323683-kak-prokhodit-lokdaun-vo-lvove-v-marte-.html
+	set tags ukraina,lockdown,covid,karantin,marshrutka,salon,rabota,sadovoj_andrej.lvov.mer
+page
+	set url https://life.pravda.com.ua/culture/2021/03/21/244284/
+	set tags ukraina,zhizn,muzyka,startup
+page
+	set url https://life.pravda.com.ua/projects/happiness-day/2021/03/20/244293/
+	set tags ukraina,schastje,20_mar,universitet,zhizn,ludi,chelovek
+page
+	set url https://life.pravda.com.ua/projects/ukraine/2019/09/11/238143/
+	set tags ukraina,priroda,kon',turizm,travel,krasota,zalischyky,tovtry,chervonograd
+page
+	set url https://gazeta.ua/articles/necrology/_pomerla-legenda-ukrayinskoyi-sociologiyi/1021293
+	set tags ukraina,smert,nekrolog,sociologia,bekeshkina_irina,69_let,rossia,universytet_shevchenka,maidan2,janukovich_viktor,fraza,svoboda
+page
+	set url https://gazeta.ua/articles/necrology/_vikonuvala-solo-lisenka-pomerla-narodna-artistka-ukrayini/997530
+	set tags ukraina,smert,nekrolog,pesnja,artist,bajko_maria.soprano,lvov,muzyka,filarmonia
+page
+	set url https://gazeta.ua/articles/culture/_vidijshla-u-vichnist-disidentka-olga-gorin/1014371
+	set tags goryn_olga,smert,nekrolog,ukraina,gulag,rossia,sssr,istoria,91_god,vechnost',pohoron
+page
+	set url https://gazeta.ua/articles/politics/_vokalist-bumboks-zachitav-lista-vid-uvyaznenogo-sternenka/1021202
+	set tags sternenko_sergei,birthday,ukraina,pismo,bumboks,muzykant,tjurma,sizo,odessa,spravedlivost,svoboda
+page
+	set url https://lenta.ru/articles/2021/03/21/vhsvideo/
+	set tags rossia,rusmir,video,pornografia,kgb,sssr,istoria,milicia
+page
+	set url https://www.radiosvoboda.org/a/photo-aktsiya-na-pidtrymku-sternenka-u-kyyevi/31161404.html
+	set tags ukraina,pogrom,vandalizm,ogon',prezident,loh,zelenskii_vladimir,ofis_prezidenta,kiev,sternenko_sergei,foto
+page
+	set url http://lug-info.com/news/one/glava-lnr-pozdravil-rabotnikov-zhkkh-s-professionalnym-prazdnikom-65752
+	set tags lnr,pasechnik_leonid,pozdravlenie,prazdnik,rabotnik
+page
+	set url http://lug-info.com/news/one/pozhary-za-sutki-unesli-zhizni-dvukh-zhitelei-respubliki-mchs-65751
+	set tags lnr,pozhar,lugansk,smert,mns_lnr
+page
+	set url https://health.fakty.ua/371260-v-ssha-tcshatelno-sledyat-za-tem-chtoby-ni-odna-doza-vakciny-ne-propala
+	set tags vaccine,zdorovje,vaccinacia,propazha,usa,medicina,covid,ukraina
+page
+	set url https://crime.fakty.ua/371362-ubil-iz-za-18-tysyach-griven-pod-rovno-podrostok-zarubil-toporom-zhencshinu-pochtalona
+	set tags ukraina,kriminal,podrostki,murder,pochta,dengi,rovno,sarny.gorod
+page
+	set url https://showbiz.fakty.ua/371359-sluchilas-lyubov-59-letnij-odesskij-restorator-savva-libkin-vpervye-idet-pod-venec---s-molodoj-devushkoj
+	set tags odessa,showbiz,pomolvka,ukraina,libkin_savelij.restorator,59_let
+page
+	set url https://crime.fakty.ua/371074-mne-udalos-otgovorit-ot-samoubijstva-shesteryh-podrostkov
+	set tags ukraina,smert,podrostki,suicid,psihologia,tiktok,socset,internet
+page
+	set url https://lb.ua/news/2021/03/20/480343_avakov_pro_zayavu_baydena_putin-.html
+	set tags putin_vladimir,avakov_arsen,ukraina,killer,biden_joe,skandal,usa,rossia,svoboda_slova
+page
+	set url https://112ua.tv/glavnye-novosti/povrezhdeniya-zdaniya-op-ocenivayutsya-primerno-v-dva-mln-griven-video-571543.html
+	set tags ukraina,pogrom,finansy,derzhava,ofis_prezidenta,ubytok,povrezhdenie,loh,zelenskii_vladimir
+page
+	set url https://fraza.com/blog/297946-grazhdanin-ukrainy-ne-objazan-podderzhivat-politiku-vlastej-i-byt-patriotom
+	set tags vatnik,oskorblenie,nenavist,patriotizm,patriot,ukraina,obschestvo,vata,grazhdanstvo,nacia
+page
+	set url https://fraza.com/blog/297758-iznasilovanie-zelenskim
+	set tags ukraina,zelenskii_vladimir,iznasilovanie,vpechatlenie,svoboda_slova,svoboda,video,rusmir,rossia
+page
+	set url https://fraza.com/blog/297746-zelenskij-stanovitsja-opasnym-dlja-obschestva
+	set tags ukraina,zelenskii_vladimir,opasnost',obschestvo,politika,sila
+page
+	set url https://fraza.com/blog/297204-shprehenfjurerov-i-ih-pomoschnikov-stukachej-nuzhno-tykat-fizionomijami-v-konstitutsiju
+	set tags ukraina,mova,jazyk,konstitucia,ukrainizacia,kremin_taras,patriotizm,rusmir
+page
+	set url https://fraza.com/blog/297060-grjadet-bolshaja-it-bitva-kotoraja-izmenit-mir-ne-menshe-chem-pandemija-koronavirusa
+	set tags world,twitter,bitva,it,informacia,infvojna,trump_donald,internet
+page
+	set url https://fraza.com/column/261355-veselis-sistema-pechalsja-chelovek
+	set tags ukraina,sisadmin,sistema,programmirovanie,programmist,it
+page
+	set url https://fraza.com/column/259354-prosnis-strana-ogromnaja
+	set tags rusmir,strana,ukraina,fashizm,sssr,istoria,germania,nacia,nacizm
+page
+	set url https://fraza.com/column/256889-v-podotdele-ochistki-kieva-brodjachie-pamjatniki-dushili-dushili
+	set tags ukraina,kiev,sssr,istoria,metro.arsenalnaja,pamjatnik,dekomunizacia,vjatrovich_vladimir,mazepa_ivan,poltava,petr_pervyi
+page
+	set url https://strana.ua/news/323927-premer-bavarii-schitaet-chto-v-budushchem-mozhno-nachat-proizvodit-sputnik-v-v-frh.html
+	set tags rossia,vaccine,covid,proizvodstvo,germania,bavaria,sputnik_v
+page
+	set url https://kiev.strana.ua/323918-pohrom-ofisa-prezidenta-kak-zdanie-vyhljadit-utrom.html
+	set tags ukraina,kiev,pogrom,ofis_prezidenta,uborka,loh,zelenskii_vladimir,bankova
+page
+	set url https://strana.ua/news/323904-natsistskaja-simvolika-na-zdanii-ofisa-prezidenta-posle-mitinha-20-marta-.html
+	set tags ukraina,pogrom,ofis_prezidenta,svastika,simvol,kiev,prezident,zelenskii_vladimir,bankova
+page
+	set url https://fraza.com/analytics/255384-ogneedy-andreevskogo-spuska
+	set tags kiev,gorod,ukraina,mat_gorodam_ruskim,rus',rossia,istoria,arhitektura,zastrojka,andreevskij_spusk,teatr,podol
+page
+	set url https://fraza.com/column/254868-ukraina-kruglaja-evropa
+	set tags ukraina,maidan2,evropa,obeschanie,posledstvie
+page
+	set url https://plus.obozrevatel.com/crime/senchenko-voda-dlya-kryima-dorozhe-kryimskogo-mosta-kolonizatoryi-vyiedut-za-dve-nedeli.htm
+	set tags ukraina,voda,rossia,vossoedinenie,krym,okupacia,blokada
+page
+	set url https://news.obozrevatel.com/society/nenavidet-vlast-i-prezidenta-mozhno-prezirat-gosudarstvennyie-simvolyi-nedopustimo.htm
+	set tags ukraina,pogrom,prezident,derzhava,nadrugatelstvo,zakon,ofis_prezidenta,zelenskii_vladimir,loh
+page
+	set url https://plus.obozrevatel.com/kiyany/crime/besporyadki-na-bankovoj-kak-teper-vyiglyadit-zdanie-ofisa-prezidenta-foto.htm
+	set tags bankova,pogrom,ukraina,foto,ofis_prezidenta,zelenskii_vladimir,policia,kiev
+page
+	set url https://news.obozrevatel.com/abroad/russkij-rejh-imperiya-zla.htm
+	set tags sssr,istoria,rejgan_ronald,rossia,ukraina,zlo,imperia,promova,usa
+page
+	set url https://news.obozrevatel.com/society/kak-rossiyane-za-dengami-malorossov-v-ukrainu-ezdyat.htm
+	set tags ukraina,rossia,kiev,poezia,malorossia,polozkova_vera,koncert,dengi
+page
+	set url https://news.obozrevatel.com/politics/zelenskij-postavil-prorossijskie-silyi-v-plachevnoe-polozhenie.htm
+	set tags ukraina,rossia,biden_joe,putin_vladimir,zelenskii_vladimir,usa,sankcii,repressii,cenzura,medvedchuk_viktor
+page
+	set url https://news.obozrevatel.com/abroad/vyistreliv-slovom-ubijtsa-bajden-serezno-ranil-putina.htm
+	set tags putin_vladimir,rossia,ukraina,usa,biden_joe,killer,skandal
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-predateli-dumali-chto-rodnaya-gven-ih-obnimet-a-ona-vzyala-i-zadushila.htm
+	set tags krym,ukraina,rossia,putin_vladimir,sankcii,vossoedinenie
+page
+	set url https://news.obozrevatel.com/society/rossiya-ustroila-v-kryimu-genotsid-i-postavila-pod-ugrozu-natsionalnyie-interesyi-ukrainyi.htm
+	set tags krym,rossia,putin_vladimir,pereselenec,ukraina,okupacia,sibir
+page
+	set url https://news.obozrevatel.com/society/otets-muzhdabaeva-umer-ot-koronavirusa.htm
+	set tags muzhdabaev_aider,otec,smert,72_goda,covid,bolezn',tambov,rossia,ukraina,krym,zdorovje,koma,28_oct,kiev
+page
+	set url https://plus.obozrevatel.com/crime/muzhdabaev-belarusyu-upravlyaet-russkij-fyurer-putin-lukashenko-ego-nichtozhnyij-avatar.htm
+	set tags krym,rossia,ukraina,voda,pereselenec,naselenie,genocid,dengi,lukashenko_aleksandr,okupacia,covid,zabolevajemost',grazhdanstvo,belarus
+page
+	set url https://news.obozrevatel.com/society/ukraintsyi-vosprinyali-dogovorennosti-o-proverke-pozitsij-vsu-kak-unizhenie-i-predatelstvo.htm
+	set tags rossia,ukraina,tkg,vsu,vojna,donbass,verhovna_rada,babkin_dmitrij
+page
+	set url https://news.obozrevatel.com/economics/muzhdabaev-ozvuchil-katastroficheskij-posledstviya-podachi-vodyi-v-kryim.htm
+	set tags ukraina,vojna,krym,rossia,blokada,okupacia,voda,haos,shmygal'_denis.ministr
+page
+	set url https://news.obozrevatel.com/economics/okkupantyi-kryima-otreagirovali-na-zayavlenie-shmyigalya-o-postavkah-vodyi.htm
+	set tags ukraina,krym,voda,rossia,shmygal'_denis.ministr,2019
+page
+	set url https://news.obozrevatel.com/politics/podacha-vodyi-v-kryim.htm
+	set tags ukraina,rossia,putin_vladimir,voda,krym,haos,vojna
+page
+	set url https://plus.obozrevatel.com/crime/propagandistyi-putina-prokololis-s-ryazhenyimi-kryimskimi-tatarami-raskryit-gromkij-fejk.htm
+	set tags rossia,ukraina,krym,tatary,narod
+page
+	set url https://news.obozrevatel.com/society/muzhdabaev-upreknul-ukraintsev-v-poiske-russkoj-siski.htm
+	set tags rossia,ukraina,malorossia,maloros,sis'ka,mentalitet,nacia,druzhba,mir,vojna
+page
+	set url https://plus.obozrevatel.com/crime/muzhdabaev-rasskazal-chto-zastavit-putina-vernut-kryim.htm
+	set tags rossia,krym,putin_vladimir,vozvraschenie,world,neft',gaz,sssr,istoria
+page
+	set url https://plus.obozrevatel.com/crime/novorossiya-v-golove-muzhdabaev-raskryil-predatelya-ukrainyi-podderzhavshego-ideologa-dnr.htm
+	set tags rossia,novorossia,prilepin_zahar,dnr,donbass
+page
+	set url https://news.obozrevatel.com/society/myi-ochen-zlyie-muzhdabaev-moschno-obratilsya-k-sbu-iz-za-rossiyan-v-ukraine.htm
+	set tags ukraina,rossia,sbu,terror,zhurnalist,vizit,zapret,donbass,aktivist
+page
+	set url https://plus.obozrevatel.com/crime/propagandistyi-putina-pohvastalis-priezdom-v-kiev.htm
+	set tags ukraina,kiev,zhurnalist,doroga,rossia,maidan,sbu,reportazh,wtf
+page
+	set url https://plus.obozrevatel.com/kiyany/crime/v-kieve-politsiya-zaderzhala-ukraintsev-kotoryie-vyishli-protiv-russkogo-mira.htm
+	set tags policia,kiev,ukraina,rusmir,mitroshina_aleksandra.blogger.rossia,aktivist
+page
+	set url https://news.obozrevatel.com/russia/imperskij-mrak-mozga-sozhral-vseh-ukraintsev-dlya-nih-ne-suschestvuet.htm
+	set tags navalny,narod,nacia,rusmir,rossia,ukraina,imperia,mozg,fraza
+page
+	set url https://news.obozrevatel.com/politics/pereimenovanie-rossii-nado-vernut-kradenoe-muzhdabaev.htm
+	set tags ukraina,rossia,vorovstvo,rus',kievrus,drevrus,rusmir,istoria
+page
+	set url https://news.obozrevatel.com/politics/sovetnik-zelenskogo-predlozhil-pereimenovat-rossiyu.htm
+	set tags rossia,ukraina,pereimenovanija,jazyk,mova,rusmir,zelenskii_vladimir,poturaev_nikita
+page
+	set url https://news.obozrevatel.com/russia/ukraina-predlozhila-pereimenovat-rossiyu-v-kremle-ogryiznulis.htm
+	set tags ukraina,rossia,pereimenovanija,kievrus,rusmir,sovfed
+page
+	set url https://news.obozrevatel.com/russia/ajder-mudzhabaem-zelenskij-mozhet-nanesti-strashnyij-udar-po-putinu-i-rossii.htm
+	set tags rossia,ukraina,zelenskii_vladimir,udar,krym
+page
+	set url https://www.obozrevatel.com/president-2019/ajder-mudzhabaem-ukraina-na-vyiborah-proigrala-kreml-mozhet-otkryivat-shampanskoe.htm
+	set tags ukraina,rossia,zelenskii_vladimir,ato,donbass,vojna,vybory,kreml
+page
+	set url https://news.obozrevatel.com/society/god-svini-ne-strashno-nam-s-takim-sosedom-ne-privyikat.htm
+	set tags ukraina,rossia,svinja,vojna,god
+page
+	set url https://news.obozrevatel.com/society/poshel-naj-ruchnoj-rab-v-ukraine-razgnevanyi-predatelstvom-armenii.htm
+	set tags ukraina,rossia,armenia,krym,rabstvo,oon,golosovanie
+page
+	set url http://lug-info.com/news/one/nedelya-glazami-eksperta-minskii-serial-sanktsii-zdravogo-smysla-i-prigovor-ukraine-65750
+	set tags ukraina,rossia,minsk_dogovor,lnr,nm_dnr,marochko_andrej.nm_lnr,vojna,donbass,serial,prigovor,sankcii,eskalacia,sabotazh
+page
+	set url http://lug-info.com/comments/one/protoierei-georgii-budagyants-bogoslovskii-universitet-stolp-pravoslavnogo-obucheniya-na-luganschine-foto-814
+	set tags lnr,vera,bogoslovie,cerkov,universitet
+page
+	set url https://strana.ua/news/323946-pohrom-ofisa-prezidenta-o-chem-hovorit-proizoshedshee.html
+	set tags ukraina,vlast,zelenskii_vladimir,ofis_prezidenta,pogrom,vandalizm,hrupkost',aktivist,sternenko_sergei
+page
+	set url https://kiev.strana.ua/323955-sluhi-naroda-otreahirovali-na-vcherashnjuju-aktsiju-protesta-u-sten-op.html
+	set tags sternenko_sergei,ukraina,kiev,bankova,vandalizm,sluga_naroda,verhovna_rada,zajavlenie,osuzhdenie
+page
+	set url https://strana.ua/news/323954-pohrom-ofisa-prezidenta-u-zelenskoho-obvinili-poroshenko.html
+	set tags ukraina,kiev,poroshenko_petr,zelenskii_vladimir,pogrom,bankova,loh,prezident,ofis_prezidenta
+page
+	set url https://strana.ua/news/323956-putin-i-shojhu-ustroili-prohulku-po-tajhe-foto.html
+	set tags rossia,putin_vladimir,otdyh,tajga,sibir,vezdehod,shojgu_sergej,peskov_dmitrii
+page
+	set url https://strana.ua/news/323473-ramzan-kadyrova-nazval-dzho-bajdena-otjavlennym-ubijtsej.html
+	set tags kadyrov_ramzan,rossia,usa,biden_joe,sherif,world,lechenie,demencia,starik,priglashenie,chechnja
+page
+	set url https://strana.ua/news/305961-kadyrov-rezko-otreahiroval-na-vvedenie-sanktsij-protiv-chechenskikh-kompanij.html
+	set tags chechnja,rossia,sankcii,usa,debilizacia,semja,kadyrov_ramzan,deti,sport,laden_ben.terrorist
+page
+	set url https://strana.ua/news/302117-v-chechne-posle-zamechanija-kadyrova-zarisovali-personazhej-komiksov-na-stenakh.html
+	set tags chechnja,rossia,kadyrov_ramzan,geroizm,komiks,deti,shkola,kartina,zamena
+page
+	set url https://www.radiosvoboda.org/a/news-op-aktsia-zbytky/31162109.html
+	set tags zelenskii_vladimir,loh,protest,ukraina,finansy,ubytok,pogrom,ocenka,kiev,ofis_prezidenta
+page
+	set url https://gazeta.ua/articles/life/_moskovska-cerkva-v-ukrayini-vivela-harkivyan-na-hresnu-hodu/1021324
+	set tags cerkov,harkov,krestnyj_hod,ukraina,vera,upc,moskva,rossia
+page
+	set url https://www.vesti.ru/article/2539601
+	set tags italia,rossia,vaccine,covid,sputnik_v,ozhidanie,ispytanie,vizit
+page
+	set url https://www.vesti.ru/article/2539566
+	set tags rossia,putin_vladimir,krym,sevastopol,prezident
+page
+	set url https://inosmi.ru/politic/20210321/249384123.html
+	set tags smeh,biden_joe,usa,rossia,putin_vladimir,kreml,trump_donald
+page
+	set url https://inosmi.ru/politic/20210321/249383599.html
+	set tags intelligentnost',putin_vladimir,demencia,usa,rossia,biden_joe
+page
+	set url https://inosmi.ru/politic/20210321/249382810.html
+	set tags usa,specnaz,murder,likvidacia,socom.usa,world,sila,1998,jugoslavia
+page
+	set url https://inosmi.ru/social/20210321/249384348.html
+	set tags rossia,sssr,istoria,vov,mirvojna2,film,gollivud,showbiz,kino,kultura,svoboda,doroga,usa
+page
+	set url https://riakursk.ru/gubernator-roman-starovoyt-pozdravil-rabotnikov-zhkkh-kurskoy-oblasti/
+	set tags pozdravlenie,prazdnik,gubernator,rossia,kursk,rabotnik,zhkh
+page
+	set url https://riakursk.ru/gubernator-kurskoy-oblasti-roman-starovoyt-pozdravil-artistov-s-mezhdunarodnym-dnem-teatra-kukol/
+	set tags kukla,teatr,rossia,pozdravlenie,prazdnik,kursk,21_mar,kultura
+page
+	set url https://afisha.tut.by/news/anews/720806.html
+	set tags afisha,belarus,kultura,minsk,hamatova_chulpan.artist,spektakl,vesna,podarki,kvartet,muravjeva_irina.artist,komedia,ostrovskij_aleksandr.dramaturg.rossia,1853
+page
+	set url https://strana.ua/news/323962-v-rabote-youtube-proizoshel-masshtabnyj-sboj.html
+	set tags youtube,problemy,internet,nepoladki,world,it
 eof
 off
 page

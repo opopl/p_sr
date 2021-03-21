@@ -36,6 +36,8 @@ include:
     - news.ru.vzgljad
     - news.ru.yandex.zen
     - news.ru.znak
+###news_by
+    - news.by.tut
 
 ###nauka_ru
     - nauka.ru.nkj

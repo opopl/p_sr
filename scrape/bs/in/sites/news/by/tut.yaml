@@ -1,12 +1,13 @@
 
 sel:
   clean:
-    - .social__fb
-    - .article__print
+    - .b-addition
+    - .b-subscription-holder
+    - .sbscr-content
+    - '#widget-bottom-relevant-news'
+    - .b-article-info
   only:
-    #- .article
-    - .article__header
-    - .article__summary
+    - '#utm_article_block'
   keep:
 
 PageParser:
@@ -19,10 +20,9 @@ PageParser:
   get_date_html:
     sels:
       - { 
-          'find'  : '.article__published',
+          'find'  : '.b-article-details time',
           'get'   : 'attr',
-          'attr'  : 'content',
-          'split' : ' ',
+          'attr'  : 'datetime',
         }
   get_author:
     tries:
@@ -32,10 +32,8 @@ PageParser:
       - { 
           'search' : {
               'css'   : [ 
-                '.article__author span a[itemprop="url"]',
-                '.article__meta .article__author a',
+                '.b-article-details span[itemprop="author"] a' 
               ],
-              'css_index' : 0,
               'map' : {
                   'name' : 'text',
                   'url'  : { 

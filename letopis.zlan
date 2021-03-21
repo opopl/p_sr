@@ -13280,6 +13280,24 @@ page
 page
 	set url https://news.obozrevatel.com/society/novosti-kryimnasha-esli-prikazhut-tyi-pojdesh-v-menya-strelyat.htm
 	set tags krym,rossia,ukraina,2014,druzhba,strelba
+page
+	set url https://gazeta.ua/articles/life/_aneksiya-krimu-ce-ogoloshennya-rosiyeyu-vijni-vsomu-svitu-pavlo-kazarin-pro-putina-rf-i-ukrayinu/1021338
+	set tags ukraina,rossia,vojna,world,krym,vossoedinenie,okupacia
+page
+	set url https://gazeta.ua/articles/history/_zapatentuvali-novij-muzichnij-instrument/1021142
+	set tags 21_mar,1846,saksofon,patent,britania,saks_adolf.saksofon_1846,berlioz_gektor.kompozitor,jazz
+page
+	set url https://gazeta.ua/articles/history/_ak-vidpochivali-na-kurortah-krimu-u-1970h-dobirka-foto/1020653
+	set tags krym,kurort,sssr,istoria,foto,otdyh,muzyka,more,jalta,alushta
+page
+	set url https://day.kyiv.ua/uk/blog/kultura/bogynya
+	set tags 21_mar,kobyljanska_olga,literatura,kultura,ukraina,istoria,smert
+page
+	set url https://stackoverflow.com/questions/43615966/jquery-ui-autocomplete-match-first-letter-typed
+	set tags jquery_ui,jquery,pc,autocomplete,javascript
+page
+	set url https://pravoslavie.ru/130764.html
+	set tags pasternak_boris,bog,biblia,kniga,spor,cerkov,vera,rusmir
 eof
 off
 page

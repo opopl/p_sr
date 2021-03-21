@@ -13331,6 +13331,63 @@ page
 page
 	set url https://ukrainenews.fakty.ua/370959-ukrainca-vozlozhivshego-9-marta-cvety-k-pamyatniku-shevchenko-v-simferopole-fsb-obvinilo-v-razvedyvatelno-podryvnoj-deyatelnosti-v-interesah-ukrainskih-specsluzhb
 	set tags rossia,fsb,krym,shevchenko_taras,pamjatnik,shpion
+page
+	set url https://kiev.strana.ua/324011-v-vinshnevom-pod-kievom-vzorvalas-marshrutka.html
+	set tags ukraina,pozhar,marshrutka
+page
+	set url https://strana.ua/news/309937-v-rovenskoj-oblasti-edva-ne-shorel-passazhirskij-poezd-foto.html
+	set tags ukraina,rovno,poezd,pozhar,mns.ukraina
+page
+	set url https://strana.ua/news/323994-v-bolnitsakh-nikolaeva-nachali-zakanchivatsja-mesta-v-palatakh-dlja-bolnykh-kovidom.html
+	set tags ukraina,zabolevajemost',bolnica,covid,nikolaev
+page
+	set url https://lvov.strana.ua/323018-vo-lvove-razvernut-hospitali-dlja-bolnykh-covid-19.html
+	set tags lvov,ukraina,bolnica,bolezn,covid
+page
+	set url https://from-ua.com/news/592199-lyudi-umirayut-ne-hvataet-krovatei-i-kisloroda-medik-rasskazal-o-covid-katastrofe-v-harkove.html
+	set tags ukraina,harkov,covid,bolnica,bolezn
+page
+	set url https://plus.obozrevatel.com/crime/na-donbasse-pogib-28-letnij-zaschitnik-ukrainyi.htm
+	set tags ukraina,vojna,donbass,smert,vsu
+page
+	set url https://echo.msk.ru/blog/day_video/2807664-echo/?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags poezia,rossia,usa,biden_joe,putin_vladimir,krym,vossoedinenie,medved',killer
+page
+	set url https://echo.msk.ru/blog/emiliya_dementsova/2808460-echo/
+	set tags covid,pandemia,rossia,kniga,poezia,2020,kacov_gennadij
+page
+	set url https://fraza.com/analytics/298599-vaktsina-i-kontrol-nad-obschestvom-antiutopija-stanovitsja-realnostju-
+	set tags world,covid,vaccinacia,pandemia,paranoja,covid_passport,evropa
+page
+	set url https://fraza.com/interview/289024-istorik-sergej-beljakov-o-gogole-mazepe-i-sovremennyh-rossijskih-filmah
+	set tags beljakov_istorik,ukraina,rossia,istoria,bulgakov_mihail,petljura_simon,mazepa_ivan,kiev,odessa,literatura,kultura,kniga
+page
+	set url https://strana.ua/news/323987-sluhi-naroda-otreahirovali-na-pohrom-ofisa-prezidenta-na-aktsii-v-podderzhku-sternenko.html
+	set tags sluga_naroda,ukraina,vandalizm,ofis_prezidenta,kiev,osuzhdenie,verhovna_rada
+page
+	set url https://zen.yandex.ru/media/nataliiaefimova_2905/kalmyki-obiasnili-pochemu-rossiia-nikogda-ne-raspadetsia-6056f5fe7aafb75683b4ac2c
+	set tags rossia,kalmykia,kultura,tanec,pamjat,koncert,1920,avtonomia,sssr,istoria,vov,nacia,ludi
+page
+	set url https://zen.yandex.ru/media/nataliiaefimova_2905/bitvy-pod-postom-posla-antonova-posle-pisem-jitelei-ssha-s-izvineniiami-60558ebf277cb60abff4e410
+	set tags antonov_anatolii,rossia,posol,pismo,kommentarii,usa,podderzhka,druzhba
+page
+	set url https://zen.yandex.ru/media/nataliiaefimova_2905/pochemu-rossiiane-ne-speshat-vakcinirovatsia-604dba466c861f01076a5599
+	set tags rossia,speshka,vaccinacia,vaccine,covid,film,avos',mentalitet,nacia,russkie,privivka
+page
+	set url https://zen.yandex.ru/media/nataliiaefimova_2905/pevchih-zapretila-fbk-muzykantov-vystupavshih-na-koncerte-krymskaia-vesna2021-6053a37153791e021b9575b6
+	set tags rossia,oppozicia
+page
+	set url https://zen.yandex.ru/media/nataliiaefimova_2905/mujiki-60349889bd729c71d1b248bd
+	set tags rossia,muzhik,23_feb,prazdnik,mentalitet,rusmir
+page
+	set url https://fraza.com/analytics/295038-russkij-jazyk-v-ukraine-tak-i-ne-poluchilos-zadavit-
+	set tags ukraina,rossia,diglossia,shkola,deti,pushkin_aleksandr,konstitucia,mova,jazyk,ukrainizacia,patriotizm
+page
+	set url https://regnum.ru/news/society/3197224.html
+	set tags pravo,svoboda,ideologia,poterja,world,filosofia,chelovek
+page
+	set url https://www.fondsk.ru/news/2021/01/19/russkoe-serdce-bukoviny-52724.html?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags shashkevich_markian,rusmir,galicia,onufrii_mitropolit,rusyn,rus',nikitin_afanasii.kupec.rus',ukraina,rossia,bukovina,koljadka,deti
 eof
 off
 page

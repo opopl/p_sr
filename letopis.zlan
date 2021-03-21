@@ -13301,6 +13301,27 @@ page
 page
 	set url https://112ua.tv/interview/delayte-vokrug-sebya-horoshiy-svetlyy-mir-i-togda-formatov-politicheskih-bataliy-u-nas-ne-budet-366010.html
 	set tags svet,ukraina,interview,maga_petr.akter,chelovek
+page
+	set url https://donbasstoday.ru/i-ne-skazhesh-chto-konchennaja-dura-poklonskaja-trebuet-prekratit-zashhishhat-donbass/
+	set tags poklonskaja_natalia,donbass,vojna,mir,rossia,ukraina
+page
+	set url https://donbasstoday.ru/poklonskaja-raskryla-svoju-zarplatu-v-gosdume-i-nechajanno-zagovorila-na-ukrainskom-jazyke/
+	set tags poklonskaja_natalia,zarplata,gosduma,mova,rossia,ukraina
+page
+	set url https://ukraina.ru/opinion/20210321/1030891932.html
+	set tags ukraina,ruina,nacia,derzhava,nebo,oblako,obschestvo,nenavist,evrei,donbass,vojna
+page
+	set url https://ukraina.ru/exclusive/20210321/1030884244.html
+	set tags ukraina,nezalezhnist,filosofia,platon,gegel_georg,nacia,derzhava,obschestvo
+page
+	set url https://ukraina.ru/news/20201123/1029702868.html
+	set tags kocaba_ruslan,maidan2,ukraina,zhurnalist,galicia,mobilizacia
+page
+	set url https://ukraina.ru/exclusive/20210321/1030893232.html
+	set tags bulgakov_mihail,film,ukraina,rossia,kultura,literatura,gajdaj_leonid.rezhisser,patriotizm
+page
+	set url https://ukraina.ru/opinion/20210321/1030894918.html
+	set tags ukraina,sankcii,zelenskii_vladimir,obschestvo,pasechnik_leonid,donbass,janukovich_viktor,azarov_nikolaj
 eof
 off
 page

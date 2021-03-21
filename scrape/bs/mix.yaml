@@ -17,24 +17,25 @@ include:
     - news.lnr.lug_info
 ###news_ru
     - news.ru.allcrimea_net
+    - news.ru.donbasstoday
+    - news.ru.eadaily
     - news.ru.inosmi
+    - news.ru.izvestia
     - news.ru.kp
     - news.ru.lenta
     - news.ru.life 
     - news.ru.newsfront
     - news.ru.pikabu
+    - news.ru.regnum
+    - news.ru.ria
+    - news.ru.ria_kursk
     - news.ru.smotrim
+    - news.ru.stapravda
     - news.ru.ukraina
     - news.ru.vesti_ru
     - news.ru.vzgljad
     - news.ru.yandex.zen
-    - news.ru.ria_kursk
-    - news.ru.izvestia
-    - news.ru.regnum
-    - news.ru.donbasstoday
     - news.ru.znak
-    - news.ru.stapravda
-    - news.ru.eadaily
 
 ###nauka_ru
     - nauka.ru.nkj

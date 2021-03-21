@@ -12830,6 +12830,135 @@ page
 page
 	set url https://www.pravda.com.ua/news/2021/03/20/7287336/
 	set tags geraschenko_anton,ukraina,mvd,protest,pozhar,krov',ogon',sternenko_sergei,kiev,bankova
+page
+	set url https://gazeta.ua/articles/politics/_nad-op-zapustili-salyut-vimagayut-vidstavki-venediktovoyi-i-avakova-sankcij-proti-portnova/1021251
+	set tags zelenskii_vladimir,ukraina,protest,sternenko_sergei,ofis_prezidenta,bankova,trebovanie,pozhar,salut
+page
+	set url https://strana.ua/news/323892-v-kieve-storonniki-sternenko-podzhihali-ofis-prezidenta-chto-eto-bylo-analiz-i-vyvody.html
+	set tags ukraina,zelenskii_vladimir,protest,podzhog,ofis_prezidenta,ogon',kiev,bankova,policia,sternenko_sergei
+page
+	set url https://strana.ua/news/323898-mikhail-podoljak-prokommentiroval-mitinh-storonnikov-sternenko-u-ofisa-prezidenta.html
+	set tags ukraina,kiev,sternenko_sergei,zelenskii_vladimir,protest,ogon',nasilie,vandalizm,ofis_prezidenta,radikaly
+page
+	set url https://kiev.strana.ua/323886-chto-znachit-acab-i-pochemu-etu-nadpis-ostavili-na-op-posle-sebja-storonniki-sternenko.html
+	set tags policia,oskorblenie,kiev,ukraina,radikaly,ofis_prezidenta,zelenskii_vladimir,sternenko_sergei,vandalizm,ogon',pozhar,nadpis',loh
+page
+	set url https://strana.ua/news/323896-v-rossii-ot-koronavirusa-umer-khoreohraf-vladimir-kirsanov.html
+	set tags kirsanov_vladimir.horeograf,smert,rossia,73_goda,shifrin_efim.akter,covid
+page
+	set url https://strana.ua/news/323283-vrachi-ne-smohli-spasti-pavlika-lutkovskoho.html
+	set tags ukraina,vinnica,smert,deti,covid,bolezn',rebenok,3_goda
+page
+	set url https://strana.ua/news/271279-hodovalaja-devochka-umerla-v-zaporozhe-v-podpolnom-detsadu.html
+	set tags ukraina,zaporozhie,detsad,deti,smert,kriminal,policia,mvd
+page
+	set url https://strana.ua/opinions/323894-v-chem-raznitsa-mezhdu-atakoj-na-ofis-prezidenta-ukrainy-i-konhress-ssha.html
+	set tags ukraina,kiev,vandalizm,ofis_prezidenta,loh,ogon',aktivist,radikaly,sternenko_sergei,us_embassy
+page
+	set url https://strana.ua/opinions/323893-pochemu-politsija-ne-mozhet-pristrunit-radikalov-zahadka.html
+	set tags bondarenko_konstantin,ukraina,rossia,smi.rossia,kartinka,protest,radikaly,kiev,ofis_prezidenta,sternenko_sergei
+page
+	set url https://strana.ua/news/323895-rossijskuju-vaktsinu-ot-koronavirusa-sputnik-v-khochet-nachat-proizvodit-shvetsija.html
+	set tags ukraina,sputnik_v,vaccine,covid,shvecia,rossia,proizvodstvo
+page
+	set url https://strana.ua/news/322321-peskov-rasskazal-sdelal-li-putin-privivku-ot-koronavirusa.html
+	set tags putin_vladimir,sputnik_v,vaccinacia,vaccine,covid,peskov_dmitrii,rossia
+page
+	set url https://strana.ua/news/317178-putin-planiruet-sdelat-privivku-ot-koronavirusa-rossijskoj-vaktsinoj.html
+	set tags putin_vladimir,vaccinacia,covid,sputnik_v,rossia,plan
+page
+	set url https://strana.ua/news/314291-putin-zajavil-chto-rossija-i-evropa-dolzhny-byt-vmeste-.html
+	set tags putin_vladimir,rossia,evropa,davos,world_economic_forum,ljubov,civilizacia,future,lissabon,ural
+page
+	set url https://strana.ua/news/314247-hosduma-27-janvarja-ratifitsirovala-sohlashenie-o-prodlenii-snv-3-.html
+	set tags dogovor,snv_3.dogovor,gosduma,rossia,usa,biden_joe,putin_vladimir,jadernyj_schit,atom_bomb
+page
+	set url https://112ua.tv/kultura/vsemirno-izvestnaya-dirizher-oksana-lyniv-vozvrashhaetsya-v-odesskuyu-operu-571419.html
+	set tags odessa,kultura,muzyka,opera,evgenij_onegin.opera,ukraina
+page
+	set url https://112ua.tv/interview/elena-bondarenko-chtoby-vernut-donbass-mozhno-nachat-hotya-by-s-narodnoy-diplomatii-571129.html
+	set tags bondarenko_elena,ukraina,interview,diplomatia,narod,donbass,vojna,rnbo,danilov_aleksei
+page
+	set url https://sharij.net/shmygal-nazval-dve-prichiny-pochemu-ukraina-otkazalas-ot-ispolzovaniya-sputnika-v
+	set tags shmygal'_denis.ministr,ukraina,vaccine,covid,sputnik_v,rossia,torgovlja,astrazeneka,pfizer,grechka
+page
+	set url https://sharij.net/rossiya-okazalas-krupnejshim-postavshhikom-grechki-v-ukrainu
+	set tags ukraina,rossia,grechka,torgovlja,eksport,import,ekonomika,statistika,eda,kuhnja,produkty
+page
+	set url https://sharij.net/rossiya-okazalas-v-trojke-glavnyh-torgovyh-partnyorov-ukrainy-po-itogam-2020-goda
+	set tags ukraina,rossia,torgovlja,eksport,import,ekonomika,2020,itogi,statistika
+page
+	set url https://sharij.net/stranno-chto-ne-russkie-hakery-v-mid-rf-prokommentirovali-padenie-bajdena
+	set tags mid_rf,rossia,zaharova_maria,biden_joe,veter,padenie,hakery.rossia,usa,kurjez
+page
+	set url https://sharij.net/konstitucziya-sssr-skarmlivanie-hleba-skotu-i-bojkot-shvejczarii-chto-interesnogo-v-zakone-o-desovetizaczii-zakonodatelstva-ukrai
+	set tags ussr,ukraina,sssr,zakon,dekomunizacia,kommunizm
+page
+	set url https://sharij.net/borba-s-vlastyu-zatvornichestvo-i-obida-na-kritikov-kto-takaya-lina-kostenko-i-zasluzhivaet-li-ona-nobelevskoj-premii
+	set tags kostenko_lina,nobel_prize,ukraina,kultura,19_mar,1930,rzhischev,kiev,sssr,istoria,poezia,kniga,mova
+page
+	set url https://sharij.net/v-danii-zaregistrirovana-eshhyo-odna-smert-posle-vakczinirovaniya-astrazeneca
+	set tags smert,dania,covid,astrazeneka,pobochka,tromboz
+page
+	set url https://strana.ua/opinions/323793-kovid-zahnal-biznes-v-tupik-i-nikakoho-sveta-v-kontse-tonnelja.html
+	set tags covid,biznes,ukraina,karantin,ekonomika
+page
+	set url https://sharij.net/shevchenko-vmesto-zhenshhin-kak-v-ukraine-pytalis-zapretit-8-marta-i-chto-iz-etogo-vyshlo
+	set tags 8_marta,shevchenko_taras,ukraina,prazdnik,prazdnovanie,woman,cvety,kiva_ilja,suprun_uljana,vjatrovich_vladimir,poroshenko_petr
+page
+	set url https://sharij.net/klichko-putin-bandera-i-lukashenko-socziologi-vyyasnili-s-kem-evropejczy-assocziiruyut-ukrainu
+	set tags ukraina,rossia,evropa,bandera_stepan,putin_vladimir,lukashenko_aleksandr,belarus
+page
+	set url https://sharij.net/rossiya-zanyala-6-mesto-sredi-samyih-umnyih-stran-mira-a-ukrainyi-v-reytinge-net
+	set tags rossia,ukraina,um,rejting,intellekt,usa,japonia
+page
+	set url https://sharij.net/kremin-prizval-mon-rassledovat-torzhestvennoe-otkrytie-zhenskogo-tualeta-v-kievskom-vuze
+	set tags 8_marta,ukraina,tualet,kremin_taras,zhaloba,mova,jazyk,woman,torzhestvo,prazdnik
+page
+	set url https://sharij.net/k-8-marta-v-kievskom-universitete-proveli-torzhestvennuyu-czeremoniyu-otkrytiya-zhenskogo-tualeta-video
+	set tags ukraina,kiev,tualet,8_marta,prazdnik,torzhestvo,woman
+page
+	set url https://kiev.strana.ua/323903-devushka-v-kieve-pokonchila-s-soboj-pryhnuv-s-kryshi-mnohoetazhki-.html
+	set tags suicid,ukraina,smert,devushka,pryzhok,golova
+page
+	set url https://strana.ua/news/318299-samoubijstva-i-nasilie-hlavnye-faktory-vlijajushchie-na-zhizn-i-smert-ukraintsev.html
+	set tags ukraina,smert,nasilie,suicid,statistika,minzdrav
+page
+	set url https://www.obozrevatel.com/odesa/details/v-krasnoj-odesse-ustroili-massovuyu-vecherinku-v-razgar-lokdauna-video.htm
+	set tags karantin,odessa,ukraina,koncert,muzyka,covid
+page
+	set url https://riakursk.ru/film-shou-ani-lorak-pokazhut-v-kurske-no-ne-vypustyat-v-prokat-na-ukraine/
+	set tags kursk,rossia,kultura,showbiz,ani_lorak,pesnja,ukraina
+page
+	set url https://riakursk.ru/roman-starovoyt-dzho-baydenu-neobkhodima-meditsinskaya-pomoshch/
+	set tags biden_joe,putin_vladimir,rossia,medicina,pomosch,demencia,usa,kursk
+page
+	set url https://stapravda.ru/20210320/v_zheleznovodske_final_chempionata_po_sportivnomu_orientirovaniy_162829.html
+	set tags rossia,stavropol.kraj,stavropol,turizm.sportivnyj,orientirovanie.sportivnoje,sorevnovanie
+page
+	set url https://stapravda.ru/20210320/hudozhnitsa_iz_stavropolya_sozdaet_igrushki_teddi_162827.html
+	set tags stavropol,igrushka,deti,hudozhnik,rossia,kultura,rukodelie
+page
+	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/obitateli-sechi-zaporojskoi-rycari-krestiane-ili-6054a8ba89855f0fdeae55e6
+	set tags ukraina,rusmir,kazaki,istoria,zaporozhie,sech_zaporozhskaja,mif,kostomarov_mykola
+page
+	set url https://zen.yandex.ru/media/id/5d06644470b0790d8ad60444/s-takimi-pesniami-russkie-ochen-opasny-kak-reagiruiut-amerikancy-na-sovetskie-patrioticheskie-pesni-60547cfe53791e021b9c57ee
+	set tags amerika,pesnja,rossia,kultura,opasnost',russkie,rusmir,muzyka,kino,sssr,patriotizm,patriot,ulybka,amerikanec
+page
+	set url https://zen.yandex.ru/media/ded_u_morya/skolko-mojno-vrat-6050f02d1b3d754b7740518e
+	set tags ukraina,vranje,arestovich_aleksei,rossia,mentalitet,nacia,vpechatlenie,novosti
+page
+	set url https://zen.yandex.ru/media/leshy/fatalnaia-liubov-k-evrope-604f56d9e781846a409b3414
+	set tags rossia,rusmir,ljubov,evropa,fatalizm,parizh
+page
+	set url https://zen.yandex.ru/media/rvm/russkii-iazyk-boga-chast-piatnadcataia-chem-russkii-iazyk-pugaet-amerikancev-6054a96549cb274f85d21ee5
+	set tags jazyk,bog,rossia,rusmir,amerikanec,jumor,ponimanie,usa
+page
+	set url https://mel.fm/chto-eto-znachit/8065132-gogol_words
+	set tags gogol_nikolai,ukraina,rossia,kultura,literatura,slovo,znachenie,rusmir,rozhdestvo
+page
+	set url https://ria.ru/20210320/rossiya-1602030545.html
+	set tags rossia,ukraina,podarki,vozvraschenie,geopolitika,rusmir,kultura,jazyk,sssr,istoria,putin_vladimir
 eof
 off
 page

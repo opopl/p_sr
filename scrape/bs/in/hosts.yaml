@@ -31,6 +31,7 @@
 # stavropol
 'stapravda.ru' : { 'site' : 'news.ru.stapravda' }
 
+'ria.ru' : { 'site' : 'news.ru.ria' }
 'znak.com' : { 'site' : 'news.ru.znak' }
 'donbasstoday.ru' : { 'site' : 'news.ru.donbasstoday' }
 'inosmi.ru' : { 'site' : 'news.ru.inosmi' }

@@ -13235,6 +13235,21 @@ page
 page
 	set url https://from-ua.com/mneniya/591410-irina-farion-angliiskoyu-movoyu-ukrainu-ne-zbuduesh-i-huk-odrazu-v-schelepu-yakscho-ti-cogo-ne-rozumiesh.html
 	set tags farion_irina,ukraina,mova,english,danilov_aleksei,kultura
+page
+	set url https://www.radiosvoboda.org/a/sto-rokiv-tomu-ryzkyy-myr-ukrayinska-emigratsiya-spryynyala-ne-inakshe-yak-zradu-istoryk/31162265.html
+	set tags ukraina,sssr,istoria,riga,latvia,rizhskij_dogovor,100_let,zrada,emigracia,rossia,polsha,1921,18_mar
+page
+	set url https://www.radiosvoboda.org/a/28711414.html
+	set tags bolsheviki,sssr,istoria,ukraina,1922,1917,rusimperia,rossia,1920,nezalezhnist
+page
+	set url https://www.radiosvoboda.org/a/28691091.html
+	set tags ukraina,istoria,karta,praga,chehia,unr
+page
+	set url https://zen.yandex.ru/media/litinteres/v-russkom-iazyke-davno-est-feminitiv-ot-slova-avtor-i-eto-ne-avtorka-602cb34dfbc9d262b993cea4
+	set tags rossia,language,feminitiv,srach,jazyk,avtor,slovo
+page
+	set url https://www.radiosvoboda.org/a/video/28694302.html
+	set tags ukraina,rossia,krym,pozdravlenie,symonenko_vasyl,poezia,nezalezhnist
 eof
 off
 page

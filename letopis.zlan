@@ -13253,6 +13253,15 @@ page
 page
 	set url https://strana.ua/news/323929-chto-delat-s-zemlej-v-krymu-ukraintsam-sut-ukaza-putina-o-zaprete-vladet-uchastkami-inostrantsam.html
 	set tags sobstvennost',nedvizhimost',putin_vladimir,rossia,ukraina,krym,zapret,vladenie,zakon,zemlja
+page
+	set url https://strana.ua/news/323969-orhanizator-aktsii-v-podderzhku-sternenko-predupredil-zelenskoho-o-plokhikh-posledstvijakh.html
+	set tags pogrom,ukraina,kiev,ofis_prezidenta,narod,gnev,filimonov_sergej.gonor,zelenskii_vladimir,vandalizm
+page
+	set url https://strana.ua/news/323971-uchenye-zajavili-chto-sobaki-uhrozhajut-chelovechestvu.html
+	set tags world,uchenyj,sobaka,issledovanie,vred,humanity
+page
+	set url https://regnum.ru/news/3219051.html
+	set tags krym,rossia,ukraina,vossoedinenie,znachenie,rusvesna,sevastopol,18_mar,2014,osmyslenie,vezhlivyje_ludi
 eof
 off
 page

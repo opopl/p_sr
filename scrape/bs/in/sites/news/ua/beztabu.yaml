@@ -5,6 +5,7 @@ sel:
     - .telegram-block
     - .publication-wrapper
     - .news-tags
+    - .top-tags
     - .partner-block
     - .replace-h3
   only:
@@ -42,22 +43,13 @@ PageParser:
     sels:
       - { 
           'search' : {
-              'css'   : [ 'a.author-name' ],
+              'css'   : [ '.blog-author' ],
               'map' : {
                   'name' : 'text',
                   'url'  : { 
                     'get' : 'attr',
                     'attr' : 'href',
                   }
-              },
-             'text' : {
-               'lines' : {
-                  'match' : { 
-                      'pat'   : 'Текст:\s+(.*)$',
-                      'name'  : 1,
-                      'split' : ',',
-                  }
-                }
               }
           },
         }

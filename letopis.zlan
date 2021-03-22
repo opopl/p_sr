@@ -13641,12 +13641,6 @@ page
 	set url https://regnum.ru/news/society/3221318.html
 	set tags krym,rossia,socset,vossoedinenie,krymvesna,rusvesna,ukraina
 page
-	set url https://beztabu.net/vakcina-astrazeneca-projshla-tretyu-fazu-viprobuvan_n73070
-	set tags covid,astrazeneka,ispytanie,vaccine,phase_3,medicina
-page
-	set url https://beztabu.net/sud-vipravdav-pashinskogo-ta-povernuv-jomu-znaryaddya-zlochinu_n73061
-	set tags pashinskii_sergei,bandit,zelenskii_vladimir,sud,prestuplenie,oruzhie,ukraina,opravdanie,prigovor
-page
 	set url https://analytics.hvylya.net/215422-narod-soedinivshiy-doneckie-stepi-krym-i-rus-ukrainu
 	set tags ukraina,istoria,etnogenez,polovcy,krym,slavjane
 page
@@ -13742,13 +13736,21 @@ page
 page
 	set url https://beztabu.net/uroki-nekromantii-kto-i-zachem-pytaetsya-ozhivit-duh-iosifa-stalina_n15462
 	set tags nekromantia,smert,stalin_jozef,5_mar,istoria,ukraina,rossia,sssr,kommunizm,urok
-global
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://beztabu.net/tragichnij-simvol-rozdumi-do-dnya-narodzhennya-tarasa-shevchenka_n15679
 	set tags shevchenko_taras,ukraina,istoria,kultura,tragedia,simvol
+page
+	set url https://beztabu.net/vakcina-astrazeneca-projshla-tretyu-fazu-viprobuvan_n73070
+	set tags covid,astrazeneka,ispytanie,vaccine,phase_3,medicina
+page
+	set url https://beztabu.net/sud-vipravdav-pashinskogo-ta-povernuv-jomu-znaryaddya-zlochinu_n73061
+	set tags pashinskii_sergei,bandit,zelenskii_vladimir,sud,prestuplenie,oruzhie,ukraina,opravdanie,prigovor
+page
+	set url https://beztabu.net/nareshti-sbu-ogolosila-pro-pidozru-prorosijskomu-propagandistu-shariyu_n72931
+	set tags sharij_analotij,sbu,pidozra,ukraina
+page
+	set url https://beztabu.net/na-liniyi-vognyu-doneckij-aeroport-yak-chastina-ukrayinskoyi-istoriyi-ta-mifologiyi_n19817
+	set tags ukraina,donbass,vojna,doneck_aeroport,kiborg,mifologia,mif
 eof
 off
 page

@@ -37,6 +37,7 @@
 # kalmykia
 'riakalm.ru' : { 'site' : 'news.ru.ria_kalm' }
 
+'news.novgorod.ru' : { 'site' : 'news.ru.novgorod' }
 'ria.ru' : { 'site' : 'news.ru.ria' }
 'znak.com' : { 'site' : 'news.ru.znak' }
 'donbasstoday.ru' : { 'site' : 'news.ru.donbasstoday' }
@@ -78,6 +79,9 @@
 
 ###anglia
 'bbc.com' : { 'site' : 'news.anglia.bbc' }
+
+###kultura
+'portal-kultura.ru' : { 'site' : 'kultura.ru.portal' }
 
 ###vera
 'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }

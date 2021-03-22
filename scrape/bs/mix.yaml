@@ -16,6 +16,7 @@ include:
 ###lnr
     - news.lnr.lug_info
 ###news_ru
+    #- news.ru.ria_kalm
     - news.ru.allcrimea_net
     - news.ru.donbasstoday
     - news.ru.eadaily
@@ -25,11 +26,11 @@ include:
     - news.ru.lenta
     - news.ru.life 
     - news.ru.newsfront
+    #- news.ru.novgorod
     - news.ru.pikabu
     - news.ru.regnum
     - news.ru.ria
     - news.ru.ria_kursk
-    #- news.ru.ria_kalm
     - news.ru.smotrim
     - news.ru.stapravda
     - news.ru.ukraina
@@ -39,6 +40,9 @@ include:
     - news.ru.znak
 ###news_by
     - news.by.tut
+
+###kultura_ru
+    - kultura.ru.portal
 
 ###nauka_ru
     - nauka.ru.nkj

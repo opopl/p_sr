@@ -13388,6 +13388,165 @@ page
 page
 	set url https://www.fondsk.ru/news/2021/01/19/russkoe-serdce-bukoviny-52724.html?utm_referrer=https%3A%2F%2Fzen.yandex.com
 	set tags shashkevich_markian,rusmir,galicia,onufrii_mitropolit,rusyn,rus',nikitin_afanasii.kupec.rus',ukraina,rossia,bukovina,koljadka,deti
+page
+	set url https://strana.ua/news/323722-bajden-upal-zabyvaet-imena-i-daty-est-li-u-neho-simptomy-dementsii.html
+	set tags biden_joe,usa,demencia,analiz,vooz,bolezn,prezident
+page
+	set url https://strana.ua/news/324025-zhiteljam-rossii-poobeshchali-khleb-i-mjaso-iz-nasekomykh-uzhe-cherez-paru-let.html
+	set tags rossia,eda,nasekomoje,produkty,hleb
+page
+	set url https://strana.ua/news/322122-na-podlodke-ssha-konnektikut-zavelis-postelnye-klopy.html
+	set tags usa,nasekomoje,podlodki,ukus,matros,zhaloba
+page
+	set url https://strana.ua/news/273102-v-sostav-flota-rossii-prinjata-podvodnaja-lodka-knjaz-vladimir-video.html
+	set tags korabl,flot,rossia,podlodki,knjaz_vladimir,sever,severodvinsk,12_jun,vmf_rossii,armia
+page
+	set url https://strana.ua/news/223378-ukroboronprom-planiruet-prodat-krejser-ukraina.html
+	set tags ukraina,krejser,nikolaev,korabl,flot,prodazha
+page
+	set url https://strana.ua/opinions/324006-cherez-hody-ponimaesh-kakoe-mudroe-reshenie-bylo-otnjat-u-nas-jadernoe-oruzhie-portnov.html
+	set tags ukraina,atom_bomb,mudrost,rnbo,knopka
+page
+	set url https://strana.ua/opinions/324002-hraffiti-na-stenakh-op-luchshaja-illjustratsija-sovremennoj-epokhi.html
+	set tags ukraina,loh,pogrom.20_03_2021,prezident,sternenko_sergei,unesco,hudozhnik
+page
+	set url https://strana.ua/opinions/323967-pjat-posledstvij-i-vyvodov-iz-vcherashneho-shabasha-na-bankovoj.html
+	set tags ukraina,pogrom.20_03_2021,zelenskii_vladimir,loh,rossia,vlast,slabost'
+page
+	set url https://strana.ua/opinions/323627-ne-amerike-setovat-na-che-to-vmeshatelstvo-vo-vnutrennie-dela.html
+	set tags amerika,vybory,vmeshatelstvo,rossia,ukraina,biden_joe,putin_vladimir
+page
+	set url https://www.pravda.com.ua/news/2021/03/22/7287404/
+	set tags tkg,ukraina,pirogova_maja,rossia,peregovory,terrorizm,garmash_sergej.tkg
+page
+	set url https://www.pravda.com.ua/news/2021/03/22/7287402/
+	set tags es,evropa,evrokomissia,sputnik_v,rossia,vaccine,covid
+page
+	set url https://from-ua.com/articles/592270-ochered-rastyanetsya-na-11-let-pochemu-vmesto-vakcinacii-ukraincam-ustroili-politicheskuyu-klounadu.html
+	set tags ukraina,vaccinacia,vaccine,covid,covishield,astrazeneka,zabolevajemost'
+page
+	set url https://www.pravda.com.ua/rus/news/2021/03/16/7286815/
+	set tags tkachenko_aleksandr,raduckii_mihail,vaccine,covid,pobochka,tromboembolia,tromboz,rossia,ukraina,infvojna
+page
+	set url https://from-ua.com/news/592146-budet-razrushen-celii-gorod-yasnovidyaschaya-rasskazala-o-buduschem-zemletryasenii.html
+	set tags prorochestvo,world,razrushenie,gorod,gory
+page
+	set url https://thepropheticbride.wordpress.com/2021/03/17/vision-273-2nd-warning-of-a-european-town-of-coming-earthquake/
+	set tags prorochestvo,earthquake,evropa,gorod
+page
+	set url https://terrao.livejournal.com/9667928.html
+	set tags prorochestvo,gorod,evropa
+page
+	set url https://strana.ua/news/324027-pik-zabolevaemosti-covid-19-v-ukraine-nastupit-cherez-mesjats.html
+	set tags ukraina,nanu,zabolevajemost',covid,bolezn,statistika,rnbo
+page
+	set url https://regnum.ru/news/society/3220309.html
+	set tags moskva,rossia,izoljacia,karantin,foto,covid,pustota,kreml,sobor_vasilii_blazhennyj,st_peterburg,ekaterinburg
+page
+	set url https://regnum.ru/news/society/3219203.html
+	set tags bolezn,bolnica,rossia,covid,st_peterburg,pacient
+page
+	set url https://regnum.ru/news/society/3150004.html
+	set tags rossia,bolezn,covid,gospital,stroitelstvo,st_peterburg
+page
+	set url https://regnum.ru/news/society/3150586.html
+	set tags covid,rossia,gospital,bolnica,bolezn,lechenie,pacient,pandemia
+page
+	set url https://regnum.ru/news/accidents/3220894.html
+	set tags rossia,kriminal,murder,st_peterburg,molodezh
+page
+	set url https://regnum.ru/news/society/3213111.html
+	set tags rossia,belgorod,tank,babushka,99_let,veteran,vov,rekord,kniga
+page
+	set url https://regnum.ru/news/polit/3220765.html
+	set tags rossia,ukraina,zelenskii_vladimir,deti,obeschanie,zemlja,potop
+page
+	set url https://vz.ru/world/2021/3/21/1090571.html
+	set tags ukraina,soros_georgii,loh,metka,struktura,pogrom.20_03_2021,rossia
+page
+	set url https://regnum.ru/news/cultura/3221021.html
+	set tags pushkin_aleksandr,rossia,poezia,internet,kultura,rusmir
+page
+	set url https://regnum.ru/news/accidents/3220835.html
+	set tags rossia,ekaterinburg,lexus,avto,avaria,smert,otvetstvennost',voditel,medik
+page
+	set url https://regnum.ru/news/society/3220771.html
+	set tags rossia,belarus,vodomet,voda,protest,amsterdam,chelovek
+page
+	set url https://regnum.ru/news/polit/3220763.html
+	set tags biden_joe,putin_vladimir,rossia,usa,slon,oskorblenie,killer
+page
+	set url https://regnum.ru/news/society/3220385.html
+	set tags kriminal,rossia,stavropol,napadenie,rebenok,muzhchina
+page
+	set url http://lug-info.com/news/one/luganskie-aktivisty-na-subbotnike-otremontirovali-ploschadku-v-skvere-v-bolshoi-vergunke-foto-65760
+	set tags lnr,lugansk,deti,poselok,remont,mir_luganschine,dobrovolec
+page
+	set url http://lug-info.com/news/one/oprokinuvshayasya-pri-razgruzke-sau-nasmert-pridavila-dvukh-boitsov-vsu-narodnaya-militsiya-65757
+	set tags donbass,vsu,smert,vojna,ukraina,lnr,accident
+page
+	set url https://regnum.ru/news/society/3219933.html
+	set tags bajkal,rossia,priroda,led,ekologia,musor,motorcycle
+page
+	set url https://regnum.ru/news/society/3218801.html
+	set tags ukraina,rossia,chernobyl,tajna,igra,stalker,strugackie_bratja,it
+page
+	set url https://regnum.ru/news/society/3216665.html
+	set tags svoboda,filosofia
+page
+	set url https://news.obozrevatel.com/society/v-kieve-i-treh-oblastyah-za-sutki-ne-sdelali-ni-odnoj-privivki-ot-covid-19.htm
+	set tags covid,vaccinacia,ukraina,kiev
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-gitler-nachinal-tochno-tak-zhe-kak-i-putin.htm
+	set tags hitler_adolf,putin_vladimir,krym,rossia,ukraina
+page
+	set url https://news.obozrevatel.com/society/za-7-let-vojnyi-pora-vyiuchit-na-nas-napala-rf-nas-ubivaet-rf-nas-okkupirovala-rf.htm
+	set tags rossia,ukraina,vojna,okupacia,ucheba,donbass,ihtamnet,2014,sbu,fraza
+page
+	set url https://news.obozrevatel.com/society/ukraina-na-poroge-katastrofyi-srochno-neobhodim-karantin-vo-vsej-strane.htm
+	set tags ukraina,karantin,katastrofa,neobhodimost',covid,bolnica,bolezn,gospitalizacia
+page
+	set url https://news.obozrevatel.com/society/emotsii-na-vojne-plohie-pomoschniki.htm
+	set tags ukraina,pogrom.20_03_2021,sternenko_sergei,podarki,zlo,obschestvo,veteran,aktivist
+page
+	set url https://sport.fakty.ua/371407-ukrainec-igor-rejzlin-vyigral-v-rossii-zoloto-etapa-kubka-mira
+	set tags rossia,ukraina,sport,rejzlin_igor.fehtovanie,zoloto,pobeda,kubok,sorevnovanie,fehtovanie
+page
+	set url https://sport.fakty.ua/362777-krasavica-harlan-pyatyj-raz-v-karere-stala-luchshej-fehtovalcshicej-mira
+	set tags harlan_olga,nikolaev,ukraina,fehtovanie,sport,world,rejting,thebest
+page
+	set url https://showbiz.fakty.ua/371200-veren-supruge-oleg-vinnik-otkazalsya-celovat-prizhavshuyusya-k-nemu-olyu-polyakovu
+	set tags vinnik_oleg.pevec,poljakova_olja,poceluj,covid,ukraina,showbiz,otkaz
+page
+	set url https://fakty.ua/371417-pochemu-vladimir-zelenskij-obrisoval-zdanie-ofisa-prezidenta---yarema-duh
+	set tags spravedlivost,sud,zelenskii_vladimir,ukraina,zhelanie,pogrom.20_03_2021
+page
+	set url https://fakty.ua/369394-lesya-ukrainka-zgaduvala-csho-v-pevni-momenti-z-yavlyalas-vicsha-sila-j-nakazuvala-ij-pishi
+	set tags lesja_ukrainka,sila,literatura,kultura,poezia,ukraina,istoria,kiev
+page
+	set url https://fraza.com/analytics/298923-v-borbe-s-zelenym-fejkom-pobezhdaet-fejk-
+	set tags fejk,ukraina,vlast,zelenskii_vladimir,dezinformacia,loh,rnbo,infvojna
+page
+	set url https://fraza.com/blog/298775-kitaj-vyter-nogi-ob-ukrainu
+	set tags usa,kitaj,nogi,ukraina,krym,motor_sich,skandal,rossia
+page
+	set url https://smotrim.ru/article/2539808
+	set tags rossia,evropa,sputnik_v,vaccine,evrokomissia,covid
+page
+	set url https://riakursk.ru/v-kurskuyu-oblast-do-kontsa-marta-postupit-17-200-doz-vaktsiny-ot-koronavirusa/
+	set tags rossia,statistika,covid,kursk
+page
+	set url https://stapravda.ru/20210321/farforovuyu_skulpturu_stavropolskih_masterov_otmetili_na_vseross_162847.html
+	set tags rossia,stavropol,mineralnyje_vody,master,isskustvo,farfor,vystavka,kislovodsk
+page
+	set url https://riakalm.ru/index.php/news/culture/28240-my-khudozhniki-opeshili-v-natsionalnom-muzee-kalmykii-otkrylas-vystavka-zurach
+	set tags rossia,kalmykia,kultura,hudozhnik,vystavka,muzei
+page
+	set url https://riakalm.ru/index.php/news2/28246-amulanga-uteeva-nasha-tsel-vnesti-vklad-v-razvitie-kultury-kalmytskogo-naroda
+	set tags rossia,kalmykia,language.native,vyveska,populjarizacia,language.kalmyk
+page
+	set url https://strana.ua/news/324014-ofis-prezidenta-nadeetsja-chto-obostrenie-na-donbasse-ne-skazhetsja-na-perehovorakh.html
+	set tags mendel_julia,ukraina,donbass,vojna,fraza,sila,uzhas,ostanovka,rossia
 eof
 off
 page

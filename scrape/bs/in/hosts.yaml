@@ -34,6 +34,9 @@
 # stavropol
 'stapravda.ru' : { 'site' : 'news.ru.stapravda' }
 
+# kalmykia
+'riakalm.ru' : { 'site' : 'news.ru.ria_kalm' }
+
 'ria.ru' : { 'site' : 'news.ru.ria' }
 'znak.com' : { 'site' : 'news.ru.znak' }
 'donbasstoday.ru' : { 'site' : 'news.ru.donbasstoday' }

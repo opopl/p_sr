@@ -29,6 +29,7 @@ include:
     - news.ru.regnum
     - news.ru.ria
     - news.ru.ria_kursk
+    #- news.ru.ria_kalm
     - news.ru.smotrim
     - news.ru.stapravda
     - news.ru.ukraina

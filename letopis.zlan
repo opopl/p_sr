@@ -13565,6 +13565,99 @@ page
 page
 	set url https://riakalm.ru/index.php/news/culture/28233-v-eliste-sostoyalsya-pervyj-otborochnyj-etap-startuyushchego-proekta-my-rossiya
 	set tags rossia,kalmykia,deti,kultura,muzyka,pesnja
+page
+	set url https://news.novgorod.ru/articles/read/1055.html
+	set tags miting,rossia,future,deti,mater,interview,novaja_derevnja.novgorod,selo
+page
+	set url https://www.pravda.com.ua/articles/2021/03/22/7287370/
+	set tags putin_vladimir,troickij_artemij,rossia,kritika,interview,dissidents
+page
+	set url https://www.pravda.com.ua/news/2021/03/22/7287455/
+	set tags shmygal'_denis.ministr,putin_vladimir,ukraina,rossia,killer,skandal
+page
+	set url https://www.pravda.com.ua/news/2021/03/22/7287458/
+	set tags brussel,es,evropa,vremja,perevod,ukraina,diskussia
+page
+	set url https://blogs.pravda.com.ua/authors/datsuk/60585dd5bf205/
+	set tags myshlenie,mova,jazyk,filosofia,ukraina,future,nacia,derzhava
+page
+	set url https://blogs.pravda.com.ua/authors/farion/6057a8326dfda/
+	set tags mova,litva,vkl,istoria,ukraina,zakon,statut,1566,1588,sud
+page
+	set url https://blogs.pravda.com.ua/authors/muzhdabaev/6057fd049feda/
+	set tags ukraina,rossia,haos,veselje,usa,bespokojstvo
+page
+	set url https://blogs.pravda.com.ua/authors/yurchyshyn/5d26ed8d2bb9a/
+	set tags ukraina,mova,golos
+page
+	set url https://life.pravda.com.ua/travel/2021/03/22/244294/
+	set tags ukraina,zhizn,radiacia,chernobyl,zapovednik,polesje,zapovednik.drevljanskij
+page
+	set url https://analytics.hvylya.net/213888-postulaty-o-tranzistencii
+	set tags world,kultura,postulat,filosofia,chelovek,humanity,institut_chelovechestva,kiev,lissabon
+page
+	set url https://www.radiosvoboda.org/a/yahta-odesa-konrad-podoroj/31159841.html
+	set tags odessa,jachta,krugosvetka,world,ukraina,zemlja,planeta,okean,remont
+page
+	set url https://gazeta.ua/articles/world-life/_stavsya-najbilshij-terakt-v-istoriyi-krayini/1018165
+	set tags terakt,22_mar,belgia,evropa,terrorist,brussel,2016
+page
+	set url https://gazeta.ua/articles/world-life/_serfingistku-vdarila-bliskavka-pid-chas-trenuvannya-do-olimpiadi/1021489
+	set tags molnia,salvador,smert,voda,more,latin_america,serfing
+page
+	set url https://ukraina.ru/news/20210322/1030906600.html
+	set tags putin_vladimir,vaccinacia,vaccine,sputnik_v,rossia
+page
+	set url https://ukraina.ru/exclusive/20210322/1030895890.html
+	set tags ukraina,rossia,pravoslavie,vera,prazdnik,cerkov,istoria
+page
+	set url https://ukraina.ru/opinion/20210322/1030903830.html
+	set tags biden_joe,putin_vladimir,usa,rossia,razrushenie
+page
+	set url https://strana.ua/news/324069-kupit-ptsr-test-na-kovid-mozhno-v-internete-ikh-prisylajut-pochtoj-eksperiment-strany.html
+	set tags lipa,spravka,covid,ukraina,test,falshivka
+page
+	set url https://kiev.strana.ua/324087-kievljanin-ustroil-vzryv-v-mnohoetazhke-smeshav-neizvestnye-khimveshchestva.html
+	set tags ukraina,kiev,vzryvchatka,vzryv,kriminal,kvartira
+page
+	set url https://strana.ua/news/321976-v-dnr-vo-vremja-zastolja-vzorvali-hranatu-est-pohibshie-i-ranenye.html
+	set tags dnr,vzryv,granata,glupost,pjanstvo,donbass
+page
+	set url https://strana.ua/news/324100-pervye-partii-vaktsiny-kovivak-uzhe-proizvedeny-putin.html
+	set tags rossia,covid,vaccine,proizvodstvo
+page
+	set url https://zaxid.net/vsi_namagalisya_obyizhdzhati_toy_lyuk_n1516121
+	set tags ukraina,lvov,deti,halatnost',smert,avto,kryshka,ljuk
+page
+	set url https://news.obozrevatel.com/politics/ukraina-bolshe-ne-bednyij-rodstvennik-kak-zelenskomu-udalos-vyivesti-diplomatiyu-na-novyij-uroven.htm
+	set tags rodstvennik,bednost',politika,diplomatia,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://lenta.ru/news/2021/03/22/diverse_mat/
+	set tags rusmir,materschina,smysl,slovo,rossia,inostrancy,kultura,jazyk
+page
+	set url https://regnum.ru/news/polit/3221692.html
+	set tags rossia,cennosti,kitaj,zapad,liderstvo,world,lavrov_sergei
+page
+	set url https://regnum.ru/news/society/3221318.html
+	set tags krym,rossia,socset,vossoedinenie,krymvesna,rusvesna,ukraina
+page
+	set url https://beztabu.net/vakcina-astrazeneca-projshla-tretyu-fazu-viprobuvan_n73070
+	set tags covid,astrazeneka,ispytanie,vaccine,phase_3,medicina
+page
+	set url https://beztabu.net/sud-vipravdav-pashinskogo-ta-povernuv-jomu-znaryaddya-zlochinu_n73061
+	set tags pashinskii_sergei,bandit,zelenskii_vladimir,sud,prestuplenie,oruzhie,ukraina,opravdanie,prigovor
+page
+	set url https://beztabu.net/tragichnij-simvol-rozdumi-do-dnya-narodzhennya-tarasa-shevchenka_n15679
+	set tags shevchenko_taras,ukraina,istoria,kultura,tragedia,simvol
+page
+	set url https://beztabu.net/uroki-nekromantii-kto-i-zachem-pytaetsya-ozhivit-duh-iosifa-stalina_n15462
+	set tags nekromantia,smert,stalin_jozef,5_mar,istoria,ukraina,rossia,sssr,kommunizm,urok
+page
+	set url https://analytics.hvylya.net/215422-narod-soedinivshiy-doneckie-stepi-krym-i-rus-ukrainu
+	set tags ukraina,istoria,etnogenez,polovcy,krym,slavjane
+page
+	set url https://analytics.hvylya.net/209560-kratkaya-sovmestnaya-tysyacheletnyaya-istoriya-podneprovya-i-kryma
+	set tags istoria,ukraina,rossia,kratko,rusmir,kievrus
 eof
 off
 page

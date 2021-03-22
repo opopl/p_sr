@@ -13552,7 +13552,10 @@ page
 	set tags hatyn',zverstvo,fashizm,nazism,rossia,sssr,istoria,vov,smert
 page
 	set url https://strana.ua/video/323985-mezhdunarodnyj-mediaproekt-ljudi-podhotovil-spetsvypusk-ko-dnju-torzhestva-pravoslavija.html
-	set tags ukraina,ludi,projekt,pravoslavie,taksjur_jan.pisatel,karamazov_oleg.muzykant,upc,cerkov,vera
+	set tags ukraina,ludi,projekt,pravoslavie,taksjur_jan.pisatel,karamazov_oleg.muzykant,upc,cerkov,vera,21_mar,torzhestvo_pravoslavia
+	set redo 1
+	setlist acts
+		db_update
 page
 	set url https://fraza.com/news/298938-koronavirus-v-ukraine-ubil-uzhe-bolee-30-tysjach-ljudej
 	set tags ukraina,covid,statistika,smert,bolezn,pandemia,ludi

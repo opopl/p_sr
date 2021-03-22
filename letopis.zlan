@@ -13647,12 +13647,6 @@ page
 	set url https://beztabu.net/sud-vipravdav-pashinskogo-ta-povernuv-jomu-znaryaddya-zlochinu_n73061
 	set tags pashinskii_sergei,bandit,zelenskii_vladimir,sud,prestuplenie,oruzhie,ukraina,opravdanie,prigovor
 page
-	set url https://beztabu.net/tragichnij-simvol-rozdumi-do-dnya-narodzhennya-tarasa-shevchenka_n15679
-	set tags shevchenko_taras,ukraina,istoria,kultura,tragedia,simvol
-page
-	set url https://beztabu.net/uroki-nekromantii-kto-i-zachem-pytaetsya-ozhivit-duh-iosifa-stalina_n15462
-	set tags nekromantia,smert,stalin_jozef,5_mar,istoria,ukraina,rossia,sssr,kommunizm,urok
-page
 	set url https://analytics.hvylya.net/215422-narod-soedinivshiy-doneckie-stepi-krym-i-rus-ukrainu
 	set tags ukraina,istoria,etnogenez,polovcy,krym,slavjane
 page
@@ -13739,16 +13733,22 @@ page
 page
 	set url https://gazeta.ua/articles/life/_akscho-najbilshe-shkoda-shibki-mi-mriyemo-pro-rizni-derzhavi-druzi-vlada-sorda/1021594
 	set tags ukraina,pogrom.20_03_2021,derzhava,nacia
-global
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://beztabu.net/golovnij-vorog-ukrayini---ne-konkretno-putin_n72787
 	set tags ukraina,rossia,vrag,narod,putin_vladimir,navalny
 page
 	set url https://beztabu.net/razom-do-peremogi-den-sobornosti-yak-simvol-davnishnih-pomilok-cvitu-naciyi_n13183
 	set tags ukraina,peremoga,sobornist,oshybki,istoria
+page
+	set url https://beztabu.net/uroki-nekromantii-kto-i-zachem-pytaetsya-ozhivit-duh-iosifa-stalina_n15462
+	set tags nekromantia,smert,stalin_jozef,5_mar,istoria,ukraina,rossia,sssr,kommunizm,urok
+global
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://beztabu.net/tragichnij-simvol-rozdumi-do-dnya-narodzhennya-tarasa-shevchenka_n15679
+	set tags shevchenko_taras,ukraina,istoria,kultura,tragedia,simvol
 eof
 off
 page

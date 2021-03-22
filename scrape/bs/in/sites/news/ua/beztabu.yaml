@@ -5,6 +5,8 @@ sel:
     - .telegram-block
     - .publication-wrapper
     - .news-tags
+    - .partner-block
+    - .replace-h3
   only:
     - .main-content
   keep:

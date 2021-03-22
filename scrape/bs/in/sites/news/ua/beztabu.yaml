@@ -4,6 +4,7 @@ sel:
     - .advice-wrapper
     - .telegram-block
     - .publication-wrapper
+    - .news-tags
   only:
     - .main-content
   keep:

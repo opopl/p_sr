@@ -13661,6 +13661,9 @@ page
 page
 	set url https://tex.stackexchange.com/questions/554995/creating-better-html-code-with-minted-and-tex4ht
 	set tags pc,tex4ht
+page
+	set url https://strana.ua/news/324148-vlad-sord-koho-zaderzhali-posle-pohroma-u-ofisa-prezidenta.html
+	set tags zmej,pogrom.20_03_2021,ukraina,okno,ofis_prezidenta,pravyj_sektor,kiev,dobrovolec,vandalizm
 eof
 off
 page

@@ -13703,6 +13703,52 @@ page
 page
 	set url https://112ua.tv/mnenie/biznes-na-detyah-ili-pedofiliya-chto-zhdet-mamu-8-letney-devushki-blogera-571063.html
 	set tags biznes,deti,socset,ukraina,pedofilia,mahanec_mila,paj_pasha,skandal
+page
+	set url https://www.epravda.com.ua/publications/2021/03/22/672155/
+	set tags tehnologia,world,izmenenie,covid,medicina,nauka,vaccine,tiktok,artificial_intelligence
+page
+	set url https://lenta.ru/news/2021/03/22/threat/
+	set tags britania,rossia,bezopasnost',dokument,minoborony.britania
+page
+	set url https://news.obozrevatel.com/society/gordon-o-rossijskoj-vaktsine-ne-v-sostoyanii-dazhe-avtomobil-sdelat-mogut-tolko-travit.htm
+	set tags gordon_dmitrii,rossia,vaccine,covid,sputnik_v,jad,ukraina
+page
+	set url https://news.obozrevatel.com/society/degradatsiya-sovetskoj-arhitekturyi-foto.htm
+	set tags sssr,istoria,arhitektura,dom,kvartira
+page
+	set url https://news.obozrevatel.com/society/a-ne-ofigeli-li-vyi-vaktsiniruyutsya-politiki-i-blogeryi-vmesto-pozhilyih-lyudej.htm
+	set tags ukraina,vaccinacia,stariki
+page
+	set url https://fraza.com/news/298964-krestnye-hody-upts-v-ukraine-nas-pritesnjajut-no-nas-stanovitsja-bolshe
+	set tags upc,diskriminacia,ukraina,krestnyj_hod,vera,cerkov,harkov
+page
+	set url https://fraza.com/news/298958-medvedchuk-sdelal-vse-vozmozhnoe-chtoby-ukraina-odna-iz-pervyh-poluchila-kachestvennuju-vaktsinu-romanchenko
+	set tags medvedchuk_viktor,putin_vladimir,vaccine,sputnik_v,rossia,ukraina,proizvodstvo,vaccinacia
+page
+	set url https://fraza.com/fraze/298316-jurij-tkachev
+	set tags ukraina,zelenskii_vladimir,fraza,diktatura
+page
+	set url https://fraza.com/video/298950-pojavilos-video-kak-rybak-epichno-spas-rebenka-s-ldiny-v-kieve
+	set tags kiev,ukraina,spinning,rybak,deti,spasenie,led,voda
+page
+	set url https://www.riakursk.ru/39-letniy-kuryanin-spas-shkolnits-provalivshikhsya-pod-led/
+	set tags spasenie,kursk,led,rossia,devochka,deti
+page
+	set url https://vz.ru/world/2021/3/22/1090641.html
+	set tags trump_donald,internet,revolucia,world,usa,socset
+page
+	set url https://gazeta.ua/articles/life/_akscho-najbilshe-shkoda-shibki-mi-mriyemo-pro-rizni-derzhavi-druzi-vlada-sorda/1021594
+	set tags ukraina,pogrom.20_03_2021,derzhava,nacia
+global
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://beztabu.net/golovnij-vorog-ukrayini---ne-konkretno-putin_n72787
+	set tags ukraina,rossia,vrag,narod,putin_vladimir,navalny
+page
+	set url https://beztabu.net/razom-do-peremogi-den-sobornosti-yak-simvol-davnishnih-pomilok-cvitu-naciyi_n13183
+	set tags ukraina,peremoga,sobornist,oshybki,istoria
 eof
 off
 page

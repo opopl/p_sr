@@ -73,6 +73,7 @@ include:
     - news.ua.tyzhden
     - news.ua.zaxid
     - news.ua.zik
+    - news.ua.beztabu
     #- news.ua.sprotyv
     #- news.anglia.bbc
     - pc.articles.sitepoint

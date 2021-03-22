@@ -13664,6 +13664,45 @@ page
 page
 	set url https://strana.ua/news/324148-vlad-sord-koho-zaderzhali-posle-pohroma-u-ofisa-prezidenta.html
 	set tags zmej,pogrom.20_03_2021,ukraina,okno,ofis_prezidenta,pravyj_sektor,kiev,dobrovolec,vandalizm
+page
+	set url https://strana.ua/news/324139-sternenko-v-pisme-iz-sizo-prizval-u-zelenskoho-nachat-dialoh-s-eho-storonnikami.html
+	set tags sternenko_sergei,pogrom.20_03_2021,ukraina,kiev,poslanie,sizo,tjurma,zelenskii_vladimir
+page
+	set url https://kiev.strana.ua/324129-strana-uznala-skolko-stoit-otmyt-fasad-ofisa-prezidenta-posle-mitinha.html
+	set tags ukraina,kiev,pogrom.20_03_2021,ochistka,cena,cleaning
+page
+	set url https://www.radiosvoboda.org/a/maryna-kurapceva-kniga-pereselenci/31163481.html
+	set tags ukraina,okupacia,ludi,donbass,kniga,vojna
+page
+	set url http://lug-info.com/news/one/luganskii-dramteatr-priglashaet-na-premeru-skazki-karlson-kotoryi-zhivet-na-kryshe-65781
+	set tags karlson,lnr,teatr,lindgren_astrid,krysha,skazka,spektakl,deti,lardt,lugansk,premjera
+page
+	set url http://lug-info.com/news/one/torzhestvennoe-sobranie-po-sluchayu-dvukhletiya-proekta-druzhina-proshlo-v-luganske-foto-65776
+	set tags lnr,druzhina,molodezh,sport,mir_luganschine,lugansk
+page
+	set url http://lug-info.com/news/one/proekt-druzhina-za-dva-goda-provel-bolee-600-trenirovok-i-okolo-90-sportivnykh-meropriyatii-65267
+	set tags lnr,druzhina,mir_luganschine,sport,molodezh,volonter
+page
+	set url http://lug-info.com/news/one/molodezhnye-aktivisty-proveli-subbotnik-u-stolichnogo-pamyatnika-pogibshim-detyam-luganschiny-foto-65775
+	set tags lnr,pamjatnik,pamjat,deti,smert,vojna,donbass,lugansk,park,aktivist,mir_luganschine,rusmir
+page
+	set url http://lug-info.com/news/one/shkolniki-perevalschiny-i-podmoskovya-proveli-onlain-kviz-v-mire-dalya-foto-65771
+	set tags lnr,dal'_vladimir,pasechnik_leonid,shkola,deti,literatura,jazyk,rossia
+page
+	set url http://lug-info.com/news/one/inostrannye-zhurnalisty-pribyli-v-zonu-oos-dlya-diskreditatsii-lnr-i-dnr-narodnaya-militsiya-65784
+	set tags lnr,donbass,vojna,oos,ukraina,diskreditacia,zhurnalist,obse,radio_svoboda,nm_lnr
+page
+	set url https://strana.ua/news/324162-indija-zakljuchila-kontrakt-s-rossiej-i-stanet-krupnejshim-proizvoditelem-sputnik-v.html
+	set tags sputnik_v,rossia,india,kontrakt,proizvodstvo,covid,vaccine,rfpi,putin_vladimir
+page
+	set url https://strana.ua/articles/analysis/324140-pochemu-fevralskie-platezhki-pobili-vse-rekordy-i-chto-budet-s-tarifami-dalshe.html
+	set tags platezhka,tarify,ukraina,teplo,zima,fevral
+page
+	set url https://strana.ua/opinions/324161-kak-v-kieve-kupit-lipovye-spravki-o-koronaviruse-ili-bolnoi-shredinhera.html
+	set tags spravka,lipa,falshivka,covid,ukraina
+page
+	set url https://112ua.tv/mnenie/biznes-na-detyah-ili-pedofiliya-chto-zhdet-mamu-8-letney-devushki-blogera-571063.html
+	set tags biznes,deti,socset,ukraina,pedofilia,mahanec_mila,paj_pasha,skandal
 eof
 off
 page

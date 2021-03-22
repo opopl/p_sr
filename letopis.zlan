@@ -13766,6 +13766,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/6040afb59a31cc3187a3c183/citata-stalina-o-nastoiascei-svobode-cheloveka-kotoruiu-sledovalo-by-prochest-nashei-vlasti-6054617829a80b6fd2f73052
 	set tags fraza,svoboda,sssr,istoria,rossia,stalin_jozef,chelovek
+page
+	set url https://zen.yandex.ru/media/otkritaya_seminariya/samoe-dlinnoe-prorochestvo-o-rusi-v-otkrovenii-jena-v-pustyne-605624e4f629c85c2d6ae7ad
+	set tags prorochestvo,otkrovenie,apokalipsis,biblia,rus',vera,rusmir,pravoslavie
+page
+	set url https://strana.ua/news/324181-v-lubnakh-politsija-snjala-s-kryshi-muzhchinu-kotoryj-khotel-teleportirovatsja-domoj.html
+	set tags ukraina,lubny,poltava_oblast,pjanstvo,teleportacia,kurjez,policia
 eof
 off
 page

@@ -13553,6 +13553,15 @@ page
 page
 	set url https://strana.ua/video/323985-mezhdunarodnyj-mediaproekt-ljudi-podhotovil-spetsvypusk-ko-dnju-torzhestva-pravoslavija.html
 	set tags ukraina,ludi,projekt,pravoslavie,taksjur_jan.pisatel,karamazov_oleg.muzykant,upc,cerkov,vera
+page
+	set url https://fraza.com/news/298938-koronavirus-v-ukraine-ubil-uzhe-bolee-30-tysjach-ljudej
+	set tags ukraina,covid,statistika,smert,bolezn,pandemia,ludi
+page
+	set url https://fraza.com/news/298937-chelovechestvu-grozit-globalnyj-defitsit-vody
+	set tags ukraina,world,voda,deficit
+page
+	set url https://fraza.com/column/297700-a-v-rossii-ljubjat-politsaev
+	set tags ukraina,rossia,istoria,sssr,vov,policaj,fashizm,nacizm
 eof
 off
 page

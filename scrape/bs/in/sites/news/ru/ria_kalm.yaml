@@ -7,7 +7,7 @@ sel:
 fetch:
   requests:
     args:
-      #verify: True
+      verify: False
       #headers: {}
 
 PageParser:

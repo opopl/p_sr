@@ -6,7 +6,9 @@ sel:
 
 fetch:
   requests:
-    verify: True
+    args:
+      #verify: True
+      #headers: {}
 
 PageParser:
   get_date:

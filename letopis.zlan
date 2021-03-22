@@ -13547,6 +13547,12 @@ page
 page
 	set url https://strana.ua/news/324014-ofis-prezidenta-nadeetsja-chto-obostrenie-na-donbasse-ne-skazhetsja-na-perehovorakh.html
 	set tags mendel_julia,ukraina,donbass,vojna,fraza,sila,uzhas,ostanovka,rossia
+page
+	set url https://vz.ru/opinions/2021/3/22/1088878.html
+	set tags hatyn',zverstvo,fashizm,nazism,rossia,sssr,istoria,vov,smert
+page
+	set url https://strana.ua/video/323985-mezhdunarodnyj-mediaproekt-ljudi-podhotovil-spetsvypusk-ko-dnju-torzhestva-pravoslavija.html
+	set tags ukraina,ludi,projekt,pravoslavie,taksjur_jan.pisatel,karamazov_oleg.muzykant,upc,cerkov,vera
 eof
 off
 page

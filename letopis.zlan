@@ -13658,6 +13658,9 @@ page
 page
 	set url https://analytics.hvylya.net/209560-kratkaya-sovmestnaya-tysyacheletnyaya-istoriya-podneprovya-i-kryma
 	set tags istoria,ukraina,rossia,kratko,rusmir,kievrus
+page
+	set url https://tex.stackexchange.com/questions/554995/creating-better-html-code-with-minted-and-tex4ht
+	set tags pc,tex4ht
 eof
 off
 page

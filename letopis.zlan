@@ -13553,9 +13553,6 @@ page
 page
 	set url https://strana.ua/video/323985-mezhdunarodnyj-mediaproekt-ljudi-podhotovil-spetsvypusk-ko-dnju-torzhestva-pravoslavija.html
 	set tags ukraina,ludi,projekt,pravoslavie,taksjur_jan.pisatel,karamazov_oleg.muzykant,upc,cerkov,vera,21_mar,torzhestvo_pravoslavia
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://fraza.com/news/298938-koronavirus-v-ukraine-ubil-uzhe-bolee-30-tysjach-ljudej
 	set tags ukraina,covid,statistika,smert,bolezn,pandemia,ludi
@@ -13565,6 +13562,9 @@ page
 page
 	set url https://fraza.com/column/297700-a-v-rossii-ljubjat-politsaev
 	set tags ukraina,rossia,istoria,sssr,vov,policaj,fashizm,nacizm
+page
+	set url https://riakalm.ru/index.php/news/culture/28233-v-eliste-sostoyalsya-pervyj-otborochnyj-etap-startuyushchego-proekta-my-rossiya
+	set tags rossia,kalmykia,deti,kultura,muzyka,pesnja
 eof
 off
 page

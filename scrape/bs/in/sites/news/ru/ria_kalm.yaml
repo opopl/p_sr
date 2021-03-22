@@ -2,6 +2,9 @@
 sel:
   clean:
   only:
+    - .page-header
+    - .item-image
+    - 'div[itemprop="articleBody"]'
   keep:
 
 fetch:

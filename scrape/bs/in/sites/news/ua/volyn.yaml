@@ -19,12 +19,13 @@ PageParser:
   get_date_url:
   get_date_html:
     sels:
-      - { 
+      - {
           # css selector
           'find'  : 'time',
+          'get'   : 'attr',
+          'attr'  : 'datetime'
           #'get'   : 'attr',
-          #'attr'  : 'datetime',
-          'get'   : 'text',
+          #'get'   : 'text',
           # split date string
           #'split' : ' ',
           # used by dateparser.parse()

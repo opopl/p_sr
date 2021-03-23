@@ -1,6 +1,11 @@
 
 sel:
   clean:
+    - .o-layout__sidebar
+    - .c-banner__main
+    - .c-banner__top
+    - .c-banner__hamburger
+    - 'header img'
   only:
   keep:
     - header

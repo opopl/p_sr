@@ -919,7 +919,7 @@ page
 page
 	set url https://news.obozrevatel.com/society/na-kievschine-zhenschina-umerla-pod-stenami-reanimatsii-kuda-ee-ne-prinyali-iz-za-nehvatki-mest-eksklyuziv.htm
 	set tags smert,gonchar_svetlana,kiev,bojarka
-global
+#global
 	#listpush acts
 		#fetch
 		#get_img
@@ -4779,9 +4779,6 @@ page
 page
 	set url https://strana.ua/news/54771-intelligenciya-bet-trevogu-po-povodu-agressivnyh-ultrapravyh-v-ukraine.html
 	set tags chichkan_david,bilchenko_evgenia,ukraina,nazis,pogrom
-#global
-	#setlist acts
-		#db_update
 page
 	set url https://life.pravda.com.ua/columns/2017/02/8/222504/
 	set tags chichkan_david,pogrom,ukraina,kiev
@@ -13593,9 +13590,6 @@ page
 	set url https://life.pravda.com.ua/travel/2021/03/22/244294/
 	set tags ukraina,zhizn,radiacia,chernobyl,zapovednik,polesje,zapovednik.drevljanskij
 page
-	set url https://analytics.hvylya.net/213888-postulaty-o-tranzistencii
-	set tags world,kultura,postulat,filosofia,chelovek,humanity,institut_chelovechestva,kiev,lissabon
-page
 	set url https://www.radiosvoboda.org/a/yahta-odesa-konrad-podoroj/31159841.html
 	set tags odessa,jachta,krugosvetka,world,ukraina,zemlja,planeta,okean,remont
 page
@@ -13640,12 +13634,6 @@ page
 page
 	set url https://regnum.ru/news/society/3221318.html
 	set tags krym,rossia,socset,vossoedinenie,krymvesna,rusvesna,ukraina
-page
-	set url https://analytics.hvylya.net/215422-narod-soedinivshiy-doneckie-stepi-krym-i-rus-ukrainu
-	set tags ukraina,istoria,etnogenez,polovcy,krym,slavjane
-page
-	set url https://analytics.hvylya.net/209560-kratkaya-sovmestnaya-tysyacheletnyaya-istoriya-podneprovya-i-kryma
-	set tags istoria,ukraina,rossia,kratko,rusmir,kievrus
 page
 	set url https://tex.stackexchange.com/questions/554995/creating-better-html-code-with-minted-and-tex4ht
 	set tags pc,tex4ht
@@ -13937,6 +13925,45 @@ page
 page
 	set url https://fraza.com/column/297864-pochemu-zelenskij-vystrelil-sebe-v-golovu-i-ukraine-zaodno
 	set tags zelenskii_vladimir,ukraina,vystrel,golova,cenzura,zapret,telekanaly,tv,repressii,rnbo
+page
+	set url https://analytics.hvylya.net/213888-postulaty-o-tranzistencii
+	set tags world,kultura,postulat,filosofia,chelovek,humanity,institut_chelovechestva,kiev,lissabon
+page
+	set url https://analytics.hvylya.net/215422-narod-soedinivshiy-doneckie-stepi-krym-i-rus-ukrainu
+	set tags ukraina,istoria,etnogenez,polovcy,krym,slavjane
+page
+	set url https://analytics.hvylya.net/209560-kratkaya-sovmestnaya-tysyacheletnyaya-istoriya-podneprovya-i-kryma
+	set tags istoria,ukraina,rossia,kratko,rusmir,kievrus
+page
+	set url https://hvylya.net/interview/223953-sobornost-ukrainy-v-xxi-veke-mify-i-realnost
+	set tags sobornist,ukraina,mif,realnost',xxi_vek,istoria,22_jan,zunr,unr,1919
+page
+	set url https://hvylya.net/interview/history-interview/31-spornyiy-vopros-russkoy-istorii-popyitka-prevratit-polyakov-v-russkih.html
+	set tags polsha,1825,ekaterina_II,istoria,rossia,rusimperia,russkie
+page
+	set url https://vz.ru/news/2021/3/23/1090871.html
+	set tags tragedia,kaluga,rossia,avia,katastrofa
+page
+	set url https://strana.ua/news/324302-sord-zajavil-chto-on-nedovolen-reshenie-suda-i-eho-advokat-budet-podavat-apelljatsiju.html
+	set tags sord_vladislav,pogrom.20_03_2021,ukraina,politzak,sud,podderzhka,rana,ruka
+page
+	set url https://odessa.strana.ua/324288-v-zakrytoj-na-lokdaun-odesse-mozhno-skupitsja-v-mahazine-pod-vidom-internet-zakaza.html
+	set tags odessa,ukraina,karantin
+page
+	set url http://lug-info.com/news/one/lgaki-priglashaet-prinyat-uchastie-v-konkurse-po-blagoustroistvu-skvera-v-luganske-foto-65806
+	set tags lgaki,lnr,skver,konkurs,priroda
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-zavtra-obeshchayut-do-7-gradusov-moroza/
+	set tags rossia,kursk,pogoda
+page
+	set url https://beztabu.net/ukrayinskij-fejsbuk-svyatkuye-peremogu-nad-nedalekoyu-tiktokershoyu-trimajte-trohi-zradi_n72853
+	set tags ukraina,pobeda,tiktok,rossia,onacka_taisia,vsu,minoborony.ukraina
+page
+	set url https://beztabu.net/hid-korolevi-vede-v-ukrayinu_n72663
+	set tags chess,ukraina,ivanchuk_vasilij,netflix,film,kasparov_garry,lvov,talant,koroleva
+page
+	set url https://beztabu.net/ya-ne-brav-uchasti-u-derzhavnomu-perevoroti-ce-bula-revolyuciya-gidnosti_n72639
+	set tags ukraina,revgidnosti,gosperevorot,maidan2,2014,kiev,janukovich_viktor,revansh
 eof
 off
 page

@@ -22,8 +22,9 @@ PageParser:
       - { 
           # css selector
           'find'  : 'time',
-          'get'   : 'attr',
-          'attr'  : 'datetime',
+          #'get'   : 'attr',
+          #'attr'  : 'datetime',
+          'get'   : 'text',
           # split date string
           #'split' : ' ',
           # used by dateparser.parse()

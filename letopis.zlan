@@ -14060,6 +14060,30 @@ page
 page
 	set url https://analytics.hvylya.net/204348-taras-shevchenko-sovetskaya-vlast-i-koronavirus
 	set tags ukraina,shevchenko_taras,kultura,istoria,literatura,galicia,franko_ivan
+page
+	set url https://strana.ua/news/324339-bajden-khochet-zapretit-v-ssha-prodazhu-shturmovoho-oruzhija-posle-bojni-v-kolorado.html
+	set tags usa,strelba,oruzhie,zapret,biden_joe,tragedia
+page
+	set url https://strana.ua/news/324344-putin-privilsja-ot-koronavirusa-rossijskoj-vaktsinoj-za-zakrytymi-dverjami.html
+	set tags putin_vladimir,privivka,covid,vaccinacia,sputnik_v,rossia,peskov_dmitrii
+page
+	set url http://lug-info.com/news/one/alchevskie-aktivisty-peredali-odezhdu-i-knigi-vospitannikam-sotstsentra-dlya-nesovershennoletnikh-foto-65812
+	set tags mir_luganschine,lnr,lugansk,deti,podarki,odezhda,kniga
+page
+	set url http://lug-info.com/news/one/molodezh-iz-alchevska-bryanki-i-perevalskogo-raiona-posetila-muzei-dalya-v-luganske-foto-65810
+	set tags lnr,dal'_vladimir,deti,muzei,lugansk,molodezh,alchevsk,ekskursia
+page
+	set url http://lug-info.com/news/one/tsentr-razvitiya-obrazovaniya-s-12-po-15-aprelya-provedet-onlain-viktorinu-ko-dnyu-kosmonavtiki-65811
+	set tags lnr,kosmos,kosmonavtika,60_let,prazdnovanie,chelovek,universe,gagarin_jurij,korolev_sergei,rossia,sssr,istoria
+page
+	set url http://lug-info.com/news/one/luganskaya-afisha-65805
+	set tags lnr,afisha,lugansk,kino,teatr,multfilm,kultura
+page
+	set url https://lenta.ru/articles/2021/03/23/heroes/
+	set tags sssr,istoria,geroizm,geroi,rossia,rusmir,kommunizm,kollektivizacia,stalin_jozef,1937,ideologia
+page
+	set url https://lenta.ru/articles/2021/01/07/prazdniki/
+	set tags rossia,prazdnik,kultura,otmena,prazdnovanie,novyj_god,rizdvo,rusmir,elka
 eof
 off
 page

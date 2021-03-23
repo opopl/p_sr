@@ -13772,6 +13772,138 @@ page
 page
 	set url https://strana.ua/news/324181-v-lubnakh-politsija-snjala-s-kryshi-muzhchinu-kotoryj-khotel-teleportirovatsja-domoj.html
 	set tags ukraina,lubny,poltava_oblast,pjanstvo,teleportacia,kurjez,policia
+page
+	set url https://strana.ua/news/324232-v-mid-otreahirovali-na-plany-otkryt-ofis-rossijskoj-partii-v-ordlo.html
+	set tags mzs,ukraina,rossia,vojna,donbass,politika
+page
+	set url https://strana.ua/articles/analysis/324173-pochemu-konflikt-kieva-i-pekina-nadolho-.html
+	set tags ukraina,pekin,kitaj,motor_sich,usa,world,krym
+page
+	set url https://strana.ua/news/324215-merkel-hotova-podderzhat-reshenie-evrokomissii-o-zaprete-na-eksport-vaktsiny-.html
+	set tags astrazeneka,britania,vaccine,covid,merkel_angela,germania,evropa
+page
+	set url https://strana.ua/news/324197-pohrom-bankovoj-zelenskoho-kabmin-snjal-koronu-evrosojuz-cherez-5-let.html
+	set tags zelenskii_vladimir,ukraina,rnbo,vrag,loh,pogrom.20_03_2021,zabolevajemost',covid,bolezn,itogi,dezinformacia,savefop
+page
+	set url https://strana.ua/news/324210-v-ssha-usomnilis-v-predstavlennykh-kompaniej-astrazeneca-dannykh.html
+	set tags usa,vaccine,astrazeneka,effektivnost'
+page
+	set url https://kiev.strana.ua/324235-v-kieve-stomatoloh-obmanyval-patsientov-i-pytalsja-ubit-odnu-iz-nikh.html
+	set tags stomatolog,ukraina,kiev,pokushenie,pacient,tok,kriminal
+page
+	set url https://strana.ua/news/319634-muchivshaja-detej-stomatoloh-iz-rovno-inna-kravchuk-prodolzhaet-rabotat.html
+	set tags ukraina,rovno,stomatolog,deti,muchenie
+page
+	set url https://strana.ua/news/304006-v-zhitomire-molodoj-vrach-napal-na-svoeho-rukovoditelja-i-pytalsja-ubit.html
+	set tags zhitomir,ukraina,stomatolog,kriminal,glaza,nozhnicy,policia
+page
+	set url https://strana.ua/news/324218-dmitrij-hurin-predlozhil-uvolnjat-vrachej-otkazyvajushchikhsja-ot-privivki-covishield.html
+	set tags ukraina,verhovna_rada,zapret,medik,vaccinacia,covishield,uvolnenie
+page
+	set url https://www.radiosvoboda.org/a/lermontov-prezydenty-ukrayiny/31162446.html
+	set tags lermontov_mihail,prazdnovanie,gogol_nikolai,rossia,ukraina,poezia,kultura,francia,napoleon
+page
+	set url https://www.radiosvoboda.org/a/u-rosiyi-zaboronyly-dyvytysya-na-misya%D1%81/31164143.html
+	set tags luna,sibir,zapret,fsb,rossia,chinovnik,navalny,teleskop,astronomia
+page
+	set url https://www.pravda.com.ua/articles/2021/03/23/7287520/
+	set tags tunberg_greta,ekologia,karpaty,ukraina,planeta,klimat
+page
+	set url https://www.radiosvoboda.org/a/horlivka-debaltseve-liniya-frontu-donbas/31160067.html
+	set tags gorlovka,debalcevo,peredovaja,front,vojna,donbass,ukraina,zhizn
+page
+	set url https://www.pravda.com.ua/articles/2021/01/18/7280226/
+	set tags ukraina,belarus,svoboda,haos,pereezd,zhizn,nacia,mentalitet,rusmir
+page
+	set url https://www.pravda.com.ua/news/2021/03/23/7287538/
+	set tags covid,smert,ukraina,zabolevajemost',statistika
+page
+	set url https://lenta.ru/news/2021/03/23/peskov/
+	set tags putin_vladimir,peskov_dmitrii,rossia,vaccinacia
+page
+	set url https://ukraina.ru/news/20210323/1030914206.html
+	set tags barskih_maksim,muzyka,rossia,ukraina,moskva,showbiz,gorod
+page
+	set url https://ukraina.ru/interview/20210323/1030910892.html
+	set tags usa,ukraina,rossia,zelenskii_vladimir
+page
+	set url https://ukraina.ru/interview/20210319/1030884867.html
+	set tags navoz,grom,fraza,kucha,rossia,usa,ukraina,biden_joe,putin_vladimir
+page
+	set url https://regnum.ru/news/society/3222438.html
+	set tags arheologia,vologda,rossia,istoria,drevrus,jazychestvo,tradicii,vera,ljubov
+page
+	set url https://regnum.ru/news/polit/3222521.html
+	set tags rossia,ukraina,kitaj,usa,geopolitika,zapad,putin_vladimir,davlenie
+page
+	set url https://zaxid.net/radikalniy_natyurmort_n1516113
+	set tags ukraina,maidan2,mentalitet,nacia,mysli
+page
+	set url https://vz.ru/opinions/2021/3/22/1090718.html
+	set tags rossia,istoria,gora,proshloje,future,pamjat,fraza
+page
+	set url https://ukraina.ru/interview/20210323/1030910353.html
+	set tags ukraina,rossia,smena,elita,neobhodimost',vojna,donbass
+page
+	set url https://www.yar.kp.ru/daily/27254.5/4384426/
+	set tags mama,deti,rossia,sneg,reakcia,avto,jaroslavl
+page
+	set url https://news.obozrevatel.com/abroad/isterika-na-russkih-kanalah-v-ssha-ili-bajden-ne-putin.htm
+	set tags ukraina,rossia,biden_joe,putin_vladimir,isterika,usa
+page
+	set url https://news.obozrevatel.com/society/v-odesse-umirayut-semyami-ot-covid-19-a-restoranyi-i-klubyi-idut-v-podpole-chto-proishodit-v-gorode-ohvachennom-epidemiej.htm
+	set tags ukraina,odessa,karantin,covid,zabolevajemost',turizm,kiev,gosti,klub,veselje,smert
+page
+	set url https://news.obozrevatel.com/society/slishkom-mnogo-smertej-dnepr-perehodit-na-strogij-karantin.htm
+	set tags narod,dnepropetrovsk,ukraina,covid,smert,karantin,zabolevajemost'
+page
+	set url https://www.pravda.com.ua/news/2021/03/23/7287547/
+	set tags ukraina,covid,zabolevajemost',bolezn,stepanov_maksim,statistika
+page
+	set url http://lug-info.com/news/one/perebolevshie-covid-19-vrachi-luganskoi-bolnitsy-4-prodolzhayut-rabotat-v-krasnoi-zone-foto-65798
+	set tags lugansk,bolnica,covid,lnr,vrach,rabota
+page
+	set url http://lug-info.com/news/one/chernukhinskii-dvorets-kultury-provel-literaturnuyu-vstrechu-posvyaschennuyu-tvorchestvu-dalya-foto-65796
+	set tags lnr,lugansk,dal'_vladimir,tvorchestvo,kultura,jazyk,deti,literatura,vstrecha
+page
+	set url http://lug-info.com/news/one/pensionerka-i-ee-syn-pogibli-v-sverdlovske-v-rezultate-otravleniya-ugarnym-gazom-mchs-65794
+	set tags lnr,smert,pensioner,gaz,otravlenie
+page
+	set url https://gazeta.ua/articles/life/_zatrimali-ozbroyenogo-bojovika-lnr/1021700
+	set tags ukraina,harkov,lnr,sbu,kontrrazdevka
+page
+	set url https://gazeta.ua/blog/54792/protest-20-bereznya-reakciya-narodu-na-zaprodanciv-v-otochenni-zelenskogo
+	set tags ukraina,sud,sternenko_sergei,pogrom.20_03_2021,infantilizm,patriotizm
+page
+	set url https://gazeta.ua/blog/52297/volodimir-zelenskij-ce-klubok-nevrozu-ak-zupiniti-vijnu-vin-ne-znaye
+	set tags ukraina,zelenskii_vladimir,vojna,ostanovka,nevroz,znanie
+page
+	set url https://gazeta.ua/blog/52315/popri-pohodzhennya-zelenskij-ne-yevrej-popri-gromadyanstvo-vin-ne-ukrayinec
+	set tags ukraina,zelenskii_vladimir,evrei,nacionalnost,ukraincy,rusmir,babij_jar,kiev
+page
+	set url https://gazeta.ua/blog/51822/sakashvili-ce-vakcina-proti-russkogo-mira
+	set tags ukraina,rossia,rusmir,saakashvili_mihail,gruzia,vaccine
+page
+	set url https://gazeta.ua/blog/50631/kastrovanij-ptah-dushi-ne-litaye
+	set tags ukraina,kultura,film,kino,medvedchuk_viktor,stus_vasyl,ptah,polet
+page
+	set url https://gazeta.ua/blog/50984/so-vi-hochete-vid-rosiyi-reveransiv-znizhok-na-gaz
+	set tags ukraina,rossia,vojna,zhelanie
+page
+	set url https://beztabu.net/v-amerikanskomu-supermarketi-maniyak-zastreliv-na-smert-10-lyudej_n73080
+	set tags usa,strelba,oruzhie,magazin,manjak,kriminal,murder,smert
+page
+	set url https://beztabu.net/evrejskij-vopros-tragediya-babego-yara-kak-primer-dvojstvennosti-moskovskoj-propagandy_n29037
+	set tags ukraina,rossia,sssr,istoria,kiev,babij_jar,tragedia,golokost,evrei,nacizm,germania,vov,mirvojna2
+page
+	set url https://beztabu.net/operaciya-vognyanij-smerch-yak-radyanska-vlada-znishchuvala-kiyiv_n28661
+	set tags ukraina,kiev,istoria,sssr,vov,rkka
+page
+	set url https://www.volyn.com.ua/news/668-nash-zemlyak-proektuvav-kapitoliy.html
+	set tags povstenko_oleksa,kapitolij,usa,arhitektura,ukraina,kiev,vov,sofia_sobor,zhizn
+	set redo 1
+	setlist acts
+		db_update
 eof
 off
 page

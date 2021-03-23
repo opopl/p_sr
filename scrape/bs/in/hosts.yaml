@@ -26,6 +26,7 @@
 'tyzhden.ua' : { 'site' : 'news.ua.tyzhden' }
 'fraza.com' : { 'site' : 'news.ua.fraza' }
 'beztabu.net' : { 'site' : 'news.ua.beztabu' }
+'volyn.com.ua' : { 'site' : 'news.ua.volyn' }
 
 ###news.by
 'tut.by' : { 'site' : 'news.by.tut' }

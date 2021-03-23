@@ -14084,6 +14084,42 @@ page
 page
 	set url https://lenta.ru/articles/2021/01/07/prazdniki/
 	set tags rossia,prazdnik,kultura,otmena,prazdnovanie,novyj_god,rizdvo,rusmir,elka
+page
+	set url https://news.obozrevatel.com/russia/mertvyij-los-putina-nichego-v-rossii-ne-rabotaet.htm
+	set tags rossia,putin_vladimir,shojgu_sergej,tajga,otdyh
+page
+	set url https://news.obozrevatel.com/society/kurpita-ezhesutochno-zarazhaetsya-po-50-60-tyisyach-ukraintsev-do-kontsa-goda-nas-zhdet-esche-2-3-volnyi-epidemii-koronavirusa.htm
+	set tags ukraina,covid,zabolevajemost',karantin,bolezn,statistika
+page
+	set url https://news.obozrevatel.com/politics/nardepyi-pozhalovalis-na-staryij-remont-otsutstvie-vremeni-i-lozh.htm
+	set tags ukraina,verhovna_rada,rabota,zhizn,zhaloba,vranje,deputat
+page
+	set url https://censor.net/ru/photo_news/3255146/volonter_yusupova_sobiraet_sredstva_dlya_pomoschi_tyajeloranenym_voinam_pribyvshim_na_lechenie_v_kiev
+	set tags ukraina,vojna,donbass,vanenie,pomosch,gospital,bolnica,volonter,dengi,kiev,reanimacia
+page
+	set url https://censor.net/ru/blogs/3255042/ubiyitsa_li_putin_glavnyyi_test_mirovoyi_politiki_kotoryyi_nado_zadat_kajdomu_politiku_v_ukraine
+	set tags ukraina,killer,putin_vladimir,biden_joe,usa,politika,test,vopros,zelenskii_vladimir
+page
+	set url https://censor.net/ru/news/3251943/v_kievskiyi_gospital_privezli_tyajeloranenyh_voinov_nekotorye_s_amputatsiyami_uvechya_tochno_kak_v_2014
+	set tags ukraina,vojna,ranenie,pomosch,volonter,kvadrokopter,bolnica,kiev,gospital
+page
+	set url https://censor.net/ru/blogs/3255012/yak_bayiden_ne_dzvonit_zelenskomu_ta_zavdyaki_chomu_trimayutsya_vdnosini_ukrani_ssha
+	set tags biden_joe,zelenskii_vladimir,ukraina,usa,politika,telefon
+page
+	set url https://censor.net/ru/photo_news/3224658/na_produkty_i_lekarstva_dlya_nashih_voinov_potracheno_okolo_40_tys_est_esche_potrebnosti_volonter_yusupova
+	set tags ukraina,vojna,donbass,pomosch,dengi,ranenie,volonter
+page
+	set url https://censor.net/ru/blogs/3254996/pamyat_nats_tse_peredusm_pamyat_pro_zagiblih_zahisnikv_krani
+	set tags ukraina,geroizm,pamjat,smert,nacia,zaschitnik,rodina,krest
+page
+	set url https://regnum.ru/news/society/3223251.html
+	set tags shtraf,shkola,deti,absurd,sud,rossia,stavropol
+page
+	set url https://zen.yandex.ru/media/masterwpoetry/samoe-znamenitoe-stihotvorenie-pushkina-gde-on-pokazal-sviaz-poeta-i-boga-5fe8bd829c06f6134f379d5f
+	set tags pushkin_aleksandr,rossia,rusmir,literatura,poezia,vera,cerkov,slovo,chelovek
+page
+	set url https://zen.yandex.ru/media/kak_vse_ustroeno/zachem-dusham-rojdatsia-v-nashem-mire-605498e67aafb75683014055
+	set tags dusha,chelovek,vopros,zhizn
 eof
 off
 page

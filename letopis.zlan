@@ -13964,6 +13964,102 @@ page
 page
 	set url https://beztabu.net/ya-ne-brav-uchasti-u-derzhavnomu-perevoroti-ce-bula-revolyuciya-gidnosti_n72639
 	set tags ukraina,revgidnosti,gosperevorot,maidan2,2014,kiev,janukovich_viktor,revansh
+page
+	set url http://lug-info.com/news/one/lgu-imeni-dalya-provel-moleben-k-101-i-godovschine-so-dnya-sozdaniya-vuza-foto-65804
+	set tags lnr,moleben,cerkov,vera,dal'_vladimir,universitet.lugansk.vl_dal'
+page
+	set url https://strana.ua/news/324131-kak-ukrainskie-vrachi-massovo-vyezzhajut-v-polshu-.html
+	set tags ukraina,polsha,medicina,medik,rabota,zarplata,emigracia,migracia
+page
+	set url https://www.radiosvoboda.org/a/sport-za-tyzhden/31164926.html
+	set tags ukraina,rossia,sport
+page
+	set url https://www.radiosvoboda.org/a/31019350.html
+	set tags ukraina,sport,tokio,olimpiada,rossia,plavanie,rusalka,voda
+page
+	set url https://strana.ua/news/324296-bez-maski-zapretjat-khodit-na-ulitsu-kak-pomenjalis-pravila-karantina-v-ukraine.html
+	set tags ukraina,maska,karantin,covid,redzone,shtraf,kabmin
+page
+	set url https://strana.ua/news/324039-koronavirus-i-karantin-v-ukraine-chto-proiskhodit-v-bolnitsakh-i-rehionakh.html
+	set tags ukraina,karantin,covid,statistika,gospitalizacia,bolnica,zabolevajemost',nikolaev,harkov,odessa
+page
+	set url https://strana.ua/articles/private-life/324088-katja-osadchaja-uletela-v-hruziju-a-bilyk-i-loboda-v-zharkie-strany.html
+	set tags ukraina,showbiz,gruzia,rabota,osadchaja_katerina,bilyk_irina,loboda_svetlana.artist,karantin,covid
+page
+	set url https://strana.ua/articles/private-life/312716-nikolaj-tishchenko-otdykhaet-v-dubae.html
+	set tags tischenko_nikolai.deputat,otdyh,ukraina,dubaj,oae
+page
+	set url https://strana.ua/video/324255-bajden-putin-i-kitaj-pohrom-na-bankovoj-eskadrony-smerti-mezhdunarodnyj-mediaproekt-ljudi.html
+	set tags ukraina,ludi,projekt.ludi,obsuzhdenie,biden_joe,kitaj,putin_vladimir,humanizm,killer,skandal,planeta
+page
+	set url https://www.pravda.com.ua/articles/2021/03/23/7287593/
+	set tags ukraina,vzroslenie,svoboda,1857,kniga,ballantyne_robert,1983,nobel_prize,golding_william,literatura,pisatel,chelovek,2014,maidan2,loh,protest,nacia,future,robinzon
+page
+	set url https://www.eurointegration.com.ua/articles/2021/03/23/7121227/
+	set tags covid,vaccine,slovakia,sputnik_v,rossia,evropa,skandal
+page
+	set url https://day.kyiv.ua/uk/article/cuspilstvo/rosiyski-chynovnyky-svidomo-peretvoryuyut-krym-na-pustelyu
+	set tags rossia,krym,chinovnik,ukraina,doroga,tavrida,okupacia,vossoedinenie,sevastopol,kerch',pustynja
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/taygova-bezvyhid-2
+	set tags rossia,ukraina,otdyh,tajga,putin_vladimir,sibir,ossendovskij_ferdinand,medved
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/v-taygu-vid-baydena
+	set tags rossia,ukraina,sibir,otdyh,putin_vladimir,shojgu_sergej,tajga,vezdehod
+page
+	set url https://day.kyiv.ua/uk/article/den-ukrayiny/zhyvi-kazky
+	set tags ukraina,kultura,vinnica,skazka,more,it,palamarchuk_darja.pisatel.vinnica
+page
+	set url https://day.kyiv.ua/uk/article/taym-aut/spav-800-rokiv
+	set tags islandia,world,vulkan,probuzhdenie,800_let,lava
+page
+	set url https://fraza.com/news/298998-shmygal-otkazyvaetsja-pokupat-i-proizvodit-sputnik-v-potomu-chto-sluzhit-vneshnim-igrokam-chaplyga
+	set tags ukraina,sputnik_v,vaccine,vaccinacia,shmygal'_denis.ministr,vneshnee_upravlenie,usa,rossia,pfizer
+page
+	set url https://www.radiosvoboda.org/a/shcho-vidomo-pro-vlada-sorda/31165597.html
+	set tags sord_vladislav,ukraina,pogrom.20_03_2021,psihiatria,rasstrojstvo,veteran,vojna,donbass,zmej,poezia
+page
+	set url https://gazeta.ua/blog/54787/dozvil-na-hamstvo-ce-mi-vistavlyayemo-chervoni-praporci-dlya-vladi
+	set tags hamstvo,marshrutka,mova,jazyk,ukraina,konduktor,dengi,kamikadze,arestovich_aleksei
+page
+	set url https://gazeta.ua/blog/54796/putin-pochav-rizko-zduvatisya-sukayut-sposobi-jogo-utilizaciyi
+	set tags ukraina,putin_vladimir,naselenie,rossia
+page
+	set url https://hvylya.net/analytics/culture/fedir-chi-teodor-pro-chorni-spravi-obozhnjuvachiv-pravopisiv-1928-ta-2019-rr.html
+	set tags ukraina,kultura,pravopys,mova,slovo,pismo,istoria,1928,2019,1893,grammatika,kniga,gartner_fedor,latinica,kirillica
+page
+	set url https://analytics.hvylya.net/223298-stranstvuyushchaya-zemlya-lyu-cysinya
+	set tags kitaj,planeta,fantastika,future,zemlja,rasskaz,literatura,solnce,humanity,2000
+page
+	set url https://hvylya.net/analytics/culture/sojuz-spasenija-kak-prorocheskij-film-o-rossii-posle-putina.html
+	set tags rossia,film,dekabristy,1825,derzhava,maidan2,avtoritarizm,rusmir,rusimperia,putin_vladimir
+page
+	set url https://hvylya.net/analytics/culture/tsoy-abo-nitsoy-yak-virishuvali-gamletivske-movne-pitannya.html
+	set tags mova,jazyk,ukraina,nicoi_larisa,coj_viktor,gamlet,vopros,chernivci,nacizm,celan_paul.poet,fraza,imperia,andruhovych_jurij,ksenofobia
+page
+	set url https://hvylya.net/analytics/culture/chim-zaviniv-mihaylo-bulgakov-pered-ukrayinoyu-prigodi-velikogo-pismennika-na-batkivshhini.html
+	set tags bulgakov_mihail,ukraina,istoria,ukrainofobia,kultura,literatura,vjatrovich_vladimir,portnikov_vitalii,moskva,rossia,bolsheviki,stalin_jozef
+page
+	set url https://hvylya.net/analytics/culture/posledniy-kandidat-chto-proizoydet-v-ssha-esli-terroristyi-vzorvut-kapitoliy.html
+	set tags kapitolij,usa,film,vzryv,terrorizm,vpechatlenie,rossia
+page
+	set url https://hvylya.net/analytics/culture/obrechyonnost-postsovetstkoy-ukrainyi-na-primere-umirayushhego-sela.html
+	set tags ukraina,umiranie,selo,future,realnost',obrechennost',2033
+page
+	set url https://hvylya.net/analytics/culture/ne-trogay-molodogo-ubey-menya-kak-ukrainskie-poetyi-gibli-za-rodnoy-yazyik.html
+	set tags poezia,ukraina,kultura,smert,rasstrel,terror1937,zerov_mykola,hvyljovyj_mykola,1925,evropa,1933
+page
+	set url https://hvylya.net/analytics/culture/za-chto-boremsya-ili-utopiya-v-antiutopii-voshozhdenie-yupiter.html
+	set tags film,kultura,future,utopia,anti_utopia,fantastika,jupiter,voshozhdenie,chelovek,humanity
+page
+	set url https://hvylya.net/analytics/culture/serial-ostanniy-moskal-yak-instrument-nasadzhennya-kompleksu-menshovartosti-ukrayintsiv.html
+	set tags rossia,ukraina,moskal,film,kultura,kino,showbiz,propaganda,hohly,unizhenie
+page
+	set url https://hvylya.net/analytics/culture/danila-v-rossiyu-ne-vernetsya-evolyutsiya-russkoy-dushi-ot-brata-do-duhless-2.html
+	set tags rossia,kino,brat_2,bratstvo,rusdusha,pravda,kultura,bagrov_danila,bodrov_sergej
+page
+	set url https://analytics.hvylya.net/204348-taras-shevchenko-sovetskaya-vlast-i-koronavirus
+	set tags ukraina,shevchenko_taras,kultura,istoria,literatura,galicia,franko_ivan
 eof
 off
 page

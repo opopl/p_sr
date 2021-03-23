@@ -27,6 +27,7 @@
 'fraza.com' : { 'site' : 'news.ua.fraza' }
 'beztabu.net' : { 'site' : 'news.ua.beztabu' }
 'volyn.com.ua' : { 'site' : 'news.ua.volyn' }
+'hvylya.net' : { 'site' : 'news.ua.hvylya' }
 
 ###news.by
 'tut.by' : { 'site' : 'news.by.tut' }

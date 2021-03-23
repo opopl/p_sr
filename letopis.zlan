@@ -13901,9 +13901,42 @@ page
 page
 	set url https://www.volyn.com.ua/news/668-nash-zemlyak-proektuvav-kapitoliy.html
 	set tags povstenko_oleksa,kapitolij,usa,arhitektura,ukraina,kiev,vov,sofia_sobor,zhizn
-	set redo 1
-	setlist acts
-		db_update
+page
+	set url https://strana.ua/news/324293-v-horodakh-krasnoj-zony-zapretili-bez-maski-khodit-v-parkakh-na-ulitsakh-na-pljazhe-i-na-kladbishche.html
+	set tags ukraina,kiev,karantin,maska,covid
+page
+	set url https://strana.ua/news/324239-pohib-pensioner-na-donbasse-chto-eto-oznachaet-dlja-voennykh-dejstvij.html
+	set tags donbass,vojna,smert,pensioner,ukraina,doneck,snajper,oos,vsu
+page
+	set url https://strana.ua/news/324062-mitinh-na-bankovoj-i-posledstvija-dlja-zelenskoho-hlavnye-vyvody.html
+	set tags ukraina,pogrom.20_03_2021,verhovna_rada,loh,prezident,ofis_prezidenta
+page
+	set url https://strana.ua/news/324252-kabinet-ministrov-vvel-novye-karantinnye-ohranichenija-dlja-krasnykh-rehionov-ukrainy.html
+	set tags ukraina,karantin,kabmin,zapret,maska,redzone
+page
+	set url https://fraza.com/news/298989-zhitelej-krasnoj-zony-zastavljajut-nosit-maski-dazhe-na-ulitsah-i-v-parkah
+	set tags ukraina,karantin,covid,redzone,zapret,maska
+page
+	set url https://fraza.com/analytics/298924-kto-vy-mister-zelenskij
+	set tags ukraina,zelenskii_vladimir,psihologia,psihotip
+page
+	set url https://fraza.com/video/298975-v-kievskom-supermarkete-ohrannik-izbil-posetitelnitsu-za-otkaz-nadet-masku
+	set tags ukraina,kiev,ohrana,izbienie,draka,woman,maska,otkaz,karantin,covid
+page
+	set url https://fraza.com/news/298966-v-krymu-stremitelno-peresyhajut-vodohranilischa-na-ocheredi-esche-dva
+	set tags ukraina,krym,voda,rossia
+page
+	set url https://news.obozrevatel.com/society/premer-ministr-izrailya-zvonil-prosil-unizhalsya-i-zhiteli-stranyi-privityi-a-myi.htm
+	set tags izrail,pfizer,chelovek,vaccinacia,vaccine
+page
+	set url https://news.obozrevatel.com/russia/vaktsinirovat-nelzya-pomilovat-putin-popyitaetsya-spasti-reputatsiyu-sputnika-v.htm
+	set tags rossia,putin_vladimir,sputnik_v,vaccine,covid,evropa,tajga,ukraina
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-rossiya-otstaloe-gosudarstvo-kryimchaninu-est-s-chem-sravnivat.htm
+	set tags rossia,krym,ukraina
+page
+	set url https://fraza.com/column/297864-pochemu-zelenskij-vystrelil-sebe-v-golovu-i-ukraine-zaodno
+	set tags zelenskii_vladimir,ukraina,vystrel,golova,cenzura,zapret,telekanaly,tv,repressii,rnbo
 eof
 off
 page

@@ -14120,6 +14120,21 @@ page
 page
 	set url https://zen.yandex.ru/media/kak_vse_ustroeno/zachem-dusham-rojdatsia-v-nashem-mire-605498e67aafb75683014055
 	set tags dusha,chelovek,vopros,zhizn
+page
+	set url https://zen.yandex.ru/media/istok/sekret-vozniknoveniia-kievskoi-rusi-5fb52af4d60cd17792fb0ad0
+	set tags kievrus,sekret,vozniknovenie,drevnost',rusmir,rossia,istoria
+page
+	set url https://zen.yandex.ru/media/krit/stereotipy-o-russkih-poka-jivu-na-krite-staratelno-rushu-vse-krome-odnogo-6019af04438d6751e7736b9b
+	set tags stereotip,rossia,russkie,woman,krit,bereza
+page
+	set url https://zen.yandex.ru/media/balkaninfo/serby-o-russkom-iazyke-shodstva-i-razlichiia-605301db40648114b43aea1a
+	set tags serbia,language,jazyk,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/turisttochka/pochemu-rusalka-v-mishore-vyhodit-iz-moria-s-mladencem-otkuda-u-nee-rebenok-60395e49732f3c7f625dee80
+	set tags rusalka,legenda,krym,rossia,rebenok,more
+page
+	set url https://zen.yandex.ru/media/marie_la_mer/chelovechnost-v-koree-i-v-rossii-602fc67fa332dd73734b2644
+	set tags rossia,korea,chelovek,film,kultura
 eof
 off
 page

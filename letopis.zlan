@@ -14315,6 +14315,96 @@ page
 page
 	set url https://zz.te.ua/nemudryy-narod/
 	set tags ukraina,narod,mudrost,nacia,mentalitet,juschenko_viktor
+page
+	set url https://zz.te.ua/buv-dukhovnym-liderom-nastavnykom-etalonom-trahichno-zahynuv-vidomyy-sviashchennyk-z-ternopil-shchyny/
+	set tags ternopil,dtp,smert,ukraina,svjaschennik,avto,avaria,chortkiv,nekrolog
+page
+	set url https://strana.ua/news/324448-prichina-smerti-voennoj-posle-ukola-covishield-serdechnaja-nedostatochnost-minzdrav.html
+	set tags smert,vsu,covid,vaccine,covishield,serdce,ukraina,minzdrav,prichina,odessa,vskrytie
+page
+	set url https://strana.ua/news/324436-sohlasno-popravkam-v-konstitutsiju-rf-putin-smozhet-snova-ballotirovatsja-na-post-prezidenta.html
+	set tags putin_vladimir,rossia,konstitucia,2036,vybory,prezident
+page
+	set url https://strana.ua/news/254020-obnulenie-prezidentskikh-srokov-putin-smozhet-pojti-na-novyj-srok-i-byt-prezidentom-do-2036-hoda.html
+	set tags ukraina,rossia,putin_vladimir,konstitucia,brak,vlast,gosduma,sovfed,revolucia,tereshkova_valentina
+page
+	set url https://www.radiosvoboda.org/a/news-putin-obnulennia-prezydent/31167141.html
+	set tags rossia,konstitucia,putin_vladimir,vlast,2036,popravka
+page
+	set url https://pravoslavie.ru/138195.html
+	set tags rossia,istoria,kultura,rusimperia,film,kino
+page
+	set url https://pravoslavie.ru/138173.html
+	set tags rossia,rusmir,pravoslavie,vera,cerkov,internet,velikij_post
+page
+	set url https://pravoslavie.ru/134713.html
+	set tags ukraina,rossia,kiev,adam,film,kultura,pravoslavie,vera,cerkov,zaporoschenko_aleksandr.rezhisser,kino
+page
+	set url https://pravoslavie.ru/137971.html
+	set tags ukraina,rossia,rpc,cerkov,vera,maslenica,prazdnik,bliny,bomzh,pomosch,miloserdie
+page
+	set url https://pravoslavie.ru/136665.html
+	set tags adam,pravoslavie,film,kultura,rossia,ukraina,pliska_aleksandr.producer,cerkov,vera,afon,kiev
+page
+	set url https://pravoslavie.ru/137600.html
+	set tags dzerzhinskii_feliks,istoria,rossia,rusmir,cerkov,vera,pamjat,predatelstvo,pamjatnik
+page
+	set url https://pravoslavie.ru/137547.html
+	set tags rossia,istoria,pskov,drevrus,izborsk,novgorod,kievrus,pushkin_aleksandr,fraza
+page
+	set url https://strana.ua/news/324409-zhenshchina-umerla-posle-privivki-kovishild-v-ukraine-chto-proizoshlo.html
+	set tags narozhnaja_inna.odessa,ukraina,smert,covid,vaccine,covishield,vaccinacia,vsu,astrazeneka,tromboz,evropa
+page
+	set url https://strana.ua/articles/private-life/324279-u-nardepa-olhi-savchenko-klatch-dior-za-7300-a-u-larisy-bilozir-replika-ot-ukrainskoho-brenda.html
+	set tags ukraina,verhovna_rada,dengi,finansy,roskosh',bogatstvo,deputat,sumka
+page
+	set url https://strana.ua/news/324314-zamhlavred-strany-prodala-kartinu-posvjashchennuju-pohromu-na-bankovoj-za-3-tysjachi-dollarov.html
+	set tags ukraina,isskustvo,krjukova_svetlana,kartina,loh,zelenskii_vladimir,prodazha,pogrom.20_03_2021
+page
+	set url https://strana.ua/news/324264-svetlana-krjukova-vystavila-na-auktsion-kartinu-o-pohrome-na-bankovoj.html
+	set tags ukraina,loh,pogrom.20_03_2021,zelenskii_vladimir,krjukova_svetlana,veselje
+page
+	set url https://strana.ua/news/302067-svetlana-krjukova-vystavila-na-auktsion-kartinu-s-vladimirov-zelenskim-i-andreem-ermakom.html
+	set tags krjukova_svetlana,zelenskii_vladimir,ukraina,isskustvo,kartina
+page
+	set url https://strana.ua/news/284873-zamhlavreda-strany-svetlana-krjukova-v-dnepre-nauchit-sozdavat-sensatsii-bez-informpovoda.html
+	set tags ukraina,krjukova_svetlana,dnepropetrovsk,pravilo,zhizn,vstrecha,strana_ua
+page
+	set url https://strana.ua/news/247204-sud-po-izbieniju-zhurnalista-strany-podderzhat-tsymbaljuka-prishel-sternenko-zarezavshij-cheloveka-v-odesse.html
+	set tags odessa,ukraina,krjukova_svetlana,strana_ua,murder,deti,otec,sternenko_sergei
+page
+	set url https://strana.ua/news/247158-aleksej-tsymbaljuk-sud-po-delu-ob-izbienii-vlada-bovtruka-30-janvarja-2020.html
+	set tags ukraina,izbienie,zhurnalist,strana_ua,kriminal,sud,cymbaljuk_aleksei.killer_babchenko,kiev
+page
+	set url https://news.allcrimea.net/news/2021/3/23/v-krym-hotyat-zakachat-vodu-iz-reki-don-144252/
+	set tags krym,voda,ukraina,rossia,kanal,don.reka
+page
+	set url http://lug-info.com/news/one/chestvovanie-laureatov-konkursa-chitaem-alberta-likhanova-sostoyalos-v-luganske-op-lnr-foto-65829
+	set tags lnr,kultura,kniga,konkurs,lihanov_albert,op_lnr,deti,rossia
+page
+	set url http://lug-info.com/news/one/bolee-pyati-tys-chelovek-rabotayut-v-uchrezhdeniyakh-kultury-lnr-ministr-65839
+	set tags lnr,kultura,statistika,ludi,rabota
+page
+	set url http://lug-info.com/news/one/nauchnye-sotrudniki-lkhm-vystupili-na-onlain-seminare-peterburgskogo-russkogo-muzeya-foto-65799
+	set tags lnr,lugansk,muzei,st_peterburg,internet,kultura,rossia
+page
+	set url https://zen.yandex.ru/media/liudmila_gritsay/semen-treskunov-novyi-spasitel-rossii-6059d4c0faad2a19c3af87e4
+	set tags rossia,treskunov_semen,spasitel,youtube,interview,navalny
+page
+	set url https://zen.yandex.ru/media/rvm/russkii-iazyk-boga-chast-chetyrnadcataia-fakty-o-kotoryh-vy-ne-znali-605377e93729ca110ea2ca59
+	set tags rusmir,slovo,jazyk,bog,language,rossia,lepota,kirillica,kultura
+page
+	set url https://zen.yandex.ru/media/skyart/kakie-strannye-dela-u-nas-v-rossii-lepiatsia--citaty-vladimira-vysockogo-proshedshie-skvoz-vremia-601b773e9117d423eddee797
+	set tags vysotskii_vladimir,fraza,rossia,jazyk,rusmir,francia,tualet
+page
+	set url https://zen.yandex.ru/media/nowandthenrussia/samye-starye-kadry-moskvy-48-60487af404378d7ce5625d4f
+	set tags istoria,rossia,moskva,gorod,foto,1850,progulka,kreml
+page
+	set url https://zen.yandex.ru/media/zoomspb/tver-601189bb20625351f7df829f
+	set tags tver',gorod,rossia,istoria,drevrus,foto
+page
+	set url https://zen.yandex.ru/media/masterwpoetry/genialnaia-citata-lorda-bairona-posle-kotoroi-hochetsia-verit-chto-jizn-ne-bessmyslenna-60389d01bfc70d5f47538c30
+	set tags bajron_lord,kultura,rossia,pushkin_aleksandr,lermontov_mihail,zhizn
 eof
 off
 page

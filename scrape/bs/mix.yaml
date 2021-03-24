@@ -78,6 +78,7 @@ include:
     - news.ua.hvylya
     # za zbruchem, ternopil
     - news.ua.zzte
+    #- news.ua.nakipelo
     #- news.ua.sprotyv
     #- news.anglia.bbc
     - pc.articles.sitepoint

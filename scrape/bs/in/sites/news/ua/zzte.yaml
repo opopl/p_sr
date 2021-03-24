@@ -36,22 +36,13 @@ PageParser:
     sels:
       - { 
           'search' : {
-              'css'   : [ 'a.author-name' ],
+              'css'   : [ '.item-author' ],
               'map' : {
                   'name' : 'text',
                   'url'  : { 
                     'get' : 'attr',
                     'attr' : 'href',
                   }
-              },
-             'text' : {
-               'lines' : {
-                  'match' : { 
-                      'pat'   : 'Текст:\s+(.*)$',
-                      'name'  : 1,
-                      'split' : ',',
-                  }
-                }
               }
           },
         }

@@ -29,6 +29,7 @@
 'volyn.com.ua' : { 'site' : 'news.ua.volyn' }
 'hvylya.net' : { 'site' : 'news.ua.hvylya' }
 'zz.te.ua' : { 'site' : 'news.ua.zzte' }
+'nakipelo.ua' : { 'site' : 'news.ua.nakipelo' }
 
 ###news.by
 'tut.by' : { 'site' : 'news.by.tut' }

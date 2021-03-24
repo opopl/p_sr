@@ -28,6 +28,7 @@
 'beztabu.net' : { 'site' : 'news.ua.beztabu' }
 'volyn.com.ua' : { 'site' : 'news.ua.volyn' }
 'hvylya.net' : { 'site' : 'news.ua.hvylya' }
+'zz.te.ua' : { 'site' : 'news.ua.zzte' }
 
 ###news.by
 'tut.by' : { 'site' : 'news.by.tut' }

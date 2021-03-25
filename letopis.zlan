@@ -14596,6 +14596,69 @@ page
 page
 	set url https://strana.ua/news/324597-2021-hod-bez-massovoj-vaktsinatsii-bunt-v-snbo-putin-eshche-15-let-vlasti.html
 	set tags ukraina,rossia,putin_vladimir,itogi,motor_sich,rnbo,bunt,vlast,kitaj,vaccinacia,vaccine,zabolevajemost'
+page
+	set url https://strana.ua/news/324714-v-donetske-obshchestvennaja-palata-otreahirovala-na-zajavlenie-poklonskoj-o-donbasse.html
+	set tags poklonskaja_natalia,donbass,rossia,ukraina,vojna,dnr,vybory,gosduma,zajavlenie,mir
+page
+	set url https://strana.ua/articles/analysis/324650-pochemu-medikam-v-razhar-epidemii-urezajut-zarplaty.html
+	set tags ukraina,zarplata,media,dengi,migracia,rabota,medicina,polsha
+page
+	set url https://strana.ua/news/324687-smert-ot-privivki-kovishild-v-chernovtsakh-chto-hovorjat-rodnye-umersheho-provizora.html
+	set tags ukraina,tromboz,smert,covid,vaccine,covishield,chernivci,provizor,apteka,vaccinacia,ostapenko_aleksandr.smert.provizor
+page
+	set url https://strana.ua/news/324442-kak-budut-proverjat-maski-na-ulitse-v-krasnykh-zonakh.html
+	set tags ukraina,kiev,maska,karantin,minzdrav,zapret,policia,lockdown,kabmin
+page
+	set url https://strana.ua/news/324408-strana-vyjasnila-kak-v-kieve-sobljudajut-masochnyj-rezhim.html
+	set tags ukraina,kiev,karantin,maska,lockdown,covid
+page
+	set url https://kiev.strana.ua/324196-v-kievskom-metro-sotrudnik-politsii-reanimiroval-muzhchinu.html
+	set tags ukraina,kiev,metro,serdce,pomosch,defibrillator,policia
+page
+	set url https://strana.ua/news/281186-na-arabatskoj-strelke-v-khersonskoj-oblasti-pohib-politsejskij-spasaja-tonushchikh-detej.html
+	set tags ukraina,herson,smert,spasenie,arabatskaja_strelka,more,policia,33_goda,azov_more
+page
+	set url https://strana.ua/news/324719-pravitelstvo-slovakii-raspalos-iz-za-skandala-s-vaktsinoj-sputnik-v.html
+	set tags slovakia,vaccine,covid,sputnik_v,politika
+page
+	set url https://www.radiosvoboda.org/a/news-stepanov-dyversija/31169633.html
+	set tags ukraina,vaccine,vaccinacia,covishield,infvojna,diversia,india,astrazeneka
+page
+	set url https://www.radiosvoboda.org/a/u-lyublini-vstanovyly-postament-ottsya-omelyana-kovcha/31169546.html
+	set tags majdanek.lager_smerti,kovch_omeljan,pamjatnik,ugkc,ukraina,ljublin,polsha,1944,25_mar,1884,golokost,evrei,nacizm,mirvojna2
+page
+	set url https://www.pravda.com.ua/columns/2021/03/25/7287770/
+	set tags deokupacia,krym,ukraina,dokument,strategia,rossia
+page
+	set url https://fraza.com/news/299067-episkop-upts-objasnil-chto-pomozhet-istselit-ukrainskoe-obschestvo
+	set tags ukraina,proschenije,bog,cerkov,vera,tsar,obschestvo,iscelenie,zakon,upc
+page
+	set url https://fraza.com/news/299066-mitropolit-antonij-rasskazal-v-chem-iskat-smysl-zhizni
+	set tags ukraina,ljubov,bog,zhizn,smysl,obschestvo,vera,cerkov,fraza
+page
+	set url https://hvylya.net/interview/227551-sergey-dacyuk-nas-ozhidaet-demokraticheskiy-psihoz
+	set tags psihoz,psihologia,ukraina,future,demokratia,filosofia,obschestvo,jazyk,mova,svoboda,volja,humanity,fraza
+page
+	set url https://analytics.hvylya.net/223822-2021-ponyat-chto-proishodit
+	set tags 2021,planeta,ponimanie,smysl,fraza,filosofia,humanity,pandemia,cenzura,svoboda,svoboda_slova
+page
+	set url https://analytics.hvylya.net/226965-sergey-dacyuk-psihosomaticheskie-riski-infodemii
+	set tags pandemia,infodemia,filosofia
+page
+	set url https://blogs.pravda.com.ua/authors/datsuk/59d73d69083b9/
+	set tags ifrit,gavriil,sobytie,filosofia,planeta,humanity,klass
+page
+	set url https://hvylya.net/interview/culture2/stiven-hoking-pravila-moej-zhizni.html
+	set tags hawking_stephen,pravilo,zhizn,nauka,universe,fizik,fizika
+page
+	set url https://lenta.ru/articles/2021/03/25/kushevka/
+	set tags rossia,kuban',kriminal
+page
+	set url https://zaxid.net/haroshi_lyudi_i_yihni_hot_dogi_n1516222
+	set tags hotdog,patriotizm,kafe,dengi,ukraina,horoshij_chelovek,vospitanie,rossia,kiev
+page
+	set url https://zaxid.net/krashhiy_suspilniy_dogovir_ukrayintsiv_n1514927
+	set tags mova,ukraina,jazyk,ukrainizacia,obschestvo,dogovor
 eof
 off
 page

@@ -14593,6 +14593,9 @@ page
 page
 	set url https://stolicaonego.ru/photostory/460659/
 	set tags petrozavodsk,karelia,rossia,foto,giperborej,zima,prazdnik,prazdnovanie
+page
+	set url https://strana.ua/news/324597-2021-hod-bez-massovoj-vaktsinatsii-bunt-v-snbo-putin-eshche-15-let-vlasti.html
+	set tags ukraina,rossia,putin_vladimir,itogi,motor_sich,rnbo,bunt,vlast,kitaj,vaccinacia,vaccine,zabolevajemost'
 eof
 off
 page

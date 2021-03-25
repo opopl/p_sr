@@ -14515,6 +14515,84 @@ page
 page
 	set url https://strana.ua/news/324574-semen-semenchenko-i-evhenij-shevchenko-chto-izvestno-o-razoblachenii-chvk-sbu.html
 	set tags ukraina,semenchenko_semen,sbu,shevchenko_evgenii,zaderzhanie,kriminal,ato,vojna,donbass,dobrobaty
+page
+	set url https://strana.ua/articles/analysis/324253-budut-li-hnat-po-nashej-hts-vodorod-vmesto-haza-i-chto-eto-znachit-dlja-ukrainy.html
+	set tags ukraina,vodorod,gaz,truboprovod,bratstvo,rossia,druzhba,evropa
+page
+	set url https://strana.ua/articles/analysis/324380-skopinskij-manjak-viktor-mokhov-dal-intervju-ksenii-sobchak-hlavnye-vyvody.html
+	set tags sobchak_ksenia,interview,zapret,manjak,rossia,deti,mohov_viktor
+page
+	set url https://www.radiosvoboda.org/a/war-inside-out-maryna-barabanova/31167998.html
+	set tags zhizn,barabanova_marina,ukraina,psihologia,hudozhnik,chelovek,ludi
+page
+	set url https://life.pravda.com.ua/society/2021/03/25/244325/
+	set tags ukraina,zhizn,deti,shkola,razgovor,psihologia,vospitanie,roditeli
+page
+	set url https://riakursk.ru/zhiteli-regiona-smogut-prodegustirovat-kurskie-pripravy-i-chay/
+	set tags rossia,kursk,chaj,kuhnja,sladosti,gastronomia,vystavka
+page
+	set url https://vz.ru/politics/2021/3/25/1091166.html
+	set tags ukraina,rossia,donbass,rusmir,danilov_aleksei,slovo,opasnost',rnbo
+page
+	set url https://sharij.net/komu-to-dostatochno-3-tys-grn-na-mesyacz-eks-ministr-reva
+	set tags dengi,nuzhda,ukraina,ekonomika,nischeta,reva_andrej,ministr
+page
+	set url https://fraza.com/analytics/299011-kovid-vaktsina-za-posledstvija-nikto-ne-otvetit-dazhe-po-ponjatijam-
+	set tags vaccine,covishield,astrazeneka,ukraina,korupcia,nigeria,afrika,covax,konstitucia,vaccinacia
+page
+	set url https://fraza.com/news/299031-intel-poobeschal-perevernut-kompjuternyj-mir-cherez-dva-goda
+	set tags intel,it,processor,tehnologia,2023
+page
+	set url https://fraza.com/analytics/292220-srednevekovaja-anarhija-v-britanii-ob-istoricheskih-paralleljah-xii-i-xxi-vv-
+	set tags srednevekovie,istoria,kultura,britania,anglia,anarhia
+page
+	set url https://fraza.com/column/297568-pochemu-nuzhno-ljubit-dzho-bajdena-covid-19-i-pomalkivat
+	set tags rossia,usa,biden_joe,trump_donald,politika
+page
+	set url https://fraza.com/column/288433-doktor-zelenskij-i-ego-tragifarsovyj-karantin-
+	set tags ukraina,otpusk,sbu,karantin,covid,derzhava
+page
+	set url https://fraza.com/analytics/285819-poslednjaja-stranitsa-istorii-ukrainy-itogi-2019-goda
+	set tags ukraina,rossia,2024,putin_vladimir,zelenskii_vladimir
+page
+	set url https://fraza.com/column/271690-prorochestvo-vladimira-vojnovicha
+	set tags rossia,rusmir,kommunizm,sssr,kultura,kniga,vojnovich_vladimir,anti_utopia,orwell,1984,2042,moskva
+page
+	set url https://fraza.com/analytics/205761-vojna_eto_istina
+	set tags putin_vladimir,vojna,mir,istina,poroshenko_petr,rossia,ukraina,donbass
+page
+	set url https://fraza.com/column/204201-chto_nam_delat_s_donbassom
+	set tags ukraina,rossia,donbass,atomic_bomb,vojna,ilovajsk,rusmir,mir
+page
+	set url https://fraza.com/column/201439-rossija_eto_nash_ubljudok
+	set tags ukraina,rossia,fraza,istoria,kultura,dolgorukij_jurij,kiev,mat_gorodam_ruskim,ubljudok,rusmir,drevrus
+page
+	set url https://fraza.com/column/195622-ubej_v_sebe_cheloveka
+	set tags ukraina,rossia,ubit',chelovek,dostojevskii_fedor,erenburg_ilja,1942,2014,odessa,separatizm,shevchenko_aleksej.poet.ubej_okupanta
+page
+	set url https://poltavets-marina.blogspot.com/2014/05/blog-post_6156.html
+	set tags shevchenko_aleksej.poet.ubej_okupanta,poezia,ubit',okkupacia,rossia,trikolor,ukraina,dzhihad
+page
+	set url https://fraza.com/column/190793-ukrainskij_klozet
+	set tags ukraina,tualet,rossia,dyra,world,planeta,filosofia
+page
+	set url https://fraza.com/column/191590-dver
+	set tags ukraina,evropa,rossia,dver',putin_vladimir,istoria
+page
+	set url https://fraza.com/column/259347-9-maja-tsena-oshibki
+	set tags ukraina,rossia,rusmir,9_may,pobeda,primirenie,nacizm,fashizm,oun,upa
+page
+	set url https://regnum.ru/news/accidents/3224777.html
+	set tags rossia,tragedia,deti,kemerovo,25_mar,2018
+page
+	set url https://stapravda.ru/20210324/na_stavropole_proshel_sovet_molodyh_uchenyh_163049.html
+	set tags rossia,stavropol.kraj,uchenyj,molodezh,nauka
+page
+	set url https://stapravda.ru/20210324/v_beshtaugorskom_zakaznike_stavropolya_usilili_patrulirovanie_v__163048.html
+	set tags rossia,beshtau,stavropol.kraj,cvety,pervocvet,ohrana,zapovednik,priroda
+page
+	set url https://stolicaonego.ru/photostory/460659/
+	set tags petrozavodsk,karelia,rossia,foto,giperborej,zima,prazdnik,prazdnovanie
 eof
 off
 page

@@ -14495,12 +14495,12 @@ page
 page
 	set url https://www.mediaport.ua/sutichki-bilya-harkivskoyi-oda-yak-evakuyuvali-lesika
 	set tags ukraina,jazyk,mova,opzzh,chemodan,vokzal,rossia,lesik_andrej,nackorpus,nenavist,harkov
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://kh.depo.ua/ukr/kh/gaz-i-biyka-u-kharkovi-z-ploshchi-svobodi-prognali-prorosiyskikh-aktivistiv-202001271102278
 	set tags ukraina,miting,harkov,lesik_andrej,jazyk,opzzh,mova,nackorpus,nenavist,draka,policia
+	set redo 1
+	setlist acts
+		db_update
 page
 	set url https://news.obozrevatel.com/society/pereseleniya-narodov-rf-v-kryim-i-na-donbass-a-chto-posle-deokkupatsii.htm
 	set tags ukraina,rossia,vojna,donbass,opolchency,burjatia,gospital,doneck,debalcevo,interview,kobzon_iosif

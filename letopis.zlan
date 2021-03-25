@@ -260,7 +260,6 @@ page
 	set url https://strana.ua/news/284775-maksim-tkachuk-ne-edet-na-detskoe-evrovidenie-2020-iz-za-smuhljanki-kak-sirotu-travili-natsionalisty-i-pochemu-notu-ne-dopustila-k-konkursu.html
 	set ii maxim_tkachuk_smugljanka_evrovidenie
 	set tags tkachuk_maxim
-
 page 
 	set url https://strana.ua/news/313353-kakaja-situatsija-v-ssha-pole-izbranija-bajdena-prezidentom-.html
 	set ii we_dont_want_baiden
@@ -3932,33 +3931,6 @@ page
 	set url https://strana.ua/news/318413-liza-leonenko-bloher-tiktok-sut-skandala-iz-ukrainskoho-jazyka-.html
 	set tags leonenko_liza,mova,jazyk,kiev,ukraina,skandal
 page
-	set url https://www.dialog.ua/ukraine/224205_1613672677
-	set tags krivoj_rog,ukraina,mova,skandal,ukrposhta
-page
-	set url https://www.dialog.ua/ukraine/224157_1613597314
-	set tags ukraina,skandal,mova
-page
-	set url https://www.dialog.ua/ukraine/223338_1612275278
-	set tags di_rubens,onackaja_taisia,ukraina,mova,skandal
-page
-	set url https://www.dialog.ua/ukraine/222293_1610616874
-	set tags ukraina,rossia,di_rubens,mova,skandal,onackaja_taisia
-page
-	set url https://www.dialog.ua/ukraine/224199_1613662660
-	set tags leonenko_liza,mova,skandal,kiev,ukraina
-page
-	set url https://www.dialog.ua/ukraine/223043_1611847437
-	set tags bilchenko_evgenia,vojna,skandal,mova,kiev,ukraina
-page
-	set url https://www.dialog.ua/ukraine/224031_1613421211
-	set tags kiev,kiva_ilja,ukraina,opzzh
-page
-	set url https://www.dialog.ua/science/224198_1613662169
-	set tags nasa,usa,perseverance,mars
-page
-	set url https://www.dialog.ua/ukraine/224203_1613668291
-	set tags donbass,life,dnr
-page
 	set url https://112ua.tv/ato/den-v-oos-boeviki-dvazhdy-narushili-rezhim-tishiny-primeniv-granatomet-i-pulemet-568309.html
 	set tags donbass,vojna,oos,obse
 page
@@ -5143,15 +5115,6 @@ page
 page
 	set url https://news.obozrevatel.com/society/ekspluatatsiya-zhenschin-v-sssr-o-chem-ne-lyubyat-vspominat-fanatyi-sovka.htm
 	set tags istoria,woman,sssr,ekspluatacia
-page
-	set url https://www.dialog.ua/ukraine/224539_1614169229
-	set tags krym,ukraina,rossia,sbu
-page
-	set url https://www.dialog.ua/opinion/224556_1614183701
-	set tags ukraina,rossia,jarosh_dmitrii,sternenko_sergei,sud
-page
-	set url https://www.dialog.ua/ukraine/224550_1614178919
-	set tags nackorpus,ukraina,kiva_ilja,opzzh
 page
 	set url https://zikua.tv/article/pidkorennia_marsu_ta_misiatsia_u_2021_rotsi_na_iakomu_etapi_perebuvaiut_misii_997478
 	set tags mars,kosmos,world
@@ -7312,9 +7275,6 @@ page
 page
 	set url https://gazeta.ua/blog/54705/sternenko-u-dzerkali-rosijskoyi-propagandi-nacist-gitler-grantozher
 	set tags sternenko_sergei,ukraina,smi
-page
-	set url https://www.dialog.ua/ukraine/225041_1614879270
-	set tags krym,zastrojka,foros,rossia
 page
 	set url https://www.vesti.ru/article/2532138
 	set tags rfpi,rossia,vaccine,covid,sputnik_v,vaccinacia
@@ -14659,6 +14619,120 @@ page
 page
 	set url https://zaxid.net/krashhiy_suspilniy_dogovir_ukrayintsiv_n1514927
 	set tags mova,ukraina,jazyk,ukrainizacia,obschestvo,dogovor
+page
+	set url https://lenta.ru/news/2021/03/25/wallet/
+	set tags usa,koshelek,nahodka,shkola,deti,woman
+page
+	set url https://news.obozrevatel.com/society/defitsit-v-sssr-chto-byilo-nevozmozhno-kupit-ni-za-kakie-dengi.htm
+	set tags deficit,ekonomika,sssr,istoria,dengi
+page
+	set url https://news.obozrevatel.com/show/people/vyacheslav-chornovil-pogib-21-god-nazad-komu-pomeshal-borets-za-nezavisimuyu-ukrainu.htm
+	set tags chernovol_vjacheslav,nru,ukraina,smert,25_mar,1999,borispol,kgb,dopros
+page
+	set url https://zen.yandex.ru/media/kitch/ironichnaia-fraza-djonni-deppa-pro-rossiiu-kotoraia-mne-ponravilas-6059cdaee5bdfc766a38fe0f
+	set tags depp_johnny,rossia,mentalitet,ludi,vpechatlenie
+page
+	set url https://zen.yandex.ru/media/id/5ea0879cadf4e00dc2d84779/zachem-rossii-zahvatyvat-ukrainu-a-zaodno-i-pribaltiku-604bc1ef0a7d51654ad0e446
+	set tags rossia,napadenie,ukraina,pribaltika,nato,reznikov_aleksei
+page
+	set url https://zen.yandex.ru/media/gramotnost/otkuda-proizoshli-slova-avos-i-avoska-taina-bukvy-a-6002e66efd62ee0689007bd1
+	set tags rossia,rusmir,avos',slovo,kultura,jazyk,filologia
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-80-selskikh-sovetov-vozglavlyayut-zhenshchiny/
+	set tags rossia,kursk,woman,selo,sovet,hozjajka
+page
+	set url https://riakursk.ru/v-kurske-trezvyy-taksist-sbil-mat-s-dvumya-detmi/
+	set tags rossia,kursk,dtp,mater,deti,taksist,avto
+page
+	set url https://www.volyn.com.ua/news/178292-v-ukraini-shchastia-koshtuie-naideshevshe-v-usii-ievropi
+	set tags evropa,cena,schastje,ukraina,rejting,dengi
+page
+	set url https://www.volyn.com.ua/news/178216-patsiient-iz-koronavirusom-naklav-na-sebe-ruky
+	set tags covid,suicid,ukraina
+page
+	set url https://vz.ru/world/2021/3/25/1090807.html
+	set tags latvia,vandalizm,pamjat,rossia,aktivist,rassledovanie,pamjatnik
+page
+	set url http://lug-info.com/news/one/dva-boitsa-vsu-pogibli-i-dva-poluchili-raneniya-pri-razryve-molota-narodnaya-militsiya-65908
+	set tags vzryv,vojna,lnr,donbass,ukraina,vsu,smert
+page
+	set url http://lug-info.com/news/one/alchevskii-litsei-predstavil-zhurnal-o-tvorchestve-vladimira-dalya-foto-65909
+	set tags dal'_vladimir,alchevsk,lnr,licej,zhurnal,jazyk
+page
+	set url http://lug-info.com/news/one/khudozhniki-iz-lnr-predstavili-svoi-kartiny-na-vystavke-v-sankt-peterburge-foto-65910
+	set tags hudozhnik,st_peterburg,rossia,lnr,vystavka,isskustvo,vesna
+page
+	set url http://lug-info.com/news/one/kombrig-vsu-pozdravil-sotrudnika-sbu-vzyatkoi-sobrannoi-s-podchinennykh-narodnaya-militsiya-65907
+	set tags lnr,nm_lnr,vzjatka,vsu,ukraina,severodoneck,donbass,vojna
+page
+	set url https://www.depo.ua/ukr/politics/chairvnik-ne-priletit-na-shcho-natyaknuv-zelenskomu-ta-ukraintsyam-posadovets-derzhdepu-202103251301064
+	set tags gosdep,volshebnik,ukraina,usa
+page
+	set url https://gazeta.ua/articles/poglyad/_akbi-cornovil-stav-prezidentom-mi-mali-b-inshu-ukrayinu-kraschu/1022246
+	set tags ukraina,chernovol_vjacheslav,politika,ekonomika
+page
+	set url https://fakty.ua/371600-valentin-nalivajchenko-boevoe-oruzhie-alfy-vyvezli-v-doneck-ecshe-v-fevrale-2014-go-a-operativnye-materialy-sbu---v-simferopol
+	set tags ukraina,rossia,krym,sbu,nalivajchenko_valentin,2014
+page
+	set url https://meduza.io/feature/2021/03/25/germaniya-predlagaet-evrosoyuzu-zakupit-sputnik-v-neuzheli-v-evrope-vse-tak-ploho-so-svoimi-vaktsinami-i-pochemu
+	set tags evropa,vaccinacia,vaccine,sputnik_v,rossia
+page
+	set url https://www.radiosvoboda.org/a/skhemy-biznes-imperia-medvedchuka/31169247.html
+	set tags medvedchuk_viktor,dengi,rossia,ukraina,vlijanie,rassledovanie,finansy
+page
+	set url https://112ua.tv/mnenie/esli-by-zelenskiy-prinyal-plan-medvedchuka-po-vakcine-sputnik-v-v-ukraine-uzhe-seychas-nachalas-by-masshtabnaya-vakcinaciya-proverennoy-kachestvennoy-vakcinoy-572091.html
+	set tags ukraina,medvedchuk_viktor,vaccine,covid,sputnik_v,rossia,putin_vladimir
+page
+	set url https://plus.obozrevatel.com/crime/v-lutske-pozhilaya-zhenschina-vyipala-iz-okna-koronavirusnogo-gospitalya.htm
+	set tags ukraina,padenie,woman,stariki,suicid,covid,bolezn,bolnica
+page
+	set url https://www.dialog.ua/ukraine/226335_1616699033
+	set tags ukraina,nenavist,dikost',draka,marshrutka,mesto,kiev,obschestvo
+page
+	set url https://www.dialog.ua/world/226306_1616670790
+	set tags armenia,rossia,karabah,jazyk
+page
+	set url https://www.dialog.ua/ukraine/224205_1613672677
+	set tags krivoj_rog,ukraina,mova,skandal,ukrposhta
+page
+	set url https://www.dialog.ua/ukraine/224157_1613597314
+	set tags ukraina,skandal,mova
+page
+	set url https://www.dialog.ua/ukraine/223338_1612275278
+	set tags di_rubens,onackaja_taisia,ukraina,mova,skandal
+page
+	set url https://www.dialog.ua/ukraine/222293_1610616874
+	set tags ukraina,rossia,di_rubens,mova,skandal,onackaja_taisia
+page
+	set url https://www.dialog.ua/ukraine/224199_1613662660
+	set tags leonenko_liza,mova,skandal,kiev,ukraina
+page
+	set url https://www.dialog.ua/ukraine/223043_1611847437
+	set tags bilchenko_evgenia,vojna,skandal,mova,kiev,ukraina
+page
+	set url https://www.dialog.ua/ukraine/224031_1613421211
+	set tags kiev,kiva_ilja,ukraina,opzzh
+page
+	set url https://www.dialog.ua/science/224198_1613662169
+	set tags nasa,usa,perseverance,mars
+page
+	set url https://www.dialog.ua/ukraine/224203_1613668291
+	set tags donbass,life,dnr
+page
+	set url https://www.dialog.ua/ukraine/224539_1614169229
+	set tags krym,ukraina,rossia,sbu
+page
+	set url https://www.dialog.ua/opinion/224556_1614183701
+	set tags ukraina,rossia,jarosh_dmitrii,sternenko_sergei,sud
+page
+	set url https://www.dialog.ua/ukraine/224550_1614178919
+	set tags nackorpus,ukraina,kiva_ilja,opzzh
+page
+	set url https://www.dialog.ua/ukraine/225041_1614879270
+	set tags krym,zastrojka,foros,rossia
+page
+	set url https://www.dialog.ua/ukraine/161653_1538651348
+	set tags fekalii,ukraina,nikolaev,skandal,miskrada,draka
 eof
 off
 page

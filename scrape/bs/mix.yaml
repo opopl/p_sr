@@ -58,6 +58,7 @@ include:
     - news.ua.censor
     - news.ua.den
     - news.ua.depo
+    - news.ua.dialog
     - news.ua.fakty
     - news.ua.fraza
     - news.ua.fromua

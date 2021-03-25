@@ -5,6 +5,7 @@ sel:
     - .openPost-follow
     - .openPostAdvertising
     - .openPost-social
+    - .content-right
   only:
     - main
   keep:

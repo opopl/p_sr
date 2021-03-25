@@ -14498,15 +14498,23 @@ page
 page
 	set url https://kh.depo.ua/ukr/kh/gaz-i-biyka-u-kharkovi-z-ploshchi-svobodi-prognali-prorosiyskikh-aktivistiv-202001271102278
 	set tags ukraina,miting,harkov,lesik_andrej,jazyk,opzzh,mova,nackorpus,nenavist,draka,policia
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://news.obozrevatel.com/society/pereseleniya-narodov-rf-v-kryim-i-na-donbass-a-chto-posle-deokkupatsii.htm
 	set tags ukraina,rossia,vojna,donbass,opolchency,burjatia,gospital,doneck,debalcevo,interview,kobzon_iosif
 page
 	set url https://news.obozrevatel.com/politics/strategiya-deokkupatsii-i-reintegratsii-kryima-pochemu-ne-vspomnili-ob-ukrainskom-more.htm
 	set tags ukraina,rossia,krym,donbass,deokupacia,reintegracia,strategia
+page
+	set url https://www.depo.ua/static/longread/veselo-y-veselomy1/page14455102.html
+	set tags selo,veselje,ukraina,shevchenko_taras,travel,foto
+	set date 25_03_2021
+	set imgbase https://www.depo.ua/static/longread/veselo-y-veselomy/
+page
+	set url http://lug-info.com/news/one/pozdravlenie-ministra-kultury-sporta-i-molodezhi-lnr-s-dnem-rabotnika-kultury-65711
+	set tags lnr,kultura,prazdnik,pozdravlenie
+page
+	set url https://strana.ua/news/324574-semen-semenchenko-i-evhenij-shevchenko-chto-izvestno-o-razoblachenii-chvk-sbu.html
+	set tags ukraina,semenchenko_semen,sbu,shevchenko_evgenii,zaderzhanie,kriminal,ato,vojna,donbass,dobrobaty
 eof
 off
 page

@@ -30,6 +30,8 @@
 'hvylya.net' : { 'site' : 'news.ua.hvylya' }
 'zz.te.ua' : { 'site' : 'news.ua.zzte' }
 'nakipelo.ua' : { 'site' : 'news.ua.nakipelo' }
+'mediaport.ua' : { 'site' : 'news.ua.mediaport' }
+'depo.ua' : { 'site' : 'news.ua.depo' }
 
 ###news.by
 'tut.by' : { 'site' : 'news.by.tut' }

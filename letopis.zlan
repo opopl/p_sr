@@ -14405,6 +14405,108 @@ page
 page
 	set url https://zen.yandex.ru/media/masterwpoetry/genialnaia-citata-lorda-bairona-posle-kotoroi-hochetsia-verit-chto-jizn-ne-bessmyslenna-60389d01bfc70d5f47538c30
 	set tags bajron_lord,kultura,rossia,pushkin_aleksandr,lermontov_mihail,zhizn
+page
+	set url https://strana.ua/news/324541-na-bukovine-umer-provizor-posle-privivki-kovishild-ot-koronavirusa.html
+	set tags ukraina,smert,vaccinacia,covid,covishield,bukovyna,chernivci
+page
+	set url https://strana.ua/news/324484-vrach-razobrala-prichiny-smerti-odesskoj-voennosluzhashchej-posle-vaktsiny-covishield.html
+	set tags vaccinacia,ukraina,covishield,smert,analiz,vrach,minzdrav,tromboz,serdce,ateroskleroz,narozhnaja_inna.odessa
+page
+	set url https://strana.ua/news/324387-v-mozdoke-ubili-chempiona-mira-mma.html
+	set tags rossia,murder,osetia.sever,mozdok
+page
+	set url https://strana.ua/news/324405-kak-obojti-blokirovku-sajtov-bez-vpn-hde-chitat-tass-hazetaru-i-druhie-sajty.html
+	set tags ukraina,zapret,cenzura,internet,vpn,browser.tor
+page
+	set url https://strana.ua/news/324510-mirnyj-plan-frantsii-i-hermanii-po-donbassu-hlavnye-punkty-vozrazhenija-kieva-i-moskvy.html
+	set tags ukraina,rossia,mirnyj_plan,francia,germania,peregovory,mir,vojna,donbass
+page
+	set url https://strana.ua/news/324357-na-sajte-prezidenta-ukrainy-napisali-chto-u-neho-istekli-polnomochija.html
+	set tags ukraina,prezident,polnomochia,konec,kurjez,internet
+page
+	set url https://from-ua.com/news/592406-v-kovid-bolnicah-rovno-medsestri-uzhe-padayut-v-obmorok.html
+	set tags ukraina,covid,gospital,rovno,bolnica,medik,zabolevajemost'
+page
+	set url https://from-ua.com/news/592750-sekretar-snbo-zayavil-chto-donbassa-ne-suschestvuet.html
+	set tags ukraina,danilov_aleksei,donbass,nazvanie
+page
+	set url https://from-ua.com/news/592407-mid-bez-tendera-potratil-polmilliona-na-napolnenie-vikipedii.html
+	set tags ukraina,mzs,wikipedia,tender
+page
+	set url https://blogs.pravda.com.ua/authors/popova/605b80570c81f/
+	set tags rossia,ruptly,infvojna,russia_today
+page
+	set url https://news.obozrevatel.com/ukr/politics/ukraina-pereglyane-pyat-stsenariiv-rozvitku-situatsii-na-donbasi-danilov.htm
+	set tags ukraina,rossia,donbass,vojna,danilov_aleksei
+page
+	set url https://news.obozrevatel.com/ukr/society/likarni-zabiti-lyudej-kladut-v-koridorah-i-v-idalnyah-yak-koronavirus-vdariv-po-mikolaevu.htm
+	set tags ukraina,nikolaev,covid,zabolevajemost',bolezn
+page
+	set url https://www.radiosvoboda.org/a/vaccine-covid/31167765.html
+	set tags narozhnaja_inna.odessa,ukraina,smert,vaccinacia,covid,vaccine,covishield
+page
+	set url https://lenta.ru/news/2021/03/24/uznavayka/
+	set tags rossia,sputnik_v,vaccine,covid,world,internet
+page
+	set url https://lenta.ru/news/2021/03/24/zakupka/
+	set tags rossia,germania,sputnik_v,covid,vaccine
+page
+	set url https://blogs.pravda.com.ua/authors/danilov/46c31ec652310/
+	set tags kravchuk_leonid,grustno,moral,ukraina,kommentarii,blogger
+page
+	set url https://fraza.com/fraze/299035-aleksej-danilov
+	set tags danilov_aleksei,donbass,ukraina,fraza
+page
+	set url https://fraza.com/news/299040-peregovory-tkg-zashli-v-tupik-iz-za-nezhelanija-kieva-vesti-peregovory-s-ordlo-kak-so-storonoj-konflikta-smi
+	set tags ukraina,kiev,minsk_dogovor,tkg,donbass,vojna
+page
+	set url http://lug-info.com/news/one/luganskii-dvorets-kultury-provel-vecher-pamyati-vladimira-dalya-rodnye-rossypi-zhemchuzhin-foto-65870
+	set tags lnr,lugansk,dal'_vladimir,pamjat,zhemchuzina,kultura
+page
+	set url http://lug-info.com/news/one/od-mir-luganschine-peredalo-podarki-patsientam-luganskoi-detskoi-tuberkuleznoi-bolnitsy-foto-65868
+	set tags lnr,mir_luganschine,podarki,deti,tuberculosis,bolnica,pomosch
+page
+	set url https://gazeta.ua/blog/54799/pohovani-smittyam-ce-filmpoperedzhennya-dlya-ukrayinciv
+	set tags ukraina,kiev,musor,zhizn
+page
+	set url https://vz.ru/opinions/2021/3/24/1090636.html
+	set tags rossia,nenavist,magia
+page
+	set url https://gazeta.ua/articles/history/_znyali-film-pro-podiyi-v-ukrayini-1918go/1021162
+	set tags istoria,ukraina,kino,1918,druzhba,chelovek,deti,evrei,odessa
+page
+	set url https://lenta.ru/brief/2021/03/15/no_zeneca/
+	set tags vaccinacia,covid,ostanovka,astrazeneka,tromboembolia,pobochka,evropa,postavka,vaccine
+page
+	set url https://www.radiosvoboda.org/a/news-chubarov-volkov-krym/31168036.html
+	set tags krym,ukraina,rossia,navalny,chubarov_refat
+page
+	set url https://www.radiosvoboda.org/a/navalny-nationalism-and-democracy/31095791.html
+	set tags navalny,kiev,ukraina,babushka,chernobyl,detstvo,rossia,oppozicia
+page
+	set url https://news.obozrevatel.com/tv/pod-kharkovom-razbili-kamen-druzhbi-rf-i-ukrainy-mp4.htm
+	set tags rossia,ukraina,druzhba,vandalizm,kamen',harkov,opzzh,selo,lesik_andrej
+page
+	set url https://plus.obozrevatel.com/crime/pod-harkovom-razbili-kamen-druzhbyi-s-rf-vosstanovlennyij-deputatom-opzzh-foto-i-video.htm
+	set tags lesik_andrej,opzzh,ukraina,rossia,druzhba,selo,vandalizm,nenavist,kamen'
+page
+	set url https://plus.obozrevatel.com/crime/uebvaj-otsyuda-v-harkove-eks-deputat-sobral-miting-za-russkij-yazyik-no-ego-zabrosali-yajtsami.htm
+	set tags lesik_andrej,ukraina,harkov,miting,nenavist,jazyk,shkola,nacionalist,nackorpus,zakon,opzzh
+page
+	set url https://www.mediaport.ua/sutichki-bilya-harkivskoyi-oda-yak-evakuyuvali-lesika
+	set tags ukraina,jazyk,mova,opzzh,chemodan,vokzal,rossia,lesik_andrej,nackorpus,nenavist,harkov
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://kh.depo.ua/ukr/kh/gaz-i-biyka-u-kharkovi-z-ploshchi-svobodi-prognali-prorosiyskikh-aktivistiv-202001271102278
+	set tags ukraina,miting,harkov,lesik_andrej,jazyk,opzzh,mova,nackorpus,nenavist,draka,policia
+page
+	set url https://news.obozrevatel.com/society/pereseleniya-narodov-rf-v-kryim-i-na-donbass-a-chto-posle-deokkupatsii.htm
+	set tags ukraina,rossia,vojna,donbass,opolchency,burjatia,gospital,doneck,debalcevo,interview,kobzon_iosif
+page
+	set url https://news.obozrevatel.com/politics/strategiya-deokkupatsii-i-reintegratsii-kryima-pochemu-ne-vspomnili-ob-ukrainskom-more.htm
+	set tags ukraina,rossia,krym,donbass,deokupacia,reintegracia,strategia
 eof
 off
 page

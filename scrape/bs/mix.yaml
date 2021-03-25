@@ -54,15 +54,19 @@ include:
 ###news_ua
     - news.ua.112ua
     - news.ua.apostrof
+    - news.ua.beztabu
     - news.ua.censor
     - news.ua.den
+    - news.ua.depo
     - news.ua.fakty
     - news.ua.fraza
     - news.ua.fromua
     - news.ua.gazeta
     - news.ua.glavred
     - news.ua.gordon
+    - news.ua.hvylya
     - news.ua.lb
+    - news.ua.mediaport
     - news.ua.newsone
     - news.ua.oboz
     - news.ua.pravda
@@ -71,12 +75,9 @@ include:
     - news.ua.sharij
     - news.ua.strana
     - news.ua.tyzhden
+    - news.ua.volyn
     - news.ua.zaxid
     - news.ua.zik
-    - news.ua.beztabu
-    - news.ua.volyn
-    - news.ua.hvylya
-    # za zbruchem, ternopil
     - news.ua.zzte
     #- news.ua.nakipelo
     #- news.ua.sprotyv

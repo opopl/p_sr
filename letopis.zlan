@@ -14733,6 +14733,12 @@ page
 page
 	set url https://www.dialog.ua/ukraine/161653_1538651348
 	set tags fekalii,ukraina,nikolaev,skandal,miskrada,draka
+page
+	set url https://censor.net/ru/blogs/3255461/geroi_nashego_vremeni
+	set tags geroi,vremja,ukraina,kiva_ilja,kultura,mentalitet,nacia,deti,ucheba
+page
+	set url https://censor.net/ru/blogs/3255325/vtannya_slava_ukran_tse_porushennya
+	set tags ukraina,sud,maidan2
 eof
 off
 page

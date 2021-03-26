@@ -86,7 +86,9 @@ include:
     #- news.ua.nakipelo
     #- news.ua.sprotyv
     #- news.anglia.bbc
+###pc_articles
     - pc.articles.sitepoint
+    - pc.articles.linuxize
     - pc.articles.habr
     - pc.articles.pavlutin
     #- pc.cairographics 
@@ -95,6 +97,7 @@ include:
 ###vera_ru
     - vera.ru.pravoslavie
     - vera.ru.radonezh
+    - vera.ru.islam
 
 ###ludi
     - ludi.ua.buzina

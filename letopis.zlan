@@ -15126,6 +15126,63 @@ page
 page
 	set url https://news.allcrimea.net/news/2021/3/26/gibel-patsienta-v-bolnitse-sevastopolya-podtverdilas-144442/
 	set tags sevastopol,smert,pacient,bolnica,krym,rossia
+page
+	set url https://zen.yandex.ru/media/andreytkachev__official/na-strashnom-sude-gospod-bog-iisus-hristos-pokajet-tebe-na-balerinu-6050698be781846a4035da00
+	set tags rusmir,pravoslavie,vera,cerkov,strashnyj_sud,hristos,balerina,velikij_post,velykden'
+page
+	set url https://zen.yandex.ru/media/andreytkachev__official/prostite-nas-604b9c2faf41a36641aeccf2
+	set tags proschenije,vera,cerkov
+page
+	set url https://regnum.ru/news/polit/3167024.html
+	set tags ukraina,rossia,zapad,jama,medvedchuk_viktor,opzzh
+page
+	set url https://zen.yandex.ru/media/rasskaz_na_odnu_ostanovky/ostorojno-na-perekrestke-russkie-6059ea8efaad2a19c3e4f4dd
+	set tags berlin,russkie,rusmir,mentalitet,fjurer,perekrestok,svetofor,germania
+page
+	set url http://islam.ru/content/person/41962
+	set tags hajam_omar,imja,islam,1048,1122,poezia,istoria,kultura,rossia,iran,zagadka,mudrost,chelovek
+page
+	set url https://linuxize.com/post/how-to-setup-ssh-tunneling/
+	set tags ssh,pc,tunnel
+page
+	set url http://lug-info.com/news/one/luganskaya-khudozhnitsa-predstavila-vystavku-kartin-vypolnennykh-v-tekhnike-batik-foto-65966
+	set tags lnr,lugansk,hudozhnik,vystavka,kultura,isskustvo
+page
+	set url http://lug-info.com/news/one/molodezh-iz-stakhanova-posetila-kinolektorii-posvyaschennyi-220-letiyu-so-dnya-rozhdeniya-dalya-foto-65969
+	set tags dal'_vladimir,lnr,stahanov.lnr,220_let,molodezh,aktivist,jazyk,kultura,biblioteka,grinchenko_boris.mova
+page
+	set url https://www.radiosvoboda.org/a/strategiya-zelensky-donbas-oborona/31171188.html
+	set tags rossia,ukraina,donbass,strategia,agressor,vojna,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/donbas-realii/29014146.html
+	set tags donbass,ukraina,vojna
+page
+	set url https://strana.ua/sport/news/324960-rossijskie-fihuristki-vpervye-v-istorii-zanjali-ves-pedestal-na-chm-2021.html
+	set tags rossia,figurist,chempionat,pobeda,flag,gimn,chajkovskij_petr.kompozitor
+page
+	set url https://strana.ua/sport/news/324354-video-kak-sasha-trusova-ispolnila-pjat-chetvernykh-pryzhkov-podrjad-i-ne-upala.html
+	set tags trusova_aleksandra,figurist,led,rossia,trenirovka
+page
+	set url https://strana.ua/news/250412-v-kitae-umer-ukrainskij-fihurist-nikolaj-bondar.html
+	set tags kitaj,sport,ukraina,smert,bondar'_nikolaj.figurist.ukraina,serdce
+page
+	set url https://www.pravda.com.ua/news/2021/03/26/7288036/
+	set tags rossia,ukraina,vojna,krym,oon,rezolucia,world
+page
+	set url https://vz.ru/news/2021/3/26/1091518.html
+	set tags usa,rossia,most,remont,statistika,biden_joe,infrastruktura
+page
+	set url https://vz.ru/news/2021/3/26/1091542.html
+	set tags dnr,donbass,shumy.donbass.poselok,smert,mina,vsu,ukraina,vojna,oos
+page
+	set url https://news.obozrevatel.com/politics/kravchuk-rossiya-hochet-unichtozhit-ukrainu-minskie-dogovorennosti-pod-ugrozoj.htm
+	set tags ukraina,rossia,kravchuk_leonid,vojna,donbass,minsk_dogovor
+page
+	set url https://news-front.info/2021/03/26/ubijstvennyj-molot-ukrainskoe-chudo-oruzhie-uneslo-zhizni-ocherednyh-boevikov-vsu/
+	set tags ukraina,artilleria,armia,vsu,oruzhie,smert,donbass,vojna,molot
+page
+	set url https://news-front.info/2021/03/26/v-kieve-soobshhili-o-likvidaczii-chetyreh-ukrainskih-karatelej/
+	set tags ukraina,donbass,kiev,vojna,smert,gorlovka,dnr,nm_dnr
 eof
 off
 page

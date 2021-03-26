@@ -97,6 +97,7 @@
 ###vera
 'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }
 'radonezh.ru'    : { 'site' : 'vera.ru.radonezh' }
+'islam.ru'       : { 'site' : 'vera.ru.islam' }
 
 ###video
 'youtube.com'    : { 'site' : 'video.youtube' }
@@ -104,6 +105,7 @@
 ###pc
 
 'habr.com' : { 'site' : 'pc.articles.habr' }
+'linuxize.com' : { 'site' : 'pc.articles.linuxize' }
 
 'stackoverflow.com' : { 'site' : 'pc.stackoverflow' }
 'cairographics.org' : { 'site' : 'pc.cairographics' }

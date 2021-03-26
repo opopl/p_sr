@@ -1,4 +1,4 @@
-on
+off
 page 
 	set url https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
 	set ii sternenko_mova_odessa
@@ -5901,7 +5901,6 @@ page
 page
 	set url https://gazeta.ua/blog/51992/nova-moskovska-norma-shalenimi-tempami-prosuvayetsya-po-vsih-napryamkah
 	set tags ukraina,portnov_andrei,moskva,rossia,norma
-on
 page
 	set url https://news.allcrimea.net/news/2021/2/27/poklonskaya-ishet-kontakt-s-ukrainskimi-politikami-143394/
 	set tags poklonskaja_natalia,krym,rossia,ukraina
@@ -14832,6 +14831,61 @@ page
 page
 	set url https://strana.ua/news/324800-bajden-polzovalsja-shparhalkami-na-press-konferentsii.html
 	set tags usa,biden_joe,zhurnalist,shpargalka,bumaga,press_konferencia,kitaj,starik
+on
+page
+	set url https://blogs.korrespondent.net/blog/world/4341587/
+	set tags ulybka,psihologia,ukraina,ekonomika,pokupka,dengi,finansy
+page
+	set url https://blogs.korrespondent.net/blog/events/4122834/
+	set tags rabota,world,molodezh,ekonomika,ukraina,psihologia,dengi,professia
+page
+	set url https://blogs.korrespondent.net/blog/events/4338518/
+	set tags arestovich_aleksei,ljubov,nkvd,ukraina,rossia,kreml,patriot
+page
+	set url https://blogs.korrespondent.net/blog/events/3954068/
+	set tags prokopovych_feofan,ukraina,rossia,projekt,mozaika,kievrus,istoria,nacia,mentalitet,novgorod,kiev,2014,maidan2,future,kreml,filosofia
+page
+	set url https://blogs.korrespondent.net/blog/events/3877277/
+	set tags ukraina,ilovajsk,rassledovanie,tragedia,vlast,rossia,vojna,donbass,23_aug,2014
+page
+	set url https://blogs.korrespondent.net/blog/politics/4328138/
+	set tags ukraina,mova,jazyk,kafe,kriminal,draka,nozh,opzzh,skandal
+page
+	set url https://blogs.korrespondent.net/blog/politics/4032408/
+	set tags ukraina,strana,porjadok,objedinenie,opzzh,rabinovich_vadim,bojko_jurij.opzzh
+page
+	set url https://blogs.korrespondent.net/blog/politics/4339271/
+	set tags ukraina,rusmir,dekomunizacia,opzzh,verhovna_rada,zapret
+page
+	set url https://blogs.korrespondent.net/blog/events/4336386/
+	set tags geroi,predatelstvo,predatel',donbass,dnr,ukraina,vojna,ilovajsk
+page
+	set url https://blogs.korrespondent.net/blog/events/4337989/
+	set tags parazit,ukraina,donbass,vojna,geroi
+page
+	set url https://strana.ua/news/324803-voennaja-stratehija-ukrainy-2021-hlavnye-polozhenija-i-rol-rossii.html
+	set tags ukraina,oborona,strategia,zelenskii_vladimir,armia,mobilizacia,rossia,nato,analiz
+page
+	set url https://strana.ua/news/324513-dovybory-v-radu-vo-frankovskoj-oblasti-kakovy-shansy-u-kandidatov-.html
+	set tags ukraina,zelenskii_vladimir,bandera_stepan,vybory,ivano_frankovsk,silach,bukovel'
+page
+	set url https://strana.ua/opinions/324850-chem-ukraintsy-khuzhe-ujhurov.html
+	set tags ukraina,usa,kitaj,cennosti,biden_joe,press_konferencia,ujgury
+page
+	set url https://vz.ru/opinions/2021/3/26/1091321.html
+	set tags rossia,kultura,sobchak_ksenia,interview,ad,zapret,manjak,mohov_viktor
+page
+	set url https://inosmi.ru/social/20210326/249428545.html
+	set tags usa,biden_joe,konfuz,press_konferencia,rossia,pandemia,covid,shkola,strelba,oruzhie,kitaj
+page
+	set url https://inosmi.ru/politic/20210326/249427056.html
+	set tags biden_joe,usa,press_konferencia,starik,demencia,shpargalka
+page
+	set url https://gazeta.ua/articles/life/_bidno-smishno-i-bez-smaku-ak-v-srsr-prohodili-diskoteki-foto/1022007
+	set tags diskoteka,sssr,istoria,muzyka,kultura,1970,1985,abba.gruppa
+page
+	set url https://gazeta.ua/articles/yurij-strigun/_pamyatnik-zyatevi/1022071
+	set tags dekomunizacia,golodomor,ukraina,istoria,pamjatnik,pamjat,kommunizm,sssr,zjat',dubkoveckij_fedor.kommunist,kolgosp,hruschov_nikita
 eof
 off
 page

@@ -15018,6 +15018,54 @@ page
 page
 	set url https://meduza.io/news/2021/03/26/eto-proizvol-za-kotoryy-rossiyskie-vlasti-dolzhny-otvetit-amnesty-international-o-zhalobah-navalnogo-na-pytki-v-kolonii
 	set tags rossia,navalny,kolonia,tjurma,zhaloba,amnesty_international,politika,pytka
+page
+	set url https://meduza.io/feature/2021/03/26/sozdateli-epivakkorony-opublikovali-pervuyu-nauchnuyu-statyu-ne-v-lancet-a-v-maloizvestnom-rossiyskom-zhurnale-hotya-obeschali-zarubezhnyy
+	set tags vaccine,medicina,covid,rossia,epivakkorona,publikacia
+page
+	set url https://meduza.io/feature/2021/03/26/kak-sputnik-v-pomogaet-rossiyskoy-vlasti-vyigryvat-u-zapada-mirovozzrencheskiy-spor
+	set tags rossia,evropa,sputnik_v,vaccine,covid,mirovozrenie
+page
+	set url https://gazeta.ua/articles/world-life/_krayini-svitu-zobovyazalisya-ne-vikoristovuvati-himichnu-ta-biologichnu-zbroyu/1022364
+	set tags 26_mar,1975,oruzhie,oruzhie.himicheskoje,oruzhie.biologicheskoje,konvencia,sssr,usa,istoria,planeta
+page
+	set url https://gazeta.ua/articles/yermolenko/_comu-varto-chitati-knizhki/1022136
+	set tags chtenie,kniga,literatura,kultura,ukraina,filosofia
+page
+	set url https://gazeta.ua/articles/world-life/_cerez-zemletrus-zaginuli-do-20-tis-lyudej-a-stolicya-lezhala-na-90-v-ruyinah/1022361
+	set tags 1812,venezuela,earthquake,istoria,tragedia,usa,bolivar_simon,26_mar
+page
+	set url https://gazeta.ua/articles/world-life/_alabamu-nakrila-seriya-tornado-pershi-podrobici-ta-kadri-rujnuvan/1022388
+	set tags alabama,usa,tornado,razrushenie,priroda
+page
+	set url https://gazeta.ua/blog/54817/zamist-epohi-bidnosti-pochalasya-epoha-pofigizmu-nebezpechnij-chas
+	set tags pofigizm,bednost',epoha,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/yde-viyna-mentalna-gibrydna-viyna
+	set tags rossia,usa,infvojna,putin_vladimir,biden_joe,killer
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/negostynne-more
+	set tags black_sea,ukraina,more,rossia,krym,conan_barbarian,kimerijcy,istoria
+page
+	set url https://day.kyiv.ua/uk/article/den-planety/chomu-suputnyk-v-ne-lyublyat-u-yevropi
+	set tags evropa,rossia,ljubov,sputnik_v,vaccine,covid,ukraina
+page
+	set url https://fraza.com/video/299094-pogrebinskij-u-zelenskogo-boga-net-i-prezidentom-on-bolshe-ne-stanet
+	set tags fraza,zelenskii_vladimir,ukraina,interview,pogrebinskii_mihail,bog,prezident,vybory
+page
+	set url https://news.obozrevatel.com/society/vaktsinatsiya-pensionerov-v-kieve-v-aktivnoj-faze-privityie-covishield-rasskazali-o-samochuvstvii.htm
+	set tags ukraina,pensioner,vaccinacia,vaccine,covishield,vpechatlenie,zdorovje
+page
+	set url https://ukraina.ru/opinion/20210326/1030961233.html
+	set tags ukraina,kanev,zapovednik,shevchenko_taras,dnepr,poezia,pesok,dobycha
+page
+	set url https://hvylya.net/interview/227654-strana-v-processe-tyazhelyh-rodov
+	set tags ukraina,strana,nacia,derzhava,future,obschestvo,ludi,drug,cennosti,elita,doverie,reputacia,razvitie,aristotel',missia,izrail,1948,ceo_club,mudrost,myshlenie,chelovek
+page
+	set url https://analytics.hvylya.net/226598-ukraina-v-krizise-stupenchataya-ideologiya
+	set tags ukraina,krizis,ideologia,stupen',okkam_william.filosof,britva_okkama,filosofia,future,obschestvo
+page
+	set url https://zen.yandex.ru/media/trickster/chto-takoe-britva-okkama-i-zachem-okkam-pridumal-britvu-5ec973366f66a73416325889
+	set tags okkam_william.filosof,britva_okkama,filosofia,mudrost,myshlenie,istoria,1285,1347,oxford_university,anglia,nauka
 eof
 off
 page

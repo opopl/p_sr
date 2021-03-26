@@ -14928,6 +14928,21 @@ page
 page
 	set url http://lug-info.com/news/one/vsu-obstrelyali-predstavitelei-lnr-v-stskk-fiksirovavshikh-posledstviya-obstrela-zolotogo-5-65953
 	set tags ukraina,vojna,donbass,obstrel,vsu,lnr,nm_lnr
+page
+	set url https://zen.yandex.ru/media/stepan_korolkov/za-chto-ty-tak-liubish-rossiiu-ia-by-uje-davno-svalil-kudanibud-sprosil-menia-znakomyi-moi-otvet-ego-udivil-605a482d248b873219df98cd
+	set tags rossia,rodina,ljubov,patriotizm,emigracia,drug,vopros,otvet,udivlenie
+page
+	set url https://zen.yandex.ru/media/gfin/ia-rad-tomu-chto-v-rossii-vse-ne-tak-kak-v-normalnyh-stranah-6054b9fdac448d29c965d8f9
+	set tags rossia,patriotizm,norma,strana,radost',gordost'
+page
+	set url https://zen.yandex.ru/media/ig_rek/rossiiskie-smartofny-perestali-byt-mifom-rasskaju-ob-otechestvennoi-modeli-kotoraia-legko-konkuriruet-s-kitaiskimi-kompaniiami-604ddd67011181447bde5a75
+	set tags rossia,smartfon,telefon,tehnologia,mif,kitaj,it,novinka
+page
+	set url https://zen.yandex.ru/media/id/5eeaf725a3dca453cfdd4b58/istoriia-vtorjeniia-iavlenie-giperborei--zemli-bogov-6012fec0f26bf62c16616924
+	set tags rossia,giberborej,kultura,istoria,rusmir,beringov_proliv,more
+page
+	set url https://zen.yandex.ru/media/maksina/prorocheskoe-stihotvorenie-nikolaia-rubcova-6006e7281f435e52d4f2f5da
+	set tags rubcov_nikolaj.poet,prorochestvo,poezia,rossia,kultura,literatura,1970
 eof
 off
 page

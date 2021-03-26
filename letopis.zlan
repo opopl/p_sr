@@ -15108,6 +15108,24 @@ page
 page
 	set url https://www.pravda.com.ua/columns/2020/06/29/7257522/
 	set tags rossia,respublika,obschestvo,derzhava,nacia
+page
+	set url https://strana.ua/news/324939-fotohrafii-duba-kotoryj-rastet-v-chernobylskom-zapovednike.html
+	set tags chernobyl,dub,zhizn,derevo,zhelanie,obryv,priroda,ukraina,zapovednik
+page
+	set url https://strana.ua/news/321102-foto-rysi-u-chernobylja-pantera-severnykh-lesov-v-zone-otchuzhdenija-aes.html
+	set tags chernobyl,pantera,foto,ukraina,zapovednik,priroda
+page
+	set url https://www.radiosvoboda.org/a/voyenna-strategiya-ukrainy-rosiya-protyvnyk/31171477.html
+	set tags ukraina,rossia,agressor,strategia,vojna,krym,donbass,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/strategiya-deokupatsii-krymu-otsinky/31171434.html
+	set tags ukraina,krym,rossia,putin_vladimir,deokupacia,strategia
+page
+	set url https://lenta.ru/articles/2021/03/26/kaz/
+	set tags rossia,kazahstan,jazyk,mrakobesie,obschestvo,obrazovanie,deti,shkola,latinica,kirillica,language.kazah,nacia
+page
+	set url https://news.allcrimea.net/news/2021/3/26/gibel-patsienta-v-bolnitse-sevastopolya-podtverdilas-144442/
+	set tags sevastopol,smert,pacient,bolnica,krym,rossia
 eof
 off
 page

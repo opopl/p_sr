@@ -58,6 +58,7 @@ include:
     - news.ua.beztabu
     - news.ua.censor
     - news.ua.den
+    - news.ua.korrespondent
     - news.ua.depo
     - news.ua.dialog
     - news.ua.racurs

@@ -14829,9 +14829,6 @@ page
 page
 	set url https://racurs.ua/2836-delo-o-neprivitom-rebenke-obschestvennyy-interes-vyshe-lichnogo.html
 	set tags deti,konstitucia,privivka,obrazovanie,ukraina,vaccinacia,otkaz,detsad,spravka,sud,2019
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://strana.ua/news/324800-bajden-polzovalsja-shparhalkami-na-press-konferentsii.html
 	set tags usa,biden_joe,zhurnalist,shpargalka,bumaga,press_konferencia,kitaj,starik

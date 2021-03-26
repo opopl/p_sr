@@ -34,6 +34,7 @@
 'depo.ua' : { 'site' : 'news.ua.depo' }
 'dialog.ua' : { 'site' : 'news.ua.dialog' }
 'racurs.ua' : { 'site' : 'news.ua.racurs' }
+'korrespondent.net' : { 'site' : 'news.ua.korrespondent' }
 
 ###news.by
 'tut.by' : { 'site' : 'news.by.tut' }

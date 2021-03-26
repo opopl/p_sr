@@ -103,6 +103,8 @@
 
 ###pc
 
+'habr.com' : { 'site' : 'pc.articles.habr' }
+
 'stackoverflow.com' : { 'site' : 'pc.stackoverflow' }
 'cairographics.org' : { 'site' : 'pc.cairographics' }
 'cairosvg.org' : { 'site' : 'pc.cairosvg' }

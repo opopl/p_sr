@@ -87,6 +87,7 @@ include:
     #- news.ua.sprotyv
     #- news.anglia.bbc
     - pc.articles.sitepoint
+    - pc.articles.habr
     - pc.articles.pavlutin
     #- pc.cairographics 
     #- pc.cairosvg

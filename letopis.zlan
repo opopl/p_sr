@@ -14943,6 +14943,9 @@ page
 page
 	set url https://zen.yandex.ru/media/maksina/prorocheskoe-stihotvorenie-nikolaia-rubcova-6006e7281f435e52d4f2f5da
 	set tags rubcov_nikolaj.poet,prorochestvo,poezia,rossia,kultura,literatura,1970
+page
+	set url https://habr.com/ru/post/435546/
+	set tags pc,ssh,tunnel,sovet
 eof
 off
 page

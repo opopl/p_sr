@@ -15069,6 +15069,12 @@ page
 page
 	set url https://analytics.hvylya.net/227610-chuv-dzvin-ta-ne-znayu-de-vin
 	set tags dzvin,ukraina,analitika,fejk,vsu
+page
+	set url https://hvylya.net/analytics/society/2010-09-25-05-52-49.html
+	set tags ukraina,nacionalizm,mentalitet,nacia,obschestvo,galicia,malorossia,doncov_dmitrij,moskali,novorossia,nkvd,bandera_stepan,sssr,istoria,ideologia,bolsheviki
+page
+	set url https://hvylya.net/analytics/society/2010-09-23-21-13-14.html
+	set tags chelovek,oruzhie,vera,filosofia,soznanie,psihologia,mudrost,zapoved,strah
 eof
 off
 page

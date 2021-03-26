@@ -14739,6 +14739,69 @@ page
 page
 	set url https://censor.net/ru/blogs/3255325/vtannya_slava_ukran_tse_porushennya
 	set tags ukraina,sud,maidan2
+page
+	set url https://regnum.ru/news/polit/3225591.html
+	set tags deokupacia,zelenskii_vladimir,kiev,ukraina,krym,rossia,rnbo,kommentarii
+page
+	set url https://www.vesti.ru/article/2541928
+	set tags rossia,sport,mishina_anastasia.figurist,galljamov_aleksandr.figurist,figurist,zoloto,medal',stokholm,shvecia
+page
+	set url https://inosmi.ru/politic/20210326/249422372.html
+	set tags rossia,oruzhie,posejdon,apokalipsis,world
+page
+	set url https://inosmi.ru/social/20210326/249424681.html
+	set tags rossia,finlandia,interview,svoboda,molodezh,protest
+page
+	set url https://ukraina.ru/opinion/20210325/1030941846.html
+	set tags ukraina,donbass,rnbo,danilov_aleksei,slovo,slovo.donbass
+page
+	set url https://ukraina.ru/exclusive/20210325/1030948976.html
+	set tags ukraina,elita,derzhava,smena
+page
+	set url https://video.hvylya.net/227343-lohi-na-bankovoy-itogi-ocherednoy-akcii-sternenko-pod-op
+	set tags ukraina,video,pogrom.20_03_2021,sternenko_sergei,razbor,obsuzhdenie,patriot,ruina
+page
+	set url https://112ua.tv/statji/nasledniki-satany-kak-segodnya-vyzhivaet-kb-yuzhnoe-kolybel-yadernogo-shhita-sssr-571795.html
+	set tags ukraina,dnepropetrovsk,kb_juzhnoe,sssr,raketa
+page
+	set url https://strana.ua/news/324778-krymskij-konfuz-sbu-chvk-semenchenko-tsena-zvonka-bajdena-zelenskomu.html
+	set tags ukraina,sbu,medvedchuk_viktor,opzzh,partia.ukrainskij_vybor,rassledovanie,krym,2014,rossia,itogi,zelenskii_vladimir,biden_joe,usa
+page
+	set url https://strana.ua/news/324617-v-hosdepe-rasskazali-o-tom-pochemu-bajden-do-sikh-por-ne-pohovoril-s-zelenskim.html
+	set tags zelenskii_vladimir,biden_joe,ukraina,usa,telefon,zvonok,ozhidanie
+page
+	set url https://strana.ua/news/323233-pochemu-bajden-ne-zvonit-zelenskomu-mnenie-deputatov-rady.html
+	set tags usa,ukraina,zelenskii_vladimir,biden_joe,zvonok,telefon,verhovna_rada
+page
+	set url https://strana.ua/opinions/322852-evropejskie-posly-ne-ponimajut-pochemu-u-nas-tak-zhdut-zvonka-ot-bajdena.html
+	set tags usa,ukraina,biden_joe,telefon,zvonok,evropa,udivlenie,zelenskii_vladimir
+page
+	set url https://strana.ua/news/324663-bajden-press-konferentsija-smotret-onlajn-na-russkom-hlavnye-zajavlenija.html
+	set tags usa,rossia,ukraina,press_konferencia,biden_joe,zhurnalisty
+page
+	set url https://strana.ua/news/324786-skolko-v-ukraine-bolnykh-covid-19-dannye-na-26-marta-2021-hoda.html
+	set tags ukraina,covid,statistika,antirekord,rekord,zabolevajemost'
+page
+	set url https://strana.ua/opinions/323855-i-putin-i-bajden-i-si-i-dzhonson-i-dazhe-poroshenko-turchinovy-politiki-ubijtsy.html
+	set tags killer,politika,putin_vladimir,biden_joe,usa,rossia,kitaj,proshloje,istoria
+page
+	set url https://www.pravda.com.ua/news/2021/03/25/7287875/
+	set tags moldova,rossia,evropa,sputnik_v,vaccine,covid,sandu_maja.moldova.prezident
+page
+	set url https://www.istpravda.com.ua/columns/2021/03/23/159196/
+	set tags scott_robert,istoria,dnevnik,kniga,planeta,antarktida,hohol,publikacia,1910
+page
+	set url https://www.pravda.com.ua/columns/2009/12/4/4517914/
+	set tags ukraina,mentalitet,strah,psihologia,ideologia,sssr,sovdep,sovok,nacia,zavist',chelovek,berdjaev_nikolaj.filosof,lenin_vladimir
+page
+	set url https://www.pravda.com.ua/columns/2019/03/4/7208249/
+	set tags maidan3,future,ukraina,maidan2,vradiivka,obschestvo,lavina,kamen',mysli,revolucia,dostoinstvo
+page
+	set url https://www.pravda.com.ua/articles/2009/07/29/4118149/
+	set tags ukraina,revolucia,mysli,future,shevchenko_taras,lustracia,korupcia,filosofia,fraza,voroshilovskii_strelok.film,spravedlivost,suicid
+page
+	set url https://www.pravda.com.ua/articles/2009/03/13/3801983/
+	set tags ukraina,revolucia,molodezh,morkva,shekli_robert,lukovica,zhurnalist
 eof
 off
 page

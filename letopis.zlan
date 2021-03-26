@@ -14886,6 +14886,48 @@ page
 page
 	set url https://gazeta.ua/articles/yurij-strigun/_pamyatnik-zyatevi/1022071
 	set tags dekomunizacia,golodomor,ukraina,istoria,pamjatnik,pamjat,kommunizm,sssr,zjat',dubkoveckij_fedor.kommunist,kolgosp,hruschov_nikita
+page
+	set url https://blogs.korrespondent.net/blog/world/4341311/
+	set tags rossia,mohov_viktor,interview,polomka,strana,sobchak_ksenia,chelovek,manjak
+page
+	set url https://strana.ua/news/324854-ternopol-usilivaet-karantin-iz-za-katastroficheskoho-rosta-zabolevaemosti-sovid-19.html
+	set tags ternopil,ukraina,karantin,covid,zabolevajemost'
+page
+	set url https://lenta.ru/news/2021/03/26/barba/
+	set tags covid,latvia,drug,putin_vladimir,rossia,pandemia
+page
+	set url https://regnum.ru/news/society/3226265.html
+	set tags rassledovanie,buzina_oles,ukraina,sud,buzina.vp,zhurnalist,mid_rf,opasnost',murder,kriminal
+page
+	set url https://buzina.org/golos-naroda/3934-2021.html
+	set tags gejts_bill,predskazanie,world,planeta,pandemia,2021,future,optimizm
+page
+	set url http://lug-info.com/news/one/glava-lnr-pozdravil-s-95-letiem-veterana-voiny-grigoriya-ponomarenko-foto-65945
+	set tags lnr,pozdravlenie,veteran,95_let,starik,vov,pasechnik_leonid
+page
+	set url http://lug-info.com/news/one/molodezhnyi-parlament-priglashaet-zhitelei-lnr-prinyat-uchastie-v-sorevnovaniyakh-po-vorkautu-65957
+	set tags lnr,sport,zdorovje,nacia,sorevnovanie
+page
+	set url https://racurs.ua/b189-ugasauschaya-gosudarstvennost.html
+	set tags ukraina,derzhava,ugasanie,filosofia,mysli,bog,istoria,ramzes_II.faraon,egipet,chelovek
+page
+	set url http://lug-info.com/news/one/vyskazyvaniya-poklonskoi-govoryat-o-ee-polnom-neponimanii-situatsii-v-donbasse-deputat-foto-65949
+	set tags poklonskaja_natalia,donbass,lnr,vojna,ukraina,mir,kritika,rossia,gosduma
+page
+	set url http://lug-info.com/news/one/konkurs-ispolnitelei-na-narodnykh-instrumentakh-imeni-voevodinykh-otkrylsya-kontsertom-v-lgaki-foto-65937
+	set tags konkurs,lgaki,muzyka,lnr,kultura,orkestr
+page
+	set url http://lug-info.com/news/one/bolee-200-bolevshikh-covid-19-zhitelei-lnr-proshli-reabilitatsiyu-v-klinike-meditsiny-katastrof-foto-65938
+	set tags klinika,bolnica,lechenie,covid,bolezn,lnr,reabilitacia
+page
+	set url http://lug-info.com/news/one/teatr-na-oboronnoi-priglashaet-na-premeru-antikrizisnoi-komedii-dorogie-moi-banditki-65935
+	set tags lugansk,lnr,komedia,spektakl,bandit,ivanov_dmitrij.dramaturg
+page
+	set url http://lug-info.com/news/one/pochta-lnr-vvedet-v-obraschenie-marku-k-85-letiyu-so-dnya-rozhdeniya-rezhissera-govorukhina-65933
+	set tags lnr,govoruhin_stanislav,85_let,pochta,marka
+page
+	set url http://lug-info.com/news/one/vsu-obstrelyali-predstavitelei-lnr-v-stskk-fiksirovavshikh-posledstviya-obstrela-zolotogo-5-65953
+	set tags ukraina,vojna,donbass,obstrel,vsu,lnr,nm_lnr
 eof
 off
 page

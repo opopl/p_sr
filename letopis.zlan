@@ -15102,6 +15102,12 @@ page
 page
 	set url https://hvylya.net/analytics/society/2010-05-13-15-24-09.html
 	set tags nauka,future,ukraina,manipuljacia,obschestvo
+page
+	set url https://strana.ua/news/324940-bajden-prihlasil-putina-i-si-tszinpina-obsudit-klimat.html
+	set tags usa,rossia,putin_vladimir,biden_joe,kitaj,priglashenie,peregovory,klimat,starik
+page
+	set url https://www.pravda.com.ua/columns/2020/06/29/7257522/
+	set tags rossia,respublika,obschestvo,derzhava,nacia
 eof
 off
 page

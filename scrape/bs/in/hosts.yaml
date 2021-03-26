@@ -33,6 +33,7 @@
 'mediaport.ua' : { 'site' : 'news.ua.mediaport' }
 'depo.ua' : { 'site' : 'news.ua.depo' }
 'dialog.ua' : { 'site' : 'news.ua.dialog' }
+'racurs.ua' : { 'site' : 'news.ua.racurs' }
 
 ###news.by
 'tut.by' : { 'site' : 'news.by.tut' }
@@ -45,6 +46,7 @@
 # kalmykia
 'riakalm.ru' : { 'site' : 'news.ru.ria_kalm' }
 
+'meduza.io' : { 'site' : 'news.ru.meduza' }
 'news.novgorod.ru' : { 'site' : 'news.ru.novgorod' }
 'ria.ru' : { 'site' : 'news.ru.ria' }
 'znak.com' : { 'site' : 'news.ru.znak' }

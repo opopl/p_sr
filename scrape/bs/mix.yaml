@@ -24,7 +24,8 @@ include:
     - news.ru.izvestia
     - news.ru.kp
     - news.ru.lenta
-    - news.ru.life 
+    - news.ru.meduza
+    #- news.ru.life 
     - news.ru.newsfront
     #- news.ru.novgorod
     - news.ru.pikabu
@@ -59,6 +60,7 @@ include:
     - news.ua.den
     - news.ua.depo
     - news.ua.dialog
+    - news.ua.racurs
     - news.ua.fakty
     - news.ua.fraza
     - news.ua.fromua

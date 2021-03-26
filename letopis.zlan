@@ -1,4 +1,4 @@
-off
+on
 page 
 	set url https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
 	set ii sternenko_mova_odessa
@@ -14802,6 +14802,36 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2009/03/13/3801983/
 	set tags ukraina,revolucia,molodezh,morkva,shekli_robert,lukovica,zhurnalist
+page
+	set url https://www.pravda.com.ua/articles/2008/06/13/3466596/
+	set tags ukraina,voroshilovskii_strelok.film,spravedlivost,2006
+page
+	set url https://www.pravda.com.ua/news/2013/07/2/6993393/
+	set tags vradiivka,ukraina,iznasilovanie,prokuratura,nikolaev,kriminal
+page
+	set url https://lenta.ru/news/2021/03/26/newwar/
+	set tags francia,rossia,vaccine,covid,infvojna,kitaj,sputnik_v,evropa
+page
+	set url https://news.obozrevatel.com/society/v-ukraine-medikov-ostavili-bez-doplat-medsestra-pokazala-svoj-zarabotok-v-4500-griven.htm
+	set tags medik,ukraina,zarplata,rabota,ekonomika,bolnica
+page
+	set url https://news.obozrevatel.com/society/ofitsialnaya-delegatsiya-iz-knr-v-kryimu-okazalas-falshivoj.htm
+	set tags rossia,kitaj,krym,delegacia,ukraina
+page
+	set url https://from-ua.com/mneniya/589702-oles-donii-kolaboracionizm-chi-polyuvannya-na-vidom.html
+	set tags ukraina,kollaborant,zakon,donbass,rossia
+page
+	set url https://strana.ua/news/324798-smert-posle-privivki-ot-koronavirusa-stepanov-ozvuchil-vyvody-sudmedekspertizy.html
+	set tags ukraina,smert,covid,vaccine,rassledovanie,stepanov_maksim,vaccinacia
+page
+	set url https://strana.ua/news/324709-smert-posle-privivki-ot-koronavirusa-u-provizora-iz-chernovtsov-vyjavili-kovid.html
+	set tags ukraina,covid,smert,rassledovanie,bolezn,vaccinacia,covishield,astrazeneka,provizor,chernivci
+page
+	set url https://racurs.ua/2836-delo-o-neprivitom-rebenke-obschestvennyy-interes-vyshe-lichnogo.html
+	set tags deti,konstitucia,privivka,obrazovanie,ukraina,vaccinacia,otkaz,detsad,spravka,sud,2019
+	set redo 1
+	setlist acts
+		db_update
 eof
 off
 page

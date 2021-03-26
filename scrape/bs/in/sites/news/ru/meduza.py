@@ -5,6 +5,7 @@ import cyrtranslit
 
 import Base.DBW as dbw
 import Base.Util as util
+import Base.String as string
 import Base.Const as const
 
 from Base.Scraper.PageParser import RootPageParser
@@ -26,7 +27,7 @@ class PageParser(RootPageParser):
     path  = self.url_path
 
     if len(parts) > 3:
-      if parts[0] in util.qw('video economy society news opinions politics world'):
+      if parts[0] in util.qw('feature news'):
         year  = parts[1]
         month = parts[2]
         day   = parts[3]
@@ -41,6 +42,44 @@ class PageParser(RootPageParser):
 
     return self
 
+    return self
+
+  def get_date_html(self,ref={}):
+    super().get_date_html(ref)
+
+    app = self.app
+    if app.page.get('date'):
+      return self
+
+    return self
+
+  def get_date_ld_json(self,ref={}):
+    super().get_date_ld_json(ref)
+
+    app = self.app
+    if app.page.get('date'):
+      return self
+
+    return self
+
+  def get_date_url(self,ref={}):
+    super().get_date_url(ref)
+
+    app = self.app
+    if app.page.get('date'):
+      return self
+
+    return self
+
+  def get_date_meta(self,ref={}):
+    super().get_date_meta(ref)
+
+    app = self.app
+    if app.page.get('date'):
+      return self
+
+    return self
+
   def clean(self,ref={}):
     super().clean(ref)
 
@@ -48,3 +87,12 @@ class PageParser(RootPageParser):
     soup = app.soup
 
     return self
+
+  # import date from input string
+  def _date_from_bare(self, ref={}):
+    date = super()._date_from_bare(ref)
+    if date:
+      return date
+
+    #date = None
+    return date

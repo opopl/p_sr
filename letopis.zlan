@@ -14946,6 +14946,78 @@ page
 page
 	set url https://habr.com/ru/post/435546/
 	set tags pc,ssh,tunnel,sovet
+page
+	set url https://habr.com/ru/post/31253/
+	set tags pc,ssh,tunnel
+page
+	set url https://strana.ua/news/324859-podavat-vodu-v-krym-ukraina-budet-tolko-v-sluchae-humanitarnoj-katastrofy-kravchuk.html
+	set tags ukraina,rossia,voda,krym,katastrofa,kravchuk_leonid
+page
+	set url https://strana.ua/news/310059-krym-ostanetsja-bez-presnoj-vody-esli-v-blizhajshee-vremja-tam-ne-projdut-dozhdi-uchenye.html
+	set tags ukraina,rossia,kollaps,voda,krym,katastrofa
+page
+	set url https://strana.ua/news/309523-v-moskve-otvetili-na-zajavlenie-kuleby-sdelat-temu-kryma-adskoj-dlja-rossii.html
+	set tags ad,kuleba_dmitrii,mid_rf,zaharova_maria,rossia,ukraina,krym
+page
+	set url https://strana.ua/news/308629-ukraina-budet-prepjatstvovat-prodazhe-opresnennoj-vody-dlja-zhitelej-kryma.html
+	set tags ukraina,voda,kuleba_dmitrii,krym,rossia,repressii,presledovanie,opresnenie
+page
+	set url https://strana.ua/news/308562-aksenov-prihlasil-ukraintsev-na-otdykh-v-krym.html
+	set tags ukraina,rossia,krym,bratstvo,flag.ukraina,aksenov_sergei,avto
+page
+	set url https://strana.ua/news/289198-aksenov-vystupil-za-uholovnye-dela-protiv-ukrainy-za-otkaz-ot-podachi-vody-v-krym.html
+	set tags aksenov_sergei,krym,rossia,ukraina,voda,terrorizm,otkaz,blokada
+page
+	set url https://strana.ua/news/289076-v-krymu-reshili-iskusstvenno-vyzyvat-osadki-samoletom-i-serebrom.html
+	set tags ukraina,rossia,krym,voda,simferopol,zasuha
+page
+	set url https://strana.ua/news/288821-andrej-bohdan-rasskazal-o-vozmozhnom-sushchestvovanii-tajnykh-dohovorennostej-s-rf.html
+	set tags ukraina,rossia,tajna,dogovor,krym,specsluzhba,zapad,politika,idiot
+page
+	set url https://strana.ua/news/324841-chto-oznachaet-pervaja-press-konferentsija-prezidenta-ssha-bajdena-.html
+	set tags rossia,usa,press_konferencia,demencia,starik,biden_joe,zhurnalist,itogi,shpargalka
+page
+	set url https://strana.ua/news/324886-na-donbasse-pohibli-chetyre-ukrainskikh-soldata-.html
+	set tags ukraina,donbass,vojna,smert,vsu,shumy.donbass.poselok,obstrel,minomet
+page
+	set url https://strana.ua/news/324471-aleksej-danilov-zajavil-chto-slova-donbass-ne-sushchestvuet-.html
+	set tags donbass,danilov_aleksei,rnbo,slovo,rossia,zapret,cenzura,marazm,slovo.donbass
+page
+	set url https://www.radiosvoboda.org/a/shumy-zahostrannia/31171488.html
+	set tags donbass,vojna,obostrenie,shumy.donbass.poselok,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/pogibla-vsya-semya-a-vanyu-nashli-v-ozere-gde-utonula-ego-babushka-podrobnosti-zagadochnoj-smerti-na-zhitomirschine.htm
+	set tags ukraina,kriminal,radomyshl.zhitomir.ukraina,junosha,paren',murder,smert,ozero,voda
+page
+	set url https://news.obozrevatel.com/russia/v-ozhidanii-trupa-vraga.htm
+	set tags rossia,kitaj,relations,diplomatia
+page
+	set url https://news.obozrevatel.com/russia/skazka-po-putinski-chem-dalshe-tem-strashnee.htm
+	set tags rossia,putin_vladimir,skazka
+page
+	set url https://news.obozrevatel.com/society/baraki-strashnoe-nasledie-sssr-na-foto.htm
+	set tags sssr,istoria,zhilje,dom,zhizn,realnost',barak
+page
+	set url https://news.obozrevatel.com/society/esli-v-krane-net-vodyi-russkij-mir-prishel-syudyi.htm
+	set tags donbass,vojna,voda,rusmir
+page
+	set url https://news.obozrevatel.com/russia/v-rossii-prishlo-vremya-perehodit-pod-vneshnee-upravlenie-oon.htm
+	set tags ukraina,rossia,vneshnee_upravlenie,biden_joe,usa,oon,batyj.han,nevskii_aleksandr,moskovia,gumilev_lev,mongoly
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-bezhala-na-referendum-golosovat-a-teper-7-let-v-borbe.htm
+	set tags kitaj,rossia,krym,delegacia,moskva,referendum,ukraina,fejk
+page
+	set url https://news.obozrevatel.com/society/slovo-natsmenyi-dolzhno-ischeznut-v-ukraine.htm
+	set tags ukraina,nacmenshinstva,nacia,derzhava,obschestvo,vjatrovich_vladimir,sovok,bolsheviki,lenin_vladimir
+page
+	set url https://news.obozrevatel.com/russia/putina-mogut-izolirovat-polnostyu.htm
+	set tags usa,rossia,izoljacia,putin_vladimir,ukraina
+page
+	set url https://meduza.io/feature/2021/03/24/pravitelstvo-kryma-nedavno-prinimalo-biznes-delegatsiyu-iz-kitaya-kak-vyyasnila-meduza-eto-byli-predprinimateli-s-optovyh-rynkov-moskvy
+	set tags krym,biznes,kitaj,moskva,rossia,delegacia
+page
+	set url https://meduza.io/news/2021/03/26/eto-proizvol-za-kotoryy-rossiyskie-vlasti-dolzhny-otvetit-amnesty-international-o-zhalobah-navalnogo-na-pytki-v-kolonii
+	set tags rossia,navalny,kolonia,tjurma,zhaloba,amnesty_international,politika,pytka
 eof
 off
 page

@@ -15183,6 +15183,27 @@ page
 page
 	set url https://news-front.info/2021/03/26/v-kieve-soobshhili-o-likvidaczii-chetyreh-ukrainskih-karatelej/
 	set tags ukraina,donbass,kiev,vojna,smert,gorlovka,dnr,nm_dnr
+page
+	set url https://news-front.info/2021/03/24/v-doneczke-otkrylas-unikalnaya-vystavka-miniatyurnoj-knigi/
+	set tags donbass,dnr,doneck,muzei,ukraina,vystavka,kniga,gorlovka
+page
+	set url https://donbasstoday.ru/vo-vremja-sochinenija-kak-ja-provjol-leto-deti-donbassa-vspominajut-krovavyj-2014/
+	set tags deti,vojna,donbass,rossia,ukraina,vsu,obstrel,slavjansk,shkola,2014,starobeshevo,sochinenie
+page
+	set url https://donbasstoday.ru/posle-obstrela-vsu-u-lezhashhego-trupa-zvonil-telefon-no-nikto-ne-podnjal-trubku/
+	set tags vsu,doneck,obstrel,vojna,donbass,ukraina,debalcevo,ilovajsk,2014,2015
+page
+	set url https://donbasstoday.ru/trup-s-boinga-mh-17-probil-kryshu-i-upal-v-kreslo-zhitelnicy-dnr/
+	set tags ukraina,donbass,vojna,mh17,trup,padenie,dnr,pismo
+page
+	set url https://fraza.com/stenograms/299103-gleb-ljashenko-zabavno-slyshat-iz-ust-alkasha
+	set tags ukraina,rnbo,medvedchuk_viktor,sharij_analotij,patriotizm
+page
+	set url https://golospravdy.eu/aleksej-zhuravko-ukraina-pogruzilas-v/
+	set tags ukraina,zelenskii_vladimir,sovest',statistika,vojna,donbass,smertnost',rozhdaemost
+page
+	set url https://strana.ua/news/324896-hibel-chetyrekh-voennykh-na-donbasse-chto-proizoshlo.html
+	set tags obstrel,obostrenie,peremirie,shumy.donbass.poselok,donbass,vojna,ukraina,smert,nm_dnr
 eof
 off
 page

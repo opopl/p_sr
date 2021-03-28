@@ -15262,6 +15262,90 @@ page
 page
 	set url https://zen.yandex.ru/media/psiandr/otchego-tak-predan-pes-scemiascee-dushu-stihotvorenie-valentina-gafta-dlia-teh-kogo-predavali-5f72f431ff51c40043b401cb
 	set tags gaft_valentin.akter,poezia,rossia,rusmir,kultura,chelovek
+page
+	set url https://lgpu.org/news/7940-fakultetu-estestvennyh-nauk-98-let.html
+	set tags fakultet,nauka,98_let,lnr,lgpu,1923
+page
+	set url https://lgpu.org/news/7939-studenty-lgpu-zanyali-trete-mesto-v-respublikanskom-konkurse-kviz-pliz.html
+	set tags lnr,lgpu,quiz,konkurs,student,sorevnovanie,mir_luganschine
+page
+	set url https://lgpu.org/news/7925-kolledzh-lgpu-provel-den-otkrytyh-dverey.html
+	set tags lnr,lgpu,obrazovanie,student
+page
+	set url https://lgpu.org/news/7845-vospitatelnyy-chas-proveli-v-preddverii-8-marta.html
+	set tags lgpu,lnr,lugansk,8_marta
+page
+	set url https://lgpu.org/news/7834-delaem-mir-dobree.html
+	set tags lnr,lgpu,dobro,deti
+page
+	set url https://lgpu.org/news/7794-v-lgpu-otkrylsya-izbiratelnyy-uchastok-dlya-priema-dokumentov-kandidatov-v-deputaty-molodezhnogo-parlamenta-lnr.html
+	set tags lgpu,lnr,molodezh,student,vybory
+page
+	set url https://www.radiosvoboda.org/a/voda-krym-okupatsiya/31171747.html
+	set tags ukraina,voda,krym,rossia
+page
+	set url https://strana.ua/news/325131-kak-ukraintsam-udaetsja-kupit-vaktsinu-ot-koronavirusa-v-internete-po-tsene-do-750-za-dozu.html
+	set tags darknet,internet,rynok,vaccine,covid,world,ukraina,sputnik_v,pfizer,moderna
+page
+	set url https://strana.ua/opinions/325133-zelenskij-pokazal-strane-i-vsemu-miru-svoe-pravovoe-nevezhestvo-i-proizvol.html
+	set tags zelenskii_vladimir,janukovich_viktor,ukraina,konstitucia,ksu
+page
+	set url https://strana.ua/articles/analysis/324815-chto-oznachaet-ukaz-zelenskoho-ob-otmene-ukazov-janukovicha-o-naznachenii-sudej-konstitutsionnoho-suda-.html
+	set tags rnbo,ksu,zelenskii_vladimir,ukraina,zakon,konstitucia
+page
+	set url https://vz.ru/opinions/2021/3/27/1091246.html
+	set tags rossia,armia,usa,kitaj,diplomatia,miroporjadok,world,planeta
+page
+	set url https://news.obozrevatel.com/politics/reznikov-sudba-russkih-v-kryimu-vyidvorenie.htm
+	set tags ukraina,rossia,reznikov_aleksei,krym
+page
+	set url https://gazeta.ua/blog/54819/zaberit-britvu-ukaziv-u-prezidenta-bo-vin-zavershit-u-vyaznici
+	set tags ukraina,prezident,zelenskii_vladimir,britva,bezumie,konstitucia,ksu
+page
+	set url https://fraza.com/column/298908-kinokritika-luchshie-filmy-i-ne-tolko
+	set tags kritika,kino,film,ukraina
+page
+	set url https://fraza.com/news/299126-tysjachi-verujuschih-upts-otmetili-sobor-vseh-prepodobnyh-ottsev-kievo-pecherskih
+	set tags ukraina,upc,lavra,molitva
+page
+	set url https://www.vesti.ru/article/2542975
+	set tags rossia,putin_vladimir,strana,vozmozhnost',konkurs
+page
+	set url http://lug-info.com/news/one/luganskii-dramteatr-predstavil-premeru-skazki-karlson-kotoryi-zhivet-na-kryshe-foto-65990
+	set tags lnr,lugansk,lardt,karlson,krysha,spektakl,deti,premjera
+page
+	set url http://lug-info.com/news/one/okolo-140-sportsmenov-prinyali-uchastie-v-turnire-po-aikido-v-luganske-foto-65994
+	set tags lnr,sport,ajkido,sorevnovanie,turnir,rossia,st_peterburg
+page
+	set url https://theaterluspekaev.com/luganskij-dramteatr-priglashaet-na-premeru-skazki-karlson-kotoryj-zhivet-na-kryshe/
+	set tags lnr,lugansk,karlson,krysha,priglashenie,spektakl,deti,premjera,lardt
+page
+	set url http://lug-info.com/news/one/prepodavatel-detskoi-telestudii-strekoza-tv-zanyatiya-v-studii-otkryvayut-perspektivy-tvorcheskogo-rosta-foto-65855
+	set tags lnr,lugansk,deti,studia,tv,televizor,tvorchestvo,razvitie,strekoza_tv.lnr.studia
+page
+	set url http://lug-info.com/news/one/nedelya-glazami-eksperta-nesuschestvuyuschii-sekretar-zelenyi-shum-i-bludnyi-press-sek-65981
+	set tags lnr,nm_lnr,danilov_aleksei,rnbo,donbass,vojna,itogi,mnenie,ukraina
+page
+	set url https://odessa.strana.ua/325089-karantin-v-ukraine-v-odesskom-kafe-klienty-ustroili-vecherinku.html
+	set tags odessa,ukraina,lockdown,bolgarka,vecherinka,covid,karantin,kafe,policia
+page
+	set url https://pravoslavie.ru/138249.html
+	set tags 150_let,rossia,rusmir,isskustvo,hudozhnik,grabar'_igor,tretjakovka
+page
+	set url https://lenta.ru/articles/2021/03/28/holodov/
+	set tags rossia,1994,murder,zhurnalist,holodov_dmitrij.1994.rossia,17_oct
+page
+	set url https://lenta.ru/news/2021/03/28/kiev/
+	set tags ukraina,kiev,izbienie,muzyka,muzykant,kriminal,morgenstern
+page
+	set url https://zaxid.net/raz_dva_tri_vbivtsya__ti_n1516321
+	set tags putin_vladimir,world,istoria,sssr,usa,rossia
+page
+	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/slovar-drevnego-ukra-tikva-gorh-malina-mch--hlb-605b63d62745231fa60c3eab
+	set tags ukraina,kultura,lingvistika,slovo,slovnyk,shevchenko_taras,rusmir
+page
+	set url https://zen.yandex.ru/media/mximnovikovski/kak-sozdatel-an8-i-an124-ruslan-prosidel-15-let-v-sovetskih-lageriah-i-uehal-v-ssha-rabotat-v-nasa-6056ab86c9454051652b9d14
+	set tags avia,konstruktor,sssr,istoria,kb_antonov,bolonkin_aleksandr.konstruktor.sssr
 eof
 off
 page

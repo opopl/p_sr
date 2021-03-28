@@ -92,8 +92,11 @@
 ###anglia
 'bbc.com' : { 'site' : 'news.anglia.bbc' }
 
-###kultura
+###kultura.ru
 'portal-kultura.ru' : { 'site' : 'kultura.ru.portal' }
+
+###kultura.lnr
+'theaterluspekaev.com' : { 'site' : 'kultura.lnr.lardt' }
 
 ###vera
 'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }

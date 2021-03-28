@@ -15253,6 +15253,9 @@ page
 page
 	set url https://strana.ua/news/324979-semen-semenchenko-biohrafija-konstantina-hrishina-ot-kryma-do-sizo.html
 	set tags semenchenko_semen,sbu,sizo,tjurma,ukraina,arest,vojna,donbass,sud,ilovajsk,debalcevo
+page
+	set url https://www.radiosvoboda.org/a/stepanov-pro-vaktsynatsiyu-v-ukrayini/31171713.html
+	set tags stepanov_maksim,vaccinacia,vaccine,diversia,ukraina,narod
 eof
 off
 page

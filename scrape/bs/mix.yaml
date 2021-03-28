@@ -13,7 +13,7 @@ include:
     - com.us.apple
 ###pc
     - pc.stackoverflow
-###lnr
+###news_lnr
     - news.lnr.lug_info
 ###news_ru
     #- news.ru.ria_kalm
@@ -41,6 +41,9 @@ include:
     - news.ru.znak
 ###news_by
     - news.by.tut
+
+###edu_lnr
+    - edu.lnr.lgaki
 
 ###kultura_ru
     - kultura.ru.portal

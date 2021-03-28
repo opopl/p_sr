@@ -15204,6 +15204,40 @@ page
 page
 	set url https://strana.ua/news/324896-hibel-chetyrekh-voennykh-na-donbasse-chto-proizoshlo.html
 	set tags obstrel,obostrenie,peremirie,shumy.donbass.poselok,donbass,vojna,ukraina,smert,nm_dnr
+page
+	set url https://strana.ua/news/324762-perevod-chasov-28-marta-kohda-perekhodit-na-letnee-vremja-v-ukraine-2021.html
+	set tags ukraina,vremja,leto
+page
+	set url http://lug-info.com/news/one/pozdravlenie-ministra-kultury-sporta-i-molodezhi-lnr-s-mezhdunarodnym-dnem-teatra-65712
+	set tags teatr,lugansk,lnr,pozdravlenie,prazdnik
+page
+	set url https://lgaki.info/novosti/pervokursniki-akademii-matusovskogo-znakomyatsya-s-luganskimi-muzeyami/
+	set tags lgaki,lugansk,lnr,muzei,studenty
+page
+	set url https://lgaki.info/konkursy/otkrytyj-respublikanskij-konkurs-internet-proektov-biblio-com/
+	set tags lgaki,konkurs,lnr,lugansk,kultura,homo_informaticus
+	set date 01_01_2021
+page
+	set url https://www.youtube.com/watch?v=GNF9CbMSu9g
+	set tags video,lgaki,spektakl,stardance
+page
+	set url https://lgaki.info/novosti/x-konkurs-imeni-dinastii-voevodinyh-otkrylsya-v-akademii-matusovskogo/
+	set tags muzyka,konkurs,lnr,lgaki,st_peterburg,rossia,muzykant
+page
+	set url https://strana.ua/news/325000-v-evrope-ukraintsy-massovo-popadajut-v-trudovoe-rabstvo-na-tabachnye-fabriki-.html
+	set tags ukraina,rabstvo,fabrika,evropa,rabota,tabak
+page
+	set url https://lgaki.info/novosti/svoj-stil-otprazdnoval-15-let-nabiraem-vysotu/
+	set tags lnr,lgaki,molodezh,kultura,tanec,ansambl.lnr.svoj_stil,horeografia
+page
+	set url https://lgaki.info/novosti/konkurs-moj-rodnoj-yazyk-russkij-poluchil-i-mezhdunarodnyj-rezonans-iz-za-chego-vremya-priema-zayavok-prodlili/
+	set tags jazyk,lnr,konkurs,lgaki
+page
+	set url https://lgaki.info/novosti/v-akademii-matusovskogo-vesne-vruchili-koronu-otprazdnovali-maslenitsu-s-razmahom/
+	set tags maslenica,prazdnik,prazdnovanie,veselje,lnr,lgaki,korona,tradicii,lugansk,teatr,bliny
+page
+	set url https://lgaki.info/novosti/tri-novyh-nomera-v-repertuare-dialekta-itog-praktiki-studentov-horeografov/
+	set tags lnr,lugansk,lgaki,horeografia,studenty,praktika,pesnja,tuman,kantata,devushka,novickaja_sofia.lgaki.lnr
 eof
 off
 page

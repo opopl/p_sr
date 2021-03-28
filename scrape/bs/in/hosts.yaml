@@ -102,6 +102,9 @@
 ###video
 'youtube.com'    : { 'site' : 'video.youtube' }
 
+###edu
+'lgaki.info'    : { 'site' : 'edu.lnr.lgaki' }
+
 ###pc
 
 'habr.com' : { 'site' : 'pc.articles.habr' }

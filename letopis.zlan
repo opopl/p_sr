@@ -15256,6 +15256,12 @@ page
 page
 	set url https://www.radiosvoboda.org/a/stepanov-pro-vaktsynatsiyu-v-ukrayini/31171713.html
 	set tags stepanov_maksim,vaccinacia,vaccine,diversia,ukraina,narod
+page
+	set url https://www.radiosvoboda.org/a/viyna-i-peremyrya-putina/31172336.html
+	set tags ukraina,rossia,peremirie,vrag
+page
+	set url https://zen.yandex.ru/media/psiandr/otchego-tak-predan-pes-scemiascee-dushu-stihotvorenie-valentina-gafta-dlia-teh-kogo-predavali-5f72f431ff51c40043b401cb
+	set tags gaft_valentin.akter,poezia,rossia,rusmir,kultura,chelovek
 eof
 off
 page

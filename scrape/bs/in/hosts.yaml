@@ -1,6 +1,7 @@
 
 ###news.ua
 
+'golospravdy.eu' : { 'site' : 'news.ua.golospravdy' }
 'strana.ua' : { 'site' : 'news.ua.strana' } 
 'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
 'obozrevatel.com' : { 'site' : 'news.ua.oboz' }

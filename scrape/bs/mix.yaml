@@ -44,6 +44,7 @@ include:
 
 ###edu_lnr
     - edu.lnr.lgaki
+    - edu.lnr.lgpu
 
 ###kultura_ru
     - kultura.ru.portal

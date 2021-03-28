@@ -15201,9 +15201,6 @@ page
 page
 	set url https://golospravdy.eu/aleksej-zhuravko-ukraina-pogruzilas-v/
 	set tags ukraina,zelenskii_vladimir,sovest',statistika,vojna,donbass,smertnost',rozhdaemost
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://strana.ua/news/324896-hibel-chetyrekh-voennykh-na-donbasse-chto-proizoshlo.html
 	set tags obstrel,obostrenie,peremirie,shumy.donbass.poselok,donbass,vojna,ukraina,smert,nm_dnr
@@ -15247,6 +15244,15 @@ page
 page
 	set url https://lgaki.info/novosti/gran-pri-pervogo-luganskogo-abrikosa-vzyali-pyatiklassniki-oni-snyali-video-o-sile-edinstva/
 	set tags lgaki,lnr,edinstvo,shkola,deti,lugansk,60_let,kosmos,korolev_sergei,gagarin_jurij,festival,kino
+page
+	set url https://lgpu.org/news/7944-studenty-ifvs-lgpu-prinyal-uchastie-v-chempionate-po-thekvando.html
+	set tags lgpu,lnr,lugansk,chempionat,sorevnovanie,sport,tekvondo,rostov_na_donu,rossia
+page
+	set url https://strana.ua/articles/analysis/324884-pochemu-proizoshel-raskol-v-snbo-.html
+	set tags rnbo,ukraina,sankcii,oppozicia,zelenskii_vladimir,avakov_arsen,reznikov_aleksei,danilov_aleksei
+page
+	set url https://strana.ua/news/324979-semen-semenchenko-biohrafija-konstantina-hrishina-ot-kryma-do-sizo.html
+	set tags semenchenko_semen,sbu,sizo,tjurma,ukraina,arest,vojna,donbass,sud,ilovajsk,debalcevo
 eof
 off
 page

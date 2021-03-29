@@ -15794,6 +15794,96 @@ page
 page
 	set url https://mir-lug.info/novosti-terotdelenij/v-ramkah-proekta-mir-kino-detyam-iz-stahanova-pokazali-mulfilm/
 	set tags deti,lnr,stahanov.lnr,multik,kino,mir_luganschine
+page
+	set url https://mir-lug.info/novosti-proektov/na-vyhodnyh-v-dvuh-naselyonnyh-punktah-respubliki-projdut-kinopokazy-v-ramkah-proekta-mir-kino/
+	set tags lnr,kino,film,mir_luganschine,pokaz,multik,dzerzhinskii.lnr.poselok
+page
+	set url https://mir-lug.info/novosti-terotdelenij/aktivisty-od-mir-luganshhine-pozdravili-s-20-letiem-devushku-kotoraya-okazalas-v-slozhnoj-zhiznennoj-situaczii/
+	set tags mir_luganschine,lnr,pomosch,aktivist,volonter
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-luganske-proshyol-memorialnyj-chas-vo-krug-dalya-priurochennyj-k-220-letiyu-so-dnya-rozhdeniya-vladimira-dalya/
+	set tags dal'_vladimir,lugansk,lnr,mir_luganschine,rusmir,jazyk,aktivist,volonter,rossia,moskva,orenburg
+page
+	set url https://mir-lug.info/novosti-proektov/my-aktivnaya-i-otvetstvennaya-molodyozh-mihail-golubovich/
+	set tags lnr,molodezh,mir_luganschine,druzhina,strajkbol,turnir,fraza
+page
+	set url https://mir-lug.info/mnenie/my-ne-vernyomsya-v-ukrainu-i-nikogda-ne-dopustim-prihoda-naczistov-v-donbass-igor-ryabushkin/
+	set tags lnr,donbass,vojna,ukraina,poklonskaja_natalia,rossia,mir_luganschine
+page
+	set url https://mir-lug.info/ns/irina-andruh-peredala-v-biblioteku-luganka-unikalnyj-ekzemplyar-zhurnala-1899-goda-vypuska/
+	set tags biblioteka,lnr,lugansk,kniga,podarok,mir_luganschine,jazyk,dal'_vladimir
+page
+	set url https://mir-lug.info/novosti-terotdelenij/detyam-iz-perevalskogo-rajona-pokazali-multfilm-v-ramkah-proekta-mir-kino/
+	set tags lnr,deti,mir_luganschine,multik,detsad
+page
+	set url https://mir-lug.info/novosti-proektov/vtoruyu-godovshhinu-proekta-druzhina-otmetili-v-luganske/
+	set tags lnr,lugansk,druzhina,mir_luganschine,molodezh,aktivist,volonter
+page
+	set url https://mir-lug.info/hot/delegacziya-lnr-prinyala-uchastie-v-pamyatnom-meropriyatii-v-debalczevo/
+	set tags lnr,mir_luganschine,donbass,vojna,debalcevo,pamjat,ukraina,ns_lnr
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-antraczite-nagradili-pobeditelej-fotokonkursa-proekta-druzhina/
+	set tags lnr,mir_luganschine,nagrazhdenie,konkurs,foto,vkontakte,antracit
+page
+	set url https://mir-lug.info/novosti-terotdelenij/alchevskie-aktivisty-proekta-druzhina-zakrasili-nadpisi-s-adresami-telegram-kanalov-po-sbytu-narkotikov/
+	set tags lnr,mir_luganschine,narkotiki,aktivist,nadpis',stena,telegram,narkotorgovec
+page
+	set url https://mir-lug.info/novosti-proektov/v-luganske-sozdadut-yolku-iz-avtomobilej-priglashaem-vseh-zhelayushhih/
+	set tags lnr,lugansk,jolka,avto,fleshmob,novyj_god
+page
+	set url https://donbass.comments.ua/news/politics/domestic-policy/1660-nemchinov-kogda-my-vsyacheski-pomogaem-lyudyam-storona-ordlo-delaet-vse-s-tochnost-yu-do-naoborot.html
+	set tags donbass,ukraina,ludi,pomosch
+page
+	set url https://stakhanov.su/news/city_news/17116-pervenstvo-po-sportivnoy-akrobatike.html
+	set tags lnr,stahanov.lnr,sport,molodezh,akrobatika.sportivnaja,sorevnovanie,shkola
+page
+	set url https://mir-lug.info/mov/molodezh-vnosit-vesomyj-vklad-v-razvitie-respubliki-uchastnitsa-konkursa-dostoyanie-respubliki/
+	set tags lnr,lugansk,mir_luganschine,kolomiec_anastasia.lnr.stahanov,stahanov.lnr,molodaja_gvardia.lnr,aktivist,molodezh,shkola,konkurs,interview
+page
+	set url https://rbncity.com/2020/01/09/na-bortu-upavshego-v-irane-ukrainskogo-samoleta-byla-zhitelnitsa-luganshhiny/
+	set tags lugansk,ukraina,avia,katastrofa,iran,ovcharuk_valeria.iran_boeing_2020,smert
+page
+	set url https://plus.obozrevatel.com/crime/78021-na-luganschine-razrisovali-ostanovki-v-tsveta-lnr-fotoreportazh.htm
+	set tags lnr,ostanovka,mir_luganschine,raskraska,avtobus
+page
+	set url https://plus.obozrevatel.com/crime/90576-v-okkupirovannom-luganske-zakrasili-ukrinskie-flagi-chernyim-opublikovanyi-foto.htm
+	set tags lnr,lugansk,stena,flag.ukraina,simvolika,zakraska
+page
+	set url https://plus.obozrevatel.com/crime/91086-kak-zhe-tak-poka-v-rossii-traur-v-lnr-massovoe-prazdnichnoe-gulyanie-fotoreportazh.htm
+	set tags lnr,prazdnik,koncert,prazdnovanie,armia
+page
+	set url https://news.obozrevatel.com/society/ukraina-nachala-proschatsya-s-pogibshimi-pod-shumami-voinami-vsu-foto-i-video.htm
+	set tags ukraina,proschanie,shumy.donbass.poselok,smert,pohoron,donbass,vojna
+page
+	set url https://news.obozrevatel.com/society/istoricheskij-shedevr-iz-ordlo-shah-i-mat-gretsii.htm
+	set tags istoria,vera,donbass,nevskii_aleksandr,maria_magdalina,cerkov,ukraina,rossia,sssr
+page
+	set url https://news.obozrevatel.com/lady/diet/kakaya-kasha-samaya-poleznaya.htm
+	set tags kasha,kuhnja,eda,sovet,recept,rusmir
+page
+	set url https://www.pravda.com.ua/news/2021/03/29/7288313/
+	set tags usa,ukraina,uchitel,uchenik,dezinformacia,ucheba,zelenskii_vladimir,infvojna
+page
+	set url https://www.radiosvoboda.org/a/news-kanada-sanktsii-budivnytstvo-kerchenskoho-mistu/31175898.html
+	set tags kanada,rossia,sankcii,krym,ukraina,krymskij_most
+page
+	set url https://lenta.ru/news/2021/03/29/homchak/
+	set tags ukraina,rossia,ugrozy,vojna,ocenka
+page
+	set url https://lenta.ru/articles/2021/03/30/trusova_coach/
+	set tags rossia,chempionat,figurist,trusova_aleksandra,pljuschenko_evgenij,sport
+page
+	set url https://smotrim.ru/article/2543040
+	set tags donbass,vojna,rossia,ukraina,oborona,strategia,zelenskii_vladimir,kravchuk_leonid,rnbo,danilov_aleksei,slovo
+page
+	set url https://riakursk.ru/kurskaya-komanda-pobedila-na-festivale-kvn-v-bryanske/
+	set tags rossia,kursk,kvn,smeh,konkurs,festival,brjansk,moskva,volgograd,dnepropetrovsk,ukraina
+page
+	set url https://nt1941.su/allnews/lprnews/14667-za-nedelyu-na-goryachuyu-liniyu-od-mir-luganschine-obratilis-94-zhitelya-lnr.html
+	set tags mir_luganschine,lnr
+page
+	set url https://nt1941.su/allnews/1304-komanda-kvn-nate-v-sostave-kotoroy-igraet-nash-zemlyak-vlad-romanov-vyshla-v-vysshuyu-ligu-kvn.html
+	set tags lnr,smeh,kvn,sochi.gorod,rossia,donbass,lugansk
 eof
 off
 page

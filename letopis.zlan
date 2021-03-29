@@ -15662,6 +15662,18 @@ page
 page
 	set url https://blogs.korrespondent.net/blog/events/4335087/
 	set tags ukraina,strashnyj_sud,ad,raj,hristos,ljubov,bogoslov_ioann.apostol,biblia,cerkov,vera
+page
+	set url https://lenta.ru/articles/2021/03/27/worlds_results/
+	set tags rossia,pobeda,chempionat,figurist
+page
+	set url https://ukraina.ru/exclusive/20210329/1030978376.html
+	set tags ukraina,zakon,konstitucia,bezzakonie
+page
+	set url https://www.championat.com/figureskating/article-4305765-chempionat-mira-po-figurnomu-kataniyu-2021-proizvolnaya-programma-zhenschin-video-polnyj-triumf-rossii-pobeda-scherbakovoj.html
+	set tags trusova_aleksandra,rossia,chempionat,figurist,led,pobeda,sport
+page
+	set url https://zen.yandex.ru/media/id/5ff9f3021866f8275ad12197/ot-rusinov-do-hohlov-evoliuciia-ukrainskih-russkih-605c88d1ddb0807645d65732
+	set tags rusmir,ukraina,hohly,rusyn,evolucia,istoria,rossia,mentalitet,nacia,hmelnickii_bogdan,vojsko_zaporozhskoje,moskovia,prokopovych_feofan,maloros,slovo
 eof
 off
 page

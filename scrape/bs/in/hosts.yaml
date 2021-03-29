@@ -98,6 +98,9 @@
 'portal-kultura.ru' : { 'site' : 'kultura.ru.portal' }
 'ukrcentr.ru' : { 'site' : 'kultura.ru.ukrcentr' }
 
+###sport.ru
+'championat.com' : { 'site' : 'sport.ru.championat' }
+
 ###kultura.lnr
 'theaterluspekaev.com' : { 'site' : 'kultura.lnr.lardt' }
 

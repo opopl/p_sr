@@ -53,6 +53,9 @@ include:
     - kultura.ru.portal
     #- kultura.ru.ukrcentr
 
+###sport_ru
+    - sport.ru.championat
+
 ###nauka_ru
     - nauka.ru.nkj
 ###bib_ua

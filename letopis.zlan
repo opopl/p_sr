@@ -15556,6 +15556,15 @@ page
 page
 	set url https://ukrainenews.fakty.ua/372118-tkachenko-schel-russkie-cshi-stydnym-blyudom
 	set tags rossotrudnichestvo,rossia,ukraina,kultura,marazm,borsch,tkachenko_aleksandr,shevchenko_taras
+page
+	set url https://news.obozrevatel.com/kiyany/life/na-kievschine-s-raznitsej-v-nedelyu-ot-covid-19-umerli-mnogodetnyie-suprugi.htm
+	set tags ukraina,kiev,smert,covid,nekrolog,deti
+page
+	set url https://society.fakty.ua/371888-lvovyanina-prigovorili-k-ogranicheniyu-svobody-za-futbolku-s-simvolikoj-sssr
+	set tags obschestvo,ukraina,lvov,futbolka,arest,prigovor,sud,simvol,sssr,kommunizm,zakon
+page
+	set url https://www.epravda.com.ua/projects/kraina4g/2020/12/29/669588/
+	set tags ukraina,gonchar
 eof
 off
 page

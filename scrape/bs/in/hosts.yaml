@@ -1,6 +1,7 @@
 
 ###news.ua
 
+'zbruc.eu' : { 'site' : 'news.ua.zbruc' }
 'golospravdy.eu' : { 'site' : 'news.ua.golospravdy' }
 'strana.ua' : { 'site' : 'news.ua.strana' } 
 'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
@@ -58,7 +59,6 @@
 'kp.ru' : { 'site' : 'news.ru.kp' }
 'lenta.ru' : { 'site' : 'news.ru.lenta' }
 'life.ru' : { 'site' : 'news.ru.life' }
-'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
 'news-front.info' : { 'site' : 'news.ru.newsfront' }
 'news.allcrimea.net' : { 'site' : 'news.ru.allcrimea_net' }
 'pikabu.ru' : { 'site' : 'news.ru.pikabu' }
@@ -71,6 +71,10 @@
 'iz.ru' : { 'site' : 'news.ru.izvestia' }
 'regnum.ru' : { 'site' : 'news.ru.regnum' }
 'eadaily.com' : { 'site' : 'news.ru.eadaily' }
+
+###news.lnr
+'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
+'mir-lug.info' : { 'site' : 'news.lnr.mirlug' }
 
 ###bib
 'exlibris.org.ua' : { 'site' : 'bib.ua.exlibris' }

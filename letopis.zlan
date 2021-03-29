@@ -15508,6 +15508,9 @@ page
 page
 	set url http://www.child-lib.com/index.php/1963-otkrytie-nedeli-detskoj-knigi-2
 	set tags lnr,deti,biblioteka,kniga,prazdnik,lugansk
+page
+	set url https://vz.ru/opinions/2021/3/29/1091779.html
+	set tags rossia,mentalitet,infvojna,zapad,rusmir,nacia,obschestvo
 eof
 off
 page

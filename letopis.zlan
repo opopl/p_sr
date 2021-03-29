@@ -15478,6 +15478,36 @@ page
 page
 	set url http://ukrcentr.ru/novini/xix-vserosijskij-konkurs-na-krashhe-chitannya-poetichnix-tvoriv-tarasa-shevchenka-sered-ditej-ta-molodi/
 	set tags ukrcentr.moskva,ukraina,rossia,istoria,kultura,literatura,poezia,konkurs
+page
+	set url https://lenta.ru/articles/2021/03/29/shariy/
+	set tags sharij_analotij,zelenskii_vladimir,poroshenko_petr,ukraina,rossia,druzhba,narod,dno,zlo,interview,sbu,repressii,cenzura,infvojna,propaganda,zapret
+page
+	set url https://ukraina.ru/opinion/20210329/1030976238.html
+	set tags janukovich_viktor,zakon,zelenskii_vladimir,ukraina,rossia,ksu,tupickii_aleksandr
+page
+	set url https://www.radiosvoboda.org/a/okupatsiina-vlada-zminyue-khersones-pozov/31175239.html
+	set tags hersones,sevastopol,krym,rossia,arheologia,sud,zapovednik
+page
+	set url https://news.obozrevatel.com/society/v-ukraine-umer-kiborg-dap-kotoryij-borolsya-s-rakom-i-covid-19.htm
+	set tags ukraina,smert,nekrolog,zhizn,kiborg,doneck_aeroport,vojna,donbass,cancer,covid
+page
+	set url http://lug-info.com/news/one/chspk-prodlila-kanikuly-v-shkolakh-lnr-do-3-aprelya-65960
+	set tags lnr,karantin,shkola,kanikuly,deti,ucheba
+page
+	set url http://lug-info.com/news/one/luganskaya-filarmoniya-priglashaet-na-kontsert-k-mezhdunarodnomu-dnyu-smekha-66013
+	set tags lnr,lugansk,smeh,priglashenie,jumor,koncert,den'_smeha,1_apr
+page
+	set url http://lug-info.com/news/one/luganskaya-biblioteka-otkryla-nedelyu-detskoi-knigi-teatralizovannym-predstavleniem-foto-66011
+	set tags lnr,lugansk,deti,biblioteka,kniga,baba_jaga,skazka,dal'_vladimir,andersen_gans_kristian
+page
+	set url http://lug-info.com/news/one/lesniki-i-aktivisty-likvidirovali-v-perevalskom-raione-22-zatora-na-reke-belaya-foto-66006
+	set tags lnr,zator,reka,aktivist,priroda
+page
+	set url http://lug-info.com/news/one/administratsiya-luganska-priglashaet-zhitelei-goroda-na-subbotnik-2-aprelya-66007
+	set tags lnr,lugansk,subbotnik,priglashenie,obschestvo,gorod
+page
+	set url http://www.child-lib.com/index.php/1963-otkrytie-nedeli-detskoj-knigi-2
+	set tags lnr,deti,biblioteka,kniga,prazdnik,lugansk
 eof
 off
 page

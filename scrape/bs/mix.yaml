@@ -55,8 +55,12 @@ include:
 
 ###nauka_ru
     - nauka.ru.nkj
-###bib
+###bib_ua
     - bib.ua.exlibris
+
+###bib_lnr
+    #- bib.lnr.child_lib
+
 ###ru
     - ru.kulturologia
     - ru.kultura.cyrillitsa

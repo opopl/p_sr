@@ -15457,6 +15457,24 @@ page
 page
 	set url https://inosmi.ru/social/20210102/248815834.html
 	set tags rossia,istoria,moskovia,polsha,moskva,ukraina
+page
+	set url https://strana.ua/news/325208-andrej-aksenov-chem-izvesten-mer-dobropolja-kotoryj-stanet-deputatom-rady.html
+	set tags vybory,ukraina,aksenov_andrej.doneck
+page
+	set url https://news.obozrevatel.com/politics/zelenskij-boretsya-s-ksu-chem-obuslovleno-reshenie-ob-uvolnenii-tupitskogo-i-kto-vinovat.htm
+	set tags ukraina,tupickii_aleksandr,ksu,konstitucia,zelenskii_vladimir,janukovich_viktor
+page
+	set url https://112ua.tv/glavnye-novosti/chas-zemli-kak-prohodit-samaya-massovaya-ekologicheskaya-akciya-na-planete-obnovlyaetsya-572294.html
+	set tags world,planeta,ekologia,chas_zemli
+page
+	set url https://blogs.pravda.com.ua/authors/goncharenko/605c80a6a3fb4/
+	set tags ukraina,navalny,pismo,goncharenko_alexei,rossia,buterbrod,krym
+page
+	set url https://fraza.com/news/299144-v-rossii-reshili-prisvoit-tarasa-shevchenko-sebe
+	set tags ukraina,rossia,shevchenko_taras,literatura,kultura,nasledie,poezia,srach
+page
+	set url http://ukrcentr.ru/novini/shevchenkivskij-vechir/#more-16505
+	set tags rossia,ukraina,moskva,shevchenko_taras,ukrcentr.moskva
 eof
 off
 page

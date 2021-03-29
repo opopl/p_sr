@@ -15565,6 +15565,45 @@ page
 page
 	set url https://www.epravda.com.ua/projects/kraina4g/2020/12/29/669588/
 	set tags ukraina,gonchar
+page
+	set url https://strana.ua/news/325240-pasporta-vaktsinatsii-ot-koronavirusa-chto-proiskhodit-v-evrope-i-ssha.html
+	set tags covid_passport,ukraina,zelenskii_vladimir,covid
+page
+	set url https://strana.ua/news/325321-rukovoditel-rossotrudnichestvo-prokommentiroval-skandal-s-tarasom-shevchenko.html
+	set tags rossotrudnichestvo,rossia,ukraina,primakov_evgenij.rossotr,shevchenko_taras,narod,sbu,kiev,donbass,rnbo,poezia
+page
+	set url https://fraza.com/news/299145-predstojatel-upts-rasskazal-pochemu-svjatye-zhili-v-malenkih-pescherah
+	set tags ukraina,lavra,favor,bog,cerkov,vera,svjatost
+page
+	set url https://www.radiosvoboda.org/a/nauka-i-osvita-ukrayiny/31175465.html
+	set tags ukraina,nauka,kiev,protest,nanu,uchenyj
+page
+	set url https://inosmi.ru/politic/20210329/249443833.html
+	set tags istoria,gagarin_jurij,sssr,kosmonavt,kosmos,kosmonavtika,raketa,nauka,rossia
+page
+	set url https://analytics.hvylya.net/227801-borotba-za-kosmos-chi-podilyat-veliki-derzhavi-kosmichniy-prostir
+	set tags kosmos,rossia,kitaj,usa,ukraina
+page
+	set url https://hvylya.net/special-projects/what-is-happening/ukraina-na-kraju-kto-sposoben-izmenit-stranu.html
+	set tags ukraina,future,romanenko_jurij,nacia,derzhava,revolucia,kraj
+page
+	set url https://analytics.hvylya.net/226499-ukraina-v-krizise-est-li-vyhod
+	set tags ukraina,krizis,strana,future,nacia,derzhava,obschestvo,vojna
+page
+	set url https://www.volyn.com.ua/news/178409-zhadan-i-dakhabrakha-vykonaly-pisniu-iaka-mozhe-staty-novym-alternatyvnym-himnom-ukrainy
+	set tags pesnja,ukraina,ptah,zhadan_sergej,dahabraha.gruppa,muzyka,kultura,nacia,gimn
+page
+	set url https://www.volyn.com.ua/news/177138-desiatyklasnytsia-khudozhnytsia-z-kamenia-kashyrskoho-peremohla-u-mizhnarodnomu-konkursi-foto
+	set tags deti,foto,konkurs,mir,planeta,world,hudozhnik,ukraina,volyn',risunok,golubi
+page
+	set url https://www.volyn.com.ua/news/176947-volynianka-zdobula-peremohu-na-prestyzhnomu-mizhnarodnomu-turniri-z-vilnoi-borotby
+	set tags ukraina,turnir,sport,bor'ba.volnaja,pobeda,kovel'.gorod
+page
+	set url https://www.volyn.com.ua/news/176637-shkoliarka-iz-volodymyra-volynskoho-peremozhnytsia-mizhnarodnoho-konkursu
+	set tags ukraina,volyn,shkola,deti,konkurs,pobeda,muzyka,vladimir_volynskij,sonjashnyk
+page
+	set url https://www.volyn.com.ua/news/176553-volynianka-vyhotovliaie-podarunkovi-medovo-imbyrni-prianyky
+	set tags volyn',ukraina,prjanik,eda,konditer,sladosti
 eof
 off
 page

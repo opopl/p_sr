@@ -15511,6 +15511,48 @@ page
 page
 	set url https://vz.ru/opinions/2021/3/29/1091779.html
 	set tags rossia,mentalitet,infvojna,zapad,rusmir,nacia,obschestvo
+page
+	set url https://strana.ua/news/325237-kadillak-morhenshterna-iz-za-rep-khitov-radikaly-hrozjatsja-otrezat-paltsy-ukrainskim-pevtsam.html
+	set tags morgenstern,kiev,ukraina,kriminal,izbienie,muzykant,muzyka
+page
+	set url https://strana.ua/news/325287-v-slavhorode-s-relsov-soshel-poezd-intersiti.html
+	set tags ukraina,kiev,zaporozhie,ukrzaliznycia,avaria,poezd
+page
+	set url https://strana.ua/articles/private-life/325289-skandalnoe-palto-stepanova-mozhno-kupit-za-11-000-.html
+	set tags ukraina,stepanov_maksim,minzdrav,skandal,palto,pokupka
+page
+	set url https://fraza.com/news/299157-v-kievo-pecherskoj-lavre-3-aprelja-otkroetsja-blagoveschenskaja-jarmarka
+	set tags upc,jarmarka,ukraina,kiev,lavra,cerkov,blagoveschenie.prazdnik.cerkov
+page
+	set url https://www.radiosvoboda.org/a/news-tkachenko-rossotrudnutchestvo-shevchenko/31175348.html
+	set tags ukraina,rossia,rossotrudnichestvo,tkachenko_aleksandr,rnbo,kultura,literatura,shevchenko_taras
+page
+	set url http://lug-info.com/news/one/otkrytyi-kubok-po-fitnesu-i-bodibildingu-mister-i-miss-fitnes-2021-proshel-v-perevalske-foto-66020
+	set tags lnr,lugansk,konkurs,fitnes,sport,zdorovje,krasota,medal',kubok
+page
+	set url https://regnum.ru/news/society/3228000.html
+	set tags rossia,izoljacia,karantin,covid,foto,moskva,lockdown
+page
+	set url https://regnum.ru/news/cultura/3224766.html
+	set tags jumor,teatr,moskva,rossia,kultura,spasenie,world
+page
+	set url https://regnum.ru/news/society/3221691.html
+	set tags rossia,zhizn,debri,priroda,ludi,chelovek,foto
+page
+	set url https://regnum.ru/news/cultura/3227014.html
+	set tags rossia,muzei,foto,kultura,garazh,isskustvo,vystavka
+page
+	set url https://regnum.ru/news/society/3167936.html
+	set tags rossia,moskva,golokost,vystavka,pamjat,osvencim,1945,rkka,vov,mirvojna2,evrei
+page
+	set url http://filarmonia64.com/?p=19963
+	set tags muzyka,filarmonia,lnr,lugansh,koncert,list_ferenc.kompozitor,kultura,orkestr
+page
+	set url https://riakursk.ru/rodnye-ubitoy-kurskoy-medsestry-o-fatezhskoy-tsrb-v-pyatnitsu-pyanka-byla-grandioznaya/
+	set tags kriminal,vrach,medik,bolnica,murder,rossia,kursk
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-v-2020-godu-rodilis-226-dvoynyashek-i-6-troynyashek/
+	set tags rossia,kursk,rozhdaemost,deti,rebenok,roddom,schastje
 eof
 off
 page

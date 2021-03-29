@@ -15604,6 +15604,61 @@ page
 page
 	set url https://www.volyn.com.ua/news/176553-volynianka-vyhotovliaie-podarunkovi-medovo-imbyrni-prianyky
 	set tags volyn',ukraina,prjanik,eda,konditer,sladosti
+page
+	set url https://hvylya.net/interview/215787-ukraina-na-geopoliticheskoy-doske
+	set tags ukraina,geopolitika,analiz
+page
+	set url https://www.volyn.com.ua/news/177808-u-lutsku-vidznachaly-den-narodzhennia-khudozhnytsi-iaka-namaliuvala-ponad-17-tysiach-robit
+	set tags luck,ukraina,andrijevska_emma,muzyka,hudozhnik
+page
+	set url https://zz.te.ua/u-ternopoli-ne-bude-vody/
+	set tags ukraina,ternopil,voda
+page
+	set url https://zz.te.ua/kazkova-krasa-na-ternopil-shchyni-zamerz-naybil-shyy-rivnynnyy-vodospad-ukrainy-foto/
+	set tags ukraina,priroda,vodopad,moroz,skazka,krasota,dnestr
+page
+	set url https://zz.te.ua/kvitkova-prystrast-olesi-hudymy-foto/
+	set tags gudyma_olesja.ternopil,hudozhnik,ternopil,kvity,ukraina,isskustvo,zhivopis,vystavka
+page
+	set url https://zz.te.ua/smertel-na-avariia-bilia-ternopolia-vodiy-leksusa-zbyv-babusiu-z-onukom-foto/
+	set tags ternopil,ukraina,dtp,avaria,babushka,stariki,deti,smert,doroga,avto
+page
+	set url https://zz.te.ua/pomer-vidomyy-kraieznavets-z-ternopil-shchyny/
+	set tags ukraina,ternopil,smert
+page
+	set url https://molbuk.ua/chernovtsy_news/222171-proschena-nedilya-scho-potribno-robyty-v-ostanniy-den-pered-postom.html
+	set tags proschenoe_voskresenie,ukraina,bukovyna,chernivci,cerkov,vera,maslenica
+	set date 14_03_2021
+page
+	set url https://strana.ua/news/325318-taras-shevchenko-russko-ukrainskij-poet-sut-skandala-zajavlenie-russkoho-doma-zakrojut-li-eho.html
+	set tags shevchenko_taras,ukraina,rossia,skandal,rossotrudnichestvo,rnbo,tkachenko_aleksandr,poezia,kultura,literatura,istoria,skorik_larisa
+page
+	set url https://strana.ua/news/325303-andreju-karpovu-iz-vata-shou-srezali-zarplatu-deklaratsija-sekretarja-poltavskoho-horsoveta.html
+	set tags ukraina,vata,vatnik,nenavist,ksenofobia,tv,zarplata,rabota,poltava
+page
+	set url https://www.pravda.com.ua/articles/2021/03/27/7288013/
+	set tags ukraina,internet,facebook,nenavist,vozmuschenie,psihologia,dobro,zlo
+page
+	set url https://censor.net/ru/blogs/3256122/prorok_z_avtomatom
+	set tags hristos,prorok,oruzhie,avtomat,ukraina,vera
+page
+	set url https://censor.net/ru/blogs/3256112/ne_ruzvelt
+	set tags ukraina,zelenskii_vladimir,ruzvelt_franklin.fdr,usa,istoria,vlast
+page
+	set url https://censor.net/ru/blogs/3253842/chomu_mi_programo_v_nformatsyinyi_vyin
+	set tags ukraina,rossia,infvojna,arestovich_aleksei,tkg
+page
+	set url https://blogs.korrespondent.net/blog/world/4342592/
+	set tags ukraina,sssr,istoria,kultura,proshloje,future,chelovek,pamjat,rozembaum_aleksandr.pevec,rossia
+page
+	set url https://blogs.korrespondent.net/blog/world/4342303/
+	set tags pandemia,world,planeta,porazhenie,pobeda,ukraina,rossia,kitaj,covid,usa,ever_given.korabl'
+page
+	set url https://blogs.korrespondent.net/blog/politics/4342019/
+	set tags tupickii_aleksandr,ksu,konstitucia,ukraina,derzhava,zakon,zelenskii_vladimir
+page
+	set url https://vz.ru/world/2021/3/27/1091537.html
+	set tags ukraina,karantin,lockdown,katastrofa,covid,vaccinacia,rossia
 eof
 off
 page

@@ -65,6 +65,7 @@ include:
     - ru.kulturologia
     - ru.kultura.cyrillitsa
 ###news_ua
+    - news.ua.molbuk
     - news.ua.golospravdy
     - news.ua.112ua
     - news.ua.apostrof

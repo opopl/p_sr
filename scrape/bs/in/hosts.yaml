@@ -36,6 +36,7 @@
 'dialog.ua' : { 'site' : 'news.ua.dialog' }
 'racurs.ua' : { 'site' : 'news.ua.racurs' }
 'korrespondent.net' : { 'site' : 'news.ua.korrespondent' }
+'molbuk.ua' : { 'site' : 'news.ua.molbuk' }
 
 ###news.by
 'tut.by' : { 'site' : 'news.by.tut' }

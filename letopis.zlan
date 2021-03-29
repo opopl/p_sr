@@ -15475,6 +15475,9 @@ page
 page
 	set url http://ukrcentr.ru/novini/shevchenkivskij-vechir/#more-16505
 	set tags rossia,ukraina,moskva,shevchenko_taras,ukrcentr.moskva
+page
+	set url http://ukrcentr.ru/novini/xix-vserosijskij-konkurs-na-krashhe-chitannya-poetichnix-tvoriv-tarasa-shevchenka-sered-ditej-ta-molodi/
+	set tags ukrcentr.moskva,ukraina,rossia,istoria,kultura,literatura,poezia,konkurs
 eof
 off
 page

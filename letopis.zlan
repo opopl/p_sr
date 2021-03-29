@@ -15346,6 +15346,117 @@ page
 page
 	set url https://zen.yandex.ru/media/mximnovikovski/kak-sozdatel-an8-i-an124-ruslan-prosidel-15-let-v-sovetskih-lageriah-i-uehal-v-ssha-rabotat-v-nasa-6056ab86c9454051652b9d14
 	set tags avia,konstruktor,sssr,istoria,kb_antonov,bolonkin_aleksandr.konstruktor.sssr
+page
+	set url http://lug-info.com/news/one/predstaviteli-vlastei-lnr-pozdravili-rabotnikov-teatrov-s-ikh-professionalnym-prazdnikom-foto-65984
+	set tags lnr,prazdnik,pozdravlenie,teatr,kultura
+page
+	set url https://strana.ua/news/325201-v-rf-zajavili-o-hotovnosti-obespechit-ves-mir-sputnikom-v.html
+	set tags rossia,sputnik_v,vaccine,covid,world,planeta
+page
+	set url https://www.radiosvoboda.org/a/rosiya-zahostrennia-tyzhden-na-donbasi/31173990.html
+	set tags rossia,ukraina,vojna,donbass,zelenskii_vladimir,francia,germania,smert
+page
+	set url https://news.obozrevatel.com/society/razrushenie-karfagena-kitaj-srazu-zajmet-sibir-i-dalnij-vostok.htm
+	set tags ukraina,rossia,razrushenie,posledstvie,planeta,kitaj,katastrofa,future
+page
+	set url https://news.obozrevatel.com/politics/izmena-gosudarstvu-dolzhna-karatsya-narodnyim-impichmentom.htm
+	set tags derzhava,gosizmena,impichment,narod,ukraina,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-ponaehavshie-yavlyayutsya-posobnikami-prestupleniya-kotoroe-sovershaetsya-rossiej.htm
+	set tags ukraina,krym,rossia,okupacia,vossoedinenie,narod
+page
+	set url https://video.hvylya.net/227232-trek-petlyury-kak-ukrainskiy-yazyk-stal-instrumentom-socialnogo-raspada-i-katastrofy
+	set tags petljura_simon,dacjuk_sergej.filosof,ukraina,future,obschestvo,nacia,derzhava,jazyk,mova
+page
+	set url https://analytics.hvylya.net/227799-upravlenie-voyskami-pochemu-ukraina-ne-gotova-k-voyne-budushchego
+	set tags ukraina,armia,otstalost',rossia,zelenskii_vladimir,strategia,shojgu_sergej,kreml
+page
+	set url http://lug-info.com/news/one/ukrosmi-predlagayut-zhitelyam-zony-oos-obvinit-lnr-v-obstrele-zolotogo-narodnaya-militsiya-65991
+	set tags ukraina,lnr,dezinformacia,vojna,donbass,obstrel,infvojna,oos,zolotoje_5.donbass
+page
+	set url https://fraza.com/video/299137-startoval-novyj-peredel-mira-kitaj-i-rossija-protiv-ssha-velikobritanii-i-es
+	set tags ukraina,rossia,usa,kitaj,peredel,world,diplomatia,politika
+page
+	set url https://strana.ua/news/325137-kniha-kombata-tornado-herashchenko-s-krasnoj-ryboj-u-karty-ilovajska-i-smert-muzha-chornovil.html
+	set tags ukraina,kniga,tornado.bataljon,tornado,vojna,donbass,sizo,kiev,sindrom
+page
+	set url https://news.obozrevatel.com/russia/diagnoz-putinu-kak-prigovor-rossii.htm
+	set tags putin_vladimir,rossia,biden_joe,killer,skandal
+page
+	set url https://gazeta.ua/articles/edu-and-science/_zupinivsya-niagarskij-vodospad-prognozuvali-kinec-svitu/1022821
+	set tags 1848,29_mar,niagara,usa,priroda,led,vodopad
+page
+	set url https://gazeta.ua/articles/life/_foto-za-yaki-mogli-pokarati-vsya-pravda-pro-zhittya-v-srsr/1022479
+	set tags sssr,istoria,foto,nakazanie,zapret,zhizn,deficit,magazin,dengi,ochered'
+page
+	set url https://gazeta.ua/articles/krym/_majbutnye-krimu-virishuvatimut-rosiyanikolonizatori/1022532
+	set tags sud,ukraina,krym,putin_vladimir,okupacia,nakazanie,rossia,deokupacia,strategia
+page
+	set url https://sobytiya.net/v-oxvachennom-epidemiej-frankovske-pospeshno-kopayut-mogily
+	set tags mogila,ukraina,ivano_frankovsk,covid,smert,kladbische
+page
+	set url https://sobytiya.net/mesivo-pod-mariupolem-boeviki-poshli-v-ataku-zhestko-gupayut-po-ukrepleniyam-vsu/
+	set tags donbass,vojna,ukraina,mariupol,vsu
+page
+	set url https://riakursk.ru/chtoby-pomnili-bitva-pri-salnitse/
+	set tags 1111,27_mar,monomah_vladimir.knjaz,pobeda,polovcy,bitva,psel.reka,vorskla.reka,kievrus,drevrus,letopis,letopis.pvl,istoria,rossia,rusmir
+page
+	set url https://riakursk.ru/rezhisser-danila-kozlovskiy-pokazal-kurskim-likvidatoram-svoy-novyy-film-chernobyl/
+	set tags rossia,kursk,kurchatov.gorod,chernobyl,film,kozlovskij_danila,kino,kultura,1986,ukraina,avaria,katastrofa
+page
+	set url https://www.radiosvoboda.org/a/donbas-pensiji/31173697.html
+	set tags ukraina,vojna,donbass,doneck,zhizn,socopros,finansy,dengi,rostov_na_donu,rossia
+page
+	set url https://regnum.ru/news/polit/3226785.html
+	set tags rossia,krym,evropa,vossoedinenie
+page
+	set url https://vz.ru/opinions/2021/3/29/1091138.html
+	set tags rossia,opravdanie,zhizn
+page
+	set url https://www.radiosvoboda.org/a/lermontov-i-shevchenko-kazakhstan/31173658.html
+	set tags shevchenko_taras,lermontov_mihail,rossia,ukraina,istoria,kultura,poezia,literatura
+page
+	set url https://from-ua.com/articles/593233-samii-bolshoi-flag-ukraini-mega-patriotizm-ili-mega-korrupciya.html
+	set tags ukraina,flag,patriotizm,nacia,derzhava
+page
+	set url https://www.pravda.com.ua/articles/2021/03/29/7288090/
+	set tags elizaveta_II_koroleva,moneta,ukraina,dengi,finansy,dizajn,konkurs,petrjakovskaja_rospis'
+page
+	set url https://ukraina.ru/news/20210329/1030973917.html
+	set tags ukraina,priroda,svinja,kiev,kurjez,zhizn
+page
+	set url https://ukraina.ru/opinion/20210327/1030968053.html
+	set tags ukraina,nacionalist,bandera_stepan,vov,kiev,ideologia,nazis,buzina_oles
+page
+	set url https://smotrim.ru/article/2542860
+	set tags sssr,istoria,1961,tragedia,deti,chuvashia,rossia,shkola,direktor,pozhar,5_nov,elbarusovo.chuvashia.selo
+page
+	set url https://smotrim.ru/article/2543201
+	set tags rossia,spektakl,teatr,kukla,wizard_of_oz,skazka,volshebnik,deti
+page
+	set url https://smotrim.ru/article/2541830
+	set tags nekrolog,smert,rossia,kultura,skazka,kino,sssr,1972,granik_anatolij.rezhisser.sssr,12_mesjacev.kinoskazka
+page
+	set url https://smotrim.ru/article/2543212
+	set tags jarmarka,kniga,rossia,vystavka,chtenie,kultura,obschestvo
+page
+	set url https://www.vesti.ru/article/2542885
+	set tags leto,rossia,pogoda,orange,cvet
+page
+	set url https://cyrillitsa.ru/history/156077-kem-byl-obshhiy-predok-vsekh-ryurikovichey.html
+	set tags rossia,istoria,genetika,rjurik.knjaz.rus',rjurikovich,rusmir,drevrus,oleg_veschij,nauka,issledovanie,slavjane
+page
+	set url https://cyrillitsa.ru/history/152038-za-kakie-zaslugi-petr-i-uvazhal-ivana-maz.html
+	set tags mazepa_ivan,petr_pervyi,ukraina,rossia,istoria,kazaki,vojsko_zaporozhskoje,1687,krym,rusmir,1700,cerkov,mecenat,kiev
+page
+	set url https://zen.yandex.ru/media/arhkot/vot-nash-onegin--selskii-jitel-6057a1a7f538db689d2f1631
+	set tags evgenij_onegin.roman,rossia,pushkin_aleksandr,rus',rusmir,kultura,istoria
+page
+	set url https://zen.yandex.ru/media/redbook/skazkabyl-pro-onijedetei-oleshenku-da-rasseiushku-605eaf98038b20790c7460fe
+	set tags rossia,skazka,onizhedeti,navalny,buratino,putin_vladimir,korupcia,demon,deti,gosdep,kreml
+page
+	set url https://inosmi.ru/social/20210102/248815834.html
+	set tags rossia,istoria,moskovia,polsha,moskva,ukraina
 eof
 off
 page

@@ -16124,6 +16124,18 @@ page
 page
 	set url https://www.dialog.ua/ukraine/226491_1616958756
 	set tags smert,murder,ato,revgidnosti,maidan2,vojna,donbass,aktivist,ukraina,kiev,kriminal,mandych_aleksandr.aktivist
+page
+	set url https://www.radiosvoboda.org/a/photo-obshuk-rezydentsiyi-medvedchuka-u-zakarpatti/31169586.html
+	set tags obysk,sbu,ukraina,medvedchuk_viktor,rezidencia,zakarpatie
+page
+	set url https://kiev.strana.ua/325457-v-kieve-proshla-prezentatsija-obshchestvennoj-orhanizatsii-vitolda-fokina.html
+	set tags fokin_vitold,ukraina,tkg,pomosch,donbass,obschestvo,prezentacia
+page
+	set url https://strana.ua/news/325447-hibel-chetverykh-voennykh-na-donbasse-ruslan-khomchak-nazval-novuju-versiju-sluchivshehosja.html
+	set tags ukraina,vsu,oos,snajper,minomet,obstrel,smert,donbass,vojna,shumy.donbass.poselok
+page
+	set url https://www.sports.ru/tribuna/blogs/figureice/2904026.html
+	set tags rossia,chempionat,trusova_aleksandra,figurist,smeh,flag,pobeda,scherbakova_anna.figurist.rossia,tuktamysheva_liza.figurist.rossia,stokholm,shvecia
 eof
 off
 page

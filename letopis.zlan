@@ -16094,6 +16094,12 @@ page
 page
 	set url https://sharij.net/berliner-zeitung-ukrainskie-pravoradikaly-dobivayutsya-smerti-shariya-v-ispanii
 	set tags sharij_anatolii,ukraina,evropa,presledovanie,repressii,gosizmena,blogger
+page
+	set url http://lug-info.com/news/one/volontery-od-mir-luganschine-razdali-bolee-100-meditsinskikh-masok-zhitelyam-pervomaiska-foto-66041
+	set tags pandemia,lnr,pervomajsk,maska,covid,pomosch,volonter,aktivist,obschestvo,mir_luganschine
+page
+	set url https://censor.net/ru/resonance/3256383/vse_teper_zalejit_vd_sash_scho_bude_z_13_dtmi_pomerlih_vd_kovdu_makvchan_volodimira_ta_dani_rodkovih
+	set tags ukraina,covid,makeevka,donbass,vojna,pereselenec,smert,bolezn,mater,deti,rossia,rodikov_vladimir
 eof
 off
 page

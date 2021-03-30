@@ -76,6 +76,7 @@
 'lug-info.com' : { 'site' : 'news.lnr.lug_info' }
 'mir-lug.info' : { 'site' : 'news.lnr.mirlug' }
 'nt1941.su' : { 'site' : 'news.lnr.narod_tribuna' }
+'miaistok.su' : { 'site' : 'news.lnr.miaistok' }
 
 ###bib
 'exlibris.org.ua' : { 'site' : 'bib.ua.exlibris' }

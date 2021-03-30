@@ -6606,7 +6606,6 @@ page
 page
 	set url https://dnepr.strana.ua/320544-v-dnepre-muzhchina-s-koronavirusom-pytalsja-sovershit-suitsid.html
 	set tags dnepropetrovsk,ukraina,covid,vaccine,suicide,stradanie,bolnica
-
 page
 	set url https://kiev.strana.ua/296151-volna-samoubijstv-patsientov-s-koronavirusnoj-infektsiej-v-kieve.html
 	set tags covid,suicide,ukraina
@@ -15884,30 +15883,7 @@ page
 page
 	set url https://nt1941.su/allnews/1304-komanda-kvn-nate-v-sostave-kotoroy-igraet-nash-zemlyak-vlad-romanov-vyshla-v-vysshuyu-ligu-kvn.html
 	set tags lnr,smeh,kvn,sochi.gorod,rossia,donbass,lugansk
-page
-	set url https://miaistok.su/aktivisty-od-mir-luganshhine-zakrasili-bolee-140-adresov-telegram-kanalov-narkotorgovtsev-v-lnr/
-	set tags lnr,mir_luganschine,zakraska,narkotorgovec,narkotik,nadpis',stena,kraska,aktivist,molodaja_gvardia.lnr,lugansk
-page
-	set url https://miaistok.su/ostaviv-donbass-odin-na-odin-s-koronavirusom-kiev-priznal-lnr-i-dnr-inostrannymi-gosudarstvami/
-	set tags kiev,ukraina,donbass,karantin,granica,covid,pandemia,rossia,vojna
-page
-	set url https://miaistok.su/koronavirus-logiki-kiev-potreboval-ot-rossii-obyasnenij-v-otnoshenii-donbassa-i-kryma/
-	set tags kiev,ukraina,donbass,rossia,krym,logika
-page
-	set url https://miaistok.su/nedelyu-detskoj-knigi-otkryli-v-luganske-teatralizovannym-predstavleniem/
-	set tags lnr,lugansk,deti,kniga,prazdnik,skazka
-page
-	set url https://miaistok.su/vysshaya-nagrada-rossii-za-veru-i-vernost/
-	set tags rossia,nagrada,petr_pervyi,mazepa_ivan,andrej_pervozvannyj,rusimperia,rusmir,ukraina,istoria,1699,vera,vernost'
-page
-	set url https://miaistok.su/shag-v-nikuda-60-let-spustya/
-	set tags leonov_aleksej,kosmonavt,kosmos,sssr,istoria,kosmonavtika,nauka
-page
-	set url https://miaistok.su/opolchenets-andrej-marochko-ob-osvobozhdenii-debaltsevo-v-zhivyh-ostalsya-ya-odin-tsena-vypolnennoj-zadachi-byla-slishkom-vysoka/
-	set tags nm_lnr,lnr,debalcevo,vojna,donbass
-page
-	set url https://miaistok.su/kak-razbilas-evropejskaya-mechta-ukraintsev-majdan-i-vojna-v-donbasse-vsyo-zrya/
-	set tags ukraina,evropa,donbass,mechta,vojna
+
 page
 	set url https://mir-lug.info/novosti-proektov/den-rossii-v-luganske-otmetyat-avtoprobegom/
 	set tags rossia,lnr,avto,prazdnik,den_rossii,12_jun,prazdnovanie,flag.rossia,flag.lnr,avtoprobeg,lugansk
@@ -16067,6 +16043,55 @@ page
 page
 	set url https://news.obozrevatel.com/ukr/kiyany/life/u-kievi-pensionerka-peretvorila-dvir-bagatopoverhivki-v-kazku-foto.htm
 	set tags ukraina,kiev,dvor,dom,skazka,pensioner,tvorchestvo,cherepaha,isskustvo
+page
+	set url https://gazeta.ua/articles/politics/_zaberit-u-nih-pravo-golosu-reakciya-socmerezh-na-peremogu-aksonova/1023025
+	set tags ukraina,facebook,internet,kommentarii,vybory,doneck,donbass,pobeda,aksenov_andrej.doneck
+page
+	set url https://gazeta.ua/blog/54826/stvoryuvati-poyas-uspishnosti-na-donbasi-pri-zhivij-rosiyi-nerealistichna-zatiya
+	set tags rossia,ukraina,donbass,reznikov_aleksei,uspehi
+page
+	set url https://gazeta.ua/articles/world-life/_hlopec-pobiv-rekord-po-viryachennyu-ochej/1023085
+	set tags ukraina,rekord,glaza,pakistan,komarov_dmitrij.ukr.tv
+page
+	set url https://gazeta.ua/articles/politics/_rosiya-prirechena-buti-ukrayinskim-protivnikom-kazarin/1022895
+	set tags ukraina,rossia,protivnik,vrag,putin_vladimir,kuhnja,pesnja,emocii,lvov
+page
+	set url https://sharij.net/zelenskij-lichno-zapretil-ligu-smeha-v-rossii-smi
+	set tags rossia,smeh,zelenskii_vladimir,franshiza,kvn,zapret,kvartal95,ukraina
+page
+	set url https://sharij.net/ukrainskuyu-shahmatistku-lishili-pobedy-na-studencheskom-chm-iz-za-podozreniya-v-chiterstve
+	set tags ukraina,chess,chempionat,obman,diskvalifikacia,porazhenie,fide
+page
+	set url https://sharij.net/ukrainskij-grossmejster-pozhelal-vsem-schastlivogo-dnya-smerti-stalina
+	set tags ponomarev_ruslan.chess.ukr,stalin_jozef,smert,schastje,pozhelanie,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://miaistok.su/aktivisty-od-mir-luganshhine-zakrasili-bolee-140-adresov-telegram-kanalov-narkotorgovtsev-v-lnr/
+	set tags lnr,mir_luganschine,zakraska,narkotorgovec,narkotik,nadpis',stena,kraska,aktivist,molodaja_gvardia.lnr,lugansk
+page
+	set url https://miaistok.su/ostaviv-donbass-odin-na-odin-s-koronavirusom-kiev-priznal-lnr-i-dnr-inostrannymi-gosudarstvami/
+	set tags kiev,ukraina,donbass,karantin,granica,covid,pandemia,rossia,vojna
+page
+	set url https://miaistok.su/koronavirus-logiki-kiev-potreboval-ot-rossii-obyasnenij-v-otnoshenii-donbassa-i-kryma/
+	set tags kiev,ukraina,donbass,rossia,krym,logika
+page
+	set url https://miaistok.su/nedelyu-detskoj-knigi-otkryli-v-luganske-teatralizovannym-predstavleniem/
+	set tags lnr,lugansk,deti,kniga,prazdnik,skazka
+page
+	set url https://miaistok.su/vysshaya-nagrada-rossii-za-veru-i-vernost/
+	set tags rossia,nagrada,petr_pervyi,mazepa_ivan,andrej_pervozvannyj,rusimperia,rusmir,ukraina,istoria,1699,vera,vernost'
+page
+	set url https://miaistok.su/shag-v-nikuda-60-let-spustya/
+	set tags leonov_aleksej,kosmonavt,kosmos,sssr,istoria,kosmonavtika,nauka
+page
+	set url https://miaistok.su/opolchenets-andrej-marochko-ob-osvobozhdenii-debaltsevo-v-zhivyh-ostalsya-ya-odin-tsena-vypolnennoj-zadachi-byla-slishkom-vysoka/
+	set tags nm_lnr,lnr,debalcevo,vojna,donbass
+page
+	set url https://miaistok.su/kak-razbilas-evropejskaya-mechta-ukraintsev-majdan-i-vojna-v-donbasse-vsyo-zrya/
+	set tags ukraina,evropa,donbass,mechta,vojna
 eof
 off
 page

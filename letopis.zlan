@@ -16064,10 +16064,6 @@ page
 page
 	set url https://sharij.net/ukrainskij-grossmejster-pozhelal-vsem-schastlivogo-dnya-smerti-stalina
 	set tags ponomarev_ruslan.chess.ukr,stalin_jozef,smert,schastje,pozhelanie,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://miaistok.su/aktivisty-od-mir-luganshhine-zakrasili-bolee-140-adresov-telegram-kanalov-narkotorgovtsev-v-lnr/
 	set tags lnr,mir_luganschine,zakraska,narkotorgovec,narkotik,nadpis',stena,kraska,aktivist,molodaja_gvardia.lnr,lugansk
@@ -16092,6 +16088,12 @@ page
 page
 	set url https://miaistok.su/kak-razbilas-evropejskaya-mechta-ukraintsev-majdan-i-vojna-v-donbasse-vsyo-zrya/
 	set tags ukraina,evropa,donbass,mechta,vojna
+page
+	set url https://sharij.net/vakczinu-astrazeneca-pereimenovali-v-vaxzevria
+	set tags covid,vaccine,astrazeneka,world,evropa
+page
+	set url https://sharij.net/berliner-zeitung-ukrainskie-pravoradikaly-dobivayutsya-smerti-shariya-v-ispanii
+	set tags sharij_anatolii,ukraina,evropa,presledovanie,repressii,gosizmena,blogger
 eof
 off
 page

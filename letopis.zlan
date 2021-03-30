@@ -16157,6 +16157,52 @@ page
 page
 	set url https://www.kp.ru/daily/27257/4389540/
 	set tags ukraina,donbass,kiev,rossia,obschestvo,lockdown,karantin,zhizn,foto
+page
+	set url https://mir-lug.info/official/leonid-pasechnik-net-somnenij-chto-donbass-stanet-chastyu-velikoj-rossii/
+	set tags rossia,donbass,lnr,poklonskaja_natalia,pasechnik_leonid,future,mir_luganschine,rusmir,pomosch,fraza
+page
+	set url https://mir-lug.info/nachni-s-sebya/
+	set tags lnr,volonter,aktivist,molodezh,mir_luganschine,chelovek
+	set date 30_03_2021
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-ramkah-akczii-nachni-s-sebya-rabotniki-od-mir-luganshhine-pomogli-13-zhitelyam-lnr/
+	set tags lnr.nachni_s_sebja,mir_luganschine,akcia,molodezh,volonter,aktivist,pomosch,obschestvo,lnr
+page
+	set url https://cxid.info/152677_v-luganske-vybrali-miss-foto.html
+	set tags krasota,konkurs,devushka,lugansk,lnr,moskva,rossia
+page
+	set url https://strana.ua/news/325504-rossijskie-spetsnazovtsy-poldnja-ne-mohut-obezvredit-pensionera-strelka-v-podmoskove.html
+	set tags rossia,specnaz,kriminal,strelba,omon,pensioner,moskva,mytischi.moskva
+page
+	set url https://strana.ua/news/325500-avakov-vystupil-za-russkij-jazyk-i-zajavil-chto-on-ukrainskij-natsionalist.html
+	set tags ukraina,rusmir,rossia,dezinformacia,putin_vladimir,avakov_arsen,jazyk,mova,bulgakov_mihail,nekrasov_viktor,nosov_evgenii,gogol_nikolai,shevchenko_taras,kiev
+page
+	set url https://strana.ua/news/325427-vaxzevria-vaktsina-pochemu-astrazeneca-izmenila-nazvanie-statistika-vozniknovenija-tromboza.html
+	set tags vaxzevria,astrazeneka,vaccine,tromboz,world,pereimenovanija,ukraina,kanada,pobochka,vaccinacia,covid
+page
+	set url https://strana.ua/opinions/325416-proizoshlo-ochen-vazhnoe-sobytie-kotoroe-pochti-ne-zametili.html
+	set tags strana,ukraina,prezident,zelenskii_vladimir,zakon,ukaz,velosiped,simvol,simvolika
+page
+	set url https://www.pravda.com.ua/news/2021/03/30/7288401/
+	set tags rossia,sputnik_v,vaccine,pokupka,peregovory,avstria,evropa
+page
+	set url https://strana.ua/news/325509-sjumar-netsenzurno-vyruhalas-s-tribuny-verkhovnoj-rady-video.html
+	set tags putin_vladimir,oskorblenie,verhovna_rada,ukraina,sjumar_viktoria
+page
+	set url https://ukraina.ru/exclusive/20210330/1030948228.html
+	set tags ukraina,rossia,russofobia,danilov_aleksei,donbass,serbia
+page
+	set url https://ukraina.ru/opinion/20210330/1030994519.html
+	set tags rossia,ukraina,moskva,donbass,dnr,lnr,priznanie,agressor,minsk_dogovor
+page
+	set url https://plus.obozrevatel.com/crime/homchak-rasskazal-kak-rossijskie-snajperyi-rasstrelyali-v-spinyi-voinov-vsu-pod-shumami.htm
+	set tags ukraina,vsu,shumy.donbass.poselok,snajper,vojna,donbass
+page
+	set url http://lug-info.com/news/one/molodezh-iz-antratsitovskogo-raiona-i-krasnogo-lucha-posetila-muzei-dalya-v-luganske-foto-66072
+	set tags lnr,lugansk,molodezh,muzei,dal'_vladimir,literatura,jazyk
+page
+	set url http://lug-info.com/news/one/luganskii-teatr-9-i-10-aprelya-priglashaet-na-premeru-spektaklya-in-i-yan-chernaya-versiya-66075
+	set tags lardt,lugansk,lnr,spektakl,premjera,akunin_boris
 eof
 off
 page

@@ -17,6 +17,8 @@ sel:
     - .block-breadcrumbs
     - .block-doc-print
     - .block-share-default
+    - .block-comments__photo
+    - .block-comments-form__field
 
 PageParser:
   get_date:

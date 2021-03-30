@@ -16053,6 +16053,9 @@ page
 page
 	set url https://pravoslavie.ru/37034.html
 	set tags vera,vernost',japonia,vojna,prikaz,imperator,soldat,bog,zhizn,chelovek,semja,rodina
+page
+	set url https://pravoslavie.ru/49479.html
+	set tags pravoslavie,jazyk,slovo,vera,cerkov,ezop,rusmir,filosofia,mysli,hristos
 eof
 off
 page

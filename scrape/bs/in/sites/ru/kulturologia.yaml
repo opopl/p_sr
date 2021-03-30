@@ -20,8 +20,7 @@ PageParser:
       - { 
           'find'  : '#dat span',
           'get'   : 'text',
-          'split' : ' ',
-          'fmt'   : '%d.%m.%Y',
+          'order' : 'DMY',
         }
   get_author:
   get_author_html:

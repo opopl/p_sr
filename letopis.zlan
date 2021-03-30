@@ -16251,6 +16251,15 @@ page
 page
 	set url http://lug-info.com/news/one/deputat-gosdumy-nagradil-glavu-mvd-lnr-za-vklad-v-protsess-oformleniya-grazhdanstva-rf-foto-66087
 	set tags lnr,donbass,rossia,gosduma,grazhdanstvo,passport,nagrada
+page
+	set url https://kulturologia.ru/blogs/050315/23559/
+	set tags grafiti,kiev,ukraina,risunok,stena,isskustvo,dom,gorod,kultura
+page
+	set url https://istrind.livejournal.com/173573.html
+	set tags kievrus,grafiti,kiev,ukraina,istoria,drevrus
+page
+	set url https://nashkiev.ua/zhournal/mesta/top-20-kievskih-graffiti-kotorye-stoit-ouvidet.html
+	set tags ukraina,kiev,isskustvo,dom,ulica,gorod,grafiti
 eof
 off
 page

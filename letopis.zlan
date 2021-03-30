@@ -15947,6 +15947,112 @@ page
 page
 	set url https://mir-lug.info/novosti-terotdelenij/v-slavyanoserbskom-rajone-pochtili-pamyat-pogibshih-v-rezultate-aviaudara-vsu-po-lugansku/
 	set tags avia_udar.02_06_2014.lugansk,vsu,lnr,lugansk,pamjat,slavjanoserbsk.lnr,vojna,donbass,ukraina
+page
+	set url https://mir-lug.info/mnenie/mariya-mihajlova-tragediya-2-iyunya-strashnaya-data-dlya-luganskoj-narodnoj-respubliki-i-vsego-donbassa/
+	set tags mihajlova_marina.lnr,pamjat,avia_udar.02_06_2014.lugansk,lnr,donbass,vojna,vsu,aktivist,mir_luganschine,deti
+page
+	set url https://mir-lug.info/mnenie/antonina-mashkova-razrushennye-doma-problemy-so-zdorovem-isporchennaya-psihika-vse-eto-rezultaty-zaboty-ukrainskoj-vlasti-o-donbasse/
+	set tags lnr,donbass,ukraina,killer,mashkova_antonina.lnr.volonter,vojna,zelenskii_vladimir,pomosch,rossia
+page
+	set url https://mir-lug.info/novosti-terotdelenij/volontyory-akczii-ruka-pomoshhi-pomogli-dvoim-zhitelyam-slavyanoserbskogo-rajona/
+	set tags lnr,ruka,pomosch,mir_luganschineu,volonter,aktivist
+page
+	set url https://mir-lug.info/official/denis-miroshnichenko-obratilsya-k-zhitelyam-lnr-v-svyazi-s-shestoj-godovshhinoj-aviaudara-vsu-po-lugansku/
+	set tags agressor,ukraina,lnr,pamjat,avia_udar.02_06_2014.lugansk,lugansk,vojna,donbass
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-gorodah-i-rajonah-lnr-otprazdnovali-mezhdunarodnyj-den-zashhity-detej/
+	set tags deti,mir_luganschine,den'_zaschity_detej,lnr,prazdnik,aktivist,volonter,1_jun
+page
+	set url https://mir-lug.info/novosti-terotdelenij/bella-demeshko-pozdravila-vospitannikov-detskogo-sada-ivushka-v-rovenkah/
+	set tags lnr,detsad,deti,den'_zaschity_detej,prazdnik,pozdravlenie,mir_luganschine,ns_lnr,deputat,demeshko_bella.ns_lnr.deputat
+page
+	set url https://mir-lug.info/official/leonid-pasechnik-ukrainskaya-vlast-otvetit-za-kazhduyu-oborvannuyu-detskuyu-zhizn/
+	set tags pasechnik_leonid,lnr,vojna,donbass,deti,prestuplenie,ukraina,vsu,genocid
+page
+	set url https://mir-lug.info/novosti-terotdelenij/aktivisty-od-mir-luganshhine-proveli-master-klass-po-bumagoplastike-v-sele-sabovka/
+	set tags mir_luganschine,lnr,master_klass,aktivist,tvorchestvo,bumaga,plastika
+page
+	set url https://mir-lug.info/novosti-terotdelenij/aktivisty-od-mir-luganshhine-pozdravili-pogranichnikov-s-prazdnikom/
+	set tags lnr,den'_pogranichnika,prazdnik,prazdnovanie,mir_luganschine,pozdravlenie
+page
+	set url https://mir-lug.info/ns/artista-luganskogo-akademicheskogo-russkogo-dramaticheskogo-teatra-imeni-luspekaeva-pozdravili-s-60-letiem/
+	set tags mir_luganschine,pozdravlenie,lnr,lardt,teatr,lugansk,kravcov_evgenij.akter.lnr,60_let
+page
+	set url https://mir-lug.info/novosti-terotdelenij/vypusknikov-i-pedagogov-pozdravili-s-okonchaniem-uchebnogo-goda-v-rovenkah/
+	set tags ucheba,lnr,shkola,pozdravlenie,zvonok,podrostki
+page
+	set url https://mir-lug.info/novosti-terotdelenij/aktivisty-od-mir-luganshhine-priveli-v-poryadok-mogilu-veterana-v-krasnom-luche/
+	set tags mir_luganschine,veteran,lnr,mogila,kladbische,volonter,aktivist,molodaja_gvardia.lnr,druzhina,vov,2007,malahov_pavel.veteran.lnr
+page
+	set url https://mir-lug.info/novosti-terotdelenij/aktivisty-proekta-molodaya-gvardiya-prinyali-uchastie-v-vebinare-lichnaya-effektivnost-kak-povysit-svoyu-resursnost/
+	set tags lnr,aktivist,effektivnost',psihologia,lichnost',chelovek,molodaja_gvardia.lnr,mir_luganschine,webinar
+page
+	set url https://mir-lug.info/novosti-terotdelenij/luganskie-aktivisty-od-mir-luganshhine-prinyali-uchastie-v-akczii-nachni-s-detstva/
+	set tags lnr,mir_luganschine,detskaja_ploschadka,pokraska,pomosch,volonter,aktivist,deti
+page
+	set url https://strana.ua/news/325397-peskov-nazval-druzej-rossii-iskljuchiv-ukrainu-.html
+	set tags ukraina,kreml,rossia,drug,putin_vladimir,peskov_dmitrii
+page
+	set url https://strana.ua/opinions/325356-polozhit-konets-vojne-na-donbasse-mozhet-tolko-politicheskoe-urehulirovanie.html
+	set tags tkg,vojna,donbass,ukraina,rossia,peregovory,mir,minsk_dogovor,politika
+page
+	set url https://fraza.com/news/299172-kiev-stal-epitsentrom-covid-19-v-ukraine
+	set tags kiev,ukraina,covid,zabolevajemost',bolezn,statistika
+page
+	set url https://fraza.com/news/299175-putina-snova-nazvali-ubijtsej-
+	set tags litva,rossia,putin_vladimir,killer
+page
+	set url https://fraza.com/video/299154-pojavilos-strannoe-i-zloveschee-video-s-uchastiem-zhirinovskogo
+	set tags rossia,zhirinovskii_vladimir,voj.volchij,volk,kitaj,usa,vojna
+page
+	set url https://fraza.com/blog/299167-ukraina-umirajuschee-gosudarstvo-bez-ideologii
+	set tags ukraina,ideologia,umiranie,derzhava,demokratia,sssr,istoria,future,raspad
+page
+	set url https://fraza.com/stenograms/299164-zelenskij-vne-igry-dazhe-evropa-ponjala-chto-s-nim-obsuzhdat-nechego
+	set tags zelenskii_vladimir,rossia,ukraina,minsk_dogovor,ustalost,evropa,vojna,donbass
+page
+	set url https://fraza.com/stenograms/299168-kak-ssha-proigrali-jadernuju-vojnu-s-rossiej-i-udarili-po-kitaju
+	set tags 2014,usa,rossia,kitaj,uchenija,atom_bomb,jadernyj_schit,podlodki
+page
+	set url https://fraza.com/blog/299171-neadekvatnyj-bajden-budet-prezidentom-ne-dolgo-i-privedet-ssha-k-glubokomu-krizisu-
+	set tags geopolitika,world,biden_joe,prezident,usa,rossia,kitaj,germania,india,sankcii,liderstvo,demencia
+page
+	set url https://strana.ua/news/325376-dovybory-v-radu-vojna-za-tarasa-shevchenko-poluchil-za-morhenshterna.html
+	set tags ukraina,itogi,rossia,morgenstern,muzyka,muzykant,kriminal,draka,radikaly,kiev,patriotizm,gopnik
+page
+	set url https://strana.ua/news/325386-kanada-vyjasnila-kohda-pojavljajutsja-tromby-posle-ukola-astrazeneca-i-ostanovila-vaktsinatsiju.html
+	set tags kanada,vaccinacia,astrazeneka,tromboz,opasnost',pobochka,vaccine,covid,ostanovka
+page
+	set url https://www.pravda.com.ua/articles/2021/03/30/7288310/
+	set tags upc,pcu,cerkov,rossia,ukraina,rusmir,vera
+page
+	set url https://life.pravda.com.ua/society/2021/03/30/244375/
+	set tags ukraina,zhizn,selo,kon'
+page
+	set url https://www.pravda.com.ua/podcasts/podkast-klyati-pitannya/2021/03/28/7288109/
+	set tags ukraina,evropa,vremja
+page
+	set url https://vz.ru/opinions/2021/3/30/1091777.html
+	set tags covid,urok,pandemia,maska,rossia,world
+page
+	set url https://ukraina.ru/opinion/20210330/1030985172.html
+	set tags ukraina,vojna,donbass,rossia,usa,geopolitika,mir,zapad,polsha,diplomatia,minsk_dogovor
+page
+	set url https://ukraina.ru/exclusive/20210330/1030981017.html
+	set tags st_peterburg,rossia,ukraina,prazdnik,rossotrudnichestvo,shevchenko_taras,sankcii,ukrcentr.moskva,arbat,moskva,russofobia,kultura,rusimperia,rusmir,istoria,franko_ivan,fraza,idol,tkachev_andrej.protoierej,rnbo,dnevnik,mova,jazyk
+global
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://pravoslavie.ru/90544.html
+	set tags tkachev_andrej.protoierej,shevchenko_taras,stalin_jozef,rusmir,rossia,ukraina,kultura,ukrainstvo,ideologia,cerkov,vera,poezia
+page
+	set url https://pravoslavie.ru/37672.html
+	set tags gogol_nikolai,vechnost',rossia,rusmir,ukraina,kultura,slovo,literatura
+page
+	set url https://pravoslavie.ru/37034.html
+	set tags vera,vernost',japonia,vojna,prikaz,imperator,soldat,bog,zhizn,chelovek,semja,rodina
 eof
 off
 page

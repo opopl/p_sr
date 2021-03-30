@@ -6,6 +6,17 @@ sel:
     - .block-search-adaptive
     - .block-upperpanel__markers
     - .block-upperpanel
+    - .b-ppm-banners
+    - .block-donation-article
+    - .block-subscription-page
+    - .block-donation-buy
+    - .block-rating
+    - .block-menu-responsive
+    - .block-right
+    - .block-prev-next
+    - .block-breadcrumbs
+    - .block-doc-print
+    - .block-share-default
 
 PageParser:
   get_date:

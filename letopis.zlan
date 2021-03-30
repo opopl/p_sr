@@ -15884,6 +15884,69 @@ page
 page
 	set url https://nt1941.su/allnews/1304-komanda-kvn-nate-v-sostave-kotoroy-igraet-nash-zemlyak-vlad-romanov-vyshla-v-vysshuyu-ligu-kvn.html
 	set tags lnr,smeh,kvn,sochi.gorod,rossia,donbass,lugansk
+page
+	set url https://miaistok.su/aktivisty-od-mir-luganshhine-zakrasili-bolee-140-adresov-telegram-kanalov-narkotorgovtsev-v-lnr/
+	set tags lnr,mir_luganschine,zakraska,narkotorgovec,narkotik,nadpis',stena,kraska,aktivist,molodaja_gvardia.lnr,lugansk
+page
+	set url https://miaistok.su/ostaviv-donbass-odin-na-odin-s-koronavirusom-kiev-priznal-lnr-i-dnr-inostrannymi-gosudarstvami/
+	set tags kiev,ukraina,donbass,karantin,granica,covid,pandemia,rossia,vojna
+page
+	set url https://miaistok.su/koronavirus-logiki-kiev-potreboval-ot-rossii-obyasnenij-v-otnoshenii-donbassa-i-kryma/
+	set tags kiev,ukraina,donbass,rossia,krym,logika
+page
+	set url https://miaistok.su/nedelyu-detskoj-knigi-otkryli-v-luganske-teatralizovannym-predstavleniem/
+	set tags lnr,lugansk,deti,kniga,prazdnik,skazka
+page
+	set url https://miaistok.su/vysshaya-nagrada-rossii-za-veru-i-vernost/
+	set tags rossia,nagrada,petr_pervyi,mazepa_ivan,andrej_pervozvannyj,rusimperia,rusmir,ukraina,istoria,1699,vera,vernost'
+page
+	set url https://miaistok.su/shag-v-nikuda-60-let-spustya/
+	set tags leonov_aleksej,kosmonavt,kosmos,sssr,istoria,kosmonavtika,nauka
+page
+	set url https://miaistok.su/opolchenets-andrej-marochko-ob-osvobozhdenii-debaltsevo-v-zhivyh-ostalsya-ya-odin-tsena-vypolnennoj-zadachi-byla-slishkom-vysoka/
+	set tags nm_lnr,lnr,debalcevo,vojna,donbass
+page
+	set url https://miaistok.su/kak-razbilas-evropejskaya-mechta-ukraintsev-majdan-i-vojna-v-donbasse-vsyo-zrya/
+	set tags ukraina,evropa,donbass,mechta,vojna
+page
+	set url https://mir-lug.info/novosti-proektov/den-rossii-v-luganske-otmetyat-avtoprobegom/
+	set tags rossia,lnr,avto,prazdnik,den_rossii,12_jun,prazdnovanie,flag.rossia,flag.lnr,avtoprobeg,lugansk
+page
+	set url https://mir-lug.info/novosti-terotdelenij/aktivisty-proektov-molodaya-gvardiya-i-druzhina-proveli-subbotnik-v-alchevske/
+	set tags subbotnik,lnr,lugansk,mir_luganschine,aktivist,molodezh,druzhina,molodaja_gvardia.lnr,alchevsk
+page
+	set url https://mir-lug.info/novosti-terotdelenij/aktivisty-krasnogo-lucha-napomnili-zhitelyam-goroda-ob-akczii-ruka-pomoshhi/
+	set tags mir_luganschine,lugansk,lnr,aktivist,ruka,pomosch,obschestvo,molodaja_gvardia.lnr,druzhina
+page
+	set url https://mir-lug.info/mnenie/antonina-mashkova-predprinyatye-v-respublike-mery-po-borbe-s-covid-19-pokazali-svoyu-rezultativnost/
+	set tags lnr,volonter,aktivist,mir_luganschine,covid,minzdrav,pomosch,stariki,mashkova_antonina.lnr.volonter
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-petrovskom-aktivisty-od-mir-luganshhine-vozlozhili-czvety-k-pamyatnomu-znaku-pogibshim-petrovchanam/
+	set tags lnr,petrovskoje.lnr,pamjat,cvety,vojna,donbass,deti,ukraina,vsu,mir_luganschine
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-slavyanoserbskom-rajone-sostoyalas-akcziya-angely-donbassa/
+	set tags veselaja_gora.selo.lnr,vojna,donbass,mir_luganschine,lnr,ukraina,vsu,angely_donbassa
+page
+	set url https://mir-lug.info/poleznaya-informacziya/v-respublike-otkryt-call-czentr-po-informirovaniyu-o-gotovnosti-pasporta-lnr-i-rf/
+	set tags lnr,rossia,passport,telefon,grazhdanstvo
+page
+	set url https://mir-lug.info/official/leonid-pasechnik-mnoyu-prinyato-reshenie-o-snizhenii-urovnya-boevoj-gotovnosti-podrazdelenij-narodnoj-miliczii/
+	set tags nm_lnr,lnr,rossia,mir_luganschine,pobeda,peremirie,zelenskii_vladimir,vsu,ukraina
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-posyolke-fashhevka-aktivisty-od-mir-luganshhine-razrisovali-ostanovku/
+	set tags lnr,raskraska,ostanovka,dizajn,perevalsk,mir_luganschine
+page
+	set url https://mir-lug.info/novosti-proektov/voenno-sportivnaya-igra-soyuz-bulat-sostoyalas-v-belorechenske/
+	set tags deti,sorevnovanie,igra,lnr,oruzhie,alpinizm,belorechensk.lnr,taktika
+page
+	set url https://mir-lug.info/ns/v-lnr-ustanovili-status-russkogo-yazyka-kak-edinstvennogo-gosedarstvennogo/
+	set tags lnr,jazyk,derzhava,rossia,zakon,konstitucia,ns_lnr,pasechnik_leonid,mir_luganschine
+page
+	set url https://mir-lug.info/mnenie/aleksej-kovalyov-ya-ni-za-chto-by-ne-poveril-chto-tragediya-proizoshedshaya-2-iyunya-eto-oshibka-ukrainskie-voennye-ponimali-kuda-oni-strelyayut/
+	set tags ukraina,lnr,2_jun,2014,vsu,avia_udar,genocid,lugansk,vojna,donbass,mir,mir_luganschine,rodina,oruzhie
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-slavyanoserbskom-rajone-pochtili-pamyat-pogibshih-v-rezultate-aviaudara-vsu-po-lugansku/
+	set tags avia_udar.02_06_2014.lugansk,vsu,lnr,lugansk,pamjat,slavjanoserbsk.lnr,vojna,donbass,ukraina
 eof
 off
 page

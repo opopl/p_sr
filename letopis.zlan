@@ -16100,6 +16100,24 @@ page
 page
 	set url https://censor.net/ru/resonance/3256383/vse_teper_zalejit_vd_sash_scho_bude_z_13_dtmi_pomerlih_vd_kovdu_makvchan_volodimira_ta_dani_rodkovih
 	set tags ukraina,covid,makeevka,donbass,vojna,pereselenec,smert,bolezn,mater,deti,rossia,rodikov_vladimir
+page
+	set url https://censor.net/ru/news/3256286/seyichas_genshtab_ne_fiksiruet_podgotovki_rossii_k_otkrytomu_voennomu_konfliktu_s_ukrainoyi_homchak
+	set tags ukraina,rossia,vojna,ugrozy,plany,genshtab.vsu
+page
+	set url https://miaistok.su/za-popytku-sovershit-terakt-zhitel-luganska-prigovoryon-k-17-godam-tyurmy-i-shtrafu/
+	set tags lnr,lugansk,terrorizm,prigovor,sud,sbu,nm_lnr
+page
+	set url https://www.radiosvoboda.org/a/tserkva-moskovskoho-patriarkhatu-pereymenuvannia/31175863.html
+	set tags upc,ukraina,moskva,rossia,zakon,onufrii_mitropolit,patriarh_kirill,verhovna_rada
+page
+	set url https://www.radiosvoboda.org/a/five-reasons-why-ukraine-rejected-vladimir-putins-russian-world/31177794.html
+	set tags rusmir,putin_vladimir,ukraina,rossia
+page
+	set url https://www.radiosvoboda.org/a/ostromyslove-evanhelije/30921652.html
+	set tags rusmir,istoria,evangelie,kiev,kievrus,drevrus,rossia,evangelie.ostromirovo,dostojanie,biblia,vera,cerkov
+page
+	set url https://www.radiosvoboda.org/a/30078784.html
+	set tags ukraina,rossia,rusmir,nestor_letopisec,letopis.pvl,istoria,kultura,mova
 eof
 off
 page

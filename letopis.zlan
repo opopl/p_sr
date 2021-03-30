@@ -16040,10 +16040,6 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210330/1030981017.html
 	set tags st_peterburg,rossia,ukraina,prazdnik,rossotrudnichestvo,shevchenko_taras,sankcii,ukrcentr.moskva,arbat,moskva,russofobia,kultura,rusimperia,rusmir,istoria,franko_ivan,fraza,idol,tkachev_andrej.protoierej,rnbo,dnevnik,mova,jazyk
-global
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://pravoslavie.ru/90544.html
 	set tags tkachev_andrej.protoierej,shevchenko_taras,stalin_jozef,rusmir,rossia,ukraina,kultura,ukrainstvo,ideologia,cerkov,vera,poezia
@@ -16056,6 +16052,18 @@ page
 page
 	set url https://pravoslavie.ru/49479.html
 	set tags pravoslavie,jazyk,slovo,vera,cerkov,ezop,rusmir,filosofia,mysli,hristos
+page
+	set url https://zaxid.net/protesti_na_pidtrimku_sternenka__ukrayinskiy_black_lives_matter_n1516506
+	set tags sternenko_sergei,aktivist,protest,ukraina,black_lives_matter,obschestvo
+page
+	set url https://news.obozrevatel.com/politics/u-nas-narod-plohoj-a-kto-ego-budet-vospityivat.htm
+	set tags narod,vospitanie,ukraina,rabstvo,teatr,herson,chelovek
+page
+	set url https://plus.obozrevatel.com/crime/opravdatelnyij-prigovor-markiva-obzhalovali-v-sude-italii.htm
+	set tags markiv_vitalii,italia,ukraina,prigovor,2014,rossia
+page
+	set url https://news.obozrevatel.com/kiyany/life/v-kieve-para-bezdomnyih-reshila-izmenit-svoyu-zhizn-vosstanovili-pasporta-i-sobirayutsya-zhenitsya.htm
+	set tags bomzh,kiev,ukraina,zhizn,pomosch,obschestvo,svadba
 eof
 off
 page

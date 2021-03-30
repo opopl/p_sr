@@ -4,6 +4,7 @@ sel:
     - header.personTags
     - .headerSticky
     - .author_imgWrap
+    - .timeToRead
   #keep: []
   keep: 
     - header

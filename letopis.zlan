@@ -16118,6 +16118,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/30078784.html
 	set tags ukraina,rossia,rusmir,nestor_letopisec,letopis.pvl,istoria,kultura,mova
+page
+	set url https://www.vesti.ru/article/2543780
+	set tags nizza,rossia,sputnik_v,vaccine,zakaz,pokupka,vaccinacia,evropa,francia
 eof
 off
 page

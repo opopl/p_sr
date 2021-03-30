@@ -16236,6 +16236,21 @@ page
 page
 	set url https://fraza.com/news/299200-v-kievo-pecherskoj-lavre-uchenye-i-bogoslovy-iskali-puti-preodolenija-tserkovnogo-krizisa-v-mirovom-pravoslavii
 	set tags lavra,pravoslavie,kiev,ukraina,konferencia,vera,cerkov,bogoslovie,upc,onufrii_mitropolit
+page
+	set url https://strana.ua/news/325436-voennaja-doktrina-rossii-i-ukraina-chto-tam-napisano-i-kakoj-budet-vojna.html
+	set tags moskva,strategia,ukraina,armia,vojna,donbass,kiev,udar,kotel,rossia,vsu,zelenskii_vladimir,genshtab.vsu,homchak
+page
+	set url http://lug-info.com/news/one/bolee-420-tys-zhitelei-donbassa-poluchili-grazhdanstvo-rf-v-uproschennom-poryadke-kozenko-66086
+	set tags donbass,passport,rossia,grazhdanstvo,gosduma
+page
+	set url https://zbruc.eu/node/104243
+	set tags ukraina,chtenie,kniga,kultura,chelovek,vopros
+page
+	set url https://zbruc.eu/node/104210
+	set tags ukraina,kiev,gorod,foto,istoria,tatarka,zhizn
+page
+	set url http://lug-info.com/news/one/deputat-gosdumy-nagradil-glavu-mvd-lnr-za-vklad-v-protsess-oformleniya-grazhdanstva-rf-foto-66087
+	set tags lnr,donbass,rossia,gosduma,grazhdanstvo,passport,nagrada
 eof
 off
 page

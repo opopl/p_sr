@@ -16136,6 +16136,27 @@ page
 page
 	set url https://www.sports.ru/tribuna/blogs/figureice/2904026.html
 	set tags rossia,chempionat,trusova_aleksandra,figurist,smeh,flag,pobeda,scherbakova_anna.figurist.rossia,tuktamysheva_liza.figurist.rossia,stokholm,shvecia
+page
+	set url https://zen.yandex.ru/media/antikkuban/zachem-suscestvuiut-russkie-i-pochemu-rus-stoit-tak-dolgo-i-prochno-togda-kak-vse-vokrug-razvalivaetsia-60620f6c0da33337478a6e9a
+	set tags rossia,rusmir,rus',vopros,civilizacia,obschestvo,istoria,kultura,russkie,ukraina,belarus,slavjane,world,planeta,obsuzhdenie
+page
+	set url https://regnum.ru/news/polit/3227301.html
+	set tags ukraina,kiev,rossia,eksperiment,istoria,world,usa,analiz,ruzvelt_franklin.fdr,svoboda,four_freedoms.fdr
+page
+	set url http://lug-info.com/news/one/roditelskii-sovet-obsudil-trebovaniya-po-organizatsii-obucheniya-pri-ugroze-covid-19-foto-66046
+	set tags lnr,roditeli,deti,obsuzhdenie,shkola,karantin,covid
+page
+	set url https://112ua.tv/mnenie/lukash-danilov-utverzhdal-chto-ne-bylo-nikakoy-revolyucii-dostoinstva-gde-sankcii-572558.html
+	set tags danilov_aleksei,donbass,debalcevo,ukraina,rossia,fraza,rnbo
+page
+	set url http://islam.ru/content/obshestvo/41063
+	set tags islam,hristos,vera,rusmir,rossia,koran,prorok
+page
+	set url https://www.gazeta.ru/army/2021/01/21/13449800.shtml
+	set tags ukraina,di_rubens,onacka_taisia,blogger,skandal,shtirliz,vsu,rossia
+page
+	set url https://www.kp.ru/daily/27257/4389540/
+	set tags ukraina,donbass,kiev,rossia,obschestvo,lockdown,karantin,zhizn,foto
 eof
 off
 page

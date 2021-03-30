@@ -16064,6 +16064,9 @@ page
 page
 	set url https://news.obozrevatel.com/kiyany/life/v-kieve-para-bezdomnyih-reshila-izmenit-svoyu-zhizn-vosstanovili-pasporta-i-sobirayutsya-zhenitsya.htm
 	set tags bomzh,kiev,ukraina,zhizn,pomosch,obschestvo,svadba
+page
+	set url https://news.obozrevatel.com/ukr/kiyany/life/u-kievi-pensionerka-peretvorila-dvir-bagatopoverhivki-v-kazku-foto.htm
+	set tags ukraina,kiev,dvor,dom,skazka,pensioner,tvorchestvo,cherepaha,isskustvo
 eof
 off
 page

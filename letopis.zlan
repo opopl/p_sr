@@ -16121,6 +16121,9 @@ page
 page
 	set url https://www.vesti.ru/article/2543780
 	set tags nizza,rossia,sputnik_v,vaccine,zakaz,pokupka,vaccinacia,evropa,francia
+page
+	set url https://www.dialog.ua/ukraine/226491_1616958756
+	set tags smert,murder,ato,revgidnosti,maidan2,vojna,donbass,aktivist,ukraina,kiev,kriminal,mandych_aleksandr.aktivist
 eof
 off
 page

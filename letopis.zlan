@@ -16260,6 +16260,81 @@ page
 page
 	set url https://nashkiev.ua/zhournal/mesta/top-20-kievskih-graffiti-kotorye-stoit-ouvidet.html
 	set tags ukraina,kiev,isskustvo,dom,ulica,gorod,grafiti
+page
+	set url https://vz.ru/world/2021/3/31/1092105.html
+	set tags ukraina,rossia,vojna,zelenskii_vladimir,ugrozy,donbass,vsu,homchak,verhovna_rada
+page
+	set url https://strana.ua/news/325555-itohi-dnja-5-let-za-uklonenie-ot-armii-desant-sluh-na-87-okruh-hibel-astrazeneki.html
+	set tags ukraina,itogi
+page
+	set url https://www.radiosvoboda.org/a/rozstril-khudozhnykiv-boichukistiv-v-srsr/31178484.html
+	set tags sssr,istoria,rasstrel,terror1937,hudozhnik,ukraina,kommunizm
+page
+	set url https://www.radiosvoboda.org/a/mykoli-gorbalyu-80/30829772.html
+	set tags sssr,istoria,dissidents,gorbachev_mihail,gorbal_nikolaj
+page
+	set url https://fraza.com/analytics/299156-svjaschennyj-monstr-s-institutskoj-
+	set tags kiev,ukraina,erenburg_ilja,sssr,istoria,kultura,literatura
+page
+	set url https://zaxid.net/zniklu_u_lvovi_19_richnu_studentku_znayshli_vbitoyu_n1516597
+	set tags ukraina,lvov,murder,kriminal,devushka
+page
+	set url https://zaxid.net/ya_zaboronyu_olivye_shubu_i_vsi_radyanski_stravi_n1516398
+	set tags ukraina,lvov,zapret,kuhnja,eda,sssr,istoria,nacia,mentalitet
+page
+	set url https://zaxid.net/mi_strazhdayemo_zahvalyuvannyam_shevchenka_n1515652
+	set tags ukraina,shevchenko_taras,biografia,zhizn,istoria,kultura
+page
+	set url https://blogs.pravda.com.ua/authors/fedoriv/606415edab179/
+	set tags ukraina,vybory,donbass,ivano_frankovsk,aksenov_andrej.doneck
+page
+	set url https://lenta.ru/articles/2021/03/31/rak/
+	set tags istoria,sssr,onkologia,cancer,medicina,bolezn
+page
+	set url https://112ua.tv/ekonomika/ukraina-zapretit-s-aprelya-vvoz-iz-rf-pshenicy-podsolnechnogo-masla-moyushhih-sredstv-bumagi-polnyy-spisok-zapreshhennogo-572677.html
+	set tags ukraina,rossia,zapret,bumaga,ekonomika,pshenica,maslo
+page
+	set url https://sharij.net/glaza-putina-i-zhmu-ruku-obnimayu-kak-poroshenko-ustroil-ocherednoj-skandal-v-rade
+	set tags ukraina,verhovna_rada,poroshenko_petr,ruki,putin_vladimir,buzhanskii_maksim,rossia
+page
+	set url https://sharij.net/mer-luganska-zapretivshij-donbass-chto-ne-tak-s-sekretaryom-snbo-alekseem-danilovym
+	set tags danilov_aleksei,donbass,ukraina,rossia,biografia,rnbo
+page
+	set url http://www.citynews.net.ua/news/33713-byvshiy-mer-luganska-danilov-raskritikoval-ato-i-pozhalovalsya-na-svoyu-teschu.html
+	set tags ato,danilov_aleksei,ukraina,interview,donbass,2014
+page
+	set url https://sharij.net/danilov-rossiya-vydaet-fashistskie-ausvajsy-na-okkupirovannyh-territoriyah
+	set tags danilov_aleksei,ukraina,rossia,donbass,rusimperia,1991,vojna
+page
+	set url https://sharij.net/danilov-slovo-donbass-navyazyvaet-rossiya
+	set tags danilov_aleksei,donbass,slovo,rossia,ukraina
+page
+	set url https://sharij.net/bespredel-vlastej-zelenskij-bez-energetiki-i-vor-klichko-chto-rasskazala-televedushhaya-diana-panchenko-v-intervyu
+	set tags ukraina,zelenskii_vladimir,panchenko_diana,interview,repressii,sankcii,cenzura
+page
+	set url https://sharij.net/shpionazh-ukraina-i-sputnik-v-chto-razrushilo-otnosheniya-mezhdu-rossiej-i-evrosoyuzom
+	set tags rossia,evropa,es,diplomatia,sputnik_v,vaccine,covid
+page
+	set url https://sharij.net/sostoyalsya-razgovor-putina-merkel-i-makrona-obsudili-donbass-sputnik-v-i-navalnogo
+	set tags putin_vladimir,merkel_angela,makron_emmanuel.prezident.francia,videokonferencia,rossia,francia,germania,ukraina,donbass,vojna
+page
+	set url http://lug-info.com/news/one/bolee-100-ispolnitelei-iz-lnr-dnr-i-rf-uchastvuyut-v-konkurse-fortepiannoi-muzyki-lgaki-66097
+	set tags konkurs,fortepiano,muzyka,lnr,rossia,lgaki,dnr,donbass,kultura,moskva,vladivostok,doneck
+page
+	set url http://lug-info.com/news/one/predsedatel-narodnogo-soveta-lnr-v-ramkakh-aktsii-den-zdorovya-posetil-yuzhnuyu-lomovatku-foto-66102
+	set tags ns_lnr,lnr,poliklinika,obschestvo,medicina,pomosch,miroshnichenko_denis.lnr
+page
+	set url http://lug-info.com/news/one/delegatsiya-bryanki-prinyala-uchastie-v-ryade-meropriyatii-v-gorode-pobratime-debaltsevo-foto-66090
+	set tags lnr,debalcevo,brjanka,delegacia,rusvesna,mir_luganschine
+page
+	set url https://mir-lug.info/novosti-terotdelenij/festival-kazachej-kultury-posvyashhyonnyj-220-j-godovshhine-so-dnya-rozhdeniya-vladimira-dalya-proshyol-v-irmino/
+	set tags deti,kultura,kazaki,lnr,festival,pesnja
+page
+	set url https://gazeta.ua/articles/life/_koronavirus-v-ukrayini-mayemo-novij-rekord-za-kilkistyu-smertej/1023216
+	set tags ukraina,covid,statistika,smertnost',zabolevajemost',smert,bolezn
+page
+	set url https://gazeta.ua/blog/54836/same-zaraz-zelenskomu-treba-prositi-ssa-dati-ukrayini-status-osnovnogo-soyuznika
+	set tags zelenskii_vladimir,usa,washington,sojuznik,ukraina
 eof
 off
 page

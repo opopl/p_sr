@@ -1,6 +1,8 @@
 
 ###news.ua
+#
 
+'www.citynews.net.ua' : { 'site' : 'news.ua.citynews' } 
 'zbruc.eu' : { 'site' : 'news.ua.zbruc' }
 'golospravdy.eu' : { 'site' : 'news.ua.golospravdy' }
 'strana.ua' : { 'site' : 'news.ua.strana' } 

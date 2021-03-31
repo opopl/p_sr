@@ -16389,6 +16389,15 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210327/1030949310.html
 	set tags ukraina,rossia,posolstvo.ukrainy.moskva,posolstvo,dom,lenin_vladimir,bomba,moskva
+page
+	set url https://odessa.strana.ua/325708-v-ivanovke-muzhchina-zastrelil-sozhitelnitsu-i-pytalsja-pokonchit-s-zhiznju.html
+	set tags ukraina,odessa,kriminal,murder,reanimacia,bolnica,cheljust'
+page
+	set url https://strana.ua/articles/analysis/325479-telekanal-dom-veshchaet-dlja-kryma-i-donbassa-hde-smotret-chto-tam-pokazyvajut-i-zachem-on-nuzhen.html
+	set tags ukraina,dom,telekanal,jazyk,mova,donbass,kvartal95,kravchuk_leonid,mendel_julia,sluga_naroda,propaganda,tv,rusmir,tomilenko_sergei,rossia
+page
+	set url https://riakursk.ru/vezyet-evgeniya-kuryanka-pokoryaet-gorodskie-dorogi-za-rulyem-marshrutki/
+	set tags rossia,kursk,professia,marshrutka,woman
 eof
 off
 page

@@ -16341,6 +16341,45 @@ page
 page
 	set url https://news.obozrevatel.com/society/odno-foto-realnyij-vid-stalinskogo-sssr.htm
 	set tags istoria,sssr,stalinizm,moskva,foto
+page
+	set url https://lb.ua/world/2021/03/31/481084_doktrina_zelenskogo_pora_zadat.html
+	set tags rusmir,zelenskii_vladimir,ukraina,rossia,strategia,ideologia,deokupacia,krym
+page
+	set url https://lb.ua/news/2021/03/31/481225_ukraina_viyshla_z_dogovoru_z_rosiieyu_pro.html
+	set tags ukraina,rossia,turizm,1999,dogovor
+page
+	set url https://vz.ru/opinions/2021/3/31/1091973.html
+	set tags rossia,ukraina,gorovic_vladimir.pianist.kiev,shevchenko_taras,sssr,istoria,kultura,literatura,rusimperia
+page
+	set url https://strana.ua/news/325648-sluha-naroda-kolesnik-priznalas-chto-khochet-uekhat-iz-ukrainy.html
+	set tags verhovna_rada,sluga_naroda,strana,sms,homchak,emigracia,ukraina,telefon
+page
+	set url https://strana.ua/articles/325464-zakon-o-prizyve-i-voennom-uchete-prinjat-kakie-shtrafy-za-nejavku-v-voenkomat.html
+	set tags ukraina,zakon,armia,prizyv
+page
+	set url https://www.radiosvoboda.org/a/kryminalne-provadzhennia-reaktsia-zirok/31179536.html
+	set tags ukraina,krym,rossia,muzykant,sankcii,krymskij_most,2018,gazmanov_oleg.pevec
+page
+	set url https://inosmi.ru/politic/20210331/249458176.html
+	set tags usa,rossia,peregovory,prizyv,geopolitika,biden_joe
+page
+	set url https://zen.yandex.ru/media/zorkinadventures/russkie-luchshe-chem-my-derutsia-na-ulice-est-v-nih-chtoto-dikoe-amerikanec-pro-opyt-ulichnogo-boia-i-mujchin-iz-rossii-5ffc6ec54e7c415dee657243
+	set tags usa,kalifornia,russkie,boks,draka,duh,sport,obschestvo,zhizn,chelovek,rossia
+page
+	set url https://zen.yandex.ru/media/zorkinadventures/jizn-znamenitogo-mujchiny-jestokii-i-progressivnyi-pliusy-i-minusy-petra-i-604545b144edc666818afc08
+	set tags rossia,rusimperia,istoria,petr_pervyi,chelovek
+page
+	set url https://inosmi.ru/social/20210330/249445064.html
+	set tags rossia,covid,vaccinacia,vaccine,sputnik_v,world,latin_america,putin_vladimir,uspeh
+page
+	set url http://lug-info.com/news/one/yunye-sudomodelisty-lnr-predstavili-svoi-raboty-na-vystavke-konkurse-v-luganske-foto-66105
+	set tags modelizm,lnr,deti,vystavka,flotilia,flot,tvorchestvo,lugansk
+page
+	set url https://112ua.tv/politika/nimchenko-ob-ukaze-o-sankciyah-vse-chto-sdelano-v-telefonnom-rezhime-i-po-dogovornyakam-nezakonnoe-572709.html
+	set tags ukraina,rnbo,sankcii,zelenskii_vladimir,zakon,konstitucia
+page
+	set url https://ukrainenews.fakty.ua/372305-tkachenko-soobcshil-grustnuyu-novost-dlya-cenitelej-sibiri
+	set tags ukraina,rossia,sibir,tkachenko_aleksandr,turizm,dogovor,1999,kuchma_leonid,elcin_boris
 eof
 off
 page

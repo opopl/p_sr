@@ -20,14 +20,15 @@ PageParser:
   get_author_html:
     sels:
       - { 
-          'url' : {
-              'find' : 'a.publisher-controls__channel-name', 
-              'get'  : 'attr',
-              'attr' : 'href' 
-          },
-          'name' : {
-              'find' : 'a.publisher-controls__channel-name',
-              'get'  : 'text',
+          'search' : {
+              'css' : [ 'a.publisher-controls__channel-name' ],
+              'map' : {
+                  'name' : 'text',
+                  'url'  : { 
+                    'get' : 'attr',
+                    'attr' : 'href',
+                  }
+              }
           }
         }
   get_author_meta:

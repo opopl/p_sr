@@ -16335,6 +16335,12 @@ page
 page
 	set url https://gazeta.ua/blog/54836/same-zaraz-zelenskomu-treba-prositi-ssa-dati-ukrayini-status-osnovnogo-soyuznika
 	set tags zelenskii_vladimir,usa,washington,sojuznik,ukraina
+page
+	set url https://news.obozrevatel.com/society/ukraintsyi-bessmertnyie-bogi-nikakoj-virus-ih-ne-vozmet.htm
+	set tags ukraina,covid,nacia,mentalitet
+page
+	set url https://news.obozrevatel.com/society/odno-foto-realnyij-vid-stalinskogo-sssr.htm
+	set tags istoria,sssr,stalinizm,moskva,foto
 eof
 off
 page

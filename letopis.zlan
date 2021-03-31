@@ -15880,10 +15880,11 @@ page
 page
 	set url https://nt1941.su/allnews/lprnews/14667-za-nedelyu-na-goryachuyu-liniyu-od-mir-luganschine-obratilis-94-zhitelya-lnr.html
 	set tags mir_luganschine,lnr
+	set date 14_08_2020
 page
 	set url https://nt1941.su/allnews/1304-komanda-kvn-nate-v-sostave-kotoroy-igraet-nash-zemlyak-vlad-romanov-vyshla-v-vysshuyu-ligu-kvn.html
 	set tags lnr,smeh,kvn,sochi.gorod,rossia,donbass,lugansk
-
+	set date 19_01_2018
 page
 	set url https://mir-lug.info/novosti-proektov/den-rossii-v-luganske-otmetyat-avtoprobegom/
 	set tags rossia,lnr,avto,prazdnik,den_rossii,12_jun,prazdnovanie,flag.rossia,flag.lnr,avtoprobeg,lugansk
@@ -16407,6 +16408,30 @@ page
 page
 	set url https://regnum.ru/news/polit/3229626.html
 	set tags ukraina,rossia,vojna,donbass
+page
+	set url https://strana.ua/news/325694-v-kieve-zakryvajut-metro-kto-i-kak-mozhet-oformit-spetspropusk-na-transport.html
+	set tags kiev,lockdown,transport,marshrutka,metro,ukraina,covid,karantin
+page
+	set url https://news.obozrevatel.com/russia/sputnik-v-ne-stal-geopoliticheskoj-pobedoj-putina.htm
+	set tags rossia,sputnik_v,vaccinacia,vaccine,covid,ukraina
+page
+	set url http://lug-info.com/news/one/glava-administratsii-luganska-vstretilsya-s-kandidatami-v-deputaty-molodezhnogo-parlamenta-lnr-foto-66133
+	set tags lnr,lugansk,vstrecha,molodezh_parlament.lnr,molodezh,ludi
+page
+	set url http://lug-info.com/news/one/gosbank-lnr-vypustil-pamyatnuyu-monetu-oni-boryutsya-za-nas-posvyaschennuyu-medrabotnikam-foto-66126
+	set tags lnr,gosbank.lnr,moneta,medik,zhizn,spasenie
+page
+	set url https://nt1941.su/allnews/lprnews/10172-aktivisty-mira-luganschine-proslushali-lekcii-po-volonterstvu-na-forume-dobrovolcev-v-sochi.html
+	set tags lnr,sochi,rossia,aktivist,mir_luganschine,lekcia,volonter,dobro,forum
+	set date 04_12_2019
+page
+	set url https://nt1941.su/allnews/important_day/2553-programma-razvitiya-luganskoy-narodnoy-respubliki-na-2018-2023-gody.html
+	set tags lnr,programma,razvitie,derzhava,kiev,ukraina,agressor,2014,2018,2023,future,narod,ekonomika,medicina,zdorovje,ludi
+	set date 14_05_2018
+page
+	set url https://nt1941.su/leisure/anecdotes/4697-anekdoty-ot-narodnoy-tribuny.html
+	set tags lnr,anekdot
+	set date 06_12_2018
 eof
 off
 page

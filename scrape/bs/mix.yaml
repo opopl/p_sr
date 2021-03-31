@@ -17,7 +17,7 @@ include:
     - news.lnr.lug_info
     - news.lnr.mirlug
     - news.lnr.miaistok
-    #- news.lnr.narod_tribuna
+    - news.lnr.narod_tribuna
 
 ###news_ru
     #- news.ru.ria_kalm

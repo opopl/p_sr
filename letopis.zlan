@@ -16380,6 +16380,15 @@ page
 page
 	set url https://ukrainenews.fakty.ua/372305-tkachenko-soobcshil-grustnuyu-novost-dlya-cenitelej-sibiri
 	set tags ukraina,rossia,sibir,tkachenko_aleksandr,turizm,dogovor,1999,kuchma_leonid,elcin_boris
+page
+	set url https://sharij.net/rossiya-zaregistrirovala-pervuyu-v-mire-vakczinu-protiv-covid-19-dlya-zhivotnyh
+	set tags rossia,vaccine,covid,zhivotnoje,registracia
+page
+	set url https://ukraina.ru/youtube/20210330/1030991769.html
+	set tags ukraina,rossia,poezia,eksperiment,video,moskva,ludi,mova,jazyk
+page
+	set url https://ukraina.ru/exclusive/20210327/1030949310.html
+	set tags ukraina,rossia,posolstvo.ukrainy.moskva,posolstvo,dom,lenin_vladimir,bomba,moskva
 eof
 off
 page

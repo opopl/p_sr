@@ -16398,6 +16398,15 @@ page
 page
 	set url https://riakursk.ru/vezyet-evgeniya-kuryanka-pokoryaet-gorodskie-dorogi-za-rulyem-marshrutki/
 	set tags rossia,kursk,professia,marshrutka,woman
+page
+	set url https://news.obozrevatel.com/russia/putinskaya-rossiya-na-olimpiade-s-netraditsionnyim-chajkovskim.htm
+	set tags rossia,sport,olimpiada,chajkovskij_petr.kompozitor,gomoseksualizm,ukraina,kiev,lysenko_mykola.kompozitor
+page
+	set url https://buzina.org/golos-naroda/3938-war.html
+	set tags ukraina,vojna,verhovna_rada,homchak,sluga_naroda,sms
+page
+	set url https://regnum.ru/news/polit/3229626.html
+	set tags ukraina,rossia,vojna,donbass
 eof
 off
 page

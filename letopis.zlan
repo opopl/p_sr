@@ -16432,6 +16432,69 @@ page
 	set url https://nt1941.su/leisure/anecdotes/4697-anekdoty-ot-narodnoy-tribuny.html
 	set tags lnr,anekdot
 	set date 06_12_2018
+page
+	set url https://nt1941.su/publication/171-v-sporte-est-soperniki-v-sporte-net-vragov.html
+	set tags lnr,perevalsk,olimpiada,shkola,deti,stadion,sport
+	set date 06_10_2017
+page
+	set url https://nt1941.su/allnews/154-v-perevalske-proshli-treti-malye-olimpiyskie-igry-sredi-uchaschihsya-obrazovatelnyh-uchrezhdeniy-rayona-foto.html
+	set tags perevalsk,olimpiada,shkola,deti,foto,lnr
+	set date 04_10_2017
+page
+	set url https://nt1941.su/gallery/photos/8450-pervyy-zvonok-prozvenel-v-perevalskoy-shkole-3-foto.html
+	set tags lnr,perevalsk,shkola,deti,pervyj_zvonok,zvonok,foto
+	set date 02_09_2019
+page
+	set url https://nt1941.su/allnews/17751-donbass-yavlyaetsya-samoy-russkoy-chastyu-russkogo-mira-uchenyy.html
+	set tags donbass,rusmir,rossia
+	set date 29_01_2021
+page
+	set url https://nt1941.su/allnews/lprnews/14351-molodezhnyy-parlament-v-chest-dnya-fizkulturnika-provel-v-luganske-spartakiadu-zdorovaya-naciya.html
+	set tags lnr,sport,zdorovje,spartakiada,molodezh_parlament.lnr,molodezh,den'_fizkulturnika,lugansk
+	set date 08_08_2020
+page
+	set url https://nt1941.su/publication/14949-vse-na-svete-smozhem-vmeste-ya-i-ty.html
+	set tags lnr,deti,dobro,mir_luganschine,artemovsk.lnr
+	set date 18_08_2020
+page
+	set url https://strana.ua/news/325721-deputat-anna-kolesnik-popalas-na-skandalnoj-perepiske-v-rade-kto-eta-devushka.html
+	set tags ukraina,strana,emigracia,vojna,armia,sms,verhovna_rada,skandal,kolesnik_anna.deputat.vru
+page
+	set url https://www.radiosvoboda.org/a/news-rosija-vakcyna-covid/31180488.html
+	set tags rossia,moskva,sputnik_v,vaccine,covid,zabolevajemost',bolezn
+page
+	set url http://lug-info.com/news/one/luganskii-muzei-priglashaet-posetit-obnovlennuyu-ekspozitsiyu-rodnaya-rodnaya-rodnaya-zemlya-foto-66135
+	set tags lnr,muzei,lugansk,vystavka,kartina,isskustvo,rodina,zemlja,hudozhnik
+page
+	set url https://www.pravda.com.ua/news/2021/03/31/7288549/
+	set tags rossia,tjurma,kolonia,navalny
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/yak-bagati-plachut-vid-bidnosti
+	set tags ukraina,obschestvo,bednost,bogatstvo,soznanie
+page
+	set url https://day.kyiv.ua/uk/blog/kultura/vzhe-sonce-nyzenko
+	set tags ukraina,kultura,obschestvo,reklama,dengi,tovary
+page
+	set url https://hvylya.net/interview/227992-v-ukraine-aborigeny-zaselili-ruiny-sovetskogo-amfiteatra
+	set tags ukraina,obschestvo,derzhava,nacia,ideologia,future,ukrzaliznycia
+page
+	set url https://blogs.korrespondent.net/blog/world/4325115/
+	set tags rossia,evropa,diplomatia
+page
+	set url https://zen.yandex.ru/media/antikkuban/pochemu-pri-arheologicheskih-raskopkah-ne-naideno-sledov-nikakogo-mongolotatarskogo-nashestviia-na-rus-605e4e7fbde58017aa36207d
+	set tags drevnost',mongoly,rus',kievrus,kiev,istoria,rossia,tatary,1240
+page
+	set url https://zen.yandex.ru/media/otkritaya_seminariya/zakony-belogo-caria-60601abf9a49cb03ec504678
+	set tags rusmir,vera,cerkov,zakon,hristos,biblia,evangelie,belyj_tsar
+page
+	set url https://zen.yandex.ru/media/id/5dda752cddb0193a8f322602/devushki-velikolepno-ispolnili-krasivuiu-dushevnuiu-pesniu-hochetsia-slushat-i-slushat-video-foto-604f19e00a7d51654a286e34
+	set tags rusmir,rossia,pesnja,muzyka,tvorchestvo,kultura,kazaki,dom
+page
+	set url https://boristen70.livejournal.com/870.html
+	set tags kievrus,kiev,1240,mongoly,tatary,rusmir,istoria
+page
+	set url https://zen.yandex.ru/media/manjagin/podlinnaia-istoriia-rusi-na-stranicah-zabytogo-russkogo-istorika-andreia-lyzlova-601c02c6a4b677679fe61028
+	set tags rusmir,istoria,rossia,rus',lyzlov_andrej.1655_1697
 eof
 off
 page

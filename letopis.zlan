@@ -16495,6 +16495,12 @@ page
 page
 	set url https://zen.yandex.ru/media/manjagin/podlinnaia-istoriia-rusi-na-stranicah-zabytogo-russkogo-istorika-andreia-lyzlova-601c02c6a4b677679fe61028
 	set tags rusmir,istoria,rossia,rus',lyzlov_andrej.1655_1697
+page
+	set url https://sevastopol.su/blogs/sem-let-odin-otvet-k-godovshchine-pobednogo-vosstaniya-v-sevastopole
+	set tags krym,rossia,ukraina,rusvesna,2014
+page
+	set url https://tour.sevastopol.su/events/hersones-ar-mashina-vremeni-v-tvojom-smartfone/
+	set tags rossia,turizm,krym,sevastopol,it,hersones
 eof
 off
 page

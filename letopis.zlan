@@ -16653,6 +16653,24 @@ page
 page
 	set url https://lgaki.info/tvorcheskie-kollektivy/ansambl-sovremennogo-tantsa-dialekt/
 	set tags lgaki,lnr,kultura,tanec,kollektiv,ansambl,tvorchestvo,chelovek,kredo
+page
+	set url https://strana.ua/news/325876-chipirovanie-po-aktsii-i-otezd-berezy-v-izrail-o-chem-shutjat-na-1-aprelja-ukraintsy.html
+	set tags ukraina,1_apr,smeh,den'_smeha,prezident,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/krasavicy-is-donbassa-pobedili-v-rossii/31180346.html
+	set tags donbass,rossia,krasota,devushka,moskva,konkurs
+page
+	set url https://www.pravda.com.ua/columns/2021/04/1/7288642/
+	set tags ukraina,odessa,rusmir,muzei,vybory,novorossia
+page
+	set url https://strana.ua/news/325908-v-seti-opublikovali-foto-ulybajushchehosja-vjatrovicha-na-fone-svechi-holodomora.html
+	set tags vjatrovich_vladimir,golodomor,ukraina,ulybka,svecha,pamjat,1933
+page
+	set url https://strana.ua/news/317847-poteri-ot-banketa-vjatrovicha-v-hodovshchinu-holodomore-otsenili-v-1-5-milliona.html
+	set tags vjatrovich_vladimir,banket,golodomor,ukraina,sud,eda
+page
+	set url https://strana.ua/news/261709-furshet-vjatrovicha-na-hodovshchinu-holodomora-foto-bljud-i-menju.html
+	set tags furshet,banket,vjatrovich_vladimir,golodomor,ukraina,buzhanskii_maksim,pamjat
 eof
 off
 page

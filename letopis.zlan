@@ -16613,6 +16613,46 @@ page
 page
 	set url https://pravoslavie.ru/138333.html
 	set tags pravoslavie,vera,kniga,pantelejmon.muchenik,rusmir,deti
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-proschaj-kryim-tebya-zazhivo-horonyat.htm
+	set tags rossia,krym,ukraina
+page
+	set url https://news.obozrevatel.com/politics/ukraina-vnov-podnimet-vopros-pashalnogo-peremiriya-na-donbasse-kravchuk.htm
+	set tags fraza,kravchuk_leonid,ukraina,rossia,tkg,donbass,peremirie,chelovek,velykden'
+page
+	set url https://strana.ua/news/325818-voennaja-tekhnika-u-hranits-ukrainy-pochemu-nakaljaetsja-obstanovka.html
+	set tags ukraina,rossia,armia,krym,krasnodar,poezd,krymskij_most,donbass,vojna
+page
+	set url https://www.pravda.com.ua/news/2021/04/1/7288637/
+	set tags ukraina,rossia,posolstvo.ukrainy.moskva,otvetka,plakat,krymnash,krym,razvedka
+page
+	set url https://www.radiosvoboda.org/a/shcho-vidbuvayetsya-z-biloruskoyu-ekonomikoyu/31180461.html
+	set tags belarus,dengi,finansy,ekonomika
+page
+	set url http://lug-info.com/news/one/uchaschiesya-iz-lnr-i-rf-stali-pobeditelyami-konkursa-internet-proektov-bibliocom-lgaki-foto-66153
+	set tags lnr,rossia,gogol_nikolai,deti,shkola,konkurs,lgaki
+page
+	set url https://lgaki.info/konkursy/iv-otkrytyj-respublikanskij-festival-kamernoj-fortepiannoj-muzyki-imeni-aleksandra-ziloti/
+	set tags lgaki,lnr,konkurs,muzyka,kultura
+	set date 01_03_2021
+page
+	set url https://skeptimist.livejournal.com/1312630.html
+	set tags tolochko_pp,ukraina,rossia,rusmir,dostoinstvo,interview,narod,utrata,sssr,istoria,gorbachev_mihail,rusimperia,nezalezhnist,kultura,arheologia,nauka,moskva
+page
+	set url https://www.epravda.com.ua/publications/2021/04/1/672523/
+	set tags ukraina,ekonomika,biznes,raketa,eda
+page
+	set url https://from-ua.com/news/593801-pod-op-nackorpus-razvernul-komnati-uzhasov.html
+	set tags nackorpus,ukraina,kollaborant,akcia,1_apr,ofis_prezidenta,rossia,medvedchuk_viktor,kiva_ilja,protest,komnata,uzhas
+page
+	set url https://ukraina.ru/opinion/20210401/1031015010.html
+	set tags ukraina,rossia,vojna,peregovory,germania,francia,putin_vladimir,merkel_angela,makron_emmanuel.prezident.francia,armia,vsu,donbass
+page
+	set url https://lgaki.info/novosti/personalnaya-vystavka-arevik-malhasyan-otkrylas-v-akademii-matusovskogo/
+	set tags lnr,lugansk,hudozhnik,vystavka,isskustvo,kartina,lgaki,malhasjan_arevik.lgaki.lnr,more,nebo
+page
+	set url https://lgaki.info/tvorcheskie-kollektivy/ansambl-sovremennogo-tantsa-dialekt/
+	set tags lgaki,lnr,kultura,tanec,kollektiv,ansambl,tvorchestvo,chelovek,kredo
 eof
 off
 page

@@ -89,8 +89,11 @@
 # Nauka i Zhizn
 'nkj.ru' : { 'site' : 'nauka.ru.nkj' }
 
-###poezia
+###poezia.ua
 'maysterni.com' : { 'site' : 'poezia.ua.maysterni' }
+
+###poezia.ru
+'45parallel.net' : { 'site' : 'poezia.ru.45parallel' }
 
 ###ru
 'kulturologia.ru' : { 'site' : 'ru.kulturologia' }

@@ -16671,6 +16671,153 @@ page
 page
 	set url https://strana.ua/news/261709-furshet-vjatrovicha-na-hodovshchinu-holodomora-foto-bljud-i-menju.html
 	set tags furshet,banket,vjatrovich_vladimir,golodomor,ukraina,buzhanskii_maksim,pamjat
+page
+	set url https://lenta.ru/articles/2021/03/31/shturm/
+	set tags rossia,moskva,oruzhie,strelba,pensioner,fsb,shturm
+page
+	set url https://fraza.com/news/299270-dzhangirov-izjatye-sbu-v-hode-obyskov-buklety-svidetelstvujut-chto-ukrainskij-vybor-ne-vel-prestupnoj-dejatelnosti-a-propagandiroval-zdorovyj-obraz-zhizni
+	set tags ukraina,sbu,obysk,medvedchuk_viktor,repressii
+page
+	set url https://strana.ua/news/325898-tkachenko-nazval-hoholja-ukrainskim-pisatelem-i-upreknul-rossijskuju-propahandu-vo-lzhi.html
+	set tags gogol_nikolai,rossia,ukraina,propaganda,literatura,kultura,tkachenko_aleksandr
+page
+	set url https://kiev.strana.ua/324824-na-andreevskom-spuske-neizvestnye-postavili-pamjatnik-hoholju.html
+	set tags kiev,ukraina,pamjat,pamjatnik,gogol_nikolai,andreevskij_spusk,dovgan'_boris.skulptor
+page
+	set url https://strana.ua/news/199068-umer-znamenityj-ukrainskij-skulptor-boris-dovhan-avtor-herba-kieva.html
+	set tags kiev,gerb.kiev,ukraina,dovgan'_boris.skulptor,smert,nekrolog,1966,1969,1965,kashtan
+page
+	set url https://strana.ua/news/197190-na-bajkovom-kladbishche-v-kieve-muzhchina-umer-u-mohily-roditelej.html
+	set tags kiev,ukraina,bajkovoje_kladbische,smert,roditeli,kladbische,deti
+page
+	set url https://strana.ua/news/196287-v-bolnitse-dnepra-pohib-20-letnij-ranenyj-boets-iz-oos.html
+	set tags ukraina,dnepropetrovsk,ranenie,donbass,vojna,smert,oos,bolnica,gospital,medik
+page
+	set url https://strana.ua/news/189762-anhela-merkel-i-ministr-oborony-ursula-fon-der-ljajen-ustroili-perepalku-iz-za-otpravki-korablej-v-chernoe-more.html
+	set tags merkel_angela,ukraina,rossia,krym,kerch',korabl,flot,deti,germania,usa
+page
+	set url https://strana.ua/news/188572-ssha-ne-sohlasovali-poroshenko-novyj-pokhod-v-azovskoe-more.html
+	set tags ukraina,krym,flot,rossia,usa,kerch'
+page
+	set url http://lug-info.com/news/one/glava-lnr-i-obschestvenniki-v-khode-kruglogo-stola-obsudili-rol-dalya-v-kulture-donbassa-foto-66169
+	set tags donbass,dal'_vladimir,lnr,rusmir,rusdusha,rossia,istoria,kultura,jazyk,literatura
+page
+	set url https://aforisma.ru/gogol-citaty/
+	set tags rusmir,gogol_nikolai,fraza,literatura,kultura,rossia,ukraina
+page
+	set url https://ukraina.ru/news/20210401/1031021438.html
+	set tags belarus,ukraina,bazar,kultura
+page
+	set url https://ukraina.ru/news/20210401/1031021005.html
+	set tags ukraina,gogol_nikolai,tkachenko_aleksandr,rossia,malorossia
+page
+	set url https://vz.ru/news/2021/4/1/1092492.html
+	set tags gogol_nikolai,tkachenko_aleksandr,kultura,literatura,ukraina,rossia,malorossia,rusmir,russkie
+page
+	set url https://ukraina.ru/exclusive/20210401/1031017586.html
+	set tags ukraina,rossia,rusimperia,prostitutka,prostitucia,istoria,kiev,1787,kuprin_aleksandr.pisatel
+page
+	set url https://gazeta.ua/articles/sogodennya/_skazhut-pro-movnij-teror-bajduzhe-mayemo-buti-zhorstkimi-u-comu-pitanni-benyuk/1023621
+	set tags ukraina,mova,terror,benjuk_bogdan.akter,kultura,ukrainizacia,jazyk,nacia,narod,evropa
+page
+	set url https://gazeta.ua/articles/zhezhera/_zdorov-bratiku/1023417
+	set tags bratstvo,ukraina,kultura,obschestvo,ludi,chelovek,privetstvie
+page
+	set url https://gazeta.ua/articles/donbas/_saperiv-rozstrilyali-iz-zasidki-kim-buli-10-zagiblih-u-zoni-oos-u-berezni/1023404
+	set tags oss,rasstrel,snajper,smert,vojna,donbass,ukraina,2021,mar_2021
+page
+	set url https://gazeta.ua/articles/world-life/_vidali-licenziyu-na-poloti-na-orbitu/1023575
+	set tags kosmos,usa,orbita,planeta,polet,licenzia,2004,space_ship_one.korabl
+page
+	set url https://gazeta.ua/articles/zhezhera/_vesna-vorushitsya/1020595
+	set tags vesna,ukraina,priroda
+page
+	set url https://censor.net/ru/resonance/3256811/zagibl_gero_bereznya
+	set tags vojna,smert,oos,donbass,ukraina,mar_2021,geroi
+page
+	set url https://45parallel.net/za_daliyu_daly
+	set tags dal'_vladimir,grinchenko_boris.mova,jazyk,mova,ukraina,lugansk,donbass,1801,shevchenko_taras,orenburg,rusimperia,istoria
+page
+	set url https://45parallel.net/dmitriy_pavlychko/
+	set tags pavlychko_dmitrij.poet,kiev,ukraina,kultura,literatura,sssr,biografia,poezia,mova,jazyk
+page
+	set url https://45parallel.net/evgeniya_bilchenko/doktor_ili_u_pamyatnika_shevchenko.html
+	set tags bilchenko_evgenia,poezia,ukraina,shevchenko_taras,kultura,literatura
+page
+	set url http://lug-info.com/news/one/aktivisty-od-mir-luganschine-peredali-nuzhdayuschimsya-luganchanam-pomosch-ot-lemz-foto-66172
+	set tags lnr,lugansk,mir_luganschine,pomosch,obschestvo
+page
+	set url http://lug-info.com/news/one/glava-lnr-poruchil-prorabotat-vozmozhnost-priobreteniya-skanera-dlya-luganskoi-gorkovki-66173
+	set tags lnr,lugansk,skaner,biblioteka,dal'_vladimir,kultura,pokupka,literatura
+page
+	set url http://lug-info.com/news/one/vsu-iz-za-rosta-podryvov-na-minakh-organizovali-kursy-dlya-saperov-narodnaya-militsiya-66168
+	set tags nm_lnr,lnr,vojna,donbass,ukraina,mina,vsu
+page
+	set url http://lug-info.com/news/one/narodnaya-militsiya-v-marte-razminirovala-36-tys-kv-m-territorii-stskk-66149
+	set tags nm_lnr,lnr,mina,oborona,vojna,donbass
+page
+	set url http://lug-info.com/news/one/kievskie-siloviki-dva-raza-za-sutki-narushili-rezhim-tishiny-66145
+	set tags vojna,donbass,peremirie,narushenie,ukraina,vsu,lnr,nm_lnr
+page
+	set url https://plus.obozrevatel.com/crime/pogibshie-pobratimyi-prishli-k-podozrevaemomu-v-pogromah-pod-op-sordu-on-sdelal-priznanie-na-video.htm
+	set tags ukraina,pobratim,sord_vladislav,vranje,ato,vojna,donbass
+page
+	set url https://news.obozrevatel.com/society/zelenskij-byil-prav-oni-fiziologicheski-drugie.htm
+	set tags ukraina,chelovek,moral,drugie,ludi,verhovna_rada,sluga_naroda,deputat,obschestvo
+page
+	set url https://news.obozrevatel.com/society/borba-s-covid-19-reanimatsiya-peregruzhena-vtroe-medsestryi-padayut-v-obmoroki.htm
+	set tags ukraina,medsestra,bolnica,covid,bolezn,reanimacia,zabolevajemost',obschestvo,zhizn
+page
+	set url http://lug-info.com/news/one/nabor-na-obuchenie-spetsialnostyam-v-narodnoi-militsii-proidet-s-1-aprelya-po-30-sentyabrya-66178
+	set tags lnr,nm_lnr,prizyv,armia
+page
+	set url http://lug-info.com/news/one/mvd-lnr-vydalo-600-tysyachnyi-pasportnyi-dokument-respubliki-66119
+	set tags lnr,lugansk,passport,mvd_lnr,pervomajsk
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-raznyh-gorodah-lnr-aktivisty-od-mir-luganshhine-zakrasili-24-nadpisi-s-adresami-telegram-kanalov-narkotorgovczev/
+	set tags lnr,lugansk,mir_luganschine,narkotik,narkotorgovec,zakraska,stena,obschestvo
+page
+	set url https://www.radiosvoboda.org/a/rossija-peremirie-donbass/31182161.html
+	set tags rossia,tkg,peremirie,donbass,vojna,ukraina
+page
+	set url https://lenta.ru/news/2021/04/01/vypisan_iz_russkih/
+	set tags ukraina,rossia,rusmir,literatura,kultura,gogol_nikolai,tkachenko_aleksandr
+page
+	set url https://strana.ua/news/325945-skolko-u-neho-antitel-spustja-hod-posle-privivki-sputnik-v-ot-koronavirusa.html
+	set tags rossia,ginzburg_aleksandr,sputnik_v,antitela,medicina,vaccine,covid
+page
+	set url https://strana.ua/news/325895-kitaj-budet-proizvodit-bolee-100-mln-doz-sputnika-v-v-hod.html
+	set tags rossia,kitaj,dogovor,proizvodstvo,vaccine,covid,sputnik_v
+page
+	set url https://fraza.com/news/299282-verujuschie-upts-prinesli-krestnym-hodom-na-bankovuju-jaschiki-s-pismami-v-kotoryh-prosba-uslyshat-golos-tserkvi
+	set tags upc,cerkov,prezident,ofis_prezidenta,pismo,presledovanie,ukraina,zelenskii_vladimir
+page
+	set url https://www.depo.ua/ukr/life/pitannya-dlya-rnbo-chomu-kievo-pecherska-lavra-peretvorilasya-na-noviy-velyur-202104011303766
+	set tags ukraina,rnbo,upc,karantin,obschestvo,vera,cerkov,covid,zelenskii_vladimir
+page
+	set url https://riakursk.ru/puteshestvenniki-vo-vremeni-semyaynaya-para-v-obrazakh-krestyan-progulyalas-po-tsentru-goroda/
+	set tags rossia,kursk,vremja,tradicii,istoria,kultura,zhizn,obschestvo,chelovek
+page
+	set url https://pravoslavie.ru/138295.html
+	set tags rossia,rusimperia,pravoslavie,ideologia,derzhava,nacia,groznyy_ivan,demokratia,aristotel'
+page
+	set url https://news.obozrevatel.com/politics/ukraina-razoblachaet-prorossijskuyu-qanon.htm
+	set tags ukraina,qanon,telekanaly,zapret,cenzura,repressii,medvedchuk_viktor,zelenskii_vladimir,112_ua
+page
+	set url https://hvylya.net/interview/228082-aleksandr-harebin-scenaristy-seriala-sluga-naroda-eto-chertovy-genii-oni-zaprogrammirovali-budushchee-ukrainy
+	set tags ukraina,obschestvo,zelenskii_vladimir,future,nacia,derzhava,interview,harebin_aleksandr,rnbo
+page
+	set url https://analytics.hvylya.net/228073-v-chem-koren-vseh-nashih-problem
+	set tags ukraina,obschestvo,analitika,future,elita,derzhava,nacia
+page
+	set url https://analytics.hvylya.net/228060-pro-zovnishnopolitichni-ilyuziji-ukrajinciv
+	set tags ukraina,rossia,future,derzhava,geopolitika,usa,evropa,obschestvo,nacia
+page
+	set url https://analytics.hvylya.net/208336-kalka-protivostoyanie-s-rusyu-ot-chingizidov-do-putinskoy-ordy
+	set tags rusmir,ukraina,kievrus,kalka,1223,drevrus,mongoly,istoria,rossia,putin_vladimir
+page
+	set url https://hvylya.net/analytics/society/2010-10-06-18-49-47.html
+	set tags ukraina,mif,mova,derzhava,fraza,rus',rusmir
 eof
 off
 page

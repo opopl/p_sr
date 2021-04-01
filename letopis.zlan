@@ -16501,6 +16501,72 @@ page
 page
 	set url https://tour.sevastopol.su/events/hersones-ar-mashina-vremeni-v-tvojom-smartfone/
 	set tags rossia,turizm,krym,sevastopol,it,hersones
+page
+	set url https://strana.ua/news/325782-nachalo-nastojashcheho-lokdauna-valit-iz-etoj-strany-okhota-na-temnoho-rytsarja.html
+	set tags ukraina,itogi,zapret,rossia,lockdown,bumaga,kabmin,torgovlja,ekonomika,gazeta
+page
+	set url https://strana.ua/news/325637-v-estonii-ukrainskikh-zarobitchan-obvinili-v-rusifikatsii-strany.html
+	set tags estonia,russifikacia,ukraina,rabota,vozmuschenie
+page
+	set url https://strana.ua/news/325806-syn-bajdena-v-burisme-zarabatyval-na-alkohol-i-narkotiki.html
+	set tags ukraina,usa,kniga,biden_hanter,memuary,alkogol,narkotiki
+page
+	set url https://strana.ua/news/325733-chto-znachit-novyj-zapret-kabmina-po-tovaram-iz-rossii-.html
+	set tags ukraina,bumaga,zapret,rossia,kabmin,ekonomika,torgovlja
+page
+	set url https://www.radiosvoboda.org/a/photo-yaponiya-tsvitinnya-sakury/31180269.html
+	set tags japonia,sakura,priroda
+page
+	set url https://vz.ru/society/2021/4/1/1092260.html
+	set tags rossia,istoria,avia,mozhajskij_aleksandr.izobretatel,rusimperia,1890
+page
+	set url https://vz.ru/world/2021/3/31/1092200.html
+	set tags ukraina,rossia,germania,francia,vstrecha,diplomatia,donbass,minsk_dogovor,vojna
+page
+	set url https://ukraina.ru/opinion/20210331/1031010541.html
+	set tags ukraina,eda,kuhnja,dekomunizacia
+page
+	set url https://plus.obozrevatel.com/crime/komanda-semenchenko-rabotala-na-fsb-rossii-10-interesnyih-momentov-iz-skandalnogo-intervyu.htm
+	set tags semenchenko_semen,rossia,ukraina,fsb,dobrobaty,dobrovolec,vojna,donbass
+page
+	set url https://news.obozrevatel.com/abroad/razgovor-putina-merkel-i-makrona-popyitka-ubedit-ubijtsu-ne-ubivat.htm
+	set tags vstrecha,ukraina,putin_vladimir,rossia,francia,germania,merkel_angela,makron_emmanuel.prezident.francia
+page
+	set url https://lenta.ru/articles/2021/04/01/bez_peremen/
+	set tags belarus,lukashenko_aleksandr,oppozicia,protest,derzhava
+page
+	set url https://lenta.ru/news/2021/04/01/ukraine_covid/
+	set tags ukraina,covid,zabolevajemost',bolnica,bolezn,antirekord,rekord
+page
+	set url https://lenta.ru/news/2021/03/31/dieukr/
+	set tags ukraina,minzdrav,smert,covid,bolezn,zabolevajemost'
+page
+	set url https://fraza.com/blog/299237-esli-uzhe-sluga-naroda-schitaet-chto-nado-valit-iz-etoj-strany-eto-prigovor
+	set tags ukraina,skandal,kolesnik_anna.deputat.vru,future,depressia,obschestvo,ludi,verhovna_rada,sluga_naroda,fraza
+page
+	set url https://fraza.com/video/299249-kaliforniju-potrjasla-krovavaja-bojnja-sredi-pogibshih-rebenok-
+	set tags usa,kriminal,strelba,shooting,kalifornia,deti,murder
+page
+	set url https://gazeta.ua/blog/54840/mi-zavzhdi-lyubili-rizati-paniv-ce-pereteklo-v-nenavist-do-najkraschih
+	set tags ukraina,narod,elita,mentalitet,nacia,future,mudrost
+page
+	set url https://gazeta.ua/blog/54843/rf-zrobila-movu-zbroyeyu-u-gibridnij-vijni
+	set tags ukraina,mova,jazyk,rusmir,nenavist,avakov_arsen
+page
+	set url https://lb.ua/blog/kyrylo_pyschykov/481050_nihto_nevpevnena_sproba.html
+	set tags ukraina,film,kino,kritika,kultura
+page
+	set url http://lug-info.com/news/one/rtsent-peredal-minprirody-skvorechniki-izgotovlennye-uchastnikami-konkursa-krylatye-sosedi-foto-66140
+	set tags lnr,skvorechnik,masterstvo,priroda,1_apr,den'_ptic,ptica
+page
+	set url http://lug-info.com/news/one/degustatsionnaya-komissiya-rekomendovala-k-proizvodstvu-v-lnr-novye-vidy-produktsii-foto-66138
+	set tags lnr,lugansk,degustacia,eda,kuhnja,komissia
+page
+	set url https://mir-lug.info/novosti-proektov/filipp-kobczev-provyol-trening-dlya-aktivistov-proekta-my-pomnim-od-mir-luganshhine/
+	set tags aktivist,lnr,mir_luganschine,vstrecha,trening,komanda,lugansk,biznes,uspeh
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-sele-dyakovo-proveli-akcziyu-zdes-zhivet-veteran-velikoj-otechestvennoj-vojny/
+	set tags veteran,lnr,selo,akcia,vov,djakovo.lnr.selo
 eof
 off
 page

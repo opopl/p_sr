@@ -16567,6 +16567,52 @@ page
 page
 	set url https://mir-lug.info/novosti-terotdelenij/v-sele-dyakovo-proveli-akcziyu-zdes-zhivet-veteran-velikoj-otechestvennoj-vojny/
 	set tags veteran,lnr,selo,akcia,vov,djakovo.lnr.selo
+page
+	set url https://nt1941.su/allnews/ournews/17055-nikolay-prishel-s-nebes-budet-chudo-iz-chudes.html
+	set tags nikolaj_chudotvorec,chudo,lnr,prazdnik,deti,cerkov,vera,biblioteka
+	set date 22_12_2020
+page
+	set url https://strana.ua/news/325804-doklad-hosdepa-po-pravam-cheloveka-v-ukraine-2021-podrobnyj-analiz.html
+	set tags ukraina,gosdep,doklad,chelovek,prava_cheloveka,usa,cenzura,policia,sbu,sud,svoboda_slova,vlast,zhurnalist
+page
+	set url https://strana.ua/news/325478-kakie-nadpisi-nardepy-khoteli-by-ostavit-na-ofise-prezidenta.html
+	set tags kiev,ukraina,opros,pogrom.20_03_2021,loh,prezident,ofis_prezidenta,obschestvo
+page
+	set url https://strana.ua/video/324322-pohrom-ofisa-prezidenta-kak-kievljane-otnosjatsja-k-proizoshedshemu-opros.html
+	set tags ukraina,video,opros,loh,pogrom.20_03_2021,prezident,ofis_prezidenta,kiev,ludi,kievljane
+page
+	set url https://strana.ua/news/325829-dzhoshua-khejliesus-joshua-haileyesus-povredil-mozh-iz-za-chellendzha-v-tiktok.html
+	set tags tiktok,usa,smert,mozg,rebenok,deti
+page
+	set url https://strana.ua/news/286767-novyj-chellendzh-tiktok-udali-rodinku-podruchnymi-sposobami.html
+	set tags tiktok,socset,challenge,rodinka,chelovek,medicina,psihologia
+page
+	set url http://lug-info.com/news/one/kruglyi-stol-k-115-letiyu-so-dnya-rozhdeniya-politruka-eremenko-proshel-v-slavyanoserbske-foto-66148
+	set tags lnr,slavjanoserbsk.lnr,kruglyj_stol,vstrecha,115_let,eremenko_aleksej.kombat.rkka,pamjat
+page
+	set url https://riakursk.ru/chtoby-pomnili-vzyatie-parizha-i-okonchanie-napoleonovskoy-kampanii/
+	set tags rossia,istoria,francia,napoleon,aleksandr_I_tsar'.rossia,parizh,31_mar,1814,kapituljacia,pobeda,vojna
+page
+	set url https://riakursk.ru/kurskaya-studentka-pobedila-v-konkurse-moya-strana-moya-rossiya/
+	set tags rossia,kursk,chelovek,konkurs,pobeda
+page
+	set url https://vz.ru/politics/2021/4/1/1092328.html
+	set tags evropa,zapad,pandemia,karantin,covid,demokratia,prava_cheloveka
+page
+	set url https://regnum.ru/news/polit/3230426.html
+	set tags geopolitika,usa,rossia,kitaj,koncert,deep_state,planeta
+page
+	set url https://zaxid.net/25_vidsotkoviy_patriotizm_n1516640
+	set tags ukraina,patriotizm,donbass,krym,psihologia,nenavist
+page
+	set url https://pravoslavie.ru/138332.html
+	set tags moskva,istoria,rossia,rusmir,1521,1492,vera,cerkov,ikona,moskovia
+page
+	set url https://pravoslavie.ru/138231.html
+	set tags flag,shvecia,pravoslavie,vera,cerkov,obschestvo,rusmir
+page
+	set url https://pravoslavie.ru/138333.html
+	set tags pravoslavie,vera,kniga,pantelejmon.muchenik,rusmir,deti
 eof
 off
 page

@@ -17043,6 +17043,54 @@ page
 page
 	set url https://analytics.hvylya.net/204533-krizis-2020-i-glavnaya-problema-ukrainy
 	set tags dolos,ukraina,planeta,world,future,strategia
+page
+	set url https://strana.ua/news/326139-leonid-kravchuk-khochet-naznachit-v-tkh-sovetnika-po-svjazjam-s-ordlo.html
+	set tags kravchuk_leonid,tkg,arestovich_aleksei,ukraina,rossia,peregovory,donbass,sovetnik
+page
+	set url https://strana.ua/news/326016-liza-vasilenko-dala-otkrovennoe-intervju-pushke-v-youtube.html
+	set tags vasilenko_liza.blogger,interview,moskva,rossia,ukraina,dnepropetrovsk
+page
+	set url https://strana.ua/news/326121-strelba-v-kieve-v-velmarte-pokupatel-vladimir-kovalenko-vystrelil-v-okhrannika-iz-za-maski-podrobnosti.html
+	set tags vij,strelba,ukraina,trc.ukraina,kiev,kriminal,ohrannik,maska,policia
+page
+	set url https://strana.ua/news/326021-motor-sich-i-natsionalizatsija-chto-hovorjat-o-konflikte-s-kitaem-rabochie-zavoda.html
+	set tags ukraina,motor_sich,zavod,zaporozhie,kitaj,usa
+page
+	set url https://news.obozrevatel.com/politics/chernaya-dyira-imperii-gotova-k-bolshomu-revanshu-pervaya-tsel-ukraina.htm
+	set tags ukraina,rossia,imperia,black_hole,revansh,donbass,vojna
+page
+	set url https://plus.obozrevatel.com/crime/gaj-mozhem-osvobodit-donetsk-i-lugansk-pri-opredelennyih-usloviyah-kreml-speshit-i-gotovit-nastuplenie.htm
+	set tags donbass,ukraina,rossia,vojna,podgotovka,agressor
+page
+	set url https://fakty.ua/372500-ordlo-ochevidno-zhdet-novaya-volna-begstva-naseleniya---kazanskij
+	set tags donbass,dnr,lnr,prizyv,naselenie,ludi,vojna
+page
+	set url https://fakty.ua/372341-vesnoj-2014-go-my-byli-gotovy-polnostyu-zachistit-doneck
+	set tags 2014,doneck,ukraina,rossia,vojna,donbass
+page
+	set url http://lug-info.com/news/one/mediki-v-khode-aktsii-den-zdorovya-obsledovali-bolee-450-zhitelei-prifrontovoi-bryanki-foto-66228
+	set tags lnr,medik,pomosch,obschestvo,mir_luganschine
+page
+	set url https://antimaydan.info/2021/04/rossiya_vpervye_publichno_postavila_voennuu_tehniku_v_dnr.html
+	set tags rossia,dnr,tehnika,armia,avto,ukraina,vojna,donbass,doneck
+page
+	set url https://antimaydan.info/2017/04/dnr_poyavilas_blagodarya_ludyam_bez_kotoryh_rossiya_ne_smogla_by_sushestvov.html
+	set tags vojna,donbass,dnr,tolstyh_mihail,ludi,rossia,novorossia,ukraina
+page
+	set url https://shevchenkon.ucoz.net/index/tvorchestvo_moikh_uchenikov/0-10
+	set tags ukraina,mova,shevchenko_taras,lnr,uchitel,interview,vojna,kobzar,shkola,deti
+page
+	set url https://shevchenkon.ucoz.net/index/portfolio/0-4
+	set tags lnr,shevchenko_taras,konkurs,gramota,ukraina,foto
+page
+	set url https://minobr.su/news/1567-v-lnu-imeni-tarasa-shevchenko-nagradili-pobediteley-konkursa-priurochennogo-k-prazdnovaniyu-dnya-rozhdeniya-tarasa-shevchenko.html
+	set tags lnr,shevchenko_taras,konkurs,minobraz.lnr,tvorchestvo,sovremennost',nagrada,deti,shkola,obrazovanie,kultura,literatura,poezia
+page
+	set url https://miaistok.su/tvorchestvo-vne-politiki-v-luganske-pochtili-pamyat-velikogo-poeta-tarasa-shevchenko/
+	set tags shevchenko_taras,novorossia,rossia,tvorchestvo,ukraina,literatura,kultura,lnr
+page
+	set url https://minobr.su/news/10547-zakonchilas-nedelya-detskoy-i-yunosheskoy-knigi.html
+	set tags lnr,lugansk,kniga,deti,obrazovanie,alchevsk,shkola
 eof
 off
 page

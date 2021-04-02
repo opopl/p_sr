@@ -16911,6 +16911,21 @@ page
 page
 	set url https://kiev.strana.ua/326040-politsejskie-ostanavlivajut-perepolnennye-marshrutki-kieva.html
 	set tags ukraina,policia,marshrutka,karantin,covid
+page
+	set url https://strana.ua/news/326068-pod-dneprom-zaderzhali-predstavitel-lnr-prichastnoho-k-ubijstvu-sotrudnika-sbu.html
+	set tags dnepropetrovsk,ukraina,sbu,terrorist,arest,zaderzhanie,dnr,donbass,2014
+page
+	set url https://news.obozrevatel.com/ukr/kino/news/49782-zaborona-mashi-i-vedmedya-v-ukraini-avtori-serialu-vidpovili-na-zvinuvachennya.htm
+	set tags ukraina,rossia,multik,zapret,masha_i_medved'.multik
+page
+	set url https://www.unian.ua/society/10343526-zbroya-russkogo-mira-pismennicya-nicoy-zaklikala-zaboroniti-v-ukrajini-multfilm-masha-i-vedmid.html
+	set tags ukraina,rossia,masha_i_medved'.multik,nicoi_larisa,multik,zapret
+page
+	set url https://news.obozrevatel.com/ukr/society/strategichna-zbroya-nitsoj-obrushilasya-na-rosijskih-mashu-i-vedmedya.htm
+	set tags ukraina,nicoi_larisa,masha_i_medved'.multik,zapret,rossia,rusmir
+page
+	set url https://news.obozrevatel.com/ukr/kino/news/90638-myaka-sila-ukraini-proponuyut-terminovo-zaboroniti-multfilm-masha-i-vedmid.htm
+	set tags rossia,masha_i_medved'.multik,ukraina,zapret,propaganda,kreml,cenzura
 eof
 off
 page

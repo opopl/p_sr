@@ -16926,6 +16926,15 @@ page
 page
 	set url https://news.obozrevatel.com/ukr/kino/news/90638-myaka-sila-ukraini-proponuyut-terminovo-zaboroniti-multfilm-masha-i-vedmid.htm
 	set tags rossia,masha_i_medved'.multik,ukraina,zapret,propaganda,kreml,cenzura
+page
+	set url https://www.radiosvoboda.org/a/donetsk-yasinovatayz-viyna-aeroport/31183747.html
+	set tags ukraina,donbass,vojna,doneck
+page
+	set url http://lug-info.com/news/one/zaschitnik-lnr-pogib-v-rezultate-obstrela-so-storony-vsu-narodnaya-militsiya-66205
+	set tags lnr,nm_lnr,smert,zaschitnik,donbass,vojna
+page
+	set url https://vz.ru/news/2021/4/2/1092662.html
+	set tags rossia,multik,kultura
 eof
 off
 page

@@ -16974,6 +16974,27 @@ page
 page
 	set url https://news.obozrevatel.com/show/poplavskij-prezentoval-novyij-klip-na-hit-salo.htm
 	set tags ukraina,kultura,poplavskij_mihail.rektor,salo,klip,showbiz,muzyka,kiev
+page
+	set url https://zen.yandex.ru/media/slavmir/zakon-eto-za-kon-6047421444edc66681c186e9
+	set tags slavjane,rusmir,zakon,istoria,kultura,zhizn,slovo
+page
+	set url https://blogs.pravda.com.ua/authors/muzhdabaev/6064aa46e96c8/
+	set tags muzhdabaev_aider,jazyk,mova,zlo,rossia,ukraina,rusmir
+page
+	set url https://vz.ru/opinions/2021/2/9/1084041.html
+	set tags rossia,navalny,politika,dobro,zlo,pravednik,ad,strana,psihologia,chelovek
+page
+	set url https://strana.ua/news/326122-zelenskij-i-bajden-obsudili-donbass-i-vojska-rf-na-hranitse-ukrainy.html
+	set tags zelenskii_vladimir,biden_joe,usa,ukraina,telefon,razgovor,donbass,rossia
+page
+	set url https://gazeta.ua/blog/54859/nikoli-ne-bude-schaslivih-mist-u-neschaslivij-krayini
+	set tags schastje,strana,gorod,ukraina
+page
+	set url https://www.nkj.ru/news/41098/
+	set tags ukraina,nauka,mfti,izobretenie,qubit,superconductor
+page
+	set url http://lug-info.com/news/one/eksperty-iz-rf-proveli-treningi-dlya-kandidatov-v-deputaty-molodezhnogo-parlamenta-lnr-foto-66227
+	set tags lnr,rossia,vstrecha,molodezh,molodezh_parlament.lnr,ekspert,obschestvo
 eof
 off
 page

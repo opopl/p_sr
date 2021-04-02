@@ -17145,6 +17145,12 @@ page
 page
 	set url http://ukrcentr.ru/afisha-2/
 	set tags ukraina,rossia,afisha,kultura
+page
+	set url https://strana.ua/news/326165-neizvestnyj-protaranil-ohradu-kapitolija-v-ssha-est-ranenye.html
+	set tags usa,biden_joe,kapitolij,policia,strelba,zelenskii_vladimir,ukraina
+page
+	set url https://nauka-prosto.ru/page/yuriy-gagarin-pervyy-polyot-v-kosmos/
+	set tags gagarin_jurij,polet,kosmonavtika,12_apr,sssr,istoria,nauka,korolev_sergei,hruschov_nikita,raketa,1961
 eof
 off
 page

@@ -17142,6 +17142,9 @@ page
 page
 	set url http://ukrcentr.ru/novini/do-dnya-narodzhennya-mikoli-gogolya/#more-16858
 	set tags gogol_nikolai,moskva,pamjat,pamjatnik,ukrcentr.moskva,cvety
+page
+	set url http://ukrcentr.ru/afisha-2/
+	set tags ukraina,rossia,afisha,kultura
 eof
 off
 page

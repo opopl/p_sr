@@ -17094,6 +17094,54 @@ page
 page
 	set url https://minobr.su/news/1246-ledovaya-skazka-dlya-luganskih-figuristov-v-stolice-rossiyskoy-federacii.html
 	set tags moskva,rossia,deti,led,stadion,skazka,lnr
+page
+	set url https://www.radiosvoboda.org/a/krym-pereselenia-rosiany-ukraina-zamischennia-naselennia/31183622.html
+	set tags ukraina,krym,rossia,reznikov_aleksei
+page
+	set url https://strana.ua/news/326108-polina-lysenko-vozhlavila-tsentr-po-borbe-s-fejkami-kak-ona-svjazana-s-posolstvom-ssha.html
+	set tags ukraina,rnbo,dezinformacia,infvojna,cenzura,zelenskii_vladimir,ukrzaliznycia
+page
+	set url https://fraza.com/news/299315-svjaschennik-upts-prizval-ptsu-ne-zahvatyvat-hramy-a-stroit-svoi
+	set tags ukraina,upc,cerkov,presledovanie,repressii,vera
+page
+	set url https://www.pravda.com.ua/news/2021/04/2/7288846/
+	set tags poroshenko_petr,ukraina,vaccine,biden_joe,zelenskii_vladimir,rossia,telefon
+page
+	set url http://lug-info.com/news/one/luganskaya-afisha-66163
+	set tags lnr,lugansk,afisha,kultura
+page
+	set url https://censor.net/ru/resonance/3257342/glavnye_voprosy_po_vtorjeniyu_rf_v_ukrainu
+	set tags ukraina,rossia,donbass,vojna,nato,zapad
+page
+	set url https://korrespondent.net/lifestyle/4344270-myss-ukrayna-vselennaia-2020-ne-dauit-vyzu-v-ssha-dlia-poezdky-na-konkurs
+	set tags usa,ukraina,krasota,vizantia,otkaz,universe,devushka,konkurs
+page
+	set url https://korrespondent.net/lifestyle/fashion/4160770-myss-ukrayna-vselennaia-ne-puskauit-v-ssha-na-fynal-konkursa
+	set tags usa,ukraina,krasota,konkurs,otkaz,vizantia,devushka
+page
+	set url https://strana.ua/news/326170-rossotrudnichestvo-i-eshchjo-11-rossijskikh-kompanij-popali-pod-sanktsii-snbo.html
+	set tags ukraina,rnbo,sankcii,rossotrudnichestvo
+page
+	set url https://www.kp.ru/daily/27258/4390328/
+	set tags rossia,krym,foros,protest,putin_vladimir
+page
+	set url https://vz.ru/opinions/2021/4/2/1092529.html
+	set tags rossia,sila,dobro,asia
+page
+	set url https://ukraina.ru/exclusive/20180417/1020204313.html
+	set tags tolochko_aleksej,istoria,rossia,ukraina
+page
+	set url https://lb.ua/blog/olexandr_tkachenko/481333_mikola_vasilovich_nikolay.html
+	set tags gogol_nikolai,istoria,rossia,tkachenko_aleksandr,ukraina,dezinformacia
+page
+	set url https://mir-lug.info/novosti-terotdelenij/aktivisty-slavyanoserbska-proveli-russkuyu-probezhku/
+	set tags rusvesna,lnr,probezhka,sport,zdorovje,molodezh,mir_luganschine,slavjanoserbsk.lnr,molodaja_gvardia.lnr,druzhina
+page
+	set url https://lenta.ru/news/2021/04/02/podgotovka/
+	set tags rossia,ukraina,nato,kiev,krym,vojna
+page
+	set url http://ukrcentr.ru/novini/do-dnya-narodzhennya-mikoli-gogolya/#more-16858
+	set tags gogol_nikolai,moskva,pamjat,pamjatnik,ukrcentr.moskva,cvety
 eof
 off
 page

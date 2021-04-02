@@ -16905,6 +16905,9 @@ page
 page
 	set url https://zen.yandex.ru/media/cyrillitsa.ru/kogda-i-pochemu-russkie-kniazia-vpervye-nachali-nosit-slavianskie-imena-605919552273620767733f19
 	set tags drevrus,imja,knjaz_svjatoslav_igorevich.rus',kievrus,rusmir,rossia,istoria,ukraina
+page
+	set url https://news.obozrevatel.com/politics/butusov-i-muraev-edva-ne-podralis-v-pryamom-efire-video.htm
+	set tags butusov_jurij,muraev_evgenii,ukraina,telekanal,skandal,draka,vojna,donbass,kiev
 eof
 off
 page

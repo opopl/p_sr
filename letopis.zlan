@@ -17091,6 +17091,9 @@ page
 page
 	set url https://minobr.su/news/10547-zakonchilas-nedelya-detskoy-i-yunosheskoy-knigi.html
 	set tags lnr,lugansk,kniga,deti,obrazovanie,alchevsk,shkola
+page
+	set url https://minobr.su/news/1246-ledovaya-skazka-dlya-luganskih-figuristov-v-stolice-rossiyskoy-federacii.html
+	set tags moskva,rossia,deti,led,stadion,skazka,lnr
 eof
 off
 page

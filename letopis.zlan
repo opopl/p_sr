@@ -17319,6 +17319,30 @@ page
 page
 	set url https://www.donetsk.kp.ru/daily/26667.5/3688566/
 	set tags buzina_oles,buzina.vp,ukraina,doneck,pamjat,donbass
+page
+	set url https://strana.ua/articles/analysis/326156-bankovaja-sozdaet-tsentry-borby-s-dezinformatsiej-i-inakomysliem-.html
+	set tags ukraina,dezinformacia,zelenskii_vladimir,infvojna
+page
+	set url https://strana.ua/news/326238-kontraktnik-zastrelilsja-v-tsentre-desna-v-chernihovskoj-oblasti.html
+	set tags ukraina,vsu,armia,suicid,smert,chernigov
+page
+	set url https://strana.ua/news/326235-turchinov-i-poroshenko-nachali-sobirat-rezervistov.html
+	set tags ukraina,vojna,turchinov_aleksandr,poroshenko_petr,rezervist,armia,vsu
+page
+	set url https://strana.ua/news/326208-sutki-v-oos-21-raz-narushen-rezhim-tishiny.html
+	set tags ukraina,donbass,vojna,vsu,obstrel,ranenie
+page
+	set url https://strana.ua/news/326243-iz-za-dejstvij-bespilotnika-na-okraine-donetska-pohib-rebenok-i-ranena-zhenshchina.html
+	set tags donbass,vojna,obstrel,ukraina,dnr,rebenok,smert,deti
+page
+	set url https://www.radiosvoboda.org/a/tsey-doshch-nikoly-ne-skinchytsia/31184236.html
+	set tags ukraina,vojna,svoboda,film,kultura,kino
+page
+	set url http://lug-info.com/news/one/boets-vsu-poluchil-tyazhelye-raneniya-pri-podryve-mashiny-na-ukrainskoi-mine-narodnaya-militsiya-66238
+	set tags lnr,nm_lnr,mina,oos,vsu,donbass,vojna
+page
+	set url https://zen.yandex.ru/media/id/5aa2f29b57906a2de7dcdad1/aleksandr-semchenko-kak-posle-liustracii-stanoviatsia-politicheskimi-videoblogerami-5e5511296617c37cfdda59e1
+	set tags semchenko_aleksandr,ukraina,mosijchuk_igor,politika,telekanal,newsone,draka,skandal
 eof
 off
 page

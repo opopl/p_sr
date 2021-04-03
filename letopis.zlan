@@ -17343,6 +17343,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5aa2f29b57906a2de7dcdad1/aleksandr-semchenko-kak-posle-liustracii-stanoviatsia-politicheskimi-videoblogerami-5e5511296617c37cfdda59e1
 	set tags semchenko_aleksandr,ukraina,mosijchuk_igor,politika,telekanal,newsone,draka,skandal
+page
+	set url https://strana.ua/news/326249-delo-nikolaja-chausa-nakhoditsja-na-osobom-kontrole-ofisa-prezidenta.html
+	set tags ukraina,sudja,chaus_nikolaj,poroshenko_petr,moldova
+page
+	set url https://strana.ua/news/326254-ukrainskij-voennyj-podorvalsja-na-minnom-ustrojstve-i-pohib.html
+	set tags ukraina,vsu,donbass,vojna,smert,mina,shumy.donbass.poselok
 eof
 off
 page

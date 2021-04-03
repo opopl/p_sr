@@ -17151,6 +17151,138 @@ page
 page
 	set url https://nauka-prosto.ru/page/yuriy-gagarin-pervyy-polyot-v-kosmos/
 	set tags gagarin_jurij,polet,kosmonavtika,12_apr,sssr,istoria,nauka,korolev_sergei,hruschov_nikita,raketa,1961
+page
+	set url https://strana.ua/news/325894-propusk-v-transport-kieva-kak-poluchit-i-kak-ezdit-s-5-aprelja.html
+	set tags ukraina,kiev,karantin,ukrzaliznycia,poezd,marshrutka,covid,lockdown
+page
+	set url https://strana.ua/news/326213-stepanov-prizval-sozdat-ukrainskuju-vaktsinu-ot-koronavirusa.html
+	set tags ukraina,vaccine,proizvodstvo,covid,medicina
+page
+	set url https://strana.ua/news/326201-prezident-arhentiny-zarazilsja-koronavirusom-posle-vaktsinatsii-sputnikom-v.html
+	set tags sputnik_v,argentina,covid,vaccine,bolezn',rossia,vaccinacia,prezident
+page
+	set url https://strana.ua/news/325727-totalnyj-karantin-kohda-zakonchitsja-lokdaun-prohnoz-po-koronavirusu-na-vesnu-2021-v-ukraine.html
+	set tags karantin,covid,kiev,ukraina,statistika,lockdown
+page
+	set url http://lug-info.com/news/one/vsu-obstrelyali-iz-122-mm-artillerii-raion-kalinovo-borschevatogo-narodnaya-militsiya-66233
+	set tags lnr,nm_lnr,vojna,donbass,vsu,ukraina,minsk_dogovor,obstrel
+page
+	set url https://www.radiosvoboda.org/a/news-kyiv-spezperepustky/31184961.html
+	set tags ukraina,kmda,kiev,prodazha,propusk,karantin,lockdown,policia,objavlenie
+page
+	set url https://lenta.ru/news/2021/04/03/bortsyha/
+	set tags ukraina,zelenskii_vladimir,kiev,dezinformacia,propaganda,borotba
+page
+	set url https://lenta.ru/news/2021/03/09/agressor/
+	set tags zelenskii_vladimir,cenzura,ukraina,telekanal,tv,repressii,sankcii
+page
+	set url https://112ua.tv/obshchestvo/oksana-marchenko-poyavilas-v-obraze-nishhey-v-filme-palomnica-572966.html
+	set tags film,marchenko_oksana,pravoslavie,vera,cerkov,ukraina,upc,palomnik
+page
+	set url http://lug-info.com/news/one/teatr-na-oboronnoi-predstavil-premeru-antikrizisnoi-komedii-dorogie-moi-banditki-foto-66229
+	set tags lnr,teatr,kultura,premjera,lugansk
+page
+	set url https://lgaki.info/o-nas-govoryat/rukovoditel-detskoj-studii-animatsii-yula-anna-vegera-mnozhestvo-dekoratsij-nashih-multfilmov-sozdany-iz-prirodnyh-materialov/
+	set tags lgaki,deti,animacia,lnr,lugansk,tvorchestvo,kultura,studia
+page
+	set url http://lug-info.com/news/one/vsu-razmestili-bronetekhniku-i-gaubitsy-u-zhilykh-domov-v-zone-oos-narodnaya-militsiya-66236
+	set tags nm_lnr,lnr,oos,vsu,vojna,donbass
+page
+	set url https://www.radiosvoboda.org/a/31183773.html
+	set tags rossia,ukraina,vojna,donbass,minsk_dogovor,peremirie
+page
+	set url https://ukraina.ru/exclusive/20210403/1031033061.html
+	set tags ukraina,vojna,vera,cerkov,upc,presledovanie,prezident,zelenskii_vladimir,poroshenko_petr
+page
+	set url https://news.obozrevatel.com/politics/v-sluchae-nastupleniya-rossii-nikakaya-diviziya-ssha-v-ukrainu-ne-pribudet-zabrodskij.htm
+	set tags ukraina,rossia,vsu,vojna,donbass,usa
+page
+	set url https://www.istpravda.com.ua/columns/2021/04/1/159255/
+	set tags ukraina,istoria,mazepa_ivan,karl_XII_korol_shvecii,cerkov,kazaki,ikona
+page
+	set url https://www.vesti.ru/article/2545214
+	set tags vaccine,issledovanie,sputnik_v,rossia
+page
+	set url https://riakursk.ru/s-ulitsy-lenina-kurska-uberut-vse-tui/
+	set tags rossia,kursk,gorod
+page
+	set url https://zaxid.net/chomu_verhovna_rada__ne_galitskiy_seym_n1516780
+	set tags ukraina,galicia,politika,vybory,verhovna_rada,vo_svoboda
+page
+	set url https://zaxid.net/chi_ye_hto_zhiviy_veliki_priyemnosti_malenkoyi_lyudini_n1516693
+	set tags ukraina,chelovek,obschestvo
+page
+	set url https://gazeta.ua/articles/politics/_sodo-medvedchuka-ta-kozaka-vidkrili-kriminalnu-spravu-zvinuvachuyut-u-derzhzradi/1024018
+	set tags medvedchuk_viktor,ukraina,rassledovanie,gosizmena,kozak_taras
+page
+	set url https://gazeta.ua/articles/politics/_govori-porusski-sluga-sevchenko-v-radi-perebiv-deputatku-yaka-rozmovlyala-ukrayinskoyu/1023328
+	set tags ukraina,mova,jazyk,sluga_naroda,jas'ko_elizaveta.deputat,verhovna_rada
+page
+	set url https://gazeta.ua/articles/health/_situaciya-vzhe-nekerovana-infekcionist-pro-karantin-u-stolici/1023604
+	set tags kiev,ukraina,zabolevajemost',covid,infekcia,karantin,lockdown
+page
+	set url https://fraza.com/blog/292927-diskriminatsionnyj-zakon-o-jazyke-mozhno-smelo-ne-vypolnjat
+	set tags ukrainizacia,diskriminacia,ukraina,zakon,mova,jazyk
+page
+	set url https://blogs.pravda.com.ua/authors/pogotova/6065d619b50f0/
+	set tags ukraina,sport,molodezh
+page
+	set url https://lb.ua/news/2021/04/01/481355_yakshcho_zavtra-viyna.html
+	set tags krym,rossia,ukraina,vojna,donbass
+page
+	set url https://inosmi.ru/social/20210403/249484653.html
+	set tags ukraina,rossia,italia,kiev,vojna
+page
+	set url https://strana.ua/news/326218-kravchuk-zajavil-chto-belarus-kholuj-rossii-a-ukraina-vrah.html
+	set tags kravchuk_leonid,ukraina,rossia,vrag,belarus
+page
+	set url https://regnum.ru/news/polit/3233127.html
+	set tags ukraina,zelenskii_vladimir,usa,politika,oruzhie,bratstvo,biden_joe
+page
+	set url https://regnum.ru/news/polit/3233115.html
+	set tags ukraina,vojna,zelenskii_vladimir,oborona,davalka
+page
+	set url https://regnum.ru/news/polit/3233126.html
+	set tags ukraina,zelenskii_vladimir,biden_joe,zvonok,priezd,vizit
+page
+	set url http://filarmonia64.com/?p=19681
+	set tags lnr,filarmonia,volja,afisha,kultura,muzyka
+page
+	set url http://filarmonia64.com/?p=19611
+	set tags lnr,afisha,lugansk,filarmonia,kultura,muzyka
+page
+	set url https://zen.yandex.ru/media/mathematic/bog-matematik-pochemu-on-sotvoril-zemliu-za-6-dnei-6064d332e1bc535b10258455
+	set tags bog,matematika,universe,chislo
+page
+	set url https://horoscopes.rambler.ru/fortune-articles/46014285-velikaya-nadezhda-dlya-mira-edgar-keysi-o-buduschem-rossii/
+	set tags rossia,prorochestvo,world,future,civilizacia
+page
+	set url https://www.championat.com/figureskating/article-4271471-istoriya-figuristki-yuko-kavaguti-smena-grazhdanstva-lyubov-k-rossii-otnosheniya-s-partnyorom.html
+	set tags figurist,japonia,rossia,emigracia,sport,obschestvo,st_peterburg,zhizn
+page
+	set url http://filarmonia64.com/?p=19960
+	set tags lnr,lugansk,kievrus,filarmonia,ansambl,muzyka
+page
+	set url http://filarmonia64.com/?p=14410
+	set tags filarmonia,lugansk,lnr,muzyka,kultura,koncert
+page
+	set url http://filarmonia64.com/?p=14191
+	set tags koncert,filarmonia,lugansk,lnr,edinstvo
+page
+	set url http://filarmonia64.com/?p=14039
+	set tags kievrus,podarok,lnr,lugansk,filarmonia,world,muzyka,kultura
+page
+	set url https://armyinform.com.ua/2020/08/chomu-taras-shevchenko-stav-vorogom-%E2%84%961-dlya-prorosijskogo-anklavu-lnr/
+	set tags shevchenko_taras,lnr,lugansk,kultura,vojna,donbass,rossia,ukraina
+page
+	set url https://gtrklnr.com/2020/07/07/luganskij-universitet-perestanet-nosit-imya-tarasa-shevchenko/
+	set tags shevchenko_taras,pereimenovanija,dal'_vladimir,lnr,lugansk,universitet
+page
+	set url http://lgpu.org/about.html
+	set tags lgpu,istoria,donbass,universitet,obrazovanie,student,nauka,ukraina,sssr
+page
+	set url https://www.istpravda.com.ua/short/2020/05/15/157516/
+	set tags lnr,istoria,uchebnik,rossia,obrazovanie,pitekantrop
 eof
 off
 page

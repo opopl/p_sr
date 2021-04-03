@@ -17283,6 +17283,36 @@ page
 page
 	set url https://www.istpravda.com.ua/short/2020/05/15/157516/
 	set tags lnr,istoria,uchebnik,rossia,obrazovanie,pitekantrop
+page
+	set url http://filarmonia64.com/?p=14019
+	set tags filarmonia,zhivotnoje,karnaval,koncert,kultura,lnr,lugansk
+page
+	set url https://stihi.pro/12689-brat.html
+	set tags lnr,hohol,poezia,bratstvo,brat,vojna,donbass
+page
+	set url http://lug-info.com/news/one/studentka-lnu-imeni-shevchenko-stala-pobeditelnitsei-konkursa-miss-lugansk-2017-28087
+	set tags lnr,lugansk,krasota,konkurs,devushka
+page
+	set url https://iz.ru/1032013/2020-07-06/luganskii-universitet-im-shevchenko-reshili-pereimenovat
+	set tags ukraina,lugansk,vojna,donbass,shevchenko_taras,lnr,lgpu,pereimenovanija
+page
+	set url https://stihi.ru/2018/03/12/10322
+	set tags shevchenko_taras,poezia,tvorchestvo,kultura,literatura,svoboda,samara,rossia,ukraina,schastje
+page
+	set url https://tribun.com.ua/32687
+	set tags lugansk,shevchenko_taras,novorossia,pamjat,pamjatnik,lnr,cvety,rossia,ukraina
+page
+	set url https://proza.ru/2018/01/23/1413
+	set tags shevchenko_taras,200_let,pamjat,kultura,prazdnovanie,moskva,ukrcentr.moskva,rossia,ukraina,unesco
+page
+	set url https://e-news.su/v-novorossii/102937-razryv-shablona-v-lnr-den-rozhdeniya-tarasa-shevchenko-otmetili-prazdnichnym-koncertom-i-vyshivankami.html
+	set tags doneck,shevchenko_taras,pamjatnik,pamjat,dnr,donbass,poezia,kultura,ukraina
+page
+	set url https://vesiskitim.ru/2021/03/09/194763-9-marta-den-rozhdeniya-tarasa-shevchenko-istoriya-shevchenkovskix-dnej-i-pozdravleniya
+	set tags orenburg,rossia,shevchenko_taras,prazdnik,poezia,kultura,prazdnovanie,literatura,ukraina
+page
+	set url http://filarmonia64.com/?p=14742
+	set tags filarmonia,lnr,lugansk,muzyka,koncert,rizdvo
 eof
 off
 page

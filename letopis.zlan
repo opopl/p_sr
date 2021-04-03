@@ -17349,6 +17349,60 @@ page
 page
 	set url https://strana.ua/news/326254-ukrainskij-voennyj-podorvalsja-na-minnom-ustrojstve-i-pohib.html
 	set tags ukraina,vsu,donbass,vojna,smert,mina,shumy.donbass.poselok
+page
+	set url https://strana.ua/news/326246-sebastjan-kurts-objasnil-kak-sputnik-v-mozhet-byt-polezen-dlja-avstrii.html
+	set tags avstria,sputnik_v,vaccine,vaccinacia,covid,rossia
+page
+	set url https://www.radiosvoboda.org/a/zelensky-bayden-i-viyna/31185044.html
+	set tags biden_joe,rossia,ukraina,zelenskii_vladimir,zvonok
+page
+	set url https://www.pravda.com.ua/articles/2018/05/10/7179831/
+	set tags ukraina,licej,shkola,kursant,armia,vsu,podgotovka,2014,vojna,donbass,krym
+page
+	set url https://fraza.com/stenograms/299330-v-intervju-oksane-marchenko-izvestnyj-muzykant-oleg-karamazov-rasskazal-o-tom-kak-prishel-k-vere
+	set tags marchenko_oksana,interview,karamazov_oleg.muzykant.kiev,vera,bog,cerkov,goloseevo,kiev,ukraina,pravoslavie,milostynja,dusha,chelovek
+page
+	set url https://news.obozrevatel.com/politics/kravchuk-konflikt-na-donbasse-mozhet-pererasti-v-tretyu-mirovuyu.htm
+	set tags kravchuk_leonid,vojna,donbass,ukraina,rossia,peregovory
+page
+	set url https://news.obozrevatel.com/society/elektrichestvo-otklyuchili-lyudi-umerli-a-chinovniki-skazali-chto-eto-ne-ot-koronavirusa-pochemu-v-odesse-samaya-vyisokaya-smertnost.htm
+	set tags zabolevajemost',covid,odessa,kiev,ukraina,bolezn,smertnost',bolnica
+page
+	set url https://plus.obozrevatel.com/crime/v-sotssetyah-zapustili-fejk-o-nastuplenii-vsu-na-lugansk-video.htm
+	set tags vsu,rossia,donbass,ukraina,vojna,lugansk
+page
+	set url https://lenta.ru/articles/2021/04/03/russiansoul/
+	set tags rossia,rusmir,rusdusha,issledovanie,uchenyj,mitjagina_ekaterina.vjatka.universitet,nauka,bigdata,internet
+page
+	set url https://lenta.ru/news/2021/04/03/nu_nu/
+	set tags ukraina,rossia,danilov_aleksei,peskov_dmitrii,rusmir,donbass
+page
+	set url https://plus.obozrevatel.com/crime/pod-chernigovom-voennyij-vyistrelil-sebe-v-golovu-podrobnosti-chp.htm
+	set tags ukraina,vsu,suicid
+page
+	set url https://plus.obozrevatel.com/crime/v-seti-rasprostranili-video-s-samoubijstvom-voennosluzhaschego-vsu-na-donbasse-kadryi-18.htm
+	set tags ukraina,donbass,vojna,suicid
+page
+	set url https://plus.obozrevatel.com/kiyany/crime/v-zdanii-tsik-pokonchil-s-soboj-25-letnij-voennyij-ofitsialnyie-zayavleniya.htm
+	set tags kiev,ukraina,suicid,cik
+page
+	set url https://news.obozrevatel.com/society/uvazhayu-tebya-amerika-i-prezirayu-tebya-strana-okkupant.htm
+	set tags ukraina,rossia,amerika,krysa,uvazhenie,kiselev_dmitrij.rossia.tv
+page
+	set url https://sharij.net/odesskij-rajsovet-podderzhal-predlozhenie-ppsh-o-pamyatnom-znake-pogibshim-2-maya-2014-goda
+	set tags ukraina,odessa,pamjat,2_may,tragedia,02.05.2014
+page
+	set url https://sharij.net/asisyaj-mendelyu-privet-set-otvetila-memami-na-zvonok-bajdena-zelenskomu
+	set tags ukraina,zelenskii_vladimir,biden_joe,zvonok,mem,usa,socset,internet,smeh
+page
+	set url https://sharij.net/146626
+	set tags ukraina,odessa,pamjat,02.05.2014,tragedia
+page
+	set url https://sharij.net/146623
+	set tags ukraina,rossia,tragedia,sheremetjevo,posolstvo.rossia.kiev
+page
+	set url https://sharij.net/146496
+	set tags rossia,moskva,sheremetjevo,avia,katastrofa,tragedia,smert,samolet
 eof
 off
 page

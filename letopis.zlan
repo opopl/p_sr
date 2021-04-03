@@ -17403,6 +17403,9 @@ page
 page
 	set url https://sharij.net/146496
 	set tags rossia,moskva,sheremetjevo,avia,katastrofa,tragedia,smert,samolet
+page
+	set url https://strana.ua/news/326271-na-sajt-mirotvorets-vnesli-eshche-odnu-devushku-tiktok-blohera.html
+	set tags vasilenko_liza.blogger,mirotvorec_sajt,ukraina,rossia,tiktok
 eof
 off
 page

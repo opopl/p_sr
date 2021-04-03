@@ -17313,6 +17313,12 @@ page
 page
 	set url http://filarmonia64.com/?p=14742
 	set tags filarmonia,lnr,lugansk,muzyka,koncert,rizdvo
+page
+	set url https://strana.ua/news/326233-vaktsinatsija-astrazeneca-v-velikobritanii-7-chelovek-iz-18-mln-umerli-iz-za-trombov.html
+	set tags vaccinacia,vaccine,covid,astrazeneka,tromboz,smert,britania
+page
+	set url https://www.donetsk.kp.ru/daily/26667.5/3688566/
+	set tags buzina_oles,buzina.vp,ukraina,doneck,pamjat,donbass
 eof
 off
 page

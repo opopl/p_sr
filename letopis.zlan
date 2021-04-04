@@ -17514,6 +17514,96 @@ page
 page
 	set url https://flibusta.is/b/420208/read
 	set tags ukraina,istoria,buzina_oles,kniga
+page
+	set url https://strana.ua/news/326374-youtube-udalil-milliony-dizlajkov-pod-video-s-dzho-bajdenom-.html
+	set tags usa,biden_joe,youtube,internet
+page
+	set url https://strana.ua/news/326312-bajden-i-zelenskij-pohovorili-o-donbasse-i-tam-usililis-boi-chto-proiskhodit.html
+	set tags biden_joe,zelenskii_vladimir,usa,ukraina,zvonok,rossia,donbass,vojna
+page
+	set url https://strana.ua/opinions/326338-kak-sluhi-naroda-obmanuli-izbiratelej-na-dovyborakh-v-radu-po-87-okruhu.html
+	set tags ukraina,vybory,sluga_naroda,verhovna_rada,politika
+page
+	set url https://strana.ua/news/326387-dmitrij-razumkov-schitaet-chto-sanktsii-nuzhno-vvodit-tolko-protiv-inostrantsev.html
+	set tags rnbo,razumkov_dmitrii,ukraina,sankcii,zakon
+page
+	set url https://strana.ua/news/326344-zelenskij-podpisal-ukaz-o-sanktsijakh-snbo-protiv-rossotrudnichestva.html
+	set tags ukraina,zelenskii_vladimir,sankcii,presledovanie,zakon,rossotrudnichestvo,ekonomika,politika,rossia
+page
+	set url https://www.radiosvoboda.org/a/okupatsiya-donbas-totalna-izoliatsia/31185995.html
+	set tags ukraina,donbass,rossia,okupacia
+page
+	set url https://ukraina.ru/opinion/20210404/1031033360.html
+	set tags materschina,sjumar_viktoria,verhovna_rada,ukraina,chelovek,degradacia
+page
+	set url https://ukraina.ru/exclusive/20210404/1030992815.html
+	set tags ukraina,donbass,istoria
+page
+	set url https://ukraina.ru/exclusive/20210404/1030948666.html
+	set tags kulinaria,gogol_nikolai,kniga,kultura,literatura,rusmir,rossia,mertvyje_dushi.gogol
+page
+	set url https://ukraina.ru/history/20210404/1031032788.html
+	set tags ukraina,istoria,1350,korolevstvo_russkoje,polsha
+page
+	set url https://fraza.com/news/299346--episkop-upts-rasskazal-pochemu-bog-ne-unichtozhaet-zlo-
+	set tags upc,zlo,hristos,cerkov,vera,pravoslavie,ukraina,dobro
+page
+	set url https://gazeta.ua/blog/54860/zelenskij-znischuye-rnbo
+	set tags zlo,ukraina,zelenskii_vladimir,rnbo,monarhia
+page
+	set url https://news.obozrevatel.com/abroad/belorusskaya-televeduschaya-vyidala-chto-ukraina-zagibaetsya-ot-nischetyi-a-narod-lazit-po-musorkam.htm
+	set tags ukraina,belarus,musor,musorka,nischeta,chelovek,obschestvo
+page
+	set url https://news.obozrevatel.com/politics/reznikov-uzhe-v-etom-godu-v-rossii-proizojdut-tektonicheskie-izmeneniya.htm
+	set tags reznikov_aleksei,donbass,vojna,ukraina,rossia,deokupacia,reintegracia,razminirovanie
+page
+	set url https://news.obozrevatel.com/politics/kravchuk-myi-hotim-videt-u-zhitelej-ordlo-interes-byit-s-ukrainoj.htm
+	set tags kravchuk_leonid,ukraina,donbass,vojna,propaganda,obschestvo,zhizn,rossia
+page
+	set url http://lug-info.com/news/one/mirnyi-zhitel-podorvalsya-na-vzryvnom-ustroistve-vsu-u-nikolaevki-narodnaya-militsiya-66245
+	set tags lnr,nm_lnr,vojna,donbass,vsu
+page
+	set url http://lug-info.com/news/one/lgaki-priglashaet-luganchan-na-vystavku-fleshmob-i-kontsert-posvyaschennye-19-letiyu-vuza-66248
+	set tags lgaki,lnr,vystavka,fleshmob,koncert,lugansk,priglashenie,19_let
+page
+	set url https://mir-lug.info/novosti-proektov/zhitelyam-luganska-peredali-71-yu-partiyu-shefskoj-pomoshhi-ot-lemz/
+	set tags mir_luganschine,volonter,pomosch,obschestvo,lnr,aktivist
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-poselke-krepenskij-proveli-akcziyu-posadi-svoe-derevo/
+	set tags lnr,mir_luganschine,derevo,akcia,aktivist,volonter,priroda,posadka
+page
+	set url https://lgaki.info/novosti/akademii-matusovskogo-19-let-priglashaem-otmetit-eto-vmeste/
+	set tags lgaki,19_let,lnr,prazdnovanie,lugansk,obrazovanie,muzyka
+page
+	set url https://lgaki.info/novosti/vse-gran-pri-festivalya-imeni-ziloti-vzyali-muzykanty-iz-rf/
+	set tags rossia,lgaki,lnr,festival,konkurs,muzyka,ziloti_aleksandr.pianist,lugansk,muzykant
+page
+	set url https://blogs.pravda.com.ua/authors/muzhdabaev/6069f442b13cf/
+	set tags atatjurk_kemal,ukraina,neobhodimost',derzhava,nacia,future,obschestvo,vlada
+page
+	set url https://censor.net/ru/news/3257566/gimn_ukrainy_zvuchal_na_che_po_tyajeloyi_atletike_v_moskve_harkovchanka_konotop_stala_absolyutnoyi_chempionkoyi
+	set tags ukraina,rossia,chempionat,pobeda,atletika.tjazhelaja,konoton_kamila.ukr.atlet,sport
+page
+	set url https://censor.net/ru/blogs/3257494/scho_ukran_robiti_z_peremogoyu
+	set tags ukraina,peremoga,rossia,future,obschestvo,nacia,derzhava,ideologia,strana,stradanie
+page
+	set url https://censor.net/ru/news/3257565/rossiya_ne_monopolist_yazyka_nam_davno_pora_gromko_zayavit_chto_v_ukraine_est_ukrainskiyi_russkiyi_mendel
+	set tags jazyk,mova,mendel_julia,ukraina,rossia,monopolia
+page
+	set url https://day.kyiv.ua/uk/news/040421-ukrayinka-zdobula-zoloto-chempionatu-yevropy-z-vazhkoyi-atletyky
+	set tags rossia,ukraina,moskva,chempionat,atletika.tjazhelaja,pobeda,konoton_kamila.ukr.atlet
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/vikno-z-vydom-na-funikuler
+	set tags funikuler,kiev,okno,ukraina,zhizn,obschestvo
+page
+	set url https://science.fakty.ua/372561-poltavskaya-shkolnica-sozdala-mobilnoe-prilozhenie-s-kartoj-rastenij-allergenov
+	set tags ukraina,nauka,it,molodezh,poltava,rastenia,google,prilozhenie,geolokacia
+page
+	set url https://www.vesti.ru/article/2537535
+	set tags kikina_anna.rossia.kosmonavt,rossia,kosmos,kosmonavt,roskosmos,barbi_kukla
+page
+	set url https://www.vesti.ru/article/2546190
+	set tags rossia,ukraina,kiselev_dmitrij.rossia.tv,vojna,donbass,usa,arestovich_aleksei
 eof
 off
 page

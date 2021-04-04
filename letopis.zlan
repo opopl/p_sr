@@ -17508,6 +17508,9 @@ page
 page
 	set url https://www.pravda.com.ua/rus/articles/2020/12/5/7275797/
 	set tags zelenskii_vladimir,pustota,obschestvo,ukraina,politika
+page
+	set url https://proza.ru/2018/04/18/1561
+	set tags rossia,krym,ukraina
 eof
 off
 page

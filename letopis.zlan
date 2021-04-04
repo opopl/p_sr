@@ -17436,6 +17436,51 @@ page
 page
 	set url https://news.obozrevatel.com/abroad/pust-prekratyatsya-stradaniya-donbassa-papa-rimskij-vspomnil-ukrainu-v-pashalnom-poslanii-video.htm
 	set tags papa_rimskij,ukraina,donbass,poslanie,italia,vatikan,velykden'
+page
+	set url https://news.obozrevatel.com/politics/bajden-otrezvil-goryachie-golovyi-v-rossijskom-rukovodstve.htm
+	set tags biden_joe,zelenskii_vladimir,ukraina,rossia,usa,zvonok
+page
+	set url https://fraza.com/news/299335-predstojatel-upts-rasskazal-o-chudesah-svidetelem-kotoryh-on-byl
+	set tags velikij_post,onufrii_mitropolit,chudo,upc,cerkov,ukraina,vera,afon
+page
+	set url https://gazeta.ua/articles/necrology/_pomer-aviakonstruktor-scho-zbuduvav-najbilshij-v-sviti-vantazhnij-litak/1023523
+	set tags 4_apr,1984,kb_antonov,antonov_oleg.aviakonstruktor.sssr,sssr,istoria,avia,samolet
+page
+	set url https://gazeta.ua/blog/54852/kiyiv-ne-zasvoyiv-urok-zahid-dobryache-vtomivsya-vid-svyata-neposluhu
+	set tags kiev,ukraina,poslushanie,zapad,prazdnik
+page
+	set url http://lug-info.com/news/one/nedelya-glazami-eksperta-aksakal-i-skomorokhi-opleukha-zelfie-i-general-rasskazchik-66237
+	set tags nm_lnr,lnr,ekspert,ogon',obse,tkg,arestovich_aleksei,homchak,verhovna_rada,vojna,donbass,ukraina,rossia,aksakal,kravchuk_leonid
+page
+	set url https://tabloid.pravda.com.ua/focus/606815d43697c/
+	set tags viza,usa,razreshenie,us_embassy,ukraina,devushka,konkurs
+page
+	set url https://life.pravda.com.ua/society/2021/04/4/244448/
+	set tags foto,kraj,zemlja,kraj_zemli,kultura,isskustvo
+page
+	set url https://www.pravda.com.ua/articles/2020/01/31/7238933/
+	set tags ukraina,kiev,obschestvo,musor,svalka,zhizn
+page
+	set url https://sharij.net/aktrisu-seriala-shkola-vnesli-na-mirotvorecz-ya-ne-obyazana-lyubit-ukrainu
+	set tags vasilenko_liza.blogger,mirotvorec_sajt,ukraina,ljubov,patriot,rossia,dnepropetrovsk
+page
+	set url https://sharij.net/ukraina-stala-shhitom-evropy-homchak
+	set tags ukraina,nato,homchak,evropa,rossia,vojna,donbass,krym
+page
+	set url https://sharij.net/kravchuk-postavil-l-dnr-ultimatum-dlya-peregovorov-v-tkg
+	set tags ukraina,kravchuk_leonid,pirogova_maja,tkg,peregovory,donbass,vojna,rossia
+page
+	set url https://ukraina.ru/exclusive/20210404/1031035168.html
+	set tags rossia,ukraina,donbass,vojna,usa,geopolitika,planeta
+page
+	set url https://ukraina.ru/exclusive/20210404/1031018087.html
+	set tags ukraina,haos,saturn,neptun,skazka,mif,mentalitet,nacia,astrologia
+page
+	set url https://analytics.hvylya.net/228200-zamysel-ukrainskogo-gosudarstva-socialnost-samodostatochnost-nezavisimost
+	set tags derzhava,ukraina,istoria,nezalezhnist,future,obschestvo,nacia
+page
+	set url https://analytics.hvylya.net/228210-pochemu-u-oae-poluchilos-uroki-ekonomicheskogo-chuda-dlya-ukrainy
+	set tags oae,ukraina,ekonomika,world,derzhava,obschestvo
 eof
 off
 page

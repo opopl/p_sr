@@ -17604,6 +17604,9 @@ page
 page
 	set url https://www.vesti.ru/article/2546190
 	set tags rossia,ukraina,kiselev_dmitrij.rossia.tv,vojna,donbass,usa,arestovich_aleksei
+page
+	set url https://strana.ua/news/279217-kak-poroshenko-russkij-jazyk-zashchishchal.html
+	set tags poroshenko_petr,ukrainizacia,jazyk,mova,ukraina,shkola,obrazovanie
 eof
 off
 page

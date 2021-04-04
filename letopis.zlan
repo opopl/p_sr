@@ -15472,12 +15472,6 @@ page
 	set url https://fraza.com/news/299144-v-rossii-reshili-prisvoit-tarasa-shevchenko-sebe
 	set tags ukraina,rossia,shevchenko_taras,literatura,kultura,nasledie,poezia,srach
 page
-	set url http://ukrcentr.ru/novini/shevchenkivskij-vechir/#more-16505
-	set tags rossia,ukraina,moskva,shevchenko_taras,ukrcentr.moskva
-page
-	set url http://ukrcentr.ru/novini/xix-vserosijskij-konkurs-na-krashhe-chitannya-poetichnix-tvoriv-tarasa-shevchenka-sered-ditej-ta-molodi/
-	set tags ukrcentr.moskva,ukraina,rossia,istoria,kultura,literatura,poezia,konkurs
-page
 	set url https://lenta.ru/articles/2021/03/29/shariy/
 	set tags sharij_analotij,zelenskii_vladimir,poroshenko_petr,ukraina,rossia,druzhba,narod,dno,zlo,interview,sbu,repressii,cenzura,infvojna,propaganda,zapret
 page
@@ -17140,12 +17134,6 @@ page
 	set url https://lenta.ru/news/2021/04/02/podgotovka/
 	set tags rossia,ukraina,nato,kiev,krym,vojna
 page
-	set url http://ukrcentr.ru/novini/do-dnya-narodzhennya-mikoli-gogolya/#more-16858
-	set tags gogol_nikolai,moskva,pamjat,pamjatnik,ukrcentr.moskva,cvety
-page
-	set url http://ukrcentr.ru/afisha-2/
-	set tags ukraina,rossia,afisha,kultura
-page
 	set url https://strana.ua/news/326165-neizvestnyj-protaranil-ohradu-kapitolija-v-ssha-est-ranenye.html
 	set tags usa,biden_joe,kapitolij,policia,strelba,zelenskii_vladimir,ukraina
 page
@@ -17481,6 +17469,27 @@ page
 page
 	set url https://analytics.hvylya.net/228210-pochemu-u-oae-poluchilos-uroki-ekonomicheskogo-chuda-dlya-ukrainy
 	set tags oae,ukraina,ekonomika,world,derzhava,obschestvo
+page
+	set url https://news.obozrevatel.com/society/16479-ukraina-i-rossiya-dva-prorochestva.htm
+	set tags ukraina,rossia,prorochestvo,future
+page
+	set url https://inosmi.ru/politic/20170627/239679483.html
+	set tags ukraina,donbass,vojna,mir
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-budem-tihonechko-plestis-v-polnuyu-zh-kak-abhaziya.htm
+	set tags ukraina,rossia,krym
+page
+	set url http://ukrcentr.ru/novini/shevchenkivskij-vechir/#more-16505
+	set tags rossia,ukraina,moskva,shevchenko_taras,ukrcentr.moskva
+page
+	set url http://ukrcentr.ru/novini/xix-vserosijskij-konkurs-na-krashhe-chitannya-poetichnix-tvoriv-tarasa-shevchenka-sered-ditej-ta-molodi/
+	set tags ukrcentr.moskva,ukraina,rossia,istoria,kultura,literatura,poezia,konkurs
+page
+	set url http://ukrcentr.ru/novini/do-dnya-narodzhennya-mikoli-gogolya/#more-16858
+	set tags gogol_nikolai,moskva,pamjat,pamjatnik,ukrcentr.moskva,cvety
+page
+	set url http://ukrcentr.ru/afisha-2/
+	set tags ukraina,rossia,afisha,kultura
 eof
 off
 page

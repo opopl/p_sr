@@ -55,7 +55,7 @@ include:
 
 ###kultura_ru
     - kultura.ru.portal
-    #- kultura.ru.ukrcentr
+    - kultura.ru.ukrcentr
 
 ###sport_ru
     - sport.ru.championat

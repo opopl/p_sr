@@ -17406,6 +17406,36 @@ page
 page
 	set url https://strana.ua/news/326271-na-sajt-mirotvorets-vnesli-eshche-odnu-devushku-tiktok-blohera.html
 	set tags vasilenko_liza.blogger,mirotvorec_sajt,ukraina,rossia,tiktok
+page
+	set url https://strana.ua/news/326294-zapret-russkoho-mira-v-ukraine-o-chem-zakonoproekt-sluh-naroda-2021-hoda.html
+	set tags rusmir,rossia,ukraina,zakon,verhovna_rada,ideologia,vera,cerkov,pravoslavie,identichnost'
+page
+	set url https://strana.ua/news/326315-ukraina-nikohda-ne-budet-idti-vojnoj-na-donbass-kravchuk.html
+	set tags kravchuk_leonid,donbass,vojna,ukraina,dobro,ogon',zlo,tkg
+page
+	set url https://kharkov.strana.ua/326317-v-kharkove-ot-posledstvij-koronavirusa-umer-hlavvrach-bolnitsy-kotoryj-zarazilsja-osenju.html
+	set tags smert,vrach,covid,bolezn',harkov,bolnica,ukraina,menkus_boris.harkov.vrach
+page
+	set url https://strana.ua/news/326302-u-shevchenko-i-v-svobode-ne-sohlasny-s-pobedoj-virastjuka-na-dovyborakh.html
+	set tags ukraina,vybory,ivano_frankovsk,tjagnybok_oleg,sluga_naroda,vo_svoboda
+page
+	set url https://strana.ua/news/326247-aktrisa-nina-zotkina-obnaruzhena-mertvoj-v-svoej-kvartire.html
+	set tags moskva,smert,zotkina_nina.akter,kultura,sssr,film,rossia
+page
+	set url https://www.radiosvoboda.org/a/chyzhevsky-slavist-ukrajina-nimechchyna/31182570.html
+	set tags chyzhevskij_dmitrij.slavist.unr,ukraina,istoria,kultura,harvard
+page
+	set url https://strana.ua/news/326298-dva-podrostka-v-vinnitskoj-oblasti-povredili-vosem-pamjatnikov-foto.html
+	set tags vinnica,kladbische,mogila,pamjatnik,vandalizm,ukraina,deti
+page
+	set url https://www.pravda.com.ua/news/2021/04/4/7288931/
+	set tags ukraina,dnr,peregovory,pirogova_maja,obse,rossia,tkg,donbass,vojna
+page
+	set url https://news.obozrevatel.com/society/pyat-regionov-ukrainyi-priblizilis-k-kriticheskoj-cherte-gospitalizatsij-iz-za-covid-19.htm
+	set tags ukraina,zabolevajemost',covid,bolezn,statistika,bolnica
+page
+	set url https://news.obozrevatel.com/abroad/pust-prekratyatsya-stradaniya-donbassa-papa-rimskij-vspomnil-ukrainu-v-pashalnom-poslanii-video.htm
+	set tags papa_rimskij,ukraina,donbass,poslanie,italia,vatikan,velykden'
 eof
 off
 page

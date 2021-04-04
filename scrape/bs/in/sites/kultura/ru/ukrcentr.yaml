@@ -2,6 +2,7 @@
 sel:
   clean:
   only:
+    - '#middle'
   keep:
 
 fetch:

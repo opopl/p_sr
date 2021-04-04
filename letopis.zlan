@@ -17490,6 +17490,24 @@ page
 page
 	set url http://ukrcentr.ru/afisha-2/
 	set tags ukraina,rossia,afisha,kultura
+page
+	set url http://ukrcentr.ru/vserosijskij-konkurs-ukra%D1%97nsko%D1%97-pisni-zoloti-promeni/
+	set tags ukrcentr.moskva,pesnja,konkurs,ukraina,rossia,moskva,kultura
+page
+	set url http://ukrcentr.ru/shevchenkivska-moza%d1%97ka/vserosijskij-konkurs-na-krashhe-chitannya-poetichnix-tvoriv-tarasa-shevchenka/
+	set tags moskva,ukraina,rossia,ukrcentr.moskva,konkurs,shevchenko_taras,poezia
+page
+	set url https://plus.obozrevatel.com/crime/propagandistka-iz-belarusi-popala-v-mirotvorets-posle-fejka-o-golodayuschih-ukraintsah.htm
+	set tags fejk,belarus,nischeta,ukraina,mirotvorec_sajt,obschestvo
+page
+	set url https://www.radiosvoboda.org/a/news-pomerla-hudozhnycja-viktorija-kovalchuk/31186264.html
+	set tags kovalchuk_viktoria.hudozhnik,kovel'.gorod,lvov,ukraina,smert,hudozhnik,isskustvo,covid,bolezn
+page
+	set url https://www.pravda.com.ua/articles/2021/04/4/7288843/
+	set tags zelenskii_vladimir,ukraina,bankova,prezident,chelovek,politika,vybory,kiev
+page
+	set url https://www.pravda.com.ua/rus/articles/2020/12/5/7275797/
+	set tags zelenskii_vladimir,pustota,obschestvo,ukraina,politika
 eof
 off
 page

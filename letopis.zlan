@@ -17727,6 +17727,45 @@ page
 page
 	set url https://strana.ua/news/301899-na-volyni-zastrelilsja-muzh-spikera-oblpolitsii-on-byl-fihurantom-dela-o-smertelnom-dtp-.html
 	set tags ukraina,volyn,dtp,suicid,policia,avaria,avto
+page
+	set url https://zen.yandex.ru/media/rcrbible/glavnaia-vest-biblii-606713019f06e153050e3be1
+	set tags biblia,evangelie,hristos,vera,cerkov
+page
+	set url https://strana.ua/news/326486-astrazeneca-v-kakikh-stranakh-zapretili-pochemu-vyzyvaet-tromboz-effektivnost-novye-dannye.html
+	set tags vaxzevria,astrazeneka,otkaz,ukraina,ignorirovanie,vaccine,covid,pobochka,world,tromboembolia,tromboz,germania,zapret,usa,nederland,evropa,doverie
+page
+	set url https://strana.ua/news/326504-kremin-schitaet-chto-zajavlenie-mendel-ob-ukrainskom-russkom-ne-sootvetstvuet-konstitutsii.html
+	set tags jazyk,mova,ukraina,kremin_taras,rossia,kodifikacia,ukrainizacia,rossotrudnichestvo,rusmir
+page
+	set url https://strana.ua/news/319343-taras-kremin-rasskazal-o-tseljakh-zakona-ob-ukrainskom-jazyke.html
+	set tags kremin_taras,rossia,ukraina,mova,jazyk,ukrainizacia,zakon
+page
+	set url https://strana.ua/news/326500-nardep-obratilsja-v-sbu-iz-za-kontserta-na-na-v-kieve.html
+	set tags ukraina,rossia,nana.gruppa,muzyka,krym,sbu,kultura,goncharenko_alexei,poroshenko_petr,koncert,zapret,zapros
+page
+	set url https://strana.ua/opinions/326510-v-ukraine-uzhe-nevozmozhna-dazhe-imitatsija-karantina.html
+	set tags ukraina,lockdown,karantin,kiev,covid,bolezn,obschestvo
+page
+	set url https://strana.ua/news/326520-rossija-ukrepljaet-voennye-sily-v-krymu-pskovskimi-desantnikami.html
+	set tags rossia,tiktok,vojna,donbass,pskov,krym,armia
+page
+	set url https://strana.ua/news/326436-protiv-denonsatsii-kharkovskikh-sohlashenij-vystupil-mid-ukrainy.html
+	set tags ukraina,mzs,harkovskie_soglashenia,2010,rossia
+page
+	set url http://lug-info.com/news/one/otkrytie-vystavki-khudozhestvennykh-rabot-k-19-letiyu-lgaki-sostoyalos-v-vuze-foto-66278
+	set tags lnr,lgaki,vystavka,kultura,isskustvo,muzyka,19_let,lugansk
+page
+	set url https://strana.ua/news/326494-ukrainki-razdelis-v-dubae-foto-podrobnosti-intsidenta.html
+	set tags oae,ukraina,eskort,seks,pornografia,arest,moral,rossia,belarus,skandal
+page
+	set url https://strana.ua/news/326511-vladik-shikhov-pokhorony-na-donbasse-poproshchalis-s-5-letnim-rebenkom-.html
+	set tags dnr,rebenok,pohoron,shihov_vladislav.rebenok.donbass,ukraina,vojna,donbass,smert,rossia,sledkom.rossia
+page
+	set url https://strana.ua/news/326345-vybory-na-87-okruhe-kak-pobedil-virastjuk-i-chto-o-nem-dumajut-mestnye.html
+	set tags ukraina,sluga_naroda,virastjuk_vasilij,vybory,obman,falsifikacia
+page
+	set url https://kiev.strana.ua/326525-v-kieve-rossijane-izbili-parnja-raspivavsheho-alkohol-s-devushkoj-na-ulitse.html
+	set tags ukraina,kiev,draka
 eof
 off
 page

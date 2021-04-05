@@ -17610,6 +17610,9 @@ page
 page
 	set url https://strana.ua/news/279626-v-kieve-ustanovili-pamjatnik-v-chest-ubitoho-zhurnalista-pavla-sheremeta.html
 	set tags ukraina,kiev,sheremet_pavel,pamjatnik,pamjat,murder,zhurnalist
+page
+	set url https://www.infobomb24.info/my-prosto-ne-vstyhnemo-ia-tilky-shcho-povernyvsia-z-donbasy-i-khochu-vsim-iaknaishvydshe-providomyty-shcho-tam/
+	set tags ukraina,vojna,donbass,rossia
 eof
 off
 page

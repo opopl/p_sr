@@ -17613,6 +17613,12 @@ page
 page
 	set url https://www.infobomb24.info/my-prosto-ne-vstyhnemo-ia-tilky-shcho-povernyvsia-z-donbasy-i-khochu-vsim-iaknaishvydshe-providomyty-shcho-tam/
 	set tags ukraina,vojna,donbass,rossia
+page
+	set url https://bigkyiv.com.ua/aktorku-lizu-vasylenko-vnesly-do-bazy-myrotvorecz/
+	set tags vasilenko_liza.blogger,moskva,kiev,ukraina,rossia,mirotvorec_sajt,obschestvo
+page
+	set url https://bigkyiv.com.ua/vesnyanyj-kyyiv-1983-roku-navit-vodu-z-fontaniv-pyly-arhivne-video/
+	set tags kiev,ukraina,foto,sssr,istoria,1983,voda,fontan
 eof
 off
 page

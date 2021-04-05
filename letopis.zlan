@@ -17721,6 +17721,12 @@ page
 page
 	set url https://news.obozrevatel.com/society/idiotyi-smertelno-opasnyi-i-v-kachestve-izbiratelej-i-v-kachestve-politikov.htm
 	set tags ukraina,idiot,naselenie,populjacia,covid,zabolevajemost',bolezn
+page
+	set url https://plus.obozrevatel.com/crime/rossijskij-fejk-v-detalyah-ob-ubijstve-rebenka-na-donbasse-dronom-vsu.htm
+	set tags aleksandrovskoje.donbass,fejk,rebenok,ukraina,rossia,vojna,donbass,nm_dnr,dnr,murder
+page
+	set url https://strana.ua/news/301899-na-volyni-zastrelilsja-muzh-spikera-oblpolitsii-on-byl-fihurantom-dela-o-smertelnom-dtp-.html
+	set tags ukraina,volyn,dtp,suicid,policia,avaria,avto
 eof
 off
 page

@@ -17799,6 +17799,24 @@ page
 page
 	set url https://news.obozrevatel.com/politics/rossiya-mogla-byi-razgromit-ukrainskuyu-armiyu-i-dojti-hot-do-kieva-no-komu-eto-nuzhno.htm
 	set tags rossia,ukraina,vojna,napadenie,vopros,donbass
+page
+	set url https://zaxid.net/signal_nepohitnoyi_pidtrimki_n1516898
+	set tags ukraina,zapad,rossia,vojna,donbass,usa,podderzhka,signal
+page
+	set url http://lug-info.com/news/one/gorsvet-planiruet-k-maiskim-prazdnikam-ustanovit-v-luganske-400-novykh-installyatsii-66282
+	set tags lnr,lugansk,prazdnovanie,svet
+page
+	set url https://day.kyiv.ua/uk/article/cuspilstvo/dyakuyuchy-za-zhyttya
+	set tags ukraina,medik,smert,sajt,covid,bolezn
+page
+	set url https://vz.ru/opinions/2021/4/5/1092968.html
+	set tags rossia,kino,rusmir,ljubov,film,kultura
+page
+	set url https://vz.ru/opinions/2018/12/14/955408.html
+	set tags rossia,evropa,tradicii,glaza,kultura,nacia
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/charivnyy-dzvonyk
+	set tags ukraina,donbass,rossia,vojna,zvonok
 eof
 off
 page

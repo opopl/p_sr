@@ -17781,6 +17781,9 @@ page
 page
 	set url https://strana.ua/news/326536-vezd-v-ukrainu-dlja-rossijan-2021-zakryli-pravila-peresechenija-hranitsy-koho-ne-pustjat.html
 	set tags rossia,ukraina,vojna,donbass,granica,pogranichnik
+page
+	set url https://www.radiosvoboda.org/a/death-child-donbass/31188059.html
+	set tags ukraina,rossia,shihov_vladislav.rebenok.donbass,smert,bpla,vojna,donbass
 eof
 off
 page

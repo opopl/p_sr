@@ -17766,6 +17766,21 @@ page
 page
 	set url https://kiev.strana.ua/326525-v-kieve-rossijane-izbili-parnja-raspivavsheho-alkohol-s-devushkoj-na-ulitse.html
 	set tags ukraina,kiev,draka
+page
+	set url https://strana.ua/news/326534-politsija-vozbudila-delo-posle-posta-butusova-o-napadenii-na-neho-muraeva-s-okhrannikami.html
+	set tags policia,muraev_evgenii,butusov_jurij,ukraina,zakon,mova,jazyk,skandal,draka
+page
+	set url https://strana.ua/news/326550-smert-rebenka-na-donbasse-otets-vladika-shikhova-rasskazal-podrobnosti.html
+	set tags telefon,stenogramma,rebenok,otec,shihov_vladislav.rebenok.donbass,donbass,rossia,ukraina,aleksandrovskoje.donbass,smert
+page
+	set url https://strana.ua/news/326544-uchastnikom-izbienija-v-kieve-raspivavsheho-alkohol-okazalsja-neonatsist-iz-bandy-tesaka.html
+	set tags ukraina,kiev,draka,tesak.neonacist.rossia,alkogol
+page
+	set url https://strana.ua/news/323826-eks-nardep-bondarenko-napisala-zajavlenie-na-aktivistov-natskorpusa.html
+	set tags nackorpus,bondarenko_elena,ukraina,zajavlenie,policia
+page
+	set url https://strana.ua/news/326536-vezd-v-ukrainu-dlja-rossijan-2021-zakryli-pravila-peresechenija-hranitsy-koho-ne-pustjat.html
+	set tags rossia,ukraina,vojna,donbass,granica,pogranichnik
 eof
 off
 page

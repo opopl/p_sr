@@ -17637,6 +17637,90 @@ page
 page
 	set url https://strana.ua/news/326466-sledkom-rf-vozbudil-uholovnoe-delo-iz-za-hibeli-pjatiletneho-rebenka-pod-donetskom.html
 	set tags shihov_vladislav.rebenok.donbass,sledkom.rossia,ukraina,donbass,vojna,rebenok,smert,rassledovanie
+page
+	set url https://kiev.strana.ua/326489-zastrjavshij-v-kievskikh-probkakh-voditel-ihral-na-hitare-za-rulem-avto.html
+	set tags kiev,ukraina,lockdown,gitara,muzyka,probka,most_juzhnyj.kiev,voditel,avto
+page
+	set url https://strana.ua/news/326437-soldat-srochnik-zastrelilsja-na-volyni.html
+	set tags suicid,ukraina,volyn,vsu,armia
+page
+	set url https://strana.ua/news/320617-na-zaporozhskoj-aes-zastrelilas-voennosluzhashchaja-natshvardii.html
+	set tags aes.zaporozhie,aes,zaporozhie,ukraina,suicid,nacgvardia,smert
+page
+	set url https://strana.ua/opinions/326441-my-dejstvitelno-blizki-k-novoj-vojne-poverte-eto-ochen-serezno.html
+	set tags vojna,donbass,ukraina,rossia
+page
+	set url https://strana.ua/opinions/326409-realnuju-stranu-dostala-vlast-ee-politika-i-ee-proval-borby-s-pandemiej.html
+	set tags ukraina,rossia,muzyka,strana,popsa
+page
+	set url https://strana.ua/opinions/326404-eto-chto-zh-poluchaetsja-kvartal-95-transliruet-kremlevskie-narrativy.html
+	set tags ukraina,kvartal95,mova,jazyk,kreml,kino,odessa
+page
+	set url http://lug-info.com/news/one/sportsmeny-lnr-zavoevali-11-medalei-na-turnire-po-dzhiu-dzhitsu-v-krasnodarskom-krae-foto-66266
+	set tags lnr,lugansk,sport,krasnodar,rossia,dziu_dzhitsu,nagrada
+page
+	set url https://strana.ua/news/287428-v-zhitomirskom-voennom-vuze-v-pervyj-den-ucheby-zastrelilsja-pervokursnik.html
+	set tags suicid,zhitomir,ukraina,kriminal,armia,smert,kursant
+page
+	set url https://strana.ua/news/286178-pjanyj-major-za-rulem-avto-ostavil-bez-noh-dvukh-kursantok-kievskoho-voennoho-kolledzha.html
+	set tags ukraina,kiev,kriminal,avto,dtp,avaria,devushka,bolnica,nogi,amputacia,major,pjanstvo
+page
+	set url http://lug-info.com/news/one/ofitser-vsu-poteryal-sekretnye-dokumenty-po-puti-v-shtab-brigady-narodnaya-militsiya-66273
+	set tags nm_lnr,lnr,sbu,poterja,dokument,vsu,oos,ukraina,vojna,donbass
+page
+	set url http://lug-info.com/news/one/lnr-zavershila-vaktsinatsiyu-voennosluzhaschikh-narodnoi-militsii-respubliki-pasechnik-66264
+	set tags lnr,vaccinacia,pasechnik_leonid,covid,sputnik_v,vaccine,rossia
+page
+	set url https://mir-lug.info/novosti-terotdelenij/aktivisty-sela-stepovoe-prinyali-uchastie-v-subbotnike/
+	set tags lnr,mir_luganschine,stepovoje.lnr,subbotnik,obschestvo,zhizn,aktivist,musor,priroda
+page
+	set url https://ukraina.ru/opinion/20210405/1031038008.html
+	set tags ukraina,bezzakonie,zakon,zelenskii_vladimir,suicid,obschestvo,nacia,politika
+page
+	set url https://ukraina.ru/exclusive/20210405/1031029140.html
+	set tags ukraina,rossia,covid,vaccine,belarus,vaccinacia,sputnik_v,karantin,lockdown,kiev
+page
+	set url https://ukraina.ru/interview/20210405/1031038477.html
+	set tags ukraina,emigracia,kniga,vojna,protest,strana,strana_404.kniga
+page
+	set url https://ukraina.ru/exclusive/20200427/1027536563.html
+	set tags ukraina,kniga,donbass,obschestvo
+page
+	set url https://ukraina.ru/exclusive/20210405/1031036521.html
+	set tags ukraina,donbass,vojna
+page
+	set url https://lenta.ru/articles/2021/04/05/stalin_constitution_1936/
+	set tags kommunizm,stalinizm,stalin_jozef,konstitucia,sssr,istoria
+page
+	set url https://lenta.ru/news/2021/04/05/child_obstrel/
+	set tags dnr,donbass,vojna,rebenok,rossia,ukraina,bpla,smert,rassledovanie,aleksandrovskoje.donbass
+page
+	set url https://gazeta.ua/articles/reportage/_bezsovisni-obrazhayete-lyudej-kiyani-shturmuvali-metro-i-layali-policejskih/1024267
+	set tags policia,karantin,kiev,ukraina,lockdown,metro
+page
+	set url https://gazeta.ua/blog/54864/ukrayinci-potraplyayut-u-pastku-russkogo-mira
+	set tags ukraina,rossia,deti,english,rusmir,jazyk,mova,ukrainizacia
+page
+	set url https://day.kyiv.ua/uk/news/050421-usi-vakcyny-astrazeneca-proty-covid-19-ye-vzayemozaminnymy-nezalezhno-vid-krayiny
+	set tags vaccine,covid,astrazeneka,ukraina
+page
+	set url https://day.kyiv.ua/uk/news/050421-v-ukrayini-nemaye-dyskryminaciyi-gromadyan-yaki-spilkuyutsya-inshymy-movamy-kremin
+	set tags jazyk,mova,kremin_taras,ukraina,ukrainizacia,diskriminacia
+page
+	set url https://from-ua.com/articles/594267-ukraina-riskuet-ostatsya-odinokoi-v-novom-globalnom-rasklade.html
+	set tags ukraina,future,geopolitika,obschestvo,derzhava
+page
+	set url https://www.radiosvoboda.org/a/dpr-lpr-ukraine-russia-war-donetsk-nastup/31187592.html
+	set tags ukraina,donbass,vojna,rossia
+page
+	set url https://news.obozrevatel.com/politics/pochemu-primenenie-nazvaniya-donbass-ne-yavlyaetsya-korrektnyim.htm
+	set tags danilov_aleksei,ukraina,rossia,donbass,slovo,malorossia,moskovia,obschestvo
+page
+	set url https://fraza.com/analytics/299341-kak-prezedent-prevraschaet-konstitutsiju-v-tualetnuju-bumagu-
+	set tags ukraina,zelenskii_vladimir,konstitucia,zakon,ksu,bumaga,tualet
+page
+	set url https://news.obozrevatel.com/society/idiotyi-smertelno-opasnyi-i-v-kachestve-izbiratelej-i-v-kachestve-politikov.htm
+	set tags ukraina,idiot,naselenie,populjacia,covid,zabolevajemost',bolezn
 eof
 off
 page

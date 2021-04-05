@@ -17619,6 +17619,9 @@ page
 page
 	set url https://bigkyiv.com.ua/vesnyanyj-kyyiv-1983-roku-navit-vodu-z-fontaniv-pyly-arhivne-video/
 	set tags kiev,ukraina,foto,sssr,istoria,1983,voda,fontan
+page
+	set url http://shogi.by/lib/chess/7/
+	set tags chess,sjogi,japonia,igra
 eof
 off
 page

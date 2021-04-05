@@ -17796,6 +17796,9 @@ page
 page
 	set url https://news.obozrevatel.com/politics/pochemu-putin-ne-napadet.htm
 	set tags putin_vladimir,ukraina,rossia,napadenie,vopros,isteria,vnimanie,obschestvo,vaccinacia
+page
+	set url https://news.obozrevatel.com/politics/rossiya-mogla-byi-razgromit-ukrainskuyu-armiyu-i-dojti-hot-do-kieva-no-komu-eto-nuzhno.htm
+	set tags rossia,ukraina,vojna,napadenie,vopros,donbass
 eof
 off
 page

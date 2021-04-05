@@ -17784,6 +17784,18 @@ page
 page
 	set url https://www.radiosvoboda.org/a/death-child-donbass/31188059.html
 	set tags ukraina,rossia,shihov_vladislav.rebenok.donbass,smert,bpla,vojna,donbass
+page
+	set url https://strana.ua/opinions/326561-karantinnyj-apokalipsis-katarskij-vojazh-moldavskij-kidneppinh.html
+	set tags ukraina,karantin,lockdown,nato,vojna,donbass,itogi
+page
+	set url https://life.pravda.com.ua/society/2021/04/5/244440/
+	set tags ukraina,obschestvo,poteri,zhizn,smert,psihologia,chelovek
+page
+	set url https://ukraina.ru/opinion/20210405/1031045342.html
+	set tags mandela_nelson,dekomunizacia,ukraina,vandalizm,mural,stena,dom,kiev
+page
+	set url https://news.obozrevatel.com/politics/pochemu-putin-ne-napadet.htm
+	set tags putin_vladimir,ukraina,rossia,napadenie,vopros,isteria,vnimanie,obschestvo,vaccinacia
 eof
 off
 page

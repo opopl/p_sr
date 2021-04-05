@@ -17622,6 +17622,21 @@ page
 page
 	set url http://shogi.by/lib/chess/7/
 	set tags chess,sjogi,japonia,igra
+page
+	set url https://strana.ua/articles/special/326443-na-donbass-perebrasyvajut-voennuju-tekhniku-.html
+	set tags ukraina,doneck,donbass,vojna,podgotovka
+page
+	set url https://strana.ua/news/326473-peskov-zajavil-o-sozhalenii-po-povodu-razryva-ukrainy-i-rossii.html
+	set tags rossia,ukraina,ukrcentr.moskva,rossotrudnichestvo,rnbo,sankcii,vzaimnost',peskov_dmitrii
+page
+	set url https://strana.ua/news/326418-foto-pohibsheho-rebenka-na-donbasse-pojavilis-podrobnosti-ob-umershem.html
+	set tags ukraina,donbass,vojna,smert,rebenok,murder,aleksandrovskoje.donbass,shihov_vladislav.rebenok.donbass
+page
+	set url https://strana.ua/news/326434-oleh-sentsov-i-julija-babich-chto-izvestno-o-zhenshchinakh-rezhissera.html
+	set tags sencov_oleg,otec,semja,deti,ukraina,skandal
+page
+	set url https://strana.ua/news/326466-sledkom-rf-vozbudil-uholovnoe-delo-iz-za-hibeli-pjatiletneho-rebenka-pod-donetskom.html
+	set tags shihov_vladislav.rebenok.donbass,sledkom.rossia,ukraina,donbass,vojna,rebenok,smert,rassledovanie
 eof
 off
 page

@@ -17817,6 +17817,9 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/polityka/charivnyy-dzvonyk
 	set tags ukraina,donbass,rossia,vojna,zvonok
+page
+	set url https://www.riakursk.ru/kak-provedut-v-kurske-god-nauki-i-tekhnologiy/
+	set tags rossia,nauka,kursk
 eof
 off
 page

@@ -17931,6 +17931,12 @@ page
 page
 	set url http://lug-info.com/news/one/luganchane-vzyali-zdanie-sbu-kogda-ponyali-chto-mira-s-maidanovtsami-uzhe-ne-budet-deputat-66301
 	set tags lnr,7_let,maidan2,lugansk,sbu,godovschina,6_apr,2014,vojna,donbass
+page
+	set url http://lug-info.com/news/one/pribyvshaya-v-lnr-delegatsiya-yuzhnoi-osetii-pochtila-pamyat-zaschitnikov-luganschiny-foto-66292
+	set tags lnr,7_let,godovschina,6_apr,2014,lugansk,osetia.juzhnaja,rossia,rodina
+page
+	set url http://lug-info.com/news/one/vzyatiem-pod-kontrol-zdaniya-sbu-narod-vzyal-otvetstvennost-za-svoe-buduschee-pasechnik-66291
+	set tags lnr,lugansk,rodina,donbass,vojna,6_apr,2014,sbu,maidan2
 eof
 off
 page

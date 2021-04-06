@@ -17844,11 +17844,6 @@ page
 page
 	set url https://strana.ua/news/326608-poezd-kiev-novoalekseevka-zaderzhivaetsja-iz-za-perestrelki-voennykh-v-vahone.html
 	set tags ukraina,poezd,ukrzaliznycia,armia,vsu,strelba,oruzhie,kiev
-	set redo 1
-	setlist acts
-		fetch
-		get_img
-		db_update
 page
 	set url https://strana.ua/news/253408-v-kieve-na-stantsii-metro-vokzalnaja-v-vahone-poezda-vzorvali-petardu.html
 	set tags kiev,ukraina,petarda,metro,vzryv,vokzalnaja.metro.kiev
@@ -17918,6 +17913,9 @@ page
 page
 	set url https://strana.ua/news/322109-oask-otkryl-proizvodstvo-po-isku-minjusta-o-zaprete-partii-sharija.html
 	set tags ukraina,politika,partija_sharija,zapret,sud,minjust,sharij_analotij
+page
+	set url https://gazeta.ua/blog/54869/imperiya-dlya-ukrayinciv-valiza-bez-ruchki-zittyevo-neobhidna-svoya-derzhava
+	set tags ukraina,rusmir,rossia,imperia,derzhava,kolonia,bezborodko_graf,malorossia,hruschov_nikita,gorbachev_mihail,istoria
 eof
 off
 page

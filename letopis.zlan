@@ -17916,6 +17916,18 @@ page
 page
 	set url https://gazeta.ua/blog/54869/imperiya-dlya-ukrayinciv-valiza-bez-ruchki-zittyevo-neobhidna-svoya-derzhava
 	set tags ukraina,rusmir,rossia,imperia,derzhava,kolonia,bezborodko_graf,malorossia,hruschov_nikita,gorbachev_mihail,istoria
+page
+	set url http://lug-info.com/news/one/narod-luganschiny-v-den-vzyatiya-zdaniya-sbu-vosstal-protiv-kievskoi-khunty-mer-luganska-66298
+	set tags lnr,lugansk,sbu,vosstanie,rusvesna
+page
+	set url http://lug-info.com/news/one/miting-posvyaschennyi-sedmoi-godovschine-vzyatiya-zdaniya-upravleniya-sbu-proshel-v-luganske-foto-66295
+	set tags lnr,lugansk,2014,vojna,donbass,sbu,vosstanie
+page
+	set url http://lug-info.com/news/one/boksery-lnr-zavoevali-sem-medalei-na-yunosheskom-turnire-v-smolenskoi-oblasti-foto-66299
+	set tags boks,lnr,sport,pobeda,rossia,smolensk,sorevnovanie
+page
+	set url http://lug-info.com/news/one/vzyatie-zdaniya-sbu-polozhilo-nachalo-stanovleniyu-lnr-predsedatel-soveta-atamanov-kirovska-66300
+	set tags 6_apr,2014,lugansk,lnr,ataman,kirovsk.lnr,vojna,vosstanie,donbass
 eof
 off
 page

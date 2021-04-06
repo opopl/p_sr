@@ -17940,6 +17940,18 @@ page
 page
 	set url http://lug-info.com/news/one/luganskaya-afisha-66276
 	set tags lnr,lugansk,kino,afisha,kultura
+page
+	set url https://www.radiosvoboda.org/a/starodubshchyna-rymsky-korsakov-i-nemyrovych-dancheko/31185414.html
+	set tags rimskij_korsakov_nikolaj,ukraina,kompozitor,kultura,rossia
+page
+	set url https://mir-lug.info/novosti-proektov/v-luganske-otmetili-sedmuyu-godovshhinu-vzyatiya-pod-kontrol-zdaniya-upravleniya-sbu/
+	set tags mir_luganschine,lugansk,lnr,maidan2,6_apr,2014,7_let,godovschina,donbass,vojna
+page
+	set url https://lgaki.info/novosti/artem-reshetov-h-konkurs-imeni-dinastii-voevodinyh-zapomnyatsya-vysochajshim-urovnem-podgotovki-uchastnikov/
+	set tags lnr,lgaki,konkurs,muzyka
+page
+	set url https://news-front.info/2021/04/06/fantomnye-boli-ukrainy-po-krymu-andrej-babiczkij/
+	set tags kiev,ukraina,krym,rossia,fraza
 eof
 off
 page

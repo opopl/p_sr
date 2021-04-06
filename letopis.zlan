@@ -17937,6 +17937,9 @@ page
 page
 	set url http://lug-info.com/news/one/vzyatiem-pod-kontrol-zdaniya-sbu-narod-vzyal-otvetstvennost-za-svoe-buduschee-pasechnik-66291
 	set tags lnr,lugansk,rodina,donbass,vojna,6_apr,2014,sbu,maidan2
+page
+	set url http://lug-info.com/news/one/luganskaya-afisha-66276
+	set tags lnr,lugansk,kino,afisha,kultura
 eof
 off
 page

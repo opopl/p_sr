@@ -17820,6 +17820,36 @@ page
 page
 	set url https://www.riakursk.ru/kak-provedut-v-kurske-god-nauki-i-tekhnologiy/
 	set tags rossia,nauka,kursk
+page
+	set url https://strana.ua/opinions/326560-kak-jazykovoj-ombudsmen-porushil-prezidentskuju-propahandu.html
+	set tags ukraina,mendel_julia,prezident,jazyk,kremin_taras,ukrainizacia,mova,varenje,bochka
+page
+	set url https://strana.ua/news/326593-stepanov-obeshchae-10-millionov-dopolnitelnykh-doz-vaktsiny-protiv-covid-19.html
+	set tags ukraina,vaccine,proizvodstvo,covid
+page
+	set url https://www.pravda.com.ua/articles/2021/04/6/7289090/
+	set tags ukraina,fejk,propaganda,internet,facebook,smi,obschestvo
+page
+	set url https://www.radiosvoboda.org/a/news-kyivnotkiev/31188165.html
+	set tags ukraina,kiev,lvov,propaganda,english,latinica,sssr,imperia,nasledie
+page
+	set url https://www.radiosvoboda.org/a/news-facebook-kyiv-not-kiev-kuleba/30692649.html
+	set tags ukraina,mova,jazyk,kiev,english,mzs
+page
+	set url https://www.radiosvoboda.org/a/30127210.html
+	set tags ukraina,mova,jazyk,rusimperia,moskva
+page
+	set url https://strana.ua/articles/analysis/326545-ukrainskij-russkij-zachem-avakov-i-mendel-pridumali-novyj-jazyk-dlja-ukrainy.html
+	set tags ukraina,mova,jazyk,avakov_arsen,mendel_julia,zelenskii_vladimir,ukrainizacia,buzhanskii_maksim,kultura,gogol_nikolai
+page
+	set url https://strana.ua/news/326608-poezd-kiev-novoalekseevka-zaderzhivaetsja-iz-za-perestrelki-voennykh-v-vahone.html
+	set tags ukraina,poezd,ukrzaliznycia,armia,vsu,strelba,oruzhie,kiev
+page
+	set url https://strana.ua/news/253408-v-kieve-na-stantsii-metro-vokzalnaja-v-vahone-poezda-vzorvali-petardu.html
+	set tags kiev,ukraina,petarda,metro,vzryv,vokzalnaja.metro.kiev
+page
+	set url https://strana.ua/news/252688-u-passazhira-kharkovskoho-metro-v-rjukzake-nashli-dve-boevye-hranaty-politsija.html
+	set tags ukraina,harkov,metro,passazhir,granata,policia
 eof
 off
 page

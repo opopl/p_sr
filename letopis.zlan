@@ -17844,6 +17844,11 @@ page
 page
 	set url https://strana.ua/news/326608-poezd-kiev-novoalekseevka-zaderzhivaetsja-iz-za-perestrelki-voennykh-v-vahone.html
 	set tags ukraina,poezd,ukrzaliznycia,armia,vsu,strelba,oruzhie,kiev
+	set redo 1
+	setlist acts
+		fetch
+		get_img
+		db_update
 page
 	set url https://strana.ua/news/253408-v-kieve-na-stantsii-metro-vokzalnaja-v-vahone-poezda-vzorvali-petardu.html
 	set tags kiev,ukraina,petarda,metro,vzryv,vokzalnaja.metro.kiev

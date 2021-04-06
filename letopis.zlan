@@ -17871,6 +17871,12 @@ page
 page
 	set url https://vz.ru/world/2021/4/6/1093016.html
 	set tags ukraina,mova,jazyk,avakov_arsen,rossia,propaganda,ukrainizacia,mendel_julia
+page
+	set url https://strana.ua/news/326649-v-evrope-dokazali-svjaz-vaktsiny-ot-koronavirusa-astrazeneka-s-trombozom.html
+	set tags evropa,astrazeneka,tromboz,vaccine,covid
+page
+	set url https://strana.ua/news/326617-poezdka-zelenskoho-v-katara-oznamenovalas-skandalom-s-podoshvami-obuvi.html
+	set tags ukraina,jermak_andrej,etiket,kiev,diplomatia,katar,arabs,peregovory
 eof
 off
 page

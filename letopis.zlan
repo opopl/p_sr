@@ -17952,6 +17952,48 @@ page
 page
 	set url https://news-front.info/2021/04/06/fantomnye-boli-ukrainy-po-krymu-andrej-babiczkij/
 	set tags kiev,ukraina,krym,rossia,fraza
+page
+	set url https://strana.ua/news/326691-voennosluzhashchikh-ustroivshikh-strelbu-v-poezde-kiev-konstantinovka-uvolili.html
+	set tags ukraina,kiev,poezd,vsu,strelba,pjanstvo,konstantinovka,ukrzaliznycia
+page
+	set url https://strana.ua/news/326689-poezd-kiev-konstantinovka-pribyl-na-vokzal-posle-perestrelki-atoshnikov.html
+	set tags ukraina,ukrzaliznycia,strelba,konstantinovka,poezd,vsu
+page
+	set url https://strana.ua/news/326663-smert-malchika-v-dnr-rekonstruktsija.html
+	set tags shihov_vladislav.rebenok.donbass,donbass,vojna,ukraina,mogila,vsu,bpla
+page
+	set url https://ukraina.ru/news/20210406/1031052724.html
+	set tags ukraina,obse,peskov_dmitrii,vojna,donbass,rebenok,shihov_vladislav.rebenok.donbass,rossia,dnr,aleksandrovskoje.donbass
+page
+	set url https://strana.ua/news/260518-devushka-iz-horlovki-pohibla-ot-udara-bespilotnika-chto-izvestno-o-miroslave-vorontsovoj.html
+	set tags voroncova_miroslava.gorlovka.2020,smert,devushka,gorlovka,ukraina,donbass,vojna,bpla,dnr,vsu
+page
+	set url https://strana.ua/news/260356-v-horlovke-pod-obstrelom-s-drona-pohidla-26-letnjaja-devushka.html
+	set tags gorlovka,voroncova_miroslava.gorlovka.2020,smert,dnr,ukraina,vojna,donbass,vsu
+page
+	set url https://strana.ua/news/254584-donetsk-obstrel-dnr-13-marta.html
+	set tags doneck,donbass,obstrel,ukraina,dnr,vojna
+page
+	set url https://ukraina.ru/exclusive/20210406/1031053077.html
+	set tags ukraina,rusmir,rossia,jazyk,mova,ukrainizacia,mendel_julia,avakov_arsen,guzhva_igor
+page
+	set url https://ukraina.ru/news/20210405/1031036928.html
+	set tags mendel_julia,rossia,ukraina,jazyk,monopolia
+page
+	set url https://ukraina.ru/opinion/20210406/1031054748.html
+	set tags ukraina,dubaj,devushka,seks,pornografia,oae,skandal
+page
+	set url https://ukraina.ru/news/20210406/1031054625.html
+	set tags ukraina,smert,policia,lugansk_oblast
+page
+	set url https://ukraina.ru/exclusive/20210406/1031054246.html
+	set tags aristofan,korolev_sergei,kosmonavtika,eda,kuhnja,sssr,istoria
+page
+	set url https://strana.ua/news/270403-dzhordzh-flojd-i-ubivshij-eho-politsejskij-mohli-byt-znakomy.html
+	set tags floyd_george,vyshybala,ohrannik,ohrana,nochnoj_klub,usa,minneapolis
+page
+	set url https://fraza.com/analytics/299321-ispoved-politicheskogo-insajdera
+	set tags kniga,pustota,kiev,ukraina,usa,kultura,literatura
 eof
 off
 page

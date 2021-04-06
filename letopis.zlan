@@ -17856,6 +17856,18 @@ page
 page
 	set url https://life.pravda.com.ua/society/2019/12/25/239429/
 	set tags nobel_prize,vojna,efiopia,world,afrika
+page
+	set url https://news.obozrevatel.com/society/peredaj-vsem-znakomyim-chto-ya-ih-lyublyu-v-hmelnitskom-ot-koronavirusa-umerla-28-letnyaya-uchitelnitsa.htm
+	set tags ukraina,covid,uchitel,smert,shkola,bolezn,hmelnickii.gorod
+page
+	set url https://plus.obozrevatel.com/crime/na-donbasse-pogib-voin-vsu-s-cherkasschinyi-nazvano-imya.htm
+	set tags ukraina,donbass,vojna,smert,poteri,geroi,vsu
+page
+	set url https://news.obozrevatel.com/society/do-kontsa-goda-tsivilizovannyij-mir-otkroetsya-dlya-vseh-kto-vaktsinirovan-a-myi.htm
+	set tags ukraina,vaccinacia,obschestvo,granica
+page
+	set url https://news.obozrevatel.com/society/russkie-na-donbasse-kto-priehal-iz-rossii-ubivat-ukraintsev.htm
+	set tags rossia,ukraina,donbass,vojna,rusmir,russkie,chelovek,mentalitet,sssr
 eof
 off
 page

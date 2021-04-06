@@ -17928,6 +17928,9 @@ page
 page
 	set url http://lug-info.com/news/one/vzyatie-zdaniya-sbu-polozhilo-nachalo-stanovleniyu-lnr-predsedatel-soveta-atamanov-kirovska-66300
 	set tags 6_apr,2014,lugansk,lnr,ataman,kirovsk.lnr,vojna,vosstanie,donbass
+page
+	set url http://lug-info.com/news/one/luganchane-vzyali-zdanie-sbu-kogda-ponyali-chto-mira-s-maidanovtsami-uzhe-ne-budet-deputat-66301
+	set tags lnr,7_let,maidan2,lugansk,sbu,godovschina,6_apr,2014,vojna,donbass
 eof
 off
 page

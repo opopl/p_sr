@@ -17868,6 +17868,9 @@ page
 page
 	set url https://news.obozrevatel.com/society/russkie-na-donbasse-kto-priehal-iz-rossii-ubivat-ukraintsev.htm
 	set tags rossia,ukraina,donbass,vojna,rusmir,russkie,chelovek,mentalitet,sssr
+page
+	set url https://vz.ru/world/2021/4/6/1093016.html
+	set tags ukraina,mova,jazyk,avakov_arsen,rossia,propaganda,ukrainizacia,mendel_julia
 eof
 off
 page

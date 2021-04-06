@@ -17994,6 +17994,36 @@ page
 page
 	set url https://fraza.com/analytics/299321-ispoved-politicheskogo-insajdera
 	set tags kniga,pustota,kiev,ukraina,usa,kultura,literatura
+page
+	set url https://strana.ua/articles/rassledovania/326696-vitalij-hrechin-kto-orhanizoval-skandalnuju-holuju-fotosessiju-ukrainok-v-dubae.html
+	set tags kiev,ukraina,oae,skandal,foto_nu,dubaj,devushka,pornografia
+page
+	set url https://strana.ua/opinions/326722-natsistskie-okkupanty-ofitsialno-priznany-zashchitnikami-ukrainy.html
+	set tags ukraina,germania,diplomatia,ss_galichina,nacizm
+page
+	set url https://plus.obozrevatel.com/crime/ldnr-ustroili-novuyu-ataku-fejkami-protiv-ukrainyi-v-vsu-oprovergli.htm
+	set tags ukraina,donbass,fejk,rebenok,shihov_vladislav.rebenok.donbass,vojna
+page
+	set url https://news.obozrevatel.com/politics/v-minsk-bolshe-ne-vernemsya.htm
+	set tags lukashenko_aleksandr,minsk,tkg,peregovory,dostoinstvo,ukraina,rossia,donbass,vojna
+page
+	set url https://news.obozrevatel.com/politics/nelzya-nedootsenivat-gotovnost-rossii-napast-na-ukrainu.htm
+	set tags rossia,ukraina,napadenie,vojna
+page
+	set url https://pustunchik.ua/ua/online-school/literature/prislivya-pro-ukrayinu
+	set tags poslovica,ukraina
+page
+	set url https://materinstvo.ru/art/13797
+	set tags poslovica,rossia
+page
+	set url https://www.hobobo.ru/poslovitsy-i-pogovorki/poslovitsy-i-pogovorki-o-rossii/
+	set tags poslovica,rossia
+page
+	set url https://zen.yandex.ru/media/ukrru/ukrainskie-i-russkie-pogovorki-5ca99bf28bdce800b4721d52
+	set tags poslovica,ukraina,rossia
+page
+	set url https://zen.yandex.ru/media/yedkiyy/ukraina-eto-rossiia-5cce68d572ad6900b3171301
+	set tags malorossia,ukraina,rossia,mentalitet,istoria,rusmir
 eof
 off
 page

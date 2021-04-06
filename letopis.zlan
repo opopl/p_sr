@@ -17877,6 +17877,42 @@ page
 page
 	set url https://strana.ua/news/326617-poezdka-zelenskoho-v-katara-oznamenovalas-skandalom-s-podoshvami-obuvi.html
 	set tags ukraina,jermak_andrej,etiket,kiev,diplomatia,katar,arabs,peregovory
+page
+	set url https://strana.ua/news/326652-zapret-partii-sharija-v-oask-pod-sudom-prokhodit-aktsija-storonnikov-sharija.html
+	set tags kiev,ukraina,partija_sharija,zapret,sud,protest,repressii,presledovanie,politika,nacgvardia
+page
+	set url https://strana.ua/news/326606-spetspropuska-na-transport-na-olkh-dorohoe-taksi-probki-pervye-itohi-karantina-v-kieve.html
+	set tags ukraina,kiev,transport,marshrutka,lockdown,karantin,covid,metro,avtobus,skandal
+page
+	set url https://strana.ua/news/326408-rabota-metro-v-kieve-i-propuska-na-transport-kak-ezdjat-marshrutki-i-podzemka-onlajn-5-aprelja.html
+	set tags kiev,ukraina,lockdown,karantin,covid,transport,marshrutka,propusk,velosiped,probka,taksi,avto,socset,foto_zhaba,ekonomika
+page
+	set url https://strana.ua/news/326625-bajden-povtorit-hruzinskij-stsenarij-busha-a-kiev-budet-unizhen-the-national-interest.html
+	set tags ukraina,rossia,kiev,vojna,usa,geopolitika,nato,pomosch,nadezhda,gruzia,katastrofa
+page
+	set url https://strana.ua/news/326660-peskov-nazval-prioritet-putina-na-donbasse.html
+	set tags rossia,ukraina,donbass,vojna,putin_vladimir,peskov_dmitrii,prioritet,grazhdanstvo,bezopasnost'
+page
+	set url https://strana.ua/opinions/326634-ajsberhu-vse-ravno-kakaja-muzyka-zvuchit-na-titanike.html
+	set tags ukraina,vaccinacia,titanik,muzyka,ajsberg,led,strana
+page
+	set url https://strana.ua/opinions/326654-kak-pri-takom-transporte-byt-ljudjam-kotorye-pochuvstvujut-sebja-plokho.html
+	set tags ukraina,kiev,transport,lockdown,karantin,ludi,vopros,covid
+page
+	set url https://strana.ua/opinions/326638-ihra-zelenskoho-v-tanchiki-pokazukha-i-rabota-na-kameru.html
+	set tags ukraina,rossia,vojna,donbass,zelenskii_vladimir,pokazuha,igra
+page
+	set url https://www.pravda.com.ua/news/2021/04/6/7289149/
+	set tags ukraina,zakon,mova,shkola,obrazovanie,status,zaporozhie
+page
+	set url https://blogs.pravda.com.ua/authors/kyrylenko/606b11590fd1f/
+	set tags ukraina,mova,jazyk,mendel_julia,ukrainizacia
+page
+	set url https://blogs.pravda.com.ua/authors/avakov/60631eb10d0d9/
+	set tags avakov_arsen,mova,jazyk,ukraina,putin_vladimir,propaganda,rossia,kultura,gordon_dmitrii
+page
+	set url https://strana.ua/news/322109-oask-otkryl-proizvodstvo-po-isku-minjusta-o-zaprete-partii-sharija.html
+	set tags ukraina,politika,partija_sharija,zapret,sud,minjust,sharij_analotij
 eof
 off
 page

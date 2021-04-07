@@ -18168,6 +18168,27 @@ page
 page
 	set url https://zaxid.net/nasha_pisnya_garna_y_nova_n1517033
 	set tags ukraina,mova,jazyk,avakov_arsen,mendel_julia,obschestvo,edinstvo,nacia
+page
+	set url https://gazeta.ua/blog/54875/ukrayinci-ne-duzhe-hochut-vidmovlyatisya-vid-usogo-scho-povyazuye-yih-z-ruskimi
+	set tags ukraina,kakaja_raznica,obschestvo,jazyk,mova
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/facebook-i-zapovity-martyna-lyutera-kinga
+	set tags martin_luter_king,ukraina,facebook,internet,trump_donald
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/poza-politykoyu-mozhut-buty-lyshe-mertvi-i-dushevnohvori-i-ne-fakt
+	set tags politika,ukraina,obschestvo,chelovek
+page
+	set url https://lenta.ru/news/2021/04/07/pashkova/
+	set tags pashkova_olga.akter.rossia,rossia,kultura,smert,kino
+page
+	set url https://lenta.ru/news/2021/04/07/astraz/
+	set tags britania,tromboz,smert,vaccine,covid,astrazeneka
+page
+	set url https://lenta.ru/articles/2021/04/07/zahod_na_voiynu/
+	set tags rossia,ukraina,vojna,donbass,rebenok,shihov_vladislav.rebenok.donbass,aleksandrovskoje.donbass,kravchuk_leonid,zelenskii_vladimir
+page
+	set url https://gazeta.ua/blog/54876/arestovich-zyavivsya-bilya-zelenskogo-nevipadkovo
+	set tags ukraina,obschestvo,arestovich_aleksei,zelenskii_vladimir
 eof
 off
 page

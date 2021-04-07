@@ -18027,6 +18027,78 @@ page
 page
 	set url https://www.mk.ru/blogs/posts/ukraina-eto-rossiya.html
 	set tags ukraina,rossia,ukraina_ne_rossia,ukraina_eto_rossia
+page
+	set url https://strana.ua/articles/analysis/326910-britanskij-shtamm-koronavirusa-simptomy-hlavnye-otlichija-kak-lechit.html
+	set tags ukraina,bolezn,covid,bolnica,skoraja,covid.britanskij_shtamm
+page
+	set url https://strana.ua/news/326934-mezhdunarodnomu-mediaproektu-ljudi-ispolnilsja-hod.html
+	set tags projekt,tv,ukraina,strana_ua,ludi,internet,youtube,stena,most
+page
+	set url https://strana.ua/news/326888-vlast-otdaljaet-nastuplenie-mira-kotoroho-khotjat-ukraintsy-bojko.html
+	set tags bojko_jurij.opzzh,reznikov_aleksei,donbass,mir,ukraina,minsk,belarus,peregovory
+page
+	set url https://strana.ua/news/326811-kolichestvo-smertej-ot-koronavirusa-v-ukraine-6-aprelja-prevysilo-pokazateli-stran-evropy.html
+	set tags ukraina,zabolevajemost',smert,covid,statistika,antirekord,rekord
+page
+	set url https://strana.ua/news/326807-v-slovakii-nedovolny-poluchennoj-ot-rossii-vaktsinoj-sputnik-v.html
+	set tags rossia,sputnik_v,vaccine,skandal,slovakia,pokupka,vaccinacia
+page
+	set url https://strana.ua/news/326729-komendantskij-chas-v-kieve-i-ukraine-chto-eto-takoe-i-budut-li-vvodit.html
+	set tags ukraina,lockdown,karantin,covid,komendantskij_chas
+page
+	set url https://strana.ua/articles/analysis/326770-v-kakom-sostojanii-sejchas-nakhodjatsja-podrazdelenija-teroborony-ukrainy.html
+	set tags ukraina,vsu,bumaga,armia,teroborona,oborona
+page
+	set url https://strana.ua/news/326942-evropejskij-rehuljator-opublikoval-otchet-o-svjazi-astrazeneca-i-tromboza.html
+	set tags evropa,es,pobochka,astrazeneka,tromboz,vaccine,covid
+page
+	set url https://strana.ua/articles/analysis/326943-zelenskij-poshel-pokhodom-v-araviju-chto-ishchet-prezident-na-blizhnem-vostoke-.html
+	set tags ukraina,zelenskii_vladimir,posol,uvolnenie
+page
+	set url https://strana.ua/opinions/326921-perenos-administrativnoho-tsentra-iz-kieva-nicheho-ne-dast-ukraine.html
+	set tags ukraina,kiev
+page
+	set url https://strana.ua/opinions/326827-nenavist-klejster-ukrainskoho-obshchestva-viahra-patriota.html
+	set tags armia_mova_vira,ukraina,nenavist,patriotizm,obschestvo,nacia,rodina
+page
+	set url https://strana.ua/opinions/326801-to-chto-proiskhodit-v-nashem-informprostranstve-mozhno-schitat-hruppovym-iznasilovaniem.html
+	set tags ukraina,dostojevskii_fedor,iznasilovanie,obschestvo,informacia
+page
+	set url https://strana.ua/opinions/326771-zelenskij-zahnal-sebja-v-uhol-politikoj-peshchernoho-natsionalizma.html
+	set tags zelenskii_vladimir,ukraina,nacionalizm,mendel_julia,mova,jazyk,obschestvo,ukrainizacia
+page
+	set url https://strana.ua/opinions/326800-dve-politicheskie-vselennye-umestilis-na-territorii-ukrainy.html
+	set tags ukraina,politika,universe,obschestvo
+page
+	set url https://strana.ua/opinions/326802-nikakim-mirom-nikakoj-reintehratsiej-donbassa-i-ne-pakhnet.html
+	set tags ukraina,tkg,zelenskii_vladimir,russofobia,rossia,peregovory,donbass,vojna,mir,reznikov_aleksei
+page
+	set url https://strana.ua/opinions/326927-kazhetsja-borshch-pridumali-eshche-v-drevnem-vavilone.html
+	set tags ukraina,borsch,drevnost',vavilon
+page
+	set url https://strana.ua/opinions/326935-vse-razhovory-zelenskoho-o-prisoedinenii-k-nato-pustaja-botovnja.html
+	set tags ukraina,nato,rossia,boltovnja,pustota,zelenskii_vladimir
+page
+	set url https://from-ua.com/articles/594583-kto-stanet-novim-hozyainom-ukrainskoi-zemli.html
+	set tags ukraina,zemlja,rynok,ekonomika,sobstvennost'
+page
+	set url https://fraza.com/fraze/299473-leonid-kravchuk
+	set tags kravchuk_leonid,ukraina,fraza,tkg,oruzhie,donbass,vojna,rossia
+page
+	set url https://fraza.com/news/299509-v-den-blagoveschenija-mezhdunarodnyj-media-proekt-ljudi-prazdnuet-god-v-efire
+	set tags ukraina,blagoveschenie.prazdnik.cerkov,projekt.ludi,godovschina,obschestvo,tv,internet
+page
+	set url https://www.pravda.com.ua/articles/2021/04/7/7289256/
+	set tags teatr,teatr.kiev.budjmo,rezhisser,kiev,ukraina,kultura,pravednik,enenberg_sergej.rezhisser.kiev,bolnica.pavlov.kiev
+page
+	set url https://www.pravda.com.ua/news/2021/04/7/7289266/
+	set tags obse,rebenok,shihov_vladislav.rebenok.donbass,smert,ukraina,rossia,vojna,bpla,aleksandrovskoje.donbass
+page
+	set url https://www.pravda.com.ua/news/2021/04/6/7289224/
+	set tags ukraina,vsu,smert,snajper,donbass,vojna,spartak.selo.donbass
+page
+	set url https://www.radiosvoboda.org/a/ikony-na-jashykach-vid-bojeprypasiv/31190030.html
+	set tags ikona,vojna,donbass,ukraina,hudozhnik,vera,bogomater',georgij_pobedonosec
 eof
 off
 page

@@ -18129,6 +18129,12 @@ page
 page
 	set url http://lug-info.com/news/one/vsu-distantsionno-zaminirovali-bereg-dontsa-gde-podorvalis-podrostki-zaschitnik-lnr-66367
 	set tags lnr,podrostki,mina,vojna,donbass,ukraina,vsu,slavjanoserbsk.lnr,reka.severskij_donec
+page
+	set url http://lug-info.com/news/one/podrostok-pogib-pri-podryve-na-vzryvnom-ustroistve-v-slavyanoserbske-narodnaya-militsiya-66317
+	set tags lnr,nm_lnr,podrostki,vojna,donbass,smert,slavjanoserbsk.lnr
+page
+	set url https://mir-lug.info/hot/aktivisty-od-mir-luganshhine-vo-vseh-gorodah-i-rajonah-lnr-proveli-meropriyatiya-posvyashhyonnye-7-j-godovshhine-vzyatiya-sbu/
+	set tags lnr,lugansk,godovschina,sbu,6_apr,2014,mir_luganschine,donbass,vojna,rusvesna,aktivist,obschestvo
 eof
 off
 page

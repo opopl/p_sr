@@ -18189,6 +18189,9 @@ page
 page
 	set url https://gazeta.ua/blog/54876/arestovich-zyavivsya-bilya-zelenskogo-nevipadkovo
 	set tags ukraina,obschestvo,arestovich_aleksei,zelenskii_vladimir
+page
+	set url https://www.cyberciti.biz/faq/noninteractive-shell-script-ssh-password-provider/
+	set tags pc,sshpass,ssh
 eof
 off
 page

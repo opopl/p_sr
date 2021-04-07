@@ -18126,6 +18126,9 @@ page
 page
 	set url http://lug-info.com/news/one/kandidaty-v-deputaty-molodezhnogo-parlamenta-na-marafone-prodemonstriruyut-navyki-agitatsii-66359
 	set tags lnr,molodezh_parlament.lnr,molodezh,deputat,marafon,agitacia
+page
+	set url http://lug-info.com/news/one/vsu-distantsionno-zaminirovali-bereg-dontsa-gde-podorvalis-podrostki-zaschitnik-lnr-66367
+	set tags lnr,podrostki,mina,vojna,donbass,ukraina,vsu,slavjanoserbsk.lnr,reka.severskij_donec
 eof
 off
 page

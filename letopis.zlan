@@ -18024,6 +18024,9 @@ page
 page
 	set url https://zen.yandex.ru/media/yedkiyy/ukraina-eto-rossiia-5cce68d572ad6900b3171301
 	set tags malorossia,ukraina,rossia,mentalitet,istoria,rusmir
+page
+	set url https://www.mk.ru/blogs/posts/ukraina-eto-rossiya.html
+	set tags ukraina,rossia,ukraina_ne_rossia,ukraina_eto_rossia
 eof
 off
 page

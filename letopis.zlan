@@ -18135,6 +18135,39 @@ page
 page
 	set url https://mir-lug.info/hot/aktivisty-od-mir-luganshhine-vo-vseh-gorodah-i-rajonah-lnr-proveli-meropriyatiya-posvyashhyonnye-7-j-godovshhine-vzyatiya-sbu/
 	set tags lnr,lugansk,godovschina,sbu,6_apr,2014,mir_luganschine,donbass,vojna,rusvesna,aktivist,obschestvo
+page
+	set url https://strana.ua/news/326946-shkolnitsy-v-toretske-zastavili-odnoklassnitsu-kupatsja-holoj-v-reke.html
+	set tags ukraina,toreck.doneck_obl.ukr,shkola,deti,izbienie,nasilie,kupanie,reka,oskorblenie,policia,kriminal
+page
+	set url https://analytics.hvylya.net/228396-zvonok-baydena-zelenskomu-vzglyad-iz-vashingtona
+	set tags zvonok,zelenskii_vladimir,washington,ukraina,usa,nato,rossia,jermak_andrej,biden_joe,geopolitika
+page
+	set url https://analytics.hvylya.net/228343-zelenskiy-snbo-i-polet-nad-propastyu
+	set tags rnbo,zelenskii_vladimir,ukraina,propast,polet
+page
+	set url https://zn.ua/internal/strashnyj-sud-prezidenta-zelenskoho-dva-hoda-obeshchanij-i-nikakoho-prohressa.html
+	set tags zelenskii_vladimir,sud,sternenko_sergei,ukraina,strashnyj_sud,spravedlivost
+page
+	set url https://lb.ua/news/2021/04/07/481746_oleksiy_danilov_chi_bude.html
+	set tags rnbo,danilov_aleksei,ukraina,interview,derzhava,sankcii,repressii,cenzura
+page
+	set url https://mir-lug.info/novosti-terotdelenij/volontyory-akczii-ruka-pomoshhi-iz-antraczita-pomogli-tryom-gorozhanam/
+	set tags mir_luganschine,aktivist,pomosch,lnr,antracit
+page
+	set url https://mir-lug.info/novosti-terotdelenij/stahanovskie-aktivisty-proveli-chas-pamyati-posvyashhyonnyj-7-j-godovshhine-vzyatiya-sbu/
+	set tags pamjat,sbu,lnr,stahanov.lnr,aktivist,mir_luganschine,shkola,6_apr,2014,donbass,vojna
+page
+	set url https://mir-lug.info/mov/perevalskaya-molodyozh-prinyala-uchastie-v-probezhke-s-rossiej-v-serdcze/
+	set tags lnr,rossia,7_let,probezhka,sport,mir_luganschine,perevalsk,rusvesna,krym,vossoedinenie
+page
+	set url https://mir-lug.info/novosti-terotdelenij/nelli-zadiraka-i-aktivisty-proekta-volontyor-peredali-2-tonny-pomoshhi-v-lutuginskij-rajon/
+	set tags lnr,pomosch,mir_luganschine,aktivist,obschestvo
+page
+	set url https://zaxid.net/patriotizm_zadnim_chislom_n1516952
+	set tags ukraina,patriotizm,patriot,maidan2,cennosti,2014,bandera_stepan,nacia,nacidea
+page
+	set url https://zaxid.net/nasha_pisnya_garna_y_nova_n1517033
+	set tags ukraina,mova,jazyk,avakov_arsen,mendel_julia,obschestvo,edinstvo,nacia
 eof
 off
 page

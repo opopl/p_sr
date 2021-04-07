@@ -18099,6 +18099,33 @@ page
 page
 	set url https://www.radiosvoboda.org/a/ikony-na-jashykach-vid-bojeprypasiv/31190030.html
 	set tags ikona,vojna,donbass,ukraina,hudozhnik,vera,bogomater',georgij_pobedonosec
+page
+	set url https://www.radiosvoboda.org/a/rossiya-gibel-rebenka-na-donbasse/31191230.html
+	set tags infvojna,vojna,donbass,ukraina,rossia,obse,bpla,rebenok,smert,vzryv,aleksandrovskoje.donbass,shihov_vladislav.rebenok.donbass,montjan_tatjana.advokat.kiev
+page
+	set url https://www.radiosvoboda.org/a/ukrainian-football-okupavana-chastyna-donbasu/31189996.html
+	set tags ukraina,sport,futbol,donbass,lnr,dnr
+page
+	set url https://www.radiosvoboda.org/a/29746701.html
+	set tags ukraina,sport,futbol,donbass,dnr,lnr
+page
+	set url http://lug-info.com/news/one/organizovannaya-proektom-druzhina-aktsiya-20-dnei-zdorovya-startovala-v-krasnodone-foto-66366
+	set tags lnr,mir_luganschine,zdorovje,obschestvo,akcia,aktivist,krasnodon.lnr,druzhina
+page
+	set url http://lug-info.com/news/one/vsu-iz-artillerii-obstrelivayut-zolotoe-5-i-pervomaisk-lyudi-pryachutsya-v-podvalakh-ochevidtsy-66232
+	set tags ukraina,vsu,obstrel,ludi,donbass,vojna
+page
+	set url http://lug-info.com/news/one/predstaviteli-vlastei-lnr-nagradili-prepodavatelei-lgaki-po-sluchayu-19-letiya-vuza-foto-66346
+	set tags lgaki,lnr,19_let,nagrada,pozdravlenie,lugansk,kultura,muzyka,obrazovanie
+page
+	set url http://lug-info.com/news/one/glava-lnr-oznakomilsya-s-rabotoi-apparata-mrt-postavlennogo-rf-v-lrdkb-po-gumprogramme-foto-66332
+	set tags lnr,lugansk,pasechnik_leonid,medicina,pomosch,vrach,bolnica,mrt,tomograf,rossia
+page
+	set url http://lug-info.com/news/one/vyzhivshii-pri-podryve-v-slavyanoserbske-podrostok-rasskazal-kak-proizoshel-intsident-66333
+	set tags lnr,donbass,vojna,podrostki,ranenie,bolnica,lechenie,slavjanoserbsk.lnr,rossia
+page
+	set url http://lug-info.com/news/one/kandidaty-v-deputaty-molodezhnogo-parlamenta-na-marafone-prodemonstriruyut-navyki-agitatsii-66359
+	set tags lnr,molodezh_parlament.lnr,molodezh,deputat,marafon,agitacia
 eof
 off
 page

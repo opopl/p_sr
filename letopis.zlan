@@ -18300,6 +18300,51 @@ page
 page
 	set url https://beztabu.net/rosijski-vijska-stvorili-velikij-tabir-na-kordoni-z-ukrayinoyu-ta-gotuyut-ataku_n73139
 	set tags ukraina,rossia,vojna,donbass,rostov_na_donu,voronezh
+page
+	set url https://strana.ua/news/327148-u-zelenskoho-otreahirovali-na-zajavlenie-mendel-o-znachenii-russkoho-jazyka-dlja-ukrainy.html
+	set tags ukraina,mova,jazyk,mendel_julia,bankova,ofis_prezidenta
+page
+	set url https://strana.ua/news/327115-press-konferentsija-kozaka-v-moskve-hlavnye-tezisy-ob-ukraine-donbasse-zelenskom.html
+	set tags ukraina,rossia,donbass,peregovory,kozak_dmitrii,vojna
+page
+	set url https://blogs.pravda.com.ua/authors/popova/606e8f1d744d0/
+	set tags ukraina,rossia,vojna,donbass
+page
+	set url https://news.obozrevatel.com/economics/fea/v-ukraine-vzletela-smertnost-ot-koronavirusa-za-neskolko-mesyatsev-mogut-pogibnut-esche-40-tyis-chelovek.htm
+	set tags ukraina,smertnost',covid,zabolevajemost',statistika,bolezn
+page
+	set url https://news.obozrevatel.com/abroad/rossiya-budet-glotat-pyil-ot-botinok-kitaya.htm
+	set tags roskosmos,kitaj,kosmonavt,kosmos,kosmonavtika,gagarin_jurij
+page
+	set url https://news.obozrevatel.com/abroad/bajden-zhgi-moskvu-plyuschit-i-vyivorachivaet.htm
+	set tags rossia,moskva,usa,biden_joe,putin_vladimir
+page
+	set url https://news.obozrevatel.com/society/strah-holokosta-eto-budut-delat-s-toboj-tvoi-sosedi.htm
+	set tags strah,golokost,istoria
+page
+	set url https://hvylya.net/news/228468-problema-ukrainy-ne-v-yanukoviche-poroshenko-ili-zelenskom-doniy
+	set tags ukraina,obschestvo,donij_oles,mirovozrenie,vybory,vlast
+page
+	set url http://lug-info.com/news/one/glava-lnr-obsudil-s-buduschimi-medikami-stakhanova-voprosy-trudoustroistva-spetsialistov-foto-66396
+	set tags lnr,stahanov.lnr,mediki,rabota,pasechnik_leonid,obsuzhdenie,medicina
+page
+	set url https://lenta.ru/news/2021/04/08/un_child/
+	set tags oon,dnr,aleksandrovskoje.donbass,rebenok,smert,shihov_vladislav.rebenok.donbass,vojna,donbass
+page
+	set url https://lenta.ru/news/2021/04/08/otvetochka/
+	set tags ukraina,rossia,kozak_dmitrii,vojna,donbass
+page
+	set url https://www.volyn.com.ua/news/179172-fotohraf-z-rivnenshchyny-znimaiuchy-zakhid-sontsia-zlovyv-v-ob-iektyv-neimovirne-atmosferne-iavyshche-foto
+	set tags ukraina,volyn,foto,molnia,priroda
+page
+	set url https://zen.yandex.ru/media/istoriko/pochemu-na-ukraine-v-otlichie-ot-rossii-tak-i-ne-poiavilis-pisateli-mirovogo-urovnia-606ebe55a057e8171d12132f
+	set tags ukraina,rossia,literatura,gogol_nikolai,shevchenko_taras,franko_ivan
+page
+	set url https://zen.yandex.ru/media/mlozha/kak-iaroslav-mudryi-vospital-korolia-norvegii-606a38d04e1bd509491720c8
+	set tags rusmir,pedagogika,kievrus,jaroslav_mudryj,norvegia,istoria
+page
+	set url https://tyzhden.ua/Columns/50/251744
+	set tags lugansk,ukraina,mova,jazyk,sssr,istoria,avakov_arsen,mendel_julia
 eof
 off
 page

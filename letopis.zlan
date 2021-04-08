@@ -18270,6 +18270,36 @@ page
 page
 	set url http://ukrcentr.ru/novini/chitayemo-gogolya/
 	set tags rossia,ukraina,gogol_nikolai,literatura,chtenie,vstrecha,posolstvo.ukrainy.moskva,ukrcentr.moskva,kultura,moskva
+page
+	set url https://regnum.ru/news/society/3237844.html
+	set tags ukraina,vandalizm,odessa,02.05.2014,pamjat,memorial
+page
+	set url https://gazeta.ua/blog/54882/ukrayinska-maye-buti-ukrayinskoyu-rosijska-rosijskoyu-imperiya-maye-piti
+	set tags ukraina,rusmir,rossia,mova,jazyk,imperia,nasledie
+page
+	set url https://gazeta.ua/blog/54877/nashu-movu-zasmichuyut-zapozichennyami-z-rosijskoyi
+	set tags ukraina,mova,jazyk,rossia
+page
+	set url https://plus.obozrevatel.com/crime/na-donbasse-pogib-voin-vsu-s-nikolaevschinyi-nazvano-imya.htm
+	set tags ukraina,vojna,donbass,smert,voiny
+page
+	set url https://news.obozrevatel.com/society/rossijskie-rezhisseryi-gotovyat-ordlo-k-teraktam-i-krovavyim-shou.htm
+	set tags ukraina,rossia,donbass,obschestvo,infvojna,informacia,vojna
+page
+	set url https://news.obozrevatel.com/society/ubili-puli-snajperov-v-odin-den-chto-izvestno-o-pogibshih-na-donbasse.htm
+	set tags ukraina,vojna,donbass,smert,voiny,geroi
+page
+	set url https://news.obozrevatel.com/politics/dva-vyistrela-v-pryamom-efire.htm
+	set tags ukraina,armia,vsu,oborona,rnbo,suicid
+page
+	set url https://analytics.hvylya.net/228426-ukraina-v-krizise-poslesloviya
+	set tags ukraina,ideologia,nacia,strategia,obschestvo,nacidea,future,rusmir
+page
+	set url https://analytics.hvylya.net/228424-ukrainskie-novosti-kak-oruzhie-massovogo-porazheniya
+	set tags ukraina,obschestvo,tv,negativ,pozitiv,telekanaly,cenzura
+page
+	set url https://beztabu.net/rosijski-vijska-stvorili-velikij-tabir-na-kordoni-z-ukrayinoyu-ta-gotuyut-ataku_n73139
+	set tags ukraina,rossia,vojna,donbass,rostov_na_donu,voronezh
 eof
 off
 page

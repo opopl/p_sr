@@ -18192,6 +18192,39 @@ page
 page
 	set url https://www.cyberciti.biz/faq/noninteractive-shell-script-ssh-password-provider/
 	set tags pc,sshpass,ssh
+page
+	set url https://strana.ua/news/327063-aleksej-arestovich-rasskazal-o-prichinakh-hibeli-rebenka-na-okraine-donetska.html
+	set tags arestovich_aleksei,shihov_vladislav.rebenok.donbass,ukraina,rossia,donbass,vojna,vzryv,aleksandrovskoje.donbass
+page
+	set url https://strana.ua/news/326863-vojna-ukrainy-s-rossiej-cheho-zhdat-v-blizhajshee-vremja.html
+	set tags rossia,ukraina,vojna,usa,podgotovka,vsu,dnr,lnr
+page
+	set url https://strana.ua/news/327068-rossijskie-voennye-orhanizovali-laher-rjadom-s-ukrainskoj-hranitsej.html
+	set tags ukraina,rossia,armia,lager,voronezh
+page
+	set url https://strana.ua/news/326962-vaktsina-astrazeneka-pobochnye-effekty-otchet-ema-o-tromboze-.html
+	set tags ukraina,evropa,vaccinacia,astrazeneka,tromboz,doklad,pobochka,covishield
+page
+	set url https://strana.ua/news/327043-ruzhe-kravchuka-i-herinha-chem-eks-prezident-budet-voevat-s-rossijskoj-armiej.html
+	set tags ukraina,rossia,kravchuk_leonid,oruzhie,gering,germania,nacizm,vov
+page
+	set url https://strana.ua/news/327012-ukraina-podnjalas-na-pervoe-mesto-v-evrope-po-sutochnomu-prirostu-koronavirusa.html
+	set tags ukraina,antirekord,smertnost',zabolevajemost',bolezn,covid,pandemia,rekord
+page
+	set url https://www.pravda.com.ua/news/2021/04/8/7289447/
+	set tags dnepropetrovsk,verhovna_rada,aeroport,dekomunizacia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-danilov-interview/31192865.html
+	set tags danilov_aleksei,ukraina,rossia,donbass,vojna,putin_vladimir
+page
+	set url http://lug-info.com/news/one/kiev-otkazyvaetsya-ot-predlozhenii-donbassa-po-snizheniyu-napryazhennosti-delegatsiya-lnr-66085
+	set tags ukraina,vojna,donbass,lnr,peregovory,otkaz
+page
+	set url http://lug-info.com/news/one/orgkomitet-obyavil-o-nachale-registratsii-zayavok-dlya-uchastiya-v-konkurse-miss-lnr-2021-66383
+	set tags lnr,konkurs,devushka,krasota,obschestvo
+page
+	set url http://lug-info.com/news/one/kruglyi-stol-posvyaschennyi-tvorchestvu-dalya-proshel-v-alchevskoi-gimnazii-foto-66365
+	set tags dal'_vladimir,shkola,deti,kultura,literatura,jazyk,lnr,alchevsk,kruglyj_stol,vstrecha,lingvistika
 eof
 off
 page

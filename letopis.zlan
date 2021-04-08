@@ -18225,6 +18225,51 @@ page
 page
 	set url http://lug-info.com/news/one/kruglyi-stol-posvyaschennyi-tvorchestvu-dalya-proshel-v-alchevskoi-gimnazii-foto-66365
 	set tags dal'_vladimir,shkola,deti,kultura,literatura,jazyk,lnr,alchevsk,kruglyj_stol,vstrecha,lingvistika
+page
+	set url https://strana.ua/opinions/327055-zelenskij-sumel-obedinit-ukrainu-dvazhdy.html
+	set tags ukraina,zelenskii_vladimir,edinstvo,strana,obschestvo,nacia
+page
+	set url https://strana.ua/opinions/327018-chto-to-familija-u-danilova-podozritelno-rossijskaja.html
+	set tags danilov_aleksei,ukraina,imja,terror1937,jazyk,absurd,strana,obschestvo,presledovanie
+page
+	set url https://ukraina.ru/opinion/20210408/1031068796.html
+	set tags ukraina,gogol_nikolai,jazyk,mova,kultura,literatura,rusmir,rossia,malkovich_ivan,perevod,berdnik_miroslava,taras_bulba,ukrainizacia,avakov_arsen,mendel_julia
+page
+	set url https://ukraina.ru/exclusive/20210401/1031011450.html
+	set tags avakov_arsen,mova,jazyk,ukraina,obschestvo,politika
+page
+	set url https://strana.ua/articles/analysis/327059-kak-kievskie-taksisty-zarabotali-na-transportnom-kollapse-.html
+	set tags kiev,ukraina,kollaps,taksi,dengi,ekonomika,lockdown,covid,rassledovanie
+page
+	set url https://strana.ua/news/327100-pod-vinnitsej-posle-privivki-ot-koronavirusa-umer-chinovnik.html
+	set tags ukraina,vinnica,chinovnik,covid,smert,vaccinacia
+page
+	set url https://strana.ua/news/325373-v-kieve-ot-covid-19-skonchalis-muzh-i-zhena-u-kotorykh-bylo-13-detej.html
+	set tags ukraina,kiev,doneck,smert,covid,deti,mater
+page
+	set url https://strana.ua/opinions/327058-mirnyj-dohovor-podpisyvaetsja-mezhdu-vojujushchimi-stranami.html
+	set tags ukraina,rossia,dogovor,mir,donbass,vojna,washington
+page
+	set url https://strana.ua/opinions/327060-perekhodit-v-politike-na-semju-i-rodstvennikov-eto-verkh-nizosti.html
+	set tags ukraina,rnbo,obschestvo,nizost',moral,semja,bakanov_ivan.sbu
+page
+	set url https://plus.obozrevatel.com/crime/bakanov-podtverdil-chto-sbu-znaet-o-rossijskom-pasporte-pobedivshego-na-dovyiborah-v-radu-aksenova.htm
+	set tags ukraina,rossia,bakanov_ivan.sbu,aksenov_andrej.doneck,vybory,grazhdanstvo
+page
+	set url https://strana.ua/opinions/327010-pojdja-po-puti-robespeera-zelenskij-neizbezhno-poluchit-svoj-termidor.html
+	set tags ukraina,obschestvo,rnbo,zelenskii_vladimir,termidor,revolucia,robespjer.maksimilian
+page
+	set url https://fraza.com/foto/299543-vandaly-atakovali-memorial-zhertvam-2-maja-v-odesse
+	set tags vandalizm,odessa,02.05.2014,ukraina,pamjat,tragedia,policia
+page
+	set url https://fraza.com/analytics/299513-vojna-do-pobednogo-zvonka-bajdena-
+	set tags ukraina,zelenskii_vladimir,biden_joe,zvonok,donbass,vojna,isteria,obschestvo
+page
+	set url https://www.istpravda.com.ua/articles/2021/04/6/159278/
+	set tags ukraina,istoria,slovo.ukraina,slovo,proishozhdenie
+page
+	set url http://ukrcentr.ru/novini/chitayemo-gogolya/
+	set tags rossia,ukraina,gogol_nikolai,literatura,chtenie,vstrecha,posolstvo.ukrainy.moskva,ukrcentr.moskva,kultura,moskva
 eof
 off
 page

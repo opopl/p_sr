@@ -18462,6 +18462,39 @@ page
 page
 	set url https://strana.ua/news/327234-vojna-na-donbasse-hlavnye-novosti-i-zajavlenija-ob-obostrenii-v-zone-oos.html
 	set tags ukraina,rossia,vojna,donbass,diplomatia,obostrenie,buzhanskii_maksim,strana_ua,geopolitika,homchak,vsu,peskov_dmitrii
+page
+	set url https://zen.yandex.ru/media/litovec/tainyi-smysl-russkih-slov-605b81cf21ea944a067da77b
+	set tags ra,slovo,jazyk,rusmir,lingvistika,razbor,solnce,rossia,kultura
+page
+	set url https://strana.ua/articles/interview/327367-datchanin-kotoryj-myl-shvabroj-okna-poezda-kiev-izmail-objasnil-zachem-eto-sdelal.html
+	set tags ukraina,ukrzaliznycia,shvabra,okno,grjaz',internet,socset,kiev,izmail
+page
+	set url https://strana.ua/news/327317-sternenko-na-svobode-posle-prihovora-za-razboj-vyshel-iz-sizo.html
+	set tags sternenko_sergei,sud,loh,ukraina,prigovor,arest,odessa,radikaly
+page
+	set url https://strana.ua/news/327335-ruzvelt-i-donald-kuk-chto-izvestno-ob-esmintsakh-ssha-v-chernom-more.html
+	set tags ukraina,rossia,flot,usa,chernomorskij_flot,korabl,black_sea,poroshenko_petr
+page
+	set url https://strana.ua/news/327110-biolaboratorii-ssha-v-ukraine-chto-o-nikh-izvestno.html
+	set tags ukraina,rossia,kitaj,biolaboratoria,covid
+page
+	set url https://strana.ua/opinions/327213-neprosto-nyneshnej-ukraine-sovpast-s-samoj-soboju.html
+	set tags ukraina,vezhlivost',obschestvo
+page
+	set url https://www.radiosvoboda.org/a/news-xomchak-rosija-donbas-nastup-dezinformacija/31195787.html
+	set tags ukraina,rossia,vojna,donbass,homchak
+page
+	set url https://www.pravda.com.ua/news/2021/04/9/7289665/
+	set tags rossia,sputnik_v,covid,vaccine,smert,pobochka
+page
+	set url http://lug-info.com/news/one/zhiteli-lnr-ne-veryat-chto-kiev-vypolnit-dogovorennosti-o-prekraschenii-ognya-obschestvennitsa-66441
+	set tags ukraina,lnr,kiev,donbass,vojna,nadezhda,obeschanie
+page
+	set url http://lug-info.com/news/one/luganskii-teatr-predstavil-premeru-misticheskogo-spektaklya-in-i-yan-chernaya-versiya-foto-66451
+	set tags lnr,lugansk,lgaki,premjera,spektakl,akunin_boris,fandorin_erast,kultura
+page
+	set url http://lug-info.com/news/one/vybory-deputatov-molodezhnogo-parlamenta-lnr-proidut-14-maya-predsedatel-vmik-foto-66444
+	set tags lnr,molodezh_parlament.lnr,vybory,molodezh,obschestvo
 eof
 off
 page

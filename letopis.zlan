@@ -18393,6 +18393,12 @@ on
 page
 	set url https://lb.ua/world/2021/04/09/481939_igor_zhovkva_ssha_dadut_nikomu.html
 	set tags ukraina,geopolitika,usa,rossia,britania,diplomatia,zelenskii_vladimir
+page
+	set url https://odessa.strana.ua/327215-v-odesse-mat-udarila-10-letneho-rebenka-skovorodkoj.html
+	set tags odessa,ukraina,policia,deti,kriminal,skovorodka,udar,mater,konflikt,semja,ozhog
+page
+	set url https://lvov.strana.ua/324031-dtp-vo-lvove-kryshka-ljuka-vletela-v-lobovoe-steklo-avto-i-ubila-rebenka.html
+	set tags ukraina,lvov,kryshka,ljuk,rebenok,smert,deti,dtp,avaria,avto
 eof
 off
 page

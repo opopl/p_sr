@@ -18525,6 +18525,12 @@ page
 page
 	set url https://zen.yandex.ru/media/librarian/neotvratimost-vtorogo-prishestviia-hrista-606d1462e2daae2990e5a439
 	set tags vera,cerkov,hristos,vtoroje_prishestvie,biblia
+page
+	set url https://news.obozrevatel.com/society/zelenskij-nagradil-medika-vsu-svetlanu-vyinesshuyu-ranenogo-iz-pod-obstrela-pod-shumami.htm
+	set tags ukraina,vojna,donbass,danilov_aleksei,zelenskii_vladimir,shumy.donbass.poselok,obstrel,spasenie
+page
+	set url https://analytics.hvylya.net/228536-bescelnaya-strana-ochey-razocharovane-azbuka-sistemnogo-socialnogo-proektirovaniya
+	set tags ukraina,obschestvo,nejtralitet,politika,strana,nacia,derzhava
 eof
 off
 page

@@ -18441,6 +18441,15 @@ page
 page
 	set url https://mir-lug.info/ns/v-pervomajske-i-kirovske-proshli-pokazy-rok-opery-raspyataya-yunost-inicziirovannye-deputatom-mihailom-golubovichem/
 	set tags opera,vojna,kultura,rock_opera,lnr,pervomajsk
+page
+	set url https://strana.ua/news/327268-u-zelenskoho-ne-sobirajutsja-deportirovat-rossijan-iz-kryma-posle-vozvrashchenija-eho-ukraine.html
+	set tags ukraina,krym,deokupacia,deportacia,rossia,russkie
+page
+	set url https://www.kp.ru/daily/27262/4394480/
+	set tags ukraina,kiev,karantin,stepanov_maksim,vaccinacia,obschestvo,klichko_vitalij,zelenskii_vladimir
+page
+	set url https://riakursk.ru/baton-i-podovyy-khleb-iz-kurskoy-oblasti-udostoilis-malogo-kubka-vserossiyskogo-konkursa/
+	set tags rossia,kursk,baton,hleb,konkurs,eda
 eof
 off
 page

@@ -18414,6 +18414,9 @@ page
 page
 	set url https://plus.obozrevatel.com/crime/gibel-rebenka-na-donbasse-nablyudateli-obse-pobyivali-na-meste-vzryiva.htm
 	set tags ukraina,donbass,vojna,rebenok,obse,aleksandrovskoje.donbass,shihov_vladislav.rebenok.donbass,smert
+page
+	set url https://strana.ua/news/327229-zapusk-rakety-s-korablem-sojuz-ms-18-s-kosmodroma-bajkonur-onlajn-transljatsija.html
+	set tags rossia,usa,zapusk,korabl.sojuz,roskosmos,kosmos,kosmonavt,bajkonur.kosmodrom
 eof
 off
 page

@@ -14830,7 +14830,6 @@ page
 page
 	set url https://strana.ua/news/324800-bajden-polzovalsja-shparhalkami-na-press-konferentsii.html
 	set tags usa,biden_joe,zhurnalist,shpargalka,bumaga,press_konferencia,kitaj,starik
-on
 page
 	set url https://blogs.korrespondent.net/blog/world/4341587/
 	set tags ulybka,psihologia,ukraina,ekonomika,pokupka,dengi,finansy
@@ -18390,6 +18389,10 @@ page
 page
 	set url https://ukraina.ru/opinion/20210409/1031084023.html
 	set tags ukraina,oruzhie,otvetstvennost',muraev_evgenii,butusov_jurij,donbass,vojna,obezjana,granata,obschestvo
+on
+page
+	set url https://lb.ua/world/2021/04/09/481939_igor_zhovkva_ssha_dadut_nikomu.html
+	set tags ukraina,geopolitika,usa,rossia,britania,diplomatia,zelenskii_vladimir
 eof
 off
 page

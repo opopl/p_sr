@@ -18432,6 +18432,15 @@ page
 page
 	set url https://lgaki.info/novosti/rossijskie-vuzy-partnery-pozdravlyayut-akademiyu-matusovskogo-s-19-letiem/
 	set tags lnr,lgaki,pozdravlenie,19_let,rossia,godovschina,obrazovanie,kultura,muzyka
+page
+	set url http://www.lgpu.org/news/7999-nauchnoy-shkole-tatyany-roters-ispolnilos-25-let.html
+	set tags lgpu,lnr,lugansk,nauka
+page
+	set url https://mir-lug.info/novosti-terotdelenij/aktivisty-posyolka-chervonogvardejskoe-peredali-knigi-v-mestnuyu-biblioteku/
+	set tags aktivist,biblioteka,kniga,lnr,mir_luganschine,volonter,molodezh,deti,chtenie
+page
+	set url https://mir-lug.info/ns/v-pervomajske-i-kirovske-proshli-pokazy-rok-opery-raspyataya-yunost-inicziirovannye-deputatom-mihailom-golubovichem/
+	set tags opera,vojna,kultura,rock_opera,lnr,pervomajsk
 eof
 off
 page

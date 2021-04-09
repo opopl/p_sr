@@ -18417,6 +18417,21 @@ page
 page
 	set url https://strana.ua/news/327229-zapusk-rakety-s-korablem-sojuz-ms-18-s-kosmodroma-bajkonur-onlajn-transljatsija.html
 	set tags rossia,usa,zapusk,korabl.sojuz,roskosmos,kosmos,kosmonavt,bajkonur.kosmodrom
+page
+	set url https://zaxid.net/viyna_chi_mir_n1517097
+	set tags ukraina,rossia,vojna,podgotovka
+page
+	set url https://vz.ru/world/2021/4/9/1093664.html
+	set tags ukraina,rossia,russofobia,signal,vojna,donbass
+page
+	set url https://www.radiosvoboda.org/a/vlada-vs-aktyvisty/31191742.html
+	set tags ukraina,aktivist,maidan2,protest,psihologia,mentalitet,nacia,narod,obschestvo
+page
+	set url https://lgaki.info/novosti/studenty-akademii-matusovskogo-otmetili-19-letie-vuza-fleshmobom-ptitsy-vozvrashhayutsya-domoj/
+	set tags lnr,lugansk,ptica,dom,vozvraschenie,lgaki,19_let,kultura,obrazovanie,muzyka
+page
+	set url https://lgaki.info/novosti/rossijskie-vuzy-partnery-pozdravlyayut-akademiyu-matusovskogo-s-19-letiem/
+	set tags lnr,lgaki,pozdravlenie,19_let,rossia,godovschina,obrazovanie,kultura,muzyka
 eof
 off
 page

@@ -18453,6 +18453,15 @@ page
 page
 	set url https://dnr-hotline.ru/20210405-dvenadcatiletnjaja-shkolnica-iz-luganska-napisala-misticheskij-roman/
 	set tags dnr,literatura,savenkova_faina,donbass,kultura,kniga,dobro,zlo,dusha,deti,vojna,ukraina,2014
+page
+	set url https://strana.ua/news/327304-koroleva-bez-opory-i-razhovory-o-naslednike-chto-izmenit-smert-printsa-filippa.html
+	set tags britania,elizaveta_II_koroleva,traur,princ_fillip.suprug_korolevy_elizavety,smert,monarhia,world
+page
+	set url https://strana.ua/articles/analysis/327272-kvartal-95-prodaet-shou-i-serialy-v-rossiju-v-obkhod-sanktsij-snbo.html
+	set tags kvartal95,ukraina,jumor,rossia,zelenskii_vladimir,sankcii,kultura,tv,serial
+page
+	set url https://strana.ua/news/327234-vojna-na-donbasse-hlavnye-novosti-i-zajavlenija-ob-obostrenii-v-zone-oos.html
+	set tags ukraina,rossia,vojna,donbass,diplomatia,obostrenie,buzhanskii_maksim,strana_ua,geopolitika,homchak,vsu,peskov_dmitrii
 eof
 off
 page

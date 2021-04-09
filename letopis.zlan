@@ -18399,6 +18399,21 @@ page
 page
 	set url https://lvov.strana.ua/324031-dtp-vo-lvove-kryshka-ljuka-vletela-v-lobovoe-steklo-avto-i-ubila-rebenka.html
 	set tags ukraina,lvov,kryshka,ljuk,rebenok,smert,deti,dtp,avaria,avto
+page
+	set url https://strana.ua/news/327236-zelenskij-na-donbasse-9-aprelja-prezident-pobyval-v-avdeevke.html
+	set tags zelenskii_vladimir,ukraina,donbass,utro,avdeevka.donbass
+page
+	set url https://strana.ua/news/327195-zelenskij-na-donbasse-trebovanija-ukrainskoho-posla-k-merkel-lokdaun-do-10-maja.html
+	set tags ukraina,germania,melnik_andrei,merkel_angela,putin_vladimir,rossia,vojna,donbass,geopolitika,diplomatia,itogi
+page
+	set url https://fraza.com/blog/293533-skoro-russkojazychnye-ukraintsy-stanut-prosto-russkimi
+	set tags ukraina,mova,jazyk,shkola,ukrainizacia
+page
+	set url https://fraza.com/news/299571-klichko-hochet-pokazat-kievljanam-kak-roditeli-horonjat-detej-i-iz-bolnits-vyvozjat-trupy
+	set tags ukraina,kiev,klichko_vitalij,smert,karantin,covid
+page
+	set url https://plus.obozrevatel.com/crime/gibel-rebenka-na-donbasse-nablyudateli-obse-pobyivali-na-meste-vzryiva.htm
+	set tags ukraina,donbass,vojna,rebenok,obse,aleksandrovskoje.donbass,shihov_vladislav.rebenok.donbass,smert
 eof
 off
 page

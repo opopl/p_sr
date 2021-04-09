@@ -18501,6 +18501,9 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210409/1031069727.html
 	set tags ukraina,prizyv,voenkomat,armia,vsu
+page
+	set url http://lug-info.com/news/one/pochta-lnr-vvedet-v-obraschenie-blok-marok-k-60-letiyu-so-dnya-pervogo-poleta-v-kosmos-66443
+	set tags lnr,pochta,kosmos,kosmonavtika,gagarin_jurij,marka,12_apr,kosmonavt
 eof
 off
 page

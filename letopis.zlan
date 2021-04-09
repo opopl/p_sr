@@ -18495,6 +18495,12 @@ page
 page
 	set url http://lug-info.com/news/one/vybory-deputatov-molodezhnogo-parlamenta-lnr-proidut-14-maya-predsedatel-vmik-foto-66444
 	set tags lnr,molodezh_parlament.lnr,vybory,molodezh,obschestvo
+page
+	set url https://teleskop-by.org/2020/04/28/detskij-smeh-pobedy/
+	set tags smeh,deti,pobeda,literatura,savenkova_faina,rusmir
+page
+	set url https://ukraina.ru/exclusive/20210409/1031069727.html
+	set tags ukraina,prizyv,voenkomat,armia,vsu
 eof
 off
 page

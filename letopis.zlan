@@ -18588,6 +18588,42 @@ page
 page
 	set url https://news.obozrevatel.com/society/novosti-iz-zonyi-sinka-i-nischeta-druzya-vojnyi-i-smerti.htm
 	set tags ukraina,vojna,donbass,obschestvo,nischeta
+page
+	set url https://fraza.com/news/299625-predstojatel-upts-rasskazal-o-monahe-podvig-kotorogo-on-pomnit-vsju-zhizn
+	set tags ukraina,onufrii_mitropolit,monah,podvig,vera,cerkov,pravoslavie,upc,afon,lavra.troice_sergieva,rusmir
+page
+	set url https://zaxid.net/zelenskiy_uzurpator_n1517158
+	set tags ukraina,zelenskii_vladimir,uzurpator,rnbo,vlast,obschestvo,ksu,konstitucia
+page
+	set url https://strana.ua/news/327439-rossija-sozdaet-novuju-vaktsinu-ot-koronavirusa.html
+	set tags rossia,covid,vaccine,razrabotka,issledovanie,nauka,medicina
+page
+	set url https://www.radiosvoboda.org/a/feature-subotnyeintervyu-oleksiy-arestovych/31196730.html
+	set tags rossia,ukraina,nastuplenie,ataka,armia,vsu,vojna,arestovich_aleksei,interview,donbass
+page
+	set url https://strana.ua/news/327436-predprinimateli-v-varshave-protestujut-v-hodovshchinu-hibeli-kachinskoho.html
+	set tags rossia,varshava,polsha,godovschina,11_let,katastrofa.smolensk.2010,protest,predprinimatel,policia
+page
+	set url http://lug-info.com/news/one/bolee-dvukh-tysyach-chelovek-iz-lnr-i-rf-stali-uchastnikami-x-konkursa-vdokhnovenie-lgaki-foto-66461
+	set tags lnr,lugansk,lgaki,konkurs,rossia,kultura
+page
+	set url http://lug-info.com/news/one/okolo-100-sportsmenov-prinyali-uchastie-v-turnire-i-pervenstve-lnr-po-skalolazaniyu-foto-66458
+	set tags lnr,lugansk,sport,alpinizm,sorevnovanie,skalolazanie
+page
+	set url https://zen.yandex.ru/media/id/5f1e6e299c59eb5be3f0a9f0/paren-plakal-i-govoril-chto-on-iz-buduscego-ia-emu-poverila-6060b71f973e17400ae679c9
+	set tags rossia,buduschee,rasskaz,vremja,obschestvo
+page
+	set url http://lug-info.com/news/one/kontrabandisty-iz-brigady-vsu-ubili-inspektora-natspolitsii-v-zone-oos-narodnaya-militsiya-66459
+	set tags ukraina,donbass,vojna,vsu,murder,smert,lnr,nm_lnr,kontrabanda,sbu,policia
+page
+	set url https://www.kp.ru/daily/27258/4390324/?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags rossia,krym,zhizn,obschestvo,ukraina
+page
+	set url https://zen.yandex.ru/media/etnogeo/russkie-krasavicy-iz-provincii--naturalnaia-krasota-i-zolotoi-genofond-strany-21-foto-606ed5131a4fdc43eb7b3388
+	set tags rossia,devushka,krasota,provincia,genofond,zoloto
+page
+	set url https://www.kp.ru/daily/27257/4389488/?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags rossia,ukraina,donbass,ljubov,nenavist,stihi,morits_junna
 eof
 off
 page

@@ -18558,6 +18558,33 @@ page
 page
 	set url https://www.pravda.com.ua/rus/articles/2021/02/7/7282519/
 	set tags ukraina,ostrov_ellis,svoboda,rodina_mat.kiev,usa,new_york,immigrant,obschestvo,zapad
+page
+	set url https://life.pravda.com.ua/society/2009/12/23/36056/view_print/
+	set tags shkljar_vasyl.pisatel.ukr,ukraina,rossia,istoria,literatura,kultura,kniga,holodnyj_jar,unr
+page
+	set url https://tsn.ua/analitika/ya-vidpuskayu-krim.html
+	set tags krym,ukraina,rossia
+page
+	set url https://www.pravda.com.ua/podcasts/5fe09327ab7f3/2021/04/9/7289632/
+	set tags ukraina,zhizn,smert,obschestvo,vranje,chelovek
+page
+	set url https://kiev.strana.ua/327446-na-stantsii-metro-majdan-nezavisimosti-nashli-dve-boevye-hranaty.html
+	set tags ukraina,metro,granata,kiev,passazhir,policia
+page
+	set url https://strana.ua/news/327398-datchanin-kotoryj-vymyl-okno-poezda-skazal-chto-dumaet-o-rabote-leshchenko-v-ukrzaliznytse.html
+	set tags ukrzaliznycia,shvabra,ukraina,poezd,chistota
+page
+	set url https://strana.ua/opinions/327403-my-uzhe-nakhlebalis-schastja-ot-neobrazovannykh-ljudej-naverkhu.html
+	set tags ukraina,obschestvo,elita,strana
+page
+	set url https://strana.ua/opinions/327431-pochemu-lidery-obshchestvennoho-mnenija-ljubjat-propahandirovat-vojnu.html
+	set tags ukraina,vojna,obschestvo,propaganda,liderstvo
+page
+	set url https://fraza.com/fraze/299530-aleksandr-petrulevich
+	set tags ukraina,donbass,obschestvo,zhizn,putin_vladimir,rossia
+page
+	set url https://fraza.com/analytics/299572-odessa-zhizn-v-okkupatsii
+	set tags ukraina,rossia,odessa,istoria,sssr,okupacia,1941,1944,10_apr,vov,nacizm,romania,germania,issledovanie,kniga
 eof
 off
 page

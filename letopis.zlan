@@ -18549,6 +18549,15 @@ page
 page
 	set url https://strana.ua/news/324869-ukraintsu-vypisali-shtraf-za-nakhozhdenie-na-ulitse-bez-dokumentov-vo-vremja-karantina.html
 	set tags ukraina,sud,passport,shtraf,apeljacia,policia,karantin,covid
+page
+	set url https://www.pravda.com.ua/articles/2021/04/10/7289691/
+	set tags ukraina,obschestvo,nacia,derzhava,istoria,sssr,rossia,rusimperia,rusmir
+page
+	set url https://www.pravda.com.ua/rus/articles/2021/01/16/7280100/
+	set tags getto,jazyk,ukrainizacia,ukraina,mova,obschestvo,nacia
+page
+	set url https://www.pravda.com.ua/rus/articles/2021/02/7/7282519/
+	set tags ukraina,ostrov_ellis,svoboda,rodina_mat.kiev,usa,new_york,immigrant,obschestvo,zapad
 eof
 off
 page

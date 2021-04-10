@@ -18537,6 +18537,18 @@ page
 page
 	set url https://strana.ua/news/327392-v-chernobylskom-zapovednike-pokazali-ptitsu-horikhvostku-chernushku.html
 	set tags ukraina,chernobyl,ptica,zapovednik,redkost',priroda
+page
+	set url https://kiev.strana.ua/327388-v-vishnevom-otyskali-muzhchinu-kotoryj-otobral-mobilnyj-telefon-u-devochki.html
+	set tags ukraina,vishnevoje.kiev,grabitel,kriminal,devochka,deti,prokuratura,kiev
+page
+	set url https://lvov.strana.ua/324956-video-vo-lvove-devochka-dohnala-i-pomohla-zaderzhat-hrabitelja-s-telefonom.html
+	set tags ukraina,lvov,kriminal,devochka,grabitel,telefon,policia,washington
+page
+	set url https://strana.ua/news/324908-sud-oshtrafoval-mat-prohulshchika-propustivsheho-pochti-700-urokov.html
+	set tags ukraina,lvov_oblast',lvov,shtraf,mater,deti,shkola,urok,progulivanie
+page
+	set url https://strana.ua/news/324869-ukraintsu-vypisali-shtraf-za-nakhozhdenie-na-ulitse-bez-dokumentov-vo-vremja-karantina.html
+	set tags ukraina,sud,passport,shtraf,apeljacia,policia,karantin,covid
 eof
 off
 page

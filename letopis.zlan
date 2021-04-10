@@ -18585,6 +18585,9 @@ page
 page
 	set url https://fraza.com/analytics/299572-odessa-zhizn-v-okkupatsii
 	set tags ukraina,rossia,odessa,istoria,sssr,okupacia,1941,1944,10_apr,vov,nacizm,romania,germania,issledovanie,kniga
+page
+	set url https://news.obozrevatel.com/society/novosti-iz-zonyi-sinka-i-nischeta-druzya-vojnyi-i-smerti.htm
+	set tags ukraina,vojna,donbass,obschestvo,nischeta
 eof
 off
 page

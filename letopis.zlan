@@ -18531,6 +18531,12 @@ page
 page
 	set url https://analytics.hvylya.net/228536-bescelnaya-strana-ochey-razocharovane-azbuka-sistemnogo-socialnogo-proektirovaniya
 	set tags ukraina,obschestvo,nejtralitet,politika,strana,nacia,derzhava
+page
+	set url https://strana.ua/news/327160-den-bratev-i-sester-10-aprelja-otkrytki-i-kartinki-s-prazdnikom.html
+	set tags obschestvo,chelovek,prazdnik,brat,sestra,10_apr,pozdravlenie,otkrytka
+page
+	set url https://strana.ua/news/327392-v-chernobylskom-zapovednike-pokazali-ptitsu-horikhvostku-chernushku.html
+	set tags ukraina,chernobyl,ptica,zapovednik,redkost',priroda
 eof
 off
 page

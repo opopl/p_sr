@@ -18720,6 +18720,9 @@ page
 page
 	set url http://lug-info.com/news/one/boets-vsu-pogib-podorvavshis-na-ukrainskoi-mine-narodnaya-militsiya-66473
 	set tags vsu,teperik_andrej.vsu.soldat,smert,nm_lnr,lnr,sbu,ukraina,vojna,donbass,mina
+page
+	set url https://gorod48.ru/news/265836/
+	set tags teperik_andrej.rossia,chechnja,rossia,vojna,smert,omon,lipeck,dagestan,bojevik
 eof
 off
 page

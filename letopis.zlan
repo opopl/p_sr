@@ -18624,6 +18624,81 @@ page
 page
 	set url https://www.kp.ru/daily/27257/4389488/?utm_referrer=https%3A%2F%2Fzen.yandex.com
 	set tags rossia,ukraina,donbass,ljubov,nenavist,stihi,morits_junna
+page
+	set url https://zen.yandex.ru/media/id/5eeaf725a3dca453cfdd4b58/mihail-zadornov-o-russkih-vedah-i-iumore-v-iazyke-i-iazycheskoi-tradicii-604466c358285736dd575bee
+	set tags zadornov_mihail,tradicii,kultura,rusmir,asov_aleksandr,rossia,istoria,slavjane,mifologia,mify,mif,drevnost',skazka
+page
+	set url https://zen.yandex.ru/media/russiandino/kak-polikarp-ilich-v-kiev-k-bratu-ezdil--aleksandr-oleksiuk-603bc3596cd9133fa6f80c25
+	set tags rasskaz,kiev,ukraina,literatura,rusmir,kultura,brat,poezd
+page
+	set url https://zen.yandex.ru/media/sdelanounas.ru/rossiia-osvoila-esce-odnu-tehnologiiu-a-ukraine-ostalis-kastriuli-601b8fd2c5e03772695dda1c
+	set tags ukraina,rossia,proizvodstvo,sitall.material,nauka,vladimirec.gorod.ukr,zameschenie,sssr
+page
+	set url https://www.championat.com/boxing/news-4309799-tim-czyu-privet-rossii-my-russkie.html
+	set tags rossia,sport,boks,russkie
+page
+	set url https://strana.ua/sport/327536-zhena-chempiona-evropy-dmitrija-chumaka-pozdravila-muzha-s-pobedoj-na-sorevnovanijakh.html
+	set tags moskva,rossia,pobeda,chempionat,ukraina,stih,chumak_dmitrij.atlet.ukr
+page
+	set url https://strana.ua/sport/326370-ukrainka-kamila-konotop-stala-absoljutnoj-chempionkoj-evropy-po-tjazheloj-atletike.html
+	set tags atletika.tjazhelaja,chempionat,moskva,rossia,ukraina,pobeda,konotop_kamila.ukr.tjazh_atlet
+page
+	set url https://strana.ua/articles/interview/327284-aleksandr-onishchenko-rasskazal-kak-zhivet-i-chem-zanimaetsja-v-uzbekistane.html
+	set tags ukraina,onischenko_aleksandr.ukr.biznesman,uzbekistan,interview,sankcii,korupcia,poroshenko_petr
+page
+	set url https://strana.ua/news/327538-sanktsii-protiv-rossii-v-evrope-nazvali-uslovija-uzhestochenija.html
+	set tags ukraina,rossia,evroparlament,evropa,sankcii,swift,vojna,donbass,navalny
+page
+	set url https://strana.ua/opinions/327451-o-vojne-est-tri-obsuzhdaemye-versii-toho-chto-sejchas-proiskhodit.html
+	set tags ukraina,rossia,vojna,analiz,gushva_igor,zapad,geopolitika
+page
+	set url https://strana.ua/opinions/327434-pri-zelenskom-my-okonchatelno-poterjali-ldnr-i-ljudej-tam-zhivushchikh.html
+	set tags ukraina,vojna,donbass,zelenskii_vladimir,analiz,rossia,danilov_aleksei,mudozvon,rnbo,nato,zapad,usa
+page
+	set url https://zen.yandex.ru/media/tsaler/pesnia-viktora-coia-na-koreiskom-iazyke-5ffb656cd1a90641cab274d1
+	set tags coi_viktor,pesnja,korea,kultura,showbiz,muzyka,rossia,russkie,rusmir,tashkent
+page
+	set url https://zen.yandex.ru/media/id/5eeaf725a3dca453cfdd4b58/a-bylo-li-krescenie-kniagini-olgi-5f1a858f2405822ad5abef3b
+	set tags rossia,rusmir,istoria,kievrus,vera,kreschenie,olga_knjaginja,legenda,vopros,drevrus
+page
+	set url https://www.championat.com/football/article-4296625-rossijskij-arbitr-sergej-karasyov-ne-stal-uchastvovat-v-akcii-blm-v-matche-lch-manchester-siti-borussiya-reakciya.html
+	set tags rossia,britania,anglia,sudja,futbol,koleno,black_lives_matter,russkie,rusmir,sport
+page
+	set url https://yandex.ru/turbo/regnum.ru/s/news/3238880.html
+	set tags ukraina,rossia,donbass,vojna,zelenskii_vladimir,avdeevka.donbass,sharij_analotij,interview,youtube,obschestvo,mir
+page
+	set url https://odessa.strana.ua/327518-10-aprelja-v-odesse-proshlo-prazdnovanie-osvobozhdenija-horoda.html
+	set tags odessa,ukraina,osvobozhdenie,pamjat,vov,nacizm,prazdnovanie,godovschina,1944,10_apr
+page
+	set url https://odessa.strana.ua/327517-v-odesse-sostojalsja-mitinh-protiv-zavyshennykh-kommunalnykh-tarifov.html
+	set tags ukraina,pesnja,tarify,protest,odessa,10_apr,miting
+page
+	set url https://zaxid.net/na_luganshhini_vnaslidok_obstrilu_zaginuv_ukrayinskiy_boyets_n1517191
+	set tags vojna,donbass,ukraina,smert,obstrel
+page
+	set url http://lug-info.com/news/one/rukovoditel-pervogo-v-lnr-molodezhnogo-kanala-tim-eto-komanda-zhelayuschaya-tvorit-foto-66448
+	set tags lnr,lugansk,tv,kanal_tim.lnr,smeh,jumor,radost',kultura,telekanal
+page
+	set url http://lug-info.com/news/one/organizatory-prezentovali-nachalo-raboty-v-lnr-molodezhnogo-internet-televideniya-62311
+	set tags lnr,tv,molodezh,internet,youtube,kultura
+page
+	set url https://news.obozrevatel.com/politics/yaremenko-poklonskaya-predatelnitsa-ona-vtorosortnaya-v-rossii-kak-i-drugie-ukraintsyi-kotoryie-predali-stranu-v-2014-m.htm
+	set tags ukraina,krym,rossia,future,vossoedinenie,reznikov_aleksei,okupacia
+page
+	set url https://news.obozrevatel.com/politics/nelzya-dogovoritsya-s-gopnikom.htm
+	set tags ukraina,gopnik,ludoed,rossia,vojna,donbass,peregovory,dogovor
+page
+	set url http://lug-info.com/news/one/pozdravlenie-miroshnichenko-spikeru-gosudarstvennogo-soveta-kryma-s-dnem-konstitutsii-66447
+	set tags donbass,lnr,ns_lnr,miroshnichenko_denis.lnr,pozdravlenie,vossoedinenie,krym,rossia,2014,rusvesna,konstitucia
+page
+	set url https://strana.ua/opinions/327435-shchupaltsa-instituta-natspamjati-dotjanulis-do-ukrainskoj-diplomatii.html
+	set tags ukraina,diplomatia,nacizm,lekcia,institut_nacpamjati,podobed_pavlo
+page
+	set url https://strana.ua/opinions/327418-ukraina-stala-stranoj-falshivok-v-zakone.html
+	set tags ukraina,rossia,zakon,falshivka,torgovlja,papik,zelenskii_vladimir,kultura,showbiz,obschestvo
+page
+	set url https://kiev.strana.ua/327556-pozhar-v-kieve-na-troeshchine-pytalis-szhech-travu.html
+	set tags kiev,ukraina,pozhar,trava,troeschina.kiev,dym
 eof
 off
 page

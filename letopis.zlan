@@ -18726,6 +18726,60 @@ page
 page
 	set url https://www.radiosvoboda.org/a/pochayivska-lavra-monastyr/31191614.html
 	set tags rusmir,lavra.pochaev,ukraina,cerkov,ugkc,vera,istoria
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-i-diyi-ta-zayavy-kremlia/31196590.html
+	set tags ukraina,rossia,zapad,vojna,donbass
+page
+	set url https://strana.ua/articles/istorii/327587-den-kosmonavtiki-12-aprelja-pochemu-sssr-operedil-ssha-na-zare-kosmicheskoj-ery.html
+	set tags gagarin_jurij,korolev_sergei,kosmonavt,kosmonavtika,kosmos,zemlja,planeta,12_apr,1961,sssr,istoria
+page
+	set url https://www.pravda.com.ua/news/2021/04/11/7289820/
+	set tags ukraina,rossia,sport,medal'
+page
+	set url https://life.pravda.com.ua/culture/2021/04/11/244497/
+	set tags ukraina,obschestvo,zhizn
+page
+	set url https://analytics.hvylya.net/228632-kratko-o-polozhenii-ukrainy-nakanune-novoy-ataki-rossii
+	set tags ukraina,rossia,vojna,donbass,vtorzhenie,ataka,putin_vladimir,future,obschestvo
+page
+	set url https://www.roscosmos.ru/30690/
+	set tags diktant,kosmos,kosmonavtika,rossia,roskosmos,aviacia,den'_kosmonavtiki,sssr,1961,12_apr,60_let
+page
+	set url https://gazeta.ua/blog/54894/zivuchi-poruch-zi-skazhenim-psom-ne-varto-govoriti-pro-mir-za-vsyaku-cinu
+	set tags ukraina,rossia,vojna,donbass,chudo,mir
+page
+	set url https://telegraf.com.ua/ukr/pozdravleniya/5629474-z-dnem-kosmonavtiki-krasivi-listivki-i-privitannya-ukrayinskoyu-na-svyato.html
+	set tags ukraina,den'_kosmonavtiki,pozdravlenie,prazdnik,kuchma_leonid,1997,1961,korolev_sergei,12_apr,sssr,kosmos,kosmonavtika,kosmonavt,gagarin_jurij
+page
+	set url https://vz.ru/opinions/2021/4/11/1093613.html
+	set tags donbass,vojna,ukraina,russkij_donbass.doktrina,rossia,obschestvo,zhizn,future
+page
+	set url https://news.obozrevatel.com/sport/sport/ukraina-v-moskve-vyiigrala-chempionat-evropyi-po-tyazheloj-atletike.htm
+	set tags ukraina,moskva,atletika.tjazhelaja,sport,pobeda,rossia
+page
+	set url http://lug-info.com/news/one/pervyi-etap-chempionata-lnr-po-ralli-sobral-17-ekipazhei-iz-respubliki-dnr-i-rossii-foto-66476
+	set tags chempionat,dnr,lnr,sport,rossia,avto,avroralli
+page
+	set url https://ukraina.ru/opinion/20210411/1031101974.html
+	set tags rusmir,ukrmir,ukraina,rossia,kievrus
+page
+	set url https://ukraina.ru/news/20210411/1031103397.html
+	set tags pochta,marka,donbass,kosmonavtika,gagarin_jurij
+page
+	set url https://ukraina.ru/exclusive/20210411/1031058469.html
+	set tags nacizm,ukraina,virus,nacionalizm,obschestvo,epidemia
+page
+	set url https://ukraina.ru/exclusive/20210411/1031088171.html
+	set tags ukraina,cherkassy,vymiranie,shevchenko_taras,kanev,gajdar_arkadij,istoria
+page
+	set url https://ukraina.ru/exclusive/20210411/1031058399.html
+	set tags ukraina,obschestvo,psihologia,zhizn,kriminal
+page
+	set url https://strana.ua/news/327534-konsultativnyj-sovet-pri-zelenskom-dlja-zashchity-sternenko-i-druhikh-aktivistov-chto-o-nem-izvestno.html
+	set tags ukraina,zelenskii_vladimir,aktivist,veteran,ato,zaschita
+page
+	set url https://strana.ua/news/327569-kommentarij-julii-mendel-o-hrazhdanskoj-vojne-vyzval-debaty-v-sotssetjakh.html
+	set tags civil_war,mendel_julia,ukraina,skandal,socset,internet,english
 eof
 off
 page

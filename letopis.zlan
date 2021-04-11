@@ -18699,6 +18699,27 @@ page
 page
 	set url https://kiev.strana.ua/327556-pozhar-v-kieve-na-troeshchine-pytalis-szhech-travu.html
 	set tags kiev,ukraina,pozhar,trava,troeschina.kiev,dym
+page
+	set url https://strana.ua/news/317733-video-pozhar-v-apteke-ivano-frankovska-prokhozhie-tushili-snezhkami.html
+	set tags ukraina,pozhar
+page
+	set url https://strana.ua/opinions/327580-evromajdan-prevratil-natsistov-v-neprikosnovennuju-kastu.html
+	set tags ukraina,feodalizm,sternenko_sergei,sud,aktivist,maidan2,russkaja_pravda.kievrus,1588,mariupol,ato,nacionalist
+page
+	set url http://lug-info.com/news/one/rukovoditel-priyuta-dai-lapu-nadezhda-sukhoplyueva-plany-est-na-meste-stoyat-ne-budem-foto-66455
+	set tags lnr,lugansk,sobaka,prijut.sobaki,2009
+page
+	set url https://plus.obozrevatel.com/crime/paranojya-kremlya-zachem-moskva-ubezhdaet-mir-vo-vzryivoopasnosti-ukrainyi.htm
+	set tags rossia,ukraina,vojna,donbass,kreml
+page
+	set url https://news.obozrevatel.com/society/geroinya-fejka-o-raspyatom-malchike-rasskazala-o-travle-i-zhizni-v-rossii-video.htm
+	set tags rossia,fejk,vojna,donbass
+page
+	set url https://plus.obozrevatel.com/crime/stalo-izvestno-imya-voina-vsu-pogibshego-na-donbasse-foto-geroya.htm
+	set tags donbass,vojna,rossia,ukraina,smert,teperik_andrej.vsu.soldat
+page
+	set url http://lug-info.com/news/one/boets-vsu-pogib-podorvavshis-na-ukrainskoi-mine-narodnaya-militsiya-66473
+	set tags vsu,teperik_andrej.vsu.soldat,smert,nm_lnr,lnr,sbu,ukraina,vojna,donbass,mina
 eof
 off
 page

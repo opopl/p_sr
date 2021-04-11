@@ -18723,6 +18723,9 @@ page
 page
 	set url https://gorod48.ru/news/265836/
 	set tags teperik_andrej.rossia,chechnja,rossia,vojna,smert,omon,lipeck,dagestan,bojevik
+page
+	set url https://www.radiosvoboda.org/a/pochayivska-lavra-monastyr/31191614.html
+	set tags rusmir,lavra.pochaev,ukraina,cerkov,ugkc,vera,istoria
 eof
 off
 page

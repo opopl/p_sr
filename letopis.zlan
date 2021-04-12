@@ -19088,6 +19088,51 @@ page
 page
 	set url https://www.riakursk.ru/v-kurskoy-oblasti-zavershilas-seriya-kosmicheskikh-subbotnikov/
 	set tags kursk,rossia,alleja,kosmos,den'_kosmonavtiki,subbotnik,deti,shkola,priroda
+page
+	set url https://strana.ua/news/327760-zelenskij-na-peredovoj-behaet-ot-pul-video-cnn.html
+	set tags zelenskii_vladimir,vojna,donbass,rossia,ukraina,cnn,zhurnalist,peredovaja
+page
+	set url https://strana.ua/news/327803-skolko-nuzhno-vremeni-dlja-razrabotki-vaktsiny-protiv-novykh-shtammov-koronavirusa.html
+	set tags rossia,vaccine,covid,nauka,medicina
+page
+	set url https://strana.ua/news/327773-foto-fasad-upravlenija-estetiki-khersonskoho-horsoveta.html
+	set tags razrushenie,razruha,herson,ukraina,narkotiki
+page
+	set url https://strana.ua/news/327797-rossija-postroit-cherez-territorii-monholii-hazoprovod-sojuz-vostok-v-kitaj.html
+	set tags rossia,kitaj,gazoprovod,dogovor
+page
+	set url https://lenta.ru/news/2021/04/12/honestpoliceman/
+	set tags rossia,smert,gosavtoinspekcia,vzjatka
+page
+	set url https://vashurok.ru/articles/2021-02-18-iskonnye-znacheniya-rus
+	set tags slovo,rusmir,rossia,drevrus
+page
+	set url https://zen.yandex.ru/media/antispam_1/skazka-o-poslednem-srajenii-ra-v-rossii-6023a7a653b5a470dce1c347
+	set tags skazka,srazhenie,ra,rossia
+page
+	set url https://zen.yandex.ru/media/molva/drevneishii-gorod-otkuda-poshla-zemlia-russkaia-za-1000-let-on-izmenilsia--seichas-eto-derevnia-s-800-jitelei-60006ac04e913f17589b6334
+	set tags izborsk,rossia,turizm,drevrus,letopis,letopis.pvl,istoria,rusmir
+page
+	set url https://zen.yandex.ru/media/id/5e1e1dd3a1bb8700b0178a97/fortifikaciia-moskalskaia-nauka-606f36a68ba13d0d04f395dc
+	set tags ukraina,donbass,vojna,okopy,zelenskii_vladimir,fortifikacia,moskal
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/bol-bytiia-raspiataia-rossiia-6065416290a39866e4bbf23d
+	set tags rossia,vera,bog,poezia
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/prishestvie-caria-carei-606e8938f3166604d15b082d
+	set tags slovo,vera,mudrost,hristos,prishestvie
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/misteriia-spaseniia-zemli-rossiia-vpered-605eb4313d911e18a5609290
+	set tags spasenie,zemlja,planeta
+page
+	set url https://zen.yandex.ru/media/id/5e1e1dd3a1bb8700b0178a97/sviatye-vesci-603d2b0ad0059933993c8396
+	set tags ukraina,flag,krym
+page
+	set url https://zen.yandex.ru/media/id/5e1e1dd3a1bb8700b0178a97/godovscina-gydotnosti-6032a61e2dc5795636ed1305
+	set tags revgidnosti,rogovceva_ada,ukraina,godovschina,7_let,maidan2
+page
+	set url https://zen.yandex.ru/media/id/5e1e1dd3a1bb8700b0178a97/gde-oni-i-gde-eta-rossiiskaia-ljenauka-logika-5feb71eaadb1796a08b90000
+	set tags ukraina,flag,krym,borsch,vaccine,covid,sputnik_v
 eof
 off
 page

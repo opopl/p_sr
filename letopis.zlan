@@ -18813,6 +18813,67 @@ page
 page
 	set url https://strana.ua/news/327648-google-opublikoval-video-o-jurii-haharine.html
 	set tags google,gagarin_jurij,sssr,istoria,kosmos,den'_kosmonavtiki
+page
+	set url https://strana.ua/news/324030-raketa-sojuz-otpravilas-na-orbitu-s-38-sputnikami.html
+	set tags rossia,kosmos,bajkonur.kosmodrom,zapusk,sputnik
+page
+	set url https://strana.ua/news/327675-haharin-v-ukraine-foto-kosmonavta-iz-kieva-hde-on-pobyval-v-1966-hodu.html
+	set tags gagarin_jurij,kiev,ukraina,vizit,1966,23_apr,franko_ivan,hmelnickii_bogdan
+page
+	set url https://112ua.tv/glavnye-novosti/shestdesyat-let-nazad-gagarin-skazal-poehali-ili-kak-108-minut-navsegda-izmenili-mir-573776.html
+	set tags gagarin_jurij,sssr,istoria,kosmos,kosmonavtika,den'_kosmonavtiki
+page
+	set url https://sharij.net/obrashhenie-gagarina-ko-dnyu-kosmonavtiki-ozhivili-i-raskrasili-s-pomoshhyu-nejroseti
+	set tags gagarin_jurij,sssr,istoria,den'_kosmonavtiki,obraschenie
+page
+	set url https://gazeta.ua/blog/54897/osterigatisya-varto-ne-tak-tisyachi-bagnetiv-yak-kilkoh-gazet
+	set tags ukraina,dezinformacia,infvojna
+page
+	set url https://zn.ua/science/mechty-o-kosmose-kak-drajver-nauki-obrazovanija-i-innovatsij.html
+	set tags kosmos,ukraina,nauka,universe
+page
+	set url https://zn.ua/science/prezident-nanu-anatolij-zahorodnij-v-obshchestve-sushchestvuet-ohromnyj-zapros-na-konstruktivnye-diskussii-i-nauchnye-znanija-i-my-prosto-objazany-eho-udovletvorit-.html
+	set tags ukraina,nauka,zagorodnij_anatolij.fizik.ukr,interview,fizika
+page
+	set url https://regnum.ru/news/society/3240004.html
+	set tags rossia,den'_kosmonavtiki,gagarin_jurij,prazdnik,prazdnovanie
+	set date 12_04_2021
+page
+	set url https://ukraina.ru/news/20210412/1031105461.html
+	set tags mova,kultura,pesnja,kirkorov_filipp,showbiz,rossia,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210412/1031103664.html
+	set tags ukraina,rossia,vojna,donbass,tkg,peregovory
+page
+	set url https://strana.ua/opinions/327692-vyshivanka-vmesto-skafandra-vot-nasha-kosmicheskaja-prohramma.html
+	set tags ukraina,kosmos,den'_kosmonavtiki,mentalitet,future,vyshyvanka
+page
+	set url https://strana.ua/opinions/327689-v-sovremennoj-ukraine-prinjato-horditsja-pobratimom-ilonom-maskom.html
+	set tags ukraina,den'_kosmonavtiki,sssr,istoria,gagarin_jurij,kommunizm,dekomunizacia
+page
+	set url https://life.pravda.com.ua/columns/2021/04/12/244515/
+	set tags sssr,ukraina,istoria,bajkonur.kosmodrom,film,foto,flaner,rossia
+page
+	set url https://life.pravda.com.ua/society/2011/04/12/76891/
+	set tags gagarin_jurij,kosmonavtika,sssr,istoria,rossia,usa,kosmos
+page
+	set url https://news.obozrevatel.com/society/ukrainskaya-storona-kosmosa-velikie-kosmistyi-rodom-iz-ukrainyi.htm
+	set tags ukraina,rossia,kosmos,den'_kosmonavtiki,korolev_sergei,gagarin_jurij,kosmonavtika,werner_von_braun
+page
+	set url https://news.obozrevatel.com/society/kollektivnaya-pamyat-ili-kollektivnaya-amneziya-kak-ukraina-chtit-zhertv-natsistskih-kontslagerej.htm
+	set tags ukraina,nacizm,istoria,amnezia,vov,mirvojna2,11_apr,1945,kiev,sssr
+page
+	set url https://plus.obozrevatel.com/crime/voin-vsu-pogib-pod-pritselnyim-ognem-na-donbasse.htm
+	set tags ukraina,vojna,donbass,smert,obstrel
+page
+	set url http://lug-info.com/news/one/minprirody-priglashaet-shkolnikov-prinyat-uchastie-v-konkurse-statei-na-ekologicheskuyu-temu-66488
+	set tags lnr,ekologia,shkola,deti,konkurs
+page
+	set url http://lug-info.com/news/one/bolee-500-zhitelei-alchevska-napisali-totalnyi-diktant-po-tvorchestvu-vladimira-dalya-foto-66484
+	set tags dal'_vladimir,diktant,lnr,shkola,alchevsk,jazyk
+page
+	set url https://strana.ua/opinions/327645-zachem-rasprostranjat-bred-o-tom-chto-haharin-ne-byl-pervym-kosmonavtom.html
+	set tags ukraina,obschestvo,kosmonavtika,sssr,istoria,den'_kosmonavtiki,gagarin_jurij,korolev_sergei
 eof
 off
 page

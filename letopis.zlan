@@ -19040,6 +19040,9 @@ page
 page
 	set url https://strana.ua/news/327729-natshvardeets-pytavshij-volontera-tri-mesjatsa-predstanet-pered-sudom.html
 	set tags sud,nacgvardia,ukraina,semenchenko_semen,kriminal
+page
+	set url https://strana.ua/news/231579-pod-kievom-pjanyj-natshvardeets-izbil-palkoj-soseda-i-postreljal-v-neho.html
+	set tags nacgvardia,kriminal,kiev,ukraina,policia,sosed,armatura,pjanstvo
 eof
 off
 page

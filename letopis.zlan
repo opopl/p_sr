@@ -19037,6 +19037,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/30547507.html
 	set tags ukraina,rossia,girkin_igor,2014,slavjansk,vojna,donbass
+page
+	set url https://strana.ua/news/327729-natshvardeets-pytavshij-volontera-tri-mesjatsa-predstanet-pered-sudom.html
+	set tags sud,nacgvardia,ukraina,semenchenko_semen,kriminal
 eof
 off
 page

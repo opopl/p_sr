@@ -18780,6 +18780,39 @@ page
 page
 	set url https://strana.ua/news/327569-kommentarij-julii-mendel-o-hrazhdanskoj-vojne-vyzval-debaty-v-sotssetjakh.html
 	set tags civil_war,mendel_julia,ukraina,skandal,socset,internet,english
+page
+	set url https://strana.ua/opinions/327527-ministr-oborony-ukrainy-boitsja-chto-rossija-vstupitsja-za-russkojazychnykh.html
+	set tags ukraina,rossia,mova,jazyk,zaschita
+page
+	set url https://strana.ua/news/325676-den-kosmonavtiki-12-aprelja-2021-kakoj-sehodnja-prazdnik.html
+	set tags kosmos,gagarin_jurij,luna,mars,venera,rossia,usa,den'_kosmonavtiki,12_apr,1961,prazdnik,istoria,sssr,korolev_sergei
+page
+	set url https://www.radiosvoboda.org/a/arsen-richynsky-ukrayinska-tserkva/31195485.html
+	set tags richinskij_arsen.1892_1956,ukraina,rossia,kazahstan,istoria,cerkov,vera,pravoslavie
+page
+	set url https://www.radiosvoboda.org/a/ukraintsi-skandal-latvia/31195708.html
+	set tags ukraina,latvia,krym,maidan2,gosperevorot,rossia,ukraincy,svitovyj_kongres_ukrainciv,osuzhdenie
+page
+	set url https://www.pravda.com.ua/articles/2021/04/12/7289825/
+	set tags ukraina,rossia,vojna,donbass
+page
+	set url https://lenta.ru/articles/2021/04/12/gagarin/
+	set tags sssr,istoria,gagarin_jurij,kosmos,kosmonavtika,den'_kosmonavtiki,korolev_sergei
+page
+	set url https://ukraina.ru/exclusive/20210412/1030963562.html
+	set tags ukraina,rossia,ukraina_ne_rossia,antirossia,obschestvo,derzhava,nacia,istoria,2014
+page
+	set url https://ukraina.ru/exclusive/20210412/1031088985.html
+	set tags korolev_sergei,gagarin_jurij,eda,kuhnja,12_apr,1961,kosmonavtika,chelovek,kosmos,kosmonavt
+page
+	set url https://gazeta.ua/articles/edu-and-science/_zapustili-pershij-u-sviti-pilotovanij-povitryanokosmichnij-aparat/1025491
+	set tags usa,space_shuttle,12_apr,1981,kosmos,kosmonavtika
+page
+	set url https://news.obozrevatel.com/society/pochemu-na-samom-dele-raspalsya-sssr1.htm
+	set tags sssr,gorbachev_mihail,istoria
+page
+	set url https://strana.ua/news/327648-google-opublikoval-video-o-jurii-haharine.html
+	set tags google,gagarin_jurij,sssr,istoria,kosmos,den'_kosmonavtiki
 eof
 off
 page

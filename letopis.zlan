@@ -18944,6 +18944,57 @@ page
 page
 	set url https://www.kp.ru/daily/27260.5/4392665/
 	set tags vojna,donbass,ukraina,rossia,deti,spasenie
+page
+	set url https://www.radiosvoboda.org/a/ukrayinskyi-kosmonavt-yaroslav-pustovyi-yakshcho-ilon-musk-zaproponuye-poletity-na-mars-ya-pohodzhusya/31189659.html
+	set tags ukraina,kosmos,kosmonavt,den'_kosmonavtiki,gagarin_jurij
+page
+	set url https://www.radiosvoboda.org/a/29877808.html
+	set tags ukraina,rossia,kosmos,hruschov_nikita,korolev_sergei,jangel_mihail,raketa,dnepropetrovsk
+page
+	set url https://www.radiosvoboda.org/a/29010288.html
+	set tags ukraina,kadenjuk_leonid,kosmos,kuchma_leonid,nasa,usa,space_shuttle
+page
+	set url https://zen.yandex.ru/media/rusplt.ru/mihail-iangel--razrabotchik-samoi-moscnoi-mejkontinentalnoi-ballisticheskoi-rakety-5dc2ad79d4f07a5f89c09d1b
+	set tags jangel_mihail,kosmos,raketa,rossia,rusmir,sssr,istoria,jadernyj_schit,1911,7_nov
+page
+	set url https://biography.wikireading.ru/199224
+	set tags jangel_mihail,biografia,jadernyj_schit,nauka,tehnika,rossia,rusimperia,sech_zaporozhskaja
+page
+	set url https://www.radiosvoboda.org/a/shistdesyuat-rokiv-pershomu-poleyty-ludyny-v-kosmos/31199292.html
+	set tags korolev_sergei,gagarin_jurij,sssr,istoria,kosmonavtika,den'_kosmonavtiki,raketa,tehnika
+page
+	set url https://www.eurointegration.com.ua/articles/2021/04/12/7122018/
+	set tags sputnik_v,rossia,vaccine,covid,skandal,slovakia
+page
+	set url https://www.radiosvoboda.org/a/richnytsya-smolenskoi-katastrofy-rosiya/31197909.html
+	set tags ukraina,polsha,rossia,smolensk,katastrofa.smolensk.2010,rassledovanie
+page
+	set url https://ukraina.ru/exclusive/20210412/1031108312.html
+	set tags ukraina,donbass,vojna
+page
+	set url https://ukraina.ru/exclusive/20210412/1031109489.html
+	set tags ukraina,rossia,nacia,nacizm,obschestvo,nacionalist,vojna,donbass,denacifikacia
+page
+	set url https://ukraina.ru/exclusive/20210411/1031070579.html
+	set tags ukraina,jazyk,mova,ukrainizacia,mendel_julia
+page
+	set url https://strana.ua/news/327656-lekarstvo-ot-koronavirusa-mir-i-pfizer-chto-o-nikh-izvestno-i-kohda-pojavjatsja.html
+	set tags rossia,nauka,issledovanie,lekarstvo,covid,mir_19.lekarstvo
+page
+	set url https://strana.ua/news/326585-v-frh-privityj-medrabotnik-stal-inkubatorom-koronavirusa.html
+	set tags pfizer,vaccinacia,vaccine,covid,zarazhenie,medik,germania
+page
+	set url http://lug-info.com/news/one/sbu-oprashivaet-zhitelei-zolotogo-4-pytayas-naiti-propavshie-boepripasy-narodnaya-militsiya-66502
+	set tags lnr,nm_lnr,sbu,opros,vojna,donbass
+page
+	set url https://riakursk.ru/letchiki-kosmonavty-pozdravili-kuryan-s-60-letiem-pervogo-poleta-cheloveka-v-kosmos/
+	set tags pozdravlenie,kursk,rossia,gagarin_jurij,den'_kosmonavtiki
+page
+	set url https://www.volyn.com.ua/news/179412-iedynyi-sposib-zabuty-pro-kolonialne-mynule
+	set tags jazyk,mova,ukraina,mendel_julia
+page
+	set url https://www.volyn.com.ua/news/179714-my-povynni-pochystyty-vsi-moskovski-monastyri-skipalskyi
+	set tags upc,sbu,ukraina,presledovanie,repressii,rossia
 eof
 off
 page

@@ -20,14 +20,13 @@ PageParser:
     sels:
       - { 
           # css selector
-          'find'  : '',
-          'get'   : 'text',
-          #'get'   : 'attr',
-          #'attr'  : '',
+          'find'  : '.posted-on time.published',
+          'get'   : 'attr',
+          'attr'  : 'datetime',
           # split date string
           #'split' : ' ',
           # used by dateparser.parse()
-          'order' : 'DMY',
+          #'order' : 'DMY',
         }
   get_author:
     tries:

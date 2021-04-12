@@ -19028,6 +19028,15 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/muzhdabaev/60745bc4f14a0/
 	set tags ukraina,rossia,krym,voda,reznikov_aleksei
+page
+	set url https://strana.ua/news/327741-ani-lorak-filipp-kirkorov-ihor-krutoj-pojut-pesnju-pro-rushnik-video.html
+	set tags kirkorov_filipp,ani_lorak,pesnja,ukraina,rossia,showbiz,krutoj_igor.rossia.kompozitor,kultura,muzyka
+page
+	set url https://strana.ua/news/327746-bajraktary-na-donbasse-pomohut-li-oni-v-vojne-s-rossiej.html
+	set tags vojna,donbass,ukraina,bajraktar,turcia,rossia,diskussia,butusov_jurij
+page
+	set url https://www.radiosvoboda.org/a/30547507.html
+	set tags ukraina,rossia,girkin_igor,2014,slavjansk,vojna,donbass
 eof
 off
 page

@@ -18907,6 +18907,37 @@ page
 page
 	set url https://news.obozrevatel.com/society/mir-zamer-pered-vozmozhnoj-vojnoj-rossii-s-ukrainoj.htm
 	set tags rossia,ukraina,vojna
+page
+	set url http://lug-info.com/news/one/pervye-debaty-kandidatov-v-deputaty-molodezhnogo-parlamenta-lnr-proshli-v-lgu-imeni-dalya-foto-66493
+	set tags lnr,debaty,molodezh,molodezh_parlament.lnr,deputat
+page
+	set url https://strana.ua/news/327709-v-den-kosmonavtiki-zelenskij-zajavil-o-nevozmozhnosti-poleta-haharina-v-kosmos-bez-ukraniy.html
+	set tags zelenskii_vladimir,rossia,ukraina,kosmos,kosmonavtika,sssr,istoria,den'_kosmonavtiki
+page
+	set url https://zen.yandex.ru/media/id/5d93483a04af1f00aff92ec4/my-proveli-3-mesiaca-puteshestvuia-po-ukraine-hochu-podelitsia-kollekciei-chelovecheskih-istorii1-602b75958e2e53374959690b
+	set tags ukraina,rossia,zhizn,obschestvo,chelovek
+page
+	set url https://inosmi.ru/social/20210404/249486517.html
+	set tags rossia,sputnik_v,vaccine,druzhba,san_marino,smertnost',bolezn,pandemia,zabolevajemost'
+page
+	set url https://zen.yandex.ru/media/iereyalexandr/no-bog-skazal-emu-v-siiu-noch-dushu-tvoiu-vozmut-u-tebia-komu-je-dostanetsia-to-chto-ty-zagotovil-6047dd6aa6c3965eb4f8d9cc
+	set tags rusmir,vera,pravoslavie,biblia,evangelie,pritcha
+page
+	set url https://yandex.ru/turbo/regnum.ru/s/news/3237973.html
+	set tags ukraina,rossia,vojna,donbass,kozak_dmitrii,zelenskii_vladimir
+page
+	set url https://meduza.io/feature/2021/04/12/rovno-60-let-nazad-yuriy-gagarin-poletel-v-kosmos-a-my-nashli-60-neochevidnyh-faktov-pro-pervogo-kosmonavta-i-ego-polet
+	set tags gagarin_jurij,chelovek,zhizn,sssr,istoria,den'_kosmonavtiki
+page
+	set url https://meduza.io/feature/2021/04/12/v-rossii-na-zaborah-pishut-yura-prosti-my-vse-i-nikomu-ne-nuzhno-ob-yasnyat-kto-etot-yura
+	set tags gagarin_jurij,harizma,sssr,istoria,kniga,biografia,den'_kosmonavtiki,kosmos,chelovek
+page
+	set url https://meduza.io/paragraph/2021/04/11/zhurnalisty-dozhdya-pogovorili-s-toy-samoy-zhenschinoy-rasskazavshey-pervomu-kanalu-pro-raspyatogo-malchika-v-2014-godu-ona-prodolzhaet-utverzhdat-chto-eta-istoriya-pravda
+	set tags rossia,ukraina,donbass,vojna,2014,fejk,interview,malchik
+	set date 11_04_2021
+page
+	set url https://tvzvezda.ru/news/2021329319-Qm4kA.html
+	set tags rossia,ukraina,vojna,donbass
 eof
 off
 page

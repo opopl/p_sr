@@ -19067,6 +19067,21 @@ page
 page
 	set url http://lnau.su/novosti/studenty-lgau-prinyali-uchastie-vo-vserossijskom-istoricheskom-kveste-1944-deti-pobedy/
 	set tags donbass,lgau,1944,deti,pobeda,kvest,istoria,lugansk,lnr
+page
+	set url http://lug-info.com/news/one/glava-lnr-pozdravil-so-100-letiem-veterana-voiny-iz-sverdlovska-elenu-yakovlevu-foto-66508
+	set tags 100_let,pozdravlenie,pasechnik_leonid,veteran,vov,sverdlovsk.lnr,lnr,jakovleva_elena.veteran.vov.lnr
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-lutugino-proshla-vstrecha-aktivistov-od-mir-luganshhine-so-shkolnikami-ko-dnyu-kosmonavtiki/
+	set tags mir_luganschine,lugansk,lnr,den'_kosmonavtiki,deti,shkola,prazdnovanie,korolev_sergei,gagarin_jurij,tereshkova_valentina
+page
+	set url https://lenta.ru/photo/2021/04/12/civil/
+	set tags 12_apr,1861,civil_war,usa,civil_war.usa,istoria,foto,vojna
+page
+	set url https://regnum.ru/news/society/3240398.html
+	set tags rossia,moskva,vesna,foto
+page
+	set url https://news.obozrevatel.com/society/nezadolgo-do-gibeli-pozvonil-mame-i-poobeschal-priehat-na-donbasse-pogib-voennyij-s-harkovschinyi.htm
+	set tags ukraina,mama,zvonok,teperik_andrej.vsu.soldat,vsu,donbass,vojna
 eof
 off
 page

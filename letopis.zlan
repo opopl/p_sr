@@ -19157,6 +19157,15 @@ page
 page
 	set url https://pravoslavie.ru/138539.html
 	set tags rossia,poezia,rusmir,druzhba
+page
+	set url https://plus.obozrevatel.com/crime/na-nikolaevschine-pohoronili-yunogo-voina-vsu-kotoryij-rvalsya-na-peredovuyu-foto-i-video.htm
+	set tags ukraina,vojna,donbass,pohoron,ato,vsu,nikolaev
+page
+	set url http://lug-info.com/news/one/zhiteli-antratsita-v-den-kosmonavtiki-pochtili-pamyat-zemlyaka-vladimira-lyakhova-foto-66509
+	set tags den'_kosmonavtiki,lnr,pamjatnik,cvety,ljahov_vladimir.kosmonavt.sssr,sssr,kosmos
+page
+	set url http://ukrcentr.ru/novini/sorochinskij-yarmarok/#more-16930
+	set tags ukrcentr.moskva,moskva,rossia,gogol_nikolai,teatr,spektakl,ukraina
 eof
 off
 page

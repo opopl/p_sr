@@ -18938,6 +18938,12 @@ page
 page
 	set url https://tvzvezda.ru/news/2021329319-Qm4kA.html
 	set tags rossia,ukraina,vojna,donbass
+page
+	set url https://zen.yandex.ru/media/history_russian/samye-drevnie-russkie-goroda-604e41e16c861f01078067a4
+	set tags ukraina,rossia,istoria,kiev,kievrus,drevrus,novgorod
+page
+	set url https://www.kp.ru/daily/27260.5/4392665/
+	set tags vojna,donbass,ukraina,rossia,deti,spasenie
 eof
 off
 page

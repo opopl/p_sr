@@ -18874,6 +18874,39 @@ page
 page
 	set url https://strana.ua/opinions/327645-zachem-rasprostranjat-bred-o-tom-chto-haharin-ne-byl-pervym-kosmonavtom.html
 	set tags ukraina,obschestvo,kosmonavtika,sssr,istoria,den'_kosmonavtiki,gagarin_jurij,korolev_sergei
+page
+	set url https://strana.ua/news/327655-den-kosmonavtiki-12-aprelja-pozdravlenija-i-reaktsii-ukraintsev.html
+	set tags ukraina,den'_kosmonavtiki,gagarin_jurij,korolev_sergei,sssr,istoria,kosmos
+page
+	set url https://from-ua.com/articles/594950-kto-pobedit-v-voine-lyudei-i-mashin-za-mesto-v-ukrainskih-gorodah.html
+	set tags ukraina,avto,parkovka,gorod,obschestvo,zhizn
+page
+	set url https://lgaki.info/novosti/19-j-otrezok-puti-projden-teper-vpered-k-novoj-vershine/
+	set tags lgaki,lnr,lugansk,koncert,prazdnik,prazdnovanie,19_let,kultura
+page
+	set url https://lenta.ru/news/2021/04/12/sputnik_v_vaccine/
+	set tags rossia,covid,vaccine,sputnik_v,india,odobrenie
+page
+	set url https://lenta.ru/news/2021/04/12/ambitsyoznye/
+	set tags ukraina,imperia,saakashvili_mihail,obschestvo
+page
+	set url https://fakty.ua/372743-vitalij-bilonozhko-chto-ecshe-dolzhno-proizojti-chtoby-prishlo-ponimanie-chto-vse-my-v-odnom-noevom-kovchege
+	set tags ukraina,interview,bilonozhko_vitalij,kultura,obschestvo
+page
+	set url https://fakty.ua/373187-leonid-kravchuk-u-rossii-kishka-tonka-sorevnovatsya-s-demokraticheskim-mirom
+	set tags kravchuk_leonid,rossia,ukraina,interview
+page
+	set url https://vz.ru/society/2021/4/12/1093186.html
+	set tags den'_kosmonavtiki,gagarin_jurij,sssr,istoria,kosmos
+page
+	set url https://vz.ru/opinions/2021/4/12/1094069.html
+	set tags sssr,istoria,mechta,korolev_sergei,ulybka,chelovek,kosmos,future,nasa,usa,kosmonavtika,ukraina,rossia
+page
+	set url https://vz.ru/opinions/2021/4/12/1093568.html
+	set tags rossia,kosmos,kosmizm,ciolkovskij_konstantin,filosofia,grecia,india,sanskrit,future,universe,fedorov_nikolaj.filosof
+page
+	set url https://news.obozrevatel.com/society/mir-zamer-pered-vozmozhnoj-vojnoj-rossii-s-ukrainoj.htm
+	set tags rossia,ukraina,vojna
 eof
 off
 page

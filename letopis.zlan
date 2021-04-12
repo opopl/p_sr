@@ -18995,6 +18995,15 @@ page
 page
 	set url https://www.volyn.com.ua/news/179714-my-povynni-pochystyty-vsi-moskovski-monastyri-skipalskyi
 	set tags upc,sbu,ukraina,presledovanie,repressii,rossia
+page
+	set url https://buzina.org/povtorenie/1600-rus-triedinaya.html
+	set tags rusmir,istoria,rus_triedinaja,rossia,ukraina,belarus
+page
+	set url https://buzina.org/golos-naroda/3945-donbass-kosmicheskiy.html
+	set tags donbass,kosmos,ukraina,planeta,danilov_aleksei
+page
+	set url https://buzina.org/povtorenie/1743-dve-dushi-gogolya.html
+	set tags gogol_nikolai,jazyk,rossia,istoria,rusmir,kultura,literatura,maloros,malorossia,ukraina
 eof
 off
 page

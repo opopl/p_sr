@@ -19136,6 +19136,15 @@ page
 page
 	set url https://zen.yandex.ru/media/vestnikviktor/maidan-revoliuciia-mirnoe-obedinenie-6024cba7a06a2a6c7aededc7
 	set tags maidan,revolucia,mir,rossia
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/predskazanie-na-2020-god-5f9180362f985a0dd75bc402
+	set tags predskazanie,zavet,2020,future,planeta
+page
+	set url https://istinavremeni.ru/psihologiya/novayaideya-trebovaniya-naroda.html
+	set tags russkie,psihologia,rusmir,rossia,future
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/pesn-pro-stranu-skazochnuiu-5e4f77d6733a3e3e6ab7759c
+	set tags rossia,rusmir,pesnja,poezia
 eof
 off
 page

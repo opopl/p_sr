@@ -19148,6 +19148,15 @@ page
 page
 	set url https://www.vesti.ru/article/2549752
 	set tags zaharova_maria,mid_rf,rossia,kosmos,kosmonavtika,korolev_sergei,ukraina,den'_kosmonavtiki
+page
+	set url https://lenta.ru/news/2021/04/12/problema/
+	set tags lavrov_sergei,usa,geopolitika,rossia
+page
+	set url https://pravoslavie.ru/138521.html
+	set tags covid,2020,taksist,obschestvo,zhizn,vera,rossia,rusmir,pravoslavie
+page
+	set url https://pravoslavie.ru/138539.html
+	set tags rossia,poezia,rusmir,druzhba
 eof
 off
 page

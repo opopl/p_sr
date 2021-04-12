@@ -126,6 +126,7 @@
 ###edu
 'lgaki.info'    : { 'site' : 'edu.lnr.lgaki' }
 'lgpu.org'      : { 'site' : 'edu.lnr.lgpu' }
+'lnau.su'       : { 'site' : 'edu.lnr.lgau' }
 
 ###pc
 

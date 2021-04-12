@@ -19043,6 +19043,27 @@ page
 page
 	set url https://strana.ua/news/231579-pod-kievom-pjanyj-natshvardeets-izbil-palkoj-soseda-i-postreljal-v-neho.html
 	set tags nacgvardia,kriminal,kiev,ukraina,policia,sosed,armatura,pjanstvo
+page
+	set url https://strana.ua/news/327783-kto-takoj-ali-hejdarov-ubityj-v-moskve-v-elitnom-fitnes-klube.html
+	set tags rossia,moskva,vor_v_zakone,kriminal,murder
+page
+	set url https://112ua.tv/obshchestvo/my-zanyaty-odnim-voprosom-kak-vyzhit-ukraincy-rasskazali-hvataet-li-im-deneg-na-produkty-pitaniya-574040.html
+	set tags ukraina,dnepropetrovsk,ekonomika,zhizn,obschestvo
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/chomu-ukrayinska-rosiyska-tak-i-ne-vynykla
+	set tags ukraina,rossia,russifikacia,kolonia,ukrainizacia,mova,jazyk
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/istoriya-ukrayiny-cherez-pryzmu-perekladiv
+	set tags ukraina,mova,kultura,istoria,perevod,literatura
+page
+	set url http://lug-info.com/news/one/kollektiv-lgau-peredal-luganskomu-detskomu-domu-nastolnye-igry-i-sportinventar-foto-66511
+	set tags lgau,lnr,detdom,pomosch,deti,lugansk
+page
+	set url http://lug-info.com/news/one/predsedatel-narodnogo-soveta-lnr-nagradil-kreativnykh-kandidatov-v-molodezhnye-deputaty-foto-66512
+	set tags ns_lnr,lnr,miroshnichenko_denis.lnr,deputat,molodezh_parlament.lnr,nagrada
+page
+	set url http://lnau.su/novosti/sportsmeny-lgau-zavoevali-zolotye-medali-na-pervenstve-dnr-po-tyazheloj-atletike/
+	set tags lgau,lnr,lugansk,zoloto,medal',dnr,atletika.tjazhelaja,ilovajsk,donbass,sorevnovanie,sport
 eof
 off
 page

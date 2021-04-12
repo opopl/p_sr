@@ -49,6 +49,7 @@ include:
 ###edu_lnr
     - edu.lnr.lgaki
     - edu.lnr.lgpu
+    - edu.lnr.lgau
 
 ###kultura_lnr
     - kultura.lnr.lardt

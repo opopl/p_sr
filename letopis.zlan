@@ -19007,6 +19007,27 @@ page
 page
 	set url http://lug-info.com/news/one/bolee-1300-zhitelei-luganska-prinyali-uchastie-v-aktsii-totalnyi-diktant-meriya-foto-66497
 	set tags lnr,shkola,deti,diktant,obrazovanie,dal'_vladimir,rodina,jazyk
+page
+	set url https://strana.ua/news/327758-hosdep-ne-vspomnil-o-haharine-pozdravljaja-s-60-letiem-poleta-pervoho-cheloveka-v-kosmos.html
+	set tags gagarin_jurij,gosdep,pozdravlenie,kosmonavt,obman,sssr,istoria,den'_kosmonavtiki,60_let
+page
+	set url https://strana.ua/news/327759-video-voennoj-bazy-rf-pod-voronezhem-snjali-britanskie-zhurnalisty.html
+	set tags ukraina,rossia,vojna,armia,voronezh
+page
+	set url https://strana.ua/opinions/327749-esli-uzh-my-priznali-rossiju-ahressorom-to-pochemu-udivljaemsja-kontsentratsii-vojsk.html
+	set tags ukraina,vojna,rossia
+page
+	set url https://strana.ua/news/327757-zelenskij-zajavil-chto-ukraina-hotova-k-vtorzheniju-rossii.html
+	set tags ukraina,rossia,vojna,zelenskii_vladimir,donbass
+page
+	set url https://strana.ua/opinions/327754-vojna-ne-priblizhaet-vossoedinenie-ukrainskikh-zemel-a-otdaljaet-ikh.html
+	set tags ukraina,vojna,donbass,nenavist,vossoedinenie
+page
+	set url https://www.pravda.com.ua/news/2021/04/12/7289934/
+	set tags donbass,vojna,suicid
+page
+	set url https://blogs.pravda.com.ua/authors/muzhdabaev/60745bc4f14a0/
+	set tags ukraina,rossia,krym,voda,reznikov_aleksei
 eof
 off
 page

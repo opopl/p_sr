@@ -19082,6 +19082,12 @@ page
 page
 	set url https://news.obozrevatel.com/society/nezadolgo-do-gibeli-pozvonil-mame-i-poobeschal-priehat-na-donbasse-pogib-voennyij-s-harkovschinyi.htm
 	set tags ukraina,mama,zvonok,teperik_andrej.vsu.soldat,vsu,donbass,vojna
+page
+	set url https://smotrim.ru/article/2549756
+	set tags gagarin_jurij,kosmos,sssr,istoria,kosmonavtika,kosmonavt,den'_kosmonavtiki
+page
+	set url https://www.riakursk.ru/v-kurskoy-oblasti-zavershilas-seriya-kosmicheskikh-subbotnikov/
+	set tags kursk,rossia,alleja,kosmos,den'_kosmonavtiki,subbotnik,deti,shkola,priroda
 eof
 off
 page

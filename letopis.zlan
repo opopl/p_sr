@@ -19133,6 +19133,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5e1e1dd3a1bb8700b0178a97/gde-oni-i-gde-eta-rossiiskaia-ljenauka-logika-5feb71eaadb1796a08b90000
 	set tags ukraina,flag,krym,borsch,vaccine,covid,sputnik_v
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/maidan-revoliuciia-mirnoe-obedinenie-6024cba7a06a2a6c7aededc7
+	set tags maidan,revolucia,mir,rossia
 eof
 off
 page

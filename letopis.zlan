@@ -19389,6 +19389,27 @@ page
 page
 	set url https://strana.ua/news/327975-neizvestnyj-zhivoder-zhestoko-raspravilsja-s-tremja-sobakami-v-prijute.html
 	set tags ukraina,zhestokost,zhivotnoje,sobaka,zhivoder,vinnica.oblast
+page
+	set url https://www.pravda.com.ua/news/2021/04/13/7290078/
+	set tags kazanskij_denis,pirogova_maja,tkg,ukraina,donbass,peregovory,rossia,dnr
+page
+	set url https://www.pravda.com.ua/news/2021/04/8/7289461/
+	set tags arestovich_aleksei,rossia,donbass,tkg,shihov_vladislav.rebenok.donbass,vojna,ukraina,aleksandrovskoje.donbass
+page
+	set url https://gazeta.ua/articles/regions/_fotograf-rik-znimav-starij-hram-i-zafiksuvav-ridkisne-yavische-vrazhayuchi-foto/1025546
+	set tags ukraina,hram,foto,molnia
+page
+	set url https://beztabu.net/rosiya-po-durnomu-poyasnila-chomu-zhene-vijska-na-kordon-z-ukrayinoyu_n73157
+	set tags rossia,ukraina,granica,shojgu_sergej,armia
+page
+	set url https://news.obozrevatel.com/society/eto-nasha-armiya-i-nasha-strana-ne-budem-ravnodushnyimi.htm
+	set tags ukraina,vsu,armia,volonter,vojna,donbass
+page
+	set url https://news.obozrevatel.com/society/situatsiya-na-fronte-ochen-obostryaetsya-v-gospitalyah-mnogo-tyazheloranenyih.htm
+	set tags vojna,donbass,ukraina,ranenie,gospital,bolnica,volonter,snajper,obstrel
+page
+	set url https://kiev.strana.ua/327982-v-kieve-na-vzjatke-zaderzhali-zavedujushcheho-patolohoanatomicheskoho-otdelenija-i-vracha.html
+	set tags kiev,ukraina,bolnica,patologoanatom,vzjatka,covid,smert
 eof
 off
 page

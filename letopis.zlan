@@ -19332,6 +19332,21 @@ page
 page
 	set url https://ukraina.ru/opinion/20210413/1031116143.html
 	set tags sternenko_sergei,ukraina,usa,nacizm,podstrekatelstvo
+page
+	set url https://strana.ua/news/327920-politicheskaja-podhruppa-v-tkh-ne-vedet-rabotu-iz-za-kazanskoho-i-pirohovoj.html
+	set tags ukraina,rossia,tkg,peregovory,kazanskij_denis,pirogova_maja,donbass,vojna,garmash_sergej.tkg
+page
+	set url https://strana.ua/news/327513-v-belarusi-prokommentirovali-slova-kravchuka-o-perenose-perehovorov-tkh-po-donbassu.html
+	set tags ukraina,polsha,kravchuk_leonid,rossia,belarus
+page
+	set url https://strana.ua/news/327267-v-mid-rossii-prokommentirovali-ideju-kravchuka-o-perenose-ploshchadki-dlja-tkh-v-polshu.html
+	set tags zaharova_maria,ukraina,rossia,peregovory,tkg,minsk,belarus,perenos
+page
+	set url http://lug-info.com/news/one/sotrudnik-sbu-zaderzhal-boitsov-vsu-ukravshikh-55-krovatei-i-27-matratsev-narodnaya-militsiya-66550
+	set tags lnr,ukraina,nm_lnr,starobelsk,sbu,vsu,krazha,zaderzhanie
+page
+	set url https://strana.ua/news/327940-pod-kievom-sotrudnik-natspolitsii-izbil-ljudej.html
+	set tags ukraina,kiev,izbienie,policia,muzyka
 eof
 off
 page

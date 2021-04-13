@@ -19320,6 +19320,9 @@ page
 page
 	set url https://strana.ua/news/327819-sovetnikom-bajdena-mohut-naznachit-politoloha-rozhanski-kotoryj-schitaetsja-prorossijskim-.html
 	set tags rossia,usa,ukraina,politika,biden_joe,zrada
+page
+	set url https://strana.ua/news/327854-otets-serheja-sternenko-napal-na-zhenshchinu-v-sele-sadovom-belhorod-dnestrovskoho-rajona.html
+	set tags ukraina,sternenko_sergei,otec,selo,ugrozy,izbienie,woman,kriminal
 eof
 off
 page

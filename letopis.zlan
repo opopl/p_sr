@@ -19268,6 +19268,36 @@ page
 page
 	set url https://www.istpravda.com.ua/digest/2012/07/3/89519/
 	set tags mova,jazyk,ukraina,deputat,zakon,istoria
+page
+	set url http://lug-info.com/news/one/respublikanskii-molodezhnyi-kvest-poekhali-ko-dnyu-kosmonavtiki-proshel-v-bryanke-foto-66524
+	set tags molodezh,kvest,brjanka,lnr,60_let,den'_kosmonavtiki,gagarin_jurij,kosmos,kosmonavt,kosmonavtika,deti,mir_luganschine
+page
+	set url http://lug-info.com/news/one/arkheologi-respubliki-poluchili-pervye-otkrytye-listy-na-provedenie-polevykh-rabot-66523
+	set tags lnr,arheologia
+page
+	set url http://lug-info.com/news/one/ukrainskaya-delegatsiya-sorvala-peregovory-uchastnikov-politicheskoi-gruppy-miroshnik-66525
+	set tags ukraina,delegacia,vojna,donbass,peregovory,tkg,miroshnik_rodion.lnr
+page
+	set url https://strana.ua/news/327853-petriot-dlja-ermaka-zachem-ukraina-prosit-u-ssha-rakety-patriot.html
+	set tags vojna,donbass,jermak_andrej,ukraina,usa,postavka,patriot.zrk.oruzhie,ofis_prezidenta,siria,nazarov_maks.tv.ukr,rossia
+page
+	set url https://strana.ua/opinions/327876-ljubov-i-holod-uzhe-e-pravjat-mirom-mirom-pravit-absurd.html
+	set tags world,civilizacia,chelovek,razum,absurd,homo_sapiens,planeta,psihologia,ljubov,golod
+page
+	set url https://strana.ua/opinions/327869-poluchaetsja-esli-my-vmeste-zapuskali-rakety-to-i-hulah-vmeste-stroili.html
+	set tags gulag,istoria,ukraina,sssr,patriotizm,ussr,korolev_sergei
+page
+	set url https://strana.ua/opinions/327871-kak-sovetskij-sputnik-porodil-internet-i-tantsujushchikh-robotov.html
+	set tags darpa,nauka,internet,sssr,kosmos,istoria,tehnika,sopernichestvo,usa,arpanet
+page
+	set url https://strana.ua/opinions/327881-torhovlja-oruzhiem-mezhdu-ukrainoj-i-rossiej-ne-prekrashchalas-i-v-samye-horjachie-fazy-vojny.html
+	set tags torgovlja,moskva,ukraina,oruzhie,rossia,ekonomika
+page
+	set url https://lenta.ru/news/2021/04/13/bortkevich/
+	set tags rossia,kultura,pesnja,muzyka,smert,pesnjary.via.sssr,bortkevich_leonid.pesnjary
+page
+	set url https://news.obozrevatel.com/abroad/raspoyasavshihsya-negodyaev-pora-prizyivat-k-otvetu.htm
+	set tags putin_vladimir,trump_donald,usa,rossia,negodjaj,otvet
 eof
 off
 page

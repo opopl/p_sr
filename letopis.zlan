@@ -19323,6 +19323,12 @@ page
 page
 	set url https://strana.ua/news/327854-otets-serheja-sternenko-napal-na-zhenshchinu-v-sele-sadovom-belhorod-dnestrovskoho-rajona.html
 	set tags ukraina,sternenko_sergei,otec,selo,ugrozy,izbienie,woman,kriminal
+page
+	set url https://www.radiosvoboda.org/a/volodymyr-hilyarovsky-i-kartyna-zaporozhchi/31200097.html
+	set tags ukraina,rossia,rusmir,gogol_nikolai,taras_bulba,repin_ilja.hudozhnik,kartina,isskustvo,istoria,kazaki,vojsko_zaporozhskoje,sultan,pismo
+page
+	set url https://vz.ru/opinions/2021/4/13/1094073.html
+	set tags rossia,istoria,terror1937,tirania,obschestvo
 eof
 off
 page

@@ -19347,6 +19347,9 @@ page
 page
 	set url https://strana.ua/news/327940-pod-kievom-sotrudnik-natspolitsii-izbil-ljudej.html
 	set tags ukraina,kiev,izbienie,policia,muzyka
+page
+	set url https://riakursk.ru/kuryanam-rasskazali-kakuyu-rol-razvitie-kosmicheskikh-tekhnologiy-sygralo-v-teleradioveshchanii/
+	set tags rossia,kursk,tv,kosmos,sputnik,tehnika,tehnologia,gagarin_jurij,den'_kosmonavtiki
 eof
 off
 page

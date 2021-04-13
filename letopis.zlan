@@ -19329,6 +19329,9 @@ page
 page
 	set url https://vz.ru/opinions/2021/4/13/1094073.html
 	set tags rossia,istoria,terror1937,tirania,obschestvo
+page
+	set url https://ukraina.ru/opinion/20210413/1031116143.html
+	set tags sternenko_sergei,ukraina,usa,nacizm,podstrekatelstvo
 eof
 off
 page

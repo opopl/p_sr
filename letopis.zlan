@@ -19298,6 +19298,9 @@ page
 page
 	set url https://news.obozrevatel.com/abroad/raspoyasavshihsya-negodyaev-pora-prizyivat-k-otvetu.htm
 	set tags putin_vladimir,trump_donald,usa,rossia,negodjaj,otvet
+page
+	set url https://lenta.ru/news/2021/04/13/gagarin/
+	set tags sssr,istoria,den'_kosmonavtiki,gosdep,kosmos,usa,rossia,pamjat
 eof
 off
 page

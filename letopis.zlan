@@ -19413,6 +19413,30 @@ page
 page
 	set url https://zen.yandex.ru/media/dosuznik/pochemu-rossiia-a-ne-rus-602acf3c5e188e5c35d97d6a
 	set tags rossia,slovo,istoria,vopros,rus'
+page
+	set url https://zaxid.net/yak_rosiya_povertatime_ukrayini_krim_i_donbas_n1517263
+	set tags ukraina,rossia,krym,donbass,deokupacia,vozvraschenie
+page
+	set url https://blogs.pravda.com.ua/authors/bileckyj/60759ed95a34b/
+	set tags ukraina,rossia,teroborona,vojna,ilovajsk,donbass,2014,dobrobaty,armia,vrag
+page
+	set url http://lug-info.com/news/one/vyezdnaya-brigada-lgmu-provela-65-obsledovanii-zhitelei-prifrontovogo-chervonogvardeiskogo-foto-66571
+	set tags lnr,lgmu,kirovsk.lnr,obsledovanie,pacient,zdorovje,pasechnik_leonid,mir_luganschine,minzdrav.lnr
+page
+	set url https://mir-lug.info/novosti-proektov/aktivisty-akczii-ruka-pomoshhi-za-nedelyu-pomogli-40-zhitelyam-respubliki/
+	set tags mir_luganschine,lnr,pomosch,aktivist,lugansk
+page
+	set url https://www.pravdoryb.info/ukrainskiy-morpekh-vadim-sukharevskiy-pervym-otkryl-ogon-po-mirnym-lyudyam-v-slavyanske.html
+	set tags ukraina,vojna,donbass,13_apr,2014,13.04.2014,suharevskij_vadim.vsu
+page
+	set url https://inosmi.ru/politic/20180306/241646400.html
+	set tags ukraina,vojna,donbass,suharevskij_vadim.vsu,2014
+page
+	set url https://www.radiosvoboda.org/a/28792186.html
+	set tags suharevskij_vadim.vsu,interview,ukraina,vojna,donbass,13.04.2014
+page
+	set url https://riafan.ru/1034160-ne-on-bolnoi-a-ukraina-v-rossii-prokommentirovali-mechtu-oficera-vsu-doiti-do-moskvy
+	set tags suharevskij_vadim.vsu,ukraina,rossia,vojna,donbass
 eof
 off
 page

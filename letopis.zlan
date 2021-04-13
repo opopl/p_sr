@@ -19317,6 +19317,9 @@ page
 	set url https://theaterluspekaev.com/vremya-vybor-volya/
 	set tags lardt,lnr,lugansk,vremja,vybor,volja,rodina,zaschitnik,geroizm,spektakl,teatr
 	set date 13_09_2019
+page
+	set url https://strana.ua/news/327819-sovetnikom-bajdena-mohut-naznachit-politoloha-rozhanski-kotoryj-schitaetsja-prorossijskim-.html
+	set tags rossia,usa,ukraina,politika,biden_joe,zrada
 eof
 off
 page

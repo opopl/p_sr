@@ -19410,6 +19410,9 @@ page
 page
 	set url https://kiev.strana.ua/327982-v-kieve-na-vzjatke-zaderzhali-zavedujushcheho-patolohoanatomicheskoho-otdelenija-i-vracha.html
 	set tags kiev,ukraina,bolnica,patologoanatom,vzjatka,covid,smert
+page
+	set url https://zen.yandex.ru/media/dosuznik/pochemu-rossiia-a-ne-rus-602acf3c5e188e5c35d97d6a
+	set tags rossia,slovo,istoria,vopros,rus'
 eof
 off
 page

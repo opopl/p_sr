@@ -19301,6 +19301,22 @@ page
 page
 	set url https://lenta.ru/news/2021/04/13/gagarin/
 	set tags sssr,istoria,den'_kosmonavtiki,gosdep,kosmos,usa,rossia,pamjat
+page
+	set url https://www.pravda.com.ua/news/2021/04/13/7290019/
+	set tags rossia,ukraina,sankcii,visa,mastercard,otkljuchenie,peskov_dmitrii,lavrov_sergei,mid_rf
+page
+	set url https://www.pravda.com.ua/news/2021/04/13/7290032/
+	set tags rossia,kolonia,navalny,koran,islam
+page
+	set url https://strana.ua/news/327905-na-donbasse-bespilotnik-ubil-40-letneho-bojtsa-vsu-iz-chernovtsov.html
+	set tags oos,obstrel,ukraina,donbass,vojna,smert
+page
+	set url http://lug-info.com/news/one/ushel-iz-zhizni-byvshii-direktor-luganskogo-russkogo-dramteatra-viktor-kozenko-66527
+	set tags lnr,teatr,smert,kozenko_viktor.lnr.teatr,nekrolog
+page
+	set url https://theaterluspekaev.com/vremya-vybor-volya/
+	set tags lardt,lnr,lugansk,vremja,vybor,volja,rodina,zaschitnik,geroizm,spektakl,teatr
+	set date 13_09_2019
 eof
 off
 page

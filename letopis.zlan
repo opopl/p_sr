@@ -19437,6 +19437,15 @@ page
 page
 	set url https://riafan.ru/1034160-ne-on-bolnoi-a-ukraina-v-rossii-prokommentirovali-mechtu-oficera-vsu-doiti-do-moskvy
 	set tags suharevskij_vadim.vsu,ukraina,rossia,vojna,donbass
+page
+	set url https://plus.obozrevatel.com/ukr/crime/hochu-schob-rosiya-znikla-i-z-karti-i-zi-svidomosti-legendarnij-kombat.htm
+	set tags suharevskij_vadim.vsu,rossia,ukraina,interview,vojna,donbass,2014,moskva
+page
+	set url https://plus.obozrevatel.com/crime/kombat-vadim-suharevskij-eta-vojna-nachalas-s-babushki-kotoraya-mechtala-umeret-v-rossii.htm
+	set tags suharevskij_vadim.vsu,ukraina,rossia,donbass,vojna,upc
+page
+	set url https://plus.obozrevatel.com/crime/kombat-vadim-suharevskij-interviev-ato-voina-donbass-nas-umoliyali-vernutsya.htm
+	set tags suharevskij_vadim.vsu,ukraina,rossia,vojna,donbass,interview
 eof
 off
 page

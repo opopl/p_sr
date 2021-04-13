@@ -19446,6 +19446,21 @@ page
 page
 	set url https://plus.obozrevatel.com/crime/kombat-vadim-suharevskij-interviev-ato-voina-donbass-nas-umoliyali-vernutsya.htm
 	set tags suharevskij_vadim.vsu,ukraina,rossia,vojna,donbass,interview
+page
+	set url https://gazeta.ua/blog/54902/mi-pid-udarom-sistemi-zalpovogo-propagandistskogo-vognyu-tisk-posilyuyetsya
+	set tags rossia,ukraina,infvojna
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/zagroza-vid-kremlya-ta-istorychni-paraleli
+	set tags ukraina,rossia,usa,kreml
+page
+	set url https://zen.yandex.ru/media/kulturologia/pochemu-v-sssr-ne-mogli-sniat-film-pro-tarasa-bulbu-a-pozje-ego-zapretili-na-ukraine-606ad8d38f567a4bcfcf42f0
+	set tags rossia,ukraina,taras_bulba,gogol_nikolai,zapret,film
+page
+	set url https://cubanos.ru/news/news226
+	set tags rossia,usa,karibskij_krizis,1962,hruschov_nikita,kennedy_john,sssr,istoria,kuba
+page
+	set url https://versia.ru/ukrainskij-morpex-vadim-suxarevskij-pervym-otkryl-ogon-po-mirnym-lyudyam-v-slavyanske
+	set tags suharevskij_vadim.vsu,slavjansk,ukraina,donbass,vojna
 eof
 off
 page

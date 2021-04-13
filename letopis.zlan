@@ -19166,6 +19166,102 @@ page
 page
 	set url http://ukrcentr.ru/novini/sorochinskij-yarmarok/#more-16930
 	set tags ukrcentr.moskva,moskva,rossia,gogol_nikolai,teatr,spektakl,ukraina
+page
+	set url http://lug-info.com/news/one/kievskie-siloviki-chetyre-raza-za-sutki-narushili-rezhim-tishiny-66515
+	set tags lnr,vojna,oborona,donbass,ukraina
+page
+	set url https://mir-lug.info/novosti-terotdelenij/v-rovenkah-proshla-viktorina-sredi-starsheklassnikov-ot-siriusa-do-ikara/
+	set tags mir_luganschine,den'_kosmonavtiki,60_let,viktorina,konkurs,shkola,deti,lnr,demeshko_bella.ns_lnr.deputat,oon,gagarin_jurij
+page
+	set url https://strana.ua/news/327830-v-shkole-noksvilla-uchenik-ustroil-strelbu-politsija-pristrelila-eho-v-sortire-foto.html
+	set tags usa,strelba,uchenik,shkola,deti,tualet,policia,smert,oruzhie,tennessi.shtat.usa
+page
+	set url https://strana.ua/news/327820-boris-volynov-iz-pervoho-otrjada-kosmonavtov-sssr-o-prichine-hibeli-haharina.html
+	set tags volynov_boris.kosmonavt.sssr,gagarin_jurij,smert,rassledovanie,sssr,istoria,kosmos,polet,samolet
+page
+	set url https://strana.ua/news/327654-obrashchenie-haharina-1962-hoda-po-sluchaju-dnja-kosmonavtiki-sdelali-tsvetnym.html
+	set tags 1962,gagarin_jurij,obraschenie,neiroset,it,sssr,istoria,kosmos,den'_kosmonavtiki,mir,planeta
+page
+	set url https://strana.ua/news/327613-unikalnye-foto-jurija-haharina-fidel-kastro-dzhina-lollobridzhida-i-okhota.html
+	set tags gagarin_jurij,zhizn,sssr,istoria,chelovek
+page
+	set url https://strana.ua/news/219520-novyj-skafandr-bez-shirinki-ne-pozvolit-rossijskim-kosmonavtam-pomochitsja-na-koleso-avtobusa-kak-eto-delali-so-vremen-haharina.html
+	set tags rossia,kosmonavt,kosmos,tradicii,shirinka,skafandr,gagarin_jurij,bajkonur.kosmodrom,avtobus,koleso
+page
+	set url https://strana.ua/news/204457-v-rossii-objavili-nabor-kosmonavtov-dlja-poletov-na-lunu-i-stroitelstva-tam-bazy.html
+	set tags roskosmos,rossia,rogozin_dmitrii,luna,podgotovka,kosmonavt,kosmos
+page
+	set url https://strana.ua/news/179798-amerikanskoe-ahentstvo-nasa-otlozhilo-vizit-hlavy-roskosmosa-rohozina-kotoroho-vremenno-vyveli-iz-pod-sanktsij.html
+	set tags roskosmos,rogozin_dmitrii,usa,nasa,rossia,sankcii,lekcia,priglashenie,kritika,krym
+page
+	set url https://strana.ua/news/173059-rossijskij-kosmonavt-vinohradov-soobshchil-o-dokazatelstvakh-poletov-ssha-na-lunu.html
+	set tags rogozin_dmitrii,glupost,kosmonavt,usa,nasa,1969,luna,proverka,rossia,roskosmos,kosmos
+page
+	set url https://strana.ua/news/171789-kak-i-na-kakom-jazyke-hovorjat-kosmonavty-i-astronavty-na-bortu-mks-v-kosmose.html
+	set tags kosmonavt,kosmos,mks,jazyk,english,language,obschenie,sotrudnichestvo,rossia,usa
+page
+	set url https://strana.ua/opinions/327839-v-kieve-prodolzhajut-ubivat-istoriju-horoda.html
+	set tags ukraina,kiev,istoria,gorod,vokzal,stroitelstvo,zastrojka,sssr
+page
+	set url https://strana.ua/opinions/327806-my-otkazalis-ot-dnja-kosmonavtiki-zameniv-eho-na-natsionalnoe-nyte.html
+	set tags ukraina,nacia,obschestvo,upadok,unynie,razocharovanie,den'_kosmonavtiki,kosmos,pobeditel
+page
+	set url https://strana.ua/opinions/327834-verkhovnyj-hlavnokomandujushchij-ne-mozhet-behat-po-peredovoj-radzhi-semok-smi.html
+	set tags ukraina,vojna,donbass,peredovaja,zelenskii_vladimir,glavnokomandujuschij
+page
+	set url https://strana.ua/opinions/327801-serhej-korolev-byl-ukraintsem-po-rozhdeniju-i-sovetskim-uchenym-po-statusu.html
+	set tags ukraina,istoria,korolev_sergei,nacia,nacionalizm,rossia,ukrainstvo,sikorskii_igor,paton_evgenij,amosov_nikolaj,glushkov_viktor.kibernetik,sssr,nauka,tehnika,kosmonavtika,chelovek
+page
+	set url https://strana.ua/opinions/327804-eto-ne-borba-s-pandemiej-a-tjurma-holovnoho-mozha.html
+	set tags ukraina,kabmin,pokupka,ekonomika,kislorod
+page
+	set url https://strana.ua/opinions/327836-ameriku-postroili-profsojuzy-i-trudjashchiesja-hovorit-bajden.html
+	set tags usa,biden_joe,ukraina,profsouz,trud,chelovek
+page
+	set url https://www.eurointegration.com.ua/experts/2021/04/12/7121934/
+	set tags belarus,lukashenko_aleksandr,ukraina,tihanovskaja_svetlana,protest
+page
+	set url https://www.radiosvoboda.org/a/dezinformatsiya-kremlya-v-ukrayini-vykryly-feyky-navkolo-zahybeli-dytyny-na-donbasi/31200149.html
+	set tags ukraina,vojna,donbass,rossia,propaganda,fejk,novosti,shihov_vladislav.rebenok.donbass,aleksandrovskoje.donbass,infvojna
+page
+	set url https://plus.obozrevatel.com/crime/tak-nachalas-vojna-hroniki-pervogo-boya-na-donbasse.htm
+	set tags ukraina,donbass,vojna,rossia,shtepa_nelja,slavjansk,ato,turchinov_aleksandr,oos,2014,girkin_igor
+page
+	set url https://strana.ua/news/170649-fotohrafija-dnepra-iz-kosmosa-nasa-opublikovalo-unikalnuju-kartinu-zimnej-reki.html
+	set tags dnepr,ukraina,foto,nasa,kiev,zima,kosmos
+page
+	set url https://strana.ua/news/156762-astronavt-nasa-rik-arnold-opublikoval-foto-chernoho-morja-iz-kosmosa.html
+	set tags foto,black_sea,rossia,ukraina,turcia,gruzia,romania,kosmos,nasa,kosmonavt,stambul
+page
+	set url https://strana.ua/opinions/327837-chem-dalshe-tem-bolshe-snbo-napominaet-primata-s-hranatoj.html
+	set tags ukraina,rnbo,sankcii,granata,obezjana,zelenskii_vladimir,presledovanie,repressii
+page
+	set url http://lug-info.com/news/one/zaschitnik-lnr-pogib-pri-obstrele-so-storony-vsu-predstavitelstvo-respubliki-v-stskk-66516
+	set tags nm_lnr,lnr,obstrel,smert,vojna,donbass,ukraina
+page
+	set url https://analytics.hvylya.net/228690-putin-i-reznya-v-srebrenice-kak-prezident-rossii-konkretno-udaril-v-shtangu
+	set tags vojna,ukraina,rossia,srebrenica,genocid,1995,donbass,1993,oon,peskov_dmitrii,kozak_dmitrii
+page
+	set url https://gazeta.ua/articles/history/_prezident-rosiyi-poprosiv-vibachennya-u-polyakiv/1025664
+	set tags rossia,polsha,katyn.nkvd.rasstrel,sssr,istoria,elcin_boris,proschenije,izvinenie,gorbachev_mihail
+page
+	set url https://gazeta.ua/articles/history/_teroristi-zahopili-doneck/1024456
+	set tags ukraina,donbass,vojna,dnr,nezalezhnist,turchinov_aleksandr,ato,mariupol
+page
+	set url https://gazeta.ua/articles/history/_dvi-pravdi-v-srsr-ogolosili-pro-pochatok-kosmichnoyi-eri/1025567
+	set tags sssr,istoria,gazeta_pravda,gagarin_jurij,den'_kosmonavtiki,kosmos,kosmonavtika,12_apr,1961
+page
+	set url https://strana.ua/news/327827-ze-ihnorit-putina-turetsko-rossijskij-skandal-iz-za-ukrainy-vtoroe-delo-na-semenchenko.html
+	set tags zelenskii_vladimir,itogi,ukraina,rossia,putin_vladimir,vojna,donbass,kitaj,vaccine,covid,kiev
+page
+	set url https://regnum.ru/news/polit/3240963.html
+	set tags rogozin_dmitrii,korolev_sergei,kosmos,rossia,usa
+page
+	set url https://zen.yandex.ru/media/kitch/prichina-po-kotoroi-ser-shon-konneri-postavil-russkih-v-primer-shotladcam-606aa0226b0f875cb58ba770
+	set tags konneri_shon.akter,shotlandia,rossia,russkie,zamok,restavracia,starost,zrelost,fraza
+page
+	set url https://ren.tv/news/v-mire/822327-ukrainskie-politiki-vsled-za-borshchom-polozhili-glaz-na-bogatyrei
+	set tags ilja_muromec,bogatyr,istoria,rusmir,ukraina,rossia
 eof
 off
 page

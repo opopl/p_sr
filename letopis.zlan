@@ -19377,6 +19377,18 @@ page
 page
 	set url https://lgaki.info/novosti/27411/
 	set tags lnr,lgaki,lugansk,diplom,kosmonavtika,rossia,den'_kosmonavtiki,kvest
+page
+	set url https://news.obozrevatel.com/society/na-front-rvalsya-esche-sovsem-patsanom.htm
+	set tags vojna,donbass,ukraina,smert
+page
+	set url https://plus.obozrevatel.com/crime/eskalatsiya-na-donbasse-chto-dolzhno-delat-gosudarstvo-ukraina.htm
+	set tags ukraina,vojna,donbass,rossia
+page
+	set url https://news.obozrevatel.com/politics/kazanskij-rasskazal-kak-dnr-otomstila-emu-sorvav-vstrechu-tkg.htm
+	set tags donbass,dnr,kazanskij_denis,tkg,peregovory,ukraina,rossia
+page
+	set url https://strana.ua/news/327975-neizvestnyj-zhivoder-zhestoko-raspravilsja-s-tremja-sobakami-v-prijute.html
+	set tags ukraina,zhestokost,zhivotnoje,sobaka,zhivoder,vinnica.oblast
 eof
 off
 page

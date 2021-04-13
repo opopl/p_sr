@@ -19265,6 +19265,9 @@ page
 page
 	set url https://pidru4niki.com/15890315/ritorika/slovo_nasha_zbroya
 	set tags rylskij_maksim,mova,kultura,promova,1959,sssr,ukraina,pushkin_aleksandr,shevchenko_taras
+page
+	set url https://www.istpravda.com.ua/digest/2012/07/3/89519/
+	set tags mova,jazyk,ukraina,deputat,zakon,istoria
 eof
 off
 page

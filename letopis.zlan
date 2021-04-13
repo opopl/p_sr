@@ -19350,6 +19350,33 @@ page
 page
 	set url https://riakursk.ru/kuryanam-rasskazali-kakuyu-rol-razvitie-kosmicheskikh-tekhnologiy-sygralo-v-teleradioveshchanii/
 	set tags rossia,kursk,tv,kosmos,sputnik,tehnika,tehnologia,gagarin_jurij,den'_kosmonavtiki
+page
+	set url https://strana.ua/news/327911-sem-let-ato-pochemu-ukraina-ne-smohla-otvoevat-donbass-tohda-i-mozhno-li-eto-sdelat-sejchas.html
+	set tags ukraina,vojna,donbass,rossia,ato,poroshenko_petr,girkin_igor,slavjansk,lnr,dnr,ilovajsk,debalcevo,kuchma_leonid,medvedchuk_viktor
+page
+	set url https://strana.ua/opinions/327957-likvidirujut-u-nas-tolko-to-chto-nelojalno-i-nepodvlastno-hosudarju-i-eho-hospodam.html
+	set tags ukraina,kolonia,usa
+page
+	set url https://hvylya.net/news/228754-putin-i-bayden-sozvonilis
+	set tags ukraina,putin_vladimir,biden_joe,rossia,telefon
+page
+	set url http://lug-info.com/news/one/natskorpus-podaril-vsu-maskseti-za-sodeistvie-v-kontrabande-oruzhiya-narodnaya-militsiya-66552
+	set tags nm_lnr,lnr,vojna,donbass,vsu,nackorpus,kontrabanda,bileckii_andrei
+page
+	set url http://lug-info.com/news/one/spetsialisty-lgmu-proveli-telemeditsinskuyu-konsultatsiyu-patsientov-iz-prifrontovogo-kirovska-foto-66556
+	set tags medicina,lgmu,lnr,medik,kirovsk.lnr,konsultacia
+page
+	set url http://lug-info.com/news/one/vospitanniki-alchevskogo-tsentra-reabilitatsii-nachali-kurs-ippoterapii-v-khryaschevatom-foto-66560
+	set tags lnr,alchevsk,reabilitacia,invalid,ippo_terapia,kon',verhovaja_jezda
+page
+	set url http://lug-info.com/news/one/minprirody-lnr-podpisalo-dogovory-s-desyatyu-okhotkhozyaistvami-respubliki-foto-66553
+	set tags lnr,ohota,priroda,dogovor,min_prirody.lnr
+page
+	set url http://lug-info.com/news/one/zagsy-lnr-v-pervom-kvartale-2021-goda-zaregistrirovali-920-brakov-i-1-266-rozhdenii-detei-66540
+	set tags lnr,zags,obschestvo,semja,deti,rozhdenie
+page
+	set url https://lgaki.info/novosti/27411/
+	set tags lnr,lgaki,lugansk,diplom,kosmonavtika,rossia,den'_kosmonavtiki,kvest
 eof
 off
 page

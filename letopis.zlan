@@ -19494,6 +19494,21 @@ page
 page
 	set url https://miaistok.su/vsu-13-aprelya-8-raz-obstrelyali-lnr/
 	set tags vsu,obstrel,lnr,nm_lnr,vojna,donbass
+page
+	set url https://miaistok.su/my-sohranim-pamyat-o-kazhdom-pogibshem-glava-lnr/
+	set tags lnr,agressor,agressia,ukraina,vojna,donbass,pasechnik_leonid,proschenije,pamjat,14_apr
+page
+	set url https://miaistok.su/proryv-v-mirovom-animatsionnom-iskusstve-109-let-nazad-v-rossii-predstavili-pervyj-otechestvennyj-kukolnyj-multfilm/
+	set tags rossia,istoria,multik,lukanida
+page
+	set url https://miaistok.su/konkurs-krasoty-v-makedonii-i-nedelya-mody-v-moskve-yunaya-model-iz-luganska-pokoryaet-stseny-raznyh-stran-mira/
+	set tags lnr,lugansk,krasota,devushka,scherbak_margarita.lnr.krasavica,konkurs
+page
+	set url https://miaistok.su/darina-rogovaya-u-menya-vsegda-est-vdohnovenie-i-zhelanie-zanimatsya-lyubimym-delom/
+	set tags artlandia.lnr.objedinenie,deti,tvorchestvo,lnr,vystavka
+page
+	set url https://miaistok.su/v-ukrainskom-teatre-luganska-pokazali-komediyu-damskih-del-master/
+	set tags lnr,lugansk,spektakl,starickij_mihail.ukr.dramaturg,teatr
 eof
 off
 page

@@ -19624,6 +19624,9 @@ page
 page
 	set url https://fraza.com/analytics/299755-pod-isterichnye-vopli-putin-napadet-ukraintsev-snova-iznasilovali-tarifami-na-kommunalku
 	set tags ukraina,putin_vladimir,tarify,iznasilovanie
+page
+	set url https://censoru.net/2021/04/13/zametki-iz-lnr-mestnyj-shik-i-kitch.html
+	set tags lnr,zhizn,obschestvo
 eof
 off
 page

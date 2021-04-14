@@ -19651,6 +19651,9 @@ page
 page
 	set url https://gazeta.ua/blog/54911/rosiyani-ne-hochut-schepitisya-neminuchi-sche-dvi-smertonosni-hvili-covid19
 	set tags rossia,covid,vaccinacia
+page
+	set url http://lug-info.com/news/one/zhiteli-respubliki-pochtili-pamyat-zhertv-ukrainskoi-agressii-protiv-donbassa-foto-66612
+	set tags lnr,lugansk,vojna,pamjat,ato,donbass,2014,rnbo,turchinov_aleksandr
 eof
 off
 page

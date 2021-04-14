@@ -19491,6 +19491,9 @@ page
 page
 	set url https://lenta.ru/brief/2021/04/12/dnb_actual/
 	set tags ukraina,donbass,vojna,dnr,zelenskii_vladimir,pushilin_denis,peregovory,putin_vladimir
+page
+	set url https://miaistok.su/vsu-13-aprelya-8-raz-obstrelyali-lnr/
+	set tags vsu,obstrel,lnr,nm_lnr,vojna,donbass
 eof
 off
 page

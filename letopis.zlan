@@ -19561,6 +19561,15 @@ page
 page
 	set url https://www.radiosvoboda.org/a/rosiya-ukrayina-donbas-krym/31202750.html
 	set tags vojna,donbass,rossia,ukraina,nato,usa
+page
+	set url https://analytics.hvylya.net/228760-chi-vpishetsya-zahid-za-ukrajinu-v-razi-pochatku-velikoji-viyni
+	set tags ukraina,rossia,zapad,putin_vladimir
+page
+	set url https://zen.yandex.ru/media/librarian/rezonans-vtorogo-prishestviia-hrista-606fb9be1c286d7e602185c1
+	set tags hristos,prishestvie,rezonans,rusmir,vera,pravoslavie,biblia
+page
+	set url https://zen.yandex.ru/media/history_russian/reki-s-kotoryh-nachalas-rus-5f9715441772f52b508fa342
+	set tags reka,rossia,rus',istoria,dnepr
 eof
 off
 page

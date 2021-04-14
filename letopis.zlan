@@ -19461,6 +19461,36 @@ page
 page
 	set url https://versia.ru/ukrainskij-morpex-vadim-suxarevskij-pervym-otkryl-ogon-po-mirnym-lyudyam-v-slavyanske
 	set tags suharevskij_vadim.vsu,slavjansk,ukraina,donbass,vojna
+page
+	set url https://inosmi.ru/politic/20210413/249547054.html
+	set tags rossia,ukraina,biden_joe,putin_vladimir,vojna,donbass
+page
+	set url https://strana.ua/opinions/328030-est-podkhodjashchaja-data-dlja-dnja-ukrainskoj-kosmonavtiki.html
+	set tags kosmonavtika,ukraina,gagarin_jurij,korolev_sergei,1_aug,1996,korabl,den'_kosmonavtiki,kosmos
+page
+	set url https://strana.ua/opinions/328029-natsionalnaja-beda-ukrainy-polnoe-razrushenie-instituta-doverija.html
+	set tags ukraina,doverie,rukopozhatie,ruka,chelovek,nacia,obschestvo
+page
+	set url https://strana.ua/opinions/328033-stoit-li-nam-bojatsja-vtoroho-chernobylja.html
+	set tags ukraina,atomic_energy,aes,energetika,future,energoatom
+page
+	set url https://strana.ua/opinions/328034-chto-stoit-za-voennoj-isteriej-s-koho-i-s-cheho-ona-nachalas.html
+	set tags ukraina,vojna,rossia,donbass,putin_vladimir,biden_joe,usa,peregovory,zvonok,isteria
+page
+	set url https://strana.ua/opinions/327999-nashe-mestnoe-samoupravlenie-sojuz-vlasti-vorov-banditov-i-mafii.html
+	set tags ukraina,korupcia,obschestvo
+page
+	set url https://www.radiosvoboda.org/a/osvita-zakhyst-ukrajiny/31201788.html
+	set tags ukraina,rossia,obrazovanie,nacia,obschestvo,ludi,zaschita,golodomor,rusimperia,andropov_jurij.gensek.sssr,duhovnost,korolev_sergei
+page
+	set url https://www.radiosvoboda.org/a/28946316.html
+	set tags usa,world,future,geopolitika
+page
+	set url https://lenta.ru/articles/2021/04/14/usa/
+	set tags rossia,usa,rabota,mentalitet,google,emigracia,svoboda
+page
+	set url https://lenta.ru/brief/2021/04/12/dnb_actual/
+	set tags ukraina,donbass,vojna,dnr,zelenskii_vladimir,pushilin_denis,peregovory,putin_vladimir
 eof
 off
 page

@@ -19642,6 +19642,15 @@ page
 page
 	set url https://strana.ua/articles/istorii/328148-karibskij-stsenarij-putina-stanet-li-zelenskij-vtorym-fidelem.html
 	set tags karibskij_krizis,1962,hruschov_nikita,rossia,ukraina,vojna,kompromiss,usa,kuba,oon,sssr,istoria,kennedy_john,turcia,putin_vladimir,biden_joe
+page
+	set url https://gazeta.ua/blog/54914/treba-perekonati-kreml-scho-u-nih-tut-goritime-zemlya-pid-nogami
+	set tags ukraina,kuba,karibskij_krizis,kastro_fidel,1962,usa,rossia,vojna,donbass
+page
+	set url https://riakursk.ru/15-aprelya-vykhodit-v-prokat-film-danily-kozlovskogo-snyatyy-v-kurskoy-oblasti/
+	set tags rossia,kursk,film,chernobyl,kozlovskij_danila
+page
+	set url https://gazeta.ua/blog/54911/rosiyani-ne-hochut-schepitisya-neminuchi-sche-dvi-smertonosni-hvili-covid19
+	set tags rossia,covid,vaccinacia
 eof
 off
 page

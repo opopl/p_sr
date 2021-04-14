@@ -19627,6 +19627,18 @@ page
 page
 	set url https://censoru.net/2021/04/13/zametki-iz-lnr-mestnyj-shik-i-kitch.html
 	set tags lnr,zhizn,obschestvo
+page
+	set url https://strana.ua/sport/football/328200-kdk-uaf-vvel-sanktsii-protiv-futbolistov-vystupajushchikh-za-komandy-dnr-i-lnr.html
+	set tags ukraina,futbol,zapret,dnr,lnr,donbass,sport
+page
+	set url https://strana.ua/opinions/328205-alternativa-minsku-tolko-odna-bolshaja-vojna.html
+	set tags ukraina,vojna,donbass,peregovory,minsk_dogovor
+page
+	set url https://strana.ua/opinions/328181-sudba-ukrainy-budet-reshatsja-bez-uchastija-ukrainy.html
+	set tags biden_joe,putin_vladimir,rossia,usa,ukraina
+page
+	set url https://strana.ua/news/328122-karantin-v-kieve-prodlili-do-maja-chto-izmenilos-za-vremja-lokdauna-v-aprele.html
+	set tags ukraina,kiev,karantin,lockdown,covid
 eof
 off
 page

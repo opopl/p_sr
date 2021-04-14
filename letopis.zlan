@@ -19609,6 +19609,12 @@ page
 page
 	set url https://strana.ua/news/328093-prjanik-bajdena-chto-pishut-zapadnye-smi-o-zvonke-prezidenta-ssha-putinu.html
 	set tags ukraina,rossia,biden_joe,putin_vladimir,zvonok
+page
+	set url https://zen.yandex.ru/media/redbook/velikii-taras-shevchenko-budet-jiv-vechno-poka-aktualny-ego-stroki-risknula-dlia-vas-perevesti-6076505e12a6102f160aeeed
+	set tags shevchenko_taras,perevod,rusmir,rossia
+page
+	set url https://zen.yandex.ru/media/armenia/kto-po-nacionalnosti-znamenitaia-figuristka-evgeniia-medvedeva-i-pochemu-ne-nosit-familiiu-otca-60224758d1d01a0cf8ca00fb
+	set tags medvedeva_evgenia.figurist.rossia,sport,figurist,armenia
 eof
 off
 page

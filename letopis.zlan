@@ -19570,6 +19570,27 @@ page
 page
 	set url https://zen.yandex.ru/media/history_russian/reki-s-kotoryh-nachalas-rus-5f9715441772f52b508fa342
 	set tags reka,rossia,rus',istoria,dnepr
+page
+	set url https://strana.ua/news/328052-razhovor-bajdena-i-putina-zakonchitsja-li-vojna-na-donbasse.html
+	set tags usa,rossia,putin_vladimir,biden_joe,zvonok
+page
+	set url https://strana.ua/news/327942-perepiski-khantera-bajdena-i-fotohrafii-s-noutbuka-cheho-net-v-memuarakh-beautiful-things.html
+	set tags biden_joe,biden_hanter,usa,skandal,zhizn
+page
+	set url https://www.radiosvoboda.org/a/rosier-pasporty-donbas-vijna/31203345.html
+	set tags rossia,donbass,vojna,ukraina,passport,grazhdanstvo
+page
+	set url https://news.obozrevatel.com/kiyany/life/v-kieve-umer-avtor-pamyatnikov-mihailu-grushevskomu-i-olesyu-gonchara.htm
+	set tags chepelik_vladimir.skulptor,smert,ukraina,kultura,grushevskij_mihail.istorik
+page
+	set url http://lug-info.com/news/one/predstaviteli-vlastei-i-obschestvenniki-pochtili-pamyat-zhertv-karatelei-iz-oun-upa-foto-66585
+	set tags pamjatnik,lugansk,lnr,oun,upa,nacionalist,pamjat
+page
+	set url http://lug-info.com/news/one/od-mir-luganschine-priglashaet-zhitelei-lnr-prinyat-uchastie-v-konkurse-otkrytka-respublike-66593
+	set tags lnr,konkurs,otkrytka,mir_luganschine
+page
+	set url http://lug-info.com/news/one/novyi-rentgen-apparat-imeet-shirokii-spektr-vozmozhnostei-glavvrach-detskoi-polikliniki-foto-66589
+	set tags lnr,lugansk,deti,bolnica,tehnika,rentgen,medicina
 eof
 off
 page

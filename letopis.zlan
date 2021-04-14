@@ -19669,6 +19669,9 @@ page
 page
 	set url https://zen.yandex.ru/media/slavmir/nastupilo-utro-svaroga-probujdenie-chelovecheskogo-soznaniia-vremia-duhovnogo-rassveta-607492745b891f51191dd959
 	set tags svarog,future,rusmir
+page
+	set url https://strana.ua/news/328236-bajden-objavil-ob-okonchanii-samoj-dolhoj-vojny-v-istorii-ssha.html
+	set tags usa,vojna,taliban,biden_joe,afganistan
 eof
 off
 page

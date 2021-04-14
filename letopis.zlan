@@ -19543,6 +19543,18 @@ page
 page
 	set url https://censor.net/ru/video_news/3259121/godovschina_okkupatsii_slavyanska_terrorist_girkin_priznal_chto_bez_rossiyiskogo_voennogo_vmeshatelstva
 	set tags girkin_igor,rusvesna,ukraina,rossia,vojna,donbass,14.04.2014,slavjansk
+page
+	set url https://strana.ua/news/328081-hlava-sbu-obsudil-s-kristinoj-kvin-narashchivanie-voennoj-moshchi-na-hranitse-rf-i-ukrainy.html
+	set tags usa,rossia,bakanov_ivan.sbu,us_embassy,ukraina,obsuzhdenie,sbu
+page
+	set url https://strana.ua/news/326894-rossijskoe-hrazhdanstvo-zheny-bakanova-eto-uhroza-dlja-natsbezopasnosti-ukrainy-danilov.html
+	set tags bakanov_ivan.sbu,rnbo,ukraina,rossia,grazhdanstvo,danilov_aleksei
+page
+	set url http://the-salt.ru/archives/452
+	set tags dovlatov_sergej.pisatel,fraza,rossia,rusmir,literatura,kultura
+page
+	set url https://lenta.ru/articles/2021/04/14/turkey/
+	set tags rossia,turcia,turizm,zapret,otdyh
 eof
 off
 page

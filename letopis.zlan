@@ -19555,6 +19555,12 @@ page
 page
 	set url https://lenta.ru/articles/2021/04/14/turkey/
 	set tags rossia,turcia,turizm,zapret,otdyh
+page
+	set url https://plus.obozrevatel.com/crime/volontera-ubili-v-nelegalnom-igrovom-zavedenii-v-nikopole-podrobnosti-gibeli-zhenschinyi-na-dnepropetrovschine.htm
+	set tags donbass,vojna,volonter,murder,ukraina,kriminal,policia,nikopol.ukraina
+page
+	set url https://www.radiosvoboda.org/a/rosiya-ukrayina-donbas-krym/31202750.html
+	set tags vojna,donbass,rossia,ukraina,nato,usa
 eof
 off
 page

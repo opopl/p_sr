@@ -19522,6 +19522,27 @@ page
 	set url https://www.istpravda.com.ua/files/agitation30/page18249238.html
 	set tags ukraina,istoria,agitacia,30_let,politika
 	set date 14_04_2021
+page
+	set url https://news.obozrevatel.com/politics/vopros-ne-v-tom-budet-li-vojna-a-v-tom-budet-li-ona-lish-protiv-ukrainyi.htm
+	set tags ukraina,zapad,vojna,putin_vladimir,rossia
+page
+	set url https://zaxid.net/z_karpat_na_gori_galileyi_n1517330
+	set tags ukraina,izrail,galilea,kommuna,karpaty
+page
+	set url https://gazeta.ua/blog/54906/zayavi-mendel-zbigayutsya-z-interesami-kremlya
+	set tags ukraina,obschestvo,jazyk,mova,mendel_julia
+page
+	set url https://day.kyiv.ua/uk/article/cuspilstvo/chomu-zagynuv-yuriy-gagarin
+	set tags gagarin_jurij,smert,prichina,sssr,istoria
+page
+	set url https://strana.ua/news/328038-ramzan-kadyrov-iz-za-prosby-navalnoho-o-korane-nazval-eho-vrahom-i-predatelem.html
+	set tags kadyrov_ramzan,islam,koran,navalny,rossia,kolonia,tjurma,zapret,vera,chechnja
+page
+	set url https://miaistok.su/vyhodnye-v-luganske-kuda-pojti-3-i-4-aprelya/
+	set tags lnr,lugansk,afisha
+page
+	set url https://censor.net/ru/video_news/3259121/godovschina_okkupatsii_slavyanska_terrorist_girkin_priznal_chto_bez_rossiyiskogo_voennogo_vmeshatelstva
+	set tags girkin_igor,rusvesna,ukraina,rossia,vojna,donbass,14.04.2014,slavjansk
 eof
 off
 page

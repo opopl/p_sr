@@ -19615,6 +19615,15 @@ page
 page
 	set url https://zen.yandex.ru/media/armenia/kto-po-nacionalnosti-znamenitaia-figuristka-evgeniia-medvedeva-i-pochemu-ne-nosit-familiiu-otca-60224758d1d01a0cf8ca00fb
 	set tags medvedeva_evgenia.figurist.rossia,sport,figurist,armenia
+page
+	set url https://strana.ua/news/328156-televizionnoho-eksperta-jurija-dudkina-obvinjajut-v-hosudarstvennoj-izmene.html
+	set tags dudkin_jurij,sbu,arest,ukraina,pidozra,repressii,ekspert
+page
+	set url https://strana.ua/opinions/328068-mirovaja-politika-vkljuchaet-i-perehovory-s-vrahami.html
+	set tags ukraina,rossia,usa,biden_joe,putin_vladimir,peregovory,geopolitika
+page
+	set url https://fraza.com/analytics/299755-pod-isterichnye-vopli-putin-napadet-ukraintsev-snova-iznasilovali-tarifami-na-kommunalku
+	set tags ukraina,putin_vladimir,tarify,iznasilovanie
 eof
 off
 page

@@ -19654,6 +19654,21 @@ page
 page
 	set url http://lug-info.com/news/one/zhiteli-respubliki-pochtili-pamyat-zhertv-ukrainskoi-agressii-protiv-donbassa-foto-66612
 	set tags lnr,lugansk,vojna,pamjat,ato,donbass,2014,rnbo,turchinov_aleksandr
+page
+	set url https://zen.yandex.ru/media/id/606c81eddb5a8450ae594c96/rodina-60770baf37222b00b29d231a
+	set tags rodina,rusmir,rossia,ljubov
+page
+	set url https://zen.yandex.ru/media/id/606c81eddb5a8450ae594c96/chudesa-riadom-606c87186b07e37898153853
+	set tags chudesa,zvezda,nebo
+page
+	set url https://zen.yandex.ru/media/julija/pod-kievom-606e218b535de31cb15681f6
+	set tags ukraina,kiev,zhizn,chelovek
+page
+	set url https://zen.yandex.ru/media/istok/istoriki-uznali-pochemu-polovcy-gromili-monastyri-i-nenavideli-ikony-60493f753949137c74df198b
+	set tags istoria,kievrus,letopis.pvl,polovcy,ikony,1096,lavra
+page
+	set url https://zen.yandex.ru/media/slavmir/nastupilo-utro-svaroga-probujdenie-chelovecheskogo-soznaniia-vremia-duhovnogo-rassveta-607492745b891f51191dd959
+	set tags svarog,future,rusmir
 eof
 off
 page

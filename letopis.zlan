@@ -19509,6 +19509,19 @@ page
 page
 	set url https://miaistok.su/v-ukrainskom-teatre-luganska-pokazali-komediyu-damskih-del-master/
 	set tags lnr,lugansk,spektakl,starickij_mihail.ukr.dramaturg,teatr
+page
+	set url http://lug-info.com/news/one/obraschenie-glavy-lnr-leonida-pasechnika-po-sluchayu-sedmoi-godovschiny-nachala-voiny-66575
+	set tags lnr,ato,ukraina,pasechnik_leonid,vojna,donbass,14.04.2014,14_apr
+page
+	set url https://strana.ua/news/328021-bajden-pozvonil-putinu-kuleba-i-danilov-patsifisty-sluhi-zavalili-zapret-rosta-tarifov.html
+	set tags ukraina,zelenskii_vladimir,sternenko_sergei,oask,itogi,putin_vladimir,biden_joe,peregovory,donbass,vojna
+page
+	set url https://www.radiosvoboda.org/a/lyst-do-putina/31202063.html
+	set tags ukraina,donbass,vojna,rossia,pushilin_denis
+page
+	set url https://www.istpravda.com.ua/files/agitation30/page18249238.html
+	set tags ukraina,istoria,agitacia,30_let,politika
+	set date 14_04_2021
 eof
 off
 page

@@ -19591,6 +19591,24 @@ page
 page
 	set url http://lug-info.com/news/one/novyi-rentgen-apparat-imeet-shirokii-spektr-vozmozhnostei-glavvrach-detskoi-polikliniki-foto-66589
 	set tags lnr,lugansk,deti,bolnica,tehnika,rentgen,medicina
+page
+	set url http://lug-info.com/news/one/obmanutye-novobrantsy-iz-dnepropetrovska-ne-doekhali-do-zony-oos-narodnaya-militsiya-66600
+	set tags oos,dnepropetrovsk,vsu,voenkomat,vojna,ukraina,donbass,nm_lnr
+page
+	set url https://strana.ua/news/328169-v-rade-predlozhili-sdelat-kosmos-chastju-natsionalnoj-idei-ukrainy.html
+	set tags ukraina,kosmos,nacidea,nacia,future,korolev_sergei,verhovna_rada
+page
+	set url https://strana.ua/news/327880-vjatrovich-vyskazalsja-v-adres-fanatov-haharina-dnja-pobedy-a-takzhe-avakova-i-mendel.html
+	set tags imperia,istoria,sssr,den'_kosmonavtiki,ukraina,vjatrovich_vladimir,sirota
+page
+	set url https://strana.ua/news/326481-v-hosdume-prokommentirovali-slova-mendel-ob-ukrainskom-russkom-jazyke.html
+	set tags ukraina,rossia,jazyk,mendel_julia,gosduma
+page
+	set url https://strana.ua/news/324858-danilov-zajavil-ob-opasnosti-russkoho-jazyka-dlja-ukraintsev-iz-za-putina.html
+	set tags ukraina,danilov_aleksei,putin_vladimir,jazyk,rossia
+page
+	set url https://strana.ua/news/328093-prjanik-bajdena-chto-pishut-zapadnye-smi-o-zvonke-prezidenta-ssha-putinu.html
+	set tags ukraina,rossia,biden_joe,putin_vladimir,zvonok
 eof
 off
 page

@@ -19639,6 +19639,9 @@ page
 page
 	set url https://strana.ua/news/328122-karantin-v-kieve-prodlili-do-maja-chto-izmenilos-za-vremja-lokdauna-v-aprele.html
 	set tags ukraina,kiev,karantin,lockdown,covid
+page
+	set url https://strana.ua/articles/istorii/328148-karibskij-stsenarij-putina-stanet-li-zelenskij-vtorym-fidelem.html
+	set tags karibskij_krizis,1962,hruschov_nikita,rossia,ukraina,vojna,kompromiss,usa,kuba,oon,sssr,istoria,kennedy_john,turcia,putin_vladimir,biden_joe
 eof
 off
 page

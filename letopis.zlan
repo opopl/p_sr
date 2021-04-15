@@ -20029,6 +20029,9 @@ page
 page
 	set url https://lenta.ru/articles/2021/04/16/pushilin/
 	set tags ukraina,rossia,pushilin_denis,donbass,vojna,dnr,zelenskii_vladimir,nato,zapad
+page
+	set url https://zaxid.net/ukrayinska_rosiyska_tsibulya_n1517435
+	set tags cybulja,lukovica,ukraina,_important,rossia,mentalitet,istoria,nacia,nacidea,vjatrovich_vladimir,narod,imperia
 eof
 off
 page

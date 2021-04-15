@@ -19672,6 +19672,27 @@ page
 page
 	set url https://strana.ua/news/328236-bajden-objavil-ob-okonchanii-samoj-dolhoj-vojny-v-istorii-ssha.html
 	set tags usa,vojna,taliban,biden_joe,afganistan
+page
+	set url https://strana.ua/news/328240-ssha-reshili-ne-napravljat-svoi-korabli-v-chernoe-more.html
+	set tags ukraina,rossia,vojna,usa,putin_vladimir,biden_joe,black_sea,flot,otmena
+page
+	set url https://strana.ua/news/327954-rossijskie-voennye-korabli-napravljajutsja-v-chernoe-more.html
+	set tags flot,rossia,uchenija,black_sea
+page
+	set url https://strana.ua/opinions/328232-samyj-hlavnyj-vrah-ukrainy-eto-ne-putin-a-nasha-razdroblennost.html
+	set tags ukraina,rossia,raskol,putin_vladimir,obschestvo,nacia,nacidea,razdroblennost
+page
+	set url https://strana.ua/opinions/328231-strana-bez-sledstvija-bez-suda-bez-konstitutsii.html
+	set tags ukraina,sud,oask,strana,zelenskii_vladimir,verhovna_rada,konstitucia
+page
+	set url https://www.radiosvoboda.org/a/pryhody-rosiyskoyi-vaktsyny-v-evropi/31203967.html
+	set tags sputnik_v,vaccine,covid,germania,evropa,politika,pobochka,rossia,vaccinacia
+page
+	set url https://www.radiosvoboda.org/a/news-sputnik-rosiya-slovachchyna-vaktsyna/31193833.html
+	set tags rossia,sputnik_v,slovakia,skandal,vaccine,covid,pokupka
+page
+	set url https://nv.ua/publications/my-sami-vinovaty-posmotrite-kogo-my-vybrali-eto-styd-sergej-zhadan-o-poisk-moralnyh-avtoritetov-i-infantilizm-ukraintsev-214859.html
+	set tags zhadan_sergej,kniga,tampliery,kultura,literatura,nacia,mentalitet,ukraina,donbass,vojna,psihologia,chelovek
 eof
 off
 page

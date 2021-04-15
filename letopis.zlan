@@ -19693,6 +19693,69 @@ page
 page
 	set url https://nv.ua/publications/my-sami-vinovaty-posmotrite-kogo-my-vybrali-eto-styd-sergej-zhadan-o-poisk-moralnyh-avtoritetov-i-infantilizm-ukraintsev-214859.html
 	set tags zhadan_sergej,kniga,tampliery,kultura,literatura,nacia,mentalitet,ukraina,donbass,vojna,psihologia,chelovek
+page
+	set url http://lug-info.com/news/one/zhiteli-kirovska-pri-uborke-pridomovykh-territorii-obnaruzhili-dva-boepripasa-mchs-lnr-66627
+	set tags lnr,kirovsk.lnr,mns_lnr,nahodka,bojepripas,vojna,donbass
+page
+	set url https://strana.ua/news/328280-tsentr-protivodejstvija-dezinformatsii-snbo-ne-smoh-razoblachit-ni-odnoho-fejka.html
+	set tags ukraina,dezinformacia,infvojna,rnbo,fejk
+page
+	set url https://strana.ua/news/328267-serial-kompanii-zelenskoho-papik-2-voshel-v-top-5-luchshikh-prohramm-na-rossijskom-tv.html
+	set tags ukraina,rossia,papik,film,kultura,showbiz,kino,tv,zelenskii_vladimir,kvartal95
+page
+	set url https://strana.ua/news/328235-putin-molchit-o-vstreche-s-bajdenom-nato-hovorit-net-ukraine-pamjat-vmesto-pensij.html
+	set tags ukraina,lockdown,karantin,putin_vladimir,biden_joe,itogi,geopolitika,usa,rossia,nato,zapad,kiev,shokin_viktor.genprokuror.ukr,evrokomissia,zhaloba,institut_nacpamjati
+page
+	set url https://strana.ua/opinions/328265-evropejskie-kljuchi-otkryvshie-polskuju-cheshskuju-i-prochie-dveri-ne-podoshli-dlja-ukrainskoj.html
+	set tags ukraina,geopolitika,evropa
+page
+	set url https://news.obozrevatel.com/society/kak-rf-stala-pravopreemnikom-sssr-esli-sssr-nikogda-ofitsialno-ne-sozdavali.htm
+	set tags rossia,sssr,istoria,pravoprejemnik
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-tak-hochetsya-uvidet-kak-oni-budut-bezhat-otsyuda-kak-kryisyi.htm
+	set tags rossia,krym,okupacia,vossoedinenie,zhizn,obschestvo
+page
+	set url https://news.obozrevatel.com/politics/putin-uzhe-proigral.htm
+	set tags putin_vladimir,biden_joe,usa,rossia,geopolitika
+page
+	set url https://ukrainenews.fakty.ua/373609-krestnogo-otca-kontrabandy-alperina-lishili-grazhdanstva-ukrainy---smi
+	set tags grazhdanstvo,ukraina,rnbo
+page
+	set url https://ukrainenews.fakty.ua/373626-nardepy-shufrich-i-kamelchuk-edva-ne-podralis-v-pryamom-efire-iz-za-rossii
+	set tags ukraina,draka,shufrich_nestor,verhovna_rada,sluga_naroda,tv
+page
+	set url https://censor.net/ru/resonance/3259782/glavnye_voprosy_i_otvety_po_vtorjeniyu_rossii_obstanovka_na_14_aprelya
+	set tags ukraina,rossia,vtorzhenie,vojna,armia
+page
+	set url https://censor.net/ru/blogs/3259817/feodalna_rosya
+	set tags feodalizm,rossia,demokratia,istoria,mentalitet,narod,vlast,obschestvo
+page
+	set url https://zaxid.net/ne_moya_viyna_n1517358
+	set tags ukraina,rossia,vojna,obschestvo,di_rubens,onacka_taisia,psihologia,lvov
+page
+	set url https://strana.ua/news/328293-posol-ukrainy-v-hermanii-prizval-podumat-o-jadernom-statuse-iz-za-situatsii-v-strane.html
+	set tags rossia,ukraina,atomic_bomb,germania,posol,melnik_andrei,raketa
+page
+	set url https://strana.ua/articles/328101-kak-i-zachem-zelenskij-khochet-razohnat-oask-.html
+	set tags oask,zelenskii_vladimir,ukraina,sud,verhovna_rada,vneshnee_upravlenie,zapad
+page
+	set url https://strana.ua/news/328284-kievskij-rajon-donetska-okazalsja-pod-obstrelom-pohib-mirnyj-zhitel.html
+	set tags donbass,vojna,ukraina,oos,smert,doneck,obstrel
+page
+	set url https://strana.ua/news/328082-aleksandr-turchinov-raskritikoval-zelenskoho-za-peremirie-na-donbasse-i-intervju-time.html
+	set tags donbass,vojna,ukraina,zelenskii_vladimir,turchinov_aleksandr,peremirie,pozor
+page
+	set url https://www.vesti.ru/article/2550805
+	set tags vaccinacia,vaccine,covid,sputnik_v,rossia,world,nadezhda
+page
+	set url https://www.vesti.ru/article/2550753
+	set tags argentina,prezident,covid,vaccine,sputnik_v,rossia,vaccinacia,bolezn
+page
+	set url https://from-ua.com/articles/595607-kino-pro-voinu-vmesto-masla-i-vakcini-zachem-politiki-berut-drug-druga-na-slabo.html
+	set tags rossia,ukraina,vojna,donbass,podgotovka,analitika,putin_vladimir
+page
+	set url https://buzina.org/golos-naroda/3943-ratzpredlojenie.html
+	set tags ukraina,pamjatnik,shevchenko_taras
 eof
 off
 page

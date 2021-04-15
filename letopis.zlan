@@ -19768,6 +19768,12 @@ page
 page
 	set url https://www.radiosvoboda.org/a/kontaktna-grupa-shchodo-donbassu-peregovory-kazanskyy/31204873.html
 	set tags ukraina,vojna,donbass,kiev,peregovory,pirogova_maja,rossia
+page
+	set url https://willbeua.com/news/vipodok-i-natsionalict-navishcho-priyikhav-siudi-vistupati-u-rosiyi-isterika-cherez-dopis-ukrayinskogo-vazhkoatleta-dmitra-chumaka_21342/
+	set tags ukraina,rossia,chumak_dmitrij.atlet.ukr,skandal
+page
+	set url https://bolivar1958ds.mirtesen.ru/blog/43050272056/Padenie-Kieva.-Kak-YUriy-Dolgorukiy-izmenil-sudbu-Rusi.-Zagadka-
+	set tags kievrus,dolgorukij_jurij.knjaz
 eof
 off
 page

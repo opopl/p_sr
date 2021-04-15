@@ -19756,6 +19756,18 @@ page
 page
 	set url https://buzina.org/golos-naroda/3943-ratzpredlojenie.html
 	set tags ukraina,pamjatnik,shevchenko_taras
+page
+	set url https://www.vesti.ru/article/2550665
+	set tags rossia,sputnik_v,vaccine,tromboz,pobochka
+page
+	set url https://lenta.ru/news/2021/04/15/traur/
+	set tags rossia,tragedia,pozhar,deti,traur,dom
+page
+	set url https://news.obozrevatel.com/show/people/ukrainka-o-sizo-v-dubae-otnosilis-kak-k-sobakam-oblapyivali.htm
+	set tags dubaj,oae,pornografia,skandal,ukraina,erotika
+page
+	set url https://www.radiosvoboda.org/a/kontaktna-grupa-shchodo-donbassu-peregovory-kazanskyy/31204873.html
+	set tags ukraina,vojna,donbass,kiev,peregovory,pirogova_maja,rossia
 eof
 off
 page

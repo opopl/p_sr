@@ -19,6 +19,9 @@ include:
     - news.lnr.miaistok
     - news.lnr.narod_tribuna
 
+###news_nvr
+    - news.nvr.voshod_info
+
 ###news_ru
     #- news.ru.ria_kalm
     - news.ru.allcrimea_net

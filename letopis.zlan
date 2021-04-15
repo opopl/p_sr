@@ -19819,6 +19819,78 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/polityka/vdrug-razdalsya-grom-nebesnyy-telefonnogo-zvonka
 	set tags biden_joe,putin_vladimir,ukraina,rossia,usa,zvonok,diplomatia
+page
+	set url http://lug-info.com/news/one/zhiteli-luganska-v-ramkakh-aktsii-alleya-slavy-vysadili-bolee-30-skandinavskikh-ryabin-foto-66660
+	set tags lugansk,lnr,aktivist,priroda
+page
+	set url https://news.obozrevatel.com/politics/informatsionnyij-terrorizm-rossii-luchshee-nashe-oruzhie-pravda.htm
+	set tags ukraina,danilov_aleksei,dezinformacia,infvojna,rossia,pravda,oruzhie
+page
+	set url https://news.obozrevatel.com/abroad/bajden-vvel-sanktsii-protiv-rossii-i-vyislal-10-diplomatov.htm
+	set tags usa,rossia,biden_joe,diplomatia,sankcii,geopolitika
+page
+	set url https://strana.ua/news/328400-ukraintsy-vybrali-top-idealnykh-politikov.html
+	set tags ukraina,socopros,rejting,politika,istoria,bandera_stepan,jaroslav_mudryj,shevchenko_taras,obschestvo
+page
+	set url https://www.istpravda.com.ua/columns/2021/04/14/159313/
+	set tags ukraina,donbass,vojna,chelovek,fraza
+page
+	set url http://lug-info.com/news/one/proekt-volonter-peredal-kantselyarskie-nabory-shkolnikam-prifrontovogo-kalinovo-foto-66664
+	set tags mir_luganschine,lnr,donbass,aktivist,pomosch,deti,pervomajsk,volonter.lnr.dvizhenie
+page
+	set url https://lgaki.info/novosti/malenkie-muzykanty-s-bolshim-budushhim/
+	set tags lgaki,muzyka,konkurs,lnr,kultura,shkola,deti,lugansk,koncert,masterstvo
+page
+	set url http://lgpu.org/news/8033-pobeda-opernoy-studii-fakulteta-muzykalno-hudozhestvennogo-obrazovaniya-imeni-dzhuletty-yakubovich-lgpu.html
+	set tags lgpu,lnr,pobeda,opera,kultura,studia,lugansk,festival,konkurs,rossia,st_peterburg
+page
+	set url http://lgpu.org/news/8031-v-kabinete-russkogo-yazyka-istorii-i-kultury-vuza-sostoyalas-konferenciya-posvyaschennaya-vladimiru-dalyu.html
+	set tags lgpu,lugansk,lnr,dal'_vladimir,vstrecha,kultura,jazyk,rusmir,220_let,filologia,language,literatura
+page
+	set url https://kharkov.strana.ua/328416-v-kharkovskom-roddome-ot-koronavirusa-skonchalis-dve-rozhenitsy.html
+	set tags ukraina,harkov,roddom,covid,bolnica,bolezn,smert,rozhenica
+page
+	set url https://strana.ua/news/300453-rozhenitsa-s-koronavirusom-rodila-na-ulitse-video.html
+	set tags ukraina,cherkassy,roddom,covid,rozhenica,rebenok
+page
+	set url https://strana.ua/news/291456-v-rossii-reshili-postavit-pamjatniki-beremennym-dlja-podnjatija-demohrafii.html
+	set tags rossia,rozhdaemost,pamjatnik,beremennost,obschestvo,rpc,cerkov
+page
+	set url https://strana.ua/news/328380-zakharova-zajavila-chto-dejstvija-rossijskikh-vojsk-u-hranitsy-s-ukrainoj-nikomu-ne-uhrozhajut.html
+	set tags rossia,ukraina,mid_rf,zaharova_maria,armia,granica,zapad,germania,francia,minsk_dogovor
+page
+	set url https://strana.ua/news/328303-osnovnye-problemy-ukraintsev-v-2021-hodu-nazvali-sotsiolohi.html
+	set tags ukraina,socopros,obschestvo,sociologia,donbass,vojna,tarify,covid,bezrabotica,ekonomika
+page
+	set url https://strana.ua/articles/analysis/327984-london-khochet-kiev-dlja-svoej-osi-s-turtsiej.html
+	set tags ukraina,rossia,britania,london,diplomatia,bajraktar,konstitucia,nikolaev,zapad,kuleba_dmitrii,geopolitika
+page
+	set url https://lenta.ru/news/2021/04/15/physics/
+	set tags nauka,fizika,zadacha
+page
+	set url http://voskhodinfo.su/panorama/ideologiya/46107-opolchenochka-pervyy-film-o-vosstavshih-russkih-lyudyah-donbassa.html
+	set tags opolchenie,lnr,dnr,donbass,vojna,film.opolchenochka,novorossia
+page
+	set url https://vz.ru/opinions/2021/4/15/1094486.html
+	set tags rossia,vojna,obschestvo,zapad
+page
+	set url http://voskhodinfo.su/panorama/aktualnoe-video/33682-moskva-opolchency-prishli-na-film-voshvalyayuschiy-karateley-iz-aydara.html
+	set tags moskva,rossia,opolchency,film,ajdar.bataljon,karateli,razgovor
+page
+	set url http://voskhodinfo.su/okazat-pomosch-lyudyam/pomosch-semyam/62995-my-hotim-mira-no-kazhetsya-budet-voyna.html
+	set tags rossia,ukraina,vojna,donbass,mir,dogovor,obschenie
+page
+	set url http://voskhodinfo.su/panorama/ideologiya/64167-pochemu-nelzya-vpihnut-nevpihuemoe-ili-prichem-tut-sssr-otnositelno-rossii.html
+	set tags ideologia,sssr,rossia,istoria,sekta
+page
+	set url http://voskhodinfo.su/aktualno/64188-oni-tam-est-moya-zemlya-po-pravu-krovi.html
+	set tags ukraina,rossia,vojna,russkie,chelovek,nacizm,civil_war,fraza,_important
+page
+	set url http://voskhodinfo.su/okazat-pomosch-lyudyam/pomosch-semyam/62509-oni-tam-est-klassnye-russkie-parni.html
+	set tags ukraina,russkie,vojna,chelovek,_important
+page
+	set url http://voskhodinfo.su/panorama/geopolitika/15922-zhivem-lish-nadezhdoy-chto-rossiya-pridet.html
+	set tags rossia,nadezhda,konstantinovka,obschestvo,zhizn,ukraina,ludi,chelovek
 eof
 off
 page

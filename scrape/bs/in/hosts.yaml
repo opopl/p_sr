@@ -80,6 +80,9 @@
 'nt1941.su'    : { 'site' : 'news.lnr.narod_tribuna' }
 'miaistok.su'  : { 'site' : 'news.lnr.miaistok' }
 
+###news.nvr
+'voskhodinfo.su'  : { 'site' : 'news.nvr.voshod_info' }
+
 ###bib
 'exlibris.org.ua' : { 'site' : 'bib.ua.exlibris' }
 'child-lib.com' : { 'site' : 'bib.lnr.child_lib' }

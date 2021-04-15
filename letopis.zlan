@@ -20014,6 +20014,21 @@ page
 page
 	set url http://voskhodinfo.su/okazat-pomosch-lyudyam/pomosch-semyam/49614-oni-tam-est-russkie-skrepy.html
 	set tags ukraina,skrepy,rusmir,mentalitet,chelovek,rodina,spravedlivost,russkie,rossia,donbass,vojna,2014,maidan2
+page
+	set url http://voskhodinfo.su/nashi-avtori/nasha-besedka/63240-ya-russkiy-i-etim-vse-skazano.html
+	set tags russkie,rusmir,rossia,ukraina,donbass,vojna,debalcevo,2014,novorossia,lnr,mns_lnr,civil_war
+page
+	set url https://strana.ua/news/328388-iz-za-rossii-bajden-objavil-rezhim-chrezvychajnoj-situatsii-v-sfere-natsbezopasnosti-ssha.html
+	set tags biden_joe,putin_vladimir,rezhim_chs,usa,rossia,sankcii
+page
+	set url https://www.radiosvoboda.org/a/pavlo-kazarin-scheplennia-vid-myroliubnosti/31206003.html
+	set tags ukraina,rossia,kreml,putin_vladimir
+page
+	set url https://lenta.ru/articles/2021/04/16/what_happens_next/
+	set tags biden_joe,putin_vladimir,rossia,sankcii,usa,ukraina,geopolitika,diplomatia
+page
+	set url https://lenta.ru/articles/2021/04/16/pushilin/
+	set tags ukraina,rossia,pushilin_denis,donbass,vojna,dnr,zelenskii_vladimir,nato,zapad
 eof
 off
 page

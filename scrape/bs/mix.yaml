@@ -100,6 +100,8 @@ include:
     - news.ua.mediaport
     - news.ua.newsone
     - news.ua.oboz
+    - news.ua.zn
+    - news.ua.texty
     - news.ua.pravda
     - news.ua.prostirsvobody
     - news.ua.radiosvoboda

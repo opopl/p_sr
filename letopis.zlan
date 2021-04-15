@@ -18144,9 +18144,6 @@ page
 	set url https://analytics.hvylya.net/228343-zelenskiy-snbo-i-polet-nad-propastyu
 	set tags rnbo,zelenskii_vladimir,ukraina,propast,polet
 page
-	set url https://zn.ua/internal/strashnyj-sud-prezidenta-zelenskoho-dva-hoda-obeshchanij-i-nikakoho-prohressa.html
-	set tags zelenskii_vladimir,sud,sternenko_sergei,ukraina,strashnyj_sud,spravedlivost
-page
 	set url https://lb.ua/news/2021/04/07/481746_oleksiy_danilov_chi_bude.html
 	set tags rnbo,danilov_aleksei,ukraina,interview,derzhava,sankcii,repressii,cenzura
 page
@@ -18828,12 +18825,6 @@ page
 page
 	set url https://gazeta.ua/blog/54897/osterigatisya-varto-ne-tak-tisyachi-bagnetiv-yak-kilkoh-gazet
 	set tags ukraina,dezinformacia,infvojna
-page
-	set url https://zn.ua/science/mechty-o-kosmose-kak-drajver-nauki-obrazovanija-i-innovatsij.html
-	set tags kosmos,ukraina,nauka,universe
-page
-	set url https://zn.ua/science/prezident-nanu-anatolij-zahorodnij-v-obshchestve-sushchestvuet-ohromnyj-zapros-na-konstruktivnye-diskussii-i-nauchnye-znanija-i-my-prosto-objazany-eho-udovletvorit-.html
-	set tags ukraina,nauka,zagorodnij_anatolij.fizik.ukr,interview,fizika
 page
 	set url https://regnum.ru/news/society/3240004.html
 	set tags rossia,den'_kosmonavtiki,gagarin_jurij,prazdnik,prazdnovanie
@@ -19897,6 +19888,36 @@ page
 page
 	set url https://bolivar1958ds.mirtesen.ru/blog/43050272056/Padenie-Kieva.-Kak-YUriy-Dolgorukiy-izmenil-sudbu-Rusi.-Zagadka-
 	set tags kievrus,dolgorukij_jurij.knjaz
+page
+	set url https://strana.ua/news/328307-v-kharkove-natsionalisty-trebujut-uvolit-prepodavatelja-akademii-nauk-za-post-v-seti.html
+	set tags harkov,vata,nacionalist,sbu,kafedra,prepodavatel,docent,72_goda,semejkina_natalia.harkov.docent,ukraina,skandal,facebook
+page
+	set url https://zn.ua/internal/strashnyj-sud-prezidenta-zelenskoho-dva-hoda-obeshchanij-i-nikakoho-prohressa.html
+	set tags zelenskii_vladimir,sud,sternenko_sergei,ukraina,strashnyj_sud,spravedlivost
+page
+	set url https://zn.ua/science/mechty-o-kosmose-kak-drajver-nauki-obrazovanija-i-innovatsij.html
+	set tags kosmos,ukraina,nauka,universe
+page
+	set url https://zn.ua/science/prezident-nanu-anatolij-zahorodnij-v-obshchestve-sushchestvuet-ohromnyj-zapros-na-konstruktivnye-diskussii-i-nauchnye-znanija-i-my-prosto-objazany-eho-udovletvorit-.html
+	set tags ukraina,nauka,zagorodnij_anatolij.fizik.ukr,interview,fizika
+page
+	set url https://medium.com/pythoneers/automate-facebook-posts-using-python-4d17b3a26100
+	set tags facebook,it,python
+page
+	set url https://texty.org.ua/articles/103382/chas-doroslishaty-nihto-ne-podolaye-zahrozu-rosiyi-krim-nas-samyh/
+	set tags ukraina,rossia,vojna,obschestvo
+page
+	set url https://texty.org.ua/articles/102789/ilyuziya-majdanu-hto-i-navisho-porivnyuye-shturm-kapitoliyu-protesty-u-bilorusi-ta-majdan-v-ukrayini/
+	set tags ukraina,rossia,usa,dezinformacia,infvojna,maidan2,kapitolij,shturm_kapitolii_2021
+page
+	set url https://ukraina.ru/exclusive/20210415/1031143894.html
+	set tags hruschov_nikita,ukraina,istoria,sssr,chelovek
+page
+	set url https://ukraina.ru/opinion/20210415/1031139545.html
+	set tags ukraina,rossia,krym,blokada,infvojna
+page
+	set url https://ukraina.ru/exclusive/20210316/1030830736.html
+	set tags ukraina,krym,blokada,rossia,2014
 eof
 off
 page

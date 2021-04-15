@@ -40,6 +40,8 @@
 'racurs.ua' : { 'site' : 'news.ua.racurs' }
 'korrespondent.net' : { 'site' : 'news.ua.korrespondent' }
 'molbuk.ua' : { 'site' : 'news.ua.molbuk' }
+'zn.ua' : { 'site' : 'news.ua.zn' }
+'texty.org.ua' : { 'site' : 'news.ua.texty' }
 
 ###news.by
 'tut.by' : { 'site' : 'news.by.tut' }

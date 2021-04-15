@@ -19816,6 +19816,9 @@ page
 page
 	set url https://strana.ua/news/328389-uchebniki-po-istorii-ukrainy-istoriju-majdana-otmenili-cherez-sud.html
 	set tags ukraina,istoria,uchebnik,shkola,sud,oask,portnov_andrei,maidan2,aktivist,berkut.ukr,minobr.ukr,obrazovanie
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/vdrug-razdalsya-grom-nebesnyy-telefonnogo-zvonka
+	set tags biden_joe,putin_vladimir,ukraina,rossia,usa,zvonok,diplomatia
 eof
 off
 page

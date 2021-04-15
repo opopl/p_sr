@@ -19774,6 +19774,24 @@ page
 page
 	set url https://bolivar1958ds.mirtesen.ru/blog/43050272056/Padenie-Kieva.-Kak-YUriy-Dolgorukiy-izmenil-sudbu-Rusi.-Zagadka-
 	set tags kievrus,dolgorukij_jurij.knjaz
+page
+	set url https://strana.ua/news/328361-bajden-vvel-novye-sanktsii-protiv-rossii.html
+	set tags rossia,usa,sankcii,biden_joe
+page
+	set url https://strana.ua/news/328362-mineru-kvartiry-roditelej-zelenskoho-v-krivom-rohe-dali-uslovnyj-srok.html
+	set tags ukraina,kriminal,ugrozy,zelenskii_vladimir,dom,roditeli
+page
+	set url https://strana.ua/opinions/328336-s-momenta-sozdanija-tsentr-protivodejstvija-dezinformatsii-razoblachil-nol-fejkov.html
+	set tags ukraina,dezinformacia,infvojna
+page
+	set url http://lug-info.com/news/one/bolee-670-yunykh-muzykantov-prinyali-uchastie-v-respublikanskom-smotre-konkurse-v-lgaki-66645
+	set tags lnr,muzyka,kultura,lgaki,konkurs,molodezh
+page
+	set url http://lug-info.com/news/one/od-mir-luganschine-priglashaet-prinyat-uchastie-v-pesennom-fleshmobe-ko-dnyu-respubliki-66648
+	set tags lnr,pesnja,fleshmob,kultura,rodina
+page
+	set url http://lug-info.com/news/one/nedelya-glazami-eksperta-ocherednoe-vneocherednoe-brekhlo-lingvokonfuz-i-tochka-nevozvrata-66469
+	set tags lnr,itogi,nm_lnr,vojna,donbass,peregovory,tkg
 eof
 off
 page

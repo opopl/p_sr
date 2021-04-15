@@ -19948,6 +19948,42 @@ page
 page
 	set url https://lgaki.info/novosti/vpervye-dni-nauki-v-akademii-matusovskogo-projdut-v-vide-sessii-nauchnyh-meropriyatij/
 	set tags lgaki,lnr,nauka,konferencia,rossia
+page
+	set url https://strana.ua/news/328451-vaktsina-pfizer-po-prohramme-covax-ne-budet-prokhodit-laboratornyj-kontrol-v-ukraine.html
+	set tags covax,pfizer,stepanov_maksim,vaccinacia,vaccine,ukraina,covid
+page
+	set url https://inosmi.ru/science/20210415/249574466.html
+	set tags vaccine,nauka,issledovanie,tromboz,pfizer,moderna,covid,medicina,oxford_university
+page
+	set url https://strana.ua/news/328458-kievskij-biznesmen-rasskazal-kak-popal-v-sanktsionnyj-spisok-kontrabandistov-snbo.html
+	set tags ukraina,kiev,rnbo,sankcii,ofis_prezidenta,jermak_andrej,kontrabanda,spisok
+page
+	set url https://strana.ua/news/328223-popavshikh-pod-sanktsii-snbo-trekh-byvshikh-hrazhdan-ukrainy-sobirajutsja-deportirovat.html
+	set tags ukraina,rnbo,grazhdanstvo,kontrabanda,sankcii,presledovanie
+page
+	set url https://112ua.tv/interview/snezhana-egorova-vlast-absolyutno-bezzubaya-i-ne-mozhet-proyavit-nikakoy-aktivnosti-574319.html
+	set tags ukraina,interview,konclager,vaccinacia,zelenskii_vladimir,sternenko_sergei,sud,ksu,cenzura,zapret,repressii,presledovanie
+page
+	set url https://sharij.net/komendantskij-chas-i-maroderstvo-kak-v-ssha-vspyhnuli-novye-besporyadki-iz-za-ubijstva-eshhe-odnogo-temnokozhego
+	set tags protest.usa.police_murders,usa,policia,murder,smert,minnesota,rajt_daunt.usa
+page
+	set url https://sharij.net/mer-ivano-frankovska-gotovitsya-k-polnomasshtabnomu-vtorzheniyu-rossii-i-sobiraet-dobrovolczev
+	set tags donbass,ukraina,rossia,armia,vojna,ivano_frankovsk
+page
+	set url https://sharij.net/180814
+	set tags pamjatnik,nebesna_sotnja,harkov,vandalizm,ukraina,policia
+page
+	set url https://sharij.net/eskalacziya-na-donbasse-i-v-chernom-more-chto-proishodit-mezhdu-rossiej-i-ukrainoj-i-naskolko-realen-vooruzhennyj-konflikt
+	set tags ukraina,rossia,vojna,_picture,analitika
+page
+	set url https://sharij.net/suiczidy-v-armii-pochemu-ukrainskie-voennye-stali-chashhe-svodit-schyoty-s-zhiznyu
+	set tags ukraina,suicid,vsu,psihologia,armia,veteran,oos,ato,narkomania,alkogolizm
+page
+	set url https://strana.ua/news/219086-ukrainskie-voennye-hlavnaja-problema-javorovskoho-uchebnoho-tsentra-polkovnik-ssha.html
+	set tags ukraina,armia,blogger,skandal
+page
+	set url https://news.obozrevatel.com/society/zhizn-v-sssr-a-vyi-sdavali-butyilki.htm
+	set tags sssr,istoria
 eof
 off
 page

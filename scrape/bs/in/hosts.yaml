@@ -47,6 +47,8 @@
 'tut.by' : { 'site' : 'news.by.tut' }
 
 ###news.ru
+#
+'rusvesna.su' : { 'site' : 'news.ru.rusvesna' }
 
 # stavropol
 'stapravda.ru' : { 'site' : 'news.ru.stapravda' }
@@ -76,6 +78,9 @@
 'regnum.ru' : { 'site' : 'news.ru.regnum' }
 'eadaily.com' : { 'site' : 'news.ru.eadaily' }
 'mirtesen.ru' : { 'site' : 'news.ru.mirtesen' }
+
+###news.dnr
+'dnr-hotline.ru' : { 'site' : 'news.dnr.hotline' }
 
 ###news.lnr
 'lug-info.com' : { 'site' : 'news.lnr.lug_info' }

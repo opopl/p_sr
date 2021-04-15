@@ -18448,9 +18448,6 @@ page
 	set url https://riakursk.ru/baton-i-podovyy-khleb-iz-kurskoy-oblasti-udostoilis-malogo-kubka-vserossiyskogo-konkursa/
 	set tags rossia,kursk,baton,hleb,konkurs,eda
 page
-	set url https://dnr-hotline.ru/20210405-dvenadcatiletnjaja-shkolnica-iz-luganska-napisala-misticheskij-roman/
-	set tags dnr,literatura,savenkova_faina,donbass,kultura,kniga,dobro,zlo,dusha,deti,vojna,ukraina,2014
-page
 	set url https://strana.ua/news/327304-koroleva-bez-opory-i-razhovory-o-naslednike-chto-izmenit-smert-printsa-filippa.html
 	set tags britania,elizaveta_II_koroleva,traur,princ_fillip.suprug_korolevy_elizavety,smert,monarhia,world
 page
@@ -19984,6 +19981,39 @@ page
 page
 	set url https://news.obozrevatel.com/society/zhizn-v-sssr-a-vyi-sdavali-butyilki.htm
 	set tags sssr,istoria
+page
+	set url https://kiev.strana.ua/328470-v-tsentre-kieva-zhiltsy-do-smerti-izbili-bezdomnoho-prjamo-v-paradnom.html
+	set tags ukraina,kiev,bomzh,izbienie,smert,kriminal,policia
+page
+	set url https://strana.ua/news/325522-v-izmaile-dvoe-malchikov-do-smerti-izbili-bezdomnoho-muzhchinu.html
+	set tags ukraina,kriminal,podrostki,bomzh,izbienie,smert,izmail,policia
+page
+	set url https://strana.ua/opinions/328460-okazyvaetsja-rossijskie-rakety-perebrasyvajut-ot-hranits-ukrainy-a-ne-k-nim.html
+	set tags rossia,granica,ukraina,iskander.kompleks.rakety,vojna,voronezh,kursk,armia,geografia
+page
+	set url https://strana.ua/opinions/328462-my-nikohda-ne-byli-hotovy-k-vojne-kotoraja-nachinalas.html
+	set tags ukraina,vojna,gotovnost,rossia
+page
+	set url https://news.obozrevatel.com/politics/yarosh-nazval-uslovie-pri-kotorom-rossiya-smozhet-zahvatit-ukrainu.htm
+	set tags rossia,ukraina,vojna,podgotovka,vtorzhenie,jarosh_dmitrii
+page
+	set url https://vz.ru/opinions/2021/4/15/1094347.html
+	set tags rossia,istoria,proshloje,obschestvo,nicshe_fridrih.filosof
+page
+	set url https://dnr-hotline.ru/20210405-dvenadcatiletnjaja-shkolnica-iz-luganska-napisala-misticheskij-roman/
+	set tags dnr,literatura,savenkova_faina,donbass,kultura,kniga,dobro,zlo,dusha,deti,vojna,ukraina,2014
+page
+	set url https://vk.com/@donetsk_night-sekrety-pervoi-skripki
+	set tags skripka,doneck,donbass,obschestvo,muzyka,kultura,dnr,gamar_vladimir.skripach.dnr,filarmonia.doneck,75_let
+page
+	set url https://rusvesna.su/news/1618510730
+	set tags kosmonavt,beregovoj_georgij.kosmonavt.sssr,100_let,sssr,istoria,enakievo,donbass,pushilin_denis,dnr
+page
+	set url https://dnr-hotline.ru/20210416-o-chjom-skazal-bajden-v-svojom-obrashhenii-k-nacii/
+	set tags biden_joe,_picture,usa,sankcii,rossia,vystuplenie,promova
+page
+	set url http://voskhodinfo.su/okazat-pomosch-lyudyam/pomosch-semyam/49614-oni-tam-est-russkie-skrepy.html
+	set tags ukraina,skrepy,rusmir,mentalitet,chelovek,rodina,spravedlivost,russkie,rossia,donbass,vojna,2014,maidan2
 eof
 off
 page

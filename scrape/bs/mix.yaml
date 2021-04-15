@@ -19,6 +19,9 @@ include:
     - news.lnr.miaistok
     - news.lnr.narod_tribuna
 
+###news_dnr
+    - news.dnr.hotline
+
 ###news_nvr
     - news.nvr.voshod_info
 
@@ -29,6 +32,7 @@ include:
     - news.ru.eadaily
     - news.ru.inosmi
     - news.ru.izvestia
+    - news.ru.rusvesna
     #- news.ru.kp
     - news.ru.lenta
     - news.ru.meduza

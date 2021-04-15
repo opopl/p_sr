@@ -19792,6 +19792,30 @@ page
 page
 	set url http://lug-info.com/news/one/nedelya-glazami-eksperta-ocherednoe-vneocherednoe-brekhlo-lingvokonfuz-i-tochka-nevozvrata-66469
 	set tags lnr,itogi,nm_lnr,vojna,donbass,peregovory,tkg
+page
+	set url https://strana.ua/news/328375-v-rossi-ne-budet-mjahkoj-reaktsii-na-sanktsii-ssha.html
+	set tags rossia,usa,sankcii,posol,mid_rf,zaharova_maria,biden_joe,us_embassy
+page
+	set url https://strana.ua/news/328319-sanktsii-ssha-i-zrada-ot-hermanii-chto-izmenil-zvonok-bajdena-putinu-dlja-ukrainy.html
+	set tags ukraina,rossia,biden_joe,zrada,donbass,vojna,obstrel,smert,doneck
+page
+	set url https://strana.ua/opinions/328399-ameriku-budut-dobivat-kak-nekohda-dobivali-rimskuju-imperiju.html
+	set tags amerika,imperia,usa,raspad,geopolitika,varvary,rimimperia,future,rossia
+page
+	set url https://strana.ua/opinions/328340-ideja-likvidatsii-kievskoho-administrativnoho-suda-absoljutnaja-oshibka.html
+	set tags ukraina,oask,zelenskii_vladimir,oshybki,obschestvo
+page
+	set url https://gazeta.ua/blog/54924/zelenskij-vdaye-iz-sebe-genseka-a-rnbo-virishiv-peretvoriti-na-ck-kprs
+	set tags sssr,istoria,grazhdanstvo,sovok,zelenskii_vladimir,rnbo,kpss,ukraina
+page
+	set url https://gazeta.ua/blog/54919/zahoplennya-kiyeva-sakralna-cil-rosiyan-ak-zahischatimemo-stolicyu
+	set tags ukraina,kiev,mat_gorodam_ruskim,sakralnost',rossia,vojna,ataka,podgotovka,armia
+page
+	set url https://analytics.hvylya.net/228883-zamysel-ukrainskogo-gosudarstva-socialnost-samodostatochnost-nezavisimost-chast-vtoraya
+	set tags ukraina,obschestvo,nacia,derzhava,nacidea,socialnost',narod,nezalezhnist,samodostatochnost',spravedlivost
+page
+	set url https://strana.ua/news/328389-uchebniki-po-istorii-ukrainy-istoriju-majdana-otmenili-cherez-sud.html
+	set tags ukraina,istoria,uchebnik,shkola,sud,oask,portnov_andrei,maidan2,aktivist,berkut.ukr,minobr.ukr,obrazovanie
 eof
 off
 page

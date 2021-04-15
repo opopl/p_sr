@@ -19772,9 +19772,6 @@ page
 	set url https://willbeua.com/news/vipodok-i-natsionalict-navishcho-priyikhav-siudi-vistupati-u-rosiyi-isterika-cherez-dopis-ukrayinskogo-vazhkoatleta-dmitra-chumaka_21342/
 	set tags ukraina,rossia,chumak_dmitrij.atlet.ukr,skandal
 page
-	set url https://bolivar1958ds.mirtesen.ru/blog/43050272056/Padenie-Kieva.-Kak-YUriy-Dolgorukiy-izmenil-sudbu-Rusi.-Zagadka-
-	set tags kievrus,dolgorukij_jurij.knjaz
-page
 	set url https://strana.ua/news/328361-bajden-vvel-novye-sanktsii-protiv-rossii.html
 	set tags rossia,usa,sankcii,biden_joe
 page
@@ -19891,6 +19888,15 @@ page
 page
 	set url http://voskhodinfo.su/panorama/geopolitika/15922-zhivem-lish-nadezhdoy-chto-rossiya-pridet.html
 	set tags rossia,nadezhda,konstantinovka,obschestvo,zhizn,ukraina,ludi,chelovek
+page
+	set url http://voskhodinfo.su/panorama/ideologiya/63761-dobroe-utro-posledniy-russkiy-geroy.html
+	set tags rusmir,rossia,ideologia,film.brat,chelovek
+page
+	set url https://bolivar1958ds.mirtesen.ru/blog/43648261921/Leonid-Mlechin-CHudovischnaya-kartina-unichtozheniya-lyudey
+	set tags stalin_jozef,sssr,istoria,terror1937,hruschov_nikita,1956,doklad.xx_sjezd_kpss.hruschov,kpss,kommunizm
+page
+	set url https://bolivar1958ds.mirtesen.ru/blog/43050272056/Padenie-Kieva.-Kak-YUriy-Dolgorukiy-izmenil-sudbu-Rusi.-Zagadka-
+	set tags kievrus,dolgorukij_jurij.knjaz
 eof
 off
 page

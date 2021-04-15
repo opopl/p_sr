@@ -73,6 +73,7 @@
 'iz.ru' : { 'site' : 'news.ru.izvestia' }
 'regnum.ru' : { 'site' : 'news.ru.regnum' }
 'eadaily.com' : { 'site' : 'news.ru.eadaily' }
+'mirtesen.ru' : { 'site' : 'news.ru.mirtesen' }
 
 ###news.lnr
 'lug-info.com' : { 'site' : 'news.lnr.lug_info' }

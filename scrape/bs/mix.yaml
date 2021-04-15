@@ -32,6 +32,7 @@ include:
     #- news.ru.kp
     - news.ru.lenta
     - news.ru.meduza
+    - news.ru.mirtesen
     #- news.ru.life 
     - news.ru.newsfront
     #- news.ru.novgorod

@@ -19918,6 +19918,33 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210316/1030830736.html
 	set tags ukraina,krym,blokada,rossia,2014
+page
+	set url https://www.radiosvoboda.org/a/photo-usa-protesty-vbyvstvo-temnoshkiroho-cholovika/31205535.html
+	set tags usa,protest,negro,policia,murder,smert,zhestokost,protest.usa.police_murders
+page
+	set url https://www.pravda.com.ua/news/2021/04/15/7290360/
+	set tags usa,rossia,biden_joe,sankcii
+page
+	set url http://lug-info.com/news/one/studencheskii-teatr-lgaki-predstavil-premeru-spektaklya-12-razgnevannykh-zhenschin-foto-66667
+	set tags lnr,teatr,kultura,spektakl,lgaki,lugansk
+page
+	set url https://lenta.ru/news/2021/04/15/otvetnie/
+	set tags rossia,usa,mid_rf,posol,diplomatia,moskva
+page
+	set url https://news.obozrevatel.com/society/na-bukovine-prostilis-s-pogibshim-voinom-vsu-kotoryij-zaschischal-ukrainu-s-19-let-foto.htm
+	set tags ukraina,vojna,donbass,smert,pohoron,bukovyna,proschanie
+page
+	set url https://www.volyn.com.ua/news/180100-do-trusiv-i-lifchyka-uchni-v-lutsku-kazhut-shcho-vchytelka-zmusyla-ikh-rozdiahnutysia-foto
+	set tags ukraina,luck,shkola,skandal,deti,uchitel
+page
+	set url https://regnum.ru/news/society/3241203.html
+	set tags rossia,korolev.gorod.rossia,vystavka,den'_kosmonavtiki,60_let,korolev_sergei,isskustvo,hudozhnik,kultura,kartina
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-voennyy-pensioner-sobral-plavayushchiy-vezdekhod/
+	set tags rossia,kursk,vezdehod,masterstvo,mashina,tehnika
+page
+	set url https://miaistok.su/dlya-detej-iz-prifrontovogo-kalinovo-ustroili-prazdnik/
+	set tags mir_luganschine,deti,prazdnik,kalinovo,lnr,aktivist
 eof
 off
 page

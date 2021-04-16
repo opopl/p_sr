@@ -20065,6 +20065,9 @@ page
 page
 	set url http://www.owl.ru/morits/stih/off-records220.htm
 	set tags morits_junna,poezia,stih,buzina_oles,murder,16_apr,2015,kiev,ukraina
+page
+	set url https://buzina.org/golos-naroda/3947-goroda-i-gody.html
+	set tags odessa,rusimperia,ukraina,istoria,gorod
 eof
 off
 page

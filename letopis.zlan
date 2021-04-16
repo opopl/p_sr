@@ -20068,6 +20068,9 @@ page
 page
 	set url https://buzina.org/golos-naroda/3947-goroda-i-gody.html
 	set tags odessa,rusimperia,ukraina,istoria,gorod
+page
+	set url https://zen.yandex.ru/media/history_russian/korolevstvo-russkoe-chto-eto-bylo-i-kuda-ono-delos-5f8df3d0d95e5c3d0b5f9fea
+	set tags ukraina,rusmir,istoria,rex_russiae
 eof
 off
 page

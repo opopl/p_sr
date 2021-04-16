@@ -20110,6 +20110,141 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210416/1031156026.html
 	set tags ukraina,obschestvo,kriminal,murder,buzina.vp,buzina_oles,nakazanie,prestuplenie
+page
+	set url https://kiev.strana.ua/328538-dtp-v-kieve-marshrutka-sbila-zhenshchinu-peshekhoda-na-revutskoj.html
+	set tags marshrutka,kiev,ukraina,dtp,smert,woman
+page
+	set url https://strana.ua/news/328554-16-aprelja-2021-hoda-ispolnjaetsja-pjat-let-so-dnja-ubijstva-zhurnalista-olesja-buziny.html
+	set tags ukraina,kiev,buzina.vp,buzina_oles,murder,rassledovanie,kriminal,kultura,literatura,obschestvo,sud,medvedko_andrei
+page
+	set url https://strana.ua/opinions/328539-amerikantsy-ne-pomohli-zelenskomu-kak-i-shvedy-mazepe.html
+	set tags ukraina,rossia,usa,putin_vladimir,russkie,zelenskii_vladimir,donbass,vojna,minsk_dogovor,mazepa_ivan,biden_joe,black_sea
+page
+	set url https://lenta.ru/news/2021/04/16/kuliev/
+	set tags sssr,smert,rezhisser,kultura,kino,film,radost',baku,azerbajdzhan
+page
+	set url http://lug-info.com/news/one/krasnodonskie-spasateli-pomogli-muzhchine-vytaschit-ugodivshuyu-v-motoblok-nogu-66682
+	set tags lnr,mns_lnr,spasenie,nogi
+page
+	set url https://analytics.hvylya.net/228879-na-porozi-katastrofi-shcho-chekaye-na-ukrajinu
+	set tags rossia,ukraina,zapad,bender_ostap,vojna,nastuplenie,nato,obschestvo
+page
+	set url https://gazeta.ua/blog/54920/svit-letit-shkerebert-intuyiciya-signalizuye-pro-nablizhennya-chogos-lihogo
+	set tags ukraina,rossia,mnenie,world,predchuvstvie
+page
+	set url https://zbruc.eu/node/104470
+	set tags franko_ivan,mudrost,ukraina,galicia,literatura,kultura
+page
+	set url https://strana.ua/news/328544-ubijstvo-olesja-buziny-6-let-so-dnja-trahedii-kak-rassledujut-delo-i-chto-s-polishchukom-i-medvedko.html
+	set tags buzina_oles,buzina.vp,ukraina,sud,medvedko_andrei,c14,nacionalist,murder,kiev,venediktova_irina
+page
+	set url https://www.radiosvoboda.org/a/viktor-tsymbal-rik1933-richnytsya/31206762.html
+	set tags ukraina,golodomor,cymbal_viktor.hudozhnik,isskustvo,1933,sssr,istoria
+page
+	set url https://www.pravda.com.ua/articles/2021/04/16/7290448/
+	set tags ukraina,rossia,vojna,sssr,istoria
+page
+	set url https://plus.obozrevatel.com/crime/odin-iz-detej-kotoryih-v-kieve-vyinesli-iz-ognya-spasateli-v-kriticheskom-sostoyanii.htm
+	set tags ukraina,kiev,pozhar,deti,obschestvo,tragedia,troeschina.kiev,dom,ohmatdet.bolnica
+page
+	set url https://news.obozrevatel.com/russia/putin-podderzhal-russkij-mir-lekarstvo-okazalos-huzhe-bolezni.htm
+	set tags rusmir,rossia,putin_vladimir
+page
+	set url http://lug-info.com/news/one/vi-spartakiada-komand-luganskgaza-otkrylas-v-luganske-foto-66686
+	set tags lnr,lugansk,spartakiada,sport,sorevnovanie
+page
+	set url https://strana.ua/news/328571-chto-pishut-zapadnye-smi-o-rechi-bajdena-v-adres-rossii.html
+	set tags biden_joe,putin_vladimir,ukraina,rossia,primirenie,udivlenie,geopolitika,ekonomika,sankcii
+page
+	set url https://strana.ua/opinions/328561-uzhe-6-let-vsem-izvestnye-ubijtsy-olesja-buziny-ostajutsja-na-svobode.html
+	set tags ukraina,stih,buzina_oles,pamjat,murder,ubijstvo,ubijca,taksjur_jan.pisatel,sbu
+page
+	set url http://lug-info.com/news/one/luganskie-sportsmeny-pobedili-v-initsiirovannom-molodezhnym-parlamentom-turnire-po-vorkautu-foto-66703
+	set tags lnr,lugansk,sport,sorevnovanie,molodezh_parlament.lnr,molodezh
+page
+	set url http://lug-info.com/news/one/tri-chetverti-voennosluzhaschikh-vsu-ne-zhelayut-voevat-v-donbasse-narodnaya-militsiya-66694
+	set tags nm_lnr,lnr,vsu,vojna,donbass
+page
+	set url https://blogs.pravda.com.ua/authors/avakov/60796dd16914f/
+	set tags ukraina,rossia,vojna,dobrobaty,avakov_arsen,edinstvo,donbass,ato
+page
+	set url https://blogs.pravda.com.ua/authors/gajdajchuk/60794f63ec103/
+	set tags ukraina,ekonomika,future,strategia,vopros
+page
+	set url https://news.obozrevatel.com/politics/dyadyushka-sem-krasava-v-kremle-u-vseh-nervnyij-tik.htm
+	set tags putin_vladimir,biden_joe,rossia,usa,psihologia,diplomatia,geopolitika
+page
+	set url https://sharij.net/ubijstvo-olesya-buziny-beskonechnye-sudy-i-uspeshnyj-biznes-obvinyaemyh
+	set tags ukraina,sud,buzina_oles,6_let,ubijstvo,murder,pisatel,obschestvo
+page
+	set url https://sharij.net/v-kieve-muzhchina-nakrutil-gajku-na-chlen-a-snimali-eyo-uzhe-spasateli-foto
+	set tags ukraina,kiev,kurjez,spasenie,vrach
+page
+	set url https://sharij.net/168751
+	set tags zaporozhie,ukraina,kurjez,spasenie,vrach
+page
+	set url https://sharij.net/anatolij-sharij-tak-s-kem-kiev-voyuet-na-donbasse
+	set tags ukraina,vojna,donbass,rossia,civil_war,vopros
+page
+	set url https://strana.ua/articles/interview/328619-shest-let-so-dnja-ubijstva-olesja-buziny-chto-proiskhodit-s-rassledovaniem-prestuplenija.html
+	set tags ukraina,buzina_oles,buzina.vp,sud,rassledovanie,murder
+page
+	set url https://strana.ua/news/328641-vstrecha-hlavy-ssha-s-putinym-vernet-rossiju-v-mirovoj-soobshchestvo-bajden.html
+	set tags rossia,usa,biden_joe,putin_vladimir,psaki_dzhen,vstrecha,most
+page
+	set url http://lug-info.com/news/one/komandy-10-trudovykh-kollektivov-respubliki-primut-uchastie-v-turnire-po-mini-futbolu-66710
+	set tags mir_luganschine,lnr,futbol,sport,sorevnovanie,turnir
+page
+	set url https://fraza.com/news/299877-oksana-marchenko-vypustila-novuju-seriju-palomnitsy-v-kotoroj-raskryla-sekret-kreschenija-rusi
+	set tags palomnik,film,marchenko_oksana,ukraina,vera,cerkov,pravoslavie
+page
+	set url http://voskhodinfo.su/aktualno/64955-rabotayte-bratya.html
+	set tags bratstvo,ukraina,vojna,donbass,napadenie,russkie,spravedlivost,bezler_igor,opolchenie
+page
+	set url http://voskhodinfo.su/panorama/ideologiya/63749-nu-zdravstvuy-novyy-mirovoy-poryadok-russkiy-standart.html
+	set tags russkie,rossia,ideologia,chelovek,civilizacia,psihologia,mentalitet,nacia,zapad,future
+page
+	set url http://voskhodinfo.su/panorama/ideologiya/63438-nu-zdravstvuy-novyy-mirovoy-poryadok-nedocivilizovannyy-zapad.html
+	set tags ideologia,russkie,rusmir,rossia,future,zapad,trump_donald,ekonomika,nacia
+page
+	set url http://voskhodinfo.su/panorama/ideologiya/62461-kto-takie-russkie.html
+	set tags ideologia,russkie,rossia,rusmir,mentalitet,chelovek,spravedlivost
+page
+	set url http://voskhodinfo.su/aktualno/5784-kto-ty-ukrainec.html
+	set tags rusmir,ukraina,ukraincy,vopros,mentalitet,nacia,gogol_nikolai,ukrainstvo,russkie,rossia,obsuzhdenie
+page
+	set url http://voskhodinfo.su/aktualno/5783-lohmatyy-pognali-nashi-gorodskih.html
+	set tags rusmir,ukraina,mentalitet,civil_war,vojna,chelovek
+page
+	set url http://voskhodinfo.su/aktualno/5414-lohmatyy-chto-s-vami-ukraincy-i-russkie.html
+	set tags russkie,rossia,ukraina,svidomia,psihologia,razdelenie,obschestvo
+page
+	set url http://voskhodinfo.su/panorama/ideologiya/2656-lohmatyy-pravilnyy-vopros.html
+	set tags ukraina,rusmir,ukrainstvo,ukraincy,russkie,psihologia
+page
+	set url http://voskhodinfo.su/aktualno/64966-perfomans-bipolyarnogo-dzho-chego-ozhidat-rossii.html
+	set tags rossia,usa,biden_joe,putin_vladimir,geopolitika
+page
+	set url http://lug-info.com/news/one/zhiteli-perevalskogo-raiona-proveli-eko-festival-na-territorii-usadby-mstsikhovskogo-foto-66713
+	set tags lnr,ekologia,festival,mir_luganschine
+page
+	set url https://strana.ua/news/328629-zelenskij-ne-schitaet-ukrainu-silnym-hosudarstvom.html
+	set tags zelenskii_vladimir,vaccine,covid
+page
+	set url https://zen.yandex.ru/media/lubaslava/kosa-devichia-krasa-sila-volos-603a2c1749b4e7289077a4b5
+	set tags devushka,krasota,kosa.volosy,rusmir,kultura,chelovek,poezia
+page
+	set url https://zen.yandex.ru/media/lubaslava/sila-mysli-5fca2d2f8f8c7853ed72a3c8
+	set tags mysli,sila,filosofia,chelovek,psihologia,devushka
+page
+	set url https://zen.yandex.ru/media/villain_genius/den-kosmonavtiki-iurii-gagarin-i-ukrainskie-konstruktory-60745500dbd81a619409243e
+	set tags gagarin_jurij,den'_kosmonavtiki,ukraina,zelenskii_vladimir,korolev_sergei,12_apr,1961
+page
+	set url https://regnum.ru/news/3245219.html
+	set tags buzina_oles,ukraina,zelenskii_vladimir,nacionalizm,patriotizm,murder,6_let,2015
+page
+	set url https://zen.yandex.ru/media/kinovoyage/hrupkaia-devushka-iz-iaponii-perepela-igoria-korneliuka-ia-slushaiu-uje-neskolko-dnei-6073a07a6e6b477f16bfacf9
+	set tags ishigo_tanuki,gorod,korneljuk_igor,pesnja,rossia,japonia,muzyka,kultura,rusmir
 eof
 off
 page

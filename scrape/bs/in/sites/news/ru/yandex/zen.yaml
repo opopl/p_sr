@@ -3,6 +3,8 @@ sel:
   clean:
   only:
     - article
+  keep:
+    - nav
 
 PageParser:
   get_date:
@@ -21,7 +23,10 @@ PageParser:
     sels:
       - { 
           'search' : {
-              'css' : [ 'a.publisher-controls__channel-name' ],
+              'css' : [ 
+                'a.publisher-controls__channel-name', 
+                'a.publisher-controls__channel-link', 
+              ],
               'map' : {
                   'name' : 'text',
                   'url'  : { 

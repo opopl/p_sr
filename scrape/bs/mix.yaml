@@ -49,7 +49,7 @@ include:
     - news.ru.ukraina
     - news.ru.vesti_ru
     - news.ru.vzgljad
-    - news.ru.yandex.zen
+    #- news.ru.yandex.zen
     - news.ru.znak
 ###news_by
     - news.by.tut

@@ -20086,6 +20086,30 @@ page
 page
 	set url https://news.obozrevatel.com/society/nepriyatnyij-syurpriz-dlya-zhitelej-ordlo-pridetsya-voevat.htm
 	set tags ukraina,donbass,vojna,obschestvo,rossia,surpriz,analitika
+page
+	set url https://sprotyv.info/analitica/novosti-iz-zony-za-vse-nuzhno-platit-ili-esli-zavtra-vojna-chast-1
+	set tags ukraina,donbass,vojna,rossia,prizyv,armia,dnr,lnr,grazhdanstvo
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-rossiya-nanesla-udar-po-poslednemu-argumentu-razocharovannoj-kryimskoj-vtyi.htm
+	set tags rossia,krym,obschestvo,patrushev_nikolaj,ukraina,sevastopol,ihtamnet,hamstvo
+page
+	set url http://lug-info.com/news/one/muzykanty-luganskoi-filarmonii-stali-laureatami-natsionalnoi-premii-v-rf-66681
+	set tags lnr,lugansk,filarmonia,rossia,muzyka,st_peterburg,laureat,konkurs,eurasia.premia.rossia
+page
+	set url http://ukrcentr.ru/novini/majster-i-uchni-2/#more-16906
+	set tags ukraina,rossia,vystavka,ukrcentr.moskva,hudozhnik,isskustvo
+page
+	set url https://ukr.rs.gov.ru/ru/news/86615
+	set tags ukraina,rossia,rossotrudnichestvo,shevchenko_taras,kultura,literatura,jazyk,mova
+page
+	set url https://strana.ua/news/328534-maksimu-stepanovu-deputat-ot-holosa-olha-stefanishina-vruchila-pokhoronnye-tsvety-.html
+	set tags stepanov_maksim,verhovna_rada,ukraina,buket,cvety,pohoron,covid
+page
+	set url https://ukraina.ru/opinion/20210416/1031147462.html
+	set tags revolucia,podlost,ukraina,obschestvo,chelovek,stukach,palach
+page
+	set url https://ukraina.ru/exclusive/20210416/1031156026.html
+	set tags ukraina,obschestvo,kriminal,murder,buzina.vp,buzina_oles,nakazanie,prestuplenie
 eof
 off
 page

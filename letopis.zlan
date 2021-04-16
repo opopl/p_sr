@@ -20254,6 +20254,18 @@ page
 page
 	set url http://lgpu.org/news/8045-festival-yubileynogo-sezona-luganskoy-studencheskoy-ligi-kvn-sostoyalsya-v-lgpu.html
 	set tags lnr,lugansk,lgpu,kvn,molodezh,jumor
+page
+	set url https://vz.ru/politics/2021/4/16/1094785.html
+	set tags ukraina,diplomatia,germania,atomic_bomb,nato,shantazh,melnik_andrei
+page
+	set url https://strana.ua/opinions/328652-vlasti-ne-nakazyvajut-ubijts-olesja-buziny-nadejas-chto-ob-etom-dele-zabudut.html
+	set tags buzina_oles,murder,ukraina,nakazanie,pamjat,6_let,sud,gushva_igor
+page
+	set url https://strana.ua/opinions/328655-ubijstvo-buziny-stoprotsentnyj-terroristicheskij-akt.html
+	set tags buzina_oles,terrorizm,ukraina,tregubov_viktor.blogger.ukr,medvedko_andrei,mirotvorec_sajt,geraschenko_anton,filatov_boris,kocaba_ruslan
+page
+	set url https://strana.ua/opinions/328654-eto-schaste-nosit-familiju-buzina-oberehat-nashi-semejnye-tsennosti.html
+	set tags 6_let,buzina_maria,buzina_oles,cennosti,detstvo,foto,ljubov,papa,rebenok,semja,ukraina
 eof
 off
 page

@@ -20245,6 +20245,15 @@ page
 page
 	set url https://zen.yandex.ru/media/kinovoyage/hrupkaia-devushka-iz-iaponii-perepela-igoria-korneliuka-ia-slushaiu-uje-neskolko-dnei-6073a07a6e6b477f16bfacf9
 	set tags ishigo_tanuki,gorod,korneljuk_igor,pesnja,rossia,japonia,muzyka,kultura,rusmir
+page
+	set url https://www.radiosvoboda.org/a/rodyny-znyklyh-bezvisty-pid-cas-vijny-na-donbasi/31207775.html
+	set tags ukraina,vojna,donbass,rejestr,obschestvo
+page
+	set url http://lug-info.com/news/one/luganskaya-afisha-66706
+	set tags lnr,lugansk,afisha
+page
+	set url http://lgpu.org/news/8045-festival-yubileynogo-sezona-luganskoy-studencheskoy-ligi-kvn-sostoyalsya-v-lgpu.html
+	set tags lnr,lugansk,lgpu,kvn,molodezh,jumor
 eof
 off
 page

@@ -20071,6 +20071,21 @@ page
 page
 	set url https://zen.yandex.ru/media/history_russian/korolevstvo-russkoe-chto-eto-bylo-i-kuda-ono-delos-5f8df3d0d95e5c3d0b5f9fea
 	set tags ukraina,rusmir,istoria,rex_russiae
+page
+	set url https://www.kp.ru/daily/27266.5/4399110/
+	set tags ukraina,kiev,buzina_oles,buzina.vp,kultura,literatura,obschestvo
+page
+	set url https://strana.ua/news/328504-rech-bajdena-o-rossii-i-ukraine-15-aprelja-hlavnye-tsitaty-i-vyvody.html
+	set tags biden_joe,putin_vladimir,ogovorka,usa,rossia,promova,geopolitika,diplomatia,sankcii
+page
+	set url https://strana.ua/news/328466-sanktsii-ssha-protiv-rossii-ukraine-otkazali-v-evrosojuze-reshenie-kabmina-po-subsidijam.html
+	set tags ukraina,rossia,sankcii,itogi,biden_joe,sevpotok2,geopolitika,putin_vladimir,usa,zelenskii_vladimir,makron_emmanuel.prezident.francia,turcia,tarify,subsidia,kabmin,ekonomika
+page
+	set url https://news.obozrevatel.com/society/v-internate-na-nikolaevschine-gde-devochku-zastavili-sdelat-abort-rasskazali-ob-izbieniyah-i-pristavaniyah-vospitatelej.htm
+	set tags ukraina,nikolaev,dom_internat,deti,skandal,beremennost,vospitanie,vospitatel,izbienie,abort,prokuratura,rassledovanie,kriminal
+page
+	set url https://news.obozrevatel.com/society/nepriyatnyij-syurpriz-dlya-zhitelej-ordlo-pridetsya-voevat.htm
+	set tags ukraina,donbass,vojna,obschestvo,rossia,surpriz,analitika
 eof
 off
 page

@@ -20032,6 +20032,39 @@ page
 page
 	set url https://zaxid.net/ukrayinska_rosiyska_tsibulya_n1517435
 	set tags cybulja,lukovica,ukraina,_important,rossia,mentalitet,istoria,nacia,nacidea,vjatrovich_vladimir,narod,imperia
+page
+	set url https://siver.com.ua/news/imperska_cibulja/2021-04-14-28153
+	set tags ukraina,imperia,cybulja,lenin_vladimir,stalin_jozef,rusmir,rossia
+page
+	set url https://mikle1.livejournal.com/453271.html
+	set tags rossia,ukraina,fraza,rusmir,putin_vladimir
+page
+	set url https://strana.ua/news/328401-hurin-poshutil-o-kloune-zelenskom-i-priznalsja-chto-bolen-rakom.html
+	set tags ukraina,verhovna_rada,shutka,anekdot,zelenskii_vladimir,kloun,sluga_naroda
+page
+	set url https://strana.ua/news/328509-zelenskij-zajavil-donbass-i-krym-budut-mertvymi-rehionami-khuzhe-chem-chernobyl.html
+	set tags zelenskii_vladimir,ukraina,donbass,chernobyl,krym
+page
+	set url https://strana.ua/news/328288-v-donetskoj-oblasti-v-pokrovske-vzryv-postradal-rebenok.html
+	set tags donbass,vzryv,ranenie,gospitalizacia,deti,podrostok,ukraina
+page
+	set url https://strana.ua/articles/analysis/328419-s-chem-zelenskij-poedet-v-parizh-k-makronu-detali-vizita-.html
+	set tags ukraina,kiev,germania,francia,krymskaja_platforma
+page
+	set url https://www.pravda.com.ua/articles/2021/04/16/7290388/
+	set tags ukraina,pravda_com_ua,obschestvo,zhizn
+page
+	set url https://www.radiosvoboda.org/a/news-radio-svoboda-rosija/31206681.html
+	set tags radiosvoboda,rossia,sud,inoagent,zakon,shtraf
+page
+	set url https://news.obozrevatel.com/politics/zelenskij-otvetil-putinu-na-zaschitu-russkoyazyichnyih-na-donbasse.htm
+	set tags ukraina,rossia,putin_vladimir,zelenskii_vladimir,donbass,vojna
+page
+	set url https://strana.ua/news/328487-dzho-bajden-ohovorilsja-v-rechi-pro-rossiju.html
+	set tags usa,biden_joe,putin_vladimir,promova,rossia,demencia
+page
+	set url http://www.owl.ru/morits/stih/off-records220.htm
+	set tags morits_junna,poezia,stih,buzina_oles,murder,16_apr,2015,kiev,ukraina
 eof
 off
 page

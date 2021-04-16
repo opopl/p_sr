@@ -20266,6 +20266,45 @@ page
 page
 	set url https://strana.ua/opinions/328654-eto-schaste-nosit-familiju-buzina-oberehat-nashi-semejnye-tsennosti.html
 	set tags 6_let,buzina_maria,buzina_oles,cennosti,detstvo,foto,ljubov,papa,rebenok,semja,ukraina
+page
+	set url http://lug-info.com/news/one/publikatsiya-teksta-dopmer-lishila-kiev-vozmozhnosti-beznakazanno-otkryvat-ogon-deputat-66712
+	set tags donbass,lnr,peremirie,ukraina,vojna
+page
+	set url https://python.gotrained.com/scraping-facebook-posts-comments/
+	set tags facebook,pc,scraping
+page
+	set url https://lgaki.info/novosti/nagrazhdeny-za-trehmernoe-myshlenie/
+	set tags dizajn,grafika,it,konkurs,lgaki,lnr,lugansk,priz
+page
+	set url https://strana.ua/news/328337-chernobyl-film-2021-danily-kozlovskoho-vse-o-filme-trejler-otzyvy-video.html
+	set tags chernobyl,film,kino,kozlovskij_danila,kultura,kursk,rossia
+page
+	set url https://news.obozrevatel.com/politics/zelenskij-nazval-luchshuyu-vozmozhnost-dlya-vozvrascheniya-mira-v-ukraine.htm
+	set tags mir,nato,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/328676-zhirinovskij-pridumal-kak-zastavit-ukrainu-dat-vodu-krymu.html
+	set tags damba,krym,rossia,ukraina,voda,zhirinovskii_vladimir
+page
+	set url https://strana.ua/news/308185-aleksej-reznikov-zajavil-chto-ukraina-hotova-pomoch-krymu-s-vodoj-posle-deokkupatsii-.html
+	set tags blokada,krym,reznikov_aleksei,rossia,ukraina,voda
+page
+	set url https://strana.ua/news/299241-kiev-predlahaet-samorospusk-lnr-i-dnr-v-svoem-plane-po-donbassu.html
+	set tags dnr,donbass,kiev,lnr,minsk_dogovor,reznikov_aleksei,ukraina,vojna
+page
+	set url https://analytics.hvylya.net/228881-rossiya-ugrozhaet-ukraine-glavnaya-cel-putina-dneprovskaya-voda-dlya-kryma
+	set tags berdjansk,krym,nastuplenie,putin_vladimir,rossia,ukraina,voda,vojna
+page
+	set url https://riakursk.ru/kuryan-priglashayut-k-uchastiyu-v-konkurse-risunkov-moya-semya-moya-rossiya/
+	set tags deti,konkurs,kursk,risunok,rossia
+page
+	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/nestoriane-chingishana-porajenie-torjestva-ereticheskoi-very-605876dc8099bd488fd80f5d
+	set tags cerkov,istoria,nestorianstvo,vera
+page
+	set url https://zen.yandex.ru/media/zagadki_nauki/rusy-prishli-iz-gotlanda-602359f1ff10a046374d50a0
+	set tags gotland,istoria,rossia,rus'
+page
+	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/brodiat-po-rusi-korkodily-da-liutye-zveri-zanimatelnaia-zoologiia-russkih-letopisei-6049ff3265a3ff1101172d18
+	set tags istoria,krokodil,rossia,rus'
 eof
 off
 page

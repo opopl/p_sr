@@ -20320,6 +20320,54 @@ page
 page
 	set url https://politcentr.ru/41959-slava9-bogu-etogo-banderovca-ubili-mat-unichtozhennogo-boevika-azova-video.html
 	set tags _important,azov_polk,donbass,gospital,granata,mater,mosijchuk_igor,motorola.voin.pavlov_arsen,murder,video,vlaschenko_natalia.zhurnalist,vojna
+page
+	set url https://strana.ua/news/328705-ukrainskij-konsul-v-peterburhe-zaderzhan-s-polichnym-pri-poluchenii-sekretnykh-dannykh-fsb.html
+	set tags diplomatia,fsb,konsul,mvd_rossia,rossia,sosnjuk_aleksandr.konsul,st_peterburg,zaderzhanie
+page
+	set url https://lvov.strana.ua/328701-vo-lvovskoj-oblasti-posle-privivki-ot-kovida-umer-muzhchina.html
+	set tags astrazeneka,covid,covishield,lvov,smert,ukraina,vaccinacia,vaccine
+page
+	set url https://strana.ua/news/326529-sportivnyj-kommentator-vladimir-hendlin-umer-ot-koronavirusa.html
+	set tags boks,bolezn,covid,gendlin_vladimir.kommentator.sport.rossia,infarkt,kommentator,moskva,rossia,smert,sport,sssr,tv
+page
+	set url https://lvov.strana.ua/326337-ukrainskaja-khudozhnitsa-viktorija-kovalchuk-umerla-ot-koronavirusa.html
+	set tags bolezn,covid,kovalchuk_viktoria.hudozhnik,lvov,smert,ukraina
+page
+	set url https://strana.ua/news/325387-v-kieve-ot-koronavirusa-umer-izvestnyj-prodjuser-aleksandr-seryj.html
+	set tags 1962,covid,kiev,lvov,seryj_aleksandr.producer,smert,ukraina
+page
+	set url https://www.radiosvoboda.org/a/yasynuvata-obstril/31207855.html
+	set tags avdeevka.donbass,donbass,jasinovataja,ukraina,vojna,vzryv
+page
+	set url https://fraza.com/news/299897-v-independent-nazvali-nezakonnym-zakrytie-oppozitsionnyh-telekanalov-i-vvedenie-sanktsij-protiv-medvedchuka
+	set tags britania,cenzura,donbass,gazeta.independent.britania,medvedchuk_viktor,rossia,ukraina,vojna,zapad,zapret,zelenskii_vladimir
+page
+	set url https://fraza.com/news/299892-veduschaja-11-mosejchuk-vypustila-v-efir-eksperta-rf-s-rasskazami-o-razgrome-vsu
+	set tags ataka,ekspert,felgengauer_pavel.ekspert.rossia,mosejchuk_natalia.tv.tsn.ukr,nastuplenie,podgotovka,priglashenie,rossia,telekanal_1_plus_1,ukraina,vojna
+page
+	set url https://zaxid.net/za_zakonami_pidvoritni_n1517511
+	set tags donbass,gopnik,krym,podvorotnja,putin_vladimir,rossia,ukraina,vojna,zakon
+page
+	set url https://news.obozrevatel.com/society/esli-zavtra-vojna.htm
+	set tags 2014,civil_war,donbass,ihtamnet,krym,rossia,ukraina,vojna,vranje
+page
+	set url https://www.pravda.com.ua/articles/2021/04/17/7290555/
+	set tags oask,reformi,sud,sudebnaja_sistema,ukraina
+page
+	set url https://www.pravda.com.ua/news/2021/04/17/7290563/
+	set tags krym,rossia,samolet,stavropol.kraj,uchenija
+page
+	set url https://www.vesti.ru/article/2551746
+	set tags diplomatia,geopolitika,gosdep,moskva,otvetka,rossia,sankcii,sozhalenie,usa
+page
+	set url https://iz.ru/1150188/2021-04-12/lavrov-prokommentiroval-otpravku-vashingtonom-korablei-v-chernoe-more
+	set tags black_sea,flot,granica,lavrov_sergei,mid_rf,nato,rossia,usa
+page
+	set url https://sharij.net/prezident-klyutin-kak-soczseti-otreagirovali-na-ogovorku-bajdena-o-putine
+	set tags biden_joe,demencia,eskalacia,killer,promova,putin_vladimir,rossia,usa,vaccinacia
+page
+	set url https://news24ua.com/klutin-putin-vakcinaciya-eskalaciya-bayden-zabyl-kak-i-chto-nazyvaetsya
+	set tags biden_joe,demencia,promova,putin_vladimir,rossia,usa,ogovorka
 eof
 off
 page

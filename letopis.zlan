@@ -20473,6 +20473,69 @@ page
 page
 	set url https://www.woman.ru/news/naglye-russkie-mir-protestuet-protiv-formy-rossiiskikh-olimpiicev-id620274/
 	set tags doping_skandal,flag,naglost,olimpiada,rossia,russkie,sorevnovanie,sport,tokio,zapret
+page
+	set url https://strana.ua/news/328752-pokhorony-printsa-filippa-projdut-pod-pravoslavnye-pesnopenija.html
+	set tags britania,cerkov,kiev,kondak_russkij_kievskogo_raspeva,pohoron,pravoslavie,princ_fillip.suprug_korolevy_elizavety,rusmir,vera
+page
+	set url https://strana.ua/opinions/328704-ukrainskoe-obshchestvo-hluboko-bolno-i-nuzhdaetsja-vo-vrachevanii.html
+	set tags _important,fraza,grebenschikov_boris,lechenie,obschestvo,ukraina,vrach
+page
+	set url https://strana.ua/opinions/328694-spasibo-bajdenu-za-mir.html
+	set tags biden_joe,mir,spasibo
+page
+	set url https://strana.ua/articles/analysis/328627-zachem-zelenskomu-zakon-protiv-oliharkhov.html
+	set tags lustracia,oligarh,politika,poroshenko_petr,sankcii,ukraina,zakon,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/328715-kto-nas-vozmet-v-nato-my-zhe-solem-vse-ikh-sekrety-po-skhodnoj-tsene.html
+	set tags merkel_angela,nato,parizh,razglashenie,sekret,ukraina,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/power-volodymy-yavorivsky/31208890.html
+	set tags istoria,javorivskij_vladimir,kultura,literatura,narodnyj_ruh_ukrainy,obschestvo,sssr,ukraina
+page
+	set url http://lug-info.com/news/one/zachislennye-na-obuchenie-v-narodnuyu-militsiyu-zhiteli-lnr-pristupili-k-zanyatiyam-66729
+	set tags armia,lnr,lugansk,nm_lnr,obrazovanie,obuchenie,prizyv,zaschitnik
+page
+	set url http://lug-info.com/news/one/zachislennye-na-obuchenie-v-narodnuyu-militsiyu-zhiteli-lnr-primut-uchastie-v-parade-pobedy-66723
+	set tags armia,lnr,lugansk,nm_lnr,parad,parad_pobedy,uchastie,zaschitnik
+page
+	set url http://lug-info.com/news/one/predstaviteli-tsirkovoi-obschestvennosti-v-mezhdunarodnyi-den-tsirka-poluchili-nagrady-lnr-i-rf-foto-66732
+	set tags cirk,den'_cirka,kultura,lgaki,lnr,lugansk,nagrada,rossia
+page
+	set url http://lug-info.com/news/one/pozdravlenie-ministra-kultury-sporta-i-molodezhi-lnr-s-mezhdunarodnym-dnem-tsirka-66714
+	set tags cirk,den'_cirka,lnr,lugansk,ministr,molodezh,pozdravlenie
+page
+	set url https://lgaki.info/novosti/novuyu-kontsertnuyu-programmu-gruppy-sobor-pervym-uslyshal-alchevsk/
+	set tags alchevsk,koncert,kultura,lgaki,lnr,muzyka,sobor.gruppa.pop.lnr
+page
+	set url https://strana.ua/news/328754-vladimir-javorivskij-tsitaty-o-lenine-bandere-i-povest-vechnye-kortelesy.html
+	set tags bandera_stepan,deputat,istoria,javorivskij_vladimir,literatura,narodnyj_ruh_ukrainy,smert,sssr,ukraina
+page
+	set url https://strana.ua/articles/private-life/328533-puhachevoj-72-zvezda-otmetila-den-rozhdenija-v-svoem-osobnjake.html
+	set tags birthday,galkin_maksim,prazdnovanie,pugacheva_alla,rossia,showbiz
+page
+	set url https://strana.ua/news/328775-vysylka-starsheho-diplomata-rf-iz-kieva-vstretila-kritiku-so-storony-moskvy.html
+	set tags diplomatia,fsb,konsul,mid_rf,rossia,ukraina
+page
+	set url https://fraza.com/column/299624-kinokritika-sovetskoe-kino-i-nemnogo-bolshe
+	set tags istoria,kino,kritika,kultura,sssr
+page
+	set url https://fraza.com/news/299911--mitropolit-antonij-prizval-ukraintsev-byt-mirotvortsami
+	set tags cerkov,mir,mirotvorec,ukraina,upc,vera
+page
+	set url https://life.pravda.com.ua/columns/2021/04/17/244605/
+	set tags feminizm,obschestvo,prostitucia,ukraina,woman
+page
+	set url https://zen.yandex.ru/media/litinteres/chto-inostrancy-pishut-pro-volshebnika-izumrudnogo-goroda-volkova-6069675b608d5c2073e9f877
+	set tags chtenie,jazyk,kniga,kommentarii,rossia,rusmir,sssr,volkov_aleksandr.pisatel.sssr,volshebnik_izumrudnogo_goroda
+page
+	set url https://zen.yandex.ru/media/id/5dbd29364e057700ae68506a/kitej-grad-6005a89894dcbd4ea6ec6245
+	set tags kitezh_grad,kultura,literatura,rasskaz,rusmir,skazka
+page
+	set url https://proza.ru/2021/02/25/659
+	set tags kitezh_grad,literatura,poezia,rusmir
+page
+	set url https://www.culture.ru/s/vopros/kitezh-grad/
+	set tags atlantida,kitezh_grad,kultura,legenda,letopis,rusmir
 eof
 off
 page

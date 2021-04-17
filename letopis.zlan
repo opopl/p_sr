@@ -20407,6 +20407,48 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210417/1031160612.html
 	set tags buzina_oles,donbass,doneck,literatura,lugansk,murder,obschestvo,pamjat,rossia,ukraina,vojna
+page
+	set url https://criminal.segodnya.ua/criminal/ubiystvo-olesya-buziny-vse-podrobnosti-i-pervye-versii-608544.html
+	set tags buzina_oles,kiev,murder,pisatel,ukraina,zhurnalist
+page
+	set url https://web.archive.org/web/20140701145334/http://www.segodnya.ua/blogs/olesbuzinablog/istorii-olesya-buziny-pochemu-ruhnula-kievskaya-rus-528525.html
+	set tags blog,buzina_oles,istoria,kievrus,rossia,rusmir,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210417/1031159964.html
+	set tags covid,flag.ukraina,flagshtok,ivano_frankovsk,karantin,lockdown,lvov,rossia,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/abroad/putin-ne-uslyishit-bajdena.htm
+	set tags biden_joe,putin_vladimir,rossia,usa
+page
+	set url https://web.archive.org/web/20140801114750/http://www.segodnya.ua/blogs/olesbuzinablog/blog-kakoe-zhe-eto-ato-525354.html
+	set tags ato,civil_war,donbass,rossia,ukraina,vojna
+page
+	set url https://vz.ru/world/2021/4/16/1094990.html
+	set tags bileckii_andrei,buzina_oles,nackorpus,radikaly,rossia,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://strana.ua/news/328729-khram-na-rodine-mikhaila-kruha-ukrasili-freskami-s-chertjami-derzhashchimi-v-rukakh-smartfony-i-noutbuki-apple-foto.html
+	set tags freska,hram,krug_mihail.pevec,rossia
+page
+	set url https://www.radiosvoboda.org/a/news-pomer-volodymyr-yavorivskyi/31208568.html
+	set tags javorivskij_vladimir,kultura,literatura,narodnyj_ruh_ukrainy,pisatel,smert,ukraina
+page
+	set url https://lenta.ru/news/2021/04/17/pervyirazrussia/
+	set tags figurist,japonia,osaka.gorod.japonia,pobeda,rossia,sport
+page
+	set url https://pravoslavie.ru/138652.html
+	set tags 100_let,beregovoj_georgij.kosmonavt.sssr,cerkov,chelovek,istoria,kosmonavt,kosmonavtika,kosmos,rossia,sssr,ukraina,vera
+page
+	set url https://pravoslavie.ru/111745.html
+	set tags biografia,chelovek,gagarin_jurij,istoria,kosmonavt,ljubov,rossia,rusmir,serdce,sovest',sssr
+page
+	set url https://pravoslavie.ru/52933.html
+	set tags cerkov,istoria,korolev_sergei,kosmonavt,kosmonavtika,kosmos,pravoslavie,rusmir,sssr,vera
+page
+	set url https://pravoslavie.ru/92865.html
+	set tags cerkov,chelovek,gagarin_jurij,hram_hrista_spasitelja,istoria,kommunizm,korolev_sergei,kosmonavtika,kosmos,raushenbah_boris.akademik,sssr
+page
+	set url http://www.pravoslavie.ru/61355.html
+	set tags cerkov,gulag,istoria,korolev_sergei,kosmonavtika,lager,matematika,nauka,pravoslavie,raushenbah_boris.akademik,rossia,rusmir,sssr,uchenyj,vera
 eof
 off
 page

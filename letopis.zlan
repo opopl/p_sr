@@ -20449,6 +20449,9 @@ page
 page
 	set url http://www.pravoslavie.ru/61355.html
 	set tags cerkov,gulag,istoria,korolev_sergei,kosmonavtika,lager,matematika,nauka,pravoslavie,raushenbah_boris.akademik,rossia,rusmir,sssr,uchenyj,vera
+page
+	set url https://mir-lug.info/novosti-terotdelenij/eko-festival-sostoyalsya-v-posyolke-seleznyovka-perevalskogo-rajona/
+	set tags deti,ekologia,festival,lnr,mir_luganschine
 eof
 off
 page

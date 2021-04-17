@@ -20305,6 +20305,18 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/brodiat-po-rusi-korkodily-da-liutye-zveri-zanimatelnaia-zoologiia-russkih-letopisei-6049ff3265a3ff1101172d18
 	set tags istoria,krokodil,rossia,rus'
+page
+	set url https://strana.ua/news/328566-vstrecha-zelenskoho-i-makrona-hlavnye-zajavlenija.html
+	set tags donbass,francia,makron_emmanuel.prezident.francia,minsk_dogovor,mir,mirnoe_uregulirovanie,normandskaja_chetverka,parizh,peregovory,putin_vladimir,rossia,vojna,vstrecha,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/russia/dela-v-rossii-nastolko-plohi-chto-perebit-nastroenie-mozhet-tolko-vojna.htm
+	set tags obschestvo,putin_vladimir,rossia,vojna
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-dazhe-samyie-uporotyie-predateli-pojmut-gde-ih-mesto-v-sisteme-koordinat-russkogo-mira.htm
+	set tags foros,krym,krym_tatary,krymnash,presledovanie,rossia,vatnik
+page
+	set url https://news.obozrevatel.com/economics/analytics-and-forecasts/es-mozhet-lishit-rossiyu-swift-chem-grozit-finansovaya-izolyatsiya.htm
+	set tags ekonomika,rossia,sankcii,swift,zapad
 eof
 off
 page

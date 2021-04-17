@@ -20317,6 +20317,9 @@ page
 page
 	set url https://news.obozrevatel.com/economics/analytics-and-forecasts/es-mozhet-lishit-rossiyu-swift-chem-grozit-finansovaya-izolyatsiya.htm
 	set tags ekonomika,rossia,sankcii,swift,zapad
+page
+	set url https://politcentr.ru/41959-slava9-bogu-etogo-banderovca-ubili-mat-unichtozhennogo-boevika-azova-video.html
+	set tags _important,azov_polk,donbass,gospital,granata,mater,mosijchuk_igor,motorola.voin.pavlov_arsen,murder,video,vlaschenko_natalia.zhurnalist,vojna
 eof
 off
 page

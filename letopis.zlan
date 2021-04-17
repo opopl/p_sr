@@ -20368,6 +20368,36 @@ page
 page
 	set url https://news24ua.com/klutin-putin-vakcinaciya-eskalaciya-bayden-zabyl-kak-i-chto-nazyvaetsya
 	set tags biden_joe,demencia,promova,putin_vladimir,rossia,usa,ogovorka
+page
+	set url https://zen.yandex.ru/media/historyandweapon/za-chto-amerikancy-ne-liubiat-rossiiskih-desantnikov-i-specnaz-6064a990d5b01e21341ede3c
+	set tags amerikanec,armia,jugoslavia,ljubov,rossia,russkie,specnaz,usa,zaschitnik
+page
+	set url http://lug-info.com/news/one/agrarii-lnr-zaseyali-rannimi-yarovymi-kulturami-48-zaplanirovannykh-ploschadei-minselkhoz-66721
+	set tags agrarii,lnr,selhoz,statistika,zemlja
+page
+	set url http://voskhodinfo.su/aktualno/64849-voyna-budet-ne-budet.html
+	set tags donbass,rossia,ukraina,vojna,zelenskii_vladimir
+page
+	set url http://voskhodinfo.su/novosti-sobytiya/rossiya/64992-rossiyskiy-fbr-gotov-pomoch-postradavshim-ot-policeyskogo-proizvola-afroamerikancam.html
+	set tags black_lives_matter,policia,proizvol,rossia,usa
+page
+	set url https://gazeta.ua/blog/54931/300-rokiv-tomu-pochayivski-monahi-drukuvali-knigi-rozmovnoyu-ukrayinskoyu
+	set tags biblia,cerkov,istoria,kniga,knigopechatanie,pochaev,pravoslavie,prosveschenie,rossia,rusimperia,ugkc,ukraina,vera
+page
+	set url https://zak.depo.ua/ukr/zak/komu-17-kvitnya-vlashtovuyut-oglyadini-i-chomu-pobachiti-zhuravlya-tsogo-dnya-dobriy-znak-20190417948466
+	set tags 17_apr,pogoda,primeta,priroda,tradicii,ukraina,vesna,zhuravli
+page
+	set url https://vn.depo.ua/ukr/vn/pishov-z-zhittya-vidomiy-pismennik-z-vinnichchini-202104171310582
+	set tags javorivskij_vladimir.pisatel.ukr,kultura,literatura,smert,ukraina,vinnica
+page
+	set url https://zen.yandex.ru/media/id/5eaa9951d1cbcf0a0cd0cdde/chempionskii-puk-uslyshan-i-zachten-v-kieve-moskva-je-ni-pukam-ni-slezam-ne-verit-6074a642bf0bca26919bdb7c
+	set tags chumak_dmitrij.atlet.ukr,instagram,kiev,moskva,pozhar,rossia,shnurov_sergej.pevec.rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5eaa9951d1cbcf0a0cd0cdde/larchik-prosto-otkryvaetsia-vsia-sut-dvijeniia-blm-na-plakate-u-chernoi-devochki-605efe3496354e3b8a052b73
+	set tags black_lives_matter,usa
+page
+	set url https://www.radiosvoboda.org/a/lubomyr-romankiv-ibm-90-rokiv/31203042.html
+	set tags an225,apple.kompania,ibm.kompania,istoria,it,kb_antonov,mask_ilon,nauka,romankiv_ljubomir.izobretatel.usa.ukr,samolet,sibir,sssr,tehnika,trenazher,ukraina,usa,video
 eof
 off
 page

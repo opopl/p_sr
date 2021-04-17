@@ -18387,6 +18387,9 @@ page
 	set url https://ukraina.ru/opinion/20210409/1031084023.html
 	set tags ukraina,oruzhie,otvetstvennost',muraev_evgenii,butusov_jurij,donbass,vojna,obezjana,granata,obschestvo
 on
+global
+	setlist opts
+		no_site
 page
 	set url https://lb.ua/world/2021/04/09/481939_igor_zhovkva_ssha_dadut_nikomu.html
 	set tags ukraina,geopolitika,usa,rossia,britania,diplomatia,zelenskii_vladimir
@@ -20452,6 +20455,24 @@ page
 page
 	set url https://mir-lug.info/novosti-terotdelenij/eko-festival-sostoyalsya-v-posyolke-seleznyovka-perevalskogo-rajona/
 	set tags deti,ekologia,festival,lnr,mir_luganschine
+page
+	set url https://mir-lug.info/ns/deputat-irina-andruh-peredala-sladosti-i-igrushki-v-czentr-reabilitaczii-v-luganske/
+	set tags deputat,deti,lnr,lugansk,mir_luganschine,pomosch,shkola
+page
+	set url https://strana.ua/news/328710-pfizer-vaktsina-protivopokazanija-i-pobochnye-effekty-o-kotorykh-ne-hovorjat-v-ukraine.html
+	set tags astrazeneka,covid,minzdrav,pfizer,pobochka,ukraina,vaccinacia,vaccine
+page
+	set url https://news.obozrevatel.com/society/umer-ukrainskij-pisatel-vladimir-yavorivskij.htm
+	set tags deputat,javorivskij_vladimir,literatura,narodnyj_ruh_ukrainy,pisatel,smert,ukraina,verhovna_rada
+page
+	set url https://miaistok.su/v-lnr-vypustili-novuyu-marku-s-natyurmortom-luganskogo-hudozhnika/
+	set tags hudozhnik,lnr,lugansk,marka,natjurmort,nekolov_sergej.lnr.hudozhnik,pochta
+page
+	set url https://ukraina.ru/opinion/20210417/1031164427.html
+	set tags gospodar,kolomojskii_igor,kolonia,obschestvo,rabstvo,rossia,ukraina,usa
+page
+	set url https://www.woman.ru/news/naglye-russkie-mir-protestuet-protiv-formy-rossiiskikh-olimpiicev-id620274/
+	set tags doping_skandal,flag,naglost,olimpiada,rossia,russkie,sorevnovanie,sport,tokio,zapret
 eof
 off
 page

@@ -20756,6 +20756,15 @@ page
 page
 	set url https://news.obozrevatel.com/politics/makron-prizval-provesti-krasnuyu-liniyu-pered-rossiej-i-vvodit-sanktsii.htm
 	set tags dialog,diplomatia,doverie,francia,makron_emmanuel.prezident.francia,rossia,ukraina,world
+page
+	set url https://www.radiosvoboda.org/a/shcho-vymahatyme-rossiya-za-vidmovu-vid-nastupu/31207690.html
+	set tags armia,granica,putin_vladimir,rossia,uchenija,ukraina
+page
+	set url https://gazeta.ua/articles/life/_35-rokiv-pislya-tragediyi-u-merezhi-zyavilisya-pronizlivi-foto-pripyati/1026783
+	set tags 1986,26_apr,35_let,atomic_energy,chernobyl,foto,istoria,pripjat,sssr,ukraina
+page
+	set url https://www.volyn.com.ua/news/112844-ukrainets-iakyi-stav-doktorom-medytsyny-v-epokhu-vidrodzhennia
+	set tags drogobych,istoria,kotermak_jurij.drogobych.1450,krakov,kultura,leonardo_da_vinci,lvov,rusmir,ukraina,volyn
 eof
 off
 page

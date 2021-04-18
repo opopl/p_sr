@@ -20606,9 +20606,6 @@ page
 	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/bitva-pod-iutiubom-kak-za-pravdu-o-rossii-i-ssha-inozemcy-kommenty-skrestili-605e06bb301c9c43eb97a74d
 	set tags kommentarii,rossia,usa,youtube
 page
-	set url https://chr.aif.ru/voronezh/people/vybor_zvyozdnogo_papy_pochemu_deti_iz_voronezha_na_golose_poshli_k_agutinu
-	set tags agutin_leonid,golos_konkurs,golos_konkurs.deti,konkurs,kultura,muzyka,pesnja,rossia,showbiz,sirinko_ksenia.voronezh.pesnja,voronezh
-page
 	set url http://ukrcentr.ru/novini/sorochinskij-yarmarok/
 	set tags gogol_nikolai,kultura,rossia,sorochinskij_jarmarok.spektakl,spektakl,ukraina,ukrcentr.moskva
 page
@@ -20734,6 +20731,30 @@ page
 page
 	set url https://strana.ua/opinions/328854-kiev-prevratilsja-v-zakhlamlennyj-hrjaznyj-horod.html
 	set tags gorod,kiev,musor,ukraina
+page
+	set url https://strana.ua/opinions/328898-zapadu-sovsem-ne-nuzhno-pravovoe-hosudarstvo-v-ukraine.html
+	set tags derzhava,obschestvo,ukraina,zakon,zapad
+page
+	set url http://lug-info.com/news/one/shkolniki-lnr-predstavili-pochti-30-modelei-sudov-na-sorevnovaniyakh-luganske-66740
+	set tags deti,korabl,lnr,lugansk,modelizm,shkola,sorevnovanie,sport,sudomodelizm,voda
+page
+	set url http://lug-info.com/news/one/kikboksery-iz-lnr-zavoevali-shest-medalei-na-sorevnovaniyakh-v-rostovskoi-oblasti-foto-66742
+	set tags kikboksing,lnr,pobeda,priz,rossia,rostov_na_donu,sorevnovanie,sport
+page
+	set url http://lug-info.com/news/one/narodnaya-militsiya-sbila-udarnyi-bpla-vsu-letevshii-v-storonu-pervomaiska-66746
+	set tags bpla,donbass,lnr,nm_lnr,ukraina,vojna,vsu
+page
+	set url http://lug-info.com/news/one/nedelya-glazami-eksperta-videoinstsenirovka-revnivyi-komik-i-komediinyi-boevik-66722
+	set tags analitika,donbass,ekspert,itogi,komedia,komik,lnr,makron_emmanuel.prezident.francia,marochko_andrej.nm_lnr,mendel_julia,mnenie,obstrel,peregovory,revnost,rossia,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://zemlug.ru/2021/04/07/muzykant-iz-luganska-pobedil-na-konkurse-v-tokio/
+	set tags japonia,koncert,konkurs,kultura,lnr,mozart,muzyka,muzykant,orkestr,pobeda,tokio
+page
+	set url https://chr.aif.ru/voronezh/people/vybor_zvyozdnogo_papy_pochemu_deti_iz_voronezha_na_golose_poshli_k_agutinu
+	set tags agutin_leonid,golos_konkurs,golos_konkurs.deti,konkurs,kultura,muzyka,pesnja,rossia,showbiz,sirinko_ksenia.voronezh.pesnja,voronezh
+	set redo 1
+	setlist acts
+		db_update
 eof
 off
 page

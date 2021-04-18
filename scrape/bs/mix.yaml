@@ -18,6 +18,7 @@ include:
     - news.lnr.mirlug
     - news.lnr.miaistok
     - news.lnr.narod_tribuna
+    - news.lnr.zemlug
 
 ###news_dnr
     - news.dnr.hotline
@@ -31,6 +32,7 @@ include:
     - news.ru.donbasstoday
     - news.ru.eadaily
     - news.ru.inosmi
+    - news.ru.aif
     - news.ru.izvestia
     - news.ru.rusvesna
     #- news.ru.kp

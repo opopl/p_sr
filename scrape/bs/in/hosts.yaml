@@ -50,6 +50,8 @@
 #
 'rusvesna.su' : { 'site' : 'news.ru.rusvesna' }
 
+'aif.ru' : { 'site' : 'news.ru.aif' }
+
 # stavropol
 'stapravda.ru' : { 'site' : 'news.ru.stapravda' }
 
@@ -87,6 +89,7 @@
 'mir-lug.info' : { 'site' : 'news.lnr.mirlug' }
 'nt1941.su'    : { 'site' : 'news.lnr.narod_tribuna' }
 'miaistok.su'  : { 'site' : 'news.lnr.miaistok' }
+'zemlug.ru'  : { 'site' : 'news.lnr.zemlug' }
 
 ###news.nvr
 'voskhodinfo.su'  : { 'site' : 'news.nvr.voshod_info' }

@@ -20605,6 +20605,117 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/bitva-pod-iutiubom-kak-za-pravdu-o-rossii-i-ssha-inozemcy-kommenty-skrestili-605e06bb301c9c43eb97a74d
 	set tags kommentarii,rossia,usa,youtube
+page
+	set url https://chr.aif.ru/voronezh/people/vybor_zvyozdnogo_papy_pochemu_deti_iz_voronezha_na_golose_poshli_k_agutinu
+	set tags agutin_leonid,golos_konkurs,golos_konkurs.deti,konkurs,kultura,muzyka,pesnja,rossia,showbiz,sirinko_ksenia.voronezh.pesnja,voronezh
+page
+	set url http://ukrcentr.ru/novini/sorochinskij-yarmarok/
+	set tags gogol_nikolai,kultura,rossia,sorochinskij_jarmarok.spektakl,spektakl,ukraina,ukrcentr.moskva
+page
+	set url https://www.radiosvoboda.org/a/zakarpattia-ukrayina-rus-khreshchennia/31209016.html
+	set tags kirill_i_mefodij,kreschenie,ukraina,zakarpatie
+page
+	set url https://strana.ua/news/328833-umer-odin-iz-sozdatelej-pdf-formata-charlz-heshke.html
+	set tags 82_goda,adobe.kompania,geshke_charlz.razrabotchik.pdf,it,kalifornia,pdf.pc.format,san_jose.ca.usa,smert,usa
+page
+	set url https://strana.ua/news/328800-bajden-ne-otvetil-putinu-na-vopros-o-pokushenii-na-lukashenko.html
+	set tags belarus,biden_joe,lukashenko_aleksandr,pokushenie,putin_vladimir,razgovor,rossia,usa
+page
+	set url https://strana.ua/news/328794-pojavilis-video-s-perehovorami-zahovorshchikov-o-hosperevorote-v-belarusi.html
+	set tags belarus,fsb,gosperevorot,lukashenko_aleksandr,pokushenie,proslushka,rossia,zagovor
+page
+	set url https://strana.ua/news/328354-v-belarusi-desantniki-budut-vospityvat-tiktok-blohera-naplevavsheho-na-memorial.html
+	set tags belarus,deti,mogila,nadrugatelstvo,patriotizm,plevok,tiktok,vitebsk,vospitanie
+page
+	set url https://strana.ua/video/313261-natsionalisty-zatravili-tiktok-blohera-za-rossiju-vypusk-jasnoponjatno-s-olesej-medvedevoj.html
+	set tags di_rubens,nenavist,onacka_taisia,rossia,tiktok,ukraina
+page
+	set url https://strana.ua/opinions/328821-shest-hlavnykh-pravil-s-kotorymi-stoit-idti-po-zhizni.html
+	set tags chelovek,obschestvo,proschenije,roditeli,skromnost,slovo,tochnost,ukraina,zhertva,zhizn,brodskij_iosif
+page
+	set url https://strana.ua/opinions/328822-vsu-ne-zhdut-pomoshchi-ot-sojuznikov-znachit-vojn-otmenjaetsja.html
+	set tags cenzura,nato,obschestvo,ohota,ohota_na_vedjm,ozhidanie,pomosch,presledovanie,rossia,sojuznik,ukraina,zapad
+page
+	set url https://strana.ua/opinions/328824-dazhe-samye-zhestokie-sanktsii-protiv-rossii-ne-razrushat-ee.html
+	set tags ekonomika,iran,kitaj,razrushenie,razvitie,rossia,sankcii,swift,usa,zapad
+page
+	set url https://strana.ua/opinions/328823-ljudi-iz-ministerstva-obrazovanija-na-osobom-pravovom-statuse.html
+	set tags istoria,karta,krym,minoborony,oshybki,shkola,territoria,uchebnik,ukraina
+page
+	set url https://strana.ua/opinions/328845-hlobalnomu-miru-prikhodit-konets-na-nashikh-hlazakh.html
+	set tags belarus,fsb,geopolitika,granica,kitaj,konec,lukashenko_aleksandr,miroporjadok,politika,rossia,usa,world,zanaves_zheleznyj
+page
+	set url https://strana.ua/opinions/328834-my-okazalis-v-polushahe-ot-novoj-heopoliticheskoj-realnosti.html
+	set tags dnr,donbass,geopolitika,lnr,miroporjadok,rossia,strategia,ukraina,vopros,world
+page
+	set url https://strana.ua/opinions/328852-udivitelno-kak-vzvolnovali-obshchestvennost-ochki-mendel.html
+	set tags francia,mendel_julia,obschestvo,ochki,parizh,press_konferencia,ukraina,vozmuschenie,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/328853-v-ternopole-predprinjali-ocherednuju-popytku-otbelit-romana-shukhevicha.html
+	set tags istoria,izrail,konferencia,mirvojna2,nacizm,oun,pamjat,priglashenie,shuhevych_jurij,ss_galichina,ternopil,ukraina,upa
+page
+	set url https://strana.ua/opinions/328716-vse-taki-vidimo-sanktsii-ssha-protiv-rossii-okazalis-e-samym-moshchnymi.html
+	set tags birzha,birzha.moskva,ekonomika,investor,reakcia,rossia,sankcii,usa
+page
+	set url https://kiev.strana.ua/328812-kievskie-restorany-prodolzhajut-rabotat-vopreki-karantinu.html
+	set tags kafe,karantin,kiev,konspiracia,lockdown,narushenie,ohrana,policia,profanacia,restoran,ukraina,zapret,zhurnalist
+page
+	set url https://kiev.strana.ua/328849-posle-reportazha-strany-politsija-proverila-kievskie-restorany-narushavshie-karantin.html
+	set tags covid,karantin,kiev,lockdown,nakazanie,podpolje,policia,restoran,shtraf,strana_ua,ukraina
+page
+	set url https://strana.ua/news/328851-andrej-melnik-potreboval-hermaniju-pomoch-s-prisoedineniem-ukrainy-k-nato.html
+	set tags germania,melnik_andrei,merkel_angela,nacizm,nato,otvetstvennost',posol,posolstvo.ukrainy.germania,trebovanie,ukraina
+page
+	set url https://strana.ua/news/328827-konsul-ukrainy-v-peterburhe-aleksandr-sosonjuk-vyslan-iz-rossii-za-shpionazh-v-chem-sut-dela.html
+	set tags fsb,konsul,rossia,shpionazh,sosonjuk_aleksandr.konsul.ukraina,st_peterburg,ukraina,zaderzhanie
+page
+	set url https://strana.ua/sport/328781-synovja-lukashenko-vyshli-na-led-v-minske-v-raznykh-komandakh.html
+	set tags belarus,hokkej,incident,led,lukashenko_dmitrij.syn_prezidenta.by,minsk,sport
+page
+	set url https://www.pravda.com.ua/articles/2021/04/18/7290612/
+	set tags biden_joe,donbass,geopolitika,infvojna,interview,putin_vladimir,rossia,shuster_sajmon.zhurnalist.time,ukraina,vojna,zelenskii_vladimir,zhurnal.time,zhurnalist
+page
+	set url https://life.pravda.com.ua/culture/2021/04/18/244607/
+	set tags anime,japonia,kino,kultura,ozvuchka,ukraina
+page
+	set url https://www.pravda.com.ua/columns/2021/04/16/7290459/
+	set tags covax,covid,pfizer,pomosch,ukraina,us_embassy,usa,vaccinacia,vaccine
+page
+	set url https://www.radiosvoboda.org/a/muzhenko-pro-okupatsiyu-krymu/31207723.html
+	set tags 2014,armia,krym,rossia,ukraina,vojna
+page
+	set url https://fraza.com/blog/299839-rossija-naneset-raketnyj-udar-vozmezdija-po-ukraine
+	set tags podgotovka,raketa,rossia,udar,ukraina,vojna,vozmezdie
+page
+	set url https://plus.obozrevatel.com/kiyany/crime/rezonansnyie-dtp-kieva-v-marte-pyanyie-voditeli-retsidivistyi-i-gonki-na-ulitsah.htm
+	set tags avaria,avto,doroga,dtp,kiev,pjanstvo,policia,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/society/ya-russkij-chto-mne-delat-esli-menya-obyazhut-ehat-na-vojnu-v-ukrainu.htm
+	set tags donbass,nato,rossia,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/russia/rossiya-strana-terrorist-kotoraya-ne-hochet-umirotvoryatsya.htm
+	set tags mir,rossia,strana,terrorist,ukraina
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-chernyij-den-v-istorii-kryima.htm
+	set tags kiev,krym,rossia,ukraina
+page
+	set url https://news.obozrevatel.com/russia/podnogotnuyu-putina-vyistavili-na-vseobschee-obozrenie.htm
+	set tags navalny,obschestvo,putin_vladimir,rossia
+page
+	set url http://lug-info.com/news/one/kievskie-siloviki-razmestili-bronetekhniku-u-zhilykh-domov-v-mironovskom-narodnaya-militsiya-66738
+	set tags donbass,lnr,nm_lnr,ukraina,vojna
+page
+	set url https://lenta.ru/articles/2021/04/18/shustin/
+	set tags evrei,genocid,golokost,istoria,latvia,mirvojna2,nkvd,shustin_semen.nkvd.latvia,sssr
+page
+	set url https://lenta.ru/articles/2021/03/17/nazi_latvia/
+	set tags dobrovolec,germania,geroi,istoria,kollaborant,latvia,mirvojna2,nacizm,pamjat,riga,ss,veteran
+page
+	set url https://lenta.ru/news/2021/04/18/pozner/
+	set tags kultura,literatura,pozner_vladimir,pushkin_aleksandr,rossia,russkie
+page
+	set url https://ukraina.ru/opinion/20210413/1031126156.html
+	set tags civilizacia,future,obschestvo,ostrov,rossia,ukraina,zapad
 eof
 off
 page

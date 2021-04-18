@@ -20753,6 +20753,9 @@ page
 page
 	set url https://chr.aif.ru/voronezh/people/vybor_zvyozdnogo_papy_pochemu_deti_iz_voronezha_na_golose_poshli_k_agutinu
 	set tags agutin_leonid,golos_konkurs,golos_konkurs.deti,konkurs,kultura,muzyka,pesnja,rossia,showbiz,sirinko_ksenia.voronezh.pesnja,voronezh
+page
+	set url https://news.obozrevatel.com/politics/makron-prizval-provesti-krasnuyu-liniyu-pered-rossiej-i-vvodit-sanktsii.htm
+	set tags dialog,diplomatia,doverie,francia,makron_emmanuel.prezident.francia,rossia,ukraina,world
 eof
 off
 page

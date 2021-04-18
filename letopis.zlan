@@ -20719,6 +20719,21 @@ page
 page
 	set url https://www.pravda.com.ua/rus/news/2017/12/28/7166993/
 	set tags obschestvo,terrorizm,ukraina
+page
+	set url https://news.obozrevatel.com/society/foto-ottsa-pogibshih-na-donbasse-voinov-vsu-tronulo-ukrainstsev.htm
+	set tags donbass,foto,kladbische,mamchij_aleksej.voin.vsu,otec,smert,ukraina,vojna,vsu
+page
+	set url https://news.obozrevatel.com/society/mif-o-tom-chto-v-sssr-ne-byilo-nischih.htm
+	set tags istoria,mif,nischeta,obschestvo,sssr,zhizn
+page
+	set url https://news.obozrevatel.com/show/people/foto-pohoron-printsa-filippa-samyie-vazhnyie-momentyi.htm
+	set tags britania,pohoron,princ_fillip.suprug_korolevy_elizavety,smert
+page
+	set url https://strana.ua/news/328844-chto-stoit-za-rossijskim-skandalom-v-chekhii-i-pri-chem-zdes-ukraina-.html
+	set tags chehia,obvinenie,razvedka,rossia
+page
+	set url https://strana.ua/opinions/328854-kiev-prevratilsja-v-zakhlamlennyj-hrjaznyj-horod.html
+	set tags gorod,kiev,musor,ukraina
 eof
 off
 page

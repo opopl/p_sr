@@ -20596,6 +20596,12 @@ page
 page
 	set url https://day.kyiv.ua/uk/article/podrobyci/viyna-moskvy-z-ukrayinoyu
 	set tags moskva,podgotovka,putin_vladimir,rossia,ukraina,vojna
+page
+	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/rossiia-rvet-vse-za-chto-by-ne-bralas-zarubejnye-hity-ot-rossiiskih-ispolnitelei-i-kommentarii-inostrancev-607727b28fb1c273057c33f5
+	set tags cover,golos_konkurs,golos_konkurs.deti,halleluja,perepev,pesnja,rossia,rusmir,showbiz
+page
+	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/ia-dumaiu-kajdyi-iz-nas-hochet-sest-s-vami-i-spet-vmeste-narodnye-pesni-iz-rossii-i-vpechatleniia-inostrancev-606092cd188a9f7359d184da
+	set tags gogol_nikolai,kultura,pesnja,rossia
 eof
 off
 page

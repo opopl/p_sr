@@ -20602,6 +20602,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/ia-dumaiu-kajdyi-iz-nas-hochet-sest-s-vami-i-spet-vmeste-narodnye-pesni-iz-rossii-i-vpechatleniia-inostrancev-606092cd188a9f7359d184da
 	set tags gogol_nikolai,kultura,pesnja,rossia
+page
+	set url https://zen.yandex.ru/media/id/5e9700f8986c916d56eea882/bitva-pod-iutiubom-kak-za-pravdu-o-rossii-i-ssha-inozemcy-kommenty-skrestili-605e06bb301c9c43eb97a74d
+	set tags kommentarii,rossia,usa,youtube
 eof
 off
 page

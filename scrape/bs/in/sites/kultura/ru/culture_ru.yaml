@@ -2,8 +2,6 @@
 sel:
   clean:
   only:
-    #- .content
-    - section.article
   keep:
 
 fetch:
@@ -22,13 +20,14 @@ PageParser:
     sels:
       - { 
           # css selector
-          'find'  : 'time[itemprop="datePublished"]',
-          'get'   : 'attr',
-          'attr'  : 'datetime',
+          'find'  : '',
+          'get'   : 'text',
+          #'get'   : 'attr',
+          #'attr'  : '',
           # split date string
           #'split' : ' ',
           # used by dateparser.parse()
-          #'order' : 'DMY',
+          'order' : 'DMY',
         }
   get_author:
     tries:

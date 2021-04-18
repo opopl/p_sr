@@ -20536,6 +20536,7 @@ page
 page
 	set url https://www.culture.ru/s/vopros/kitezh-grad/
 	set tags atlantida,kitezh_grad,kultura,legenda,letopis,rusmir
+	set date 15_04_2021
 page
 	set url https://zen.yandex.ru/media/id/5dbd29364e057700ae68506a/moi-luchshie-raboty-5f9708abb2613332b0f1eb4c
 	set tags literatura,rusmir,skazka
@@ -20752,9 +20753,6 @@ page
 page
 	set url https://chr.aif.ru/voronezh/people/vybor_zvyozdnogo_papy_pochemu_deti_iz_voronezha_na_golose_poshli_k_agutinu
 	set tags agutin_leonid,golos_konkurs,golos_konkurs.deti,konkurs,kultura,muzyka,pesnja,rossia,showbiz,sirinko_ksenia.voronezh.pesnja,voronezh
-	set redo 1
-	setlist acts
-		db_update
 eof
 off
 page

@@ -66,6 +66,7 @@ include:
 
 ###kultura_ru
     - kultura.ru.portal
+    - kultura.ru.culture_ru
     #- kultura.ru.ukrcentr
 
 ###sport_ru

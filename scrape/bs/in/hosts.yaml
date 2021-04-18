@@ -122,6 +122,7 @@
 ###kultura.ru
 'portal-kultura.ru' : { 'site' : 'kultura.ru.portal' }
 'ukrcentr.ru' : { 'site' : 'kultura.ru.ukrcentr' }
+'www.culture.ru' : { 'site' : 'kultura.ru.culture_ru' }
 
 ###sport.ru
 'championat.com' : { 'site' : 'sport.ru.championat' }

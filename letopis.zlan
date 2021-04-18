@@ -20765,6 +20765,18 @@ page
 page
 	set url https://www.volyn.com.ua/news/112844-ukrainets-iakyi-stav-doktorom-medytsyny-v-epokhu-vidrodzhennia
 	set tags drogobych,istoria,kotermak_jurij.drogobych.1450,krakov,kultura,leonardo_da_vinci,lvov,rusmir,ukraina,volyn
+page
+	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/chahlyk-nevmyruscyi-ukrainskii-iazyk-nachalsia-s-bezobidnoi-shutki-6070268b09f84542a99b5bce
+	set tags eneida.ukr,filologia,istoria,jazyk,kotljarevskij_ivan,language,lingvistika,malorossia,mova,rusmir,shevchenko_taras,ukraina
+page
+	set url https://zen.yandex.ru/media/kinovoyage/kak-iaponskoe-plate-i-programma-pod-iaponskuiu-muzyku-kapitana-sbornoi-elizavety-tuktamyshevoi-prinesli-udachu-nashei-komande-mechty-607b0a8d7e45e42df47ee4d0
+	set tags figurist,figurnoje_katanie,pobeda,rossia,sport
+page
+	set url https://tsargrad.tv/special_projects/pelmeni-mutanty-russkij-gimn-i-kin-dza-dza-anglichanin-popal-v-rossiju-i-priznalsja-i-was-not-gotov_342963
+	set tags 8_marta,britanec,britania,chelovek,kino,kultura,obschestvo,rossia,tradicii,zhizn
+page
+	set url https://kharkov.strana.ua/328904-v-kharkovskoj-oblasti-muzhchinu-izbili-bitami-i-rasstreljali-iz-pistoleta.html
+	set tags harkov,izbienie,kafe,kriminal,muzhchina,pistolet,policia,ukraina
 eof
 off
 page

@@ -20716,6 +20716,9 @@ page
 page
 	set url https://ukraina.ru/opinion/20210413/1031126156.html
 	set tags civilizacia,future,obschestvo,ostrov,rossia,ukraina,zapad
+page
+	set url https://www.pravda.com.ua/rus/news/2017/12/28/7166993/
+	set tags obschestvo,terrorizm,ukraina
 eof
 off
 page

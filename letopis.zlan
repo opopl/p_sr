@@ -20777,6 +20777,51 @@ page
 page
 	set url https://kharkov.strana.ua/328904-v-kharkovskoj-oblasti-muzhchinu-izbili-bitami-i-rasstreljali-iz-pistoleta.html
 	set tags harkov,izbienie,kafe,kriminal,muzhchina,pistolet,policia,ukraina
+page
+	set url https://strana.ua/opinions/328911-kak-sovremennaja-sistema-zastavljaet-nas-smotret-ihru-prestolov.html
+	set tags chelovek,igra_prestolov,kultura,mnenie,obschestvo,psihologia,serial,sistema,ukraina
+page
+	set url https://lenta.ru/news/2021/04/18/makron/
+	set tags covid,evropa,makron_emmanuel.prezident.francia,razreshenie,rossia,sputnik_v,vaccinacia,vaccine
+page
+	set url https://regnum.ru/news/society/3244279.html
+	set tags bolezn,chelovek,covid,obschestvo,odinochestvo,pandemia,rossia,zhizn
+page
+	set url https://regnum.ru/news/cultura/3245360.html
+	set tags arhangelsk,cerkov,dezhnev_semen.kazak,letopis,razrushenie,rossia,rusmir
+page
+	set url https://regnum.ru/news/cultura/3241870.html
+	set tags future,kosmos,moskva,rossia,vystavka
+page
+	set url https://zen.yandex.ru/media/yznaumir/dose-na-iunuiu-krasavicu-aleksandru-trusovu-605cf3515727170818db43a4
+	set tags biografia,devushka,figurist,krasavica,krasota,rossia,sport,trusova_aleksandra
+page
+	set url https://zen.yandex.ru/media/id/5e7f52e668b51338284319d5/russkii-kosmopoezd-vtoraia-chast-znamenitogo-rolika-russkaia-kiberderevnia-stremitelno-pokoriaet-internet-607992e73d51355a00e0deda
+	set tags fantastika,film,future,jumor,kosmonavtika,kosmos,kultura,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/id/5bbb1196aa79e500a9a82c5a/o-velikih-drevnih-ukrah-vykopavshih-chernoe-more-i-treh-bylinnyh-ukrainskih-bogatyriah-kotoryh-bessovestno-ukrala-rossiia-6073d26f7a826a210ac8d97d
+	set tags bogatyr,gogol_nikolai,ilja_muromec,istoria,kultura,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/rustars/figurist-mihail-koliada-malchik-iz-mnogodetnoi-semi-kotoryi-k-25-dobilsia-slavy-foto-ego-krasavicy-jeny-606d7db3756f335670b030dd
+	set tags biografia,chelovek,figurnoje_katanie,koljada_mihail.figurist,rossia,sport,st_peterburg
+page
+	set url https://news-front.info/2021/04/17/dnr-subbotnik-na-legendarnoj-vysote-saur-mogila/
+	set tags 2014,dnr,donbass,saur_mogila,subbotnik,ukraina,vojna
+page
+	set url https://zen.yandex.ru/media/hellengeografic/gorod-zolotoi-zolushka-kostroma-i-drugie-goroda-zolotogo-kolca-605ac1f14807e8528b0c5b93
+	set tags kostroma.gorod,rossia,rusmir,sergiev_posad,zolotoje_kolco_rossii
+page
+	set url https://zen.yandex.ru/media/id/603536164ae99f5dbd093ce4/russkie-doljny-uvajat-sebia-za-to-chto-oni-nedoevropeicy-ili-beseda-s-nemcem-vo-vremia-poleta-60696669a649f87c91427ec3
+	set tags evropa,rossia,rusmir,russkie,uvazhenie
+page
+	set url https://zen.yandex.ru/media/id/603536164ae99f5dbd093ce4/zabroshennyi-gorod-shahmat-ili-pochemu-ia-ne-sovetuiu-tuda-ehat-607740fdb57e177a1cb10866
+	set tags chess,elista,fide,gorod,kalmykia,rossia,turizm
+page
+	set url https://news.obozrevatel.com/society/stalo-izvestno-imya-ubitogo-na-donbasse-voina-vsu-foto.htm
+	set tags donbass,obstrel,rossia,smert,ukraina,vojna
+page
+	set url https://zen.yandex.ru/media/zapiski_musicanta/pochemu-zarubejnye-muzykanty-liubiat-pet-russkie-pesni-603e3a255f6b8d26fee160e5
+	set tags ichigo_tanuki,japonia,muzyka,pesnja,rossia,rusmir
 eof
 off
 page

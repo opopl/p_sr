@@ -21172,6 +21172,15 @@ page
 page
 	set url https://www.facebook.com/yevzhik/posts/2710332442335182
 	set tags bbc,chelovek,drugie,ukraina
+page
+	set url https://www.liga.net/society/opinion/posledniy_russkiy_radikalizatsiya_temy_yazyka_put_v_nikuda
+	set tags bilchenko_evgenia,jazyk,mova,ukraina
+page
+	set url https://ukraina.ru/interview/20191128/1025833622.html
+	set tags bilchenko_evgenia,interview,rossia,ukraina
+page
+	set url https://news.obozrevatel.com/society/ot-lyubvi-do-nenavisti-kak-poetessa-majdana-evgeniya-bilchenko-nachala-nenavidet-ukrainu.htm
+	set tags bilchenko_evgenia,maidan2,mova,skandal,ukraina,ukrainizacia
 eof
 off
 page

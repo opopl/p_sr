@@ -21199,6 +21199,15 @@ page
 page
 	set url https://ukraina.ru/news/20210419/1031179941.html
 	set tags donbass,granata,ukraina,vojna
+page
+	set url https://ukraina.ru/opinion/20210419/1031165992.html
+	set tags chelovek,obschestvo,psihologia,shizofrenia,ukraina
+page
+	set url https://day.kyiv.ua/uk/article/podrobyci/poslannya-putina-v-mynule
+	set tags armia,donbass,putin_vladimir,rossia,ukraina,vojna
+page
+	set url https://zaxid.net/shhob_u_vati_zapalalo_i_shho_n1517609
+	set tags diskussia,mentalitet,nacia,narod,rossia,ukraina,vata,vatnik
 eof
 off
 page

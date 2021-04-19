@@ -20822,6 +20822,51 @@ page
 page
 	set url https://zen.yandex.ru/media/zapiski_musicanta/pochemu-zarubejnye-muzykanty-liubiat-pet-russkie-pesni-603e3a255f6b8d26fee160e5
 	set tags ichigo_tanuki,japonia,muzyka,pesnja,rossia,rusmir
+page
+	set url https://strana.ua/opinions/328942-pochemu-mery-lvova-i-ivano-frankovska-ne-verjat-v-svoju-armiju.html
+	set tags armia,ivano_frankovsk,lvov,strah,teroborona,ukraina,vsu
+page
+	set url https://www.radiosvoboda.org/a/olha-yarosh-screenwriter-audiozbroya/31205168.html
+	set tags donbass,jarosh_olga.scenarist.ukr,kultura,literatura,rossia,ukraina,vojna
+page
+	set url https://strana.ua/news/328949-strelba-v-chikaho-pohibla-semiletnjaja-devochka.html
+	set tags chicago,deti,devochka,kriminal,macdonalds.kafe,oruzhie,rasstrel,smert,strelba,usa
+page
+	set url https://kiev.strana.ua/327540-strelba-v-kieve-hospitalizirovany-dva-cheloveka.html
+	set tags kiev,konflikt,kriminal,oruzhie,policia,ranenie,strelba,ukraina
+page
+	set url https://strana.ua/news/327343-streljavshikh-v-poezde-voennykh-hosspetssvjazi-arestovali.html
+	set tags 06_04_2021,arest,kiev,konstantinovka,poezd,prokuratura,strelba,sud,ukraina,ukrzaliznycia,vsu
+page
+	set url https://strana.ua/news/326717-strelba-v-poezde-konstantinovka-kiev-novye-podrobnosti.html
+	set tags 06_04_2021,gauptvahta,kiev,konstantinovka,oruzhie,pjanstvo,podrobnosti,poezd,policia,strelba,ukraina,vsu
+page
+	set url https://strana.ua/opinions/328960-obostrenie-na-donbasse-otchajannaja-popytka-ukrainy-chto-to-izmenit.html
+	set tags donbass,gaz,putin_vladimir,rossia,sevpotok2,tranzit_gaza,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/328964-moderatory-kontenta-facebook-rabotajut-v-nevynosimykh-uslovijakh.html
+	set tags chelovek,facebook,internet,it,moderator,psihologia,socset,usa,rabota
+page
+	set url https://strana.ua/opinions/328946-ukraina-sovershila-rezkij-povorot-v-svoej-voennoj-ritorike.html
+	set tags avakov_arsen,geopolitika,peremena,povorot,rodina,rossia,tischenko_nikolai.deputat,ukraina,usa,vojna,zapad
+page
+	set url https://plus.obozrevatel.com/ukr/crime/dmitro-yarosh-rosiya-gotuetsya-do-vtorgnennya-ale-vono-stane-tsvyahom-u-domovinu-imperii.htm
+	set tags donbass,interview,jarosh_dmitrii,rossia,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/ukr/politics/kuleba-ukraina-gotova-dati-vijskovu-vidsich-rosii.htm
+	set tags donbass,kuleba_dmitrii,nastuplenie,rossia,ukraina,vojna
+page
+	set url https://plus.obozrevatel.com/ukr/crime/zsu-pokazali-minni-pastki-ldnr-yaki-nemozhlivo-zneshkoditi-foto.htm
+	set tags donbass,mina,minirovanie,oruzhie,ukraina,vojna,vsu
+page
+	set url https://news.obozrevatel.com/ukr/society/novini-krimnashu-ukraina-zolotij-buv-chas-u-vsomu.htm
+	set tags hamstvo,herson,hersones,krym,obschestvo,rossia,simferopol,ukraina,zhizn
+page
+	set url https://news.obozrevatel.com/ukr/politics/druzi-ukraini-rosiya-agresor-a-ukraini-potribno-dopomagati.htm
+	set tags agressor,druzhba,estonia,francia,latvia,litva,makron_emmanuel.prezident.francia,mendel_julia,polsha,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/ukr/politics/putin-naspravdi-boitsya-ukraini.htm
+	set tags biden_joe,donbass,ihtamnet,kiev,makron_emmanuel.prezident.francia,minsk_dogovor,putin_vladimir,rossia,strah,ukraina,vojna
 eof
 off
 page

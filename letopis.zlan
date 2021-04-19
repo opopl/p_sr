@@ -21029,6 +21029,66 @@ page
 page
 	set url https://www.vesti.ru/article/2552399
 	set tags covid,dogovor,india,proizvodstvo,rfpi,rossia,sputnik_v,turcia,vaccine
+page
+	set url https://lenta.ru/news/2021/04/19/ingenuity/
+	set tags kosmos,mars,marsohod,marsohod.perseverance,nasa,nauka,usa,vertolet
+page
+	set url https://www.gazeta.ru/social/news/2021/04/04/n_15821504.shtml
+	set tags finlandia,mentalitet,narod,obschenie,rossia,russkie,vpechatlenie,zhizn,zhurnalist
+page
+	set url https://www.gazeta.ru/comments/column/mironova/13549532.shtml
+	set tags belarus,obschestvo,rossia,sravnenie,sssr,ukraina,zhizn
+page
+	set url https://www.gazeta.ru/comments/column/melamed/13548356.shtml
+	set tags chelovek,hudozhnik,lenj,leonardo_da_vinci,psihologia,pushkin_aleksandr,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/id/5de55a696d29c100ac11729d/pochemu-u-rusov-v-dogovore-olega-vescego-s-vizantiei-nerusskie-imena-607c7871298124331e785da6
+	set tags dogovor,imja,istoria,kievrus,konstantinopol,rusmir,skandinav,vizantia
+page
+	set url https://strana.ua/news/329053-voennykh-lishajut-matpomoshchi-v-sluchae-smerti-iz-za-otkaza-vaktsinirovatsja.html
+	set tags armia,covid,otkaz,prinuzhdenie,raport,skandal,ukraina,vaccinacia,vaccine,vsu
+page
+	set url https://strana.ua/articles/analysis/329000-kievskie-restoratory-hotovjat-mitinh-posle-podpolnoj-vecherinki-nikolaja-tishchenko.html
+	set tags covid,karantin,kiev,lockdown,protest,restoran,restorator,rostov_na_donu,skandal,sluga_naroda,tischenko_nikolai.deputat,ukraina,verhovna_rada,vlast,vozmuschenie
+page
+	set url https://strana.ua/news/329060-pojavilos-novoe-video-s-podpolnoj-vecherinki-sluhi-naroda-tishchenko.html
+	set tags deputat,karantin,kiev,lockdown,skandal,sluga_naroda,tischenko_nikolai.deputat,ukraina,vecherinka,video
+page
+	set url https://analytics.hvylya.net/229043-finski-uroki-dlya-ukrajini
+	set tags finlandia,istoria,putin_vladimir,rossia,sssr,stalin_iosif,ukraina,uroki,vojna.finlandia_1939
+page
+	set url https://strana.ua/news/329070-rfpi-soobshchilo-na-skolko-effektivna-vaktsina-ot-koronavirusa-sputnik-v.html
+	set tags covid,effektivnost',rfpi,rossia,sputnik_v,statistika,vaccinacia,vaccine
+page
+	set url https://strana.ua/news/329087-chekhija-otkazalas-ot-rossijskoj-vaktsiny-sputnik-v.html
+	set tags chehia,covid,diplomatia,otkaz,pokupka,rossia,skandal,sputnik_v,vaccine
+page
+	set url https://strana.ua/news/329084-ministr-finansov-marchenko-i-saakashvili-oskorbili-druh-druha.html
+	set tags marchenko_sergej.minfin.ukr,oskorblenie,saakashvili_mihail,skandal,ukraina
+page
+	set url https://strana.ua/opinions/329086-evropejskaja-solidarnost-khochet-sdelat-shtrafy-bolee-drakonovskimi.html
+	set tags covid,karantin,partia_es,shtraf,ukraina,verhovna_rada,zakon
+page
+	set url https://strana.ua/news/328967-bespilotnik-lantset-chto-o-nem-izvestno.html
+	set tags armia,bajraktar,bpla,dron,dron.lancet.rossia,rossia,turcia
+page
+	set url https://www.radiosvoboda.org/a/ekspansiya-russkiy-mir-krym/31211646.html
+	set tags istoria,jakubova_larisa.ukr.istorik,kniga,krym,kulchickij_stanislav.ukr.istorik,rossia,rusmir,ukraina
+page
+	set url https://www.radiosvoboda.org/a/shcho-chekaye-na-rosiyan-pid-chas-litnoho-vidpochynku-v-krymu/31211577.html
+	set tags blokada,rossia,turizm,ukraina,voda
+page
+	set url https://www.radiosvoboda.org/a/news-karantyn-tyshchenko-vechirka/31211449.html
+	set tags karantin,kiev,lockdown,narushenie,policia,restoran,tischenko_nikolai.deputat,ukraina,vecherinka
+page
+	set url https://www.epravda.com.ua/publications/2021/04/19/673101/
+	set tags derzhkosmos.ukraina,dnepropetrovsk,kb_juzhnoe,kosmonavtika,kosmos,mask_ilon,raketa,spacex.raketa,sputnik,ukraina
+page
+	set url https://lenta.ru/news/2021/04/19/otdaite_vse/
+	set tags chehia,diplomatia,posolstvo,posolstvo.rossia.chehia,praga,rossia,skandal
+page
+	set url http://lug-info.com/news/one/vmik-nagradila-kandidatov-v-deputaty-molodezhnogo-parlamenta-za-kreativnye-agitplakaty-foto-66772
+	set tags agitacia,lnr,lugansk,marafon,mir_luganschine,miroshnichenko_denis.lnr,molodezh,molodezh_parlament.lnr,ns_lnr,plakat,priz
 eof
 off
 page

@@ -21151,12 +21151,15 @@ page
 	set url https://strana.ua/news/329120-video-skhem-o-vecherinke-nardepa-tishchenko.html
 	set tags covid,karantin,kiev,lockdown,restoran,salut,skandal,tischenko_nikolai.deputat,ukraina,vecherinka,video
 on
+page
+	set url https://www.theguardian.com/world/2021/apr/18/what-do-they-want-from-us-as-russian-forces-amass-a-ukraine-frontier-town-feels-fear-and-despair
+	set tags donbass,marjinka,rossia,ukraina,vojna
 global
 	setlist opts
 		no_site
 page
-	set url https://www.theguardian.com/world/2021/apr/18/what-do-they-want-from-us-as-russian-forces-amass-a-ukraine-frontier-town-feels-fear-and-despair
-	set tags donbass,marjinka,rossia,ukraina,vojna
+	set url https://www.facebook.com/groups/respublikalnr/permalink/798976340738159/
+	set tags lnr,minifutbol,mir_luganschine,sport
 eof
 off
 page

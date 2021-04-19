@@ -21196,6 +21196,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/fake-russia-media/31211835.html
 	set tags 2014,ajdar.bataljon,donbass,fejk,ukraina,vojna
+page
+	set url https://ukraina.ru/news/20210419/1031179941.html
+	set tags donbass,granata,ukraina,vojna
 eof
 off
 page

@@ -18386,10 +18386,6 @@ page
 page
 	set url https://ukraina.ru/opinion/20210409/1031084023.html
 	set tags ukraina,oruzhie,otvetstvennost',muraev_evgenii,butusov_jurij,donbass,vojna,obezjana,granata,obschestvo
-on
-global
-	setlist opts
-		no_site
 page
 	set url https://lb.ua/world/2021/04/09/481939_igor_zhovkva_ssha_dadut_nikomu.html
 	set tags ukraina,geopolitika,usa,rossia,britania,diplomatia,zelenskii_vladimir
@@ -21149,9 +21145,16 @@ page
 page
 	set url https://www.thesun.co.uk/news/14693649/satellite-pics-biggest-build-up-russian-forces-ukraine/
 	set tags donbass,flag,rossia,ukraina,vojna
-	set redo 1
-	setlist acts
-		db_update
+on
+page
+	set url https://strana.ua/opinions/329117-projdennyj-pik-truskavtstskaja-arifmetika-deshevye-kozjavki.html
+	set tags itogi,obschestvo,ukraina
+global
+	setlist opts
+		no_site
+page
+	set url https://strana.ua/news/329120-video-skhem-o-vecherinke-nardepa-tishchenko.html
+	set tags covid,karantin,kiev,lockdown,restoran,salut,skandal,tischenko_nikolai.deputat,ukraina,vecherinka,video
 eof
 off
 page

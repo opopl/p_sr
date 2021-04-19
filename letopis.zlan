@@ -21026,6 +21026,9 @@ page
 page
 	set url https://sport.fakty.ua/373989-umer-sovetskij-olimpijskij-chempion-vklyuchennyj-v-zal-hokkejnoj-slavy
 	set tags hokkej,shuvalov_viktor.hokkej.sssr,smert,sport,sssr
+page
+	set url https://www.vesti.ru/article/2552399
+	set tags covid,dogovor,india,proizvodstvo,rfpi,rossia,sputnik_v,turcia,vaccine
 eof
 off
 page

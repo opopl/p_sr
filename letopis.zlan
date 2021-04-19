@@ -20873,6 +20873,75 @@ page
 page
 	set url https://from-ua.com/articles/596287-kak-zdorove-ukrainskoi-nacii.html
 	set tags nacia,ukraina,zdorovje
+page
+	set url https://kiev.strana.ua/328974-vechernika-tishchenko-politsija-otkryla-uholovnoe-delo.html
+	set tags covid,karantin,kiev,lockdown,narushenie,policia,publikacia,restoran,tischenko_nikolai.deputat,ukraina,vecherinka
+page
+	set url https://ukraina.ru/exclusive/20210419/1031166109.html
+	set tags belarus,fsb,lukashenko_aleksandr,pokushenie,rossia,ukraina,usa,zaderzhanie,zagovor
+page
+	set url https://lenta.ru/articles/2021/04/17/team_cup/
+	set tags figurist,figurnoje_katanie,krasota,led,pobeda,rossia,sport
+page
+	set url https://lenta.ru/articles/2021/04/19/nashi_govoryat/
+	set tags geopolitika,gosdep,isterika,miroporjadok,obvinenie,rossia,usa
+page
+	set url http://lug-info.com/news/one/glava-lnr-ustanovil-20-aprelya-prazdnik-den-donora-66752
+	set tags den'_donora,donor,krov',lnr,pasechnik_leonid
+page
+	set url http://lug-info.com/news/one/ekologi-i-aktivisty-likvidirovali-15-zatorov-na-reke-belaya-v-perevalskom-raione-foto-66754
+	set tags aktivist,ekologia,lnr,reka,zator
+page
+	set url http://lug-info.com/news/one/gruppa-sobor-lgaki-otkryla-gastrolnyi-tur-po-lnr-premeroi-novoi-programmy-v-alchevske-foto-66755
+	set tags alchevsk,koncert,kultura,lgaki,lnr,muzyka,premjera,sobor.gruppa.pop.lnr,studenty
+page
+	set url https://hvylya.net/interview/229048-sergey-dacyuk-rebyata-u-vas-ukraina-raspadaetsya-na-urovne-myshleniya
+	set tags dacjuk_sergej.filosof,future,mova,myshlenie,nacia,obschestvo,raspad,romanenko_jurij,slozhnost,ukraina
+page
+	set url https://zemlug.ru/2021/04/09/avstrijskij-biznesmen-priobrel-bytovuyu-tehniku-i-mebel-dlya-zorinskogo-detsada/
+	set tags avstria,biznesmen,deti,detsad,diakonie_avstria.blagotv_fond,hirsh_otto.biznesmen.avstria,lnr,perevalsk,podarki,pomosch,zorinsk.lnr
+page
+	set url http://voskhodinfo.su/aktualno/65060-koncepciya-poslevoennogo-ustroystva-fashistskoy-ukrainy.html
+	set tags avtokefalia,cerkov,derzhava,evropa,federacia,federalizacia,future,koncepcia,nacia,obschestvo,oon,protektorat,referendum,rossia,ukraina,usa,zapad
+page
+	set url http://voskhodinfo.su/aktualno/65075-u-zapada-ostalsya-tolko-odin-shans-na-pobedu.html
+	set tags donbass,geopolitika,oon.sovet_bezopastnosti,rossia,sevpotok2,ukraina,usa,vojna,zapad
+page
+	set url https://zen.yandex.ru/media/kinovoyage/krasota-nashei-chempionki-vyzvala-vostorg-u-inostrancev-my-vybrali-5-foto-kotorymi-rossiiskaia-zvezda-vliubliaet-v-sebia-mir-60618bb09d016250e8c909cf
+	set tags devushka,figurnoje_katanie,instagram,krasota,mishina_anastasia.figurist,rossia,sport
+page
+	set url https://www.sport.ru/figurnoe_katanie/amerikantsy-o-perspektivah-trusovoy-sasha-vyigraet-olimpiadu-kogda-ona-kataetsya-/article478656/
+	set tags figurist,figurnoje_katanie,kommentarii,rossia,sport,trusova_aleksandra
+page
+	set url https://www.volyn.com.ua/news/180359-dvi-studentky-z-rivnenshchynyny-daly-obitnytsiu-bezshliubnosti
+	set tags cerkov,devushka,obet,obet_bezbrachia,pravoslavie,rovno,studenty,ukraina,upc,vera
+page
+	set url https://www.volyn.com.ua/news/180337-iuni-volodymyr-volynski-muzykanty-zdobuly
+	set tags deti,festival,konkurs,muzyka,muzykant,pobeda,shkola,ukraina,vladimir_volynskij.ukr.gorod,volyn
+page
+	set url https://strana.ua/news/328963-nikolaj-tishchenko-vecherinka-v-restorane-fairmont-chto-izvestno-i-reaktsija-sotssetej.html
+	set tags covid,karantin,kiev,lockdown,obschestvo,skandal,sluga_naroda,tischenko_nikolai.deputat,ukraina
+page
+	set url https://strana.ua/news/328931-avtomobiltesla-popal-v-smertelnuju-avariju-na-avtopilote-.html
+	set tags dtp,robot,smert,tesla.avto,texas,usa
+page
+	set url https://www.pravda.com.ua/articles/2021/04/19/7290667/
+	set tags donbass,rossia,ukraina,vojna
+page
+	set url https://strana.ua/news/328981-marjana-bezuhlaja-proshla-treninh-v-parkovom-po-iskusstvu-hovorit-na-efirakh-.html
+	set tags bezuglaja_marjana.deputat,buzhanskii_maksim,glupost,kritika,marazm,poshlost,skandal,sluga_naroda,ukraina,verhovna_rada
+page
+	set url https://strana.ua/opinions/318130-v-russkom-perevode-vystuplenie-marjany-bezuhloj-tak-zhe-neponjatno-kak-i-na-ukrainskom.html
+	set tags bezuglaja_marjana.deputat,jazyk,mova,promova,ukraina,vystuplenie
+page
+	set url https://gazeta.ua/articles/donbas/_rosiya-prosit-pomiluvannya-v-usogo-svitu/1026848
+	set tags pomilovanie,rossia,world
+page
+	set url https://blogs.pravda.com.ua/authors/farion/607c3d5301b70/
+	set tags jazyk,kultura,literatura,litovskij_statut,mova,nacia,statut,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/tiahnybok/607b2d2da6ff0/
+	set tags geopolitika,moskovia,rossia,ukraina,vojna
 eof
 off
 page

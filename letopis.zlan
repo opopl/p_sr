@@ -20942,6 +20942,90 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/tiahnybok/607b2d2da6ff0/
 	set tags geopolitika,moskovia,rossia,ukraina,vojna
+page
+	set url https://vz.ru/world/2021/4/18/1095170.html
+	set tags belarus,fsb,lukashenko_aleksandr,pokushenie,reshenie,rossia,usa,zagovor
+page
+	set url https://vz.ru/society/2021/4/19/1094940.html
+	set tags future,kosmonavtika,kosmos,mks,rossia
+page
+	set url https://www.radiosvoboda.org/a/obraty-litak-dlia-zsu/31197555.html
+	set tags armia,aviacia,pokupka,samolet,ukraina,usa,vsu
+page
+	set url https://strana.ua/news/328958-situatsija-na-donbasse-i-vokruh-ukrainy-za-vykhodnye-novosti-oos-i-dnr.html
+	set tags 1948,analitika,anohin_jurij.elektrik.doneck,dnr,donbass,doneck,geopolitika,gorlovka,nabljudatel,obse,provokacia,rossia,uchenija,ukraina,vojna,vsu
+page
+	set url https://strana.ua/news/328298-foto-pohibsheho-v-rezultate-obstrela-kievskoho-rajona-donetska-opublikovali-v-seti.html
+	set tags anohin_jurij.elektrik.doneck,donbass,doneck,obstrel,smert,ukraina,vojna
+page
+	set url https://strana.ua/news/328384-v-dnr-rasskazali-podrobnosti-obstrela-kievskoho-rajona-donetska.html
+	set tags 1964,anohin_jurij.elektrik.doneck,dnr,donbass,doneck,obse,smert,ukraina,vojna
+page
+	set url https://strana.ua/opinions/329011-nabu-zametaet-sledy-ili-ubijtsa-na-dorohe.html
+	set tags avaria,avto,doroga,dtp,ekspertiza,korupcia,nabu,pjanstvo,ubijca,ukraina
+page
+	set url https://gazeta.ua/blog/54939/rosiya-ce-kolektivnij-petrov-i-boshirov-z-novichkom-i-vibuhivkoyu
+	set tags 2014,chehia,novichok.jad,rossia,terror
+page
+	set url https://gazeta.ua/blog/54940/pereklad-maye-velike-znachennya-dlya-istoriyi-bez-nogo-ne-bulo-b-libon-ukrayini
+	set tags chtenie,eneida.ukr,filologia,kniga,kotljarevskij_ivan,kultura,literatura,mova,perevod,striha_maksim,ukraina
+page
+	set url https://news.obozrevatel.com/society/lechat-patsientov-dazhe-kogda-sami-lezhat-pod-kislorodnoj-maskoj-neskolko-istorij-ukrainskih-vrachej-kotoryih-ubil-koronavirus.htm
+	set tags bolezn,covid,pandemia,smert,spasenie,ukraina,vrach,zhizn
+page
+	set url https://news.obozrevatel.com/politics/avakov-nazval-styagivanie-vojsk-rf-k-ukraine-naibolshej-ugrozoj-s-2015-goda.htm
+	set tags 2015,armia,avakov_arsen,donbass,granica,mvd_ukraina,putin_vladimir,rossia,sobaka,ukraina,vojna,vsu
+page
+	set url https://news.obozrevatel.com/ukr/politics/avakov-skazhena-sobaka-putin-bilya-kordoniv-ukraini-potribno-buti-gotovimi-dati-vidsich.htm
+	set tags armia,ato,avakov_arsen,granica,nastuplenie,oborona,putin_vladimir,sobaka,ukraina,vojna,vsu
+page
+	set url https://news.obozrevatel.com/ukr/russia/putin-eksportue-nesvobodu.htm
+	set tags belarus,diktatura,eksport,kreml,lukashenko_aleksandr,moskva,nesvoboda,putin_vladimir,rossia,svoboda,ukraina
+page
+	set url https://news.obozrevatel.com/ukr/politics/tischenko-vlashtuvav-vechirku-dlya-druzhini-v-rozpal-lokdaunu-v-kievi-video.htm
+	set tags covid,deputat,karantin,kiev,lockdown,restoran,sluga_naroda,strana_ua,tischenko_nikolai.deputat,ukraina,vecherinka,verhovna_rada
+page
+	set url https://news.obozrevatel.com/ukr/society/pora-zakinchuvati-z-litsemirstvo-koli-odnim-zakon-a-inshim-vechirka-u-getsbi.htm
+	set tags covid,karantin,licemerie,lockdown,narushenie,policia,restoran,sluga_naroda,strana_ua,tischenko_nikolai.deputat,ukraina,vecherinka
+page
+	set url https://www.vesti.ru/article/2552516
+	set tags avstria,covid,evropa,pokupka,rossia,sputnik_v,vaccine
+page
+	set url https://inosmi.ru/politic/20210419/249589138.html
+	set tags diplomatia,otvet,rossia,sankcii,skandal,usa,vysylka_diplomatov
+page
+	set url https://inosmi.ru/politic/20210419/249591483.html
+	set tags black_sea,britania,flot,rossia,ukraina
+page
+	set url https://riakursk.ru/chtoby-pomnili-bitva-za-berlin/
+	set tags berlin,bitva,istoria,mirvojna2,pamjat,rkka,rossia,sssr,vov
+page
+	set url https://strana.ua/news/329013-chto-dumajut-deputaty-ot-sluhi-naroda-o-podpolnoj-vecherinke-tishchenko-vo-vremja-lokdauna.html
+	set tags karantin,lockdown,narushenie,reakcia,restoran,skandal,sluga_naroda,styd,tischenko_nikolai.deputat,ukraina,verhovna_rada
+page
+	set url https://strana.ua/opinions/329015-slozhno-bylo-pridumat-skandal-jarche-toho-kakoj-opjat-poluchilsja-u-tishchenko.html
+	set tags karantin,lockdown,restoran,skandal,strana_ua,tischenko_nikolai.deputat,ukraina,zhurnalist
+page
+	set url https://strana.ua/articles/328896--sotrudnichat-s-rossiej-kak-byvshij-hossekretar-kerri-podvihaet-blinkena-i-vlijaet-na-vneshnjuju-politiku-.html
+	set tags biden_joe,blinken_entoni.gossekretar.usa,kerri_john.usa,kiev,lavrov_sergei,mid_rf,moskva,politika,protivorechie,rossia,sotrudnichestvo,ukraina,usa
+page
+	set url http://lug-info.com/news/one/minprirody-provelo-prakticheskoe-zanyatie-dlya-aktivistov-luganskogo-shkolnogo-lesnichestva-foto-66757
+	set tags aktivist,deti,ekologia,les,lesnichestvo,lnr,priroda,shkola
+page
+	set url http://lug-info.com/news/one/teatralnyi-festival-gospozha-udacha-proidet-20-26-aprelya-v-onlain-rezhime-mksm-66762
+	set tags covid,festival,lardt,lnr,pandemia,teatr,udacha
+page
+	set url http://lug-info.com/news/one/dve-dvoini-rodilis-v-luganske-na-proshloi-nedele-66763
+	set tags deti,devochka,dvojnja,lnr,lugansk,malchik,novorozhdennyj,roddom,rozhdenie,zdorovje
+page
+	set url http://voskhodinfo.su/novosti-sobytiya/byvshaya-ussr/65080-ukrainskiy-deputat-rasskazal-o-plachevnom-sostoyanii-vsu.html
+	set tags armia,bojevoj_duh,dengi,deputat,dizenteria,donbass,finansy,ukraina,voda,vsu,zarplata
+page
+	set url https://dnepr.strana.ua/329034-v-dnepre-kopy-spasli-devushku-kotoraja-khotela-spryhnut-s-mosta.html
+	set tags devushka,dnepropetrovsk,most,obschestvo,policia,popytka,spasenie,suicid,ukraina
+page
+	set url https://sport.fakty.ua/373989-umer-sovetskij-olimpijskij-chempion-vklyuchennyj-v-zal-hokkejnoj-slavy
+	set tags hokkej,shuvalov_viktor.hokkej.sssr,smert,sport,sssr
 eof
 off
 page

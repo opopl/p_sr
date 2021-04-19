@@ -1,3 +1,4 @@
+off
 page 
 	set url https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
 	set ii sternenko_mova_odessa
@@ -21149,10 +21150,10 @@ page
 page
 	set url https://strana.ua/news/329120-video-skhem-o-vecherinke-nardepa-tishchenko.html
 	set tags covid,karantin,kiev,lockdown,restoran,salut,skandal,tischenko_nikolai.deputat,ukraina,vecherinka,video
+on
 global
 	setlist opts
 		no_site
-on
 page
 	set url https://www.theguardian.com/world/2021/apr/18/what-do-they-want-from-us-as-russian-forces-amass-a-ukraine-frontier-town-feels-fear-and-despair
 	set tags donbass,marjinka,rossia,ukraina,vojna

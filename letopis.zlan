@@ -21160,6 +21160,12 @@ global
 page
 	set url https://www.facebook.com/groups/respublikalnr/permalink/798976340738159/
 	set tags lnr,minifutbol,mir_luganschine,sport
+page
+	set url https://www.facebook.com/groups/promovugroup/permalink/955820014991860/
+	set tags jazyk,mova,ukraina
+page
+	set url https://www.facebook.com/yevzhik/posts/3818117078223374
+	set tags bilchenko_evgenia,kniga,kultura,literatura,ukraina
 eof
 off
 page

@@ -21154,9 +21154,6 @@ on
 page
 	set url https://www.theguardian.com/world/2021/apr/18/what-do-they-want-from-us-as-russian-forces-amass-a-ukraine-frontier-town-feels-fear-and-despair
 	set tags donbass,marjinka,rossia,ukraina,vojna
-global
-	setlist opts
-		no_site
 page
 	set url https://www.facebook.com/groups/respublikalnr/permalink/798976340738159/
 	set tags lnr,minifutbol,mir_luganschine,sport
@@ -21181,6 +21178,18 @@ page
 page
 	set url https://news.obozrevatel.com/society/ot-lyubvi-do-nenavisti-kak-poetessa-majdana-evgeniya-bilchenko-nachala-nenavidet-ukrainu.htm
 	set tags bilchenko_evgenia,maidan2,mova,skandal,ukraina,ukrainizacia
+global
+	setlist opts
+		no_site
+page
+	set url https://www.facebook.com/yevzhik/posts/3819390874762661
+	set tags dahau,pochta,posylka,rossia,ukraina
+page
+	set url https://www.facebook.com/kate.zharkih.5/posts/5429204060438987
+	set tags ljubov,nenavist,obschestvo,raskol,religia,ukraina,vera
+page
+	set url https://www.facebook.com/denis.grigoryuk/posts/965734436894159
+	set tags 2014,donbass,doneck,obstrel,udar,ukraina,vojna,vsu
 eof
 off
 page

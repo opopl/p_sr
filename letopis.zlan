@@ -1,4 +1,7 @@
-off
+#global
+	#setlist opts
+		#no_site
+on
 page 
 	set url https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
 	set ii sternenko_mova_odessa
@@ -76,7 +79,7 @@ page
 	set date 21_01_2021
 	set ii di_rubens
 page 
-	set url https://strana.ua/news/303370-pevitsa-kira-mazur-popala-v-jazykovoj-skandal-.html 
+	set url https://strana.ua/news/303370-pevitsa-kira-mazur-popala-v-jazykovoj-skandal-.html
 	set date 27_11_2020
 	set ii kira_mazur_eurovision
 	set tags mova
@@ -21145,16 +21148,14 @@ page
 page
 	set url https://www.thesun.co.uk/news/14693649/satellite-pics-biggest-build-up-russian-forces-ukraine/
 	set tags donbass,flag,rossia,ukraina,vojna
-on
-page
 	set url https://strana.ua/opinions/329117-projdennyj-pik-truskavtstskaja-arifmetika-deshevye-kozjavki.html
 	set tags itogi,obschestvo,ukraina
-global
-	setlist opts
-		no_site
 page
 	set url https://strana.ua/news/329120-video-skhem-o-vecherinke-nardepa-tishchenko.html
 	set tags covid,karantin,kiev,lockdown,restoran,salut,skandal,tischenko_nikolai.deputat,ukraina,vecherinka,video
+page
+	set url https://www.theguardian.com/world/2021/apr/18/what-do-they-want-from-us-as-russian-forces-amass-a-ukraine-frontier-town-feels-fear-and-despair
+	set tags donbass,marjinka,rossia,ukraina,vojna
 eof
 off
 page

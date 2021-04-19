@@ -20867,6 +20867,12 @@ page
 page
 	set url https://news.obozrevatel.com/ukr/politics/putin-naspravdi-boitsya-ukraini.htm
 	set tags biden_joe,donbass,ihtamnet,kiev,makron_emmanuel.prezident.francia,minsk_dogovor,putin_vladimir,rossia,strah,ukraina,vojna
+page
+	set url https://novynarnia.com/2021/04/19/osak-staff/
+	set tags 2014,donbass,ukraina,vojna
+page
+	set url https://from-ua.com/articles/596287-kak-zdorove-ukrainskoi-nacii.html
+	set tags nacia,ukraina,zdorovje
 eof
 off
 page

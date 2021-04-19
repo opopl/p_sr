@@ -83,6 +83,10 @@ include:
 ###ru
     - ru.kulturologia
     - ru.kultura.cyrillitsa
+
+###news_brit
+    - news.anglia.sun
+
 ###news_ua
     - news.ua.zbruc
     - news.ua.molbuk

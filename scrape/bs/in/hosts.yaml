@@ -118,6 +118,7 @@
 
 ###anglia
 'bbc.com' : { 'site' : 'news.anglia.bbc' }
+'thesun.co.uk' : { 'site' : 'news.anglia.sun' }
 
 ###kultura.ru
 'portal-kultura.ru' : { 'site' : 'kultura.ru.portal' }

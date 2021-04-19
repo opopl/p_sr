@@ -21089,6 +21089,69 @@ page
 page
 	set url http://lug-info.com/news/one/vmik-nagradila-kandidatov-v-deputaty-molodezhnogo-parlamenta-za-kreativnye-agitplakaty-foto-66772
 	set tags agitacia,lnr,lugansk,marafon,mir_luganschine,miroshnichenko_denis.lnr,molodezh,molodezh_parlament.lnr,ns_lnr,plakat,priz
+page
+	set url http://lug-info.com/news/one/rodstvenniki-poprosili-volonterov-dostavit-produkty-dlya-boitsov-vsu-narodnaya-militsiya-66779
+	set tags donbass,lnr,nm_lnr,pomosch,prodovolstvie,prosjba,rodstvennik,ukraina,vojna,volonter,vsu
+page
+	set url http://lug-info.com/news/one/organizatory-turnira-trudyascheisya-molodezhi-po-mini-futbolu-proveli-zherebevku-komand-foto-66785
+	set tags alchevsk,lnr,minifutbol,mir_luganschine,molodezh,sorevnovanie,sport,turnir,zherebjevka
+page
+	set url http://lug-info.com/news/one/bolee-100-fekhtovalschikov-prinyali-uchastie-v-respublikanskom-chempionate-v-luganske-foto-66787
+	set tags dinamo.lnr.fso_mvd,fehtovanie,lnr,lugansk,nagrada,nagrazhdenie,priz,sport
+page
+	set url http://lug-info.com/news/one/proekt-druzhina-27-aprelya-provedet-v-luganske-turnir-po-krossfitu-66781
+	set tags druzhina,druzhina.lnr.projekt,krossfit,lnr,lugansk,mir_luganschine,sorevnovanie,sport
+page
+	set url http://lug-info.com/news/one/shkolniki-iz-stakhanova-pobedili-v-respublikanskikh-sorevnovaniyakh-voroshilovskii-strelok-foto-66783
+	set tags deti,dinamo.lnr.fso_mvd,lnr,mir_luganschine,pobeda,shkola,sorevnovanie,stahanov.lnr,strelba,voroshilovskij_strelok
+page
+	set url http://lug-info.com/news/one/vystavka-posobii-dlya-doshkolnikov-posvyaschennaya-tvorchestvu-dalya-otkrylas-v-sverdlovske-foto-66786
+	set tags dal'_vladimir,deti,doshkolnik,god_vladimira_dalja.lnr,jasli,lnr,shkola,slovo,tvorchestvo,vystavka
+page
+	set url https://strana.ua/articles/reconstruction/329082-kak-11-ukrainok-8-dnej-derzhali-v-tjurme-dubaja-za-holoe-foto-podrobnosti-seks-skandala.html
+	set tags devushka,dubaj,foto,fotosessia,nu_sessia,oae,skandal,skandal.dubaj.oae.nu_sessia,ukraina
+page
+	set url https://strana.ua/opinions/329103-pochemu-v-pase-mozhno-vystupat-na-russkom-jazyke-a-v-verkhovnoj-rade-net.html
+	set tags evropa,jazyk,opzzh,pase,ukraina
+page
+	set url https://strana.ua/articles/analysis/329058-kak-kabmin-chut-ne-zablokiroval-eksport-podsolnechnoho-masla-i-snizjatsja-li-tseny.html
+	set tags cena,ekonomika,finansy,maslo.podsolnechnoje,ukraina
+page
+	set url https://strana.ua/news/329100-hazeta-the-sun-pereputala-flahi-ukrainy-i-rossii.html
+	set tags armia,britania,flag,granica,oshybki,rossia,tabloid,ukraina,vojna,vsu
+page
+	set url https://strana.ua/news/228026-vedushchee-sportivnoe-izdanie-rossii-vyshlo-s-zaholovkom-o-vykhode-sbornoj-ukrainy-na-evro-2020.html
+	set tags rossia,sport,ukraina,ukraina_ce_evropa
+page
+	set url https://www.radiosvoboda.org/a/skhemy-zaboronena-vechirka-tyshchenka/31211827.html
+	set tags covid,karantin,korupcia,lockdown,narushenie,policia,skandal,tischenko_nikolai.deputat,ukraina,vecherinka
+page
+	set url https://www.radiosvoboda.org/a/politychna-karykatura-satyra/31209132.html
+	set tags karikatura,politika,putin_vladimir,ukraina
+page
+	set url https://lenta.ru/news/2021/04/19/otvet_na_trebovanie/
+	set tags chehia,diplomatia,mid_rf,otvet,posolstvo.rossia.chehia,praga,rossia,skandal
+page
+	set url https://strana.ua/news/329094-jaremenko-prizval-vvesti-v-ukrainu-vojska-nato.html
+	set tags dip_otnoshenia,diplomatia,jaremenko_bogdan.deputat.ukr,mobilizacia,nato,prizyv,rossia,sluga_naroda,ukraina,verhovna_rada
+page
+	set url https://strana.ua/news/329088-sternenko-zajavil-o-zakrytii-uholovnoho-dela-po-povodu-pokushenija-na-neho.html
+	set tags napadenie,policia,rejestr.sudreshenij.ukr,sternenko_sergei,ugolovnoje_delo,ukraina,zakrytie
+page
+	set url https://fraza.com/news/299967-verujuschie-upts-v-sotssetjah-pozdravili-namestnika-kievo-pecherskoj-lavry-s-60-letiem
+	set tags 60_let,birthday,cerkov,kiev,lavra,pavel.namesnik.lavra.ukr,pozdravlenie,ukraina,vera
+page
+	set url https://news.obozrevatel.com/society/otvazhnyij-gruzin-kotoryij-otdal-zhizn-za-ukrainu-chto-izvestno-o-pogibshem-na-donbasse-davide-shartave.htm
+	set tags donbass,gruzia,gruzin,smert,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/society/ptsu-prizvala-rossiyu-pokayatsya-i-prekratit-vojnu.htm
+	set tags donbass,imperia_zla,pcu,pokajanie,prekraschenie,prizyv,putin_vladimir,rossia,ukraina,vojna
+page
+	set url https://www.thesun.co.uk/news/14693649/satellite-pics-biggest-build-up-russian-forces-ukraine/
+	set tags donbass,flag,rossia,ukraina,vojna
+	set redo 1
+	setlist acts
+		db_update
 eof
 off
 page

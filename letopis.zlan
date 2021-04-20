@@ -21427,6 +21427,90 @@ page
 page
 	set url http://lug-info.com/news/one/boitsy-vsu-s-lipovymi-medspravkami-zarazili-covid-kanadskikh-instruktorov-narodnaya-militsiya-66832
 	set tags donbass,falshivka,infekcia,instruktor,kanada,lnr,nm_lnr,spravka,ukraina,vojna,vsu,zarazhenie
+page
+	set url https://strana.ua/news/329168-putin-poslanie-federalnomu-sobraniju-2021-temy-o-chem-skazhet-mnenie-ekspertov.html
+	set tags dnr,donbass,lnr,ozhidanie,poslanie,prognoz,putin_vladimir,rossia,ukraina,vystuplenie
+page
+	set url https://strana.ua/opinions/329285-po-idee-tishchenko-dolzhen-dobrovolno-slozhit-deputatskie-polnomochija.html
+	set tags karantin,memorandum,narushenie,obschestvo,osuzhdenie,skandal,sluga_naroda,tischenko_nikolai.deputat,ukraina,verhovna_rada
+page
+	set url https://beztabu.net/ne-mgnovennaya-karma-russkie-karayut-predatelej-ukrainy_n61299
+	set tags dnr,donbass,krym,lnr,nakazanie,obschestvo,predatelstvo,rossia,ukraina
+page
+	set url https://beztabu.net/zashkvary-i-parad-vatnikov-kak-otbor-na-evrovidenie-pokazal-sushchnost-shou-biza-foto_n61007
+	set tags evrovidenie,kollaborant,kultura,pesnja,rossia,ruslana.ukr.pevica,showbiz,ukraina,vata,vatnik,zhamala.ukr.pevica
+page
+	set url https://beztabu.net/vhozhij-v-kabinety-minoborony-general-lejtenant-nenavidit-ukrainu-i-zhdet-russkih-foto_n61006
+	set tags 23_feb,c14,nackorpus,patriotizm,prazdnik,prazdnovanie,putin_vladimir,rossia,ukraina,vata,vatnik,vsu
+page
+	set url https://beztabu.net/diploma-ne-budet-vypusknikov-rossijskih-voennyh-vuzov-razryvayut-ukrainskie-snaryady_n60784
+	set tags armia,donbass,kursant,rossia,ukraina,vatnik,vojna
+page
+	set url https://beztabu.net/kogda-maslenica-2019-data-prazdnika-i-tradicii-v-ukraine_n37424
+	set tags maslenica,tradicii,ukraina
+page
+	set url https://beztabu.net/lovkost-ruk-i-nemnogo-moshennichestva-v-kremle-nauchilis-prvrashchat-russkih-v-ukraincev_n58918
+	set tags banderovec,donbass,rossia,ukraina,vojna
+page
+	set url https://beztabu.net/vorovannye-teplovozy-i-ukrainskie-lekarstva-chem-torguyut-v-dnr-boeviki-i-prostye-lyudi_n58811
+	set tags donbass,ekonomika,ukraina,vojna
+page
+	set url https://beztabu.net/vid-chotiroh-ta-starshe-yak-mi-zminilisya-z-chasiv-peremogi-yevromajdanu_n58530
+	set tags agressia,agressor,cennosti,cerkov,decentralizacia,donbass,maidan2,novyj_god,obschestvo,religia,rossia,rpc,ukraina,upc,vera,vojna
+page
+	set url https://strana.ua/news/329184-deputat-shevchenko-posetil-lukashenko-v-minske-zachem-on-k-nemu-ezdil.html
+	set tags belarus,deputat,druzhba,frakcia,lukashenko_aleksandr,narod,shevchenko_evgenii,sluga_naroda,ukraina,verhovna_rada,vstrecha
+page
+	set url https://strana.ua/news/329315-nardep-shevchenko-rasskazal-strane-o-svoem-vizite-k-lukashenko.html
+	set tags belarus,deputat,frakcia,lukashenko_aleksandr,operacia,shevchenko_evgenii,sluga_naroda,spasenie,transplantacia,transplantologia,ukraina,verhovna_rada,vstrecha
+page
+	set url https://strana.ua/opinions/329303-zhenshchinu-sbili-prjamo-na-zebre-kto-okazhetsja-vinovnym.html
+	set tags dtp,kiev,klichko_vitalij,marshrutka,peshehod,peshehodnyj_perehod,smert,ukraina,zebra.perehod_peshehod
+page
+	set url https://plus.obozrevatel.com/crime/dal-pistolet-i-vyishel-za-drugim-uchenikom-stali-izvestnyi-podrobnosti-raneniya-shkolnika-v-tire-v-cherkassah.htm
+	set tags cherkassy,oruzhie,pistolet,podrostki,ranenie,tragedia,ukraina,vystrel,golova
+page
+	set url https://news.obozrevatel.com/society/neuzheli-zaschitniki-ukrainyi-ne-dostojnyi-pervoocherednoj-vaktsinatsii.htm
+	set tags ato,covid,donbass,rossia,ukraina,vaccinacia,vojna,zaschitnik
+page
+	set url https://news.obozrevatel.com/politics/konstruktivnyih-peregovorov-s-putinyim-net-i-ne-budet.htm
+	set tags donbass,peregovory,putin_vladimir,rossia,tkg,ukraina,vojna
+page
+	set url https://ukraina.ru/exclusive/20210420/1031184798.html
+	set tags dip_otnoshenia,diplomatia,razryv,rossia,ukraina
+page
+	set url https://ukraina.ru/opinion/20210420/1031187525.html
+	set tags ksenofobia,nacizm,negro,taksi,taksist,ukraina,zaporozhie
+page
+	set url https://ukraina.ru/exclusive/20210420/1031189958.html
+	set tags belarus,ekonomika,lukashenko_aleksandr,politika,shevchenko_evgenii,ukraina,ukrzaliznycia,vstrecha
+page
+	set url https://strana.ua/showbiz/329306-morhenshtern-otkazyvaetsja-ekhat-na-hastroli-v-ukrainu.html
+	set tags harkov,kiev,koncert,morgenstern_alisher.muzykant.rossia,muzyka,poezdka,rossia,showbiz,strah,ukraina,zaporozhie
+page
+	set url https://lb.ua/world/2021/04/20/482751_rossii_nuzhna_izolyatsiya.html
+	set tags geopolitika,izoljacia,rossia,world
+page
+	set url https://www.pravda.com.ua/articles/2021/04/20/7290915/
+	set tags bondarenko_elena,civil_war,denacifikacia,donbass,infvojna,kiselev_dmitrij.rossia.tv,kravchuk_leonid,muraev_evgenii,putin_vladimir,rossia,shihov_vladislav.rebenok.donbass,ukraina,usa,vojna,vsu,zelenskii_vladimir
+page
+	set url https://www.pravda.com.ua/news/2021/04/20/7290927/
+	set tags armia,donbass,gotovnost,kuleba_dmitrii,napadenie,podgotovka,putin_vladimir,rossia,ukraina,vojna
+page
+	set url http://lug-info.com/news/one/debaty-kandidatov-v-deputaty-molodezhnogo-parlamenta-lnr-proshli-v-lgpu-foto-66833
+	set tags aktivist,debaty,deputat,kandidat,lgpu,lnr,lugansk,molodezh,molodezh_parlament.lnr
+page
+	set url http://lug-info.com/news/one/aktivisty-mira-luganschine-bryanki-v-den-donora-sdali-krov-dlya-onkobolnogo-rebenka-foto-66834
+	set tags brjanka,den'_donora,donor,druzhina.lnr.projekt,krov',lnr,mir_luganschine,molodaja_gvardia.lnr,onkologia,pasechnik_leonid,pomosch,rebenok
+page
+	set url http://lug-info.com/news/one/usiliya-kieva-zaklyuchayutsya-v-popytkakh-sorvat-peregovory-po-situatsii-v-donbasse-pasechnik-66836
+	set tags donbass,lnr,pasechnik_leonid,peregovory,tkg,ukraina,vojna
+page
+	set url http://lug-info.com/news/one/kiev-ne-khochet-reshat-konflikt-v-donbasse-mirnym-putem-glava-lnr-66835
+	set tags donbass,imitacia,lnr,pasechnik_leonid,peregovory,ukraina,vojna
+page
+	set url https://lgaki.info/novosti/ee-golos-v-luganske-znaet-kazhdyj-v-akademii-pozdravili-s-yubileem-veru-evdokimovu/
+	set tags evdokimova_vera.lnr.lgaki.pedagog,jubilej,lgaki,lnr,lugansk,pozdravlenie,studenty
 eof
 off
 page

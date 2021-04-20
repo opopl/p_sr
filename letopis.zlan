@@ -21334,6 +21334,48 @@ page
 page
 	set url https://www.facebook.com/maslovevgeniy14/posts/1461980344143669
 	set tags obschestvo,stariki,ukraina
+page
+	set url https://strana.ua/news/329223-sbu-privela-sotrudnikov-v-rezhim-povyshennoj-hotovnosti-po-vsej-ukraine.html
+	set tags bojegotovnost,putin_vladimir,rossia,sbu,ukraina
+page
+	set url https://strana.ua/news/329185-sbu-tjanet-s-predostavleniem-sudu-dokumentov-na-osnovanii-kotorykh-zakryli-telekanaly.html
+	set tags cenzura,rnbo,sbu,sud,telekanaly,tv,ukraina,zapret,zatjagivanie
+page
+	set url http://lug-info.com/news/one/aktivisty-priveli-v-poryadok-mogily-pavshikh-zaschitnikov-lnr-chi-imena-ostalis-neizvestny-foto-66815
+	set tags aktivist,donbass,kladbische,lavd.lnr,lnr,mogila,pamjat,uhod_za_mogilami,ukraina,vojna,zaschitnik
+page
+	set url http://lug-info.com/news/one/shkolniki-i-studenty-lnr-i-rf-razdelili-pobedu-v-konkurse-moi-rodnoi-yazyk-russkii-66810
+	set tags jazyk,konkurs,lgaki,literatura,lnr,lugansk,poezia,publicistika,rossia
+page
+	set url http://lug-info.com/news/one/deputaty-i-molodezhnye-aktivisty-v-den-donora-sdali-krov-dlya-nuzhdayuschikhsya-zhitelei-lnr-foto-66807
+	set tags den'_donora,deputat,donor,krov',lnr,ns_lnr,pasechnik_leonid,prazdnik
+page
+	set url http://lug-info.com/news/one/okolo-30-tys-donorov-ezhegodno-sdayut-krov-v-lnr-glavvrach-stantsii-perelivaniya-krovi-66803
+	set tags den'_donora,krov',lnr,picul_sergej.lnr.glavvrach,vrach
+page
+	set url http://lug-info.com/news/one/mir-luganschine-otkryvaet-ploschadku-narodnyi-forum-dlya-obsuzhdeniya-aktualnykh-tem-foto-66798
+	set tags donbass,forum,lnr,mir_luganschine
+page
+	set url http://lug-info.com/news/one/apteki-lugmedfarma-predostavyat-skidki-uchastnikam-i-invalidam-velikoi-otechestvennoi-voiny-66813
+	set tags apteka,farmacevtika,lnr,skidka,veteran,vov
+page
+	set url http://lug-info.com/news/one/predsedatel-parlamenta-lnr-vstretilsya-s-aktivistami-mira-luganschine-v-miusinske-foto-66816
+	set tags aktivist,lnr,mir_luganschine,miroshnichenko_artem,ns_lnr
+page
+	set url http://lug-info.com/news/one/glava-lnr-podderzhal-ideyu-volonterov-ustanovit-5-dekabrya-den-volontera-dobrovoltsa-foto-66817
+	set tags den_volontera_dobrovolca.lnr,dobrovolec,lnr,mir_luganschine,pasechnik_leonid,volonter
+page
+	set url http://lug-info.com/news/one/kazaki-peredali-lekarstva-i-shkolnye-prinadlezhnosti-seme-invalidov-iz-luganska-66821
+	set tags bolezn,dobro,invalid,kazaki,lekarstvo,lnr,pomosch
+page
+	set url https://strana.ua/news/329239-merkel-priznala-chto-kritikuet-putina-v-lichnoj-besede.html
+	set tags biden_joe,germania,goncharenko_alexei,killer,merkel_angela,putin_vladimir,rossia
+page
+	set url https://dnepr.strana.ua/329242-politsejskij-iz-dnepra-poluchil-podozrenie-v-sovershenii-smertelnoho-dtp.html
+	set tags dnepropetrovsk,dtp,harkov,policia,simferopol,ukraina
+page
+	set url https://strana.ua/news/329227-umer-vitalij-rudzko-kotoryj-napal-v-poezde-na-televedushchuju.html
+	set tags iznasilovanie,kriminal,muzhchina,napadenie,poezd,rudzjko_vitalij.ukraina,smert,telekanal_inter,ukraina,ukrzaliznycia
 eof
 off
 page

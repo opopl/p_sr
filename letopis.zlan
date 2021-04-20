@@ -21178,9 +21178,6 @@ page
 page
 	set url https://news.obozrevatel.com/society/ot-lyubvi-do-nenavisti-kak-poetessa-majdana-evgeniya-bilchenko-nachala-nenavidet-ukrainu.htm
 	set tags bilchenko_evgenia,maidan2,mova,skandal,ukraina,ukrainizacia
-#global
-	#setlist opts
-		#no_site
 page
 	set url https://www.facebook.com/yevzhik/posts/3819390874762661
 	set tags dahau,pochta,posylka,rossia,ukraina
@@ -21280,9 +21277,60 @@ page
 page
 	set url https://fraza.com/blog/299979-pro-ohushego-ot-vsedozvolennosti-nikolaja-tischenko
 	set tags _important,fraza,obschestvo,skandal,tischenko_nikolai.deputat,ukraina,vecherinka,video
+#global
+	#setlist opts
+		#no_site
 page
 	set url https://www.ethicalhackx.com/facebook-cookie-stealing-and-session-hijacking/
 	set tags cookie,facebook,it
+page
+	set url https://lugschool5.ru/%d0%b3%d0%b0%d0%b7%d0%b5%d1%82%d0%b0-%d1%80%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b0-%e2%84%963-2021%d0%b3-%d0%bf%d0%be-%d1%81%d1%82%d0%be%d0%bf%d0%b0%d0%bc-%d0%bb%d0%b5/
+	set tags dal'_vladimir,deti,jazyk,kultura,literatura,lnr,lugansk,obrazovanie,shkola,uchitel
+page
+	set url https://zen.yandex.ru/media/id/5c0f74500e746f00aa6a6add/nastoiascii-mujik--ne-obescaet-a-srazu-delaet--grani-velikogo-aktera-golubovicha-5c10bffc9ba2f700aa08224f
+	set tags golubovich_mihail.lnr.teatr,lnr,lugansk,teatr
+page
+	set url https://xxiveklnr.su/novosti/7065-koronavirus-i-detey-chto-nuzhno-znat-roditelyam.html
+	set tags covid,deti,infekcia,lechenie,lgmu,lnr,rekomendacia,sovet
+page
+	set url https://www.lgmu.ru/sobytiya/novosti/istoricheskij-kvest-pervyj-kosmicheskij
+	set tags kosmonavt,kosmonavtika,kosmos,kvest,lgmu,lnr,lugansk,studenty
+page
+	set url https://www.facebook.com/permalink.php?story_fbid=253302772294865&id=100028454333844
+	set tags bilchenko_evgenia,ukraina
+page
+	set url https://ukraina.ru/news/20210420/1031184471.html
+	set tags mariupol,ugrozy,ukraina,zelenskii_vladimir
+page
+	set url https://ukraina.ru/opinion/20210420/1031177694.html
+	set tags obschestvo,podgotovka,rossia,svoboda,ukraina,vojna
+page
+	set url https://ukraina.ru/news/20210420/1031183915.html
+	set tags cenzura,sankcii,tkachenko_aleksandr,ukraina,youtube,zapret,zelenskii_vladimir
+page
+	set url https://strana.ua/news/329192-na-sajte-kievsoveta-pojavilas-petitsija-o-dekommunizatsii-stantsii-metro-heroev-dnepra.html
+	set tags 1943,dekomunizacia,kiev,kievrada,metro,mirvojna2,peticia,ukraina,vov
+page
+	set url https://strana.ua/news/329201-maksim-stepanov-schitaet-vecherinki-vo-vremja-karantina-nedopustimymi.html
+	set tags covid,karantin,lockdown,restoran,stepanov_maksim,tischenko_nikolai.deputat,ukraina,vecherinka
+page
+	set url https://strana.ua/opinions/329200-ukrainskij-hosapparat-neupravljaem-i-zhivet-na-svoj-karman.html
+	set tags ekonomika,finansy,gosapparat,ukraina,upravlenie
+page
+	set url https://strana.ua/opinions/329208-fermontskaja-vecherinka-eto-narushenie-bazovoho-obshchestvennoho-dohovora.html
+	set tags dogovor,karantin,lockdown,narushenie,obschestvo,restoran,tischenko_nikolai.deputat,ukraina,vecherinka,vlast
+page
+	set url https://news.obozrevatel.com/society/zaporozhskie-kazaki-na-kubani-ili-ukrainskij-yazyik-nad-chernyim-morem.htm
+	set tags 1905,black_sea,eliseev_fedor.kazak.kuban,istoria,kazaki,kuban,rossia,rusimperia,ukraina
+page
+	set url https://strana.ua/news/329164-normandskaja-chetverka-19-aprelja-o-chem-dohovorilis-ermak-i-kozak.html
+	set tags francia,germania,normandskaja_chetverka,peregovory,rossia,ukraina
+page
+	set url https://www.facebook.com/groups/respublikalnr/permalink/798956674073459/
+	set tags 20_apr,den_donora,lnr,pasechnik_leonid,prazdnik
+page
+	set url https://www.facebook.com/groups/respublikalnr/permalink/798924664076660/
+	set tags alchevsk,gastroli,koncert,kultura,lgaki,lnr,muzyka,sobor.gruppa.pop.lnr
 eof
 off
 page

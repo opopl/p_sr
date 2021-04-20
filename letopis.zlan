@@ -21613,6 +21613,15 @@ page
 page
 	set url https://zen.yandex.ru/media/figurka_top/gja-diuamel-hotela-raznostoronniuiu-chempionku-poluchite-raspishites-605ebe6abde58017aa587bda
 	set tags figurnoje_katanie,rossia,scherbakova_anna.rossia.figurist,sport
+page
+	set url https://yantar.ua/blog/kem-byl-znamenityj-kozak.html
+	set tags istoria,kazak_mamaj,kultura,simvol,ukraina
+page
+	set url https://zen.yandex.ru/media/levelvan/kak-sluchaino-naidennyi-klochok-bumagi-perevernul-predstavlenie-o-drevnei-rusi-606d8f3ebccd1a5a1a8d38e4
+	set tags beresta,drevrus,istoria,novgorod,rossia,rusmir
+page
+	set url https://strana.ua/news/329346-v-moskve-v-den-aktsija-protesta-storonnikov-navalnoho-budet-rekordnyj-dozhd.html
+	set tags dozhd,moskva,navalny,pogoda,protest,rossia
 eof
 off
 page

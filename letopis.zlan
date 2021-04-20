@@ -21610,6 +21610,9 @@ page
 page
 	set url https://lenta.ru/news/2017/07/23/skvortsovacomment/
 	set tags belarus,chempionat,gimn,italia,legkoatletika,skandal,skvorcova_violetta.by.legkoatlet
+page
+	set url https://zen.yandex.ru/media/figurka_top/gja-diuamel-hotela-raznostoronniuiu-chempionku-poluchite-raspishites-605ebe6abde58017aa587bda
+	set tags figurnoje_katanie,rossia,scherbakova_anna.rossia.figurist,sport
 eof
 off
 page

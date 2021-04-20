@@ -21595,6 +21595,21 @@ page
 page
 	set url https://www.facebook.com/maslovevgeniy14/posts/1461781640830206
 	set tags 1945,berlin,istoria,shturm_berlina_1945,sssr,vov
+page
+	set url https://zen.yandex.ru/media/id/5f391cb0f6a63b19987984c7/nashe-zoloto-v-parnom-priznanie-pobedy-pary-mishinagalliamov-vo-vsem-mire-otzyvy-inostrannyh-fanatov-605ded2ac59e7361daab994c
+	set tags chempionat,figurist,figurnoje_katanie,galljamov_aleksandr.figurist,mishina_anastasia.figurist,pobeda,rossia,sport,zoloto
+page
+	set url https://zen.yandex.ru/media/id/604620e8777e5f751ea35860/pismo-dlinoiu-v-jizn-v-ukrainu-607e70451f98d8744503c3c2
+	set tags _important,pismo,rossia,sestra,ukraina,vojna,zhizn
+page
+	set url https://zen.yandex.ru/media/litinteres/pravda-li-chto-russkii-iazyk-ne-slavianskii-5f1888b510a7da1b12a9efc5
+	set tags analiz,jazyk,kultura,language,lingvistika,mova,rusmir,slavjane,slovo,sravnenie
+page
+	set url https://zen.yandex.ru/media/dnk_otechestva/vy-lishili-nas-flaga-i-gimna-net-eto-my-lishili-vas-flaga-i-gimna-605e87ee188a9f73598d8735
+	set tags figurist,figurnoje_katanie,flag,flag.rossia,gimn,gimn.rossia,pobeda,rossia,scherbakova_anna.rossia.figurist,triumf,trusova_aleksandra,tuktamysheva_elizaveta.rossia.figurist
+page
+	set url https://lenta.ru/news/2017/07/23/skvortsovacomment/
+	set tags belarus,chempionat,gimn,italia,legkoatletika,skandal,skvorcova_violetta.by.legkoatlet
 eof
 off
 page

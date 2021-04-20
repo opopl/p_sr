@@ -21331,6 +21331,9 @@ page
 page
 	set url https://www.facebook.com/groups/respublikalnr/permalink/798924664076660/
 	set tags alchevsk,gastroli,koncert,kultura,lgaki,lnr,muzyka,sobor.gruppa.pop.lnr
+page
+	set url https://www.facebook.com/maslovevgeniy14/posts/1461980344143669
+	set tags obschestvo,stariki,ukraina
 eof
 off
 page

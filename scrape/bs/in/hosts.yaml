@@ -2,6 +2,7 @@
 ###news.ua
 #
 
+'ukrmir.info' : { 'site' : 'news.ua.ukrmir' } 
 'www.citynews.net.ua' : { 'site' : 'news.ua.citynews' } 
 'zbruc.eu' : { 'site' : 'news.ua.zbruc' }
 'golospravdy.eu' : { 'site' : 'news.ua.golospravdy' }
@@ -161,4 +162,4 @@
 ###com
 #
 'apple.com' : { 'site' : 'com.us.apple' }
-
+'facebook.com' : { 'site' : 'com.us.facebook' }

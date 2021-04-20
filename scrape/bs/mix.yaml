@@ -10,7 +10,10 @@ include:
   sites:
     - pc.docs.python
     - pc.docs.mozilla
+
+###com
     - com.us.apple
+    #- com.us.facebook
 ###pc
     - pc.stackoverflow
 ###news_lnr
@@ -88,6 +91,7 @@ include:
     - news.anglia.sun
 
 ###news_ua
+    - news.ua.ukrmir
     - news.ua.zbruc
     - news.ua.molbuk
     - news.ua.golospravdy

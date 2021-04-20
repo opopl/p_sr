@@ -21208,6 +21208,81 @@ page
 page
 	set url https://zaxid.net/shhob_u_vati_zapalalo_i_shho_n1517609
 	set tags diskussia,mentalitet,nacia,narod,rossia,ukraina,vata,vatnik
+page
+	set url https://kiev.strana.ua/329075-kievljane-prodajut-spetspropuska-na-proezd-v-transporte-poluchennye-v-khha-reportazh-strany.html
+	set tags covid,gorod,karantin,kiev,lockdown,metro,propusk,strana_ua,transport,ukraina
+page
+	set url https://strana.ua/news/329138-jaremenko-trebuet-mobilizatsiju-zelenskij-khochet-ukrainskuju-vaktsinu-pir-tishchenko-v-lokdaun.html
+	set tags ekonomika,itogi,jaremenko_bogdan.deputat.ukr,karantin,kiev,lockdown,maslo.podsolnechnoje,mobilizacia,restoran,salut,sluga_naroda,tischenko_nikolai.deputat,ukraina,vecherinka,verhovna_rada
+page
+	set url https://strana.ua/news/230895-bohdan-jaremenko-i-eho-devushki-chem-zakonchilsja-seks-skandal.html
+	set tags jaremenko_bogdan.deputat.ukr,seks_perepiska,skandal,sluga_naroda,tinder,ukraina,verhovna_rada
+page
+	set url https://strana.ua/news/329016-zelenskij-zajavil-o-neobkhodimosti-sozdat-laboratorii-dlja-razrabotki-vaktsin.html
+	set tags covid,laboratoria,medicina,proizvodstvo,ukraina,vaccine,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/329152-politiki-ihrajut-v-hlobalnyj-kubik-rubika-vlastvovanija.html
+	set tags miroporjadok,politika,ukraina,world
+page
+	set url https://strana.ua/opinions/329149-tishchenko-samyj-strannyj-narodnyj-izbrannik-v-istorii.html
+	set tags cennost,karantin,lockdown,tischenko_nikolai.deputat,ukraina,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/society/mifyi-o-schastlivom-sovetskom-detstve-v-kotoryie-vyi-verite.htm
+	set tags detstvo,istoria,mify,schastje,sssr
+page
+	set url https://lenta.ru/articles/2021/04/20/borovoy/
+	set tags chechnja,dudajev_dzhohar,elcin_boris,rossia,vojna
+page
+	set url https://www.radiosvoboda.org/a/babis-rosijske-poslostvo-vzbukhz-v-chekhiji/31212146.html
+	set tags chehia,rossia
+page
+	set url https://www.pravda.com.ua/articles/2021/04/20/7290797/
+	set tags rossia,sankcii,ukraina
+page
+	set url https://strana.ua/opinions/329188-otnyne-ukrainskaja-korruptsija-eto-tozhe-putin.html
+	set tags korupcia,putin_vladimir,ukraina,us_embassy
+page
+	set url https://strana.ua/opinions/329177-mezhdu-mirom-i-vojnoj-zelenskij-vybiraet-pozor-vojnu-i-utratu-donbassa.html
+	set tags donbass,minsk_dogovor,mir,trusost',ukraina,vojna,vybor,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/nuland/31212737.html
+	set tags korupcia,kreml,nuland_viktoria.usa,rossia,ukraina,usa
+page
+	set url https://www.radiosvoboda.org/a/photo-volodymyr-yavorivskyy-proshchannya/31211853.html
+	set tags deputat,javorivskij_vladimir,kultura,literatura,pisatel,pohoron,proschanie,smert,ukraina,verhovna_rada
+page
+	set url https://news.obozrevatel.com/politics/slugi-prizvali-zelenskogo-razorvat-diplomaticheskie-otnosheniya-s-rossiej.htm
+	set tags armia,oborona,prizyv,rossia,sluga_naroda,ukraina,verhovna_rada,vsu
+page
+	set url https://news.obozrevatel.com/politics/razryiv-dipotnoshenij-s-rf-ili-mozhno-li-byit-nemnogo-beremennoj.htm
+	set tags dip_otnoshenia,diplomatia,razryv,rossia,ukraina
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-rossiyane-eto-putin-a-putin-eto-rossiyane.htm
+	set tags foros,krym,putin_vladimir,rossia
+page
+	set url https://news.obozrevatel.com/russia/s-kosmosom-ne-poluchilos-teper-rossiya-brosilas-spasat-mir-ot-covid-19.htm
+	set tags covid,fejk,novosti,rossia,smi.rossia,sputnik_v,turcia,vaccine
+page
+	set url https://news.obozrevatel.com/politics/lokdaun-dlya-plebsa-a-gulnya-v-otele-fairmont-dlya-nikolaya-tischenko-ukraintsyi-eto-sdelali-vmeste.htm
+	set tags karantin,kiev,lockdown,restoran,skandal,tischenko_nikolai.deputat,ukraina,vecherinka
+page
+	set url https://buzina.org/povtorenie/1606-vek-kiev.html
+	set tags buzina_oles,gorod,istoria,kiev,rusimperia,ukraina
+page
+	set url https://sharij.net/tkachenko-ya-ne-sovsem-ponimayu-chto-takoe-ukrainskij-russkij-yazyk
+	set tags jazyk,mova,tkachenko_aleksandr,ukraina,ukrainizacia
+page
+	set url https://sharij.net/pochemu-ukraina-beznadezhno-otstala-ot-stran-es-po-tempam-vakczinaczii
+	set tags covid,ukraina,vaccinacia,vaccine
+page
+	set url https://fraza.com/column/299930-zachem-zelenskomu-nuzhna-vojna
+	set tags isteria,obschestvo,rossia,shizofrenia,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://fraza.com/blog/299979-pro-ohushego-ot-vsedozvolennosti-nikolaja-tischenko
+	set tags _important,fraza,obschestvo,skandal,tischenko_nikolai.deputat,ukraina,vecherinka,video
+page
+	set url https://www.ethicalhackx.com/facebook-cookie-stealing-and-session-hijacking/
+	set tags cookie,facebook,it
 eof
 off
 page

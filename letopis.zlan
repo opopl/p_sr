@@ -21376,6 +21376,57 @@ page
 page
 	set url https://strana.ua/news/329227-umer-vitalij-rudzko-kotoryj-napal-v-poezde-na-televedushchuju.html
 	set tags iznasilovanie,kriminal,muzhchina,napadenie,poezd,rudzjko_vitalij.ukraina,smert,telekanal_inter,ukraina,ukrzaliznycia
+page
+	set url https://strana.ua/news/329256-v-oos-hotovjatsja-k-nastupleniju-rossijskikh-vojsk-i-minirujut-polja.html
+	set tags ataka,donbass,granica,krym,kuleba_dmitrii,oborona,peredovaja,podgotovka,prikaz,provokacia,ukraina,ukreplenie,vojna,vsu
+page
+	set url https://strana.ua/news/329265-v-rajone-oos-20-aprelja-proveli-uchenija-tankovoho-podrazdelenija.html
+	set tags donbass,uchenija,ukraina,vojna,vsu
+page
+	set url https://strana.ua/news/329002-antiterroristicheskie-uchenija-sbu-projdut-v-bolshinstve-rehionakh-ukrainy.html
+	set tags donbass,sbu,uchenija,ukraina
+page
+	set url https://lenta.ru/articles/2021/04/20/gunda/
+	set tags chelovek,dokumentalistika,film,film.gunda.rossia,kino,kosakovskij_viktor.rezhisser.rossia,kultura,rossia,svinja,zhivotnoje
+page
+	set url https://news.obozrevatel.com/politics/prezident-pase-prigrozil-goncharenko-sanktsiyami-za-prostrelennyij-flag-ukrainyi-s-donbassa.htm
+	set tags donbass,flag,goncharenko_alexei,pase,rossia,sankcii,skandal,ukraina,vojna,vystuplenie
+page
+	set url https://www.radiosvoboda.org/a/news-shyny-utylizatsiya-kyiv/31213457.html
+	set tags blagoustrojstvo,demontazh,gorod,kiev,shina.avto,ukraina,utilizacia
+page
+	set url https://www.pravda.com.ua/news/2021/04/20/7290903/
+	set tags donbass,flag,goncharenko_alexei,rossia,ukraina,vojna,vystuplenie,skandal
+page
+	set url https://www.istpravda.com.ua/articles/2021/04/20/159332/
+	set tags istoria,nkvd,repressii,sssr,ukraina
+page
+	set url https://gazeta.ua/articles/politics/_zelenskij-zabrav-ukrayinske-gromadyanstvo-u-figurantiv-sankcij-rnbo-zmi/1027265
+	set tags grazhdanstvo,rnbo,sankcii,ukraina,zelenskii_vladimir
+page
+	set url https://gazeta.ua/blog/54945/comu-u-nas-ves-chas-hochut-rozstrilyati-posaditi-lyudej-vihovuvati-potribno
+	set tags donbass,ludi,politika,reintegracia,ukraina,vospitanie
+page
+	set url https://www.znak.com/2021-04-19/vyazki_razvrat_podchinenie_reportazh_iz_svyatoy_sofii_odnoy_iz_samyh_zhutkih_psihbolnic_rossii
+	set tags bolnica.saratov.st_sofia,psihbolnica,reportazh,rossia,saratov
+page
+	set url https://strana.ua/news/329271-google-priznal-borshch-rossijskim-bljudom.html
+	set tags borsch,eda,google,kuhnja,recept,rossia,ukraina
+page
+	set url https://hvylya.net/reports/reports-jurija-romanenko/ukrainskiy-protest-besposhhadnyiy-i-bessmyislennyiy.html
+	set tags foto,fraza,obschestvo,protest,reportazh,romanenko_jurij,ukraina
+page
+	set url https://hvylya.net/reports/reports-jurija-romanenko/kak-ja-pobyval-v-krovavom-totalitarizme-belarus-glazami-nesvidomogo-ukraintsa.html
+	set tags belarus,minsk,poezd,reklama,romanenko_jurij,svidomia,totalitarizm,turizm,ukraina,vpechatlenie
+page
+	set url https://www.facebook.com/aleksey.kopytko/posts/3804569716294243
+	set tags jazyk,mova,oon,rossia,ukraina
+page
+	set url http://lug-info.com/news/one/glava-lnr-obsudil-s-obschestvennikami-respubliki-voprosy-razvitiya-volonterstva-foto-66814
+	set tags lnr,molodezh,obsuzhdenie,pasechnik_leonid,volonter,vstrecha
+page
+	set url http://lug-info.com/news/one/boitsy-vsu-s-lipovymi-medspravkami-zarazili-covid-kanadskikh-instruktorov-narodnaya-militsiya-66832
+	set tags donbass,falshivka,infekcia,instruktor,kanada,lnr,nm_lnr,spravka,ukraina,vojna,vsu,zarazhenie
 eof
 off
 page

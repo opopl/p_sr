@@ -21622,6 +21622,9 @@ page
 page
 	set url https://strana.ua/news/329346-v-moskve-v-den-aktsija-protesta-storonnikov-navalnoho-budet-rekordnyj-dozhd.html
 	set tags dozhd,moskva,navalny,pogoda,protest,rossia
+page
+	set url https://zen.yandex.ru/media/figurka_top/spustia-12-let-u-rossii-snova-zoloto-v-tancah-na-ldu-605f889a188a9f735938d350
+	set tags chempionat,figurist,figurnoje_katanie,pobeda,rossia
 eof
 off
 page

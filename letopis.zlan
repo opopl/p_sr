@@ -21661,6 +21661,33 @@ page
 page
 	set url https://censor.net/ru/blogs/3260735/19_kvtnya_tseyi_den_v_stor
 	set tags 1775,1783,1885,1917,1943,19_apr,den_v_istorii,ekaterina_II,kiev,kostomarov_mykola,krym,rossia,usa,velosiped,vojna.usa.1775.britania
+page
+	set url https://www.radiosvoboda.org/a/sanktsii-ale-ne-tilky-shcho-mozhe-zupynyty-rosiiu/31214014.html
+	set tags kuleba_dmitrii,putin_vladimir,rossia,sankcii,sevpotok2,ukraina,vojna
+page
+	set url https://strana.ua/news/329378-vladimir-dzhabarov-schitaet-chto-donbass-mozhno-nazvat-ukrainskim-s-bolshoj-natjazhkoj-.html
+	set tags donbass,predlozhenie,putin_vladimir,rossia,smeh,ukraina,vojna,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/329359-v-obrashchenii-zelenskoho-k-ukraintsam-ne-khvataet-holosa-voina.html
+	set tags golos,mobilizacia,obraschenie,obschestvo,putin_vladimir,rossia,ukraina,voin,vojna,zelenskii_vladimir
+page
+	set url https://vz.ru/world/2021/4/20/1095603.html
+	set tags 2010,azarov_nikolaj,ekonomika,fantastika,fantazia,harkovskie_soglashenia,janukovich_viktor,obschestvo,pokolenie,rossia,ukraina
+page
+	set url https://fraza.com/news/300039-v-ssha-ne-iskljuchajut-primenenija-nekim-protivnikom-jadernogo-oruzhija-i-gotovjatsja-vooruzhat-ukrainu
+	set tags oruzhie,oruzhie.jadernoje,pomosch,rossia,ukraina,usa
+page
+	set url https://blogs.pravda.com.ua/authors/viatrovych/607fd83f1abcb/
+	set tags babij_jar,istoria,rossia,ukraina,verhovna_rada
+page
+	set url https://zen.yandex.ru/media/slavmir/svetlana-jarnikova-pochemu-sanskrit-eto-russkii-iazyk-607d307319675453a5fdb1ce
+	set tags jazyk,lingvistika,rusmir,sanskrit
+page
+	set url https://riafan.ru/1420797-uralskii-bloger-shokiroval-ukraincev-pravdoi-o-situacii-s-koronavirusom-v-rossii
+	set tags covid,rossia,sputnik_v,ukraina,vaccinacia,vaccine
+page
+	set url https://riafan.ru/1428883-loza-rasskazal-gordonu-komu-prinadlezhit-krym?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags gordon_dmitrii,interview,krym,loza_jurij,narod,rossia,ukraina,youtube
 eof
 off
 page

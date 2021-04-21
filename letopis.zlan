@@ -21655,6 +21655,12 @@ page
 page
 	set url https://censor.net/ru/blogs/3260998/dva_goda_zelenskogo_shkola_bez_direktora
 	set tags _important,deti,direktor,fraza,metafora,obschestvo,psihologia,shkola,ukraina,zelenskii_vladimir
+page
+	set url https://censor.net/ru/blogs/3260885/v_dobryyi_put
+	set tags doroga,rossia
+page
+	set url https://censor.net/ru/blogs/3260735/19_kvtnya_tseyi_den_v_stor
+	set tags 1775,1783,1885,1917,1943,19_apr,den_v_istorii,ekaterina_II,kiev,kostomarov_mykola,krym,rossia,usa,velosiped,vojna.usa.1775.britania
 eof
 off
 page

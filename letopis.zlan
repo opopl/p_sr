@@ -21742,16 +21742,39 @@ page
 page
 	set url https://from-ua.com/articles/596618-krizis-bezopasnosti-ili-gore-bez-uma-kto-zastupitsya-za-ukrainu.html
 	set tags diplomatia,germania,kiev,melnik_andrei,nato,ukraina,zapad
-global
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://vesti.ua/politika/276700-posol-pokhvastalsja-kak-vpravil-mozhi-nemetskim-deputatam
 	set tags diplomatia,germania,hamstvo,krym,melnik_andrei,melnik_andrei.ukraina.posol,mozgi,posol,ukraina
 page
 	set url https://www.gazeta.ru/politics/2018/02/07_a_11640733.shtml
 	set tags germania,krym,melnik_andrei.ukraina.posol,otvet,ukraina
+page
+	set url https://strana.ua/news/329478-v-rossii-10-amerikanskikh-diplomatov-objavleny-personami-non-hrata.html
+	set tags dip_otnoshenia,diplomatia,mid_rf,persona_non_grata,putin_vladimir,rossia,us_embassy,us_embassy.rossia,usa
+page
+	set url https://strana.ua/news/328922-kreml-vyslal-20-cheshskikh-diplomatov-iz-strany.html
+	set tags chehia,dip_otnoshenia,diplomatia,mid_rf,persona_non_grata,rossia
+page
+	set url https://strana.ua/opinions/329449-poslanie-putina-stalo-sredi-procheho-i-preduprezhdeniem-ukraine.html
+	set tags donbass,federalnoje_sobranie.rossia,podgotovka,poslanie,putin_vladimir,rossia,ukraina,vojna
+page
+	set url https://strana.ua/news/329376-telekanal-dom-udalil-kritiku-protiv-sternenko-chto-eto-oznachaet.html
+	set tags cenzura,nacionalist,nackorpus,propaganda,telekanal_dom,ukraina
+page
+	set url https://strana.ua/news/329459-v-kremle-nazvali-krasnye-linii-v-otnoshenii-zapada.html
+	set tags ekonomika,hamstvo,peskov_dmitrii,putin_vladimir,redline,rossia,vmeshatelstvo,vybor,zapad
+page
+	set url https://strana.ua/news/329421-putin-chto-skazal-o-janukoviche-lukashenko-i-hosperevorote-vo-vremja-poslanija-2021.html
+	set tags federalnoje_sobranie.rossia,kipling_redjard,poslanie,putin_vladimir,redline,rossia,sherhan,tabaka,ukraina
+page
+	set url https://strana.ua/opinions/329466-chto-my-imeem-v-sukhom-ostatke-po-novomu-video-zelenskoho.html
+	set tags parizh,ukraina,vpechatlenie,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/329477-ukrainskoj-vlasti-necheho-po-suti-predlozhit-ukraintsam.html
+	set tags antirossia,beskonechnost,ekzistencia,obschestvo,ritual,rossia,tanec,ugroza,ukraina,vlast
+page
+	set url https://strana.ua/opinions/329483-hotov-li-zelenskij-prjamo-sejchas-priekhat-v-donetsk.html
+	set tags donbass,doneck,gotovnost,putin_vladimir,ukraina,vojna,vstrecha,zelenskii_vladimir
 eof
 off
 page

@@ -21775,6 +21775,9 @@ page
 page
 	set url https://strana.ua/opinions/329483-hotov-li-zelenskij-prjamo-sejchas-priekhat-v-donetsk.html
 	set tags donbass,doneck,gotovnost,putin_vladimir,ukraina,vojna,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/news/221517-zhurnalistov-dolzhny-pizt-sami-zhurnalisty-sotrudnik-hromadskoho-prizval-izbivat-inakomysljashchikh-kolleh.html
+	set tags hromadske_ua,izbienie,korzun_julia.zhurnalist,kriminal,kutepov_bogdan.hromadske_ua,medvedchuk_viktor,obschestvo,policia,press_konferencia,prizyv,sharij_analotij,strana_ua,svoboda_slova,ugrozy,ukraina,zhurnalist
 eof
 off
 page

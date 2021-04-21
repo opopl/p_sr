@@ -21625,6 +21625,33 @@ page
 page
 	set url https://zen.yandex.ru/media/figurka_top/spustia-12-let-u-rossii-snova-zoloto-v-tancah-na-ldu-605f889a188a9f735938d350
 	set tags chempionat,figurist,figurnoje_katanie,pobeda,rossia
+page
+	set url https://news.obozrevatel.com/politics/zelenskij-o-gotovnosti-zaschischatsya-ukraina-ne-nachinaet-vojnu-pervoj-no-vsegda-stoit-do-poslednego.htm
+	set tags rossia,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://stihi.ru/2020/09/08/8426
+	set tags donbass,pesnja,skobcov_vladimir.dnr.orfei,vojna
+page
+	set url https://strana.ua/news/329364-zelenskij-podpisal-zakon-o-prizyve-na-voennuju-sluzhbu-rezervistov-v-osobyj-period.html
+	set tags armia,oborona,rezervist,ukraina,vsu,zakon,zelenskii_vladimir
+page
+	set url https://strana.ua/news/329301-obeshchanija-zelenskoho-v-den-izbranija-prezidentom-kakie-iz-nikh-on-vypolnil.html
+	set tags 2_goda,donbass,mir,obeschanie,politika,poroshenko_petr,prezident,rossia,ukraina,vojna,vybory,zelenskii_vladimir
+page
+	set url https://www.pravda.com.ua/articles/2021/04/21/7290950/
+	set tags babij_jar,bog,cerkov,chelovek,debua_patrik.katolik,evrei,genocid,golodomor,golokost,iraq,istoria,katolichestvo,mirvojna2,mogila,pamjat,rava_ruska.ukraina,sssr,terakt.9_11_2001.usa,ubijstvo,ukraina,vera,zlo
+page
+	set url https://www.pravda.com.ua/news/2021/04/21/7290977/
+	set tags armia,donbass,rodina,rossia,rusmir,ukraina,vojna,vsu,zjuganov_gennadij.kprf
+page
+	set url https://blogs.pravda.com.ua/authors/bogomolec/6054a0ee35101/
+	set tags 91_god,kostenko_lina,kultura,literatura,nadezhda,poezia,slovo,ukraina,vozrast
+page
+	set url https://censor.net/ru/resonance/3260869/kovd_prizvodit_do_velicheznih_zmn_u_krov_lyudi_mayut_tromboembol_nfarkti_mokarda_nsulti_smertnst_visoka
+	set tags bolezn,bolnica,chernivci,covid,infarkt,insult,kolomyja.ukraina,smertnost',tromboembolia,ukraina,vrach,zabolevajemost'
+page
+	set url https://censor.net/ru/resonance/3255117/morph_van_kostenko_treba_divitisya_pravd_u_vch_vyina_zachepila_duje_neveliku_klkst_narodu_vona_ne_stala
+	set tags donbass,dusha,krym,morskaja_pehota,narod,psihologia,ukraina,vojna,vsu
 eof
 off
 page

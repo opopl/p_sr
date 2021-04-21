@@ -21688,6 +21688,36 @@ page
 page
 	set url https://riafan.ru/1428883-loza-rasskazal-gordonu-komu-prinadlezhit-krym?utm_referrer=https%3A%2F%2Fzen.yandex.com
 	set tags gordon_dmitrii,interview,krym,loza_jurij,narod,rossia,ukraina,youtube
+page
+	set url https://strana.ua/news/329221-poslanie-prezidenta-federalnomu-sobraniju-2021-hlavnye-zajavlenija-putina-prjamaja-transljatsija.html
+	set tags federalnoje_sobranie.rossia,poslanie,putin_vladimir,rossia
+page
+	set url https://www.radiosvoboda.org/a/illya-repin-volodymyr-hilyarovsky-ukrayina/31210249.html
+	set tags giljarovskij_vladimir.zhurnalist.1855_1935,hudozhnik,isskustvo,kartina,kultura,ljubov,moskva,perepiska,pismo,repin_ilja.hudozhnik,st_peterburg,ukraina
+page
+	set url https://www.pravda.com.ua/news/2021/04/21/7290994/
+	set tags avtobus,harkov,protest,sbu,titushki,ukraina,zaderzhanie
+page
+	set url https://www.pravda.com.ua/news/2021/04/21/7291016/
+	set tags belarus,gosperevorot,lukashenko_aleksandr,popytka,putin_vladimir,rossia
+page
+	set url https://zaxid.net/u_lvovi_pochali_demontazh_barelyefiv_monumenta_slavi_n1517740
+	set tags demontazh,istoria,lvov,monument_slavy.lvov,pamjatnik,sssr,ukraina
+page
+	set url https://zaxid.net/u_lvovi_znesli_30_metrovu_stelu_monumenta_slavi_n1476751
+	set tags demontazh,istoria,lvov,monument_slavy.lvov,pamjat,sssr,ukraina
+page
+	set url https://zaxid.net/donbas_pidshitiy_groteskom_n1517673
+	set tags donbass,grotesk,kniga,rafeenko_vladimir.pisatel.donbass,rossia,rusmir,ukraina,vojna
+page
+	set url https://strana.ua/news/329415-putin-poobeshchal-zhestkij-asimmetrichnyj-otvet-na-uhrozy-v-storonu-bezopasnosti-rossii.html
+	set tags federalnoje_sobranie.rossia,poslanie,putin_vladimir,rossia
+page
+	set url https://news.obozrevatel.com/society/kabmin-prodlil-karantin-v-ukraine-do-30-iyunya.htm
+	set tags covid,kabmin,karantin,pandemia,shmygal'_denis.ministr,ukraina
+page
+	set url https://news.obozrevatel.com/russia/oreshkin-dela-u-putina-dovolno-tupikovyie.htm
+	set tags putin_vladimir,rossia,zapad
 eof
 off
 page

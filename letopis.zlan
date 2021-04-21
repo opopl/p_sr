@@ -21718,6 +21718,9 @@ page
 page
 	set url https://news.obozrevatel.com/russia/oreshkin-dela-u-putina-dovolno-tupikovyie.htm
 	set tags putin_vladimir,rossia,zapad
+page
+	set url https://strana.ua/opinions/329387-deputat-honcharenko-ustroil-privychnuju-klounadu-v-pase.html
+	set tags flag,goncharenko_alexei,pase,skandal,ukraina
 eof
 off
 page

@@ -21817,6 +21817,15 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210421/1031199033.html
 	set tags belarus,federalnoje_sobranie.rossia,gosperevorot,kiberataka,kipling_redjard,lukashenko_aleksandr,poslanie,putin_vladimir,rossia,ukraina,zapad
+page
+	set url https://ukraina.ru/news/20210421/1031201111.html
+	set tags balkon,chelovek,covid,eda,ivano_frankovsk,karantin,kuhnja,mjaso,otdyh,shashlyk,ukraina
+page
+	set url https://ukraina.ru/opinion/20210421/1031195469.html
+	set tags belarus,dezertir,feldmarshal,francia,germania,kiev,kuleba_dmitrii,makron_emmanuel.prezident.francia,merkel_angela,minsk_dogovor,rossia,sevpotok2,strah,ukraina,usa,vojna,zapad,zelenskii_vladimir
+page
+	set url https://ukraina.ru/opinion/20210421/1031200809.html
+	set tags dekomunizacia,kiev,metro,nacionalizm,rkka,ukraina
 eof
 off
 page

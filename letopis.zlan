@@ -21826,6 +21826,30 @@ page
 page
 	set url https://ukraina.ru/opinion/20210421/1031200809.html
 	set tags dekomunizacia,kiev,metro,nacionalizm,rkka,ukraina
+page
+	set url https://strana.ua/news/329509-datchaninu-kotoryj-myl-okno-poezda-shvabroj-ustroili-pokazatelnuju-uborku-v-depo-uz.html
+	set tags andersen_johanes.ukr.dania.zhurnalist,dania,poezd,pokazuha,rukovodstvo,shvabra,uborka,ukraina,ukrzaliznycia
+page
+	set url http://lug-info.com/news/one/zelenskii-ne-imeet-moralnogo-prava-naznachat-vstrechi-v-donbasse-glava-lnr-66869
+	set tags donbass,lnr,pasechnik_leonid,putin_vladimir,ukraina,vojna,vstrecha,zelenskii_vladimir
+page
+	set url http://lug-info.com/news/one/glava-lnr-prinyal-uchastie-v-spetsgashenii-bloka-marok-polumillionnyi-pasport-foto-66872
+	set tags grazhdanstvo,marka,pasechnik_leonid,passport,pochta,rossia
+page
+	set url http://lug-info.com/news/one/podavlyayuschee-bolshinstvo-zhitelei-lnr-zhelayut-stat-grazhdanami-rf-pasechnik-66873
+	set tags donbass,grazhdanstvo,lnr,pasechnik_leonid,rossia
+page
+	set url http://lug-info.com/news/one/ekologi-posadili-sosnovuyu-alleyu-na-territorii-luganskogo-khrama-umilenie-foto-66874
+	set tags derevo,ekologia,hram,hram.lnr.lugansk.umilenie,lnr,lugansk,priroda,sosna
+page
+	set url http://lug-info.com/news/one/vystavka-k-35-i-godovschine-avarii-na-chaes-nachala-rabotu-v-muzee-stakhanova-foto-66877
+	set tags 1986,26_apr,35_let,atomic_energy,avaria,chaes,chernobyl,istoria,lnr,muzei,muzei.lnr.stahanov.istoriko_hudozhestvennyj,sssr,stahanov.lnr,vystavka
+page
+	set url http://ukrcentr.ru/novini/gogolevi-pisni/
+	set tags gogol_nikolai,koncert,kultura,molodezh,moskva,muzyka,rossia,tvorchestvo,ukrcentr.moskva,ukraina
+page
+	set url https://ukr.rs.gov.ru/ru/news/86683
+	set tags istoria,ivan_III_tsar.moskovia,kiev,maloros,nachalo,rossia,rossotrudnichestvo,rusmir,ukraina
 eof
 off
 page

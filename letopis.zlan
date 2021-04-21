@@ -21856,6 +21856,99 @@ page
 page
 	set url https://lenta.ru/news/2021/04/17/udaril/
 	set tags avtobus,cherkassy,izbienie,konduktor,obschestvo,passazhir,pobeg,ukraina
+page
+	set url https://strana.ua/news/328961-kak-v-facebook-moderirujut-kontent.html
+	set tags accenture.kompania.irlandia,chelovek,facebook,internet,it,moderator,psih_travma,psihologia,rabota,skandal,socset,zhaloba
+page
+	set url https://strana.ua/articles/rassledovania/279174-ekaterina-serhatskova-vyekhala-iz-kieva-posle-uhroz-natsionalistov.html
+	set tags _important,cenzura,facebook,fakt_cheking,human_rights_watch,independent.britania.smi,internet,nacionalist,oproverzhenie,radikaly,sergackova_ekaterina.ukr.zhurnalist,skandal,stopfake.organizacia,travlja,ugrozy,ukraina,ultrapravyje,zhurnalist
+page
+	set url https://strana.ua/news/278834-zhurnalistka-ekaterina-serhatskova-pokinula-kiev-posle-uhroz-neonatsistov-.html
+	set tags aktivist,buzina_oles,golokost,independent.britania.smi,kiev,nacionalist,sergackova_ekaterina.ukr.zhurnalist,sheremet_pavel,skandal,skrypin_roman.ukr.zhurnalist,stopfake.organizacia,ukraina,ultrapravyje,zaborona.ukr.smi
+page
+	set url https://strana.ua/articles/rassledovania/258493-facebook-nanjala-dlja-okhoty-za-fejkami-v-ukraine-orhanizatsiju-stopfake.html
+	set tags buzina_oles,facebook,golokost,internet,medvedko_andrei,muzyka,nacionalist,nacizm,propaganda,rossia,sokyra_peruna.ukr.gruppa.muz,stopfake.organizacia,suprun_uljana,ukraina,usa
+page
+	set url https://strana.ua/news/258174-stopfake-obvinil-stranu-v-diskreditatsii-natsionalistov-razbor-fejka.html
+	set tags c14,cenzura,facebook,kiev,kmda,municipalnaja_strazha.ukr.organizacia,policia,policia.ukr.patrul.kiev,radikaly,reputacia,socset,stopfake.organizacia,strana_ua,transport,ukraina,ultrapravyje
+page
+	set url https://strana.ua/news/227528-honcharuk-sokira-peruna-chem-izvestna-hruppa-kotoruju-slushal-premer.html
+	set tags ato,azov_polk,buzina_oles,c14,donbass,doroga,gess_rudolf.nacist,goncharuk_aleksej.ukr.premjer,hitler_adolf,karas_evgenii,koncert,medvedko_andrei,mussolini_benito.diktator,muzyka,nacizm,nackorpus,pesnja,sokyra_peruna.ukr.gruppa.muz,ukraina,vojna
+page
+	set url https://strana.ua/news/227514-honcharuk-pobyval-na-odnoj-stsene-s-neonatsistami.html
+	set tags buzina_oles,c14,goncharuk_aleksej.ukr.premjer,karas_evgenii,koncert,medvedko_andrei,mussolini_benito.diktator,nacizm,simvol,sokyra_peruna.ukr.gruppa.muz,svastika,ukraina
+page
+	set url https://strana.ua/news/219245-foto-pod-nikolaevom-oskvernili-pamjatnik-na-meste-rasstrela-evreev-v-1941-hodu.html
+	set tags 1941,dolinskij_eduard.ukr.direktor_uek,evrei,golokost,nacizm,nikolaev,pamjatnik,svastika,ukraina,vradievka
+page
+	set url https://zaborona.com/stories/sem-let-voiny-na-donbase/
+	set tags 7_let,donbass,ukraina,vojna
+page
+	set url https://zaborona.com/bez-nazvi-proyekt-oli-yeryemyeyevoyi-u-rivni-czenzuri/
+	set tags cenzura,chelovek,foto,ukraina,zhizn
+page
+	set url https://strana.ua/news/215666-sud-udovletvoril-isk-s14-protiv-hromadskoho-tv-orhanizatsiju-zapreshcheno-nazyvat-neonatsistskoj.html
+	set tags c14,hromadske_ua,nacionalist,nacizm,reputacia,ukraina
+page
+	set url https://strana.ua/news/275376-napadenija-na-partiju-sharija-i-opzzh-pochemu-oppozitsija-khochet-sozdavat-otrjady-samooborony.html
+	set tags ato,azov_polk,bankova,bespredel,bolnica,borovik_roman.ukr.satana.azov,druzhina,foto,harkov,izbienie,jermak_andrej,kiva_ilja,lechenie,miting,nacionalist,nackorpus,napadenie,ofis_prezidenta,opzzh,partia_sharija,pobratim,policia,rabinovich_vadim,reanimacia,revansh,rozhenko_nikita,sharij_analotij,sternenko_sergei,ukraina,vata,vatnik,veteran,zaporozhie
+page
+	set url https://strana.ua/news/273135-sternenko-sud-po-mere-presechenija-onlajn-transljatsija-video-i-foto.html
+	set tags arest,avakov_arsen,bankova,biotualet,fekalii,franko_ivan,gushva_igor,kiev,murder,nacionalist,odessa,ofis_prezidenta,policia,portnov_andrei,protest,sternenko_sergei,strana_ua,sud,tomilenko_sergei,tualet,ubijstvo,ukraina,venediktova_irina,zapah,zelenskii_vladimir
+page
+	set url https://strana.ua/news/273216-sud-po-sternenko-kak-storonniki-radikala-izbivali-zhurnalistov-i-politsiju-foto-i-video.html
+	set tags bespredel,kiev,murder,odessa,pidozra,radikaly,sternenko_sergei,sud,ukraina
+page
+	set url https://strana.ua/news/272652-shevchenkovskij-sud-izbiraet-meru-presechenija-serheju-sternenko-smotret-onlajn-prjamuju-transljatsiju.html
+	set tags c14,kiev,mera_presechenia,murder,pidozra,protest,shturm,sternenko_sergei,sud,ukraina
+page
+	set url https://strana.ua/news/272516-sternenko-vruchili-podozrenie-pjat-hlavnykh-voprosov-.html
+	set tags kriminal,sternenko_sergei,ukraina
+page
+	set url https://strana.ua/news/273367-facebook-udalil-akkaunt-zhurnalista-alekseja-romanova.html
+	set tags cenzura,cukerberg_mark.fb,facebook,kritika,nenavist,romanov_aleksej.ukr.zhurnalist,slovo.kacap,sokyra_peruna.ukr.gruppa.muz,strana_ua,suprun_uljana,ukraina,ultrapravyje,zhurnalist
+page
+	set url https://strana.ua/news/269277-ukrainskie-moderatory-facebook-otkazyvalis-priznavat-narushenie-v-slove-ktsp.html
+	set tags cenzura,facebook,internet,ksenofobia,moderator,nenavist,obschestvo,romanov_aleksej.harkov.jurist,slovo.kacap,socset,ukraina,zhaloba
+page
+	set url https://strana.ua/news/267436-isk-moderatorov-protiv-facebook-kompanija-zaplatit-zajaviteljam-52-mln-dollarov.html
+	set tags facebook,internet,moderator,psih_travma,rabota,socset,zhaloba
+page
+	set url https://strana.ua/news/266398-udalenie-foto-s-flahom-nad-rejkhstahom-bylo-oshibkoj-alhoritma-facebook.html
+	set tags cenzura,facebook,flag,flag.sssr.rejhstag,rejhstag,rusmir,vov
+page
+	set url https://lvov.strana.ua/329529-vo-lvove-nachali-demontazh-barelefov-na-monumente-slavy.html
+	set tags dekomunizacia,demontazh,lvov,monument_slavy.lvov,pamjatnik,radikaly,ukraina,vov
+page
+	set url https://strana.ua/news/189442-chto-hovorjat-vo-lvove-o-snose-monumenta-slavy-i-smerti-eho-sozdatelja.html
+	set tags dekomunizacia,demontazh,ideologia,istoria,lvov,monument_slavy.lvov,ogranovich_apollon.ukr.arhitektor,pamjat,smert,snos,sssr,totalitarizm,ukraina,veteran,vov
+page
+	set url https://www.radiosvoboda.org/a/cherhovyy-skandal-u-sluzi-narodu-lukashenko-i-shevchenko/31215819.html
+	set tags belarus,deputat,druzhba,ljubov,lukashenko_aleksandr,minsk,shevchenko_evgenii,skandal,sluga_naroda,ukraina,verhovna_rada,vstrecha
+page
+	set url https://www.istpravda.com.ua/articles/2021/04/21/159326/
+	set tags grushevskij_mihail.istorik,istoria,ogienko_ivan,slovo.ukraina,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/tiahnybok/6080054f0f27c/
+	set tags agressor,donbass,nacionalist,poslanie,putin_vladimir,redline,rossia,tjagnybok_oleg,ugroza,ugrozy,ukraina,vo_svoboda,vojna,vtorzhenie,zajavlenie
+page
+	set url https://life.pravda.com.ua/society/2021/04/19/244566/
+	set tags atletika.tjazhelaja,chempionat,chumak_dmitrij.atlet.ukr,flag.ukraina,gimn,moskva,rossia,sport
+page
+	set url https://censor.net/ru/blogs/3261225/bo_za_dap_v_listopad_2014_roku
+	set tags 2014,donbass,doneck_aeroport,motorola.dnr.voin,ukraina,vojna
+page
+	set url https://strana.ua/news/329544-v-belarusi-predjavili-obvinenie-v-podhotovke-perevorota-4-podozrevaemym.html
+	set tags belarus,gosperevorot,kgb.belarus,lukashenko_aleksandr,obvinenie,pokushenie
+page
+	set url https://strana.ua/news/328842-hosperevorot-v-belarusi-oppozitsija-nazvala-informatsiju-o-nem-provokatsiej-spetssluzhb.html
+	set tags belarus,fsb,gosperevorot,lukashenko_aleksandr,rossia,tihanovskaja_svetlana
+page
+	set url https://zen.yandex.ru/media/astroprog/predskazaniia-starca-nikolaia-gurianova-o-prihode-pravoslavnogo-caria-607fb2d58b48b30267c8bbaf
+	set tags antihrist,belyj_tsar,cerkov,chudotvorec,monarhia,pravoslavie,prorochestvo,rossia,starec,tsar,vera
+page
+	set url https://www.sport.ru/figurnoe_katanie/nevozmojno-pobedit-rossiyu-ih-figuristy-na-zapredelnom-urovne-yapontsy-vyskazalis-/article478492/
+	set tags figurist,figurnoje_katanie,japonia,osaka.gorod.japonia,pobeda,rossia,sport
 eof
 off
 page

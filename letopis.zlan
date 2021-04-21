@@ -21721,6 +21721,18 @@ page
 page
 	set url https://strana.ua/opinions/329387-deputat-honcharenko-ustroil-privychnuju-klounadu-v-pase.html
 	set tags flag,goncharenko_alexei,pase,skandal,ukraina
+page
+	set url http://lug-info.com/news/one/sotrudniki-ses-i-mvd-proverili-soblyudenie-masochnogo-rezhima-v-marshrutkakh-luganska-foto-66857
+	set tags covid,karantin,lnr,lugansk,marshrutka,maska,pandemia,proverka,transport
+page
+	set url http://lug-info.com/news/one/yarmarka-vakansii-proidet-v-luganske-27-aprelya-66856
+	set tags bezrabotica,jarmarka,lnr,lugansk,obschestvo,rabota,vakansia
+page
+	set url https://lgaki.info/novosti/shkolniki-luganshhiny-rekomenduyut-belyj-klyk-alye-parusa-i-sochinyayut-alternativnyj-final-anny-kareninoj/
+	set tags biblio_com.konkurs.lnr,deti,konkurs,kultura,lnr,lugansk,shkola
+page
+	set url http://lyl-lg.ru/index.php/konkursy/1643-vii-otkrytyj-respublikanskij-konkurs-uchenicheskikh-internet-proektov-biblio-com
+	set tags biblio_com.konkurs.lnr,biblioteka.lnr.lugansk.molodezhnaja,konkurs,lnr,lugansk,objavlenie,shkola,uchenik
 eof
 off
 page

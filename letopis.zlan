@@ -21850,6 +21850,12 @@ page
 page
 	set url https://ukr.rs.gov.ru/ru/news/86683
 	set tags istoria,ivan_III_tsar.moskovia,kiev,maloros,nachalo,rossia,rossotrudnichestvo,rusmir,ukraina
+page
+	set url https://lenta.ru/news/2021/04/21/schur/
+	set tags izbienie,kiev,policia,samokat,toronto,toronto.ukraina.televidenie,ukraina,ulica.kiev.ivana_franka,ulica.kiev.jaroslavov_val,zebra.perehod_peshehod
+page
+	set url https://lenta.ru/news/2021/04/17/udaril/
+	set tags avtobus,cherkassy,izbienie,konduktor,obschestvo,passazhir,pobeg,ukraina
 eof
 off
 page

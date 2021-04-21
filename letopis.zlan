@@ -21778,6 +21778,18 @@ page
 page
 	set url https://strana.ua/news/221517-zhurnalistov-dolzhny-pizt-sami-zhurnalisty-sotrudnik-hromadskoho-prizval-izbivat-inakomysljashchikh-kolleh.html
 	set tags hromadske_ua,izbienie,korzun_julia.zhurnalist,kriminal,kutepov_bogdan.hromadske_ua,medvedchuk_viktor,obschestvo,policia,press_konferencia,prizyv,sharij_analotij,strana_ua,svoboda_slova,ugrozy,ukraina,zhurnalist
+page
+	set url https://www.pravda.com.ua/news/2021/04/21/7291036/
+	set tags doroga,dorozhnaja_sluzhba,kiev,kiev_avtodor,kmda,oruzhie,strelba,ukraina
+page
+	set url http://lug-info.com/news/one/glava-lnr-pobyval-na-stroitelstve-krupneishego-so-vremen-sssr-svinokompleksa-na-luganschine-foto-66862
+	set tags lnr,pasechnik_leonid,prodovolstvo,svinja,svinovodchestvo
+page
+	set url https://strana.ua/news/329266-mitinh-21-aprelja-2021-v-moskve-i-druhikh-horodakh-aktsija-protesta-za-navalnoho-onlajn.html
+	set tags kolonia,moskva,navalny,protest,putin_vladimir,rossia
+page
+	set url https://beztabu.net/ukrayina-ne-pochinaye-vijn-ale-zavzhdi-stoyit-do-ostannogo-prezident-zvernuvsya-do-naciyi_n73188
+	set tags nacia,rossia,ukraina,vojna,zelenskii_vladimir
 eof
 off
 page

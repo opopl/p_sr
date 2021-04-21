@@ -21790,6 +21790,33 @@ page
 page
 	set url https://beztabu.net/ukrayina-ne-pochinaye-vijn-ale-zavzhdi-stoyit-do-ostannogo-prezident-zvernuvsya-do-naciyi_n73188
 	set tags nacia,rossia,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/politics/v-ukraine-bez-mobilizatsii-budut-prizyivat-teh-kto-uzhe-otsluzhil-zakon-podpisan.htm
+	set tags armia,mobilizacia,prizyv,rezervist,ukraina,voenkomat,voennoobjazannyj,zakon,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/society/degradatsiya-ordlo-neuzheli-tak-budet-vezde-kuda-prihodyat-russkie.htm
+	set tags degradacia,dnr,donbass,lnr,nenavist,nm_lnr,okupacia,rusmir,russkie,socset,stepova_olena,ukraina
+page
+	set url https://news.obozrevatel.com/society/sekret-samoj-vkusnoj-sovetskoj-sguschenki.htm
+	set tags 1936,eda,istoria,kuhnja,kulinaria,mif,mikojan_anastas.sssr,sguschenka,sssr,usa
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-horoshee-byilo-vremya-a-teper-nischeta-i-bespravie.htm
+	set tags feodosia.krym,foros,foros_park,foto,jalta,krym,krymnash,okupacia,rossia,sevastopol,ukraina,uvazhenie,vossoedinenie,zapugivanie
+page
+	set url https://news.obozrevatel.com/politics/poslaniya-putina-po-ukraine-pochemu-ne-zayavil-ob-obyavlenii-vojnyi.htm
+	set tags donbass,federalnoje_sobranie.rossia,kapituljacia,mir,moldova,pridnestrovje,putin_vladimir,rossia,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/abroad/shovin-i-putin-navalnyij-i-flojd.htm
+	set tags floyd_george,navalny,protest,putin_vladimir,rossia,shovin_derek.polismen.usa,solonin_mark,usa
+page
+	set url https://news.obozrevatel.com/abroad/prints-filipp-c-ego-dikostyu-prihodilos-miritsya-elizavete-ii.htm
+	set tags britania,chelovek,elizaveta_II_koroleva,princ_fillip.suprug_korolevy_elizavety,supruzhestvo,zhizn
+page
+	set url https://beztabu.net/chomu-vsi-povtoryuyut-rosijsku-mulku-putinu-duzhe-potribna-voda-u-krim_n73177
+	set tags blokada,krym,povtorenie,putin_vladimir,rossia,ukraina,voda
+page
+	set url https://ukraina.ru/exclusive/20210421/1031199033.html
+	set tags belarus,federalnoje_sobranie.rossia,gosperevorot,kiberataka,kipling_redjard,lukashenko_aleksandr,poslanie,putin_vladimir,rossia,ukraina,zapad
 eof
 off
 page

@@ -21733,6 +21733,12 @@ page
 page
 	set url http://lyl-lg.ru/index.php/konkursy/1643-vii-otkrytyj-respublikanskij-konkurs-uchenicheskikh-internet-proektov-biblio-com
 	set tags biblio_com.konkurs.lnr,biblioteka.lnr.lugansk.molodezhnaja,konkurs,lnr,lugansk,objavlenie,shkola,uchenik
+page
+	set url https://zen.yandex.ru/media/figurno_katatel/kogda-kataet-scerbakova--zamolkaiut-iaponskie-solovi-607ab326efdbbb14a266c34c
+	set tags figurist,figurnoje_katanie,japonia,molchanie,pobeda,rossia,scherbakova_anna.rossia.figurist,solovej,sport,trusova_aleksandra,vystuplenie
+page
+	set url https://ukraina.ru/history/20210421/1031187319.html
+	set tags 1944,bitva,istoria,nkvd,sssr,ukraina,upa
 eof
 off
 page

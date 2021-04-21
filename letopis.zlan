@@ -21739,6 +21739,19 @@ page
 page
 	set url https://ukraina.ru/history/20210421/1031187319.html
 	set tags 1944,bitva,istoria,nkvd,sssr,ukraina,upa
+page
+	set url https://from-ua.com/articles/596618-krizis-bezopasnosti-ili-gore-bez-uma-kto-zastupitsya-za-ukrainu.html
+	set tags diplomatia,germania,kiev,melnik_andrei,nato,ukraina,zapad
+global
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://vesti.ua/politika/276700-posol-pokhvastalsja-kak-vpravil-mozhi-nemetskim-deputatam
+	set tags diplomatia,germania,hamstvo,krym,melnik_andrei,melnik_andrei.ukraina.posol,mozgi,posol,ukraina
+page
+	set url https://www.gazeta.ru/politics/2018/02/07_a_11640733.shtml
+	set tags germania,krym,melnik_andrei.ukraina.posol,otvet,ukraina
 eof
 off
 page

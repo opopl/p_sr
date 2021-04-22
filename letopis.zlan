@@ -21758,9 +21758,6 @@ page
 	set url https://strana.ua/opinions/329449-poslanie-putina-stalo-sredi-procheho-i-preduprezhdeniem-ukraine.html
 	set tags donbass,federalnoje_sobranie.rossia,podgotovka,poslanie,putin_vladimir,rossia,ukraina,vojna
 page
-	set url https://strana.ua/news/329376-telekanal-dom-udalil-kritiku-protiv-sternenko-chto-eto-oznachaet.html
-	set tags cenzura,nacionalist,nackorpus,propaganda,telekanal_dom,ukraina
-page
 	set url https://strana.ua/news/329459-v-kremle-nazvali-krasnye-linii-v-otnoshenii-zapada.html
 	set tags ekonomika,hamstvo,peskov_dmitrii,putin_vladimir,redline,rossia,vmeshatelstvo,vybor,zapad
 page
@@ -21949,6 +21946,183 @@ page
 page
 	set url https://www.sport.ru/figurnoe_katanie/nevozmojno-pobedit-rossiyu-ih-figuristy-na-zapredelnom-urovne-yapontsy-vyskazalis-/article478492/
 	set tags figurist,figurnoje_katanie,japonia,osaka.gorod.japonia,pobeda,rossia,sport
+page
+	set url https://zen.yandex.ru/media/id/5dbd440398930900ade51ef8/vy-udivleny-chto-russkie-vziali-ves-pedestal-eksperty-na-cbc-o-pobedah-nashih-devushek-60635166f57165397ea85e31
+	set tags figurist,figurnoje_katanie,pobeda,rossia,russkie,sport
+page
+	set url https://zen.yandex.ru/media/muzey_budushego/russkii-kosmopoezd--russian-spacetrain-607afd703d51355a00eb5d5b
+	set tags fantastika,jumor,kosmo_poezd,kosmonavtika,kosmos,poezd,rossia,video,youtube
+page
+	set url https://www.mirf.ru/media/nash-slogan-okna-v-rossiyu-buduschego-intervyu-s-avtorom-russkoj-kiberderevni/
+	set tags _important,fantastika,future,interview,kiberpank,rossia,rusmir,vasiljev_sergej.rezhisser.kiberderevnja,video,youtube
+page
+	set url https://www.starhit.ru/novosti/ona-vedet-sebya-prekrasno-chem-mnogih-razdrajaet-nikita-mihalkov-o-marii-zaharovoy-237550/
+	set tags diplomatia,kultura,mid_rf,mihalkov_nikita,rossia,zaharova_maria
+page
+	set url https://strana.ua/news/329376-telekanal-dom-udalil-kritiku-protiv-sternenko-chto-eto-oznachaet.html
+	set tags cenzura,nacionalist,nackorpus,propaganda,telekanal_dom,ukraina
+page
+	set url https://news.obozrevatel.com/society/nikuda-ne-vyipuskal-a-potom-perelomal-rebra-v-garazhe-v-chernovtsah-sadist-zhestoko-raspravilsya-nad-materyu-dvoih-detej.htm
+	set tags chernivci,deti,izbienie,kriminal,mater,muzhchina,semja,smert,tragedia,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/dnr-ustanovili-flag-rossii-na-peredovoj-foto.htm
+	set tags dnr,donbass,flag,flag.rossia,peredovaja,rossia,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/society/v-slavyanske-v-godovschinu-okkupatsii-v-gorsovet-prinesli-flag-rf-video.htm
+	set tags aktivist,donbass,flag,flag.rossia,flag.ukraina,miskrada.slavjansk,obschestvo,opzzh,provokacia,ukraina
+page
+	set url https://news.obozrevatel.com/politics/hotyat-li-russkie-vojnyi-sprosite-luchshe-u-vojnyi-na-donbasse.htm
+	set tags 9_may,donbass,federalnoje_sobranie.rossia,prazdnik.9_may.pobeda,putin_vladimir,rossia,russkie,ukraina,veteran,vojna,vopros,vov,sssr,istoria
+page
+	set url https://strana.ua/news/329547-zelenskijukazom-utverdil-reshenie-snbo-o-personalnykh-sanktsijakh-protiv-13-hrazhdan.html
+	set tags kontrabanda,rnbo,sankcii,spisok,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/328437-polnyj-spisok-kontrabandistov-protiv-kotorykh-snbo-vvjol-sehodnja-sanktsii.html
+	set tags kontrabanda,rnbo,sankcii,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/329543-tak-nazyvaemaja-vojna-zelenskoho-protiv-oliharkhov-odna-vidimost.html
+	set tags falshivka,oligarh,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://www.pravda.com.ua/articles/2021/04/22/7291089/
+	set tags krym,nastuplenie,reznikov_aleksei,rossia,ukraina,voda,vtorzhenie
+page
+	set url https://www.pravda.com.ua/columns/2021/04/21/7290924/
+	set tags grazhdanstvo,nedvizhimost',putin_vladimir,rossia,ukraina,ukraincy
+page
+	set url https://gazeta.ua/blog/54948/ci-zdatna-ukrayina-virvatisya-iz-vlasnih-stereotipiv
+	set tags _important,britania,francia,fraza,future,nacia,obschestvo,skandinavia,stereotip,ukraina
+page
+	set url https://gazeta.ua/articles/pavlo-volvach/_so-tam-u-kacapiv/1015639
+	set tags demokratia,kacap,obschestvo,protest,rossia,strana,ukraina
+page
+	set url https://gazeta.ua/articles/kokora/_hochu-dobre-zhiti/1018578
+	set tags ukraina,zhelanie,zhizn,zhkh
+page
+	set url https://gazeta.ua/articles/dworetska/_nischo-tvoye-ne-nalezhit-tobi/979173
+	set tags belarus,lukashenko_aleksandr,obschestvo,ukraina,volja
+page
+	set url https://gazeta.ua/articles/life/_rosiyani-hochut-bombiti-rostov-sukayut-privid-dlya-vtorgnennya-sternenko/1027498
+	set tags rossia,rostov_na_donu,sternenko_sergei,ukraina
+page
+	set url https://gazeta.ua/blog/54956/u-zelenskogo-nema-planu-povernennya-bodaj-klaptika-nashoyi-zemli
+	set tags armia,rossia,territoria,ukraina,zelenskii_vladimir
+page
+	set url https://day.kyiv.ua/uk/article/den-planety/obmovka-za-freydom
+	set tags dogovor.odkb,federalnoje_sobranie.rossia,poslanie,putin_vladimir,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/malorosiystvo
+	set tags belarus,jas'ko_elizaveta.deputat,jazyk,lukashenko_aleksandr,maloros,malorossia,minsk,mova,shevchenko_evgenii,sluga_naroda,ukraina,verhovna_rada,vstrecha
+page
+	set url https://day.kyiv.ua/uk/article/podrobyci/velykyy-i-strashnyy-ruynivnyk
+	set tags lenin_vladimir,leninizm
+page
+	set url https://zemlug.ru/2021/04/21/artisty-filarmonii-luganska-poluchili-gran-pri-na-konkurse-v-kitae/
+	set tags filarmonia,kitaj,konkurs,lnr,muzyka,priz
+page
+	set url https://zemlug.ru/2020/10/13/luspekaev-pavel-borisovich/
+	set tags 1927,1970,biografia,donbass,film,istoria,kino,kultura,leningrad,lnr,luspekaev_boris.akter.1927_1970,sssr,st_peterburg,teatr,vov
+page
+	set url https://zemlug.ru/2020/10/13/matusovskij-mihail-lvovich/
+	set tags donbass,istoria,kultura,lugansk,matusovskij_mihail.poet.sssr,simonov_konstantin,sssr,ukraina,vov
+page
+	set url https://kiev.strana.ua/329558-v-kieve-derzkie-ulichnye-vory-hrabjat-prokhozhikh-prjamo-na-khodu-video.html
+	set tags grabitel,karmannik,kiev,kriminal,ukraina,vorovstvo
+page
+	set url https://kiev.strana.ua/314862-v-kieve-obokrali-pomoshchnika-nardepa-ot-sluhi-naroda.html
+	set tags deputat,karmannik,kiev,krazha,policia,sluga_naroda,telefon,ukraina
+page
+	set url https://strana.ua/news/285613-v-kieve-v-restorane-u-direktora-it-kompanii-ukrali-150-tys-hriven-.html
+	set tags itshnik,karmannik,kiev,krazha,restoran,ukraina
+page
+	set url https://strana.ua/news/283197-foto-ukradennykh-bychkov-v-sumskoj-oblasti.html
+	set tags krazha,pensioner,ukraina
+page
+	set url https://strana.ua/opinions/329545-karantin-prodlili-zemlju-zabirajut-perepichka-podorozhala.html
+	set tags ekonomika,itogi,ukraina
+page
+	set url https://vz.ru/opinions/2021/4/21/1095293.html
+	set tags amerika,kultura,morgenstern_alisher.muzykant.rossia,muzyka,rossia
+page
+	set url https://vz.ru/politics/2021/4/21/1095814.html
+	set tags geopolitika,kipling_redjard,kultura,literatura,metafora,putin_vladimir,rossia,sherhan,tabaka,usa,vassal
+page
+	set url https://strana.ua/news/329573-roman-ratushnyj-pochemu-sud-otmenil-domashnij-arest-dlja-pohromshchika-op-.html
+	set tags arest,kiev,ofis_prezidenta,otmena,pogrom.20_03_2021,ratushnyj_roman.aktivist,sternenko_sergei,sud,ukraina
+page
+	set url https://strana.ua/news/329587-sternenko-rasskazal-kak-zelenskij-predlahal-emu-mesto-v-sbu.html
+	set tags odessa,predlozhenie,sbu,sternenko_sergei,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/329565-sozdanie-industrialnykh-parkov-mozhet-tormozitsja-mezhdunarodnymi-strukturami.html
+	set tags industrialnyj_park,promyshlennost,sozdanie,ukraina,verhovna_rada,zakon
+page
+	set url https://strana.ua/opinions/329568-nekotorym-hrazhdanam-ukrainy-pozvoleno-kuda-bolshe-druhikh.html
+	set tags aktivist,ato,dobrobaty,dobrovolec,ofis_prezidenta,revgidnosti,ukraina,veteran,volonter,zaschitnik
+page
+	set url https://strana.ua/news/329607-v-kievskoj-oblasti-22-aprelja-ozhidajutsja-hrad-i-hrozy.html
+	set tags kiev,pogoda,prognoz,ukraina
+page
+	set url https://strana.ua/opinions/329567-ne-stoit-sravnivat-rossijskuju-ekonomiku-s-sovetskoj.html
+	set tags ekonomika,ekonomika.planovaja,ekonomika.rynochnaja,prognoz,razrushenie,rossia,rynok,sravnenie,sssr,ukraina,ustojchivost'
+page
+	set url https://strana.ua/opinions/329584-ukrainu-okhvatila-hihantomanija-s-natsionalnymi-flahami.html
+	set tags flag,flag.ukraina,flagobesie,nacia,nikolaev,patriotizm,poltava,sorevnovanie,ukraina
+page
+	set url https://strana.ua/opinions/329588-po-traditsii-narodnyj-deputatam-v-ukraine-mozhno-vse.html
+	set tags bespredel,karantin,kiev,lockdown,narushenie,obschestvo,policia,restoran,salut,tischenko_nikolai.deputat,ukraina,vsedozvolennost
+page
+	set url https://strana.ua/opinions/329591-amerika-stremitelno-terjaet-status-mirovoho-hehemona.html
+	set tags ekonomika,gegemon,geopolitika,kitaj,miroporjadok,rossia,status,usa,valjuta,world,zoloto
+page
+	set url https://strana.ua/opinions/329596-natsistskuju-diviziju-ss-halitsija-polnostju-razhromili-v-pervom-zhe-boju.html
+	set tags belaja_cerkov.ukr.gorod,dolinskij_eduard.ukr.direktor_uek,mirvojna2,nacizm,patriot,porazhenie,razgrom,ss,ss_galichina,ukraina,vojna,vov
+page
+	set url https://strana.ua/news/329612-na-donbasse-pohib-ukrainskij-voennyj.html
+	set tags ato,donbass,obstrel,oos,poteri,smert,ukraina,vojna
+page
+	set url https://strana.ua/articles/analysis/329085-kak-ermak-khotel-otkolot-mustafu-dzhemileva-ot-poroshenko.html
+	set tags bankova,dzhemilev_mustafa,jermak_andrej,konflikt,krym,krym_tatary,ofis_prezidenta,partia_es,poroshenko_petr,ukraina,zelenskii_vladimir
+page
+	set url https://analytics.hvylya.net/229199-kriza-ideologiji-abo-chomu-v-ukrajini-ne-formuyetsya-partiya-centru
+	set tags centrist,ideologia,krizis,nacia,obschestvo,politika,ukraina,vybory
+page
+	set url https://analytics.hvylya.net/229195-shcho-zh-davayte-vidverto-pane-prezident
+	set tags donbass,future,kapituljacia,krym,mir,nacia,narod,obeschanie,otkrovennost,putin_vladimir,stagnacia,ukraina,voda,vojna,vranje,vybor,zelenskii_vladimir
+page
+	set url http://lug-info.com/news/one/donbass-yavlyaetsya-primerom-borby-za-svobodu-dlya-russkikh-zhitelei-ukrainy-miroshnichenko-66893
+	set tags cennosti,chelovek,donbass,edinstvo,forum,gosperevorot,jazyk,kiev,kruglyj_stol,mir_luganschine,miroshnichenko_denis.lnr,rossia,russkie,svoboda,territoria,ukraina,vojna,vossoedinenie,vozvraschenie
+page
+	set url http://lug-info.com/news/one/forum-edinstvo-russkikh-stanet-esche-odnim-shagom-v-borbe-za-prava-russkikh-lyudei-pasechnik-66889
+	set tags donbass,forum,lnr,narod.russkij,pasechnik_leonid,russkie,russkij_chelovek,ukraina,vojna,doneck
+page
+	set url http://lug-info.com/news/one/zhiteli-lnr-dnr-i-podkontrolnykh-kievu-raionov-donbassa-ostayutsya-edinymi-deinego-66892
+	set tags dnr,donbass,doneck,edinstvo,forum,jazyk,lnr,narod,russkie,russkij_chelovek
+page
+	set url http://lug-info.com/news/one/forum-v-donetske-podtverzhdaet-edinstvo-russkikh-prozhivayuschikh-v-raznykh-gosudarstvakh-kobtseva-66895
+	set tags dnr,donbass,doneck,forum,lnr,rusmir,russkie
+page
+	set url http://lug-info.com/news/one/obschestvenniki-lnr-peredali-luganskoi-gorkovke-nauchnye-izdaniya-ot-rossiiskogo-obschestva-foto-66896
+	set tags biblioteka,biblioteka.lnr.lrunb,cerkov,kniga,lnr,lugansk,pravoslavie,vera
+page
+	set url http://lug-info.com/news/one/russkii-chelovek-vsegda-dobivaetsya-zaschity-ego-prava-byt-takovym-miroshnik-66897
+	set tags dnr,donbass,doneck,forum,lnr,miroshnik_rodion.lnr,rossia,rusmir,russkie,russkij_chelovek
+page
+	set url http://lug-info.com/news/one/forum-v-donetske-pozvolit-vyrabotat-mery-zaschity-razdelennogo-russkogo-naroda-deputat-gd-66900
+	set tags dnr,donbass,doneck,forum,gosduma,lnr,rossia,rusmir,russkie
+page
+	set url http://lug-info.com/news/one/zhiteli-kryma-lnr-i-dnr-dolzhny-vozglavit-podderzhku-russkikh-na-ukraine-deputat-gosdumy-66901
+	set tags cennosti,deputat,dnr,gosduma,krym,lnr,podderzhka,rossia,rusmir,russkie,ukraina
+page
+	set url https://lenta.ru/news/2021/04/22/peskov_kl/
+	set tags donbass,konflikt,peskov_dmitrii,putin_vladimir,redline,rossia,ukraina,vojna
+page
+	set url https://kharkov.strana.ua/329622-na-kharkovshchine-pravookhraniteli-proveli-spetsoperatsiju-po-zaderzhaniju-bandy-chernykh-rieltorov.html
+	set tags harkov,kriminal,policia,rieltor,rieltor.black,ukraina
+page
+	set url https://fraza.com/fraze/300114-vitalij-shabunin
+	set tags dengi,fraza,korupcia,ukraina
+page
+	set url https://fraza.com/stenograms/298817-detstvo-vladimira-zelenskogo-psihologicheskie-kompleksy-i-ih-vytesnenie
+	set tags biografia,detstvo,psihologia,ukraina,zelenskii_vladimir
 eof
 off
 page

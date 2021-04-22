@@ -22138,6 +22138,165 @@ page
 page
 	set url https://strana.ua/opinions/329603-intehriruemsja-v-evropu-cherez-otkrytie-zakrytykh-tualetov.html
 	set tags covid,evropa,integracia,karantin,otkrytie,tualet,ukraina
+page
+	set url https://strana.ua/news/329614-oleh-kulinich-sbu-chto-izvestno-o-novom-naznachentse-zelenskoho.html
+	set tags fsb,kgb,krym,lustracia,rossia,sbu,sssr,ukraina
+page
+	set url http://lug-info.com/news/one/uchastniki-foruma-v-donetske-predlozhili-ispolzovat-dlya-nazvaniya-ukrainy-abbreviaturu-ochu-66908
+	set tags abbr.ochu,dnr,donbass,doneck,forum,lnr,rusmir,ukraina
+page
+	set url http://lug-info.com/news/one/rusofobiya-na-ukraine-rasprostranyaetsya-v-uzkom-krugu-pravyaschei-elity-politolog-66916
+	set tags dnr,donbass,doneck,forum,lnr,russofobia,ukraina
+page
+	set url https://strana.ua/news/329695-putin-prihlasil-zelenskoho-v-moskvu.html
+	set tags moskva,ozhidanie,priglashenie,putin_vladimir,rossia,ukraina,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/news/329683-zelenskij-prokommentiroval-otvod-vojsk-rossii-ot-ukrainskikh-hranits.html
+	set tags donbass,granica,putin_vladimir,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://strana.ua/news/329635-rossija-zavershila-uchenija-vozle-ukrainskikh-hranits.html
+	set tags armia,granica,min_oborony,otvod_vojsk,rossia,shojgu_sergej,uchenija,ukraina
+page
+	set url https://strana.ua/news/329665-shojhu-zajavil-ob-otvode-vojsk-ot-ukrainy-chto-eto-znachit.html
+	set tags armia,granica,kommentarii,mid_rf,mir,nazarov_maks.tv.ukr,ogorod,otvod_vojsk,reznikov_aleksei,rossia,signal,ukraina,velykden',zelenskii_vladimir
+page
+	set url https://strana.ua/articles/analysis/126030-novosti-ukrainy-k-chemu-privedut-batalii-vokruh-monumenta-slavy-vo-lvove.html
+	set tags 23_feb,avstria,bandera_stepan,c14,dekomunizacia,demontazh,fashizm,lvov,memorial,monument_slavy.lvov,nacionalist,nacizm,narod,oun,pamjat,pamjatnik,patriot,patriotizm,pravyj_sektor,rkka,rodina_mat.lvov,snos,sssr,ukraina,ultrapravyje,vandalizm,vena.avstria.stolica,veteran,vov
+page
+	set url https://strana.ua/articles/analysis/81276-vo-lvove-boyatsya-stychek-iz-za-snosa-monumenta-slavy.html
+	set tags lvov,monument_slavy.lvov,musor,pamjat,pamjatnik,skandal,ukraina
+page
+	set url https://stackoverflow.com/questions/39551635/how-to-run-one-request-from-another-using-pre-request-script-in-postman
+	set tags javascript,pc,postman
+page
+	set url https://blog.postman.com/extracting-data-from-responses-and-chaining-requests/
+	set tags javascript,pc,postman
+page
+	set url https://strana.ua/news/329709-pasechnik-zajavil-o-hotovnosti-vstretitsja-s-zelenskim-na-donbasse.html
+	set tags linia_soprikosnovenia,lnr,mir,pasechnik_leonid,peregovory,predlozhenie,ukraina,vojna,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/news/329708-sluhi-naroda-obsuzhdajut-poezdku-nardepa-shevchenko-k-lukashenko-na-zasedanii-fraktsii.html
+	set tags belarus,deputat,lukashenko_aleksandr,obsuzhdenie,poezdka,shevchenko_evgenii,skandal,sluga_naroda,ukraina,verhovna_rada,vstrecha
+page
+	set url https://strana.ua/news/329503-chto-sluhi-naroda-dumajut-o-zavtrashnem-zasedanii-fraktsii-.html
+	set tags belarus,frakcia,lukashenko_aleksandr,shevchenko_evgenii,skandal,sluga_naroda,ukraina,verhovna_rada
+page
+	set url https://strana.ua/news/231889-slushanija-po-svobode-slova-v-rade-0611-onlajn-transljatsija-foto-video.html
+	set tags medvedeva_olesja,presledovanie,strana_ua,svoboda_slova,tribuna,tribunal,ukraina,verhovna_rada,vystuplenie,zaschita.zhurnalistov,zhurnalist
+page
+	set url https://plus.obozrevatel.com/crime/pokonchivshuyu-s-soboj-shkolnitsu-iz-zaporozhya-uchitelnitsa-nazyivala-svinej-neobrazovannoj-podrobnosti-tragedii.htm
+	set tags chelovek,deti,devochka,izdevatelstvo,obschestvo,obvinenie,oskorblenie,pismo,psihologia,shkola,smert,suicid,suicid.poveshenie,tragedia,uchitel,ukraina,zapiska,zaporozhie
+page
+	set url https://plus.obozrevatel.com/crime/glavar-lnr-pasechnik-zahotel-vstretitsya-s-zelenskim-na-donbasse.htm
+	set tags donbass,linia_soprikosnovenia,lnr,pasechnik_leonid,predlozhenie,ukraina,vojna,vstrecha,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/politics/lukashenko-nazval-nesusvetnoj-glupostyu-perenos-iz-minska-peregovorov-po-donbassu.htm
+	set tags belarus,glupost,lukashenko_aleksandr,minsk,peregovory,putin_vladimir,reznikov_aleksei,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/society/kryisyi-begut-s-korablya.htm
+	set tags aristotel',bednost,chelovek,dnr,donbass,garmonia,korabl,krysa,lnr,longread,narod,obschestvo,ohlokratia,propaganda,rossia,rusmir,sssr,tirania,ukraina
+page
+	set url https://news.obozrevatel.com/russia/rossiyanam-poobeschali-svetloe-buduschee-kak-byi-ne-stalo-huzhe.htm
+	set tags 1991,fashizm,federalnoje_sobranie.rossia,future,mussolini_benito.diktator,narod,navalny,obschestvo,oppozicia,poslanie,protest,putin_vladimir,rossia,travma
+page
+	set url https://news.obozrevatel.com/russia/agressivnoe-poslanie-putina-zapadu.htm
+	set tags agressia,kasparov_garry,poslanie,putin_vladimir,redline,rossia,ukraina,zapad
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-ne-priezzhajte-rossiyane-ne-vse-vam-radyi.htm
+	set tags krym,krymnash,obschestvo,obvinenie,okupacia,prigovor,repressii,rossia,sud
+page
+	set url https://news.obozrevatel.com/politics/zelenskij-ob-otvode-vojsk-rf-ot-granitsyi-ukraina-vsegda-na-cheku.htm
+	set tags armia,donbass,gotovnost,rossia,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://112ua.tv/obshchestvo/strana-uzhe-god-boleet-a-kachestvennoy-vakciny-do-sih-por-net-ukraincy-ob-otkaze-vlasti-proizvodit-vakcinu-sputnik-v-v-nashey-strane-575246.html
+	set tags covid,nikolaev,rossia,sputnik_v,ukraina,vaccinacia,vaccine
+page
+	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/rossiia-21-veka-607da2aaf20770713ffd16f8
+	set tags rossia,xxi_vek
+page
+	set url https://zen.yandex.ru/media/rusbeyond/kak-devochka-iz-angliiskoi-derevni-popala-v-akademiiu-bolshogo-teatra-607edbfee4bc297628797a72
+	set tags anglia,balerina,balet,britania,devochka,rossia,teatr.bolshoj.moskva
+page
+	set url https://zen.yandex.ru/media/omt/voshiscenie-slovami-avstraliiki-pro-rossiiu-i-kotoraia-hochet-jit-na-altae-6080f5d70285cb5864dc69b1
+	set tags altaj.rossia,avstralia,devushka,grazhdanstvo,pereezd,rossia,sibir
+page
+	set url https://zen.yandex.ru/media/dnevnik_rolevika/pochemu-my-tak-nervnichaem-kogda-nashih-predkov-nazyvaiut-zavoevateliami-60699b406d990144ce002798
+	set tags 1984_kniga,dvojemyslie,istoria,narod,psihologia,rossia,rusmir,rusnarod,russkie,zakolebalo,zavojevatel,zhertva
+page
+	set url https://zen.yandex.ru/media/id/5f323b5fef025b269500e716/nikogda-takogo-ne-bylo-i-vot-opiat-hrustalnaia-anna-scerbakova-v-ocherednoi-raz-vseh-porvala-a-iaponcy-krasavchiki-607b3bb06d0d247e53cb363f
+	set tags figurist,figurnoje_katanie,japonia,pobeda,rossia,scherbakova_anna.rossia.figurist
+page
+	set url https://www.pravda.com.ua/columns/2021/04/22/7291027/
+	set tags 5_element,_important,bojko_jurij.opzzh,elektorat,fraza,medvedchuk_viktor,nato,obschestvo,opzzh,phase_transition,politika,populizm,poroshenko_petr,rejting,rossia,sociologia,tv,ukraina,vata,vatnik,vybory,zapad,zelenskii_vladimir
+page
+	set url https://life.pravda.com.ua/health/2021/04/22/244655/
+	set tags astrazeneka,medicina,opasnost',pobochka,tromboz,ukraina,vaccinacia,vaccine,zdorovje
+page
+	set url https://www.pravda.com.ua/news/2021/04/22/7291186/
+	set tags aktivist,federalnoje_sobranie.rossia,hamstvo,mid_rf,miting,nacgvardia,poslanie,posolstvo.rossia,putin_vladimir,rossia,ukraina,zaharova_maria
+page
+	set url https://www.pravda.com.ua/news/2021/04/22/7291130/
+	set tags biden_joe,fraza,psaki_dzhen,putin_vladimir,rossia,tolstokozhij,usa
+page
+	set url https://strana.ua/news/329700-lukashenko-upreknul-zelenskoho-v-nediplomatichnom-povedenii.html
+	set tags diplomatia,dnr,donbass,lnr,lukashenko_aleksandr,povedenie,putin_vladimir,rossia,sovet,ukraina,vstrecha
+page
+	set url https://fraza.com/analytics/300083-novosti-95-go-kvartala-poteshnaja-deoligarhizatsija-
+	set tags deoligarhizacia,ekonomika,kvartal95,oligarh,politika,poroshenko_petr,poteha,ukraina,zelenskii_vladimir
+page
+	set url https://fraza.com/video/300137-neadekvat-raznes-toporom-magazin-v-mariupole-za-zamechanie-o-maske
+	set tags deboshir,magazin,mariupol,maska,neadekvatnost,topor,ukraina,zamechanie,zlost
+page
+	set url https://beztabu.net/rosiya-kazhe-shcho-pochala-zabirati-vijsko-nazad-u-mordor_n73197
+	set tags armia,granica,mordor,oborona,prikaz,rossia,shojgu_sergej,uchenija
+page
+	set url https://censor.net/ru/resonance/3257904/aerorozvdnik_alna_kosovska_jnts_vajko_na_vyin_ale_koli_ya_navchilasya_pochala_robiti_te_scho_nhto_krm
+	set tags 2015,_important,alpinizm,avdeevka.donbass,dobrovolec,donbass,gory,karpaty,kosovska_alina.vsu.aero_rozvidnyk,marjinka,pravyj_sektor,sport,turizm,ukraina,vojna,volonter,woman
+page
+	set url https://censor.net/ru/resonance/3260727/pamyat_volodimira_yavorvskogo
+	set tags 2001,24_aug,derzhava,istoria,javorivskij_vladimir,kommunizm,kuchma_leonid,nacia,narodnyj_ruh_ukrainy,nezalezhnist,pamjat,pisatel,smert,sssr,ukraina
+page
+	set url https://biz.censor.net/resonance/3260812/scho_take_nfttokeni_ta_chomu_h_kupuyut_za_tisyach_dolarv
+	set tags dengi,ekonomika,ekonomika.cifrovaja,finansy,nft_token,ukraina
+page
+	set url https://censor.net/ru/news/3261359/formula_shtayinmayiera_eto_fantasticheskiyi_dokument_nikakoyi_zrady_tam_net_reznikov
+	set tags donbass,formula_shtajnmajera,ukraina,vojna,zrada
+page
+	set url https://lenta.ru/news/2021/04/22/nato1/
+	set tags armia,granica,nato,rossia,shojgu_sergej,ukraina
+page
+	set url https://lenta.ru/brief/2021/04/22/razgovory/
+	set tags _important,belarus,foto,fsb,gosperevorot,lukashenko_aleksandr,putin_vladimir,rossia,vstrecha
+page
+	set url https://strana.ua/news/329725-pushilin-prihlasil-zelenskoho-v-samye-horjachie-tochki-donbassa.html
+	set tags diskriminacia,dnr,istoria,jazyk,pomosch,presledovanie,pushilin_denis,ukraina,ukrainizacia,veteran,video,vov,vystuplenie,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/329727-kakoj-vopros-zadal-by-sozdatelju-tipichnyj-ukrainskij-patriot.html
+	set tags _important,hristos,krym,patriotizm,ukraina,vopros
+page
+	set url https://strana.ua/news/329724-turtsija-nachnet-ispolzovat-vaktsinu-ot-koronavirusa-sputnik-v.html
+	set tags covid,rossia,sputnik_v,turcia,vaccine
+page
+	set url https://strana.ua/news/325286-v-kitae-nachnut-vypuskat-rossijskuju-vaktsinu-sputnik-v.html
+	set tags covid,dogovor,kitaj,proizvodstvo,rossia,sputnik_v,vaccine
+page
+	set url https://kharkov.strana.ua/325279-v-kharkovskoj-oblasti-umer-11-letnij-malchik-s-koronavirusom.html
+	set tags 11_let,bolnica,covid,deti,harkov,infekcia,rebenok,smert,ukraina
+page
+	set url https://strana.ua/news/329613-kohda-otmenjat-karantin-v-kieve-kak-ukraina-vykhodit-iz-krasnoj-zony.html
+	set tags covid,karantin,redzone,smertnost',ukraina,zabolevajemost'
+page
+	set url https://www.vesti.ru/article/2553662
+	set tags federalnoje_sobranie.rossia,gorchakov_aleksandr.kanzler.rusimperia,kommentarii,poslanie,putin_vladimir,rossia,simonjan_margarita,tjutchev_fedor.poet,semja,rebenok,cennosti,slovo
+page
+	set url https://riakursk.ru/v-kurske-na-ulitse-stantsionnaya-vysadyat-30-derevev-sakury/
+	set tags derevo,kursk,priroda,rossia,sakura
+page
+	set url https://pravoslavie.ru/138779.html
+	set tags cerkov,chelovek,miloserdie,pravoslavie,rusmir,sestra_miloserdia,vera,zhizn
+page
+	set url https://pravoslavie.ru/136635.html
+	set tags biblia,cerkov,evangelie,hristos,ierihon,ljubov,rossia,rusmir,slepota,vera
 eof
 off
 page

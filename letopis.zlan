@@ -22300,6 +22300,18 @@ page
 page
 	set url https://zaxid.net/putin__ne_chort_z_tabakerki_n1517745
 	set tags putin_vladimir,rossia,ukraina
+page
+	set url https://zaxid.net/maugli_v_sherhanoviy_shkuri_n1517809
+	set tags agressia,kipling_redjard,putin_vladimir,rossia,sherhan
+page
+	set url https://lb.ua/society/2021/04/22/482977_vogon_peche_zapeklih_yak_ukraini.html
+	set tags donbass,doneck,mogila,shramko_konstantin.vsu.2016,smert,ukraina,vandalizm,veteran,vojna
+page
+	set url https://lb.ua/world/2021/04/22/483020_movchannya_prezidenta_zemana.html
+	set tags chehia,diplomatia,molchanie,rossia,skandal,zeman_milosh
+page
+	set url https://monastery.ru/zhurnal/bog-i-chelovek/dast-tebe-gospod-po-serdtsu-tvoemu/
+	set tags chelovek,hristos,serdce,vera
 eof
 off
 page

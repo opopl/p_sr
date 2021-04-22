@@ -22123,6 +22123,21 @@ page
 page
 	set url https://fraza.com/stenograms/298817-detstvo-vladimira-zelenskogo-psihologicheskie-kompleksy-i-ih-vytesnenie
 	set tags biografia,detstvo,psihologia,ukraina,zelenskii_vladimir
+page
+	set url https://fraza.com/blog/300033-zelenskij-i-tischenko-kto-kogo-pozorit-bolshe
+	set tags obschestvo,pozor,skandal,tischenko_nikolai.deputat,ukraina,vecherinka,zelenskii_vladimir
+page
+	set url https://strana.ua/news/329654-till-lindemann-spel-ljubimyj-horod-istorija-pesni-marka-kernesa-ispolnenie-janukovicha.html
+	set tags 1939,1940,bernes_mark,dolmatovskij_evgenij,istoria,kiev,pesnja,pesnja.ljubimyj_gorod,poezia,rammstein.gruppa,rusmir,sssr,ukraina,gorod
+page
+	set url https://strana.ua/news/329601-chto-dumajut-vo-lvove-o-snose-monumenta-sovetskim-voinam.html
+	set tags aktivist,ato,dekomunizacia,demontazh,kommunizm,lvov,monument_slavy.lvov,obschestvo,pamjat,pamjatnik,reakcia,ukraina,vov
+page
+	set url https://strana.ua/opinions/329597-japonskaja-i-korejskaja-moda-na-maski-prishla-i-k-nam.html
+	set tags covid,japonia,karantin,maska,moda,ukraina
+page
+	set url https://strana.ua/opinions/329603-intehriruemsja-v-evropu-cherez-otkrytie-zakrytykh-tualetov.html
+	set tags covid,evropa,integracia,karantin,otkrytie,tualet,ukraina
 eof
 off
 page

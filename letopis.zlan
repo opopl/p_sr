@@ -22363,6 +22363,15 @@ page
 page
 	set url https://buzina.org/golos-naroda/3957-gibridnyj-kipling.html
 	set tags birthday,istoria,kipling_redjard,kommunizm,lenin_vladimir,sherhan,sssr,tabaka
+page
+	set url https://lenta.ru/articles/2021/04/23/kmsml/
+	set tags 1991,gorbachev_mihail,istoria,raspad.sssr,sssr,raspad
+page
+	set url https://lenta.ru/news/2021/04/23/dialog/
+	set tags arestovich_aleksei,dnr,donbass,lnr,minoborony.ukraina,otkaz,pasechnik_leonid,peregovory,rossia,tkg,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/politics/arestovich-putin-slovesno-vyishel-iz-minska-peregovoryi-s-ldnr-nevozmozhnyi-dazhe-v-rezhime-fantastika-na-vtorom-etazhe.htm
+	set tags arestovich_aleksei,dnr,donbass,fantastika,lnr,minsk_dogovor,putin_vladimir,rossia,ukraina,vojna
 eof
 off
 page

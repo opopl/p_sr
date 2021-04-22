@@ -22312,6 +22312,57 @@ page
 page
 	set url https://monastery.ru/zhurnal/bog-i-chelovek/dast-tebe-gospod-po-serdtsu-tvoemu/
 	set tags chelovek,hristos,serdce,vera
+page
+	set url https://regnum.ru/news/cultura/3246778.html
+	set tags isskustvo,kartina,moskva,oda_k_radosti,rossia,tretjakovka,vystavka
+page
+	set url https://www.vesti.ru/nauka/article/2554004
+	set tags astronomia,galaktika,nauka,proxima_centavra,solnce,vspyshka,zvezda
+page
+	set url https://www.vesti.ru/article/2553665
+	set tags deti,figurnoje_katanie,izdevatelstvo,nasilie,rossia,sport,trener,zhaloba
+page
+	set url https://lb.ua/blog/yulia_olrova/482189_yak_mi_zhitimemo_marsi_stivena.html
+	set tags future,kniga,mars
+page
+	set url https://gazeta.ua/articles/regions/_ostatochne-proschavaj-znosyat-vidomij-radyanskij-monument/1027809
+	set tags dekomunizacia,demontazh,istoria,kommunizm,lvov,monument_slavy.lvov,rkka,sssr,ukraina,unr
+page
+	set url https://gazeta.ua/articles/history/_pochali-sprijmati-moskvu-yak-dzherelo-problem-istorik-rozpoviv-pro-naslidki-cornobilya/1027662
+	set tags 1986,chernobyl,istoria,katastrofa,moskva,sssr,ukraina
+page
+	set url https://strana.ua/news/329737-zasedanija-fraktsii-sluhi-naroda-22-aprelja-otchet-politsily.html
+	set tags frakcia,iskljuchenie,shevchenko_evgenii,shtraf,sluga_naroda,tischenko_nikolai.deputat,ukraina,verhovna_rada,zasedanie
+page
+	set url http://lug-info.com/news/one/minobrazovaniya-vruchilo-klyuchi-ot-avtomobilei-predstavitelyam-dvukh-detskikh-lagerei-respubliki-foto-66926
+	set tags avto,deti,lager,lager.detskij,lnr,mon_lnr,podarok
+page
+	set url http://lug-info.com/news/one/zhiteli-stakhanova-otkryli-memorialnuyu-dosku-likvidatoru-zaschitniku-lnr-viktoru-romanishinu-foto-66927
+	set tags 1986,2014,26_apr,chaes,chernobyl,donbass,likvidator.chaes,lnr,pamjat,pamjatnik,romanishin_viktor.lnr.zaschitnik,sssr,stahanov.lnr,vojna
+page
+	set url http://lug-info.com/news/one/zapad-pytaetsya-likvidirovat-russkii-narod-kak-subekt-mirovoi-istorii-politolog-iz-rf-66921
+	set tags donbass,forum,identichnost',lnr,narod.russkij,razdelenie,rossia,russkie,russkij_chelovek,ukraina,zapad
+page
+	set url http://lug-info.com/news/one/vybory-rukovoditelei-assotsiatsii-studencheskogo-samoupravleniya-proshli-v-lgu-imeni-dalya-foto-66930
+	set tags lnr,molodezh,mon_lnr,universitet.lugansk.vl_dal',vybory
+page
+	set url https://lgaki.info/novosti/studenty-iskusstvovedy-predstavili-pervuyu-polnostyu-podgotovlennuyu-imi-vystavku/
+	set tags dusha,isskustvo,kartina,lgaki,lnr,lugansk,molodezh,rodnik,studenty,vystavka
+page
+	set url https://www.facebook.com/groups/respublikalnr/permalink/800643473904779/
+	set tags donbass,linia_soprikosnovenia,lnr,mir,obraschenie,pasechnik_leonid,ukraina,vojna,zelenskii_vladimir,zhelanie
+page
+	set url https://www.facebook.com/profile.php?id=100028454333844
+	set tags bilchenko_evgenia,hristos,lvov,molitva,ukraina
+page
+	set url https://www.facebook.com/yevzhik/posts/3824893754212373
+	set tags bilchenko_evgenia,gorod,kiev,nestor_letopisec,pohoron,ukraina
+page
+	set url https://www.facebook.com/yevzhik/posts/3823924424309306
+	set tags bilchenko_evgenia,ukraina
+page
+	set url https://buzina.org/golos-naroda/3957-gibridnyj-kipling.html
+	set tags birthday,istoria,kipling_redjard,kommunizm,lenin_vladimir,sherhan,sssr,tabaka
 eof
 off
 page

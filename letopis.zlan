@@ -22525,6 +22525,9 @@ page
 page
 	set url https://strana.ua/news/329888-kazhdyj-pjatyj-russkojazychnyj-ukrainets-stalkivalsja-s-nehativnym-otnosheniem-k-sebe.html
 	set tags language.native,negativ,obschestvo,socopros,ukraina,jazyk,mova
+page
+	set url https://fraza.com/fraze/300032-sonja-koshkina
+	set tags fraza,koshkina_sonja.ukraina,tischenko_nikolai.deputat,ukraina
 eof
 off
 page

@@ -22498,6 +22498,33 @@ page
 page
 	set url https://news.obozrevatel.com/politics/strana-balabolov-proveryala-u-granits-ukrainyi-svoyu-armiyu-na-trezvost.htm
 	set tags armia,balabol,granica,proverka,rossia,trezvost,ukraina
+page
+	set url https://strana.ua/news/329833-v-pravom-sektore-rasskazali-kak-pervymi-otkryvajut-ohon-na-donbasse.html
+	set tags _important,avdeevka.donbass,deti,donbass,fraza,fraza.kosti_russko_jazychnyh_detej,gazeta.nyt.usa,jazyk,kosti,minomet,mobilizacia,obstrel,pravyj_sektor,ukraina,vojna,volk,zhurnalist
+page
+	set url https://www.nytimes.com/2021/04/20/world/europe/-ukraine-russia-putin-invasion.html
+	set tags donbass,fraza.kosti_russko_jazychnyh_detej,gazeta.nyt.usa,obstrel,pravyj_sektor,rossia,ukraina,vojna
+page
+	set url https://strana.ua/finance/329826-nbu-aktivno-vnedrjaet-v-strane-sistemu-avtomaticheskoho-aresta-sredstv-na-schetu.html
+	set tags dengi,dolzhnik,ekonomika,finansy,privatbank,spisanie_deneg,ukraina
+page
+	set url https://strana.ua/news/329895-pod-rovno-molnija-udarila-v-muzhchinu-i-junoshu-ekhavshikh-na-podvode.html
+	set tags bolnica,junosha,molnia,muzhchina,priroda,rovno,ukraina
+page
+	set url https://strana.ua/opinions/329855-ukraina-posledovatelno-stoit-u-sebja-soslovnoe-obshchestvo.html
+	set tags ateizm,chelovek,hristianstvo,hristos,infantilizm,istoria,lenin_vladimir,nenavist,obschestvo,pamjat,pokojnik,posledovatelnost,soslovie,strah,stroitelstvo,ukraina
+page
+	set url https://strana.ua/opinions/329859-po-bolshomu-schetu-biznes-ne-veril-v-sereznuju-vojnu.html
+	set tags biznes,ukraina,vojna
+page
+	set url https://strana.ua/opinions/329874-v-ukraine-znachitelnaja-chast-obshchestva-zatochena-na-vojnu.html
+	set tags napadenie,obschestvo,razocharovanie,tirania,ukraina,vojna,zatochka
+page
+	set url https://strana.ua/opinions/329879-za-shovinizm-i-militarizm-prikhoditsja-platit-samim-zhiteljam-ukrainy.html
+	set tags militarizm,obschestvo,rasplata,shovinizm,ukraina
+page
+	set url https://strana.ua/news/329888-kazhdyj-pjatyj-russkojazychnyj-ukrainets-stalkivalsja-s-nehativnym-otnosheniem-k-sebe.html
+	set tags language.native,negativ,obschestvo,socopros,ukraina,jazyk,mova
 eof
 off
 page

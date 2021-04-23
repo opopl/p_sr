@@ -22372,6 +22372,132 @@ page
 page
 	set url https://news.obozrevatel.com/politics/arestovich-putin-slovesno-vyishel-iz-minska-peregovoryi-s-ldnr-nevozmozhnyi-dazhe-v-rezhime-fantastika-na-vtorom-etazhe.htm
 	set tags arestovich_aleksei,dnr,donbass,fantastika,lnr,minsk_dogovor,putin_vladimir,rossia,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/society/rossiya-ne-sposobna-na-polnomasshtabnuyu-vojnu-u-nih-net-sil-arestovich.htm
+	set tags arestovich_aleksei,federalnoje_sobranie.rossia,poslanie,protivostojanie,rossia,sposobnost,ugroza,ukraina,vtorzhenie
+page
+	set url https://www.radiosvoboda.org/a/31217385.html
+	set tags _important,bpla,donbass,foto,obse,solnce,ukraina,vojna,vsu
+page
+	set url https://day.kyiv.ua/uk/article/den-ukrayiny/z-obyektyvom-na-polissya
+	set tags foto,konkurs,ukraina
+page
+	set url https://lb.ua/news/2021/04/14/482350_mezhdu_stsilloy_haribdoy_zametki.html
+	set tags agressia,agressor,donbass,rossia,sderzhivanie,ukraina,vojna
+page
+	set url http://voskhodinfo.su/aktualno/65208-zapadnaya-civilizaciya-kollapsiruet.html
+	set tags civilizacia,kitaj,kollaps,rossia,usa,zapad
+page
+	set url http://voskhodinfo.su/aktualno/65173-naedine-s-razyarennym-russkim-medvedem.html
+	set tags isteria,jarost,medved,rossia,ukraina,vojna,zelenskii_vladimir
+page
+	set url http://voskhodinfo.su/aktualno/65171-rossiya-ssha-diplomatiya-esmincev.html
+	set tags biden_joe,black_sea,bosfor.proliv,chehia,dip_otnoshenia,evropa,krizis,krym,mid_rf,preduprezhdenie,putin_vladimir,rossia,sevpotok2,ukraina,usa
+page
+	set url http://voskhodinfo.su/panorama/geopolitika/65206-razocharuyuschee-poslanie-putina-nesuetnoe-nachalo-novoy-epohi.html
+	set tags chehia,dip_otnoshenia,federalnoje_sobranie.rossia,kipling_redjard,mid_rf,nato,poslanie,provokacia,putin_vladimir,reakcia,rossia,sherhan,tabaka,ugroza,ukraina,zapad
+page
+	set url http://voskhodinfo.su/voyna/voyna-na-donbasse/65092-volontery-spasut-ukrainu.html
+	set tags avakov_arsen,butusov_jurij,rossia,spasenie,ugroza,ukraina,vojna,volonter
+page
+	set url https://www.pravda.com.ua/news/2021/04/22/7291224/
+	set tags dnr,donbass,linia_soprikosnovenia,lnr,pasechnik_leonid,predlozhenie,priezd,priglashenie,pushilin_denis,ukraina,video,vojna,zelenskii_vladimir
+page
+	set url https://www.pravda.com.ua/news/2021/04/22/7291222/
+	set tags ato,donbass,lucyk_aleksandr.vsu.voin,oos,smert,ukraina,vojna,vsu
+page
+	set url https://www.pravda.com.ua/news/2021/04/23/7291282/
+	set tags lvov,rossia,sbu,specsluzhba,ukraina,whatsapp,yandex_dengi
+page
+	set url https://strana.ua/news/329798-v-umani-nesovershennoletnie-deti-kidali-kamnjami-v-khasidov.html
+	set tags evrei,hasid,monomah_vladimir.knjaz,palomnik,sofievka.ukr.park.uman,ukraina,uman,velosiped
+page
+	set url https://strana.ua/opinions/329756-voennaja-trevoha-to-chisto-propahandistskaja-kampanija-v-smi.html
+	set tags donbass,propaganda,rossia,sdelka,trevoga,ugroza,ukraina,vojna,zapad
+page
+	set url https://strana.ua/opinions/329760-chto-vyberet-zelenskij-na-donbasse-mir-ili-pozor.html
+	set tags dnr,lnr,mir,otvet,pozor,predlozhenie,putin_vladimir,rossia,ukraina,vopros,vstrecha,vybor,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/329788-ukrainskij-narod-maksimalno-unizhen-i-oskorblen-svoej-elitoj.html
+	set tags covid,elita,fraza,letopis,medicina,minzdrav,narod,narod.ukrainskij,pomosch,proval,tragedia,ukraina,unizhenie,vaccinacia,zapad
+page
+	set url https://strana.ua/opinions/329793-v-stolitsakh-hde-prinimajut-realnye-reshenija-sihnal-moskvy-prinjali-i-ponjali.html
+	set tags desant,koblevo.ukraina,krym,moskva,poberezhje,poligon,politika,ponimanie,rossia,signal,tusovka,uchenija,ukraina
+page
+	set url https://strana.ua/opinions/329799-inhredienty-borshcha-spolzlis-k-nam-so-vseho-mira.html
+	set tags amerika,borsch,borsch_battle,eda,grecia,ingredient,istoria,kapusta,krapiva,kuhnja,kulinaria,pervenstvo,pomidor,rimimperia,rimljane,rossia,schavel,sssr,ukraina
+page
+	set url https://strana.ua/opinions/329805-hosudarstvu-vyhodno-sdelat-maloobespechennykh-ukraintsev-biznesmenami.html
+	set tags biznesmen,dengi,derzhava,ekonomika,nischeta,pomosch,ukraina
+page
+	set url https://strana.ua/opinions/329754-serial-zelenskoho-prodolzhaet-fihurirovat-v-rejtinhe-rossijskoho-tv.html
+	set tags agressor,kvartal95,papik,razvlechenie,rossia,serial,tv,ugroza,vojna,zelenskii_vladimir
+page
+	set url https://strana.ua/articles/analysis/329736-zachem-lidery-40-stran-sobralis-na-sammit-po-klimatu.html
+	set tags biden_joe,ekologia,ekonomika,energetika,investicia,klimat,shahta,ugolj,ukraina,usa,world
+page
+	set url https://strana.ua/articles/analysis/329609-zachem-v-ukraine-sobirajutsja-ukrupnjat-zemli-i-chto-budet-s-pajami-i-dvumja-hektarami-dlja-vsekh.html
+	set tags agro_promyshlennost,besplatno,ekonomika,gektar,instrukcia,kabmin,konsolidacia,privatizacia,schema,sobstvennost',ukraina,zakon,zemlja
+page
+	set url https://strana.ua/news/329787-ermak-schitaet-otvod-vojsk-rossii-ot-ukrainskikh-hranits-zasluhoj-zelenskoho.html
+	set tags granica,jermak_andrej,kritika,otvod_vojsk,propaganda,rossia,uchenija,ukraina,zasluga,zelenskii_vladimir
+page
+	set url https://strana.ua/news/329739-rossija-zakanchivaet-uchenija-kiev-khochet-lishit-rf-swift-vstrecha-lukashenko-i-putina.html
+	set tags biden_joe,diplomatia,dnr,donbass,itogi,kuleba_dmitrii,lico,lnr,loh,lukashenko_aleksandr,plevok,proschenije,putin_vladimir,radikaly,ratushnyj_roman.aktivist,razocharovanie,rossia,sankcii,shojgu_sergej,signal,sport,swift,uchenija,ukraina,zapad,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/eksperty-vashyngton-eskalatsiia/31218548.html
+	set tags biden_joe,donbass,ekspert,obostrenie,opros,putin_vladimir,rossia,sevpotok2,ugroza,ukraina,usa,vojna,vopros,vstrecha
+page
+	set url https://www.radiosvoboda.org/a/pavlo-kazarin-formula-revoliutsii/31217981.html
+	set tags formula,future,navalny,obeschanie,putin_vladimir,revolucia,rossia
+page
+	set url https://www.pravda.com.ua/news/2021/04/23/7291277/
+	set tags arest,cherkalin_kirill.rossia.fsb,fsb,kolonia,korupcia,podpolkovnik,rossia,sud,sud.vojennyj,zapret
+page
+	set url https://sharij.net/kravchuk-zelenskij-ne-budet-ehat-na-poklon-k-putinu
+	set tags kravchuk_leonid,poklon,priglashenie,putin_vladimir,rossia,ukraina,vojna,vstrecha,zelenskii_vladimir
+page
+	set url https://sharij.net/takoj-temy-ne-sushhestvuet-putin-otkazalsya-obsuzhdat-krym-s-zelenskim
+	set tags dip_otnoshenia,donbass,krym,obsuzhdenie,priglashenie,putin_vladimir,rossia,ukraina,vstrecha,zelenskii_vladimir
+page
+	set url https://sharij.net/predostavlenie-ispanskim-gosudarstvom-ubezhishha-vsej-ego-seme-anatolij-sharij-poluchil-podderzhku-ot-pravitelstva-katalonii
+	set tags ispania,katalonia,nacionalist,nacizm,neonazi,podderzhka,politicheskoje_ubezhische,presledovanie,sharij_analotij,sharij_olga,svoboda,ugrozy,ukraina
+page
+	set url https://sharij.net/ukrainczev-predupredili-o-masshtabnoj-mirovoj-kiberatake
+	set tags hakery,it,kiberataka,kiberpolicia,preduprezhdenie,qnap.ustrojstvo,ukraina
+page
+	set url https://gazeta.ua/articles/world-life/_dopomig-rozvaliti-srsr-i-peredav-vladu-lyudini-yaka-za-nim-nostalguye/1027801
+	set tags 23_apr,elcin_boris,gorbachev_mihail,istoria,nostalgia,putin_vladimir,rossia,smert,sssr,vlast
+page
+	set url https://gazeta.ua/articles/edu-and-science/_dzhek-london-virushiv-u-navkolosvitnyu-podorozh/1027903
+	set tags 23_apr,istoria,jachta,kniga,kniga.martin_iden,krugosvetka,kultura,literatura,london_jack,pisatel,usa,1907
+page
+	set url https://gazeta.ua/blog/54967/urij-vinnichuk-vidav-novij-retrodetektiv-najvazhlivishij-personazh-knizhki-lviv
+	set tags detektiv,kniga,kultura,literatura,lvov,recenzia,ukraina,vynnychuk_jurij.ukr.pisatel
+page
+	set url https://gazeta.ua/articles/cookery/_kosmichni-velikodni-yajcya-zacharovuyut-yaskravi-foto/1027912
+	set tags _important,kosmos,krashanka.jajco,pysanka.jajco,ukraina,velykden'
+page
+	set url https://gazeta.ua/articles/house/_pohvalitisya-pered-ridneyu-yak-stilno-prikrasiti-pashalnij-stil/1025858
+	set tags prazdnik,pysanka.jajco,ukraina,velykden'
+page
+	set url https://gazeta.ua/blog/54966/putin-znuschavsya-nad-zelenskim-a-ne-proponuvav-zustritisya
+	set tags priglashenie,putin_vladimir,rossia,ukraina,unizhenie,vstrecha,zelenskii_vladimir
+page
+	set url https://gazeta.ua/blog/54965/kreml-domigsya-svogo-i-vidkladaye-vijnu-ale-majbutnye-trivozhne
+	set tags future,kreml,rossia,trivoga,ukraina,vojna
+page
+	set url https://gazeta.ua/blog/54964/zelenskij-vtishiv-nas-miloyu-kazochkoyu-rozkazanoyu-milim-golosom-milim-idiotam
+	set tags eskalacia,idiot,rossia,skazka,ugroza,ukraina,uteshenie,vojna,zelenskii_vladimir
+page
+	set url https://from-ua.com/articles/596949-vodnoe-proklyatie-ukraini.html
+	set tags navodnenie,prokljatie,strana,ukraina,voda,vopros,zasuha
+page
+	set url https://plus.obozrevatel.com/crime/garmash-putin-sdulsya-emu-pora-otvodit-vojska-ot-granits-s-ukrainoj.htm
+	set tags armia,garmash_sergej.tkg,nastuplenie,otvod_vojsk,putin_vladimir,rossia,strah,ukraina,vsu,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/politics/strana-balabolov-proveryala-u-granits-ukrainyi-svoyu-armiyu-na-trezvost.htm
+	set tags armia,balabol,granica,proverka,rossia,trezvost,ukraina
 eof
 off
 page

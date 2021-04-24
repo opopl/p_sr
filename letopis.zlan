@@ -22780,6 +22780,9 @@ page
 page
 	set url https://strana.ua/news/330063-chislo-privivok-ot-koronavirusa-covid-19-v-mire-dostihlo-prevysilo-milliard.html
 	set tags covid,milliard,planeta,ukraina,vaccinacia,vaccine
+page
+	set url https://lgaki.info/novosti/vystavku-nauchnyh-dostizhenij-studentov-i-prepodavatelej-predstavili-v-akademii-matusovskogo/
+	set tags biblioteka,isskustvo,kniga,lgaki,lnr,lugansk,studenty,vystavka
 eof
 off
 page

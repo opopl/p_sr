@@ -22726,6 +22726,60 @@ page
 page
 	set url https://strana.ua/opinions/330048-sokrashchenija-v-nekotorykh-sferakh-prosto-porazhajut-voobrazhenie.html
 	set tags ekonomika,lockdown,rabota,sluga_naroda,sokraschenie.rabota,sotrudnik,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/330050-putin-prepodal-zelenskomu-urok-politicheskoho-dzjudo.html
+	set tags dzjudo,politika,putin_vladimir,ukraina,urok,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/330052-nastojashchie-patrioty-ne-otkazyvajutsja-ot-vaktsin-v-ushcherb-svoemu-narodu.html
+	set tags belgrad,covid,rossia,serbia,sputnik_v,ukraina,vaccinacia,vaccine
+page
+	set url https://strana.ua/news/330071-dipvedomstva-ssha-v-turtsii-predupredili-o-vozmozhnykh-demonstratsijakh-i-aktsijakh-protestov.html
+	set tags biden_joe,genocid,genocid.armjan.turcia,priznanie,turcia,usa
+page
+	set url http://lug-info.com/news/one/okolo-130-khudozhnikov-lnr-dnr-i-rf-prinyali-uchastie-v-konkurse-risunka-v-lgaki-foto-67010
+	set tags dnr,hudozhnik,konkurs,lgaki,lnr,lugansk,risunok,rossia
+page
+	set url https://www.pravda.com.ua/articles/2021/04/24/7291355/
+	set tags korupcia,obezjana,politika,primat,seks,ukraina,vlast
+page
+	set url https://www.pravda.com.ua/articles/2021/04/23/7291221/
+	set tags chernobyl,gorod,griby,kostenko_lina,obschestvo,pripjat,samosel,smert,ukraina,zhizn
+page
+	set url https://life.pravda.com.ua/culture/2021/04/24/244663/
+	set tags bojevyje_isskustva,krym,mamutov_sulejman.sportmen.ukr,rossia,sport,stavropol,ukraina,voin_sveta
+page
+	set url https://blogs.pravda.com.ua/authors/avakov/6083f37a262f0/
+	set tags 1915,24_apr,armenia,chelovek,genocid,genocid.armjan.turcia,golokost,humanity,imperia_osmanskaja,istoria,kostenko_lina,maidan2,nebesna_sotnja,nigojan_sergei,papa_rimskij,ukraina,urok
+page
+	set url https://blogs.pravda.com.ua/authors/gajdajchuk/60811a1dd3983/
+	set tags energetika,future,ukraina
+page
+	set url https://112ua.tv/mnenie/poka-zhdem-gnev-chelovecheskiy-pyat-luchshih-roley-dzheysona-steytema-575363.html
+	set tags film,film.gnev_chelovecheskij.usa,kino,kultura,usa
+page
+	set url https://lenta.ru/articles/2021/04/25/guillotine/
+	set tags 1792,25_apr,francia,giljotina,istoria,kazn,parizh.grevskaja_ploschad,smert
+page
+	set url https://lenta.ru/news/2021/04/24/rektor/
+	set tags mertvyje_dushi,obrazovanie,rossia,sud
+page
+	set url https://lenta.ru/news/2021/04/24/sputnik/
+	set tags covid,effektivnost',rossia,sputnik_v,vaccine,venezuela
+page
+	set url https://www.radiosvoboda.org/a/epifaniy-vsi-pravoslavni-parafiyi-v-ukrayini-nalezhat-ptsu/31219904.html
+	set tags cerkov,epifanij.mitropolit.pcu,pcu,rossia,ukraina,upc,vera
+page
+	set url https://www.radiosvoboda.org/a/news-dnipro-strilianyna-vbyvstvo/31220875.html
+	set tags dnepropetrovsk,murder,policia,ubijca,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/poyavilis-podrobnosti-ubijstva-mamedova-v-dnepre-video.htm
+	set tags dnepropetrovsk,kriminal,mamedov_anar.murder.dnepr,murder,ubijstvo,ukraina
+page
+	set url https://strana.ua/news/295565-posolstvo-ssha-zapretilo-brat-rossijskuju-vaktsinu-ot-koronavirusa-reaktsija-seti.html
+	set tags covid,kvin_kristina.posol.usa,sputnik_v,stepanov_maksim,ukraina,us_embassy,vaccine,zapret
+page
+	set url https://strana.ua/news/330063-chislo-privivok-ot-koronavirusa-covid-19-v-mire-dostihlo-prevysilo-milliard.html
+	set tags covid,milliard,planeta,ukraina,vaccinacia,vaccine
 eof
 off
 page

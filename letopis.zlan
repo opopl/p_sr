@@ -22699,6 +22699,9 @@ page
 page
 	set url https://strana.ua/news/102703-video-kak-v-kieve-rufer-rdi-zalez-na-juzhnyj-most.html
 	set tags bezrassudstvo,juzhnyj_most.kiev,kiev,most,risk,rufer,strahovka.alpinizm,ukraina
+page
+	set url https://news.rambler.ru/caucasus/41548245-300-ne-nado-hvatit-i-odnogo-chto-pisali-evropeyskie-smi-pro-russkogo-soldata-ostanovivshego-kolonnu-gruzinskogo-spetsnaza/
+	set tags 300_spartancev,300_spartancev.ne_nado_hvatit_i_odnogo,_important,geroizm,gruzia,osetia.juzhnaja,rossia,vojna
 eof
 off
 page

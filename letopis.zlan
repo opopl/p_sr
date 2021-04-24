@@ -22622,6 +22622,9 @@ global
 page
 	set url https://www.radiosvoboda.org/a/pozezha-muzey-tiurma-na-lontskoho/31219640.html
 	set tags muzej,arhiv,biblioteka,evropa,istoria,katuvannja,lvov,oun,pozhar,sbu,spasenie,svoboda,tjurma,ukraina,upa
+page
+	set url https://www.radiosvoboda.org/a/news-putin-ubyvcya-aushtryavichus/31219503.html
+	set tags 2014,chehia,es,evropa,evroparlament,gru.rossia,putin_vladimir,razvedka,rossia,ubijca.serijnyj
 eof
 off
 page

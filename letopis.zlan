@@ -22537,6 +22537,9 @@ page
 page
 	set url https://mybook.ru/author/yurij-berkov-2/narodnaya-mudrost-poslovicy-pogovorki-aforizmy-shu/read/
 	set tags kniga,poslovica
+page
+	set url https://uposter.ru/blog/yumor/11507.html
+	set tags jumor
 eof
 off
 page

@@ -22564,6 +22564,64 @@ page
 page
 	set url https://strana.ua/opinions/329974-vjatrovich-khochet-chtoby-ulitsa-bandery-byla-v-kazhdom-horode.html
 	set tags bandera_stepan,dekomunizacia,geroizm,hotelka,istoria,lenin_vladimir,pereimenovanija,sssr,strana,ukraina,vjatrovich_vladimir,zhelanie
+page
+	set url https://strana.ua/opinions/329971-ukrainskij-hosapparat-eto-kashchej-bessmertnyj.html
+	set tags chinovnik,ekonomika,gosapparat,kaschej_bessmertnyj,korenj,obschestvo,problemy,ukraina
+page
+	set url https://strana.ua/opinions/329968-mezhdunarodnoe-ahentstvo-uvidelo-risk-defolta-ukrzaliznntsy.html
+	set tags defolt,drezina,ekonomika,kredit,kukuruza,risk,ugroza,ukraina,ukrzaliznycia
+page
+	set url https://strana.ua/opinions/329941-luchshe-by-shvabrami-vooruzhilis-chleny-nabljudatelnoho-soveta-ukrzaliznitsy.html
+	set tags dania,perfomans,shvabra,ukraina,ukrzaliznycia
+page
+	set url https://strana.ua/opinions/329959-ukraina-zamykaet-pervuju-sotnju-stran-v-rejtinhe-svobody-slova.html
+	set tags fraza,korupcia,obschestvo,rejting,svoboda_slova,ukraina,zaschita,zhurnalist
+page
+	set url https://strana.ua/opinions/329939-kak-nam-dobitsja-chtoby-prostaja-rabota-ne-byla-obidnoj.html
+	set tags obida,obschestvo,prostota,psihologia,rabota,styd,ukraina
+page
+	set url https://strana.ua/opinions/329938-ukrainskij-pravjashchij-klass-vyvel-unikalnuju-formulu-svobody.html
+	set tags angel,formula,hamstvo,rossia,svinja,svoboda,ukraina,zapad
+page
+	set url https://strana.ua/opinions/329937-nju-jork-tajms-sluchajno-razoblachila-tekh-kto-vedet-obstrely-na-donbasse.html
+	set tags avdeevka.donbass,dobrovolec,donbass,fraza.kosti_russko_jazychnyh_detej,gazeta.nyt.usa,kocjubajlo_dmitrij.ukr.prav_sektor,pravyj_sektor,reportazh,ukraina,vojna
+page
+	set url https://strana.ua/opinions/329923-prodolzhenie-filma-tupoj-i-eshche-tupee-nuzhno-snimat-v-ukraine.html
+	set tags belaja_cerkov.ukr.gorod,film,policaj,putin_vladimir,rossia,ss_galichina,tupost,ukraina,vojna
+page
+	set url https://strana.ua/opinions/329921-sut-ofitsialnoj-publichnoj-ukrainskoj-politiki-odnim-slovom-eto-isterichnost.html
+	set tags isterichnost,licemerie,obschestvo,politika,teatr,ukraina
+page
+	set url https://strana.ua/opinions/329920-kto-s-kem-dolzhen-vstretitsja-i-hde.html
+	set tags kiev,moskva,putin_vladimir,rossia,ukraina,vopros,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/news/329773-vstrecha-zelenskoho-i-putina-khronolohija-popytok-provesti-telefonnyj-razhovor-i-prihlashenij.html
+	set tags dnr,donbass,lnr,peregovory,putin_vladimir,rekomendacia,rezultat,rossia,ukraina,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/news/325591-putin-makron-i-merkel-sozvonilis-po-donbassu-bez-zelenskoho-chto-eto-oznachaet.html
+	set tags francia,germania,normandskaja_chetverka,peregovory,pochemu,putin_vladimir,rossia,sozvon,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/325586-o-chem-hovorili-vo-makron-i-merkel-posle-obshchenija-s-putinym.html
+	set tags covid,donbass,evropa,francia,germania,makron_emmanuel.prezident.francia,merkel_angela,peregovory,rossia,sozvon,sputnik_v,ukraina,vaccine,vojna
+page
+	set url https://www.radiosvoboda.org/a/ukraine-russia-crimea-conflict-war/31219237.html
+	set tags poisk,provokacia,putin_vladimir,rossia,slabost',ukraina,vojna,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/shcho-zadeklaruvaly-deputaty-za-2020-rik/31217561.html
+	set tags 2020,bitkoin,bogatstvo,deklaracia,dengi,deputat,finansy,lotereja,nalichka,poroshenko_petr,ukraina
+page
+	set url https://www.radiosvoboda.org/a/likvidacia-vecirnih-skil-u-dnipri/31219713.html
+	set tags deti,dnepropetrovsk,obrazovanie,psih_travma,psihologia,shkola,shkola.vechernjaja,tvorchestvo,ukraina,zakon,zakrytie
+page
+	set url https://www.radiosvoboda.org/a/srsr-karalna-psyhiatriya-cvidchennya-vetohin-shatravka/31213175.html
+	set tags 1963,chelovek,dnepropetrovsk,hruschov_nikita,istoria,kgb,konclager,krym,nakazanie,psihbolnica,psihiatria.karatelnaja,socializm,sssr,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://www.radiosvoboda.org/a/pozezha-muzey-tiurma-na-lontskoho/31219640.html
+	set tags muzej,arhiv,biblioteka,evropa,istoria,katuvannja,lvov,oun,pozhar,sbu,spasenie,svoboda,tjurma,ukraina,upa
 eof
 off
 page

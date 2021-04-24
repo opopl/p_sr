@@ -22528,9 +22528,6 @@ page
 page
 	set url https://fraza.com/fraze/300032-sonja-koshkina
 	set tags fraza,koshkina_sonja.ukraina,tischenko_nikolai.deputat,ukraina
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://time365.info/aforizmi/temi/rodina
 	set tags _important,fraza,rodina
@@ -22540,6 +22537,30 @@ page
 page
 	set url https://uposter.ru/blog/yumor/11507.html
 	set tags jumor
+page
+	set url https://strana.ua/articles/private-life/329892-tina-karol-peresela-na-novenkij-range-rover-za-3-milliona-hriven.html
+	set tags avto,bogatstvo,karol_tina.ukr.pevica,showbiz,ukraina,vinnik_oleg.pevec
+page
+	set url https://kiev.strana.ua/329935-v-kieve-muzhchina-vypryhnul-s-vosmoho-etazha-i-razbilsja-ob-kozyrek-mahazina-foto.html
+	set tags kiev,magazin,muzhchina,nogi,policia,popytka,smert,suicid,ukraina
+page
+	set url https://strana.ua/news/323413-novocheboksarske-pjatiklassnik-makar-spryhnul-s-23-etazha.html
+	set tags chuvashia.rossia,deti,obeschanie,pacan,popytka,reanimacia,rossia,shkola,slovo,slovo_pacana,spasenie,suicid,travma
+page
+	set url https://kiev.strana.ua/323098-v-kieve-vybrosilsja-s-balkona-bolnoj-rakom-starik.html
+	set tags 82_goda,bolnica,kiev,onkologia,pensioner,smert,starik,suicid,ukraina
+page
+	set url https://odessa.strana.ua/319695-v-odesse-devochku-podrostka-pereekhal-poezd.html
+	set tags devochka,odessa,poezd,policia,smert,suicid,ukraina
+page
+	set url https://strana.ua/news/329956-ssha-mohut-priznat-henotsid-armjan-kakovy-posledstvija-dlja-mira-i-ukrainy-.html
+	set tags armenia,bajraktar,biden_joe,chingachkuk,genocid,genocid.armjan.turcia,imperia_osmanskaja,otvet,priznanie,turcia,ukraina
+page
+	set url https://strana.ua/news/329952-youtube-kanaly-zik-112-i-newsone-zablokirovali.html
+	set tags 112ua,blokirovanie,cenzura,internet,kozak_taras,newsone,presledovanie,rnbo,sankcii,telekanal,ukraina,youtube,zapret,zik
+page
+	set url https://strana.ua/opinions/329989-nashe-informprostranstvo-apelliruet-k-emotsijam-a-ne-k-razumu.html
+	set tags cennosti,emocii,informacia,infprostir,korupcia,logos,obschestvo,obsuzhdenie,putin_vladimir,razum,ukraina,vtorzhenie
 eof
 off
 page

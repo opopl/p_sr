@@ -22561,6 +22561,9 @@ page
 page
 	set url https://strana.ua/opinions/329989-nashe-informprostranstvo-apelliruet-k-emotsijam-a-ne-k-razumu.html
 	set tags cennosti,emocii,informacia,infprostir,korupcia,logos,obschestvo,obsuzhdenie,putin_vladimir,razum,ukraina,vtorzhenie
+page
+	set url https://strana.ua/opinions/329974-vjatrovich-khochet-chtoby-ulitsa-bandery-byla-v-kazhdom-horode.html
+	set tags bandera_stepan,dekomunizacia,geroizm,hotelka,istoria,lenin_vladimir,pereimenovanija,sssr,strana,ukraina,vjatrovich_vladimir,zhelanie
 eof
 off
 page

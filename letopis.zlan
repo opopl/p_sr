@@ -22528,6 +22528,15 @@ page
 page
 	set url https://fraza.com/fraze/300032-sonja-koshkina
 	set tags fraza,koshkina_sonja.ukraina,tischenko_nikolai.deputat,ukraina
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://time365.info/aforizmi/temi/rodina
+	set tags _important,fraza,rodina
+page
+	set url https://mybook.ru/author/yurij-berkov-2/narodnaya-mudrost-poslovicy-pogovorki-aforizmy-shu/read/
+	set tags kniga,poslovica
 eof
 off
 page

@@ -22663,6 +22663,42 @@ page
 page
 	set url https://plus.obozrevatel.com/crime/kak-rossiya-vozila-snaryadyi-na-donbass-rassledovanie.htm
 	set tags bojepripas,donbass,oruzhie,perevozka,railways,rassledovanie,rossia,ukraina
+page
+	set url https://strana.ua/news/329832-devjataev-film-2021-istorija-letchika-hlavnyj-heroj-pavel-priluchnyj-pesnja-till-lindemann-.html
+	set tags 1939,1944,avia,bekmambetov_timur.rezhisser,bernes_mark,chernobyl.film.kozlovskij_danila,devjataev_mihail.letchik.sssr.1917_2002,dolmatovskij_evgenij,film,film.istrebiteli.1940.sssr,istrebitel,kino,kinoprokat,konclager,letchik_istrebitel,rammstein.gruppa,rossia,rusmir,sssr,ukraina,vov
+page
+	set url https://dnepr.strana.ua/330005-v-tsentre-dnepra-killer-v-maske-rasstreljal-cheloveka-video.html
+	set tags dnepropetrovsk,killer,kriminal,maska,murder,rasstrel,smert,ukraina
+page
+	set url https://dnepr.strana.ua/325622-v-dnepre-propavsheho-v-ponedelnik-direktora-oruzhejnoho-mahazina-nashli-sozhzhennym-v-avto.html
+	set tags dnepropetrovsk,kriminal,murder,ukraina
+page
+	set url https://strana.ua/news/323887-v-donetskoj-oblasti-muzhchina-ubil-sobstvennuju-mat-.html
+	set tags doneck_obl.ukraina,mater,murder,rabota,syn,trup,ukraina,policia
+page
+	set url https://strana.ua/news/323141-v-sele-pod-tambovom-televizor-ubil-pjaterykh-chelovek.html
+	set tags gaz.ugarnyj,rossia,smert,tambov,televizor,tragedia,vzryv
+page
+	set url https://strana.ua/news/109041-v-rossii-soobshchili-o-hibeli-rufera-pohrebova.html
+	set tags pogrebov_sasha.rufer,raskraska,rossia,rufer,smert,ukraina,zvezda.sssr,zvezda.sssr.na_zdanii,moskva
+page
+	set url https://strana.ua/news/31918-sud-naznachil-kompensaciyu-ruferam-pokrasivshim-v-cveta-ukrainskogo-flaga-zvezdu-na-moskovskoj-vysot.html
+	set tags kompensacia,moskva,obvinenie,opravdanie,raskraska,rossia,rufer,sud,vysotka
+page
+	set url https://www.pravda.com.ua/news/2021/04/24/7291438/
+	set tags chehia,chlen_polovoj,dip_otnoshenia,estonia,hamstvo,jumor,latvia,litva,mid_rf,nasmeshka,rossia,smeh,twitter,vysylka_diplomatov
+page
+	set url https://www.eurointegration.com.ua/news/2021/04/24/7122545/
+	set tags demokratia,es,inoagent,meduza_io,rossia
+page
+	set url http://lug-info.com/news/one/uchastniki-aktsii-begi-vmesto-menya-sobrali-bolee-230-tys-rub-dlya-detei-invalidov-stakhanova-foto-66998
+	set tags beg,blagotvoritelnost,fizkultura,invalid,lnr,marafon,mir_luganschine,nagrazhdenie,reabilitacia,rossia,stahanov.lnr,zabeg,zdorovje
+page
+	set url http://lug-info.com/news/one/bolee-70-sportsmenov-iz-lnr-sekhalis-v-lugansk-na-sorevnovaniya-po-klassicheskomu-zhimu-lezha-foto-67000
+	set tags chempionat,dinamo.lnr.fso_mvd,lnr,lugansk,nagrazhdenie,powerlifting,sorevnovanie,sport,zhim_lezha
+page
+	set url https://strana.ua/news/102703-video-kak-v-kieve-rufer-rdi-zalez-na-juzhnyj-most.html
+	set tags bezrassudstvo,juzhnyj_most.kiev,kiev,most,risk,rufer,strahovka.alpinizm,ukraina
 eof
 off
 page

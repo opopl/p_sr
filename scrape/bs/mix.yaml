@@ -30,25 +30,26 @@ include:
     - news.nvr.voshod_info
 
 ###news_ru
-    #- news.ru.ria_kalm
+    - news.ru.aif
     - news.ru.allcrimea_net
     - news.ru.donbasstoday
     - news.ru.eadaily
     - news.ru.inosmi
-    - news.ru.aif
     - news.ru.izvestia
-    - news.ru.rusvesna
-    #- news.ru.kp
+    - news.ru.kp
     - news.ru.lenta
+    - news.ru.life 
     - news.ru.meduza
     - news.ru.mirtesen
-    #- news.ru.life 
     - news.ru.newsfront
-    #- news.ru.novgorod
+    - news.ru.novgorod
     - news.ru.pikabu
+    - news.ru.rambler
     - news.ru.regnum
     - news.ru.ria
+    - news.ru.ria_kalm
     - news.ru.ria_kursk
+    - news.ru.rusvesna
     - news.ru.smotrim
     - news.ru.stapravda
     - news.ru.ukraina

@@ -1,10 +1,7 @@
 
 sel:
   clean:
-    - .b__popular-article
   only:
-    - header
-    - article
   keep:
 
 fetch:
@@ -24,12 +21,13 @@ PageParser:
       - { 
           # css selector
           'find'  : '',
-          'get'   : 'attr',
-          'attr'  : '',
+          'get'   : 'text',
+          #'get'   : 'attr',
+          #'attr'  : '',
           # split date string
-          'split' : ' ',
+          #'split' : ' ',
           # used by dateparser.parse()
-          'order' : 'YMD',
+          'order' : 'DMY',
         }
   get_author:
     tries:
@@ -38,9 +36,7 @@ PageParser:
     sels:
       - { 
           'search' : {
-              'css'   : [ 
-                '.article-info .b-author' 
-              ],
+              'css'   : [ '' ],
               'map' : {
                   'name' : 'text',
                   'url'  : { 
@@ -51,7 +47,7 @@ PageParser:
              'text' : {
                'lines' : {
                   'match' : { 
-                      'pat'   : '(.*),\s*для "Хвилі"\s*$',
+                      'pat'   : 'Текст:\s+(.*)$',
                       'name'  : 1,
                       'split' : ',',
                   }

@@ -22702,6 +22702,30 @@ page
 page
 	set url https://news.rambler.ru/caucasus/41548245-300-ne-nado-hvatit-i-odnogo-chto-pisali-evropeyskie-smi-pro-russkogo-soldata-ostanovivshego-kolonnu-gruzinskogo-spetsnaza/
 	set tags 300_spartancev,300_spartancev.ne_nado_hvatit_i_odnogo,_important,geroizm,gruzia,osetia.juzhnaja,rossia,vojna
+page
+	set url https://www.kp.ru/daily/26201.7/3087658/
+	set tags armia,bankomat,bronetransporter,fraza.idite_s_bogom,krym,krym.2014.hronika,rossia,svjaschennik,svjataja_voda,ukraina,vsu,zelenyje_chelovechki
+page
+	set url https://analytics.hvylya.net/229345-oni-i-my-o-chem-umalchivayut-sociologi
+	set tags demos,obschestvo,ohlos,sociologia,ukraina
+page
+	set url https://strana.ua/news/329972-youtube-zablokiroval-zik-newsone-i-112-kanaly-chto-eto-oznachaet.html
+	set tags blokirovanie,cenzura,google,internet,rnbo,tkachenko_aleksandr,ukraina,youtube,zelenskii_vladimir
+page
+	set url https://kiev.strana.ua/330060-restorany-kieva-prinimaju-hostej-vo-vremja-lokdauna-iz-za-situatsii-s-koronavirusom.html
+	set tags covid,karantin,kiev,lockdown,narushenie,restoran,restoran.avalon.kiev,strana_ua,ukraina
+page
+	set url https://strana.ua/opinions/330002-vlast-zaputalas-mezhdu-kriminalizatsiej-i-dekriminalizaiej.html
+	set tags dekriminalizacia,finansy,kiev,kontrabanda,kriminalizacia,ukraina,verhovna_rada,zakon
+page
+	set url https://strana.ua/opinions/330008-eto-zhe-tak-vyhodno-razvorovyvat-stranu-i-vo-vsem-vinit-putina.html
+	set tags putin_vladimir,ukraina,usa,vorovstvo
+page
+	set url https://strana.ua/opinions/330044-za-vesnu-nam-tozhe-blahodprit-zelenskoho-i-ermaka.html
+	set tags granica,jermak_andrej,ofis_prezidenta,rossia,uchenija,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/330048-sokrashchenija-v-nekotorykh-sferakh-prosto-porazhajut-voobrazhenie.html
+	set tags ekonomika,lockdown,rabota,sluga_naroda,sokraschenie.rabota,sotrudnik,ukraina,zelenskii_vladimir
 eof
 off
 page

@@ -22615,16 +22615,54 @@ page
 page
 	set url https://www.radiosvoboda.org/a/srsr-karalna-psyhiatriya-cvidchennya-vetohin-shatravka/31213175.html
 	set tags 1963,chelovek,dnepropetrovsk,hruschov_nikita,istoria,kgb,konclager,krym,nakazanie,psihbolnica,psihiatria.karatelnaja,socializm,sssr,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://www.radiosvoboda.org/a/pozezha-muzey-tiurma-na-lontskoho/31219640.html
 	set tags muzej,arhiv,biblioteka,evropa,istoria,katuvannja,lvov,oun,pozhar,sbu,spasenie,svoboda,tjurma,ukraina,upa
 page
 	set url https://www.radiosvoboda.org/a/news-putin-ubyvcya-aushtryavichus/31219503.html
 	set tags 2014,chehia,es,evropa,evroparlament,gru.rossia,putin_vladimir,razvedka,rossia,ubijca.serijnyj
+page
+	set url https://www.radiosvoboda.org/a/dochka-upivtsiv-cherez-70-rokiv-zmohla-prochytaty-zashyfrovanyy-akt-vinchannya-svoyikh-batkiv/30884505.html
+	set tags 1950,78_let,kryjivka,lvov,muzej,pamjat,roditeli,shifr,shifrovanie,ukraina,upa,venchanie
+page
+	set url https://www.radiosvoboda.org/a/sluha-narodu-shevchenko-i-lukashenko/31219909.html
+	set tags belarus,diktator,druzhba,evropa,lukashenko_aleksandr,shevchenko_evgenii,ukraina,vstrecha
+page
+	set url https://zaxid.net/ukrayinskiy_bekvokal_kremlya_n1517892
+	set tags bekvokal,kreml,otvraschenie,poroshenko_petr,propaganda,rossia,ukraina
+page
+	set url https://news.obozrevatel.com/society/detej-razbrosalo-po-doroge-pod-dneprom-zhenschina-voditel-sbila-shkolnikov-oni-v-kome.htm
+	set tags avaria,bolnica,deti,devushka,dnepropetrovsk,dtp,koma,molodezh,tragedia,ukraina,zebra.perehod_peshehod
+page
+	set url https://plus.obozrevatel.com/crime/v-okkupirovannoj-gorlovke-proveli-urok-pamyati-eks-glavarya-dnr-zaharchenko-video.htm
+	set tags deti,devushka,dnr,donbass,gorlovka,iskrennost,krasavica,muzyka,pamjat,patriotizm,propaganda,shtefan_anatolij.ukraina.vsu,urok,vojna,zaharchenko_aleksandr
+page
+	set url https://news.obozrevatel.com/russia/oreshkin-ukraina-ushla-ot-rossii-i-ne-vernetsya-putin-obizhen.htm
+	set tags nikogda,obida,oreshkin_dmitrij.ukr.politolog,putin_vladimir,rossia,ukraina,vlijanie,vozvraschenie,zapad
+page
+	set url https://news.obozrevatel.com/society/angel-spasitel-dal-shans-na-zhizn-troim-ukraintsam.htm
+	set tags angel,deti,institut_shalimova,kiev,medicina,nacgvardia,nadezhda,ohmatdet.bolnica,podvig,samolet,spasenie,spasitel,transplantacia,transplantologia,ukraina,zaporozhie
+page
+	set url https://news.obozrevatel.com/politics/skazal-slugam-to-chto-hotyat-skazat-millionyi-vami-podterlis-a-vyi-molchite.htm
+	set tags frakcia,hamstvo,skandal,sluga_naroda,tischenko_nikolai.deputat,ukraina,verhovna_rada,vozmuschenie
+page
+	set url https://news.obozrevatel.com/society/bananyi-v-sssr-defitsit-kotoryij-dostavali-s-boem.htm
+	set tags banan,deficit,eda,frukt,istoria,obschestvo,sssr
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-ya-grivnyami-hochu-zaplatit-a-ne-etimi-fantikami.htm
+	set tags fantik,grivna,krym,krymnash,novosti,rossia,zhelanie
+page
+	set url https://news.obozrevatel.com/society/vyivezli-v-druguyu-stranu-otobrali-pasport-o-rabotorgovle-v-ordlo.htm
+	set tags donbass,postavka,rabotorgovlja,rabstvo,rossia
+page
+	set url https://news.obozrevatel.com/politics/tischenko-i-shevchenko-nuzhno-pinkom-pod-zhpu-gnat-oni-pozoryat-zelenskogo-gordon.htm
+	set tags gordon_dmitrii,pozor,shevchenko_evgenii,spravedlivost,tischenko_nikolai.deputat,ukraina,zelenskii_vladimir,zhopa
+page
+	set url https://news.obozrevatel.com/politics/lukashenko-razreshit-peredavat-prezidentskie-polnomochiya-sovbezu-nazvanyi-usloviya.htm
+	set tags belarus,dekret,lukashenko_aleksandr,reshenie,ubijstvo
+page
+	set url https://plus.obozrevatel.com/crime/kak-rossiya-vozila-snaryadyi-na-donbass-rassledovanie.htm
+	set tags bojepripas,donbass,oruzhie,perevozka,railways,rassledovanie,rossia,ukraina
 eof
 off
 page

@@ -22891,6 +22891,12 @@ page
 page
 	set url https://zhenziyou.livejournal.com/17077.html
 	set tags istoria,rossia,rusmir,slovo.rossia,vizantia
+page
+	set url https://strana.ua/news/330167-vertoletingenuity-prislal-pervoe-tsvetnoe-foto-s-marsa-.html
+	set tags foto,kosmos,mars,nasa,usa,vertolet
+page
+	set url https://strana.ua/news/329095-zelenskij-nazval-imja-ukraintsa-uchastvovavsheho-v-razrabotke-vzletevsheho-na-marse-vertoleta.html
+	set tags _important,kosmos,marsohod,ukraina,vertolet.ingenuity.mars,zelenskii_vladimir
 eof
 off
 page

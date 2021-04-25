@@ -22897,6 +22897,33 @@ page
 page
 	set url https://strana.ua/news/329095-zelenskij-nazval-imja-ukraintsa-uchastvovavsheho-v-razrabotke-vzletevsheho-na-marse-vertoleta.html
 	set tags _important,kosmos,marsohod,ukraina,vertolet.ingenuity.mars,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/330166-samolet-iz-kieva-poletel-nad-territoriej-rossii-a-chto-tak-mozhno-bylo.html
+	set tags dubaj,kiev,rossia,samolet,ukraina
+page
+	set url https://strana.ua/news/330169-venhrija-priznala-sputnik-v-luchshej-vaktsinoj-ot-koronavirusa.html
+	set tags bezopasnost',covid,rossia,sputnik_v,vaccine,vengria
+page
+	set url https://arestovich.fandom.com/ru/wiki/%D0%91%D0%B0%D1%83%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B5%D1%80,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%9E%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D1%87
+	set tags arestovich_aleksei,baumejster_andrej.filosof.kiev,biografia
+page
+	set url https://www.radiosvoboda.org/a/petro-sahaydachny-poliaky-moskoviya/31217162.html
+	set tags istoria,moskva,rossia,rusmir,sagajdachnyj.getman,ukraina
+page
+	set url https://strana.ua/articles/istorii/330161-35-hodovshchina-avarii-na-chernobylskoj-aes-5-mifov-o-chernobyle-v-kotorye-verjat-do-sikh-por.html
+	set tags 35_let,chaes,istoria,katastrofa,mif,sssr,ukraina
+page
+	set url https://strana.ua/opinions/330176-zapad-prosto-ne-znaet-cheho-on-khochet-v-ukraine.html
+	set tags cennosti,rossia,ukraina,zapad
+page
+	set url https://strana.ua/opinions/330179-nehativnoe-otnoshenie-iz-za-rodnoho-jazyka-eto-fakt-ukrainskoj-zhizni.html
+	set tags language.native,socopros,ukraina
+page
+	set url https://strana.ua/news/123266-ukrainskij-himnast-vernjaev-zajavil-chto-emu-uhrozhajut-iz-za-objatij-s-rossijanami.html
+	set tags foto,medal,sport,ugroza,ukraina
+page
+	set url https://life.pravda.com.ua/culture/2021/04/25/244668/
+	set tags chaes
 eof
 off
 page

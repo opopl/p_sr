@@ -22786,6 +22786,111 @@ page
 page
 	set url https://lgaki.info/novosti/maksi-sbrosheny-maski-nadety-v-akademii-otkrylsya-v-molodezhnyj-teatralnyj-festival-arteast/
 	set tags dnr,lgaki,lnr,lugansk,maska,molodezh,rossia,teatr
+page
+	set url https://strana.ua/news/330089-zelenskoho-prihlasili-v-moskvu-dolzhen-li-on-ekhat-opros-antoniny-belohlazovoj-v-kieve.html
+	set tags kiev,kievljane,ludi,mars,mir,opros,peregovory,putin_vladimir,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/330132-v-belarusi-sajt-mestnoj-aes-vzlomali-khakery-foto.html
+	set tags aes,atomic_energy,belarus,hakery,vzlom,energetika
+page
+	set url https://kiev.strana.ua/330112-pensioner-v-kieve-pytalsja-utopitsja-eho-spasli-video.html
+	set tags chelovek,kiev,pensioner,spasenie,suicid,ukraina,voda
+page
+	set url https://strana.ua/news/293414-pod-khersonom-mat-brosilas-v-kanal-vmeste-s-bolnym-synom-rebenok-utonul-a-ona-spaslas.html
+	set tags deti,herson,mater,murder,rebenok,smert,ukraina,utoplenie
+page
+	set url https://strana.ua/opinions/330128-na-stradanija-ljudej-kak-takovye-zapadu-prosto-plevat.html
+	set tags 1933,chelovek,ludi,politika,sssr,stradanie,ukraina,usa,zapad
+page
+	set url https://strana.ua/news/330107-v-ukraine-nachali-delat-vodku-vaktsina.html
+	set tags ekonomika,ukraina,vaccinacia,vaccine,vodka,vodka.vaccina,alkogol
+page
+	set url https://strana.ua/opinions/330073-kompanija-huhl-podmakhnula-akt-politicheskoj-tsenzury.html
+	set tags cenzura,google,telekanal,tkachenko_aleksandr,tv,ukraina,youtube,zapret
+page
+	set url https://strana.ua/opinions/330074-kohda-liberaly-hovorjat-o-svobode-slova-pomnite-politruk-vret.html
+	set tags politruk,svoboda_slova,telenakaly,ukraina,vranje,youtube
+page
+	set url https://strana.ua/opinions/330075-zapad-sdelal-fantastiku-i-fentezi-sotsialnoj-tekhnolohiej.html
+	set tags fantastika,fentezi,future,literatura,nauka,obschestvo,tehnologia,tehnologia.socialnaja,vern_jul,zapad
+page
+	set url https://strana.ua/opinions/330099-v-kitae-sozdali-elektrokar-kotoryj-nikohda-ne-sozdadut-v-ukraine.html
+	set tags avto,elektrokar,kitaj,mashina,tehnika,ukraina
+page
+	set url https://strana.ua/opinions/330103-blokirovka-kanalov-v-jutub-podryvaet-bazovye-printsipy-svobody-slova.html
+	set tags blokirovanie,cenzura,google,oppozicia,ukraina,youtube
+page
+	set url https://strana.ua/opinions/330104-ukrainskie-telekanaly-v-jutub-otkljuchili-po-metodu-bananovykh-respublik.html
+	set tags cenzura,otkljuchenie,respublika,respublika.bananovaja,ukraina,usa,youtube
+page
+	set url https://strana.ua/opinions/330118-v-vojujushchej-strane-unichtozhaetsja-nekohda-mirovoj-flahman-tankostroenija.html
+	set tags harkov,ukraina,unichtozhenie,vojna,zavod.malysheva.tankovyj.ukr
+page
+	set url https://strana.ua/opinions/330123-vozmet-li-zelenskij-primer-s-amerikanskoho-prezidenta.html
+	set tags biden_joe,primer,ukraina,usa,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/330127-vitse-premer-reznikov-schitaet-poezdku-prezidenta-v-moskvu-nevozmozhnoj.html
+	set tags agressor,peregovory,putin_vladimir,reznikov_aleksei,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/330135-vo-frantsii-15-chelovek-zhili-v-peshchere-40-dnej-radi-eksperimenta-foto.html
+	set tags chelovek,eksperiment,francia,peschera,psihologia
+page
+	set url https://lenta.ru/news/2021/04/25/alternativa/
+	set tags alternativa,dip_otnoshenia,grischenko_konstantin.ukr.diplomat,razryv,rossia,ukraina
+page
+	set url http://ukrcentr.ru/novini/teatralni-zustrichi/
+	set tags chehov_anton.pisatel,gubarenko_irina.ukr.kompozitor,kotljarevskij_ivan,kultura,lysenko_mykola.kompozitor,rossia,teatr,ukraina,ukrcentr.moskva,vstrecha
+page
+	set url https://lenta.ru/news/2021/04/25/belaes_vzlom/
+	set tags 2020,aes,bel_aes,belarus,hakery,lukashenko_aleksandr,rossia,vzlom
+page
+	set url https://lenta.ru/articles/2020/04/18/aes/
+	set tags atomic_energy,bel_aes,belarus,energetika,litva,minsk,rossia
+page
+	set url https://lenta.ru/articles/2021/04/19/castro_era/
+	set tags epoha,kastro_raul.kuba,kuba,pravlenie
+page
+	set url https://kiev.strana.ua/330105-marafon-v-kieve-kyiv-euro-marathon-marshrut-i-medal.html
+	set tags fizkultura,kiev,kiev.evro_marafon,marafon,sport,ukraina,zabeg
+page
+	set url https://www.pravda.com.ua/articles/2021/04/25/7290535/
+	set tags mechta,obschestvo,skuka,ukraina,_important,fraza
+page
+	set url https://www.pravda.com.ua/rus/articles/2021/01/30/7281731/
+	set tags _important,civilizacia,fraza,istoria,mentalitet,obschestvo,pobeda,proigrysh,rossia,ukraina,vezenie
+page
+	set url https://www.pravda.com.ua/rus/articles/2020/07/12/7259014/
+	set tags 2000,_important,bagrov_danila,film.brat,kino,priruchenie,putin_vladimir,rossia,serial,sluga_naroda.film,spravedlivost,zelenskii_vladimir
+page
+	set url https://www.pravda.com.ua/rus/articles/2020/06/7/7254702/
+	set tags cennosti,dobro,obschestvo,trump_donald,ukraina,zelenskii_vladimir,zlo
+page
+	set url https://www.pravda.com.ua/rus/articles/2020/10/4/7268476/
+	set tags civilizacia,future,prezident,referendum,rossia,ukraina,zapad,zelenskii_vladimir
+page
+	set url https://vz.ru/news/2021/4/25/1096394.html
+	set tags 2014,chehia,rossia,specsluzhba,vrbetice.chehia,vzryv,vzryv.2014.chehia.vrbetice,zeman_milosh
+page
+	set url https://news.obozrevatel.com/abroad/takticheskaya-pobeda-kremlya-bila-v-unizhenii-pered-bajdenom.htm
+	set tags armia,biden_joe,putin_vladimir,rossia,usa
+page
+	set url http://lug-info.com/news/one/predstaviteli-lnr-i-rf-primut-uchastie-v-obrazovatelnom-forume-i-pervenstve-po-plavaniyu-67016
+	set tags forum,lnr,pedagog,pervenstvo,plavanie,rossia,sport
+page
+	set url https://zen.yandex.ru/media/ester_nuvo/stihotvoreniia-pushkina-maloizvestnye-kotorye-perevernuli-moe-mirovozrenie-607eb68313c71c1ca849e9ac
+	set tags literatura,mirovozrenie,poezia,pushkin_aleksandr,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/id/5cb0d6d5f21f6200b3cedc00/inostrancy-o-russkih-specnazovcah-reakciia-na-rolik-s-trenirovkami-605cf2c667422d0b6940a7c7
+	set tags inostrancy,rossia,specnaz,vpechatlenie
+page
+	set url https://zen.yandex.ru/media/relaxto/novyi-lider-rossii-kogda-on-poiavitsia-predskazaniia-messinga-globy-paraclsa-607d55a3f025c812d3e1be68
+	set tags lider,messing_volf.mentalist,prorochestvo,rossia
+page
+	set url https://zen.yandex.ru/media/history_russian/chto-pisal-o-rusah-i-slavianah-vizantiiskii-imperator-konstantin-bagrianorodnyi-5e1d4af034808200b16e76ad
+	set tags drevrus,imperator.konstantin_bagrjanorodnyj.vizantia,istoria,rossia,rus',rusmir,slavjane,vizantia
+page
+	set url https://zhenziyou.livejournal.com/17077.html
+	set tags istoria,rossia,rusmir,slovo.rossia,vizantia
 eof
 off
 page

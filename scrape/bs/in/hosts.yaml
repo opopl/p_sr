@@ -60,6 +60,7 @@
 # kalmykia
 'riakalm.ru' : { 'site' : 'news.ru.ria_kalm' }
 
+'riafan.ru' : { 'site' : 'news.ru.ria_fan' }
 'news.rambler.ru' : { 'site' : 'news.ru.rambler' }
 'meduza.io' : { 'site' : 'news.ru.meduza' }
 'news.novgorod.ru' : { 'site' : 'news.ru.novgorod' }

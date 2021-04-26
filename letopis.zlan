@@ -23035,6 +23035,87 @@ page
 page
 	set url https://news.obozrevatel.com/society/novosti-kryimnasha-vse-chasche-vspominayut-ukrainu-i-zolotyie-vremena-kryima-do-okkupatsii-ego-rossiej.htm
 	set tags krym,krymnash,okupacia,putin_vladimir,rossia
+page
+	set url https://lb.ua/society/2021/04/24/483229_yak_i_chomu_putin_vidav_moskovskiy.html
+	set tags agressor,putin_vladimir,rossia,rpc,ukraina,upc
+page
+	set url https://from-ua.com/articles/597212-mozhet-li-ukraina-stat-soyuznikom-ssha.html
+	set tags nato,rossia,sojuznik,ukraina,usa
+page
+	set url https://www.radiosvoboda.org/a/radioaktyvna-krasunya-shynkarenko-avariya-chaes-chornobyl/31222002.html
+	set tags chernobyl
+page
+	set url https://www.radiosvoboda.org/a/photo-verbna-nedilia/31222206.html
+	set tags cerkov,kiev,osvjaschenie,pravoslavie,prazdnik,ukraina,vera,verbnoje_voskresenie
+page
+	set url https://regnum.ru/news/society/3252003.html
+	set tags gorod,nevesta,rossia,st_peterburg,svadba
+page
+	set url https://riafan.ru/1430724-verbnoe-voskresene-v-2021-istoriya-kak-otmechayut-chto-mozhno-i-nelzya-delat-25-aprelya
+	set tags cerkov,pravoslavie,prazdnik,rossia,vera,verbnoje_voskresenie
+page
+	set url https://riafan.ru/1432454-likvidator-avarii-na-chernobylskoi-aes-raskritikoval-serial-hbo-o-tragicheskih-sobytiyah
+	set tags chaes,chernobyl.film.hbo,civilizacia,film,infvojna,istoria,kino,kritika,kultura,likvidator.chaes,motivacia,muzhestvo,rossia,spasenie,sssr,vranje
+page
+	set url https://riafan.ru/1432303-rossiiskie-eksperty-rasskazali-o-realnyh-posledstviyah-avarii-v-chernobyle
+	set tags 1986,26_apr,35_let,avaria,chernobyl,istoria,posledstvie,radiacia,rossia,sssr,zarazhenie
+page
+	set url https://riafan.ru/1432259-zhitel-chernobylya-rasskazal-pro-zhizn-v-zone-otchuzhdeniya
+	set tags chernobyl,chernobyl.zona,zona
+page
+	set url https://riafan.ru/1431972-ssha-prizvali-podelitsya-vakcinami-s-ostalnym-mirom
+	set tags covid,izbytok,prizyv,usa,vaccine,world
+page
+	set url https://riafan.ru/1430651-milonov-predlozhil-vernut-dvuglavogo-orla-na-flag-rossii
+	set tags dvuglavyj_orel,flag,flag.rossia,gosduma,rossia,simvol
+page
+	set url http://lug-info.com/news/one/obraschenie-predsedatelya-op-lnr-alekseya-karyakina-po-sluchayu-35-i-godovschiny-avarii-na-chaes-67029
+	set tags 35_let,chaes,chernobyl,likvidator.chaes,lnr
+page
+	set url http://lug-info.com/news/one/glava-lnr-pochtil-pamyat-likvidatorov-avarii-na-chernobylskoi-aes-67028
+	set tags 35_let,chaes,chernobyl,donbass,lnr,pamjat,pasechnik_leonid
+page
+	set url https://strana.ua/news/330224-oskar-2021-sjuzhet-filmov-zemlja-kochevnikov-otets-iuda-i-chernyj-messija-dusha-i-druhikh.html
+	set tags film,kino,kultura,los_angeles,nagrada,oskar,usa
+page
+	set url https://kievkiev.com.ua/skolko-let-kievu/
+	set tags istoria,kiev
+page
+	set url https://www.pravda.com.ua/news/2021/04/26/7291558/
+	set tags dnr,donbass,lnr,putin_vladimir,rossia,ukraina,vstrecha,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/donbas-okupovanyy-novoazovsk-yak-zhyve-misto/31220699.html
+	set tags dnr,donbass,novoazovsk,okupacia,ukraina
+page
+	set url https://fraza.com/foto/300238-v-stolichnom-metro-ochered-iz-passazhirov-vela-azh-na-ulitsu
+	set tags karantin,kiev,lockdown,metro,ochered',ukraina,ulica
+page
+	set url https://fraza.com/news/300234-patriarh-kirill-rasskazal-kak-gospod-mozhet-voskresit-umershih
+	set tags cerkov,hristos,patriarh_kirill,pravoslavie,rossia,rpc,rusmir,strashnyj_sud,vera,voskresenie,voskreshenie
+page
+	set url https://lenta.ru/news/2021/04/26/kremlin_zel/
+	set tags minsk_dogovor,peskov_dmitrii,putin_vladimir,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://zen.yandex.ru/media/rvm/zagadka-russkoi-dushi-chast-vtoraia-russkii-chelovek-dressirovke-ne-poddaetsia-6064dd5190a39866e49dd442
+	set tags dusha,mentalitet,rossia,rusdusha,rusmir,russkie,_important
+page
+	set url https://zen.yandex.ru/media/rvm/pisma-soldat-armii-napoleona-o-rossii-gliadia-v-ih-glaza-ty-ne-ponimaesh-s-kem-imeesh-delo-6084294209024b3e2c2d4a52
+	set tags 1812,istoria,moskva,napoleon,pismo,rossia,rusmir,russkie,smolensk,vojna.rossia.napoleon.1812
+page
+	set url https://zen.yandex.ru/media/rvm/vospominaniia-nemcev-o-stalingradskoi-bitve-zapisi-iz-soldatskih-dnevnikov-6084031209024b3e2cb0567e
+	set tags 1942,22_nov,chelovek,dnevnik,istoria,mirvojna2,pamjat,peklo,rkka,rossia,russkie,soldat,sssr,stalingrad,uzhas,vojna,vospominanie,vov,vpechatlenie
+page
+	set url https://riafan.ru/1421142-rossiiskaya-armiya-gotova-osvobodit-ukrainu-ot-fashistov?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags __rus_ukr_armia_u_granicy_apr_2021,armia,donbass,fashizm,gotovnost,osvobozhdenie,rossia,ukraina
+page
+	set url https://riafan.ru/1415708-byut-po-donbassu-i-proslavlyayut-nacistov-voennye-ukrainy-vyshli-iz-pod-kontrolya
+	set tags armia,dnr,donbass,granatomet,kontrolj,nacizm,nm_dnr,obstrel,rossia,ukraina,vsu
+page
+	set url https://riafan.ru/1430962-shutki-s-perekrytiem-reki-dnepr-mogut-stat-surovoi-realnostyu-dlya-ukrainy
+	set tags dnepr,shutka,ukraina,voda,zasuha
+page
+	set url https://riafan.ru/1431187-ukrainskii-bloger-snyal-video-o-nezakonnom-proniknovenii-na-territoriyu-sanatoriya-v-krymu
+	set tags _important,blogger,krym,proniknovenie,rossia,sanatorij,video
 eof
 off
 page

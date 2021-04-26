@@ -23116,6 +23116,57 @@ page
 page
 	set url https://riafan.ru/1431187-ukrainskii-bloger-snyal-video-o-nezakonnom-proniknovenii-na-territoriyu-sanatoriya-v-krymu
 	set tags _important,blogger,krym,proniknovenie,rossia,sanatorij,video
+page
+	set url https://strana.ua/news/330294-zelenskij-poprosil-svjashchennikov-prizvat-prikhozhan-ne-sobiratsja-massovo-v-khramakh-na-paskhu.html
+	set tags cerkov,karantin,ukraina,velykden',vera,zelenskii_vladimir
+page
+	set url https://strana.ua/news/329910-stepanov-prizval-ukraintsev-ne-svjatit-kulichi-na-paskhu.html
+	set tags _important,ateist,bog,covid,fraza,kulich.velykden,osvjaschenie,stepanov_maksim,ukraina
+page
+	set url https://strana.ua/news/329856-shtab-oos-ne-iskljuchaet-provokatsij-na-donbasse-na-paskhu.html
+	set tags donbass,oos,ozhidanie,provokacia,ukraina,velykden',vojna
+page
+	set url https://strana.ua/opinions/330273-chernobyl-ne-prosto-trahedija-no-eshche-i-pamjatnik-nashemu-bylomu-velichiju.html
+	set tags 1986,35_let,chaes,chernobyl,istoria,katastrofa,pamjatnik,sssr,ukraina,velichie
+page
+	set url https://strana.ua/opinions/330267-mozhet-li-prepodavatel-akademii-prizyvat-rubit-holovy-krymskim-tataram.html
+	set tags _important,ksenofobia,naoma.ukr.kiev,skandal,ukraina
+page
+	set url https://ukraina.ru/news/20210426/1031235958.html
+	set tags ksenofobia,naoma.ukr.kiev,skandal,tatary,ukraina,unizhenie,uzbekistan
+page
+	set url https://ukraina.ru/history/20210426/1031232038.html
+	set tags donos,istoria,kaganovich_lazar,lenin_vladimir,sssr,stalin_jozef,ukrainizacia
+page
+	set url https://ukraina.ru/history/20191221/1026115652.html
+	set tags stalin_jozef,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210426/1031238818.html
+	set tags covid,covishield,india,tragedia,ukraina
+page
+	set url https://ukraina.ru/sn/20210426/1031237540.html
+	set tags chernobyl
+page
+	set url https://ukraina.ru/news/20210426/1031243240.html
+	set tags 1986,35_let,agressor,avtomat,avtomat.oruzhie,chaes,chernobyl,dvuglavyj_orel,istoria,rossia,sssr,ukraina,vystavka
+page
+	set url https://ukraina.ru/news/20210426/1031241069.html
+	set tags 35_let,chernobyl,kultura,mozgi.projekt,muzyka,potap.ukr.pevec,tkachenko_aleksandr,ukraina
+page
+	set url https://ukraina.ru/youtube/20210426/1031238042.html
+	set tags donbass,obstrel,ukraina,vojna
+page
+	set url https://strana.ua/news/330276-zelenskij-zajavil-o-podhotovke-vstrechi-s-putinym.html
+	set tags jazyk,putin_vladimir,rossia,ukraina,upc,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/news/329934-zelenskij-ne-poedet-v-moskvu-dlja-razhovora-s-putinym-reznikov-.html
+	set tags agressor,putin_vladimir,reznikov_aleksei,rossia,ukraina,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/news/330194-leonid-kravchuk-v-efire-prohrammy-vzhljad-s-bankovoj-predostereh-zelenskoho.html
+	set tags kravchuk_leonid,moskva,poklon,putin_vladimir,rossia,ukraina,vstrecha,zelenskii_vladimir
+page
+	set url https://fraza.com/news/300263-v-gorlovke-bolee-500-detej-molilis-na-liturgii-v-sobore-upts
+	set tags deti,donbass,gorlovka,hram,molitva,ukraina,upc,verbnoje_voskresenie
 eof
 off
 page

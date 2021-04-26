@@ -22924,6 +22924,114 @@ page
 page
 	set url https://life.pravda.com.ua/culture/2021/04/25/244668/
 	set tags chaes
+page
+	set url https://strana.ua/news/330080-politsejskie-v-ssha-za-sutki-ubili-shesterykh-chelovek.html
+	set tags black_lives_matter,murder,policia,protest,spravedlivost,usa
+page
+	set url http://lug-info.com/news/one/nedelya-glazami-eksperta-bespoleznyi-algoritm-zablokirovannye-mery-i-tochki-na-linii-66999
+	set tags donbass,itogi,lnr,nm_lnr,ukraina,vojna
+page
+	set url https://fraza.com/news/300213-v-internet-vylozhili-unikalnyj-chernobylskij-arhiv-osnovannyj-na-dokumentah-kievskoj-gorodskoj-vlasti
+	set tags arhiv,chaes,chernobyl,istoria,katastrofa,sssr,ukraina
+page
+	set url https://strana.ua/news/330239-v-ukraine-vypal-sneh-v-kontse-aprelja-.html
+	set tags pirjatin.ukr.gorod,pogoda,poltava,sneg,ukraina
+page
+	set url https://strana.ua/news/329371-hschs-predupredila-ob-opasnosti-v-horakh-na-hore-pop-ivan-21-aprelja-idet-sneh.html
+	set tags gory,karpaty,pogoda,sneg,snegopad,ukraina
+page
+	set url https://strana.ua/opinions/330211-nashikh-detej-pora-uchit-tak-chtoby-eto-prihodilos-im-v-zhizni.html
+	set tags deti,obrazovanie,obuchenie,shkola,ucheba,ukraina,zapad
+page
+	set url https://strana.ua/opinions/330214-peshchernuju-ksenofobiju-v-ukraine-vozveli-v-ranh-politicheskikh-vzhljadov.html
+	set tags antisemitizm,skandal,ukraina
+page
+	set url https://strana.ua/opinions/330215-kazhdyj-oliharkh-dolzhen-delat-chto-to-poleznoe-dlja-strany.html
+	set tags ahmetov_renat.ukr.oligarh,oligarh,rnbo,skuka,stroitelstvo,ukraina
+page
+	set url https://strana.ua/opinions/330217-a-mozhet-mariupolskoho-deboshira-nado-bylo-nahradit.html
+	set tags arest,deboshir,hamstvo,magazin,mariupol,nagrada,ukraina,vitrina
+page
+	set url https://strana.ua/opinions/330242-khotite-vy-ili-net-no-rano-ili-pozdno-vas-vaktsinirujut.html
+	set tags covid,passport_vaccinacii,ukraina,vaccinacia,vaccine
+page
+	set url https://strana.ua/opinions/330249-na-oboloni-obnaruzhen-hromadnyj-pamjatnik-bolshoj-strojke.html
+	set tags kiev,obolon.kiev.rajon,pamjatnik,stroitelstvo,ukraina
+page
+	set url https://strana.ua/news/330102-chto-proiskhodit-s-pandemiej-v-mire-vesnoj-2021-hoda.html
+	set tags covid,india,izrail,vaccinacia,world
+page
+	set url https://www.radiosvoboda.org/a/interview-yevhen-marchuk-viyna-rosia-ukraina/31221089.html
+	set tags armia,fleshmob,interview,koalicia,marchuk_evgenij.ukr.sbu.glava,napadenie,nato,podgotovka,putin_vladimir,rossia,sbu,ukraina,usa,vojna,world
+page
+	set url https://www.radiosvoboda.org/a/koly-chekaty-vid-rossiyi-nastupnoho-zahostrennya/31220806.html
+	set tags __rus_ukr_armia_u_granicy_apr_2021,granica,podgotovka,rossia,ukraina,vojna
+page
+	set url https://life.pravda.com.ua/society/2021/04/26/244680/
+	set tags gongadze_georgij,the_ukrainians_media,ukraina
+page
+	set url https://www.pravda.com.ua/podcasts/podkast-klyati-pitannya/2021/04/24/7291337/
+	set tags __rus_ukr_armia_u_granicy_apr_2021,donbass,rossia,ukraina,vojna
+page
+	set url https://beztabu.net/pochemu-proizoshla-avariya-na-chaes_n64309
+	set tags 1986,26_apr,35_let,avaria_na_chaes,chaes,chernobyl,istoria,otvet,sssr,ukraina,vopros
+page
+	set url https://lenta.ru/articles/2021/04/24/food/
+	set tags analiz,borsch,cena,ceno_obrazovanie,dengi,eda.plov,ekonomika,putin_vladimir,rossia,salat_olivje,ukraina
+page
+	set url https://lenta.ru/articles/2021/04/25/aliens/
+	set tags bratstvo,humanity,inoplanetjane,kosmos,vstrecha,world
+page
+	set url https://lenta.ru/news/2021/04/25/krasota/
+	set tags aviakompania,foto,instagram,rossia,stjuardessa,utair.rus.aviakompania
+page
+	set url https://strana.ua/news/330238-ilja-kiva-zashchishchaet-dissertatsiju-26-aprelja.html
+	set tags dissertacia,kiva_ilja,nackorpus,ukraina,zhurnalist
+page
+	set url https://strana.ua/news/270849-den-rozhdenija-ili-kivy-2-ijunja-foto-iz-restorana.html
+	set tags birthday,deputat,drug,imeninnik,kiva_ilja,krjukova_svetlana,prazdnovanie,restoran,sluga_naroda,strana_ua,ukraina,vrag
+page
+	set url https://strana.ua/news/246299-video-ilja-kiva-poobeshchal-posadit-artura-palatnoho-za-sutenerstvo.html
+	set tags kiva_ilja,obvinenie,ohota,opzzh,palatnyj_artur.ukr.deputat.bpp,peklo,ukraina,verhovna_rada
+page
+	set url https://plus.obozrevatel.com/crime/rossiya-zaplatit-vyisokuyu-tsenu-esli-vtorgnetsya-v-ukrainu-direktor-mi-6.htm
+	set tags __rus_ukr_armia_u_granicy_apr_2021
+page
+	set url https://news.obozrevatel.com/society/kravchuk-rasskazal-kogo-budut-sudit-za-sotrudnichestvo-s-ldnr.htm
+	set tags dnr,donbass,fantazia,kravchuk_leonid,lnr,nakazanie,osvobozhdenie,sankcii,ukraina
+page
+	set url https://news.obozrevatel.com/society/rushitsya-kryisha-na-gostinitse-polese-i-novaya-doroga-rasskazyivaem-chem-zhivet-chernobyilskaya-zona.htm
+	set tags chernobyl
+page
+	set url https://news.obozrevatel.com/russia/v-rossii-zayavili-o-vozvraschenii-aviatsii-iz-kryima-posle-uchenij.htm
+	set tags __rus_ukr_armia_u_granicy_apr_2021
+page
+	set url https://plus.obozrevatel.com/crime/shojgu-obyavil-ob-otvode-vojsk-rf-ot-granits-ukrainyi.htm
+	set tags __rus_ukr_armia_u_granicy_apr_2021
+page
+	set url https://news.obozrevatel.com/politics/u-zelenskogo-otreagirovali-na-zayavleniya-rossii-ob-otvode-vojsk.htm
+	set tags __rus_ukr_armia_u_granicy_apr_2021
+page
+	set url https://news.obozrevatel.com/politics/kak-monetizirovat-kremlevskij-psihoz.htm
+	set tags __rus_ukr_armia_u_granicy_apr_2021,monetizacia,psihoz
+page
+	set url https://news.obozrevatel.com/society/chernobyil-tragediya-izmenivshaya-mir.htm
+	set tags chernobyl
+page
+	set url https://plus.obozrevatel.com/crime/kto-zhe-na-samom-dele-genotsidit-russkih.htm
+	set tags __apr_2021.forum_donbass_rusmir_edinstvo,dnr,donbass,forum,genocid,lnr,rusmir,russkie
+page
+	set url https://news.obozrevatel.com/society/chernobyil-35-let-nazad-nashi-bol-geroizm-i-gordost.htm
+	set tags chernobyl
+page
+	set url https://news.obozrevatel.com/russia/rossiyane-zaklyuchili-sdelku-s-dyavolom-putin-prevratil-rossiyu-v-prestupnyij-kartel.htm
+	set tags djavol,kartel,kndr,prestuplenie,putin_vladimir,rossia,sdelka
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-mozhet-putin-priedet-poboretsya-za-nas.htm
+	set tags krym,krymnash,putin_vladimir,rossia
+page
+	set url https://news.obozrevatel.com/politics/zachem-kunitsyin-zagovoril-o-postavkah-vodyi-v-okkupirovannyij-kryim.htm
+	set tags blokada,krym,postavka,ukraina,voda
 eof
 off
 page

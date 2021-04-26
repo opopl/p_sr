@@ -23032,6 +23032,9 @@ page
 page
 	set url https://news.obozrevatel.com/politics/zachem-kunitsyin-zagovoril-o-postavkah-vodyi-v-okkupirovannyij-kryim.htm
 	set tags blokada,krym,postavka,ukraina,voda
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-vse-chasche-vspominayut-ukrainu-i-zolotyie-vremena-kryima-do-okkupatsii-ego-rossiej.htm
+	set tags krym,krymnash,okupacia,putin_vladimir,rossia
 eof
 off
 page

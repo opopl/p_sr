@@ -23335,6 +23335,45 @@ page
 page
 	set url https://news.obozrevatel.com/economics/communalka/tarifyi-na-gaz-i-elektroenergiyu-v-ukraine-vzletyat-skolko-budem-platit.htm
 	set tags cena,ekonomika,kiev,tarify,ukraina
+page
+	set url https://strana.ua/news/330456-maksim-sumin-sovershil-trojnoe-ubijstvo-v-kieve-podrobnosti-chto-izvestno-o-16-letnem-podrostke-.html
+	set tags kiev,kriminal,murder,semja,sumin_maksim.ubijca.kiev,ukraina
+page
+	set url https://strana.ua/news/330474-bojko-hotov-provesti-perehovory-s-predstaviteljami-dnr-i-lnr-radi-mira-v-ukraine.html
+	set tags dnr,donbass,kiev,lnr,opzzh,peregovory,ukraina
+page
+	set url https://strana.ua/news/330485-aleksej-honcharenko-vremenno-lishilsja-slova-v-pase.html
+	set tags flag.ukraina,goncharenko_alexei,pase,skandal,ukraina,zapret
+page
+	set url https://strana.ua/news/330480-ukrainskie-deputaty-pridumali-nakazanija-dlja-tishchenko-za-vecherinku-vo-vremja-lokdauna-v-kieve.html
+	set tags kiev,nakazanie,rozgi,sluga_naroda,tischenko_nikolai.deputat,ukraina,verhovna_rada
+page
+	set url https://strana.ua/news/330477-ukraina-vysylaet-rossijskoho-konsula-iz-odessy.html
+	set tags dip_otnoshenia,kiev,moskva,rossia,ukraina,vysylka_diplomatov
+page
+	set url https://yandex.ru/turbo/strana.ua/s/news/279387-vzryv-na-metro-shuljavka-video-i-foto-chto-proizoshlo-i-kto-postradal.html
+	set tags huliganstvo,kiev,metro,policia,terakt,ukraina,vzryv
+page
+	set url https://strana.ua/opinions/330448-dlja-deputatov-dazhe-svjatoj-prazdnik-paskhi-vseho-lish-povod-sovrat.html
+	set tags sluga_naroda,ukraina,velykden',verhovna_rada,vranje
+page
+	set url https://strana.ua/opinions/330455-zelenskij-vysmeival-azarova-no-nashel-sebe-takoho-zhe-fiskalizatora.html
+	set tags azarov_nikolaj,getmancev_daniil,janukovich_viktor,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/329891-v-khersonskom-oblsovete-proizoshla-stychka-mezhdu-deputatami-es-i-opzzh.html
+	set tags deputat,herson,napadenie,opzzh,ukraina
+page
+	set url https://lenta.ru/articles/2021/04/27/skoraya/
+	set tags ambulance,istoria,katastrofa,katastrofa.1989.sssr.ufa.gaz.poezd,pomosch,rossia,skoraja,spasenie,sssr,vrach
+page
+	set url https://odessa.strana.ua/330492-v-odessu-muzhchina-pristavil-k-holove-medrabotniku-pistolet.html
+	set tags docherj,golova,medik,muzhchina,odessa,pistolet,plachj,stomatolog,ugroza,ukraina
+page
+	set url https://strana.ua/news/330471-vstrecha-zelenskoho-i-putina-kak-ee-hotovjat-i-sostoitsja-li-ona.html
+	set tags donbass,kiev,moskva,peregovory,podgotovka,putin_vladimir,razrjadka,ukraina,vojna,vstrecha,zelenskii_vladimir
+page
+	set url https://beztabu.net/psihopat-kiva-otrimav-naukovij-stupin---yak-tak-stalosya_n73213
+	set tags __apr_2021.kiva.dissertacia,dissertacia,kiva_ilja,ukraina
 eof
 off
 page

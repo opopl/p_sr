@@ -23515,6 +23515,9 @@ page
 page
 	set url https://news.obozrevatel.com/kiyany/life/v-kieve-podrostok-zarezal-roditelej-i-8-letnego-brata.htm
 	set tags _apr_2021.kiev.murder.semja.revuckogo,kiev,murder,poznjaki.kiev.rajon,sumin_maksim.ubijca.kiev,tragedia,ukraina,ulica.kiev.revuckogo
+page
+	set url https://news.obozrevatel.com/politics/opzzh-u-18-nardepov-nashli-nauchnuyu-stepen-ilya-kiva.htm
+	set tags __apr_2021.kiva.dissertacia,dissertacia,kiev,kiva_ilja,opzzh,ukraina
 eof
 off
 page

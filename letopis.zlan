@@ -23425,6 +23425,72 @@ page
 page
 	set url https://strana.ua/opinions/330572-toho-i-hljadish-nam-v-konstitutsiju-zapishut-chto-ukraina-shchit-evropy.html
 	set tags evropa,schit,sluga_naroda,ukraina
+page
+	set url https://strana.ua/news/330570-harmash-schitaet-chto-mir-ljuboj-tsenoj-na-donbasse-ne-javljaetsja-tselju-ukrainy.html
+	set tags cena,garmash_sergej.tkg,moskva,peregovory,rossia,tkg,ukraina
+page
+	set url https://strana.ua/opinions/330574-oun-skazala-nado-klichko-otvetil-est.html
+	set tags dolinskij_eduard.ukr.direktor_uek,evrei,kiev,klichko_vitalij,konovalec_evgen.oun,nacizm,oun,ukraina
+page
+	set url https://strana.ua/news/330578-blohera-iz-rossii-stasa-reshetnikova-prihovorili-k-shesti-hodam-kolonii-.html
+	set tags blogger,kriminal,rossia,tjurma
+page
+	set url https://strana.ua/news/304291-rossijskij-strimer-stanislav-reeflay-vyshel-v-efir-s-mertvoj-devushkoj.html
+	set tags __apr_2021.rossia.strim.blogger.trup,kriminal,rossia,trup,video
+page
+	set url https://www.radiosvoboda.org/a/news-poroshenko-zelenskyi-chervoni-linii/31225949.html
+	set tags identichnost',mova,peregovory,poroshenko_petr,putin_vladimir,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/feature-inshyy-chornobyl/31219182.html
+	set tags chernobyl,ukraina
+page
+	set url https://www.radiosvoboda.org/a/kyva-zakhyst-spalenyy-dyplom-protest/31225431.html
+	set tags __apr_2021.kiva.dissertacia,diskreditacia,dissertacia,lvov,nauka,obschestvo,reakcia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/video-virmenia-ukraina/31225845.html
+	set tags 1915,armenia,genocid,priznanie,turcia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/choloviky-i-zubry-ukrajiny/31225810.html
+	set tags priroda,ukraina,zubr
+page
+	set url https://www.radiosvoboda.org/a/telekanal-dom-i-rosiyska-mova/31223690.html
+	set tags donbass,jazyk,krym,okupacia,propaganda,rossia,telekanal_dom,ukraina,vossoedinenie
+page
+	set url https://www.pravda.com.ua/articles/2021/04/27/7291644/
+	set tags istoria,kiev,kommunizm,sssr,ukraina,vdnh.ukr.kiev
+page
+	set url https://life.pravda.com.ua/projects/6064428c9cc6b/2021/04/27/244690/
+	set tags azerbajdzhan,chelovek,kiev,kultura,ukraina
+page
+	set url https://www.istpravda.com.ua/articles/2021/04/26/159358/
+	set tags chaes,chernobyl,istoria,sssr,ukraina
+page
+	set url https://www.istpravda.com.ua/columns/2021/04/26/159362/
+	set tags 1944,istoria,mirvojna2,nkvd,sssr,ukraina,upa,vov
+page
+	set url https://strana.ua/news/330583-v-polshe-demontirovali-pamjatnik-polsko-sovetskomu-bratstvu-po-oruzhiju.html
+	set tags bratstvo,demontazh,pamjat,pamjatnik,polsha,sssr
+page
+	set url https://strana.ua/news/265498-v-sele-pod-odessoj-demontirovali-pamjatnik-kotovskomu.html
+	set tags dekomunizacia,odessa,pamjatnik,ukraina
+page
+	set url https://strana.ua/video/249763-dekommunizatory-khotjat-snesti-herb-sssr-s-rodiny-materi-v-kieve-novyj-vypusk-jasnoponjatno-s-olesej-medvedevoj.html
+	set tags dekomunizacia,demontazh,gerb.sssr,institut_nacpamjati,istoria,rodina_mat.kiev,sssr
+page
+	set url https://fraza.com/analytics/300290-diskriminatsija-ottsov-vo-vremena-voinstvujuschego-matriarhata
+	set tags chelovek,diskriminacia,feminizm,jazhemat,obschestvo,psihologia,semja,ukraina
+page
+	set url https://pravoslavie.ru/138927.html
+	set tags cerkov,gogol_nikolai,pravoslavie,rusmir,vera
+page
+	set url https://pravoslavie.ru/138868.html
+	set tags cerkov,derevo,plod,pravoslavie,vera,rusmir
+page
+	set url https://pravoslavie.ru/138852.html
+	set tags cerkov,odessa,pravoslavie,rusmir,ukraina,vera
+page
+	set url https://pravoslavie.ru/138869.html
+	set tags cerkov,interes,pravoslavie,prikljuchenie,rusmir,vera,zemlja
 eof
 off
 page

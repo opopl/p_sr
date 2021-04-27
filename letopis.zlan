@@ -23422,6 +23422,9 @@ page
 page
 	set url https://strana.ua/news/330527-divizija-halichina-marsh-v-kieve-28-aprelja-chto-o-nem-izvestno-i-kto-orhanizator.html
 	set tags kiev,marsh,nacizm,ss_galichina,ukraina,vo_svoboda
+page
+	set url https://strana.ua/opinions/330572-toho-i-hljadish-nam-v-konstitutsiju-zapishut-chto-ukraina-shchit-evropy.html
+	set tags evropa,schit,sluga_naroda,ukraina
 eof
 off
 page

@@ -95,7 +95,7 @@ include:
 ###news_ua
     - news.ua.vesti_ua
     - news.ua.ukrmir
-    - news.ua.segodnya
+    #- news.ua.segodnya
     - news.ua.zbruc
     - news.ua.molbuk
     - news.ua.golospravdy

@@ -23167,6 +23167,174 @@ page
 page
 	set url https://fraza.com/news/300263-v-gorlovke-bolee-500-detej-molilis-na-liturgii-v-sobore-upts
 	set tags deti,donbass,gorlovka,hram,molitva,ukraina,upc,verbnoje_voskresenie
+page
+	set url https://strana.ua/opinions/330312-po-planete-huljaet-zrada-zradnaja-svjazannaja-so-sputnikom-v.html
+	set tags agressor,cinizm,covid,papik,rossia,sputnik_v,turcia,ukraina,vaccine,zrada
+page
+	set url https://strana.ua/news/330278-vaktsina-astrazeneka-i-pfajzer-pozvoljat-li-oni-ukraintsam-ezdit-v-es.html
+	set tags es,granica,puteshestvie,turizm,ukraina,vaccinacia
+page
+	set url https://strana.ua/news/330314-arestovich-nepravilno-priparkoval-avto-i-zablokiroval-dvizhenie-pozharnym.html
+	set tags arestovich_aleksei,avto,kurjez,mns.ukraina,parkovka,prepjatstvie,tkg,uchenija,ukraina
+page
+	set url https://strana.ua/news/330315-arakhamija-poprosil-u-konhressa-ssha-300-millionov-voennoj-pomoshchi.html
+	set tags agressia,arahamia_david,armia,granica,kiev,krymskaja_platforma,nato,pomosch,rossia,shojgu_sergej,ukraina,usa,verhovna_rada
+page
+	set url https://strana.ua/opinions/330324-izdevatelstvo-hosudarstva-nad-chernobyltsami-prodolzhaetsja-ne-pervyj-hod.html
+	set tags chaes,chernobyl,likvidator.chaes,ukraina
+page
+	set url https://strana.ua/news/330307-opzzh-trebuet-vernut-lhoty-chernobyltsam.html
+	set tags chernobyl,likvidator.chaes,ljgota,opzzh,ukraina,verhovna_rada
+page
+	set url https://strana.ua/news/330230-chernobylskaja-katastrofa-byvshij-sotrudnik-khb-rasskazal-kak-v-zone-chaes-iskali-shpionov.html
+	set tags chaes,chernobyl,istoria,kgb,sssr
+page
+	set url https://fraza.com/news/300265-mitropolit-antonij-rasskazal-kak-ne-prozhit-zhizn-vpustuju
+	set tags cerkov,hristos,pravoslavie,ukraina,upc,vera
+page
+	set url https://riakursk.ru/v-kurchatove-kurskoy-oblasti-proshel-miting-v-den-pamyati-avarii-na-chaes/
+	set tags chaes,chernobyl,kursk,rossia,ukraina
+page
+	set url https://riakursk.ru/v-kurske-na-subbotnik-vyshli-bolee-28-tysyach-chelovek/
+	set tags kursk,musor,rossia,subbotnik,uborka
+page
+	set url https://beztabu.net/chernobyl-zona-otchuzhdeniya-territoriya-vozrozhdeniya-foto_n42539
+	set tags chaes,chernobyl,chernobyl.zona,foto,stalker,ukraina,zona
+page
+	set url https://news.obozrevatel.com/politics/putin-podoshel-possorilsya-s-zapadom-i-podoshel-k-krasnoj-linii.htm
+	set tags armia,ekspert,granica,napadenie,putin_vladimir,strah,ukraina
+page
+	set url https://mysliwiec.livejournal.com/146596.html
+	set tags kiev,moskva,poslovica,sssr
+page
+	set url https://strana.ua/news/330280-v-mi-6-preduprezhdali-putina-o-posledstvijakh-vtorzhenija-v-ukrainu-the-sunday-times.html
+	set tags biden_joe,britania,donbass,mi6,razvedka,rossia,sevpotok2,ukraina,zapad,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/330361-chernobyl-stal-udobnym-sposobom-obvinenija-bezdushnoho-sovka.html
+	set tags chaes,chernobyl.zona,obschestvo,sovok,ukraina
+page
+	set url https://fraza.com/video/300259-kiva-predlozhil-zhurnalistu-shodit-s-nim-v-tualet-obozvav-ego-debilom
+	set tags deputat,kiva_ilja,oskorblenie,slovo.debil,tualet,ukraina,zhurnalist
+page
+	set url https://zaxid.net/privid_yevreyskogo_chornobilya_n1518006
+	set tags chernobyl,evrei,golokost,kiev,prividenie,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210426/1031233484.html
+	set tags cenzura,google,internet,telekanal,ukraina,youtube,zapret
+page
+	set url https://ukraina.ru/exclusive/20210426/1031242756.html
+	set tags bystrickaja_elina.aktrisa_sssr,istoria,kino,sholohov_mihail,sssr,tihij_don.roman.sholohov
+page
+	set url https://www.vesti.ru/article/2555616
+	set tags covid,merkel_angela,pokupka,rossia,sputnik_v,vaccine
+page
+	set url https://lenta.ru/articles/2021/04/26/chaes/
+	set tags 35_let,chaes,chernobyl,istoria,kiev,sssr,ukraina
+page
+	set url https://regnum.ru/news/polit/3253782.html
+	set tags donbass,drozdov_ostap,oskorblenie,rusmir,ukraina,zhurnalist
+page
+	set url https://regnum.ru/news/society/2766744.html
+	set tags drozdov_ostap,medvedeva_olesja,nenavist,obschestvo,ukraina
+page
+	set url https://www.radiosvoboda.org/a/vizualizatsiya-arhivnyh-dokumentiv-avariya-chaes/31223625.html
+	set tags chaes,chernobyl,istoria,mif,sssr
+page
+	set url https://www.radiosvoboda.org/a/9498926.html
+	set tags chaes,chernobyl
+page
+	set url https://www.radiosvoboda.org/a/30577003.html
+	set tags chaes,chernobyl
+page
+	set url https://www.radiosvoboda.org/a/avariya-chaes-likvidaory-virtualnyi-chornobyl/31000656.html
+	set tags chaes,chernobyl
+page
+	set url https://www.radiosvoboda.org/a/news-zelensky-likvidatory-chaes/30999549.html
+	set tags chaes,chernobyl,pamjat
+page
+	set url https://lenta.ru/news/2021/04/26/czzz/
+	set tags chehia,rossia,vzryv.2014.chehia.vrbetice
+page
+	set url http://lug-info.com/news/one/zhiteli-luganska-zazhgli-svechi-v-pamyat-o-pogibshikh-likvidatorakh-posledstvii-avarii-na-chaes-foto-67076
+	set tags chaes,chernobyl,lnr,lugansk,pamjat
+page
+	set url http://lug-info.com/news/one/zhiteli-respubliki-pochtili-pamyat-likvidatorov-posledstvii-avarii-na-chaes-foto-67074
+	set tags chaes,lnr,lugansk,pamjat
+page
+	set url https://kiev.strana.ua/330422-v-kieve-zaderzhali-16-letneho-parnja-eho-podozrevajut-v-sovershenii-trojnoho-ubijstva.html
+	set tags kiev,kriminal,murder,policia,semja,trup,ukraina,ulica.kiev.revuckogo
+page
+	set url https://strana.ua/opinions/330363-narodnye-primety-prodolzhajut-rabotat-i-v-nashi-dni.html
+	set tags gorod,kiev,pogoda,pravoslavie,primeta,ukraina,velykden',vera
+page
+	set url https://strana.ua/opinions/330404-ukraina-utratila-subektnot-no-vse-taki-eshche-imeet-shans.html
+	set tags kiev,mir,shans,subjektnost,ukraina,world,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/330366-vstrecha-s-putinym-nalohovaja-amnistija-delezhka-partij.html
+	set tags itogi,putin_vladimir,tischenko_nikolai.deputat,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/330405-pokupka-i-prodazha-dolzhnostej-staraja-hosudarstvennaja-praktika.html
+	set tags evropa,istoria
+page
+	set url https://strana.ua/opinions/330407-zelenskomu-pokazalos-chto-russkojazychnykh-i-pravoslavnykh-v-ukraine-ne-pritesnjajut.html
+	set tags jazyk,narod,presledovanie,putin_vladimir,rossia,ukraina,upc,zakon,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/330410-ukraina-dala-sohlasie-stat-amerikanskim-jadernym-ispytatelnym-polihonom.html
+	set tags atomic_energy,energetika,ukraina,usa
+page
+	set url https://strana.ua/opinions/330431-shirokie-massy-izbiratelej-politicheski-bezhramotny-i-passivny.html
+	set tags bezgramotnost,demokratia,narod,passivnost,ukraina,izbiratel
+page
+	set url https://strana.ua/opinions/330438-hlupoe-ukrainskoe-pravitelstvo-vidja-rost-tsen-sozdaet-problemy.html
+	set tags dengi,ekonomika,eksporter,kabmin,maslo.podsolnechnoje,problemy,ukraina
+page
+	set url https://fraza.com/fraze/300271-ilja-kiva
+	set tags debilizacia,fraza,kiva_ilja
+page
+	set url https://politics.segodnya.ua/politics/pervye-slova-kandidata-kivy-posle-zashchity-idem-so-mnoy-v-tualet-druzhochek-1521789.html
+	set tags __apr_2021.kiva.dissertacia,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5f8421f71b06eb39492c08e7/nikolai-vasilevich-gogol-ob-ukraine-vse-ochen-tochno-i-krasivo-6079536cfea06e298d9b9d0c
+	set tags gogol_nikolai,krasota,literatura,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5fe1399be784c51093771340/otkuda-vzialas-rusofobiia-na-ukraine-kto-ee-razduvaet-i-glavnoe--dlia-chego-60812bc0a681cc2600926a0c
+	set tags istoria,moskva,rossia,rusmir,russofobia
+page
+	set url https://kiev.strana.ua/330440-v-sredu-natsionalisty-planirujut-provesti-v-kieve-marsh-vyshivanok-v-chest-divizii-ss-halichina.html
+	set tags arsenalna.ploscha.kiev,kiev,marsh,nacionalist,ss_galichina,ukraina,vyshyvanka
+page
+	set url https://strana.ua/news/278758-ukraintsev-v-divizi-ss-halichina-siloj-zastavljali-voevat-za-nemetskie-interesy-vjatrovich.html
+	set tags institut_nacpamjati,kiev,mirvojna2,ss_galichina,ukraina,vjatrovich_vladimir
+page
+	set url https://strana.ua/news/330372-vstrecha-zelenskoho-i-putina-vykhod-kieva-iz-lokdauna-hodovoj-tarif-na-haz-hlavnye-itohi.html
+	set tags cena,dnr,donbass,ekonomika,gaz,itogi,kiev,lnd,lockdown,peregovory,putin_vladimir,ukraina
+page
+	set url https://news.obozrevatel.com/economics/fea/ukrainets-shlyichkov-rabotaet-na-dnr-i-rossiyu-po-vsemu-miru.htm
+	set tags dnr,donbass,rassledovanie,rossia,ukraina
+page
+	set url https://news.obozrevatel.com/society/zaschita-kandidatskoj-kivyi-kak-argument-pochemu-moi-deti-budut-uchitsya-za-granitsej.htm
+	set tags __apr_2021.kiva.dissertacia,dissertacia,kiva_ilja,liga_pljuscha,obrazovanie,ukraina,universitet,usa,vozmuschenie,zagranica
+page
+	set url https://news.obozrevatel.com/politics/stabilizatsiya-pered-razvilkoj-tochka-bifurkatsii-dlya-zelenskogo.htm
+	set tags bifurkacia,danilov_aleksei,doverie,fraza,future,politika,razumkov_dmitrii,razvilka,stabilizacia,ukraina,zelenskii_vladimir
+page
+	set url https://covid.obozrevatel.com/v-ukraine-vaktsinirovali-menshe-lyudej-chem-v-stranah-afriki-svezhaya-statistika.htm
+	set tags afrika,covid,rossia,statistika,ukraina,vaccinacia,vaccine
+page
+	set url https://news.obozrevatel.com/politics/kak-kiva-ukrain-obedinil-ili-gde-zhe-vyi-byili-ranshe.htm
+	set tags __apr_2021.kiva.dissertacia,kiva_ilja,tomenko_nikolaj,ukraina
+page
+	set url https://news.obozrevatel.com/abroad/tramp-shturm-kapitoliya-i-hraniteli-klyatvyi-pervyij-poshel.htm
+	set tags pravosudie,shturm_kapitolii_2021,usa,trump_donald
+page
+	set url https://news.obozrevatel.com/society/kak-roditelyam-pomoch-rebenku-sdelat-pravilnyij-vyibor-professii.htm
+	set tags deti,professia,rebenok,ukraina,vybor
+page
+	set url https://news.obozrevatel.com/politics/putin-izbegaet-vstrechi-s-zelenskim.htm
+	set tags moskva,politika,putin_vladimir,rossia,smysl,ukraina,vstrecha,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/economics/communalka/tarifyi-na-gaz-i-elektroenergiyu-v-ukraine-vzletyat-skolko-budem-platit.htm
+	set tags cena,ekonomika,kiev,tarify,ukraina
 eof
 off
 page

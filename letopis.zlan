@@ -23491,6 +23491,30 @@ page
 page
 	set url https://pravoslavie.ru/138869.html
 	set tags cerkov,interes,pravoslavie,prikljuchenie,rusmir,vera,zemlja
+page
+	set url https://blogs.pravda.com.ua/authors/vasyleva/6087beedc23ac/
+	set tags belarus,bunt,gubernia,obschestvo,protest
+page
+	set url https://blogs.pravda.com.ua/authors/haran/6088631e2779e/
+	set tags __apr_2021.kiva.dissertacia,lvov,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/bileckyj/6087bb55395e0/
+	set tags nackorpus,putin_vladimir,rossia,ukraina,vstrecha,zelenskii_vladimir
+page
+	set url https://plus.obozrevatel.com/crime/roditeli-pyanstvovali-i-dralis-chto-izvestno-o-seme-kotoruyu-ubil-rodnoj-syin-v-kieve.htm
+	set tags _apr_2021.kiev.murder.semja.revuckogo,kiev,kriminal,murder,sumin_maksim.ubijca.kiev,ukraina,ulica.kiev.revuckogo
+page
+	set url https://plus.obozrevatel.com/crime/gibel-chetyireh-chelovek-v-kolodtse-na-odesschine-poyavilis-novyie-podrobnosti.htm
+	set tags belgorod_dnestrovskij.ukraina,kolodec,odessa,smert,tragedia,ukraina
+page
+	set url https://news.obozrevatel.com/russia/hajl-putin-krome-zhit-proshlyim-rossiyane-nichego-ne-umeyut.htm
+	set tags federalnoje_sobranie.rossia,future,hitler_adolf,poslanie,proshloje,putin_vladimir,rossia,ukraina
+page
+	set url https://news.obozrevatel.com/sport/sport/rossiyu-lishili-nazvaniya-i-flaga-pryamo-vo-vremya-matcha-chempionata-mira-po-shahmatam.htm
+	set tags chempionat,flag,flag.rossia,polsha,rossia,shashki,tansykkuzhina_tamara.rus.chempion.shashki,varshava
+page
+	set url https://news.obozrevatel.com/kiyany/life/v-kieve-podrostok-zarezal-roditelej-i-8-letnego-brata.htm
+	set tags _apr_2021.kiev.murder.semja.revuckogo,kiev,murder,poznjaki.kiev.rajon,sumin_maksim.ubijca.kiev,tragedia,ukraina,ulica.kiev.revuckogo
 eof
 off
 page

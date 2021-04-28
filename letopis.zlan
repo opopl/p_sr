@@ -23635,6 +23635,18 @@ page
 page
 	set url https://from-ua.com/articles/597536-kosmicheskie-orbiti-ukrainskoi-korrupcii.html
 	set tags korupcia,kosmos,ukraina
+page
+	set url https://yandex.ru/q/question/kogda_ischezli_poslednie_istinnye_latyni_ed948790/?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags istoria,rimljane
+page
+	set url https://zen.yandex.ru/media/id/5f03038de2c5b97eda507477/posle-globalnogo-obiavleniia-na-zemliu-prihodit-sistema-izmeniaia-okrujaiuscuiu-deistvitelnost-i-nas-samih-606c4a8e38596b1ba0be87ef
+	set tags _important,kniga,sistema,world
+page
+	set url https://zen.yandex.ru/media/id/5ee3b791c2a70a25b3869393/rovno-i-pochaevskaia-lavra-rasskazyvaiu-kak-menia-vstrechala-ukraina-603b871c6cd9133fa6584c14
+	set tags 1240,pochaev,rovno,ukraina
+page
+	set url https://www.championat.com/figureskating/article-4306071-chempionat-mira-po-figurnomu-kataniyu-2021-problemy-s-flagom-smeh-scherbakovoj-pocelui-pustym-tribunam.html
+	set tags chempionat,figurist,figurnoje_katanie,rossia
 eof
 off
 page

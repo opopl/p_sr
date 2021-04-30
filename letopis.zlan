@@ -23803,6 +23803,40 @@ page
 page
 	set url https://news.obozrevatel.com/society/v-vojne-s-rf-veteranyi-gotovyi-pervyimi-stat-na-zaschitu-ukrainyi-poetomu-sejchas-ih-nuzhno-bolshe-podderzhat.htm
 	set tags ato,kiev,ugroza,ukraina,veteran
+page
+	set url https://inosmi.ru/social/20190113/244373155.html
+	set tags rossia,ukraina,zabuzhko_oksana
+page
+	set url https://skeptimist.livejournal.com/697641.html
+	set tags _important,bulgakov_mihail,fraza,kiev,kvartira,ukraina,zabuzhko_oksana
+page
+	set url https://www.radiosvoboda.org/a/27090967.html
+	set tags dom_bulgakova,kiev,obsuzhdenie,skandal,ukraina,zabuzhko_oksana
+page
+	set url https://mik-kiev.livejournal.com/94448.html
+	set tags bulgakov_mihail,dom_bulgakova,kiev,ukraina,zabuzhko_oksana
+page
+	set url https://news-front.info/2017/04/20/ukrainskaya-pisatelnitsa-zabuzhko-vse-russkie-knigi-napisany-v-fsb/
+	set tags fsb,jazyk,kniga,lvov,rossia,rusmir,zabuzhko_oksana
+page
+	set url https://www.radiosvoboda.org/a/27079412.html
+	set tags bulgakov_mihail,dom_bulgakova,kiev,skandal,ukraina,zabuzhko_oksana
+page
+	set url https://www.radiosvoboda.org/a/upc-mp-i-perekhody-do-pcu/31227191.html
+	set tags kiev,lavra,pcu,putin_vladimir,upc
+page
+	set url https://varjag2007su.livejournal.com/2054477.html
+	set tags berdnyk_oles,bulgakov,kiev,ukraina,zabuzhko_oksana
+page
+	set url https://www.pravda.com.ua/cdn/graphics/2021/chotyry_zhyttja_pislja_smerti/
+	set tags chelovek,smert,ukraina,zhizn
+	set date 30_04_2021
+page
+	set url https://vz.ru/opinions/2021/4/29/1097128.html
+	set tags elita,narod
+page
+	set url https://gazeta.ua/articles/culture/_budte-poslidovni-merzotniki-rosijskij-pismennik-potrapiv-do-chornogo-spisku/771363
+	set tags kiev,lukjanenko_sergej,maidan2,mirotvorec_sajt,rossia,ukraina
 eof
 off
 page

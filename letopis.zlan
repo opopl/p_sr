@@ -23846,6 +23846,15 @@ page
 page
 	set url https://gazeta.ua/ru/blog/54999/e-mayachki-yaki-dopomozhut-vidrizniti-dezinformaciyu-vid-novin
 	set tags dezinformacia,infvojna,rossia,ukraina
+page
+	set url https://iz.ru/news/324239
+	set tags detstvo,fantastika,kniga,kultura,literatura,lukjanenko_sergej,nosov_nikolaj.pisatel,rossia,sssr
+page
+	set url https://rusdozor.ru/2021/04/18/omelyanovshhina-majdannogo-mezozoya/
+	set tags _important,fraza,grafiti,grafiti.sofia_kiev,jazyk,kievrus,mova,ukraina
+page
+	set url https://ukraina.ru/opinion/20210417/1031158570.html
+	set tags istoria,jazyk,kiev,kievrus,mova,omeljan_volodymyr.ukr.ministr,ukraina
 eof
 off
 page

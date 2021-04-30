@@ -23837,6 +23837,15 @@ page
 page
 	set url https://gazeta.ua/articles/culture/_budte-poslidovni-merzotniki-rosijskij-pismennik-potrapiv-do-chornogo-spisku/771363
 	set tags kiev,lukjanenko_sergej,maidan2,mirotvorec_sajt,rossia,ukraina
+page
+	set url https://gazeta.ua/articles/kiev-life/_navkolo-osobistogo-litaka-brezhnyeva-pid-kiyevom-zadumali-masshtabnij-park-aviaciyi/1028841
+	set tags aviacia,brezhnev_leonid,glevaha,istoria,kiev,samolet,sssr,ukraina
+page
+	set url https://gazeta.ua/ru/articles/kiev-life/_samyj-malenkij-v-mire-reaktivnyj-samolet-zametili-v-kieve/1014528
+	set tags aeroport.kiev,avia,kiev,samolet,ukraina
+page
+	set url https://gazeta.ua/ru/blog/54999/e-mayachki-yaki-dopomozhut-vidrizniti-dezinformaciyu-vid-novin
+	set tags dezinformacia,infvojna,rossia,ukraina
 eof
 off
 page

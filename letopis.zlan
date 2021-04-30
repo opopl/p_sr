@@ -23855,6 +23855,18 @@ page
 page
 	set url https://ukraina.ru/opinion/20210417/1031158570.html
 	set tags istoria,jazyk,kiev,kievrus,mova,omeljan_volodymyr.ukr.ministr,ukraina
+page
+	set url https://ru.euronews.com/2020/08/09/hiroshima-us-appology
+	set tags 1945,atomic_bomb,bombardirovka_nagasaki_hirosima_1945,japonia,mirvojna2,usa
+page
+	set url https://yandex.ru/turbo/vz.ru/s/news/2021/4/28/1097032.html
+	set tags __apr_2021.kiev.marsh_ss_galichina,germania,kiev,ukraina
+page
+	set url https://yandex.ru/turbo/vz.ru/s/news/2021/4/28/1097011.html?utm_source=turbo_turbo
+	set tags __apr_2021.kiev.marsh_ss_galichina,bandera_stepan,kiev,ukraina
+page
+	set url https://kiev.strana.ua/330769-kievljanin-poskandalil-s-natsionalistami-na-marshe-v-chest-divizii-halichina-video.html
+	set tags __apr_2021.kiev.marsh_ss_galichina,kiev,marsh,ss_galichina,ukraina
 eof
 off
 page

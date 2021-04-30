@@ -23647,6 +23647,162 @@ page
 page
 	set url https://www.championat.com/figureskating/article-4306071-chempionat-mira-po-figurnomu-kataniyu-2021-problemy-s-flagom-smeh-scherbakovoj-pocelui-pustym-tribunam.html
 	set tags chempionat,figurist,figurnoje_katanie,rossia
+page
+	set url https://varjag2007su.livejournal.com/2165892.html
+	set tags kiev,kievljane,pritula_sergej
+page
+	set url http://litakcent.com/2016/10/20/neuk-merzavec-i-delfin-antylehendarnyj-pavlo-tychyna/
+	set tags istoria,kiev,literatura,poezia,sssr,tychyna_pavlo,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/pushkin-ta-ukrayina-postyuvileyni-notatki
+	set tags gogol_nikolai,istoria,kiev,poezia,pushkin_aleksandr,rusimperia,ukraina
+page
+	set url https://day.kyiv.ua/uk/article/istoriya-i-ya/1240-rik-zagibel-kiyivskoyi-rusi-0
+	set tags 1240,istoria,kiev,oborona.kiev.1240,rusmir
+page
+	set url https://strana.ua/news/330935-russkie-shkoly-v-ukraine-zakryvajutsja-sotnjami-hlavnoe-iz-doklada-movnoho-ombudsmena-kreminja.html
+	set tags 1957,gimn.odessa,jazyk,kremin_taras,mova,odessa,ukraina,ukrainizacia,zakon
+page
+	set url https://zen.yandex.ru/media/tcs/teplo-i-priiatno-6066f426dc5df570b1dbaf80
+	set tags chelovek,prikljuchenie,rasskaz,rossia,transsib,vladivostok
+page
+	set url https://strana.ua/news/331015-prankery-vovan-i-leksus-razyhrali-hruppu-ukrainskikh-nardepov.html
+	set tags krym,navalny,pranker,rossia,ukraina
+page
+	set url https://strana.ua/news/330960-v-tadzhikistane-i-kirhizii-obostrilsja-prihranichnyj-konflikt.html
+	set tags kirgizstan,tadzhikistan,vojna
+page
+	set url https://strana.ua/news/330916-indijskij-shtamm-koronavirusa-chto-o-nem-izvestno-kakie-vaktsiny-effektivny.html
+	set tags covid,covishield,india,sputnik_v,zabolevajemost'
+page
+	set url https://strana.ua/opinions/330638-uzhe-pochti-80-let-v-kieve-ne-khodili-paradom-ljubiteli-esesovtsev.html
+	set tags hitler_adolf,kiev,marsh,ss_galichina,ukraina
+page
+	set url https://strana.ua/opinions/330654-budut-li-sehodnja-v-tsentre-kieva-prisjahat-na-vernost-hitleru.html
+	set tags kiev,marsh,ss_galichina,ukraina
+page
+	set url https://news.rambler.ru/world/46281176-putin-ne-takoy-ukrainku-vozmutila-propaganda-kieva/?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags propaganda,putin_vladimir,rossia,ukraina,vojna
+page
+	set url https://strana.ua/opinions/330731-vatikan-tak-vatikan-ili-petljanie-prodolzhaetsja.html
+	set tags jermak_andrej,ukraina,vatikan
+page
+	set url https://strana.ua/opinions/330814-vy-ved-uzhe-zametili-chto-potomki-pobeditelej-i-pobediteli-raznye-katehorii.html
+	set tags kiev,pobeditel,ss_galichina,ukraina,waffen_ss
+page
+	set url https://strana.ua/opinions/330816-natsionalisty-ne-sposobny-i-ne-prinesut-ukraine-nikakoho-protsvetanija.html
+	set tags kiev,marsh,nacizm,ss_galichina,ukraina
+page
+	set url https://strana.ua/opinions/330846-marsh-s-zihujushchimi-natsionalistami-v-kieve-sobytie-istoricheskoe.html
+	set tags kiev,marsh,nacizm,ss_galichina,ukraina
+page
+	set url https://strana.ua/opinions/330849-v-ukraine-utverdilas-spetsificheskaja-kultura-horodskikh-sumasshedshikh.html
+	set tags gorod,kultura,sumasshestvie,ukraina
+page
+	set url https://strana.ua/opinions/330979-za-propahandu-natsizma-k-uholovnoj-otvetstvennosti-v-ukraine-ne-privlekli-nikoho.html
+	set tags kiev,nacizm,nakazanie,propaganda,ukraina
+page
+	set url https://strana.ua/opinions/330989-natsizm-eto-na-zihi-a-otnoshenie-k-sebe-i-okruzhajushchim.html
+	set tags kiev,marsh,nacizm,obschestvo,ss_galichina,ukraina
+page
+	set url https://strana.ua/opinions/331020-perehovory-po-donbassu-napominajut-tantsy-s-bubnom.html
+	set tags kiev,putin_vladimir,ukraina,vatikan
+page
+	set url https://strana.ua/opinions/331028-zapad-pytaetsja-predstavit-koboleva-ukrainskim-alladinom.html
+	set tags alladin,kobolev,ukraina,zapad
+page
+	set url https://strana.ua/opinions/331037-prinesti-v-zhertvu-stepanova-ili-shmyhalja-uzhe-nedostatochno.html
+	set tags sluga_naroda,stepanov_maksim,ukraina,zhertva
+page
+	set url https://strana.ua/articles/private-life/330970-bolshoe-stroitelstvo-bolshoho-cheloveka-juzik-iz-95-kvartala-vozvodit-osobnjak-pod-kievom.html
+	set tags kiev,kvartal95,osobnjak,stroitelstvo,ukraina
+page
+	set url https://strana.ua/news/331030-v-mid-rossii-nazvali-dokazatelstva-sushchestvovanija-natsizma-v-ukraine.html
+	set tags kiev,nacizm,ukraina
+page
+	set url https://strana.ua/showbiz/330998-morhenshtern-poobeshchal-kontserty-v-ukraine-nesmotrja-na-priznanie-eho-uhrozoj-natsbezopasnosti.html
+	set tags kiev,morgenstern,muzyka,rossia,sbu,ukraina,zapret
+page
+	set url https://strana.ua/news/330944-sluha-naroda-kamelchuk-ne-stal-kritikovat-vcherashnij-marsh-v-chest-ss-halichina-v-kieve.html
+	set tags kiev,nacizm,sluga_naroda,ss_galichina,ukraina
+page
+	set url https://news.obozrevatel.com/society/aleksandr-levchenko-kreschenie-kievskogo-gosudarstva-duhovnaya-missiya-kieva-ta-zhe-chto-i-bolshe-tyisyacheletiya-nazad.htm
+	set tags cerkov,duhovnost,istoria,kiev,kievrus,missia,missia_kieva,pravoslavie,rusmir,ukraina,vera
+page
+	set url https://news.rambler.ru/ukraine/42721846-ukrainskiy-politik-provozglasila-missiey-kieva-razval-rossiyskoy-federatsii/
+	set tags kiev,missia,missia_kieva,moskovia,rossia,ukraina
+page
+	set url https://strana.ua/news/331088-vladimir-zelenskij-pozdravil-s-jubileem-korolja-shvetsii.html
+	set tags 75_let,birthday,kiev,korol.shvecia,korol.shvecia.gustav_xvi,pozdravlenie,shvecia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/330988-morhenshtern-ne-priedet-v-ukrainu-pochemu-otmenili-kontserty.html
+	set tags kiev,morgenstern,muzyka,rossia,sbu,showbiz,ukraina,zapret,sternenko_sergei
+page
+	set url https://strana.ua/opinions/331059-nashi-ulitsy-i-prospekty-nuzhno-nazyvat-imenam-nastojashchikh-herov.html
+	set tags geroizm,ideologia,kiev,pamjat,romanenko_jurij,ukraina
+page
+	set url https://strana.ua/opinions/331061-kazhetsja-razumkov-vstupil-v-borbu-za-elektorat-zelenskoho.html
+	set tags __apr_2021.kiev.marsh_ss_galichina,elektorat,marsh,razumkov_dmitrii,reakcia,ss_galichina,ukraina,vatnik
+page
+	set url https://strana.ua/opinions/331063-natsistskij-marsh-v-kieve-imeet-vse-shansy-stat-traditsionnym.html
+	set tags __apr_2021.kiev.marsh_ss_galichina,kiev,marsh,nacizm,ss_galichina,tradicii,ukraina
+page
+	set url https://strana.ua/opinions/331066-ohrabit-ukrainu-reshili-bez-obeshchannykh-referendumov.html
+	set tags ekonomika,kiev,korporacia,ukraina,verhovna_rada,zagranica,zakon,zemlja
+page
+	set url https://strana.ua/opinions/331092-tot-kto-svjazhetsja-s-amerikoj-imeet-vse-shansy-zakhiret-vmeste-s-nej.html
+	set tags elita,kiev,kitaj,motor_sich,strategia,ukraina,usa
+page
+	set url https://strana.ua/opinions/331096-ostalos-tolko-priznat-neokollaboratsionizm-ofitsialnoj-politikoj.html
+	set tags kiev,nezalezhnist,obschestvo,politika,subjektnost,ukraina,us_embassy
+page
+	set url https://strana.ua/news/331081-markarova-zajavila-chto-ukraina-mozhet-podelitsja-s-ssha-opytom-protivostojanija-kiberatakam-rf.html
+	set tags kiberataka,markarova_oksana.posol,rossia,ukraina
+page
+	set url https://strana.ua/news/331047-vstrecha-ze-i-putina-varianty-situatsija-v-naftohaze-hlavnye-itohi-dnja.html
+	set tags itogi,karantin,kiev,lockdown,ss_galichina,strana_ua,ukraina,ukrainizacia
+page
+	set url https://strana.ua/news/330840-vstrecha-putina-i-zelenskoho-otstavka-koboleva-chto-proizoshlo-v-ukraine-28-aprelja.html
+	set tags italia,kiev,putin_vladimir,rossia,ukraina,vatikan,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/articles/analysis/330993-kak-zelenskij-zabral-sebe-enerhetiku-i-poshel-v-ataku-na-prozapadnoe-lobbi.html
+	set tags konflikt,politika,ukraina,verhovna_rada,zapad
+page
+	set url https://lenta.ru/articles/2021/04/30/risitas/
+	set tags _important,hohotun,huan_hoja_borhi.hohotun,internet,ispania,jumor,smeh,smert
+page
+	set url https://fraza.com/fraze/300387-nikita-poturaev
+	set tags _important,fraza,nakazanie,opzzh,poturaev_nikita,rasstrel,sud.vojenno_polevoj,ukraina,verhovna_rada,vojna,zakon
+page
+	set url https://fraza.com/video/300429-s-bajdenom-proizoshel-strannyj-kurez-
+	set tags biden_joe,karman,konfuz,maska,usa
+page
+	set url https://analytics.hvylya.net/229714-nato-i-korrupciya
+	set tags kiev,nato,pomosch,rossia,ugroza,ukraina,usa,vojna
+page
+	set url https://analytics.hvylya.net/224767-velikoderzhavniy-terorizm-chomu-rosiya-ne-zaboronila-diyalnist-rir
+	set tags rossia
+page
+	set url https://zaxid.net/kiva_v_ukrayinskiy_nautsi_n1518206
+	set tags __apr_2021.kiva.dissertacia,dissertacia,elita,kiev,kiva_ilja,kniga,obrazovanie,ukraina
+page
+	set url https://zaxid.net/pro_toloki_yak_simptom_n1518113
+	set tags fleshmob,ludi,obschestvo,subbotnik,toloka,ukraina
+page
+	set url https://beztabu.net/golova-institutu-nacionalnoyi-pamyati-zasudiv-marsh-na-chest-diviziyi-ss-galichina_n73229
+	set tags __apr_2021.kiev.marsh_ss_galichina,institut_nacpamjati,istoria,osuzhdenie,pamjat,ukraina
+page
+	set url https://beztabu.net/yevroparlament-obicyaye-rosiyi-strashni-kari-u-vipadku-agresiyi_n73230
+	set tags agressia,evroparlament,granica,nakazanie,osuzhdenie,rossia,ugroza,ukraina,vojna,vojsko
+page
+	set url https://news.obozrevatel.com/politics/zelenskij-zahotel-izmenit-normandskij-format-razbiraemsya-v-realnosti-novoj-idei-prezidenta.htm
+	set tags donbass,normandskaja_chetverka,peregovory,putin_vladimir,ukraina,usa,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-mne-rossiyane-govorili-ne-radujtes-vyi-esche-v-rossii-ne-zhili.htm
+	set tags radost',rossia,ukraina,zhizn
+page
+	set url https://news.obozrevatel.com/society/v-vojne-s-rf-veteranyi-gotovyi-pervyimi-stat-na-zaschitu-ukrainyi-poetomu-sejchas-ih-nuzhno-bolshe-podderzhat.htm
+	set tags ato,kiev,ugroza,ukraina,veteran
 eof
 off
 page

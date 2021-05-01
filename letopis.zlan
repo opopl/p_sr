@@ -23870,6 +23870,90 @@ page
 page
 	set url https://rusvesna.su/recent_opinions/1468542753
 	set tags buzina_oles,donbass,doneck,kiev,kultura,literatura,malorossia,novorossia,smert,ukraina
+page
+	set url https://ria.ru/20210426/ukraina-1729951263.html?in=t
+	set tags putin_vladimir,rossia,strana_ua,ukraina,zelenskii_vladimir
+page
+	set url https://ukraina.ru/history/20201206/1029872550.html
+	set tags 1240,6_dec,istoria,kiev,kievrus,mongoly,ukraina
+page
+	set url https://strana.ua/opinions/331100-v-istorii-s-natsistskim-marshem-raduet-odno-chto-sobralos-malo.html
+	set tags germania,kiev,marsh,nacizm,ss_galichina,ukraina
+page
+	set url https://strana.ua/news/331140-mendel-uvolnenie-kuda-ona-ukhodit-i-kto-ee-zamenit.html
+	set tags mendel_julia,odezhda,ofis_prezidenta,uhod,ukraina,zhaloba
+page
+	set url https://strana.ua/video/331162-marsh-v-chest-ss-halichina-chto-dumajut-kievljane-uznala-strana.html
+	set tags __apr_2021.kiev.marsh_ss_galichina,beloglazova_antonina.kiev.stranaua,istoria,kiev,kievljane,marsh,mirvojna2,nacizm,opros,ss_galichina,ukraina,waffen_ss
+page
+	set url https://strana.ua/news/331080-trahedija-v-izraile-novosti-foto-i-video-s-mesta-sobytija.html
+	set tags davka,evrei,izrail,mogila,smert,tragedia
+page
+	set url https://kharkov.strana.ua/331200-v-kharkove-ssora-v-ocheredi-v-bufet-zakonchilas-strelboj.html
+	set tags draka,harkov,ludi,obschestvo,oruzhie,policia,ssora,strelba
+page
+	set url https://strana.ua/news/331183-v-rossii-v-smertelnoe-dtp-popala-detskaja-basketbolnaja-komanda-iz-volhohrada.html
+	set tags basketbol,deti,devochka,dtp,rossia,smert,sport,stavropol.kraj,tragedia,volgograd
+page
+	set url https://strana.ua/news/331176-antonenko-na-svobode-chto-eto-oznachaet-dlja-dela-sheremeta.html
+	set tags antonenko_anton.ukraina.volonter.ato,kiev,sheremet_pavel,sud,ukraina
+page
+	set url https://strana.ua/news/331198-sluhi-naroda-podali-zajavlenie-v-natspolitsiju-iz-za-provedenija-marsha-v-chest-divizii-halichina.html
+	set tags __apr_2021.kiev.marsh_ss_galichina,kiev,marsh,nacizm,obschestvo,sluga_naroda,ss_galichina,ukraina,verhovna_rada
+page
+	set url https://strana.ua/opinions/331110-polskij-analoh-naftohaza-imeet-pribyl-no-poluchajut-tam-menshe-chem-v-ukraine.html
+	set tags dengi,ekonomika,naftogaz,polsha,pribyl,ukraina
+page
+	set url https://strana.ua/opinions/331112-esli-k-kolkhozu-prikrutit-nabsovet-poluchitsja-ne-korporatsija-a-kolkhoz-s-nabsovetom.html
+	set tags ekonomika,kolhoz,nabsovet,ukraina
+page
+	set url https://strana.ua/opinions/331119-vsehda-kazalos-chto-pobeda-dlja-ukrainy-vozvrashchenie-donbassa-i-kryma.html
+	set tags donbass,krym,pobeda,ukraina
+page
+	set url https://strana.ua/opinions/331188-rejtinh-zarobitchan-edinstvennyj-v-kotorom-ukraine-svetit-pervoe-mesto.html
+	set tags ekonomika,rejting,ukraina,zarobitchane
+page
+	set url https://strana.ua/opinions/331191-chto-mozhet-byt-luchshej-antireklamoj-chem-marshirujushchie-krivozubye-ksenofoby.html
+	set tags __apr_2021.kiev.marsh_ss_galichina,kiev,nacizm,ss_galichina,ukraina
+page
+	set url https://strana.ua/opinions/331219-ukraina-uzhe-po-suti-prevratilas-v-federatsiju.html
+	set tags federacia,federalizacia,feodalizm,kiev,obschestvo,ukraina
+page
+	set url https://strana.ua/opinions/331223-movnyj-ombudsmen-kremen-khochet-bolshe-zakrytykh-russkikh-shkol-.html
+	set tags jazyk,mova,shkola,ukraina,ukrainizacia,zapret
+page
+	set url https://strana.ua/news/331233-reaktsija-hosdepartament-ssha-na-uvolnenie-andreja-koboleva.html
+	set tags ekonomika,es,kobolev,naftogaz,ukraina,usa,uvolnenie
+page
+	set url https://lenta.ru/brief/2021/04/30/posolstvo_ssha/
+	set tags dip_otnoshenia,rossia,skandal,usa
+page
+	set url https://plus.obozrevatel.com/crime/sud-otpustil-antonenko-domoj.htm
+	set tags antonenko_anton.ukraina.volonter.ato,kiev,sheremet_pavel,ukraina
+page
+	set url https://news.obozrevatel.com/society/sssr-strana-byitovogo-vorovstva.htm
+	set tags istoria,obschestvo,sssr,vorovstvo
+page
+	set url https://news.obozrevatel.com/kiyany/life/fanatyi-iosifa-stalina-v-kieve-v-stolitse-nezavisimoj-ukrainyi.htm
+	set tags istoria,kiev,kievljane,kievljanin_korennoj,mirvojna2,sssr,stalin_jozef,ukraina
+page
+	set url https://news.obozrevatel.com/society/hvatit-umirat-za-ukrainu.htm
+	set tags __apr_2021.kiva.dissertacia,dissertacia,kiva_ilja,ukraina
+page
+	set url https://news.obozrevatel.com/russia/hoteli-kolbasu-i-plombir-a-poluchili-zonu-vyi-etogo-dobivalis-rosiyane.htm
+	set tags dip_otnoshenia,rossia,usa
+page
+	set url https://news.obozrevatel.com/society/ubogoe-televidenie-v-sssr-vse-odobryalos-sverhu.htm
+	set tags istoria,sssr,tv
+page
+	set url https://gazeta.ua/blog/55007/rosiya-vse-bilshe-staye-krayinoyulyakalkoyu-z-seriyi-chogo-mi-unikli
+	set tags moskva,rossia,ukraina
+page
+	set url https://gazeta.ua/blog/55010/lavrov-znovu-kahikaye-zamist-matyukiv-teper-shizofreniya
+	set tags kiselev_dmitrij.rossia.tv,lavrov_sergei,psihologia,psihoz,rossia,shizofrenia,ukraina
+page
+	set url https://gazeta.ua/blog/55003/mifi-pro-diviziyu-ss-galichina-stvorila-radyanska-propaganda
+	set tags istoria,mif,propaganda,ss_galichina,sssr,ukraina
 eof
 off
 page

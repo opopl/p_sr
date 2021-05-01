@@ -24108,6 +24108,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/putin-zastosovuye-stratehiyu-bozhevilnoho-dmytro-kuleba/31232138.html
 	set tags gosdep,kuleba_dmitrii,putin_vladimir,rossia,ukraina
+page
+	set url https://sharij.net/v-dnepre-trebuyut-uvolneniya-zamglavy-oblsoveta-za-slova-v-ukraine-net-vojny-foto?fbclid=IwAR3g56WvTU57UUjGejmnus1J7bCAUIdorfMg5SrghoEtPEqgNHsdNGpWDiQ
+	set tags dnepropetrovsk,donbass,miting,ukraina,vojna
 eof
 off
 page

@@ -24075,6 +24075,39 @@ page
 page
 	set url https://sharij.net/pod-kievom-vnuk-iznasiloval-svoyu-91-letnyuyu-babushku
 	set tags babushka,iznasilovanie,kiev,kriminal,ukraina,vnuk
+page
+	set url https://ukraina.ru/news/20210501/1031306973.html
+	set tags buzina.vp,buzina_oles,ukraina
+page
+	set url https://sharij.net/sharij-facebook-udalil-straniczu-zhurnalista-pavla-volkova?fbclid=IwAR1POLwh4tahbHcoQYm_wgBVYMTiH9vA8IUa8OhEys_2-vWecz0m3bfm4rg
+	set tags cenzura,facebook,internet,ukraina,volkov_pavel
+page
+	set url https://news.obozrevatel.com/politics/putin-dobilsya-svoej-tseli-govorit-s-nim-nachali.htm
+	set tags putin_vladimir,rossia,zapad
+page
+	set url https://strana.ua/news/331308-upts-poluchila-blahodatnyj-ohon-v-ierusalime-.html
+	set tags blagodatnyj_ogon,cerkov,izrail,ukraina,upc,velykden',vera
+page
+	set url https://strana.ua/opinions/331316-kakoj-voobshche-smysl-u-etoj-vlasti-bez-julii-mendel.html
+	set tags mendel_julia,ukraina,uvolnenie,vlast
+page
+	set url https://analytics.hvylya.net/229769-zamysel-ukrainskogo-gosudarstva-socialnost-samodostatochnost-nezavisimost-chast-tretya
+	set tags analiz,nacia,nezalezhnist,ukraina
+page
+	set url https://zaxid.net/tut_ne_u_kivi_sprava_n1518246
+	set tags __apr_2021.kiva.dissertacia,dissertacia,kiva_ilja,skandal,ukraina
+page
+	set url http://lug-info.com/news/one/predstaviteli-ssha-i-brazilii-pozdravili-zhitelei-respubliki-s-prazdnikom-vesny-i-truda-67294
+	set tags brazilia,lnr,pervomaj,pozdravlenie,prazdnik,usa
+page
+	set url http://lug-info.com/news/one/profsoyuzy-lnr-vozlozhili-tsvety-k-pamyatnikam-posvyaschennym-trudovym-podvigam-foto-67312
+	set tags foto,lnr,pervomaj,podvig,profsouz,truzhenik
+page
+	set url https://www.vesti.ru/article/2557738
+	set tags dip_otnoshenia,rossia,usa
+page
+	set url https://www.radiosvoboda.org/a/putin-zastosovuye-stratehiyu-bozhevilnoho-dmytro-kuleba/31232138.html
+	set tags gosdep,kuleba_dmitrii,putin_vladimir,rossia,ukraina
 eof
 off
 page

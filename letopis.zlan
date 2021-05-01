@@ -23970,6 +23970,105 @@ page
 	set url https://nash.live/news/society/u-mene-prosto-nemaje-sliv-nazarov-prokomentuvav-zaklik-farion-striljati-jomu-v-rot.html
 	set tags avtobus,farion_irina,fraza,kiev,nazarov_maks.tv.ukr,nenavist,ukraina
 	set date 29_01_2021
+page
+	set url https://strana.ua/news/331244-vo-lvove-sobirajutsja-i-dalshe-proslavit-diviziju-ss-halichina.html
+	set tags __apr_2021.kiev.marsh_ss_galichina,kiev,marsh,ss_galichina,ukraina
+page
+	set url https://strana.ua/news/330953-blahodatnyj-ohon-2021-soshel-v-ierusalime-foto-video-pozdravlenija-v-otkrytkakh-.html
+	set tags aeroport.kiev,cerkov,hristos,izrail,kiev,ukraina,upc,velykden',vera
+page
+	set url https://strana.ua/opinions/331251-na-mirovykh-finansovykh-rynkakh-obrazovalsja-ohromnyj-puzyr.html
+	set tags ekonomika,world
+page
+	set url https://strana.ua/opinions/331254-vlast-formiruet-vam-informatsionnuju-sredu-otvlekajushchuju-ot-hlavnoho.html
+	set tags kiev,obschestvo,rossia,ss_galichina,ukraina
+page
+	set url https://strana.ua/opinions/331255-mozhet-byt-otsenit-dejatelnost-klichko-sleduet-hermanii.html
+	set tags __apr_2021.kiev.marsh_ss_galichina,germania,klichko_vitalij,marsh,osuzhdenie,ss_galichina,sud,ukraina
+page
+	set url https://strana.ua/opinions/331266-vse-bolshe-ljudej-vyihryvajut-iski-po-nezakonnoj-ljustratsii.html
+	set tags lustracia,maidan2,prokuratura,rnbo,sud,ukraina,zakon
+page
+	set url https://strana.ua/opinions/331267-srednij-klass-v-ukraine-otsutstvuet-kak-klass.html
+	set tags ekonomika,obschestvo,srednij_klass,ukraina
+page
+	set url https://strana.ua/opinions/331274-ideja-voskressheho-boha-kasaetsja-ne-tolko-very-ili-politiki-no-voobshche-vseho.html
+	set tags nicshe_fridrih.filosof,politika,smert,ukraina,vera,voskresenie
+page
+	set url https://strana.ua/opinions/331286-ukrainskij-pravjashchij-klass-mutanty-s-polnym-otsutstvie-empatii.html
+	set tags elita,mutant,obschestvo,ukraina,vlast,zverinec,kletka,fraza,_important
+page
+	set url https://kiev.strana.ua/331297-karantin-v-kieve-zhiteli-stolitsy-brosilis-v-trts-i-mahaziny.html
+	set tags karantin,kiev,kievljane,magazin,torgovlja,ukraina
+page
+	set url https://kiev.strana.ua/331273-vlasti-kieva-ne-imejut-prava-zapreshchat-massovye-meroprijatija.html
+	set tags __apr_2021.kiev.marsh_ss_galichina,fraza,gorod,kiev,kmda,ss_galichina,ukraina,zapret
+page
+	set url https://kiev.strana.ua/331272-dtp-v-kieve-pjanyj-voditel-ustroil-pohonju-s-politsiej-est-pohibshaja.html
+	set tags dtp,geraschenko_anton,kiev,mvd_ukraina,pjanstvo,smert,ukraina
+page
+	set url https://fraza.com/analytics/300452-ukraine-nuzhna-drugaja-estetika
+	set tags _important,cennosti,estetika,evropa,fraza,future,nacia,neobhodimost',ukraina
+page
+	set url https://fraza.com/news/300396-kladoiskateli-vyshli-na-sled-sokrovisch-breslau-v-byvshem-natsistskom-bordele
+	set tags breslau,dnevnik,nacizm,nahodka,polsha,sokrovische,ss
+page
+	set url https://fraza.com/news/300462-ssha-britanija-i-turtsija-prevraschajut-zelenskogo-v-radikalnogo-natsista-dlja-vojny-s-rossiej-potemkin
+	set tags nacizm,potemkin_aleksandr.ukr.blogger,rossia,zapad,zelenskii_vladimir
+page
+	set url https://fraza.com/news/300459-udaril-devushku-i-mog-prisvoit-rjasu-podrobnosti-o-skandalnom-svjaschennike-v-kieve
+	set tags devushka,kiev,podol,skandal,udar,ukraina
+page
+	set url https://fraza.com/fraze/300470-onufrij
+	set tags donbass,fraza,onufrii_mitropolit,ukraina,upc,velykden',vojna
+page
+	set url https://lenta.ru/articles/2021/05/01/traditional/
+	set tags asia,covid,lechenie
+page
+	set url https://lenta.ru/news/2021/05/01/cheburashka/
+	set tags cheburashka,miting,moskva,rossia
+page
+	set url https://lenta.ru/news/2021/05/01/glava_po_donbassy_ssha/
+	set tags donbass,kuleba_dmitrii,ukraina,usa,vojna
+page
+	set url https://strana.ua/sport/331301-anhelina-kalinina-vyshla-v-final-turnira-serii-if-w60.html
+	set tags kalinina_angelina.ukr.tenisist,rahimova_kamilla.rossia.tenisist,rossia,sport,tenis,ukraina
+page
+	set url https://ukraina.ru/opinion/20210501/1031296219.html
+	set tags 1840,1888,1_may,dekomunizacia,dubinushka,goloseevo,iljenko_jurij,kiev,kommunizm,kultura,majevka,mat_gorodam_ruskim,melnikov_juvenalij.marksist_revolucioner,pervomaj,pjanstvo,prazdnik,rusimperia,shaljapin_fedor,sssr,ukraina
+page
+	set url https://ukraina.ru/opinion/20210501/1031302948.html
+	set tags __apr_2021.kiev.marsh_ss_galichina,berdnik_miroslava,fashizm,kiev,nacizm,ss_galichina,ukraina
+page
+	set url https://ukraina.ru/news/20210501/1031308216.html
+	set tags ekonomika,kiev,razryv,rossia,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210501/1031255049.html
+	set tags etnocid,evroparlament,jazyk,konformizm,mova,nacia,obschestvo,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210501/1031255520.html
+	set tags 1869,bessarabka,istoria,kiev,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210501/1031288681.html
+	set tags astrologia,gagarin_jurij
+page
+	set url https://ukraina.ru/history/20210501/1031256585.html
+	set tags 1927,_important,mirvojna2,nacizm,poltava,ukraina,ukraincy,usa
+page
+	set url https://ukraina.ru/history/20210429/1031270961.html
+	set tags 1918,29_apr,cirk,cirk.kiev,getman,istoria,kiev,skoropadskij_getman,ukraina,unr
+page
+	set url https://ukraina.ru/exclusive/20210430/1031272508.html
+	set tags atlantida,azov_more,priroda,ukraina
+page
+	set url https://plus.obozrevatel.com/kiyany/crime/v-kieve-paren-na-infiniti-ubil-17-letnyuyu-devushku-v-pyanom-dtp-foto-i-video.htm
+	set tags bulvar.kiev.lesi_ukrainki,devushka,dtp,infinity,kiev,lesja_ukrainka,smert,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/naveki-v-stroyu-14-geroev-otdavshih-zhizn-za-ukrainu-v-aprele.htm
+	set tags donbass,geroizm,rossia,smert,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/society/ot-mazepyi-do-banderyi.htm
+	set tags bandera_stepan,banknota,den_pobedy,isterika,istoria,legitimnost,mazepa_ivan,pobeda,prazdnik,rossia,ukraina,vov
 eof
 off
 page

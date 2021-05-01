@@ -24069,6 +24069,12 @@ page
 page
 	set url https://news.obozrevatel.com/society/ot-mazepyi-do-banderyi.htm
 	set tags bandera_stepan,banknota,den_pobedy,isterika,istoria,legitimnost,mazepa_ivan,pobeda,prazdnik,rossia,ukraina,vov
+page
+	set url https://sharij.net/zelenskij-nameknul-chto-vragam-nej-shastat-v-ukrainu?fbclid=IwAR3g56WvTU57UUjGejmnus1J7bCAUIdorfMg5SrghoEtPEqgNHsdNGpWDiQ
+	set tags granica,nehaj_schastyt,nehuj_shastat,pogranichnik,ukraina,vrag,zelenskii_vladimir
+page
+	set url https://sharij.net/pod-kievom-vnuk-iznasiloval-svoyu-91-letnyuyu-babushku
+	set tags babushka,iznasilovanie,kiev,kriminal,ukraina,vnuk
 eof
 off
 page

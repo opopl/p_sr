@@ -2,6 +2,7 @@
 ###news.ua
 #
 
+'nash.live' : { 'site' : 'news.ua.nash' } 
 'segodnya.ua' : { 'site' : 'news.ua.segodnya' } 
 'vesti.ua' : { 'site' : 'news.ua.vesti_ua' } 
 'ukrmir.info' : { 'site' : 'news.ua.ukrmir' } 

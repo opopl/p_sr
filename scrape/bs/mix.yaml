@@ -94,6 +94,7 @@ include:
 
 ###news_ua
     - news.ua.vesti_ua
+    - news.ua.nash
     - news.ua.ukrmir
     #- news.ua.segodnya
     - news.ua.zbruc

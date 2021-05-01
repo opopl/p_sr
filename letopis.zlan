@@ -23954,6 +23954,22 @@ page
 page
 	set url https://gazeta.ua/blog/55003/mifi-pro-diviziyu-ss-galichina-stvorila-radyanska-propaganda
 	set tags istoria,mif,propaganda,ss_galichina,sssr,ukraina
+page
+	set url https://news.obozrevatel.com/ukr/society/kyiv-a-ne-kiev-farion-skazala-chomu-tse-printsipovo-dlya-ukraini.htm
+	set tags farion_irina,kiev,kiev_kyiv,slovo,slovo.kiev,ukraina,usa
+page
+	set url https://zaxid.net/farion_ya_budu_priyizhdzhati_v_kiyiv_tilki_na_robotu_n1269429
+	set tags farion_irina,fraza,kiev,lvov,rabota,ukraina,vybory
+page
+	set url https://24tv.ua/farion_nazvala_rosiyskomovnih_gromadyan_ukrayini_rozumovo_vidstalimi_n960588
+	set tags _important,farion_irina,fraza,jazyk,mova,nenavist,oskorblenie,ukraina,unizhenie
+page
+	set url https://popcorn.politeka.net/uk/302299-ne-shlyapa-a-kontraceptiv-farion-vozmutili-izdevatelstva-nad-glavnoy-elkoy-strany
+	set tags farion_irina,jalynka,kapeljuh,kiev,novyj_god,ukraina
+page
+	set url https://nash.live/news/society/u-mene-prosto-nemaje-sliv-nazarov-prokomentuvav-zaklik-farion-striljati-jomu-v-rot.html
+	set tags avtobus,farion_irina,fraza,kiev,nazarov_maks.tv.ukr,nenavist,ukraina
+	set date 29_01_2021
 eof
 off
 page

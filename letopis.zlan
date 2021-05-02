@@ -24126,6 +24126,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/ten-years-on-the-killing-of-osama-bin-laden/31232149.html
 	set tags 11_09_2001,11_sep,2001,murder,osama_ben_laden,terrorist,usa
+page
+	set url https://www.pravda.com.ua/articles/2021/05/2/7292251/
+	set tags cerkov,facebook,hristos,internet,ukraina,velykden',vera
 eof
 off
 page

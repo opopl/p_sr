@@ -24129,6 +24129,12 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/05/2/7292251/
 	set tags cerkov,facebook,hristos,internet,ukraina,velykden',vera
+page
+	set url https://www.pravda.com.ua/articles/2021/05/1/7291978/
+	set tags ideologia,istoria,kommunizm,pervomaj,redzone,ukraina,velykden'
+page
+	set url https://my-kiev.com/news/luchshie-pesni-o-kieve-top-13-kompozitsij-video.html
+	set tags kiev,kiev.pesni,kultura,muzyka,pesnja,ukraina
 eof
 off
 page

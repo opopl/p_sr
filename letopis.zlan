@@ -24123,6 +24123,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/obse-demarsh-delegatsiya-ukrainy-dzheppar/31233362.html
 	set tags krym,obse,promova,protest,russofobia,ukraina,vystuplenie
+page
+	set url https://www.radiosvoboda.org/a/ten-years-on-the-killing-of-osama-bin-laden/31232149.html
+	set tags 11_09_2001,11_sep,2001,murder,osama_ben_laden,terrorist,usa
 eof
 off
 page

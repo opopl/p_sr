@@ -24138,6 +24138,9 @@ page
 page
 	set url https://smotrim.ru/article/2557190
 	set tags deti,kino,kvartira,mater,murder,rossia,tragedia,vladivostok
+page
+	set url https://www.liveinternet.ru/community/puteshestvuya_ukrainoy/post424459165/
+	set tags 1962,kiev,kiev.pesni,muzyka,pesnja,sssr,ukraina
 eof
 off
 page

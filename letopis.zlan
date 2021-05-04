@@ -24282,6 +24282,9 @@ page
 page
 	set url http://voskhodinfo.su/panorama/geopolitika/65532-krovavyy-pervomay-obnischavshie-narodnye-massy-srazhayutsya-s-silovikami.html
 	set tags evropa,pervomaj,zapad
+page
+	set url https://news.obozrevatel.com/society/dmitrij-stuzhuk-umer-ot-covid-19-pogubilo-halatnoe-otnoshenie-k-svoej-zhizni.htm
+	set tags covid,instagram,kiev,smert,socset,stuzhuk_viktor.kiev.blogger,ukraina
 eof
 off
 page

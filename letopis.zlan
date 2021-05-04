@@ -24264,6 +24264,24 @@ page
 page
 	set url https://hvylya.net/interview/229898-andrey-ermolaev-30-letnyaya-voyna-za-nasledie-sssr
 	set tags istoria,obschestvo,sssr,ukraina
+page
+	set url https://lenta.ru/articles/2021/05/04/mozgovoi/
+	set tags 2014,debalcevo,donbass,mozgovoj_aleksei,ukraina,vojna
+page
+	set url http://lug-info.com/news/one/kazaki-peredali-paskhalnye-kulichi-organizatsii-invalidov-put-dobra-foto-67368
+	set tags dobro,kazaki,lnr,pomosch
+page
+	set url https://lgaki.info/novosti/deti-risuyut-mir-i-vojnu/
+	set tags babushka,deti,isskustvo,kartina,lgaki,lnr,lugansk,mir,pobeda,risunok,vojna
+page
+	set url https://lgaki.info/novosti/pobeditelej-pervogo-konkursa-studencheskih-nauchnyh-rabot-nagradili-v-akademii-matusovskogo/
+	set tags konkurs,lgaki,lnr,lugansk,nagrada,studenty,tvorchestvo
+page
+	set url http://voskhodinfo.su/panorama/geopolitika/65546-solnce-nad-ukrainskoy-pomoykoy.html
+	set tags rossia,ukraina
+page
+	set url http://voskhodinfo.su/panorama/geopolitika/65532-krovavyy-pervomay-obnischavshie-narodnye-massy-srazhayutsya-s-silovikami.html
+	set tags evropa,pervomaj,zapad
 eof
 off
 page

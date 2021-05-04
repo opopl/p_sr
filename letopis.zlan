@@ -24285,6 +24285,12 @@ page
 page
 	set url https://news.obozrevatel.com/society/dmitrij-stuzhuk-umer-ot-covid-19-pogubilo-halatnoe-otnoshenie-k-svoej-zhizni.htm
 	set tags covid,instagram,kiev,smert,socset,stuzhuk_viktor.kiev.blogger,ukraina
+page
+	set url https://sharij.net/v-ukraine-reshaetsya-budushhee-evropy-zelenskij
+	set tags evropa,ukraina,zajavlenie,zelenskii_vladimir
+page
+	set url https://sharij.net/5-prichin-pochemu-ukrainczy-ne-slushayut-ukrainoyazychnuyu-muzyku
+	set tags kiev,kreschatik.kiev,muzyka,pesnja,ukraina
 eof
 off
 page

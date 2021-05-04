@@ -24141,6 +24141,129 @@ page
 page
 	set url https://www.liveinternet.ru/community/puteshestvuya_ukrainoy/post424459165/
 	set tags 1962,kiev,kiev.pesni,muzyka,pesnja,sssr,ukraina
+page
+	set url https://history.wikireading.ru/37320
+	set tags istoria,kiev,kievrus,slovo.kiev,ukraina
+page
+	set url https://rian.com.ua/kiev/20180226/1032699218/nitsoy-vozmutilas-kolichestvu-russkogovoryazhih-vkieve.html
+	set tags jazyk,mova,nicoi_larisa,tambov,ukraina
+page
+	set url https://news.obozrevatel.com/politics/ukraina-ukrala-kiev-u-rusi-rossiyu-tknuli-nosom-vo-vrane.htm
+	set tags gosduma,kiev,krazha,moskovia,nicoi_larisa,rossia,ukraina
+page
+	set url https://news.obozrevatel.com/abroad/pereimenovat-rossiyu-v-moskoviyu-v-gosdume-obvinili-ukraintsev-v-vorovstve.htm
+	set tags gosduma,kiev,rossia,ukraina,nicoi_larisa
+page
+	set url https://news.obozrevatel.com/abroad/rus-ne-tolko-ukrainskaya-uchenaya-iz-moskovii-otvetila-nitsoj.htm
+	set tags jazyk,kiev,krazha,moskovia,mova,nicoi_larisa,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/interesnoyeryadom/hor-amerikanskih-shkolnikov-ispolnil-prekrasnoe-daleko-tolko-poslushaite-chto-poluchilos-60825b67b04fef640ced7d11
+	set tags deti,muzyka,pesnja,prekrasnoje_daleko,rossia,usa
+page
+	set url https://strana.ua/news/331631-bastu-v-kieve-razyskivajut-radikaly.html
+	set tags basta.rossia.repper,kiev,kreschatik.kiev,ohota,poisk,rossia,sternenko_sergei,ukraina
+page
+	set url https://strana.ua/opinions/331313-ukraintsev-ozhidaet-dalnejshee-sokrashchenie-sotsialnoj-zashchity.html
+	set tags ekonomika,soc_zaschita,sokraschenie,ukraina,verhovna_rada
+page
+	set url https://news.obozrevatel.com/society/ponaehali.htm
+	set tags krym,obschestvo,rossia,sevastopol,zhizn
+page
+	set url https://news.obozrevatel.com/abroad/golda-meir-nasha-sudba-ne-mozhet-byit-i-ne-budet-opredelena-drugimi.htm
+	set tags istoria,izrail,kiev,meir_golda,sssr,ukraina
+page
+	set url https://news.obozrevatel.com/society/uroki-pandemii.htm
+	set tags covid,danilov_aleksei,pandemia,rnbo,ukraina,vaccine
+page
+	set url https://covid.obozrevatel.com/stepanov-o-rossijskoj-vaktsine-sputnika-v-ukraine-ne-budet.htm
+	set tags covid,rossia,sputnik_v,stepanov_maksim,ukraina,vaccinacia,vaccine,zapret
+page
+	set url https://strana.ua/news/331649-poroshenko-pokupal-predmety-iskusstva-cherez-offshornye-kompanii-otchet-occrp.html
+	set tags isskustvo,offshore,poroshenko_petr,ukraina
+page
+	set url https://strana.ua/opinions/331580-rukhnul-most-kotoryj-remontirovali-sovsem-nedavno-pri-poroshenko.html
+	set tags kiev,luck,most,remont,ukraina
+page
+	set url https://strana.ua/opinions/331564-kakoj-nesvbody-v-sovetskoe-vremja-ne-khvatalo-zelenskomu.html
+	set tags polsha,sssr,svoboda,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/331539-po-prirodnym-resursam-ukraina-na-pervykh-mestakh-v-mire.html
+	set tags ekonomika,rejting,ukraina
+page
+	set url https://strana.ua/opinions/331537-ukrainu-delajut-vse-menee-prihodnym-dlja-prozhivanija-mestom.html
+	set tags ekonomika,ukraina,zhizn
+page
+	set url https://strana.ua/opinions/331506-bespolezno-reformirovat-ukrainu-esli-nravstvennost-obshchestva-ostanetsja-toj-zhe.html
+	set tags lechenie,nravstvennost,obschestvo,ukraina
+page
+	set url https://strana.ua/opinions/331504-ukrainskie-chinovniki-schitajut-nizhe-svoeho-dostoinstva-behat-za-kakimi-to-tam-investorami.html
+	set tags izrail,kiev,pfizer,ukraina
+page
+	set url https://strana.ua/opinions/331499-ultrapravykh-ukrainskaja-politsija-ne-zaderzhivaet.html
+	set tags odessa,policia,ukraina,ultrapravyje
+page
+	set url https://strana.ua/opinions/331482-kohda-serial-o-nezavisimosti-snimaetsja-na-denhi-ssha-eto-i-est-neokolonializm.html
+	set tags film,kolonia,nezalezhnist,ukraina,usa
+page
+	set url https://strana.ua/opinions/331481-pochemu-novaja-vlast-ne-rassleduet-ubijstva-v-odesse-i-na-majdane.html
+	set tags kiev,obschestvo,odessa,pamjat,rassledovanie,ukraina,vlast
+page
+	set url https://www.radiosvoboda.org/a/ukrayinska-mova-i-rosiyski-pysmennyky/31234588.html
+	set tags kulish_pantelejmon,literatura,marko_vovchok,rossia,turgenev_ivan,ukraina
+page
+	set url https://www.radiosvoboda.org/a/rakety-putina-zbroya-rosii/31231785.html
+	set tags oborona,putin_vladimir,raketa,rossia,ukraina
+page
+	set url https://www.epravda.com.ua/publications/2021/05/4/673584/
+	set tags ekonomika,kiev,ovo.servis.ukraina,ukraina
+page
+	set url https://www.pravda.com.ua/columns/2021/04/30/7292130/
+	set tags 02.05.2014,odessa,rassledovanie,sud,tragedia,ukraina
+page
+	set url https://life.pravda.com.ua/projects/happiness-day/2021/05/1/244801/
+	set tags schastje,tkachenko_aleksandr,ukraina
+page
+	set url https://strana.ua/opinions/331467-ljubov-k-natsizmu-v-ukraine-pytajutsja-opravdat-s-nauchnoj-tochki-zrenija.html
+	set tags __apr_2021.kiev.marsh_ss_galichina,nacizm,obschestvo,ss_galichina,ukraina
+page
+	set url https://strana.ua/opinions/331470-chto-budet-esli-ubrat-perehorodku-otlichajushchuju-nas-ot-shimpanze.html
+	set tags 02.05.2014,odessa,shimpanze,tragedia,ukraina
+page
+	set url https://strana.ua/opinions/331466-2-maja-2014-hoda-natsionalisticheskaja-publika-pochuvstvovala-vsedozvolennost.html
+	set tags 02.05.2014,civil_war,nenavist,odessa,ukraina
+page
+	set url https://strana.ua/opinions/331399-potakanie-neofashizmu-eto-ne-lozunhi-nezavisimosti-a-teorija-nenavisti.html
+	set tags fashizm,izrail,nacizm,nenavist,ukraina
+page
+	set url https://strana.ua/opinions/331397-khotite-uznat-chto-takoe-strana-mechty-zelenskoho.html
+	set tags mechta,obschestvo,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/331391-prikryv-tsifrovoe-tv-zelenskij-vytolknul-ukraintsev-v-rossijskij-sputnik.html
+	set tags hutor,kiev,obschestvo,rossia,tv,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/331384-pokhozhe-imenno-anty-a-ne-tripoltsy-byli-predkami-ukraintsev.html
+	set tags anty,istoria,les,polsha,tripolje,ukraina,vyrubka_lesa
+page
+	set url https://strana.ua/opinions/331370-albert-ejnshtejn-ob-ukraine-ukraintsakh-i-obo-vse-ostalnom.html
+	set tags _important,einstein_albert,fraza,ukraina
+page
+	set url https://fraza.com/analytics/300469-dauny-i-lokdaun
+	set tags covid,durni,karantin,lockdown,obschestvo,ukraina
+page
+	set url https://fraza.com/blog/300471-natsistskie-ubljudki-ss-galichina-i-samyj-debilnyj-mer-evropy
+	set tags __apr_2021.kiev.marsh_ss_galichina,debilizacia,klichko_vitalij,kommunizm,nacizm,ss_galichina,ukraina
+page
+	set url https://strana.ua/news/331587-upal-most-vo-lvovskoj-oblasti-foto-i-podrobnosti-chp.html
+	set tags avaria,lvov,most,ukraina
+page
+	set url https://kiev.strana.ua/331652-devushki-kotorye-na-paskhu-zaduvali-svechi-v-tserkvi-na-podole-izvinilis.html
+	set tags cerkov,kiev,podol,podol.kiev,skandal,ukraina
+page
+	set url https://kiev.strana.ua/331459-v-kieve-khulihanki-pili-kurili-i-zaduvali-svechi-v-khrame-na-paskhu-video.html
+	set tags cerkov,devochka,huliganstvo,podol.kiev,skandal,ukraina
+page
+	set url https://hvylya.net/interview/229898-andrey-ermolaev-30-letnyaya-voyna-za-nasledie-sssr
+	set tags istoria,obschestvo,sssr,ukraina
 eof
 off
 page

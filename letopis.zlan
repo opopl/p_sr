@@ -24333,6 +24333,9 @@ page
 page
 	set url https://strana.ua/news/331741-v-ternopolskoj-oblasti-byvshij-voennykh-zarezal-muzhchinu-kotoryj-lomilsja-k-nemu-v-dom.html
 	set tags ato,kriminal,murder,ternopil,ukraina,veteran
+page
+	set url https://cyrillitsa.ru/history/157863-oko-za-oko-kak-na-rusi-reshali-voprosy.html
+	set tags istoria,kievrus,oko_za_oko,pravosudie
 eof
 off
 page

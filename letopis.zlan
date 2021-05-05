@@ -24453,6 +24453,21 @@ page
 page
 	set url https://rap.ua/yarmak-prokommentiroval-skandalnoe-intervyu-dorna/
 	set tags dorn_ivan,interview,jarmak.ukr.pevec,kultura,muzyka,rep.muzyka.stil,showbiz,ukraina
+page
+	set url https://strana.ua/news/331796-kharkovchanin-v-sude-otstaivaet-pravo-ukraintsev-privivatsja-rossijskim-sputnikom-v.html
+	set tags covid,sputnik_v,stepanov_maksim,ukraina,vaccine
+page
+	set url https://strana.ua/news/331664-stepanov-objasnil-pochemu-ukraintsev-ne-budut-vaktsinirovat-rossijskim-sputnikom-v.html
+	set tags covid,sputnik_v,stepanov_maksim,ukraina,vaccine
+page
+	set url https://fraza.com/news/300559-v-mirovyh-smi-za-3-mesjatsa-vyshlo-bolee-16-tysjach-publikatsij-o-nezakonnom-zakrytii-112-ukraina-newsone-i-zik-sanktsijah-presledovanii-medvedchuka-i-drugih-grazhdan-ukrainy
+	set tags cenzura,diktatura,sankcii,tv,ukraina,zapret,zelenskii_vladimir
+page
+	set url https://strana.ua/news/331561-v-voz-rasschityvajut-otsenit-rossijskuju-vaktsinu-ot-koronavirusa-sputnik-v-v-ijune-ijule.html
+	set tags covid,sputnik_v,vaccine,vooz
+page
+	set url https://lenta.ru/news/2021/05/05/dnrr/
+	set tags donbass,gorlovka,ukraina,vojna,vsu
 eof
 off
 page

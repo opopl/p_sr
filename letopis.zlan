@@ -24450,6 +24450,9 @@ page
 page
 	set url https://strana.ua/news/331798-basta-prokommentiroval-svoj-priezd-v-kiev.html
 	set tags basta.rossia.repper,muzyka,rossia,sternenko_sergei,ukraina
+page
+	set url https://rap.ua/yarmak-prokommentiroval-skandalnoe-intervyu-dorna/
+	set tags dorn_ivan,interview,jarmak.ukr.pevec,kultura,muzyka,rep.muzyka.stil,showbiz,ukraina
 eof
 off
 page

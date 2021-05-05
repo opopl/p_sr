@@ -24339,6 +24339,21 @@ page
 page
 	set url https://analytics.hvylya.net/229658-kak-na-samom-dele-vyparit-vodu-iz-moloka-mysli-o-reforme-ukrainskoy-nauki
 	set tags nauka,reformi,ukraina
+page
+	set url https://vz.ru/opinions/2021/5/2/1096983.html
+	set tags cerkov,hristos,pravoslavie,rusmir,vera,voskresenie,voskresenie.hristos
+page
+	set url http://lug-info.com/news/one/stakhanovskie-spasateli-vytaschili-iz-reki-korovu-kotoruyu-tuda-zagnali-byki-67381
+	set tags byk,korova,lnr,spasenie,stahanov.lnr
+page
+	set url https://day.kyiv.ua/uk/article/podorozhi/yak-perevidkryty-svoyu-krayinu
+	set tags istoria,otkrytie,strana,turizm,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/zirka-na-imya-kyva
+	set tags __apr_2021.kiva.dissertacia,dissertacia,kiva_ilja,nauka,obschestvo,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/vo-lvove-v-bolnitse-skonchalsya-veteran-ato-s-ajdara-foto.htm
+	set tags ajdar.bataljon,donbass,smert,ukraina,vojna,vsu
 eof
 off
 page

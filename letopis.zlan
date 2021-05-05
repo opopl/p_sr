@@ -24405,6 +24405,21 @@ page
 page
 	set url http://lug-info.com/news/one/paskhalnyi-prazdnik-proshel-na-territorii-stolichnogo-khrama-po-initsiative-soyuza-zhenschin-lnr-foto-67390
 	set tags lnr,lugansk,prazdnik,velykden'
+page
+	set url https://riakursk.ru/amazonki-adda-predstavlyayut-kurskuyu-oblast-na-shakhmatnom-chempionate/
+	set tags adda.rossia.komanda.chess,chempionat,chess,kursk,rossia,sochi,sorevnovanie,sport
+page
+	set url https://regnum.ru/news/society/3260222.html
+	set tags krym,parad_pobedy,repeticia,rossia,sevastopol
+page
+	set url https://regnum.ru/news/society/3259588.html
+	set tags karnaval,rossia,st_peterburg,turizm,zabava
+page
+	set url https://from-ua.com/onlain-konferencii/315797-gost-novosti-ukraini-from-ua-ukrainskii-reper-aleksandr-yarmak.html
+	set tags ato,bratstvo,interview,jarmak.ukr.pevec,rossia,showbiz,ukraina,vojna
+page
+	set url https://the-flow.ru/features/yarmak-interview-2016
+	set tags interview,jarmak.ukr.pevec,kultura,muzyka,rossia,showbiz,ukraina
 eof
 off
 page

@@ -24468,6 +24468,12 @@ page
 page
 	set url https://lenta.ru/news/2021/05/05/dnrr/
 	set tags donbass,gorlovka,ukraina,vojna,vsu
+page
+	set url https://gazeta.ua/blog/55014/srsr-krayina-fejk-krali-vse-vid-tualetnogo-paperu-do-geroyizmu
+	set tags istoria,sssr
+page
+	set url https://gazeta.ua/blog/55011/nam-hochut-prodati-serialnij-variant-patriotizmu
+	set tags nacionalist,putin_vladimir,rossia,ukraina,zelenskii_vladimir
 eof
 off
 page

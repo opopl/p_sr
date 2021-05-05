@@ -24312,6 +24312,15 @@ page
 page
 	set url https://sharij.net/zapret-ppsh-chto-proishodit-pod-kievskim-okruzhnym-sudom-hronika-sobytij-2
 	set tags kiev,miting,oask,partia_sharija,protest,sud,ukraina,zapret
+page
+	set url https://odessa.strana.ua/331736-lvovskaja-rebernja-i-vozmutila-svoim-dizajnom-odessitov.html
+	set tags ekaterina_II,odessa,provokacia,rebernja.ukr.restoran,restoran,ukraina,uvazhenie
+page
+	set url https://strana.ua/showbiz/331727-okhranniki-basty-nabrosilis-na-kievljanina-iz-za-voprosov-o-kryme-v-tsentre-kieva.html
+	set tags basta.rossia.repper,kiev,kreschatik.kiev,ohota,sternenko_sergei,ukraina
+page
+	set url https://kiev.strana.ua/331558-reper-basta-priekhal-v-kiev-sternenko.html
+	set tags basta.rossia.repper,kiev,kreschatik.kiev,ukraina
 eof
 off
 page

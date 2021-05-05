@@ -24327,6 +24327,12 @@ page
 page
 	set url https://nv.ua/ukr/opinion/vibori-2020-shcho-treba-rozumiti-ukrajincyam-novini-ukrajini-50112886.html
 	set tags future,obschestvo,ukraina
+page
+	set url https://strana.ua/news/331705-rebernja-v-odesse-vyzvala-skandal-pochemu-reshili-postebatsja-s-djuka-i-ekateriny.html
+	set tags ekaterina_II,gorod,istoria,obschestvo,odessa,rebernja.ukr.restoran,skandal,ukraina
+page
+	set url https://strana.ua/news/331741-v-ternopolskoj-oblasti-byvshij-voennykh-zarezal-muzhchinu-kotoryj-lomilsja-k-nemu-v-dom.html
+	set tags ato,kriminal,murder,ternopil,ukraina,veteran
 eof
 off
 page

@@ -24402,6 +24402,9 @@ page
 page
 	set url https://zaxid.net/nevidimiy_korporativizm_n1518281
 	set tags akademia,nauka,obschestvo,ukraina
+page
+	set url http://lug-info.com/news/one/paskhalnyi-prazdnik-proshel-na-territorii-stolichnogo-khrama-po-initsiative-soyuza-zhenschin-lnr-foto-67390
+	set tags lnr,lugansk,prazdnik,velykden'
 eof
 off
 page

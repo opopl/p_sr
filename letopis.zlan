@@ -24321,6 +24321,12 @@ page
 page
 	set url https://kiev.strana.ua/331558-reper-basta-priekhal-v-kiev-sternenko.html
 	set tags basta.rossia.repper,kiev,kreschatik.kiev,ukraina
+page
+	set url https://nv.ua/ukr/opinion/ukrajina-maybutnye-shcho-vryatuye-nas-vid-katastrofi-ostanni-novini-50114274.html
+	set tags future,kurkov_andrej,literatura,narod,obschestvo,ukraina
+page
+	set url https://nv.ua/ukr/opinion/vibori-2020-shcho-treba-rozumiti-ukrajincyam-novini-ukrajini-50112886.html
+	set tags future,obschestvo,ukraina
 eof
 off
 page

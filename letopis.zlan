@@ -24504,6 +24504,21 @@ page
 page
 	set url https://zen.yandex.ru/media/playmaker24/eta-smelaia-polka-ubrala-flag-svoei-strany-v-znak-solidarnosti-s-rossiei-stavka-na-krasotu-25-608a590eac11a83ee02350db
 	set tags polsha,rossia,sadovska_natalia.shashki,shashki,skandal,tansykkuzhina_tamara.rus.chempion.shashki
+page
+	set url https://gazeta.ua/ru/articles/life/_kodeks-kievlyanina-predstavili-oleg-skripka-i-andrej-kurkov/354889
+	set tags kiev,kodeks_kievljanina,kurkov_andrej,skripka_oleg,ukraina
+page
+	set url https://gazeta.ua/ru/articles/life/_so-sleduyuschej-nedeli-na-kreschatike-budut-razdavat-kodeks-kievlyanina/346971
+	set tags kiev,kmda,kodeks_kievljanina,ukraina
+page
+	set url https://gazeta.ua/ru/blog/54977/sogodni-kandidat-nauk-kiva-zavtra-vislyuk-z-osvyachennya-samogo-zelenskogo
+	set tags __apr_2021.kiva.dissertacia,dissertacia,kiev,kiva_ilja,obrazovanie,ukraina
+page
+	set url https://strana.ua/news/331835-blinkena-v-borispol-otpravilsja-vstrechat-kortezh-iz-30-avtomobilej-video.html
+	set tags blinken_entoni.gossekretar.usa,kiev,kortezh,ukraina,us_embassy,usa,vstrecha
+page
+	set url https://rap.ua/vokrug-intervyu-vani-dorna-ne-utihaet-skandal/
+	set tags dorn_ivan,internet,skandal,socset,ukraina
 eof
 off
 page

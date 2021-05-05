@@ -24354,6 +24354,54 @@ page
 page
 	set url https://plus.obozrevatel.com/crime/vo-lvove-v-bolnitse-skonchalsya-veteran-ato-s-ajdara-foto.htm
 	set tags ajdar.bataljon,donbass,smert,ukraina,vojna,vsu
+page
+	set url https://news.obozrevatel.com/russia/gde-ta-samaya-bogataya-rossiya.htm
+	set tags bogatstvo,ekonomika,obschestvo,rossia,vopros
+page
+	set url https://strana.ua/news/331742-v-turtsii-zaderzhali-ukrainok-za-holuju-fotosessiju.html
+	set tags devushka,nu_sessia,skandal,turcia,ukraina
+page
+	set url https://fraza.com/foto/300549-kievljanin-shel-pokupat-kvartiru-kogda-stal-zhertvoj-grabitelej
+	set tags kiev,kievljane,kriminal,odessa,ograblenie,policia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-dud-interviu-ivanhay/31237661.html
+	set tags dudj_jurij.rossia.blogger,golodomor,interview,rossia,rudskyj_ivan.ukr.blogger,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-epifanij-pcu-oksana-marchenko/31222041.html
+	set tags cerkov,epifanij.mitropolit.pcu,film,kiev,marchenko_oksana,palomnik,pcu,pravoslavie,ukraina,vera
+page
+	set url https://blogs.pravda.com.ua/authors/yasko/60925561a0fc2/
+	set tags armia,oborona,rossia,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/yablonovskyy/6089c9c3d2e61/
+	set tags obschestvo,ukraina
+page
+	set url https://lenta.ru/articles/2021/05/05/april_music/
+	set tags chernobyl,kiev,muzyka,ukraina
+page
+	set url https://lenta.ru/news/2021/05/04/klimkin_krym/
+	set tags blokada,klimkin_pavel.ukr.ministr,krym,rossia,ukraina,voda
+page
+	set url http://ukrcentr.ru/novini/sogodni-richnicya-chornobilsko%d1%97-tragedi%d1%97-2/#more-17013
+	set tags chernobyl,pamjat,rossia,ukraina
+page
+	set url https://ukraina.ru/opinion/20210505/1031315352.html
+	set tags nacik,nacionalist,nacizm,obschestvo,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210504/1031265855.html
+	set tags bandera_stepan,degumanizacia,donbass,obschestvo,russofobia,ukraina
+page
+	set url https://ukraina.ru/interview/20210505/1031315176.html
+	set tags fashizm,harkov,lesik_andrej,opzzh,pamjat,pobeda,ukraina
+page
+	set url https://politics.segodnya.ua/politics/nashi-lyudi-u-gossekretarya-ssha-entoni-blinkena-ukrainskie-korni-1523459.html
+	set tags blinken_entony.usa.gossekretarj,kiev,korni,predki,ukraina,usa
+page
+	set url https://plus.obozrevatel.com/crime/v-covid-bolnitse-kotoruyu-obstrelyala-dnr-umer-patsient-foto.htm
+	set tags bolnica,covid,dnr,donbass,obstrel,smert,ukraina
+page
+	set url https://zaxid.net/nevidimiy_korporativizm_n1518281
+	set tags akademia,nauka,obschestvo,ukraina
 eof
 off
 page

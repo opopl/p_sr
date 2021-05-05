@@ -24444,6 +24444,12 @@ page
 page
 	set url https://ukraina.ru/opinion/20180919/1021189417.html
 	set tags bykov_leonid,kramatorsk,pamjatnik,ukraina,vandalizm
+page
+	set url https://strana.ua/news/330269-ilja-kiva-zashchitil-nauchnuju-dissertatsiju-.html
+	set tags __apr_2021.kiva.dissertacia,dissertacia,kiva_ilja,nauka,opzzh,skandal,ukraina
+page
+	set url https://strana.ua/news/331798-basta-prokommentiroval-svoj-priezd-v-kiev.html
+	set tags basta.rossia.repper,muzyka,rossia,sternenko_sergei,ukraina
 eof
 off
 page

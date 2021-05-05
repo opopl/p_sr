@@ -24429,6 +24429,21 @@ page
 page
 	set url https://www.myjane.ru/articles/text/?id=18507
 	set tags istoria,javorskij_boleslav.kompozitor,leontovych_mykola,murder,muzyka,schedryk.koljadka,sssr,ukraina
+page
+	set url https://strana.ua/news/331740-basta-v-kieve-otmenjat-li-kontserty-repera-posle-isteriki-radikalov.html
+	set tags basta.rossia.repper,kiev,muzyka,nacik,nacionalist,nenavist,ohota,sternenko_sergei,ukraina
+page
+	set url https://strana.ua/articles/interview/330571-narodnyj-deputat-ilja-kiva-rasskazal-strane-kak-hotovilsja-k-zashchite-dissertatsii.html
+	set tags __apr_2021.kiva.dissertacia,dissertacia,interview,kiva_ilja,nauka,obschestvo,skandal,ukraina
+page
+	set url https://ukraina.ru/history/20181119/1021797545.html
+	set tags istoria,kiev,lomonosov_mihail,malorossia
+page
+	set url https://ukraina.ru/history/20181031/1021602566.html
+	set tags 1803,31_oct,istoria,kalnyshevskij_petr.getman,ukraina
+page
+	set url https://ukraina.ru/opinion/20180919/1021189417.html
+	set tags bykov_leonid,kramatorsk,pamjatnik,ukraina,vandalizm
 eof
 off
 page

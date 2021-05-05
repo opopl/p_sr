@@ -24420,6 +24420,12 @@ page
 page
 	set url https://the-flow.ru/features/yarmak-interview-2016
 	set tags interview,jarmak.ukr.pevec,kultura,muzyka,rossia,showbiz,ukraina
+page
+	set url https://zen.yandex.ru/media/id/60411022e853db38c7b7bbf8/zapiski-zlogo-sevastopolca-chast-2-o-liubvi-ili-neliubvi-k-ukraine-6090dc06fe106d592263ac4e
+	set tags istoria,jazyk,krym,mova,obschestvo,sevastopol,sssr,tenjuh_igor.ukr.flot,ukraina,zhizn
+page
+	set url https://iz.ru/1147856/2021-04-07/posla-ukrainy-vozmutila-statia-o-donbasse-v-avstriiskoi-gazete?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags avstria,civil_war,posol,skandal,ukraina,zelenskii_vladimir
 eof
 off
 page

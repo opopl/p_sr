@@ -24474,6 +24474,9 @@ page
 page
 	set url https://gazeta.ua/blog/55011/nam-hochut-prodati-serialnij-variant-patriotizmu
 	set tags nacionalist,putin_vladimir,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://plus.obozrevatel.com/crime/na-vinnichchine-budut-sudit-muzhchinu-kotoryij-vyiter-ruki-o-flag-ukrainyi.htm
+	set tags flag,flag.ukraina,nadrugatelstvo,policia,ukraina,vinnica.oblast
 eof
 off
 page

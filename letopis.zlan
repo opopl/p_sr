@@ -24477,6 +24477,33 @@ page
 page
 	set url https://plus.obozrevatel.com/crime/na-vinnichchine-budut-sudit-muzhchinu-kotoryij-vyiter-ruki-o-flag-ukrainyi.htm
 	set tags flag,flag.ukraina,nadrugatelstvo,policia,ukraina,vinnica.oblast
+page
+	set url https://zen.yandex.ru/media/slavmir/drevneishee-znachenie-slov-rus-eto-svet-608924e42cdbbd68af6279ec
+	set tags istoria,rossia,rusj,rusmir,slovo.rusj
+page
+	set url https://zen.yandex.ru/media/id/5d2c9661c49f2900aef426fd/stranaprizrak--nesladkoe-buduscee-ukrainy-60903aa44461ec746c25ce9b
+	set tags ekonomika,istorias,sssr,ukraina,upadok
+page
+	set url https://zen.yandex.ru/media/id/5e3c7db7b546fc01ff5196f4/pochemu-ne-sbylas-ukrainskaia-mriia-6076018062aaf54f25198af9
+	set tags rossia,rusmir,ukraina
+page
+	set url https://kharkov.strana.ua/331826-sud-arestoval-kharkovchanina-za-dvojnoe-ubijstvo.html
+	set tags harkov,murder,sud,ukraina
+page
+	set url https://kiev.strana.ua/325897-v-kieve-nashli-mertvym-rabotnika-hosudarstvennoho-rezerva.html
+	set tags kiev,suicid,ukraina
+page
+	set url https://strana.ua/news/331815-dmitrij-lipovoj-zaderzhan-v-ispanii-vse-podrobnosti.html
+	set tags ispania,kiev,maidan2,ukraina
+page
+	set url https://analytics.hvylya.net/229976-oni-i-my-vsya-vlast-kompetentnym
+	set tags demokratia,future,obschestvo,ukraina
+page
+	set url http://lug-info.com/news/one/luganskii-teatr-v-ramkakh-kulturnoi-sredy-predstavil-pesu-eto-devushki-voina-foto-67406
+	set tags lardt,lnr,lugansk,teatr,vojna
+page
+	set url https://zen.yandex.ru/media/playmaker24/eta-smelaia-polka-ubrala-flag-svoei-strany-v-znak-solidarnosti-s-rossiei-stavka-na-krasotu-25-608a590eac11a83ee02350db
+	set tags polsha,rossia,sadovska_natalia.shashki,shashki,skandal,tansykkuzhina_tamara.rus.chempion.shashki
 eof
 off
 page

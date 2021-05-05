@@ -24291,6 +24291,27 @@ page
 page
 	set url https://sharij.net/5-prichin-pochemu-ukrainczy-ne-slushayut-ukrainoyazychnuyu-muzyku
 	set tags kiev,kreschatik.kiev,muzyka,pesnja,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/05/5/7292467/
+	set tags cerkov,obschestvo,shevchuk_svjatoslav,spravedlivost,ugkc,ukraina,vera,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/stefan-terletsky-radnyk-marharet-tetcher/31237871.html
+	set tags istoria,sssr,terleckij_stefan.ukr.britania,tetcher_margaret,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-i-polshcha-konstytutsiya-3-travnia-1791-roku/31236138.html
+	set tags ekaterina_II,istoria,konstitucia,polsha,rech_pospolita,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/imperski-stratehiyi-ta-kvartal-95/31237319.html
+	set tags 1876,jazyk,kultura,kvartal95,malorossia,mova,rusimperia,ukraina,zapret
+page
+	set url https://www.radiosvoboda.org/a/telekanal-nash-i-rosijski-naratyvy/31233497.html
+	set tags muraev_evgenii,telekanal_nash,tv,ukraina
+page
+	set url https://lenta.ru/news/2021/05/05/basta/
+	set tags basta.rossia.repper,kiev,rossia,sternenko_sergei,ukraina
+page
+	set url https://sharij.net/zapret-ppsh-chto-proishodit-pod-kievskim-okruzhnym-sudom-hronika-sobytij-2
+	set tags kiev,miting,oask,partia_sharija,protest,sud,ukraina,zapret
 eof
 off
 page

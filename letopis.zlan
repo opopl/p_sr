@@ -24519,6 +24519,21 @@ page
 page
 	set url https://rap.ua/vokrug-intervyu-vani-dorna-ne-utihaet-skandal/
 	set tags dorn_ivan,internet,skandal,socset,ukraina
+page
+	set url http://lug-info.com/news/one/tvorcheskie-kollektivy-alchevska-proveli-personalnyi-kontsert-dlya-veterana-foto-67407
+	set tags alchevsk,koncert,lnr,tvorchestvo,veteran,vov
+page
+	set url https://strana.ua/news/331699-blinken-pradedushka-hossekretarja-ssha-rodom-iz-kieva-chto-ob-etom-izvestno.html
+	set tags blinken_entoni.gossekretar.usa,emigracia,evrei,kiev,korni,predki,rossia,ukraina,usa
+page
+	set url https://tutuskania.livejournal.com/1583119.html
+	set tags deti,foto,krym,vezhlivyje_ljudi
+page
+	set url https://news.obozrevatel.com/kiyany/life/samaya-glubokaya-stantsiya-metro-v-mire-v-kieve-unikalnaya-tehnologiya-stroitelstva.htm
+	set tags 1960,istoria,kiev,metro.arsenalnaja,sssr,tehnologia,ukraina
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-glavnaya-tsel-unichtozhit-vse-chto-imeet-otnoshenie-k-nerossijskomu-proshlomu.htm
+	set tags kerch',krym,obschestvo,rossia,zhizn
 eof
 off
 page

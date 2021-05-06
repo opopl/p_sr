@@ -24543,6 +24543,21 @@ page
 page
 	set url https://fraza.com/news/300576-voditel-poproboval-na-prochnost-betonnyj-zabor-v-odesse-rezultat-okazalsja-predskazuem
 	set tags dtp,odessa,ukraina
+page
+	set url https://strana.ua/opinions/331915-nikto-i-nikohda-ne-zastavit-menja-zabyt-slova-velikaja-otechestvennaja-vojna.html
+	set tags 9_may,den_pobedy,mirvojna2,pamjat,ukraina,vov
+page
+	set url https://strana.ua/opinions/331920-esli-my-ne-tuzemtsy-blinkena-sledovalo-prinimat-skromnee.html
+	set tags blinken_entoni.gossekretar.usa,kiev,sluga_naroda,ukraina,usa,vstrecha
+page
+	set url https://strana.ua/opinions/331903-ukraina-khochet-ubedit-evropu-chto-sanktsii-v-otnoshenii-azarova-eto-khorosho.html
+	set tags azarov_nikolaj,evropa,sankcii,ukraina
+page
+	set url https://strana.ua/news/331946-zelenskij-poshutil-nad-russkim-perevodom-press-konferentsii-s-blinkenom.html
+	set tags bbc,blinken_entoni.gossekretar.usa,kiev,perevod,russkie,ukraina,zelenskii_vladimir,zhurnalist
+page
+	set url https://strana.ua/news/331905-rossijskie-vojska-u-hranits-ukrainy-pochemu-oni-nikuda-ne-ushli.html
+	set tags granica,rossia,ukraina,zapad
 eof
 off
 page

@@ -24597,6 +24597,24 @@ page
 page
 	set url https://strana.ua/news/332006-v-sankt-peterburhe-priemnye-synovja-vystavili-iz-kvartiry-izvestnuju-aktrisu.html
 	set tags film,film.brat,konflikt,mater,rossia,semja,st_peterburg,syn
+page
+	set url https://strana.ua/opinions/331990-delo-suprun-budet-tsvesti-i-pakhnut-v-ukraine.html
+	set tags reformi,suprun_uljana,ukraina
+page
+	set url https://strana.ua/news/332022-v-kieve-postupilo-soobshchenie-o-minirovanii-parlamenta-vo-vremja-vizita-hossekretarja-ssha.html
+	set tags kiev,minirovanie,ukraina,verhovna_rada
+page
+	set url https://strana.ua/opinions/331992-nicheho-sudbonosnoho-v-vizite-blinkena-i-blizko-net.html
+	set tags blinken_entoni.gossekretar.usa,kiev,nuland_viktoria.usa,ukraina,usa,vizit
+page
+	set url https://strana.ua/opinions/332026-30-let-derzhavotvorennja-natolknulis-na-ivano-frankovskij-majdanchik.html
+	set tags ivano_frankovsk,ukraina,vybory
+page
+	set url https://strana.ua/articles/analysis/331965-chto-oznachaet-vizit-i-protokol-vstrech-blinkena-v-ukraine-analiz-politolohov.html
+	set tags blinken_entoni.gossekretar.usa,kiev,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/05/6/7292459/
+	set tags priroda,ukraina,zhizn
 eof
 off
 page

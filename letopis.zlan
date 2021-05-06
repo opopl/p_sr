@@ -24567,6 +24567,30 @@ page
 page
 	set url https://ukraina.ru/opinion/20210506/1031318628.html
 	set tags kiev,peremoga,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/331952-blinken-v-kieve-hlavnye-vyvody.html
+	set tags bankova,blinken_entoni.gossekretar.usa,kiev,poroshenko_petr,ukraina,usa,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/news/331962-strana-vyjasnila-chto-blinken-poselilsja-v-otele-hyatt-v-tsentre-kieva.html
+	set tags kiev,klichko_vitalij,nuland_viktoria.usa,ukraina,usa,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/331981-ukraina-eto-samolet-so-slepymi-i-nedouchennymi-pilotami.html
+	set tags an225,mechta,obschestvo,pilot,samolet,ukraina
+page
+	set url https://fraza.com/video/300581-v-nju-jorke-sostojalsja-nu-ochen-krovozhadnyj-hokkejnyj-match-
+	set tags draka,hokkej,usa
+page
+	set url https://lenta.ru/news/2021/05/06/ne_huge/
+	set tags astrazeneka,covid,konkurs,moderna,pfizer,rossia,sputnik_v,vaccine
+page
+	set url http://lug-info.com/news/one/otkrytie-pervenstva-lnr-po-boksu-sostoyalos-v-luganske-foto-67452
+	set tags boks,lnr,lugansk,molodezh,sorevnovanie,sport
+page
+	set url https://zaxid.net/znachno_glibshiy_i_skladnishiy_sheptitskiy_n1518427
+	set tags cerkov,humanity,sheptickij_mitropolit.ukr,ukraina,vera
+page
+	set url https://hvylya.net/news/230037-oni-zdes-oni-povsyudu-zelenskiy-potrollil-rossiyan-na-press-konferencii-s-blinkenom
+	set tags russkie,ukraina,zelenskii_vladimir
 eof
 off
 page

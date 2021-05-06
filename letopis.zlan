@@ -24534,6 +24534,15 @@ page
 page
 	set url https://news.obozrevatel.com/society/novosti-kryimnasha-glavnaya-tsel-unichtozhit-vse-chto-imeet-otnoshenie-k-nerossijskomu-proshlomu.htm
 	set tags kerch',krym,obschestvo,rossia,zhizn
+page
+	set url https://strana.ua/news/331710-blinken-v-kieve-chto-zajavil-hlava-hosdepa-ssha-v-ukraine.html
+	set tags blinken_entoni.gossekretar.usa,kiev,ukraina,zelenskii_vladimir
+page
+	set url https://lenta.ru/news/2021/05/05/zayavleniya/
+	set tags kiev,moskva,oon,rossia,ukraina
+page
+	set url https://fraza.com/news/300576-voditel-poproboval-na-prochnost-betonnyj-zabor-v-odesse-rezultat-okazalsja-predskazuem
+	set tags dtp,odessa,ukraina
 eof
 off
 page

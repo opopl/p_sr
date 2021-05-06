@@ -24591,6 +24591,12 @@ page
 page
 	set url https://hvylya.net/news/230037-oni-zdes-oni-povsyudu-zelenskiy-potrollil-rossiyan-na-press-konferencii-s-blinkenom
 	set tags russkie,ukraina,zelenskii_vladimir
+page
+	set url https://lgz.ru/article/18-6783-05-05-2021/glavnoe-slovo/?fbclid=IwAR3QKKCPmtvr1eSxAfYEbtzTsPUWQ9bjylc0v0Hl_RK5yGkcAhrrLWArGUs
+	set tags 2014,chelovechnost,chelovek,deti,dnr,donbass,doneck,future,lnr,lugansk,savenkova_faina,ukraina,vojna
+page
+	set url https://strana.ua/news/332006-v-sankt-peterburhe-priemnye-synovja-vystavili-iz-kvartiry-izvestnuju-aktrisu.html
+	set tags film,film.brat,konflikt,mater,rossia,semja,st_peterburg,syn
 eof
 off
 page

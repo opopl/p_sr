@@ -24535,9 +24535,6 @@ page
 	set url https://news.obozrevatel.com/society/novosti-kryimnasha-glavnaya-tsel-unichtozhit-vse-chto-imeet-otnoshenie-k-nerossijskomu-proshlomu.htm
 	set tags kerch',krym,obschestvo,rossia,zhizn
 page
-	set url https://strana.ua/news/331710-blinken-v-kieve-chto-zajavil-hlava-hosdepa-ssha-v-ukraine.html
-	set tags blinken_entoni.gossekretar.usa,kiev,ukraina,zelenskii_vladimir
-page
 	set url https://lenta.ru/news/2021/05/05/zayavleniya/
 	set tags kiev,moskva,oon,rossia,ukraina
 page
@@ -24561,6 +24558,13 @@ page
 page
 	set url https://kiev.strana.ua/331950-v-kieve-mitinhujushchij-obmateril-kopov-kotorye-meshali-ustroit-mitinh.html
 	set tags aktivist,blinken_entoni.gossekretar.usa,kiev,miting,protest,ukraina,zelenskii_vladimir
+global
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://strana.ua/news/331710-blinken-v-kieve-chto-zajavil-hlava-hosdepa-ssha-v-ukraine.html
+	set tags blinken_entoni.gossekretar.usa,kiev,ukraina,zelenskii_vladimir
 eof
 off
 page

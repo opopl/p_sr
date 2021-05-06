@@ -24558,6 +24558,9 @@ page
 page
 	set url https://strana.ua/news/331905-rossijskie-vojska-u-hranits-ukrainy-pochemu-oni-nikuda-ne-ushli.html
 	set tags granica,rossia,ukraina,zapad
+page
+	set url https://kiev.strana.ua/331950-v-kieve-mitinhujushchij-obmateril-kopov-kotorye-meshali-ustroit-mitinh.html
+	set tags aktivist,blinken_entoni.gossekretar.usa,kiev,miting,protest,ukraina,zelenskii_vladimir
 eof
 off
 page

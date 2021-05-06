@@ -24558,13 +24558,15 @@ page
 page
 	set url https://kiev.strana.ua/331950-v-kieve-mitinhujushchij-obmateril-kopov-kotorye-meshali-ustroit-mitinh.html
 	set tags aktivist,blinken_entoni.gossekretar.usa,kiev,miting,protest,ukraina,zelenskii_vladimir
-global
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://strana.ua/news/331710-blinken-v-kieve-chto-zajavil-hlava-hosdepa-ssha-v-ukraine.html
 	set tags blinken_entoni.gossekretar.usa,kiev,ukraina,zelenskii_vladimir
+page
+	set url https://ukraina.ru/interview/20210127/1030358352.html
+	set tags bilchenko_evgenia,kiev,nacionalist,neonazi,soprotivlenie,ukraina
+page
+	set url https://ukraina.ru/opinion/20210506/1031318628.html
+	set tags kiev,peremoga,rossia,ukraina,zelenskii_vladimir
 eof
 off
 page

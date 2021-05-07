@@ -24777,6 +24777,15 @@ page
 page
 	set url https://news.obozrevatel.com/society/sovetskoe-obrazovanie-mifyi-kotoryimi-nas-kormyat-do-sih-por.htm
 	set tags besplatno,istoria,mify,obrazovanie,sssr
+page
+	set url http://gorodkiev.info/sudba-tretey-stolitsyi-chast-2/
+	set tags ekaterina_II,istoria,kiev,rusmir,ukraina
+page
+	set url https://nv.ua/ukraine/events/sofiya-spasennaya-kak-drevneyshiy-hram-ukrainy-edva-ne-pogib-ot-sovetskih-vlastey-specsluzhb-i-vremeni-2514500.html
+	set tags arhitektura,istoria,kievrus,sofia_sobor,sssr,ukraina
+page
+	set url https://kp.ua/kiev/285237-novye-otkrytyia-v-sofyy-kyevskoi-avtohraf-frantsuzskoi-korolevy-y-neopoznannaia-sviataia
+	set tags kiev,sofia_sobor,ukraina
 eof
 off
 page

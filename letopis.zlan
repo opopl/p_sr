@@ -24702,6 +24702,12 @@ page
 page
 	set url http://www.pravoslavie.ru/81632.html
 	set tags cerkov,kiev,lvov,pravoslavie,tkachev_andrej.protoierej,ukraina,vera
+page
+	set url https://strana.ua/news/332149-ukrainskij-institut-natspamjati-sozdal-metodichku-o-pravilnom-otmechanii-dnja-pobedy.html
+	set tags den_pobedy,institut_nacpamjati,mirvojna2,ukraina,upa,vov
+page
+	set url https://strana.ua/news/284312-den-pamjati-zhertv-vojny-na-donbasse-dolzhen-byt-uchrezhden-obshchestvennye-dejateli.html
+	set tags donbass,pamjat,peremirie,ukraina,vojna
 eof
 off
 page

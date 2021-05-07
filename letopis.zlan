@@ -24699,6 +24699,9 @@ page
 page
 	set url https://riakursk.ru/nedostizhimoe-blazhenstvo-kak-v-kurske-pytalis-pervymi-v-rossii-postavit-pesu-bulgakova/
 	set tags 1989,bulgakov_mihail,film,kultura,kursk,literatura,rossia
+page
+	set url http://www.pravoslavie.ru/81632.html
+	set tags cerkov,kiev,lvov,pravoslavie,tkachev_andrej.protoierej,ukraina,vera
 eof
 off
 page

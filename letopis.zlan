@@ -24660,6 +24660,15 @@ page
 page
 	set url https://kiev.strana.ua/332104-v-kieve-vozle-monumenta-rodina-mat-zelenskij-provodit-sjomki.html
 	set tags kiev,rodina_mat.kiev,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/331983-zelenskij-podpisal-zakon-ob-osnovanii-premii-imeni-borisa-patona.html
+	set tags nauka,paton_boris,premia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/332064-pered-uhrozoj-mirovoj-chumy-ljudi-i-pravitelstva-tak-sebja-ne-vedut.html
+	set tags chelovek,covid,world
+page
+	set url https://from-ua.com/articles/598817-ten-pobedi-vo-chto-mi-prevratili-9-maya.html
+	set tags obschestvo,prazdnik,rusimperia,ukraina,den_pobedy,pobeda
 eof
 off
 page

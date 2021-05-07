@@ -24786,6 +24786,30 @@ page
 page
 	set url https://kp.ua/kiev/285237-novye-otkrytyia-v-sofyy-kyevskoi-avtohraf-frantsuzskoi-korolevy-y-neopoznannaia-sviataia
 	set tags kiev,sofia_sobor,ukraina
+page
+	set url https://news.sportbox.ru/Vidy_sporta/Figurnoe_katanie/spbnews_NI1345494_Anna_Shherbakova_Kazhdyj_khochet_pravit_mirom
+	set tags _important,figurist,figurnoje_katanie,fraza,rossia,scherbakova_anna.rossia.figurist,world
+page
+	set url https://zen.yandex.ru/media/id/601e97ef86f4e2220823b775/po-sledam-povesti-vremennyh-letpskov-60334b0cbd729c71d1beaf08
+	set tags letopis,olga_knjaginja,pskov,pvl,rossia,rusmir
+page
+	set url https://kiev.strana.ua/332208-v-kieve-za-vremja-poiskov-bomby-evakuirovali-pochti-1000-chelovek.html
+	set tags kiev,minirovanie,policia,ukraina
+page
+	set url https://kiev.strana.ua/325842-v-kieve-1-aprelja-zaminirovali-bolnitsy.html
+	set tags bolnica,kiev,minirovanie,policia,ukraina
+page
+	set url https://strana.ua/opinions/332207-kazhetsja-ssha-i-kitaj-tozhe-budut-voevat-do-posledneho-ukraintsa.html
+	set tags kitaj,ukraina,usa
+page
+	set url https://strana.ua/opinions/332211-pobeda-nad-natsizmom-ne-vpisyvaetsja-v-ideolohiju-ukrainy.html
+	set tags kommunizm,pobeda,sbu,ukraina,upa
+page
+	set url https://kiev.strana.ua/332225-v-bojarke-pozhar-unichtozhil-prijut-dlja-bezdomnykh-video.html
+	set tags bojarka,bomzh,kiev,pozhar,ukraina
+page
+	set url https://strana.ua/news/331999-v-vinnitse-zhertvoj-pozhara-v-ofisnom-tsentre-stala-21-letnjaja-devushka.html
+	set tags devushka,ofis,pozhar,smert,tragedia,ukraina,vinnica
 eof
 off
 page

@@ -24819,6 +24819,9 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/polityka/pro-plyusy-srsr
 	set tags imperia,istoria,sovok,sssr,zelenskii_vladimir
+page
+	set url https://zaxid.net/svyata_protsedura_n1518579
+	set tags konstitucia,ksu,ukraina,zakon
 eof
 off
 page

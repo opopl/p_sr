@@ -24648,6 +24648,18 @@ page
 page
 	set url https://strana.ua/news/332023-v-kieve-zhenshchina-kotoruju-pereekhal-avtomobil-otdelalas-ushibami.html
 	set tags avto,dtp,kiev,naezd.avto,ukraina
+page
+	set url https://strana.ua/news/332075-pod-ternopolem-v-sele-byvshij-atoshnik-zarezal-cheloveka-.html
+	set tags __may_2021.murder.velykden.samozaschita,kriminal,murder,policia,ternopol,ukraina
+page
+	set url https://strana.ua/news/332078-chto-pishut-o-vizite-blinkena-v-kiev-zapadnye-smi.html
+	set tags kiev,kobolev,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/332063-my-terjaem-svobodnoe-vremja-tochnee-otkazyvaemsja-ot-neho.html
+	set tags chelovek,psihologia,ukraina
+page
+	set url https://kiev.strana.ua/332104-v-kieve-vozle-monumenta-rodina-mat-zelenskij-provodit-sjomki.html
+	set tags kiev,rodina_mat.kiev,ukraina,zelenskii_vladimir
 eof
 off
 page

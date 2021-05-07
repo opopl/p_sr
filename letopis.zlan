@@ -24714,6 +24714,9 @@ page
 page
 	set url https://strana.ua/opinions/332171-amerikantsev-ne-volnuet-nasha-myshinaja-politicheskaja-voznja.html
 	set tags blinken_entoni.gossekretar.usa,obschestvo,politika,ukraina,usa
+page
+	set url https://strana.ua/news/332188-v-rovno-hrazhdanka-shvetsii-ukusila-politsejskoho-v-otvet-na-prosbu-nadet-masku.html
+	set tags incident,maska,policia,rovno,ukraina
 eof
 off
 page

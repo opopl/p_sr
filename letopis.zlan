@@ -24717,6 +24717,66 @@ page
 page
 	set url https://strana.ua/news/332188-v-rovno-hrazhdanka-shvetsii-ukusila-politsejskoho-v-otvet-na-prosbu-nadet-masku.html
 	set tags incident,maska,policia,rovno,ukraina
+page
+	set url https://strana.ua/news/332180-v-belom-dome-ispravili-stenohrammu-o-podderzhke-ssha-puti-ukrainy-v-nato.html
+	set tags belyj_dom.usa,nato,stenogramma,ukraina,usa,washington
+page
+	set url https://fraza.com/news/300663-v-stolichnom-desjatinnom-monastyre-upts-pochtili-ikonu-pered-kotoroj-javilas-bogoroditsa
+	set tags cerkov,kiev,ukraina,vera
+page
+	set url https://fraza.com/news/300660-v-upts-proveli-vystavku-detskih-risunkov-ko-dnju-materi
+	set tags deti,mater,materinstvo,risunok,ukraina,upc,vystavka
+page
+	set url https://www.radiosvoboda.org/a/den-pobedy-ukraina-russia-karnaval/31242946.html
+	set tags den_pobedy,deti,rossia,ukraina
+page
+	set url https://regnum.ru/news/society/3263266.html
+	set tags den_pobedy,krasnaja_ploschad.moskva,moskva,parad,repeticia,rossia
+page
+	set url http://voskhodinfo.su/aktualno/65661-ya-preklonyayus-pered-stalnoy-voley-moih-predkov.html
+	set tags 9_may,den_pobedy,germania,istoria,pobeda,rkka,rossia,sssr
+page
+	set url http://voskhodinfo.su/aktualno/65648-holodnoe-leto-2021-goda-tendencii-riski-vozmozhnosti.html
+	set tags 2020,prognoz,rossia,ukraina,world
+page
+	set url https://lgaki.info/novosti/opublikovan-spetsvypusk-proekta-studentov-akademii-chitat-eto-modno-posvyashhennyj-dnyu-respubliki/
+	set tags chtenie,lnr,novorossia,poezia,stihi
+page
+	set url https://beztabu.net/do-kiyeva-pribuv-derzhsekretar-ssha---vin-poobicyav-ukrayini-pidtrimku_n73246
+	set tags blinken_entoni.gossekretar.usa,rossia,sevpotok2,ukraina,usa,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/society/pered-smertyu-poprosil-proscheniya-u-zhenyi-na-donbasse-pogib-ukrainskij-voennyij-s-dnepropetrovschinyi.htm
+	set tags donbass,smert,ukraina,vojna,vsu
+page
+	set url https://plus.obozrevatel.com/kiyany/crime/v-kieve-zazhivo-sozhgli-muzhchinu-iz-za-rebenka-foto.htm
+	set tags bomzh,kiev,podzhog,policia,smert,tragedia,ukraina
+page
+	set url https://gazeta.ua/blog/55022/ak-vivchiti-ukrayinsku-za-desyat-hvilin
+	set tags germania,istoria,komissar,mova,rasstrel,sssr,ukraina
+page
+	set url https://gazeta.ua/blog/55021/9-travnya-simvolizuye-vtrachenij-shans-na-vizvolennya
+	set tags 9_may,den_pobedy,hitler_adolf,hitlerizm,stalinizm,ukraina
+page
+	set url https://gazeta.ua/articles/kiev-life/_spivoche-pole-potonulo-u-tyulpanovomu-riznobarvyi-yaskrava-fotodobirka/1030460
+	set tags cvety,foto,kiev,kiev.spivoche_pole,krasota,priroda,tjulpan,ukraina,vesna
+page
+	set url https://gazeta.ua/blog/55018/do-nas-yide-revizor-zelenskij-zdavatime-ekzamen
+	set tags blinken_entoni.gossekretar.usa,gogol_nikolai,revizor,ukraina,usa,zelenskii_vladimir
+page
+	set url https://news.dialog.ua/228795_1620385318
+	set tags den_pobedy,flag,harkov,lesik_andrej,opzzh,ukraina
+page
+	set url https://lenta.ru/news/2021/05/07/belarus/
+	set tags belarus,mirvojna2,pamjat,vov
+page
+	set url https://lenta.ru/articles/2021/05/06/assyrians/
+	set tags assiria,hristianstvo,hristos,language.aramejskij,narod,vera
+page
+	set url https://news.obozrevatel.com/show/people/kievskaya-studentka-zaschitila-bastu-i-oskorbila-ukraintsev-kryim-ne-nash-smirites-s-etim-blt.htm
+	set tags basta.rossia.repper,kiev,kievljane,krymnash,skandal,ukraina
+page
+	set url https://news.obozrevatel.com/society/sovetskoe-obrazovanie-mifyi-kotoryimi-nas-kormyat-do-sih-por.htm
+	set tags besplatno,istoria,mify,obrazovanie,sssr
 eof
 off
 page

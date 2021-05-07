@@ -24708,6 +24708,9 @@ page
 page
 	set url https://strana.ua/news/284312-den-pamjati-zhertv-vojny-na-donbasse-dolzhen-byt-uchrezhden-obshchestvennye-dejateli.html
 	set tags donbass,pamjat,peremirie,ukraina,vojna
+page
+	set url https://strana.ua/opinions/332164-pochti-polovina-ukraintsev-hotova-otmechat-dva-dnja-pobedy.html
+	set tags den_pobedy,obschestvo,prazdnik,prazdnovanie,ukraina
 eof
 off
 page

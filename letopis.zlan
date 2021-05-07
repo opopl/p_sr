@@ -24690,6 +24690,15 @@ page
 page
 	set url https://strana.ua/opinions/332116-ljudi-poroshenko-podtverdili-kompleks-nepolnotsennosti-svoeho-lidera.html
 	set tags blinken_entoni.gossekretar.usa,fejk,politika,poroshenko_petr,ukraina,usa
+page
+	set url https://strana.ua/news/331959-den-pobedy-2021-ukraina-prohramma-na-9-maja-v-kieve-odesse-kharkove-i-druhikh-horodakh.html
+	set tags den_pobedy,kiev,nacionalist,onufrii_mitropolit,prazdnik,prazdnovanie,ukraina,upc
+page
+	set url https://strana.ua/opinions/332155-povzroslejte-uzhe-parubjata-i-vyberite-sebe-storonu.html
+	set tags den_pobedy,nacizm,obschestvo,ukraina
+page
+	set url https://riakursk.ru/nedostizhimoe-blazhenstvo-kak-v-kurske-pytalis-pervymi-v-rossii-postavit-pesu-bulgakova/
+	set tags 1989,bulgakov_mihail,film,kultura,kursk,literatura,rossia
 eof
 off
 page

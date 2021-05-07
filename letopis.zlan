@@ -24678,6 +24678,9 @@ page
 page
 	set url http://lug-info.com/news/one/glava-lnr-v-preddverii-dnya-pobedy-vstretilsya-s-patsientami-gospitalya-veteranov-foto-67488
 	set tags 9_may,den_pobedy,gospital,lnr,lugansk,pasechnik_leonid
+page
+	set url https://www.radiosvoboda.org/a/30604425.html
+	set tags germania,istoria,mirvojna2,nacizm,sssr,ukraina,vov
 eof
 off
 page

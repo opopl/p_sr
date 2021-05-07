@@ -24615,6 +24615,39 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/05/6/7292459/
 	set tags priroda,ukraina,zhizn
+page
+	set url https://odessa.strana.ua/332056-v-odesse-zaloahili-granatu.html
+	set tags granata,minirovanie,odessa,policia,ukraina
+page
+	set url https://kiev.strana.ua/327568-v-kieve-nashli-skhron-s-boepripasami.html
+	set tags granata,kiev,pechersk,policia,terrorist,ugroza,ukraina
+page
+	set url https://amp.strana.ua/kiev/326230-muzhchina-uhrozhal-vzorvat-zhek-na-pecherske-iz-za-tarifov-kommunalki.html
+	set tags granata,kiev,pechersk,ugroza,ukraina
+page
+	set url https://strana.ua/opinions/332030-ukraina-i-kitaj-dve-velikie-uholnye-derzhavy-dvizhutsja-v-protivopolozhnye-storony.html
+	set tags ekonomika,kitaj,ugolj,ukraina
+page
+	set url https://strana.ua/opinions/332032-odin-ministr-oborony-ssha-uzhe-soshel-s-uma-iz-za-strakha-pered-russkimi.html
+	set tags 1949,22_may,russkie,usa
+page
+	set url https://strana.ua/news/331995-doverilis-kovishildu-pochemu-v-samoj-privitoj-strane-mira-nachalas-vspyshka-kovida-i-cheho-zhdat-ukraine.html
+	set tags covishield,ukraina,vaccinacia,vaccine
+page
+	set url https://analytics.hvylya.net/230054-vizit-entoni-blinkena-v-ukrainu-zhestkaya-inspekciya-i-unizhennoe-dostoinstvo
+	set tags blinken_entoni.gossekretar.usa,dip_otnoshenia,nuland_viktoria.usa,rossia,ukraina,us_embassy,usa,vojna
+page
+	set url https://lenta.ru/news/2021/05/07/minskbp/
+	set tags 9_may,belarus,minsk,pobeda,vov
+page
+	set url https://zaxid.net/ya_pokazav_yim_nizh__dumav_tse_yih_spinit_n1518518
+	set tags kriminal,murder,ukraina
+page
+	set url https://zaxid.net/zlovmisna_rosiya_i_prozrinnya_zahodu_n1518493
+	set tags putin_vladimir,rossia,zapad
+page
+	set url https://strana.ua/news/332023-v-kieve-zhenshchina-kotoruju-pereekhal-avtomobil-otdelalas-ushibami.html
+	set tags avto,dtp,kiev,naezd.avto,ukraina
 eof
 off
 page

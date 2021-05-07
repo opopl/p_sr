@@ -24810,6 +24810,15 @@ page
 page
 	set url https://strana.ua/news/331999-v-vinnitse-zhertvoj-pozhara-v-ofisnom-tsentre-stala-21-letnjaja-devushka.html
 	set tags devushka,ofis,pozhar,smert,tragedia,ukraina,vinnica
+page
+	set url https://plus.obozrevatel.com/crime/komandir-kiborgov-otvetil-na-manifest-rossijskih-veteranov-protiv-vojnyi-v-ukraine.htm
+	set tags donbass,kiborg,rossia,ukraina,veteran,vojna
+page
+	set url https://day.kyiv.ua/uk/article/den-planety/podorozh-likarya-z-politychnymy-istotamy-v-poshukah-poryatunku
+	set tags literatura,rossia,sorokin_vladimir.pisatel
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/pro-plyusy-srsr
+	set tags imperia,istoria,sovok,sssr,zelenskii_vladimir
 eof
 off
 page

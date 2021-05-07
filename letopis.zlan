@@ -24669,6 +24669,15 @@ page
 page
 	set url https://from-ua.com/articles/598817-ten-pobedi-vo-chto-mi-prevratili-9-maya.html
 	set tags obschestvo,prazdnik,rusimperia,ukraina,den_pobedy,pobeda
+page
+	set url https://strana.ua/opinions/332066-khochetsja-na-minutu-sohlasitsja-s-rossiej-i-oliharkhami.html
+	set tags oligarh,reformi,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/garmash-v-donetske-gotovyatsya-forsirovat-dnepr-a-myi-prodolzhaem-spektakl.htm
+	set tags garmash_sergej.tkg,rossia,tkg,ukraina
+page
+	set url http://lug-info.com/news/one/glava-lnr-v-preddverii-dnya-pobedy-vstretilsya-s-patsientami-gospitalya-veteranov-foto-67488
+	set tags 9_may,den_pobedy,gospital,lnr,lugansk,pasechnik_leonid
 eof
 off
 page

@@ -24681,6 +24681,15 @@ page
 page
 	set url https://www.radiosvoboda.org/a/30604425.html
 	set tags germania,istoria,mirvojna2,nacizm,sssr,ukraina,vov
+page
+	set url https://gazeta.ua/articles/politics/_donka-suddi-konstantinovoyi-obizvala-ukrayinciv-bidlom-i-vipravdovuvala-rosijskih-okupantiv/1030430
+	set tags kiev,skandal,ukraina
+page
+	set url https://gazeta.ua/blog/55019/ukrayinci-buli-tvorcyami-j-mogilnikami-konstituciyi-rechi-pospolitoyi
+	set tags istoria,konstitucia,rech_pospolita,ukraina
+page
+	set url https://strana.ua/opinions/332116-ljudi-poroshenko-podtverdili-kompleks-nepolnotsennosti-svoeho-lidera.html
+	set tags blinken_entoni.gossekretar.usa,fejk,politika,poroshenko_petr,ukraina,usa
 eof
 off
 page

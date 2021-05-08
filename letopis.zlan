@@ -25053,6 +25053,18 @@ page
 page
 	set url https://zbruc.eu/node/105012
 	set tags chelovek,psihologia,ukraina
+page
+	set url https://hvylya.net/news/230144-tkach-iz-kvartala-95-porval-ukraincev-duetom-s-serdyuchkoy
+	set tags kiev,kvartal95,muzyka,showbiz,turcia,ukraina,verka_serduchka
+page
+	set url https://lenta.ru/articles/2021/05/08/russians_and_war/
+	set tags armia,donbass,istoria,mirvojna1,mirvojna2,obschestvo,rossia,sssr,vojna
+page
+	set url https://regnum.ru/news/polit/3263366.html
+	set tags russkie,ukraina,zelenskii_vladimir
+page
+	set url https://www.volyn.com.ua/news/182082-sashko-polozhynskyi-napysav-pisniu-v-pam-iat-pro-daniu-didika
+	set tags didik_danja,pamjat,pesnja,rusmir,smert,ukraina
 eof
 off
 page

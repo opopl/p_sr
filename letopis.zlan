@@ -24843,6 +24843,84 @@ page
 page
 	set url https://strana.ua/opinions/332236-ni-dnja-bez-vranja-ili-tajnye-fantazii-porokhobotov.html
 	set tags blinken_entoni.gossekretar.usa,poroshenko_petr,ukraina,vranje
+page
+	set url https://strana.ua/news/332248-den-pamjati-i-primirenija-vladimir-zelenskij-obratilsja-k-ukraintsam.html
+	set tags 8_may,den_pobedy,den_primirenia.ukraina,kiev,ukraina,zelenskii_vladimir
+page
+	set url https://www.championat.com/football/news-4336649-bylo-neploho-dlya-vseh-vsyo-bylo-odinakovo-andrej-shevchenko-o-zhizni-v-sssr.html
+	set tags futbol,istoria,shevchenko_andrej.ukr.futbolist,sport,sssr,ukraina
+page
+	set url https://news.obozrevatel.com/society/v-mvd-napomnili-o-zaprete-georgievskoj-lentyi-i-flaga-sssr-kak-mogut-nakazat.htm
+	set tags den_pobedy,den_primirenia.ukraina,kommunizm,mirvojna2,ukraina,vov
+page
+	set url https://news.obozrevatel.com/society/dedyi-voevali.htm
+	set tags den_pobedy,den_primirenia.ukraina,istoria,mirvojna2,sssr,ukraina,upa,veteran,vov
+page
+	set url https://news.obozrevatel.com/politics/poroshenko-o-dne-pamyati-i-primireniya-god-za-godom-myi-othodim-ot-imperskogo-pobedobesiya.htm
+	set tags imperia,mirvojna2,poroshenko_petr,rusimperia,ukraina,vov
+page
+	set url https://www.radiosvoboda.org/a/news-zaporizhzhua-aktsiya-pamyat/31244048.html
+	set tags ato,mirvojna2,oos,pamjat,ukraina,vojna,vov,zaporozhie
+page
+	set url https://www.radiosvoboda.org/a/orest-subtelny-80-rokiv/31243534.html
+	set tags istoria,subtelnyj_orest.istorik,ukraina
+page
+	set url https://www.radiosvoboda.org/a/mykola-semena-yak-rosia-zasmoktuie-krym-propahanda/31241203.html
+	set tags deti,ideologia,krym,putin_vladimir,rossia
+page
+	set url https://fraza.com/news/300665-na-kievschine-s-razmahom-otmetjat-den-pobedy
+	set tags 9_may,den_pobedy,kiev,kievrus.ukr.park,prazdnik,prazdnovanie,ukraina
+page
+	set url https://vz.ru/opinions/2021/5/7/1096967.html
+	set tags chelovek,rossia,rusmir,sovest'
+page
+	set url https://sharij.net/doch-kievskoj-sudi-ranee-podderzhavshaya-bastu-izvinilas-za-ukrainskoe-bydlo-i-priznala-krym-ukrainskim-video
+	set tags basta.rossia.repper,devushka,izvinenie,krymnash,ukraina
+page
+	set url https://news.obozrevatel.com/show/people/oskandalivshayasya-iz-za-bastyi-studentka-okazalas-docheryu-sudi-i-byivshego-ofitsera-sbu-smi.htm
+	set tags basta.rossia.repper,devushka,kiev,skandal,ukraina
+page
+	set url https://strana.ua/opinions/332252-levaja-ruka-andropova-na-smert-ehora-lihacheva.html
+	set tags 101_god,1983,brezhnev_leonid,istoria,kpss,ligachev_egor,smert,sssr,ukraina
+page
+	set url https://strana.ua/opinions/332253-zelenskij-delaet-eshche-odin-shah-k-avtoritarizmu-i-diktature.html
+	set tags diktatura,konstitucia,ukraina,verhovna_rada,zakon,zelenskii_vladimir
+page
+	set url http://lug-info.com/news/one/aktivisty-proveli-personalnye-mini-parady-dlya-veteranov-voiny-iz-sukhodolska-foto-67532
+	set tags aktivist,lnr,mirvojna2,vov
+page
+	set url https://buzina.org/golos-naroda/3966-korzina-i-patrioty.html
+	set tags obschestvo,ukraina
+page
+	set url https://lgaki.info/novosti/studenty-muzykanty-akademii-matusovskogo-vzyali-neskolko-nagrad-na-mezhdunarodnyh-konkursah/
+	set tags konkurs,lgaki,lnr,lugansk,muzyka,muzykant,priz
+page
+	set url https://lgaki.info/o-nas-govoryat/unikalnuyu-iskonopisnuyu-masterskuyu-otkroyut-v-luganskom-hrame/
+	set tags cerkov,hram,ikona,ikonopis,isskustvo,lnr,lugansk,masterskaja,pravoslavie,rossia,vera
+page
+	set url https://strana.ua/news/332246-vladimir-putin-nahradil-ekaterinu-lahno-ordenom-druzhby.html
+	set tags chess,fide,grazhdanstvo,lagno_ekaterina.chess.lvov,nagrada,putin_vladimir,rossia,sport,ukraina
+page
+	set url https://strana.ua/opinions/317568-v-ssha-nahradili-silovikov-soprotivljavshikhsja-mirnoj-aktsii.html
+	set tags kapitolij,nagrazhdenie,policia,protest,ukraina,usa
+page
+	set url https://kyiv.depo.ua/ukr/kyiv/khotilosya-podorozhey-i-veliku-mashinu-istoriya-dalekobiynitsi-iz-kieva-202103211299038
+	set tags chelovek,dalnobojschik,evropa,kiev,kievljane,ukraina
+page
+	set url https://www.radiosvoboda.org/a/infographic-epifaniy-blinken/31240851.html
+	set tags blinken_entoni.gossekretar.usa,cerkov,epifanij.mitropolit.pcu,kiev,pcu,pravoslavie,ukraina,usa,vizit
+page
+	set url https://news.obozrevatel.com/society/istorik-nazval-vozniknovenie-sssr-velichajshej-geopoliticheskoj-katastrofoj-20-veka.htm
+	set tags hitler_adolf,istoria,kommunizm,sssr
+page
+	set url https://news.obozrevatel.com/politics/nepriyatnosti-dlya-rossii-budut-tolko-shiritsya.htm
+	set tags blinken_entoni.gossekretar.usa,kiev,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://www.vesti.ru/article/2559614
+	set tags 9_may,den_pobedy,katjusha,moskva,rossia
+page
+	set url https://zen.yandex.ru/media/id/5f6cfccad586121bcf89be9b/114-voistinu-i-vozdastsia-kajdomu-608d25ddbeec563fc838ce87
+	set tags cerkov,hristianstvo,odessa,pravoslavie,ukraina,velykden',vera,voskresenie
 eof
 off
 page

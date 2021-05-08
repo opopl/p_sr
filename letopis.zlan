@@ -24948,6 +24948,48 @@ page
 page
 	set url https://ria.ru/20210504/suverenitet-1731051724.html?in=t
 	set tags savchenko_natalia,suverenitet,ukraina,usa,vneshnee_upravlenie
+page
+	set url https://life.pravda.com.ua/culture/2021/05/8/244836/
+	set tags film,kino,kultura,serial,slavjane,slovakia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/u-dnipri-vidali-knigu-pro-golodomor/31243085.html
+	set tags dnepropetrovsk,golodomor,istoria,kniga,sssr,terminologia,ukraina
+page
+	set url https://news.obozrevatel.com/russia/putin-pozdravil-ukraintsev-s-godovschinoj-pobedyi-nad-natsizmom-proignorirovav-zelenskogo.htm
+	set tags 9_may,den_pobedy,mirvojna2,pobeda,pozdravlenie,prazdnik,putin_vladimir,rossia,sssr,ukraina,vov
+page
+	set url https://news.obozrevatel.com/russia/chernaya-messa-putina-v-rf-nastupaet-epoha-totalnoj-vojnyi.htm
+	set tags 9_may,den_pobedy,pobeda,rossia
+page
+	set url https://ukraina.ru/exclusive/20210508/1031322025.html
+	set tags britania,nasmeshka,odessa,oon,oon.sovet_bezopastnosti,rossia,tragedia.odessa.2_maj.2014,ukraina,usa
+page
+	set url https://strana.ua/news/332269-v-muzee-vmv-obvinili-minkult-v-popytke-sorvat-meroprijatija-na-den-pobedy.html
+	set tags 9_may,den_primirenia.ukraina,kiev,rodina_mat.kiev,ukraina
+page
+	set url https://kiev.strana.ua/332167-v-sele-pod-kievom-obnaruzhili-sovetskuju-simvoliku.html
+	set tags den_pobedy,kiev,pamjat,rakitnoje.ukr.kiev_obl,simvolika,ukraina
+page
+	set url https://odessa.strana.ua/331427-politsija-odessy-otkryla-uholovnoe-delo-iz-za-ispolzovanija-kommunisticheskoj-simvoliki.html
+	set tags kommunizm,odessa,odessit,policia,simvolika,tjurma,ukraina
+page
+	set url https://strana.ua/news/323247-simvolika-pravykh-natsionalistov-popala-v-bazu-simvolov-nenavisti.html
+	set tags azov_polk,c14,kiev,nenavist,radikalizm,ukraina
+page
+	set url https://regnum.ru/news/society/3260579.html
+	set tags 1944,mirvojna2,rkka,rossia,sssr,vov
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-pobedobesie-priblizhaetsya.htm
+	set tags 9_may,den_pobedy,krym,pobedobesie,prazdnik,prazdnovanie,rossia
+page
+	set url https://ria.ru/20210506/pogibshie-1731332686.html
+	set tags brazilia,kriminal,metro,policia,rio_de_zhanejro,smert,strelba
+page
+	set url https://lb.ua/culture/2021/05/03/482793_petro_yatsenko_dlya_pidlitkiv_chasi.html
+	set tags interview,istoria,jacenko_petr.pisatel.ukr,kniga,kultura,literatura,pisatel,sssr,ukraina
+page
+	set url https://strana.ua/news/332262-den-pamjati-i-primirenija-mid-ukrainy-zajavil-chto-my-zashchishchaem-evropu.html
+	set tags 8_may,den_primirenia.ukraina,evropa,mirvojna2,ukraina,vov
 eof
 off
 page

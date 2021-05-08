@@ -25011,6 +25011,48 @@ page
 page
 	set url https://bigkyiv.com.ua/misto-geroj-yakoyu-czinoyu-istoriya-v-czyfrah/
 	set tags istoria,kiev,mirvojna2,sssr,vov
+page
+	set url https://strana.ua/news/332271-velikaja-otechestvennaja-ili-vtoraja-mirovaja-vojna-opros-strany-na-ulitsakh-kieva-i-odessy.html
+	set tags 8_may,9_may,den_pobedy,den_primirenia.ukraina,kiev,mirvojna2,odessa,opros,pamjat,ukraina,vov
+page
+	set url https://strana.ua/opinions/332291-nas-khotjat-priuchit-chto-9-maja-u-nas-ne-pobeda-a-pobedka.html
+	set tags 9_may,den_pobedy,kiev,mirvojna2,pamjat,pobeda,ukraina,vov
+page
+	set url https://strana.ua/opinions/332300-pobediteli-prazdnujut-den-pobedy-zavtra-9-maja.html
+	set tags den_pobedy,den_primirenia.ukraina,germania,kiev,mirvojna2,otvetstvennost',ukraina,vov
+page
+	set url https://strana.ua/opinions/332317-zelenskij-popal-na-rastjazhku-s-etimi-majskimi-prazdnikami.html
+	set tags 9_may,den_pobedy,den_primirenia.ukraina,kiev,prazdnik,rastjazhka,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/332320-v-mire-nastroenie-ljuboj-tsenoj-izbezhat-novoj-kholodnoj-vojny.html
+	set tags holodnaja_vojna,oon,ukraina
+page
+	set url https://strana.ua/showbiz/332295-russian-woman-pevitsa-manizha-izmenila-tekst-pesni-dlja-evrovidenija.html
+	set tags evrovidenie,kultura,manizha,muzyka,pesnja,rossia,showbiz,stena
+page
+	set url https://www.radiosvoboda.org/a/davayte-shtrafuvaty-chynovnykiv-tkachenko-pro-lahidnu-ukrayinizatsiyu/31243371.html
+	set tags interview,mirvojna2,tkachenko_aleksandr,ukraina
+page
+	set url https://news.obozrevatel.com/society/zelenskij-o-dne-pamyati-i-primireniya-oni-pogibli-za-bilet-v-buduschee-dlya-nas.htm
+	set tags 8_may,bilet,future,mirvojna2,ukraina,video,vov,zelenskii_vladimir
+page
+	set url https://plus.obozrevatel.com/crime/istorik-zayavil-chto-stalin-gotovilsya-vonzit-topor-v-spinu-gitleru.htm
+	set tags hitler_adolf,istoria,mirvojna2,napadenie,sssr,stalin_iosif
+page
+	set url http://lug-info.com/news/one/pevitsa-chicherina-vystupila-dlya-patsientov-i-kollektiva-respublikanskogo-gospitalya-veteranov-foto-67543
+	set tags 9_may,chicherina_julia,den_pobedy,donbass,gospital,lnr,lugansk,muzyka,pobeda,rossia,veteran
+page
+	set url https://strana.ua/showbiz/332276-zhena-serheja-leshchenko-anastasija-topolskaja-vystupit-v-moskve-.html
+	set tags dj_nastia.ukr,kiev,leschenko_sergei,moskva,muzyka,nabsovet,rossia,ukraina,ukrzaliznycia
+page
+	set url https://strana.ua/opinions/332321-strany-kotorye-ne-vojujut-poluchajut-ot-ssha-v-razy-bolshe-voennoj-pomoshchi-chem-ukraina.html
+	set tags oruzhie,pomosch,ukraina,usa
+page
+	set url https://hvylya.net/interview/230165-soyuz-s-ssha-ili-put-finlyandii-kak-ukraine-ustoyat-v-protivostoyanii-s-rossiey
+	set tags agressia,finlandia,interview,putin_vladimir,rossia,shojgu_sergej,ukraina,usa,vtorzhenie
+page
+	set url https://zbruc.eu/node/105012
+	set tags chelovek,psihologia,ukraina
 eof
 off
 page

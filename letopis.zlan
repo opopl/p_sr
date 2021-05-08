@@ -24990,6 +24990,21 @@ page
 page
 	set url https://strana.ua/news/332262-den-pamjati-i-primirenija-mid-ukrainy-zajavil-chto-my-zashchishchaem-evropu.html
 	set tags 8_may,den_primirenia.ukraina,evropa,mirvojna2,ukraina,vov
+page
+	set url https://lenta.ru/news/2021/05/08/kravchuk/
+	set tags donbass,kiev,kravchuk_leonid,rossia,ukraina,vojna
+page
+	set url https://day.kyiv.ua/uk/article/cuspilstvo/pro-vyhovannya-movnoyi-svidomosty
+	set tags chelovek,jazyk,kiev,kultura,mova,nacia,soznanie,ukraina
+page
+	set url https://strana.ua/news/332274-k-onlajn-marshu-pamjati-nash-polk-prisoedinilos-bolee-milliona-chelovek.html
+	set tags den_pobedy,kiev,telekanal_inter,ukraina
+page
+	set url https://news.obozrevatel.com/society/8-maya-den-pamyati-i-primireniya-chto-v-ukraine-otmechayut-v-etot-den.htm
+	set tags den_primirenia.ukraina,istoria,mirvojna2,rossia,sssr,ukraina,vov
+page
+	set url https://zen.yandex.ru/media/mlozha/kak-deti-iaroslava-mudrogo-vse-proliubili-60820083223e2e73a774083e
+	set tags 1054,1068,istoria,jaroslav_mudryj,kievrus,rusmir
 eof
 off
 page

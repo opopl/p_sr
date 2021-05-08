@@ -24837,6 +24837,12 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210508/1031274987.html
 	set tags mazepa_ivan,petr_pervyi,poltava,ukraina
+page
+	set url https://strana.ua/news/332249-petr-poroshenko-sravnil-vladimira-putina-s-hitlerom-i-stalinym-8-maja.html
+	set tags den_pobedy,hitler_adolf,poroshenko_petr,putin_vladimir,ukraina
+page
+	set url https://strana.ua/opinions/332236-ni-dnja-bez-vranja-ili-tajnye-fantazii-porokhobotov.html
+	set tags blinken_entoni.gossekretar.usa,poroshenko_petr,ukraina,vranje
 eof
 off
 page

@@ -24822,6 +24822,21 @@ page
 page
 	set url https://zaxid.net/svyata_protsedura_n1518579
 	set tags konstitucia,ksu,ukraina,zakon
+page
+	set url https://strana.ua/articles/analysis/332209-krivoj-roh-sdelal-proezd-v-obshchestvennom-transporte-besplatnym-mnenija-ekspertov-i-merov.html
+	set tags besplatno,krivoj_rog,transport,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/05/8/7292816/
+	set tags 8_may,9_may,den_pobedy,den_primirenia.ukraina,gaslo,ideologia,istoria,prazdnik,prazdnovanie,sssr,ukraina
+page
+	set url http://lug-info.com/news/one/luganskii-dizainer-rasskazala-kak-pomoch-rebenku-razvit-ego-tvorcheskie-sposobnosti-67454
+	set tags deti,dizajn,lnr,lugansk,tvorchestvo
+page
+	set url http://lug-info.com/news/one/uchrezhdeniya-kultury-lnr-predstavyat-spektakli-i-vystavki-ko-dnyu-pobedy-i-dnyu-respubliki-67518
+	set tags 9_may,den_pobedy,lnr,lugansk,mirvojna2,pamjat,prazdnovanie,vov
+page
+	set url https://ukraina.ru/exclusive/20210508/1031274987.html
+	set tags mazepa_ivan,petr_pervyi,poltava,ukraina
 eof
 off
 page

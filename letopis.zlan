@@ -24927,6 +24927,27 @@ page
 page
 	set url https://strana.ua/news/331809-dmitrij-fuchedzhi-i-aleksej-albu-o-2-maja-trahedii-v-dome-profsojuzov-na-zasedanii-sovbeza-oon-.html
 	set tags 02.05.2014,2014,antimaidan,kiev,kulikovo_pole.odessa,maidan2,odessa,oon,oon.sovet_bezopastnosti,rossia,tragedia,tragedia.odessa.2_maj.2014,ukraina
+page
+	set url https://strana.ua/news/332266-poezd-kiev-nikolaev-zalivalo-dozhdem-iz-za-dyr-v-potolke-.html
+	set tags kiev,krysha,nikolaev,poezd,ukraina,ukrzaliznycia,voda
+page
+	set url https://strana.ua/opinions/332257-ukraina-nikohda-ne-smozhet-postroit-toho-chto-sozdal-sssr.html
+	set tags energetika,istoria,proizvodstvo,sozidanie,sssr,ukraina
+page
+	set url https://strana.ua/opinions/332258-zelenskij-obvinil-sssr-v-razvjazyvanii-vtoroj-mirovoj-vojny.html
+	set tags den_pobedy,golokost,istoria,mirvojna2,nacizm,obvinenie,polsha,sssr,totalitarizm,ukraina,vov,zelenskii_vladimir
+page
+	set url https://strana.ua/sport/332261-aleksandr-usik-pokazalsja-s-novym-imidzhem-foto.html
+	set tags boks,dalnobojschik,imidzh,nebraska.usa,sport,ukraina,usik_aleksandr
+page
+	set url https://zen.yandex.ru/media/the_last_romantics_brotherhood/kakaia-stranica-russkoi-istorii-zashifrovana-v-zimnei-skazke-shekspira-606c21d04328d67e5f5ab4e4
+	set tags rossia,rusmir,shekspir,skazka
+page
+	set url https://zen.yandex.ru/media/id/609285181a36676672e78c9c/stihotvorenie-pro-ukrainu-609439cd4fade3788b9b821b
+	set tags krasota,poezia,puteshestvie,rossia,rusmir,stih,turizm,ukraina
+page
+	set url https://ria.ru/20210504/suverenitet-1731051724.html?in=t
+	set tags savchenko_natalia,suverenitet,ukraina,usa,vneshnee_upravlenie
 eof
 off
 page

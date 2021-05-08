@@ -25005,6 +25005,12 @@ page
 page
 	set url https://zen.yandex.ru/media/mlozha/kak-deti-iaroslava-mudrogo-vse-proliubili-60820083223e2e73a774083e
 	set tags 1054,1068,istoria,jaroslav_mudryj,kievrus,rusmir
+page
+	set url https://bigkyiv.com.ua/taras-shevchenko-v-kieve-kak-zhil-i-kakim-zapomnil-gorod-poet-i-hudozhnik/
+	set tags istoria,kiev,rusimperia,shevchenko_taras,ukraina
+page
+	set url https://bigkyiv.com.ua/misto-geroj-yakoyu-czinoyu-istoriya-v-czyfrah/
+	set tags istoria,kiev,mirvojna2,sssr,vov
 eof
 off
 page

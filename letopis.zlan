@@ -25065,6 +25065,9 @@ page
 page
 	set url https://www.volyn.com.ua/news/182082-sashko-polozhynskyi-napysav-pisniu-v-pam-iat-pro-daniu-didika
 	set tags didik_danja,pamjat,pesnja,rusmir,smert,ukraina
+page
+	set url http://slovoprosvity.org/2013/10/24/ivan-franko-i-kyiv/
+	set tags franko_ivan,kiev,kultura,literatura,ukraina
 eof
 off
 page

@@ -24921,6 +24921,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5f6cfccad586121bcf89be9b/114-voistinu-i-vozdastsia-kajdomu-608d25ddbeec563fc838ce87
 	set tags cerkov,hristianstvo,odessa,pravoslavie,ukraina,velykden',vera,voskresenie
+page
+	set url https://www.depo.ua/ukr/politics/viyna-za-vatniy-elektorat-shcho-stoit-za-rozmovami-pro-rozkol-v-opzzh-202105071318111
+	set tags elektorat,opzzh,politika,ukraina,vata,vatnik
+page
+	set url https://strana.ua/news/331809-dmitrij-fuchedzhi-i-aleksej-albu-o-2-maja-trahedii-v-dome-profsojuzov-na-zasedanii-sovbeza-oon-.html
+	set tags 02.05.2014,2014,antimaidan,kiev,kulikovo_pole.odessa,maidan2,odessa,oon,oon.sovet_bezopastnosti,rossia,tragedia,tragedia.odessa.2_maj.2014,ukraina
 eof
 off
 page

@@ -21150,7 +21150,6 @@ page
 page
 	set url https://strana.ua/news/329120-video-skhem-o-vecherinke-nardepa-tishchenko.html
 	set tags covid,karantin,kiev,lockdown,restoran,salut,skandal,tischenko_nikolai.deputat,ukraina,vecherinka,video
-on
 page
 	set url https://www.theguardian.com/world/2021/apr/18/what-do-they-want-from-us-as-russian-forces-amass-a-ukraine-frontier-town-feels-fear-and-despair
 	set tags donbass,marjinka,rossia,ukraina,vojna
@@ -25149,6 +25148,22 @@ page
 page
 	set url https://strana.ua/news/332387-den-pobedy-v-ukraine-2021-foto-i-video-vyvody.html
 	set tags den_pobedy,itogi,provokacia,skandal,ukraina,zigovanie
+page
+	set url https://news.obozrevatel.com/tv/odessa-novorossiya-convert-video-online-com-mp4.htm
+	set tags 9_may,den_pobedy,novorossia,odessa,prazdnik,ukraina
+page
+	set url https://news.obozrevatel.com/society/brend-pobedyi-kak-opravdanie-provalov-v-vojne.htm
+	set tags den_pobedy,istoria,obman,pobedobesie,rossia,sssr,ukraina
+page
+	set url https://news.obozrevatel.com/society/ssha-protiv-sssr-tak-kto-sverhderzhava.htm
+	set tags istoria,obschestvo,sravnenie,sssr,sverh_derzhava,usa
+page
+	set url https://strana.ua/opinions/332505-kazhetsja-krovavaja-komedija-v-ukraine-podkhodit-k-kontsu.html
+	set tags den_pobedy,nacik,nacionalist,nenavist,obschestvo,ukraina,ustalost,vatnik,zelenskii_vladimir
+page
+	set url https://strana.ua/news/332478-chem-opasen-indijskij-shtamm-koronavirusa.html
+	set tags bolezn,covid,covid.shtamm.india,india,stepanov_maksim,ukraina,zabolevajemost',zdorovje
+on
 eof
 off
 page

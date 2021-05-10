@@ -25164,6 +25164,33 @@ page
 	set url https://strana.ua/news/332478-chem-opasen-indijskij-shtamm-koronavirusa.html
 	set tags bolezn,covid,covid.shtamm.india,india,stepanov_maksim,ukraina,zabolevajemost',zdorovje
 on
+page
+	set url https://www.radiosvoboda.org/a/yak-obladnannya-simensu-potrapylo-v-okupovanyy-krym/31247723.html
+	set tags blokada,krym,rossia,sankcii,ukraina,voda
+page
+	set url https://www.pravda.com.ua/news/2021/05/10/7292999/
+	set tags 9_may,den_pobedy,harkov,istoria,prospekt.zhukova.harkov,sssr,terehov_igor,ukraina,zhukov_georgii
+page
+	set url https://www.pravda.com.ua/articles/2021/05/10/7292892/
+	set tags bitva_za_dnepr,cerkov,dnepr,mazepa_ivan,mirvojna2,muzei,perejaslav.hmelnickij.ukr,ukraina,vera,vov
+page
+	set url http://lug-info.com/news/one/prazdnovanie-dnya-pobedy-zavershilos-v-luganske-prazdnichnym-salyutom-i-feierverkom-foto-67581
+	set tags den_pobedy,lnr,lugansk,prazdnik,prazdnovanie,salut
+page
+	set url https://lenta.ru/news/2021/05/10/san_marino/
+	set tags covid,evropa,pobeda,rossia,san_marino,sputnik_v,vaccinacia,vaccine
+page
+	set url https://ukraina.ru/opinion/20210510/1031326959.html
+	set tags 9_may,_important,den_pobedy,istoria,kiev,nacionalist,nacizm,odessa,sssr,ukraina,zhitomir,zigovanie
+page
+	set url https://fraza.com/news/300700-sotni-kievskih-bajkerov-vozlozhili-tsvety-k-pamjatniku-voinam-mototsiklistam-na-ljutezhskom-platsdarme
+	set tags 1943,bitva_za_kiev_1943,den_pobedy,istoria,kiev,mirvojna2,motorcycle,nacizm,pamjat,sssr,ukraina,vov
+global
+	set redo 1
+	set limit 10
+	setlist opts
+		no_site
+		no_date
 eof
 off
 page

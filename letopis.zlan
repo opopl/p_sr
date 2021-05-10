@@ -25092,6 +25092,63 @@ page
 page
 	set url https://strana.ua/news/332390-nastja-topolskaja-vystupila-v-moskve-za-eto-ee-raskritikovali-natsionalisty.html
 	set tags dj_nastia.ukr,leschenko_sergei,moskva,muzyka,nenavist,rossia,showbiz,skandal,sternenko_sergei,ukraina
+page
+	set url https://strana.ua/opinions/332496-obshchestvo-beremennoe-majdanom-neizbezhno-pridet-k-krakhu.html
+	set tags beremennost,kirgizstan,maidan,obschestvo,ukraina
+page
+	set url https://strana.ua/opinions/332338-zihovat-v-ukraine-mozhno-beznakazanno-takov-zakon.html
+	set tags nacizm,ukraina,zakon,zigovanie
+page
+	set url https://strana.ua/opinions/332340-vjatrovichi-i-izhe-s-nimi-assotsiirujut-sebja-s-proihravshej-storony.html
+	set tags den_primirenia.ukraina,ukraina,vjatrovich_vladimir
+page
+	set url https://strana.ua/opinions/332339-ulitsa-dzhordzha-flojda-stanet-illjustratsiej-reformy-suprun-v-sfere-psikhiatrii.html
+	set tags floyd_george,kiev,pereimenovanija,ukraina,ulica
+page
+	set url https://strana.ua/opinions/332363-u-zavisimoj-territorii-i-heroi-dolzhny-byt-luzerami.html
+	set tags luzer,territoria,ukraina,zavisimost
+page
+	set url https://strana.ua/opinions/332341-primirenie-v-ukraine-udalos-na-slavu-postaralis-natsisty.html
+	set tags doneck,kiev,moskva,rossia,ss_galichina,ukraina
+page
+	set url https://strana.ua/opinions/332373-pobeda-eto-izbavlenie-ot-smerti-i-rabstva.html
+	set tags den_pobedy,evrei,faraon,istoria,narod,orwell,ukraina
+page
+	set url https://strana.ua/opinions/332369-blahodarja-etoj-pobede-svobodny-moj-horod-moja-strana-moja-semja.html
+	set tags den_pobedy,den_primirenia.ukraina,istoria,mirvojna2,sssr,ukraina,vov
+page
+	set url https://strana.ua/opinions/332401-pust-politiki-sporjat-pust-istoriki-dokazyvajut.html
+	set tags den_pobedy,istoria,istorik,pamjat,politika,ukraina
+page
+	set url https://strana.ua/opinions/332380-predateljam-predkov-i-fljuheram-nesmyvaemyj-pozor-.html
+	set tags 1942,den_pobedy,istoria,mirvojna2,partizan,pozor,sssr,stalingrad,ukraina,vov
+page
+	set url https://strana.ua/opinions/332408-nado-ne-proklinat-roditelej-a-osoznat-svoe-proshloe.html
+	set tags den_pobedy,istoria,mirvojna2,osoznanie,pamjat,prokljatie,proshloje,roditeli,sssr,ukraina,vov
+page
+	set url https://strana.ua/opinions/332451-sehodnja-den-pobedy-dobra-nad-zlom-zhizni-nad-smertju-cheloveka-nad-neljudju.html
+	set tags chelovek,den_pobedy,dobro,evtushenko_evgenij,humanity,humanizm,kommunizm,mirvojna2,pobeda,smert,sssr,ukraina,vov,zhizn,zlo
+page
+	set url https://strana.ua/opinions/332465-prodolzhaetsja-sorevnovanie-v-tom-kto-bolshe-ukraintsev-pokhoronit.html
+	set tags den_pobedy,ukraina
+page
+	set url https://strana.ua/opinions/332466-9-maja-ostaetsja-v-ukraine-hlavnym-narodnym-prazdnikom.html
+	set tags 9_may,den_pobedy,narod,prazdnik,ukraina
+page
+	set url https://strana.ua/opinions/332467-otmechat-den-pobedy-nuzhno-nesmotrja-na-to-chto-vse-menshe-v-zhivykh-veteranov.html
+	set tags den_pobedy,istoria,mirvojna2,pamjat,prazdnovanie,sssr,ukraina,veteran,vov
+page
+	set url https://strana.ua/opinions/332468-den-pobedy-u-nas-ne-otnjat-potomu-chto-s-nami-pamjat-o-nashikh-dedakh.html
+	set tags 9_may,den_pobedy,mirvojna2,pamjat,ukraina,vov
+page
+	set url https://strana.ua/opinions/332485-esli-ideja-bessmertnoho-polka-luchshe-zakhodit-cherez-rep-pust-budet-rep.html
+	set tags den_pobedy,istoria,molodezh,muzyka,rap,sssr,ukraina
+page
+	set url https://strana.ua/news/332377-ziha-9-maja-v-kieve-v-sotssetjakh-vozmutilis-radikalom-kotoryj-pokazal-zihu-veteranu.html
+	set tags den_pobedy,kiev,kommunizm,nacizm,simvolika,tjurma,ukraina,zigovanie
+page
+	set url https://strana.ua/news/332387-den-pobedy-v-ukraine-2021-foto-i-video-vyvody.html
+	set tags den_pobedy,itogi,provokacia,skandal,ukraina,zigovanie
 eof
 off
 page

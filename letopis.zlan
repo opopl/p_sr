@@ -25068,6 +25068,30 @@ page
 page
 	set url http://slovoprosvity.org/2013/10/24/ivan-franko-i-kyiv/
 	set tags franko_ivan,kiev,kultura,literatura,ukraina
+page
+	set url https://strana.ua/news/259782-chto-izvestno-o-pervom-pohibshem-ot-koronavirusa-v-aleksandrovskoj-bolnitse.html
+	set tags bolnica.kiev.aleksandrovka,covid,dnepropetrovsk,smert,ukraina
+page
+	set url https://strana.ua/news/332315-zelenskij-v-luhanskoj-oblasti-vstretilsja-s-veteranom-andreem-novokhatnim.html
+	set tags lugansk_oblast,mirvojna2,ukraina,veteran,vov,zelenskii_vladimir
+page
+	set url https://112ua.tv/interview/elena-bondarenko-v-uchebnikah-zelenskiy-ostanetsya-kak-samyy-peshhernyy-nacionalyuga-576766.html
+	set tags nacionalist,ukraina,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/society/umer-voin-vsu-kotoryij-poluchil-pulevoe-ranenie-pod-zajtsevo-na-donbasse.htm
+	set tags donbass,ukraina,vojna,vsu
+page
+	set url https://news.obozrevatel.com/society/pobedili-gitlera-pobedim-i-putina.htm
+	set tags 9_may,dovzhenko_oleksandr,mirvojna2,pamjat,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/30600343.html
+	set tags den_pobedy,mirvojna2,pamjat,rossia,ukraina,vov
+page
+	set url http://slovoprosvity.org/2021/03/29/chy-mozhe-isnuvaty-ukrains-ke-misto-bez-vulytsi-moskovs-koi/
+	set tags gorod,istoria,russifikacia,ukraina,ukrainizacia,ulica
+page
+	set url https://strana.ua/news/332390-nastja-topolskaja-vystupila-v-moskve-za-eto-ee-raskritikovali-natsionalisty.html
+	set tags dj_nastia.ukr,leschenko_sergei,moskva,muzyka,nenavist,rossia,showbiz,skandal,sternenko_sergei,ukraina
 eof
 off
 page

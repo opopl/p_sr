@@ -25525,6 +25525,9 @@ page
 page
 	set url https://sharij.net/strelba-v-kazani-kak-otreagirovala-ukraina-i-pochemu-molchit-prezident-zelenskij
 	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia,soboleznovanie,ukraina
+page
+	set url https://ukraine.segodnya.ua/ukraine/skandal-s-docheryu-sudi-v-universitete-shevchenko-prizvali-vygnat-studentku-1524391.html
+	set tags kiev,knu,skandal,tarasjuk_anastasia,ukraina
 eof
 off
 page

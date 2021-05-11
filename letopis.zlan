@@ -25486,6 +25486,15 @@ page
 page
 	set url https://lenta.ru/news/2021/05/11/poem/
 	set tags kitaj,poezia,stih
+page
+	set url https://www.pravda.com.ua/columns/2021/05/11/7293100/
+	set tags deti,krym,moskovia,okupacia,ukraina,vospitanie,vossoedinenie
+page
+	set url https://www.istpravda.com.ua/columns/2021/05/10/159455/
+	set tags 9_may,den_pobedy,pamjat,putin_vladimir,rossia
+page
+	set url https://www.istpravda.com.ua/columns/2021/04/9/159301/
+	set tags 1973,__1973.kiev.vizit.princ_fillip,istoria,kgb,kiev,princ_fillip.suprug_korolevy_elizavety,sssr,ukraina,ussr,vizit
 eof
 off
 page

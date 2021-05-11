@@ -25345,6 +25345,9 @@ page
 page
 	set url https://strana.ua/news/332604-darkside-khakery-kotorye-atakovali-ssha-kato-oni-takie-i-stoit-li-za-nimi-rossija.html
 	set tags darknet,kiberataka,rossia,usa
+page
+	set url https://strana.ua/news/332665-belarus-javljaetsja-potentsialnym-sojuznikom-rossii-pri-vtorzhenii-v-ukrainu-bakanov.html
+	set tags armia,belarus,napadenie,oborona,rossia,ukraina
 eof
 off
 page

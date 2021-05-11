@@ -25314,6 +25314,9 @@ page
 page
 	set url https://vesti.ua/lite/hi-tech/utechku-mozgov-eshhe-mozhno-ostanovit-kak-uchenyj-iz-ukrainy-rabotaet-v-ssha
 	set tags akustika,cornell_university.usa,fizika,itaka.usa.new_york,kiev,nauka,ukraina,usa,zhitomir
+page
+	set url https://lenta.ru/news/2021/05/11/dopros/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,murder,rossia,shkola,tatarstan,tragedia
 eof
 off
 page

@@ -25357,6 +25357,39 @@ page
 page
 	set url https://kharkov.strana.ua/332651-pod-kharkovom-avtobus-s-passazhirami-edushchij-iz-luhanska-v-kiev-nasmert-sbil-zhenshchinu.html
 	set tags avtobus,doroga,dtp,harkov,kiev,lugansk,smert,tragedia,ukraina
+page
+	set url https://strana.ua/opinions/332682-ukraina-riskuet-ostatsja-voobshche-bez-kachestvennoho-televidenija.html
+	set tags obschestvo,oligarh,radio,telekanal,tv,ukraina
+page
+	set url https://kiev.strana.ua/332680-v-kieve-vnezapno-pozheltela-reka-lybed.html
+	set tags ekologia,kiev,priroda,reka.lybid.kiev,ukraina
+page
+	set url https://strana.ua/news/332669-studentku-knu-shevchenko-anastasiju-tarasjuk-khotjat-otchislit-iz-za-vidio-o-baste.html
+	set tags filologia,knu,krymnash,obschestvo,sbu,studparlament.knu,tarasjuk_anastasia,travlja,ukraina
+page
+	set url https://strana.ua/news/332674-medvedchuku-i-kozaku-podpisali-podozrenie-v-hosizmene-venediktova.html
+	set tags gosizmena,kozak_taras,medvedchuk_viktor,pidozra,ukraina,venediktova_irina,verhovna_rada
+page
+	set url https://strana.ua/news/332543-kakovy-posledstvija-pisma-voennykh-vo-frantsii-ob-opasnosti-hrazhdanskoj-vojny-i-islamizma.html
+	set tags civil_war,evropa,francia,islam,islamizm,makron_emmanuel.prezident.francia,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/05/11/7293022/
+	set tags kahovka_novaja.ukr,mariupol,napadenie,putin_vladimir,rossia,ukraina,vojna
+page
+	set url https://www.pravda.com.ua/news/2021/05/11/7293065/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,murder,rossia,shkola,strelba,tragedia
+page
+	set url https://www.radiosvoboda.org/a/news-sbu-obshuky-budynok-medvedchuka/31249564.html
+	set tags medvedchuk_viktor,obysk,opzzh,sbu,ukraina,ulica.kiev.montazhnikov
+page
+	set url https://www.dialog.ua/war/229034_1620738383
+	set tags granica,napadenie,rossia,ugroza,ukraina,vojna
+page
+	set url https://strana.ua/news/332538-na-rejse-qu4489-borispol-la-romana-dominikana-izbili-devushku.html
+	set tags avia,borispol,dominikana,incident,kiev,konflikt,passazhir,samolet,ukraina
+page
+	set url https://lenta.ru/news/2021/05/11/minnnni/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia,tatarstan
 eof
 off
 page

@@ -25278,6 +25278,27 @@ page
 page
 	set url https://lenta.ru/photo/2021/05/09/berlin/
 	set tags berlin,den_pobedy,foto,germania,istoria,mirvojna2,sssr,vov
+page
+	set url https://zaxid.net/strilyanina_u_shkoli_kazan_11_travnya_2021_zagibli_strilets_n1518690
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia
+page
+	set url https://news.obozrevatel.com/show/people/v-universitete-shevchenko-prokommentirovali-skandal-vokrug-docheri-sudi-iz-za-bastyi.htm
+	set tags basta.rossia.repper,kiev,knu,skandal,studenty,tarasjuk_anastasia,ukraina
+page
+	set url https://news.obozrevatel.com/kiyany/life/hudozhnik-pokazal-kak-budut-vyiglyadet-poznyaki-v-2077-godu-marshrutki-nikuda-ne-ischeznut.htm
+	set tags 2077,fantastika,future,hudozhnik,kiev,poznjaki.kiev.rajon,ukraina
+page
+	set url https://news.obozrevatel.com/ukr/kiyany/life/u-kievi-vidrili-pamyatnik-materyam.htm
+	set tags deti,kiev,mariinskij_park.kiev,mater,obschestvo,ohmatdet.bolnica,pamjatnik,ukraina
+page
+	set url https://plus.obozrevatel.com/ukr/crime/starshij-sin-zalishivsya-sirotoyu-podrobitsi-avarii-z-nemovlyam-na-rivnenschini.htm
+	set tags dtp,kiev,rovno,semja,smert,tragedia,ukraina
+page
+	set url https://fraza.com/foto/300738-v-kieve-reka-lybed-stala-jadovito-zheltoj
+	set tags __may_2021.rossia.kazan.shkola.tragedia,ekologia,reka.lybid.kiev,ukraina,kiev
+page
+	set url https://fraza.com/news/300729-v-kazanskoj-shkole-likvidirovan-vtoroj-strelok-kotoryj-uderzhival-zalozhnikov
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,murder,rossia,shkola,tatarstan,tragedia
 eof
 off
 page

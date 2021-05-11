@@ -25426,6 +25426,66 @@ page
 page
 	set url https://analytics.hvylya.net/230294-mify-kotorye-my-vybiraem
 	set tags istoria,mif,mifologia,obschestvo,ss_galichina,ukraina,vybor
+page
+	set url https://strana.ua/news/332703-pochemu-vlasti-khotjat-posadit-medvedchuka-mnenie.html
+	set tags gosizmena,medvedchuk_viktor,opzzh,pidozra,sbu,ukraina,venediktova_irina
+page
+	set url https://censor.net/ru/blogs/3264474/primirennya_mojlive_lishe_pslya_peremogi_nasho_peremogi
+	set tags donbass,geroizm,smert,ukraina,vojna
+page
+	set url https://strana.ua/news/332705-sbu-provodit-obyski-v-dome-medvedchuka-video.html
+	set tags kiev,medvedchuk_viktor,obschestvo,obysk,opzzh,sbu,shufrich_nestor,ukraina,ulica.kiev.montazhnikov
+page
+	set url https://strana.ua/opinions/332708-ukrainskaja-diplomatija-reshila-ustroit-tsenzuru-v-universitete-dublina.html
+	set tags diplomatia,dublin.irlandia,irlandia,obrazovanie,skandal,ukraina,universitet.dublin.irlandia
+page
+	set url https://strana.ua/news/332704-zamhlavy-mvd-herashchenko-ne-vidit-smysla-usilivat-bezopasnost-v-shkolakh-ukrainy.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,geraschenko_anton,rossia,ukraina
+page
+	set url https://strana.ua/showbiz/332707-tom-kruz-reshil-otkazatsja-ot-zolotykh-hlobusov-iz-za-sostava-zhjuri-premii.html
+	set tags kruz_tom,skandal,usa
+page
+	set url https://fraza.com/news/300758-episkop-upts-o-strelbe-v-kazanskoj-shkole-duhovnyj-krizis-privodit-k-strashnym-posledstvijam
+	set tags __may_2021.rossia.kazan.shkola.tragedia,cerkov,kazan,pravoslavie,rossia,upc,vera
+page
+	set url https://plus.obozrevatel.com/crime/v-dom-medvedchuka-prishli-s-obyiskami-smi.htm
+	set tags __may_2021.ukr.kiev.obysk.medvedchuk,kiev,medvedchuk_viktor,sbu,ukraina,ulica.kiev.montazhnikov
+page
+	set url https://pravoslavie.ru/138965.html
+	set tags cerkov,obschestvo,pravoslavie,ukraina,vera
+page
+	set url https://strana.ua/news/332706-posle-obyskov-u-medvedchuka-v-opzzh-objasnili-za-chto-vlasti-mstjat-oppozitsioneru.html
+	set tags 9_may,__may_2021.ukr.kiev.obysk.medvedchuk,den_pobedy,medvedchuk_viktor,opzzh,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-medvedchuk-efir/31249785.html
+	set tags gosizmena,medvedchuk_viktor,opzzh,pidozra,sbu,ukraina,venediktova_irina
+page
+	set url http://lug-info.com/news/one/poetessa-zaslavskaya-prezentovala-v-gorkovke-knigu-novorossiya-groz-novorossiya-grez-foto-67621
+	set tags donbass,lnr,lugansk,novorossia,poezia,vojna
+page
+	set url http://lug-info.com/news/one/vystavka-sem-let-iz-zhizni-respubliki-otkrylas-v-gorkovke-foto-67631
+	set tags biblioteka.lnr.lrunb,lnr,lugansk,obschestvo,respublika,vystavka,zhizn
+page
+	set url https://lenta.ru/news/2021/05/11/hronologiya/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia
+page
+	set url https://lenta.ru/articles/2018/12/27/blackdays/
+	set tags itogi,rossia,tragedia
+page
+	set url http://voskhodinfo.su/panorama/geopolitika/65766-k-voprosu-ob-obedinenii-vrednye-mify-o-rossii-ukraine-i-belorussii.html
+	set tags belarus,rossia,rusmir,ukraina
+page
+	set url https://strana.ua/news/332711-medvedchuk-nakhoditsja-v-ukraine-no-emu-ne-vruchili-podozrenie-kuzmin.html
+	set tags __may_2021.ukr.kiev.obysk.medvedchuk,gosizmena,kuzmin_renat,medvedchuk_viktor,pidozra,ukraina
+page
+	set url https://112ua.tv/mir/chislo-zhertv-strelby-v-kazani-dostiglo-devyati-577151.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,rossia,shkola,tatarstan,traur
+page
+	set url https://112ua.tv/statji/skazali-net-neugodnoy-istorii-pochemu-vsemirno-izvestnyy-roman-o-holokoste-ne-vyydet-v-ukraine-576803.html
+	set tags evrei,golokost,kniga,kultura,literatura,lvov,ukraina
+page
+	set url https://lenta.ru/news/2021/05/11/poem/
+	set tags kitaj,poezia,stih
 eof
 off
 page

@@ -25528,6 +25528,39 @@ page
 page
 	set url https://ukraine.segodnya.ua/ukraine/skandal-s-docheryu-sudi-v-universitete-shevchenko-prizvali-vygnat-studentku-1524391.html
 	set tags kiev,knu,skandal,tarasjuk_anastasia,ukraina
+page
+	set url https://sharij.net/studentku-knu-hotyat-otchislit-iz-universiteta-iz-za-perepoloha-s-bastoj
+	set tags __may_2021.kiev.tarasjuk_nastja.knu,kiev,knu,ukraina
+page
+	set url https://sharij.net/posle-obyska-v-ofise-opzzh-sotrudnik-sbu-ele-popal-v-avtomobil-video
+	set tags __may_2021.ukr.kiev.obysk.medvedchuk,kiev,kurjez,sbu,ukraina
+page
+	set url https://sharij.net/u-menya-dlya-vas-plohaya-novost-bakanov-otvetil-na-vopros-sharij-net-o-tupyh-svinyah-i-propagande-mnogoyazychiya
+	set tags bakanov_ivan,kiev,propaganda,sbu,sharij_net,ukraina
+page
+	set url https://strana.ua/news/332722-skolko-zhertv-strelby-v-kazani-okazalis-v-bolnitse.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,bolnica,deti,rossia
+page
+	set url https://www.radiosvoboda.org/a/infographic-napady-v-shkolakh-u-rosiyi/31249953.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,infografika,kriminal,napadenie,rossia,shkola,statistika
+page
+	set url https://www.pravda.com.ua/news/2021/05/11/7293131/
+	set tags fsb,krym,obysk,rossia,trup
+page
+	set url https://lenta.ru/news/2021/05/11/bomb/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,bomba,deti,kazan,rossia,shkola,tragedia
+page
+	set url https://news.obozrevatel.com/ukr/russia/u-rosijskij-kazani-trapilisya-strilyanina-j-vibuh-u-shkoli-bagato-zhertv-i-poranenih-video.htm
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://ukraina.ru/exclusive/20210511/1031328509.html
+	set tags den_pobedy,mirvojna2,pamjat,prazdnik,prazdnovanie,presledovanie,repressii,ukraina,vov
+page
+	set url https://censor.net/ru/resonance/3264494/andryi_antonenko_riffmaster_nayistrashnshe_v_moyi_stor_te_scho_ya_perebuvav_u_polon_vlasno_derjavi_yak
+	set tags antonenko_andrej.riffmaster,arest,interview,ukraina
+page
+	set url https://lenta.ru/news/2021/05/11/tolpa/
+	set tags dtp,ekaterinburg,rossia
 eof
 off
 page

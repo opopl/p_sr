@@ -25299,6 +25299,21 @@ page
 page
 	set url https://fraza.com/news/300729-v-kazanskoj-shkole-likvidirovan-vtoroj-strelok-kotoryj-uderzhival-zalozhnikov
 	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,murder,rossia,shkola,tatarstan,tragedia
+page
+	set url https://hvylya.net/news/230260-ukrainku-stuzhuk-atakovali-heytery-iz-rossii-iz-za-dnya-materi-i-dnya-pobedy
+	set tags den_materi,den_pobedy,romanenko_jurij,rossia,skandal,stuzhuk_sofia.ukr.blogger,ukraina
+page
+	set url http://lug-info.com/news/one/referendum-2014-shakhter-vladimir-savchenko-sostoyalos-poistine-narodnoe-voleizyavlenie-foto-67166
+	set tags 11_may,2014,donbass,lnr,lugansk,referendum,referendum.lnr.11_05_2014,rusmir,ukraina,vojna
+page
+	set url https://zikua.tv/news/politics/marchevskyi_ukrainska_vlada_maie_zrobyty_vysnovky_pislia_trahedii_v_kazani_1002742
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,murder,shkola,tatarstan,tragedia,ukraina,vyvody
+page
+	set url https://strana.ua/news/332649-ilnaz-haljaviev-kotoryj-streljal-v-ljudej-v-kazanskoj-shkole-schitaet-sebja-bohom.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,murder,rossia,shkola,tragedia
+page
+	set url https://vesti.ua/lite/hi-tech/utechku-mozgov-eshhe-mozhno-ostanovit-kak-uchenyj-iz-ukrainy-rabotaet-v-ssha
+	set tags akustika,cornell_university.usa,fizika,itaka.usa.new_york,kiev,nauka,ukraina,usa,zhitomir
 eof
 off
 page

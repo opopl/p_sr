@@ -25317,6 +25317,31 @@ page
 page
 	set url https://lenta.ru/news/2021/05/11/dopros/
 	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,murder,rossia,shkola,tatarstan,tragedia
+page
+	set url https://lenta.ru/news/2021/05/11/strelbamolchan/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,minuta_molchania,rossia,sport
+page
+	set url https://regnum.ru/news/accidents/3265423.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,rossia,shkola,tatarstan,tragedia
+	set date 11_05_2021
+page
+	set url https://vz.ru/news/2021/5/11/1098602.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,rossia,shkola,tatarstan,tragedia
+page
+	set url https://www.radiosvoboda.org/a/yuzivka-staryi-donetsk/31208856.html
+	set tags 1869,doneck,evropa,gorod,istoria,rusimperia
+page
+	set url https://from-ua.com/articles/599230-kakie-strashnie-syurprizi-nesut-novie-volni-covid-19.html
+	set tags covid,india,pandemia,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/bakanov-iz-rossii-protiv-ukrainyi-rabotayut-7-tyisyach-agentov-spetssluzhb.htm
+	set tags rossia,sbu,specsluzhba,ukraina,bakanov_ivan
+page
+	set url https://www.depo.ua/ukr/svit/strilyanina-v-kazanskiy-shkoli-fotoreportazh-202105111319321
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia
+page
+	set url https://strana.ua/news/332658-opublikovano-shokirujushchee-foto-klassa-kazanskoj-shkoly-posle-rasstrela.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,shkola,tragedia,ukraina
 eof
 off
 page

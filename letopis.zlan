@@ -25185,12 +25185,99 @@ page
 page
 	set url https://fraza.com/news/300700-sotni-kievskih-bajkerov-vozlozhili-tsvety-k-pamjatniku-voinam-mototsiklistam-na-ljutezhskom-platsdarme
 	set tags 1943,bitva_za_kiev_1943,den_pobedy,istoria,kiev,mirvojna2,motorcycle,nacizm,pamjat,sssr,ukraina,vov
-global
-	set redo 1
-	set limit 10
-	setlist opts
-		no_site
-		no_date
+page
+	set url https://zen.yandex.ru/media/politinteres/v-1230-godu-drevniuiu-rus-osnovatelno-triahnulo-v-bukvalnom-smysle-604e52b90a7d51654a55c4b2
+	set tags 1230,batyj.han,drevrus,earthquake,istoria,kiev,kievrus,lavra,novgorod,sudnyj_den
+page
+	set url http://slovoprosvity.org/2021/05/10/liubov-serdunych-mriia-hlobal-nisha-shchob-ukraina-bula-ukrains-koiu-v-us-omu/
+	set tags jazyk,kultura,mova,nacia,serdunich_ljubov.ukr.pisatel,ukraina,vojna
+page
+	set url http://slovoprosvity.org/2021/05/10/het-moskovs-kykh-kholuiv-z-poltavy/
+	set tags _important,flag,fraza,imperializm,istoria,mamaj,mamaj_aleksandr.ukr.poltava,mamaj_kazak,rossia,sssr,ukraina
+page
+	set url https://strana.ua/news/332602-strelba-v-kazani-hlavnoe-o-terakte-v-shkole-175-i-strelke-ilnaze-haljavieve.html
+	set tags deti,kazan,kriminal,murder,rossia,strelba,tragedia
+page
+	set url https://strana.ua/opinions/332620-ukraine-pora-formirovat-novye-smysly-smysly-mira.html
+	set tags donbass,future,ideologia,mir,neruda_pablo.chili.poet,obschestvo,referendum,smysl,ukraina,vojna
+page
+	set url https://strana.ua/news/332637-uchenitsa-kazanskoj-himnazii-rasskazala-chto-proiskhodilo-v-shkole-vo-vremja-strelby.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,kriminal,murder,oruzhie,rossia
+page
+	set url https://strana.ua/news/332616-strelba-v-kazanskoj-shkole-v-zdanii-ishchut-neskolko-vzryvnykh-ustrojstv.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kriminal,murder,oruzhie,rasstrel,rossia,shkola,tragedia
+page
+	set url https://strana.ua/news/332618-strelba-v-kazani-11-maja-streljavshij-zakonchil-shkolu-hde-rasstreljal-detej-i-uchitelnitsu.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,murder,rasstrel,rossia,shkola,strelba,tragedia
+page
+	set url https://strana.ua/news/332607-v-kazani-podrostok-otkryl-v-shkole-strelbu-est-ubitye.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,kriminal,murder,rossia,shkola,strelba
+page
+	set url https://strana.ua/news/332613-strelba-v-shkole-v-kazani-pohibli-13-chelovek.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,rossia,shkola
+page
+	set url https://strana.ua/news/332494-otdelitsja-li-shotlandija-ot-velikobritanii-i-chto-eto-znachit-dlja-ukrainy-.html
+	set tags breksit,britania,referendum,shotlandia,ukraina
+page
+	set url https://strana.ua/opinions/332629-deti-lejtenanta-shmidta-ili-sorosjata-uchatsja-letat-332629.html
+	set tags deti.lejtenanta_shmidta,obschestvo,politika,sorosjata,ukraina
+page
+	set url https://strana.ua/opinions/332628-ukraina-udivitelnym-obrazom-zavisit-ot-rosta-naselenija-kitaja.html
+	set tags kitaj,ukraina
+page
+	set url https://strana.ua/opinions/332595-nado-pomnit-istoriju-i-i-ponimat-iz-cheho-vyrosla-pobeda.html
+	set tags 1945,den_pobedy,germania,gosdep,istoria,mirvojna2,pakt.ribbentrop.molotov,sssr,usa,vov
+page
+	set url https://strana.ua/opinions/332587-mozhet-li-durak-byt-patriotom-vidimo-da-no-duratskim.html
+	set tags 9_may,evrei,future,ideologia,istoria,mif,mifologia,nacia,nacidea,narod,obschestvo,pobeda,spasenie,ukraina
+page
+	set url https://strana.ua/opinions/332562-zelenskij-moh-davno-otmenit-pozornye-zakony-o-dekommunizatsii.html
+	set tags dekomunizacia,den_pobedy,kommunizm,obschestvo,sluga_naroda,tjurma,ukraina,zakon,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/332513-majskie-prazdniki-vyzyvajut-v-ukraine-sdvih-smyslov-i-pamjati.html
+	set tags den_pobedy,istoria,miroporjadok,mirvojna2,nacia,obschestvo,oon,sssr,ukraina,zapad
+page
+	set url https://strana.ua/opinions/332508-kievskij-teatr-ivana-franko-reshil-pobalovatsja-antisemitizmom.html
+	set tags antisemitizm,evrei,karpenko_karyj_ivan.dramaturg.ukr,kiev,kultura,martyn_burulja,teatr.kiev.ivan_franko,ukraina
+page
+	set url https://strana.ua/news/332641-pojavilos-video-kak-kazanskij-strelok-s-drobovikom-v-rukakh-idet-po-ulitse-k-shkole.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,kazan,rossia,tragedia,video
+page
+	set url https://www.pravda.com.ua/news/2021/05/11/7293057/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,murder,oruzhie,rossia,shkola,tragedia
+page
+	set url https://www.pravda.com.ua/news/2021/05/11/7293074/
+	set tags agressia,nato,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://lenta.ru/brief/2021/05/11/school/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,kriminal,murder,rossia,shkola,tragedia
+page
+	set url https://www.radiosvoboda.org/a/photo-strelba-v-kazanskoy-shkole-chto-izvestno/31249279.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,murder,oruzhie,rossia,shkola,tatarstan,tragedia
+page
+	set url https://strana.ua/news/332624-zelenskij-ne-schitaet-chto-rossija-mozhet-napast-na-ukrainu-v-sentjabre.html
+	set tags forum,geroizm,kiev,rossia,ugroza,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/news-zelensky-rosija-zagroza/31249214.html
+	set tags forum,kiev,rossia,ugroza,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://sharij.net/eksklyuziv-sosed-kazanskogo-strelka-rasskazal-o-ego-seme
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,murder,rossia,shkola,strelba,tragedia
+page
+	set url https://ukraina.ru/news/20210511/1031335393.html
+	set tags 2014,kosmos,rossia,sputnik.lybidj,ukraina
+page
+	set url https://ukraina.ru/opinion/20210511/1031329983.html
+	set tags dzhumandzhi.film,film,obschestvo,ukraina,uzhas
+page
+	set url https://ukraina.ru/exclusive/20210511/1031284571.html
+	set tags 11_may,12_may,ato,dnr,donbass,doneck,lnr,lugansk,referendum,ukraina,vojna
+page
+	set url https://ukraina.ru/interview/20210511/1031284673.html
+	set tags dnr,donbass,lnr,rossia,ukraina
+page
+	set url https://lenta.ru/photo/2021/05/09/berlin/
+	set tags berlin,den_pobedy,foto,germania,istoria,mirvojna2,sssr,vov
 eof
 off
 page

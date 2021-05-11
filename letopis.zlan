@@ -25348,6 +25348,15 @@ page
 page
 	set url https://strana.ua/news/332665-belarus-javljaetsja-potentsialnym-sojuznikom-rossii-pri-vtorzhenii-v-ukrainu-bakanov.html
 	set tags armia,belarus,napadenie,oborona,rossia,ukraina
+page
+	set url https://strana.ua/news/332655-polina-lysenko-rasskazala-o-produktakh-tsentra-po-borbe-s-dezinformatsiej.html
+	set tags dezinformacia,infvojna,rnbo,rossia,ukraina
+page
+	set url https://strana.ua/news/332667-obyski-v-dome-medvedchuka-provodjat-11-maja.html
+	set tags _important,kiev,medvedchuk_viktor,obysk,opzzh,ukraina,ulica.kiev.montazhnikov
+page
+	set url https://kharkov.strana.ua/332651-pod-kharkovom-avtobus-s-passazhirami-edushchij-iz-luhanska-v-kiev-nasmert-sbil-zhenshchinu.html
+	set tags avtobus,doroga,dtp,harkov,kiev,lugansk,smert,tragedia,ukraina
 eof
 off
 page

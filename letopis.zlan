@@ -25408,6 +25408,9 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/haran/6097a1e2329fb/
 	set tags germania,hitler_adolf,istoria,mirvojna2,sgovor,sssr,stalin_jozef,ukraina,vov
+page
+	set url https://ukraina.ru/opinion/20210511/1031340350.html
+	set tags basta.rossia.repper,dj_nastia.ukr,goncharenko_alexei,leschenko_sergei,moskva,rossia,sternenko_sergei,travlja,ukraina,ukraina_ne_rossia
 eof
 off
 page

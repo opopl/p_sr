@@ -25342,6 +25342,9 @@ page
 page
 	set url https://strana.ua/news/332658-opublikovano-shokirujushchee-foto-klassa-kazanskoj-shkoly-posle-rasstrela.html
 	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,shkola,tragedia,ukraina
+page
+	set url https://strana.ua/news/332604-darkside-khakery-kotorye-atakovali-ssha-kato-oni-takie-i-stoit-li-za-nimi-rossija.html
+	set tags darknet,kiberataka,rossia,usa
 eof
 off
 page

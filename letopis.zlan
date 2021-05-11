@@ -25495,6 +25495,9 @@ page
 page
 	set url https://www.istpravda.com.ua/columns/2021/04/9/159301/
 	set tags 1973,__1973.kiev.vizit.princ_fillip,istoria,kgb,kiev,princ_fillip.suprug_korolevy_elizavety,sssr,ukraina,ussr,vizit
+page
+	set url https://www.istpravda.com.ua/short/2021/05/11/159460/
+	set tags boks,den_pobedy,georgievskaja_lenta,kommunizm,lomachenko_vassilij,simvolika,sport,ukraina
 eof
 off
 page

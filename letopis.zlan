@@ -25390,6 +25390,24 @@ page
 page
 	set url https://lenta.ru/news/2021/05/11/minnnni/
 	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia,tatarstan
+page
+	set url https://strana.ua/news/332695-terrorist-ilnaz-haljaviev-rodilsja-11-sentjabrja.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia,terakt.9_11_2001.usa,usa
+page
+	set url https://strana.ua/news/332690-stali-izvestny-imena-pohibshikh-vo-vremja-strelby-v-shkole-v-kazane.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,murder,rossia,shkola,spisok,tatarstan,tragedia
+page
+	set url https://strana.ua/opinions/332697-dukhovnuju-rabotu-nad-soboj-nuzhno-provodit-postojanno-sistematicheski.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,chelovek,rossia
+page
+	set url https://www.radiosvoboda.org/a/infographic-kazan-strilyanyna-v-shkoli/31249614.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,karta,rossia,tragedia
+page
+	set url https://www.pravda.com.ua/articles/2021/05/9/7292581/
+	set tags 9_may,chelovek,den_pobedy,obschestvo,pandemia,rossia,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/haran/6097a1e2329fb/
+	set tags germania,hitler_adolf,istoria,mirvojna2,sgovor,sssr,stalin_jozef,ukraina,vov
 eof
 off
 page

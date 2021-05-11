@@ -25411,6 +25411,21 @@ page
 page
 	set url https://ukraina.ru/opinion/20210511/1031340350.html
 	set tags basta.rossia.repper,dj_nastia.ukr,goncharenko_alexei,leschenko_sergei,moskva,rossia,sternenko_sergei,travlja,ukraina,ukraina_ne_rossia
+page
+	set url https://ukraina.ru/youtube/20210511/1031341320.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,rossia
+page
+	set url https://strana.ua/news/332696-pohibshaja-vo-vremja-strelby-v-shkole-uchitelnitsa-prepodavala-anhlijskij-jazyk.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,ignatjeva_elvira.kazan,rossia
+page
+	set url https://strana.ua/opinions/332702-ukraina-mohla-by-sdelat-svoju-vaktsinu-ne-khuzhe-sputnika.html
+	set tags covid,medicina,nauka,ukraina,vaccine
+page
+	set url https://strana.ua/news/332691-sternenko-zajavil-v-sotsseti-o-vystuplenii-danilko-v-sochi-a-potom-udalil-post.html
+	set tags danilko_andrei,dj_nastia.ukr,fejk,leschenko_sergei,rossia,sternenko_sergei,ukraina,verka_serduchka
+page
+	set url https://analytics.hvylya.net/230294-mify-kotorye-my-vybiraem
+	set tags istoria,mif,mifologia,obschestvo,ss_galichina,ukraina,vybor
 eof
 off
 page

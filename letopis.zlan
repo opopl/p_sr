@@ -25504,6 +25504,27 @@ page
 page
 	set url https://strana.ua/news/332712-henprokuror-venediktova-podtverdila-chto-medvedchuk-i-kozak-podozrevajutsja-v-hosizmene.html
 	set tags gosizmena,kiev,kozak_taras,krym,medvedchuk_viktor,pidozra,ukraina,venediktova_irina
+page
+	set url https://sharij.net/portret-strelka-kak-ilnaz-galyaviev-iz-tihogo-parnya-prevratilsya-v-boga-ubivayushhego-detej
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,rossia,tatarstan,tragedia
+page
+	set url https://sharij.net/zhertvoj-kazanskogo-strelka-stala-uchitelnicza-anglijskogo
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://sharij.net/kazanskij-kolumbajn-fakty-fejki-i-posledstviya-tragedii
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://sharij.net/zhurnalist-cnn-sravnil-strelbu-v-shkole-kazani-s-massovymi-rasstrelami-v-ssha
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://sharij.net/strelba-v-shkole-kazani-dvoe-shkolnikov-pogibli-vyprygnuv-iz-okna-video
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://sharij.net/ugomonites-bydlo-ukrainskoe-krym-proali-doch-kievskoj-sudi-podderzhala-bastu
+	set tags basta.rossia.repper,rossia,skandal,tarasjuk_anastasia,ukraina
+page
+	set url https://sharij.net/strelba-v-kazani-kak-otreagirovala-ukraina-i-pochemu-molchit-prezident-zelenskij
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia,soboleznovanie,ukraina
 eof
 off
 page

@@ -25498,6 +25498,12 @@ page
 page
 	set url https://www.istpravda.com.ua/short/2021/05/11/159460/
 	set tags boks,den_pobedy,georgievskaja_lenta,kommunizm,lomachenko_vassilij,simvolika,sport,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-kazan-strilianyna-zhertvy/31249784.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia
+page
+	set url https://strana.ua/news/332712-henprokuror-venediktova-podtverdila-chto-medvedchuk-i-kozak-podozrevajutsja-v-hosizmene.html
+	set tags gosizmena,kiev,kozak_taras,krym,medvedchuk_viktor,pidozra,ukraina,venediktova_irina
 eof
 off
 page

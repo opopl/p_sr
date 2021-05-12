@@ -25984,6 +25984,9 @@ page
 page
 	set url https://regnum.ru/news/polit/3266936.html
 	set tags bakanov_ivan,kommentarii,napadenie,oborona,rossia,ugroza,ukraina
+page
+	set url https://ukraina.ru/news/20210512/1031351661.html
+	set tags nagrada,ptushkin_anton.ukr.blogger,tv,ukraina
 eof
 off
 page

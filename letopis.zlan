@@ -26173,6 +26173,57 @@ page
 page
 	set url https://ukraina.ru/news/20210512/1031355241.html
 	set tags kondicioner,poezd,ukraina,ukrzaliznycia
+page
+	set url https://strana.ua/news/332963-pod-telekanalom-nash-sobralas-neponjatnaja-hruppa-muzhchin.html
+	set tags kiev,kiva_ilja,nacionalist,opzzh,telekanal_nash,titushki,ukraina,radikaly
+page
+	set url https://strana.ua/news/330145-vechernij-kvartal-poshutil-po-povodu-pohroma-ofisa-prezidenta-i-slov-poroshenko-o-vaktsine.html
+	set tags kiev,kvartal95,loh,ofis_prezidenta,pogrom.20_03_2021,ukraina
+page
+	set url https://strana.ua/news/332887-elvira-ihnateva-i-venera-ajzatova-pohibshie-v-kazani-vospominanija-ob-uchitelnitsakh.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,ajzatova_venera.rossia.kazan.uchitel,deti,ignatjeva_elvira.kazan,kazan,pohoron,rossia,shkola,tatarstan,uchitel
+page
+	set url https://plus.obozrevatel.com/crime/perelom-osnovaniya-cherepa-i-sotryasenie-mozga-na-cherkaschine-na-shkolnika-upali-futbolnyie-vorota.htm
+	set tags deti,rebenok,ukraina,uman
+page
+	set url https://news.obozrevatel.com/kiyany/life/v-kievskij-gospital-pribyil-bort-s-tyazheloranenyimi-geroyam-donbassa-nuzhna-pomosch.htm
+	set tags donbass,geroizm,ranenie,ukraina,vojna,volonter
+page
+	set url https://news.myseldon.com/ru/news/index/250541284
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia
+page
+	set url https://ru.krymr.com/a/news-krym-kazan-sud-strelba-arest/31251911.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://ru.krymr.com/a/obzor-krymskoy-pressy-terakt-v-kazani-tarify-zhkh-sankcii-kurort/31251568.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,krym,rossia
+page
+	set url https://ru.krymr.com/a/kazan-strelba-shkola-gimnaziya-pogibshie/31249331.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.volyn.com.ua/news/181855-shchodennyk-zasluzhenoho-zhurnalista-ukrainy-ia-stverdzhuiu-oleha-skrypku-vkusyla-taky-maruv-video
+	set tags 1961,dnevnik,gagarin_jurij,istoria,maruv.pevica.ukr,skripka_oleg,sssr,ukraina,volyn,zhurnalist
+page
+	set url https://zaxid.net/norvegiya_vidmovilasya_vid_vaktsini_astrazeneca_n1518791
+	set tags astrazeneka,covid,norvegia,otkaz,pobochka,vaccinacia,vaccine
+page
+	set url https://www.pravda.com.ua/articles/2020/10/30/7271724/
+	set tags _important,babushka,isskustvo,oleshki.herson_obl,ukraina,herson
+page
+	set url https://strana.ua/news/332905-medvedchuk-poluchil-podozrenie-chto-dalshe.html
+	set tags __pidozra.2021.may.medvedchuk,genprokuratura,kiev,kiva_ilja,kutepov_bogdan.hromadske_ua,medvedchuk_viktor,pidozra,ukraina
+page
+	set url https://strana.ua/opinions/332955-tupik-henprokuratury-ihry-klichko-isk-protiv-hordona.html
+	set tags itogi,ukraina
+page
+	set url https://yandex.ru/turbo/snob.ru/s/entry/206865/
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://kp.ua/incidents/695517-rasstrel-detei-v-kazany-19-letnyi-ubyitsa-schytal-sebia-bohom-hotovym-unychtozhat-byomusor
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://sharij.net/v-kieve-zhenshhina-rodila-na-stanczii-metro-lesnaya
+	set tags kiev,metro.kiev.lesnaja,novorozhdennyj,rody,ukraina,woman
 eof
 off
 page

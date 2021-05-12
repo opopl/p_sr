@@ -25195,9 +25195,6 @@ page
 	set url http://slovoprosvity.org/2021/05/10/het-moskovs-kykh-kholuiv-z-poltavy/
 	set tags _important,flag,fraza,imperializm,istoria,mamaj,mamaj_aleksandr.ukr.poltava,mamaj_kazak,rossia,sssr,ukraina
 page
-	set url https://strana.ua/news/332602-strelba-v-kazani-hlavnoe-o-terakte-v-shkole-175-i-strelke-ilnaze-haljavieve.html
-	set tags deti,kazan,kriminal,murder,rossia,strelba,tragedia
-page
 	set url https://strana.ua/opinions/332620-ukraine-pora-formirovat-novye-smysly-smysly-mira.html
 	set tags donbass,future,ideologia,mir,neruda_pablo.chili.poet,obschestvo,referendum,smysl,ukraina,vojna
 page
@@ -25735,6 +25732,129 @@ page
 page
 	set url https://sharij.net/izrail-vs-palestina-raketnyj-obstrel-dalshe-vojna
 	set tags izrail,izrail_vs_palestina,palestina,vojna
+page
+	set url https://strana.ua/news/332801-v-kazani-nachalis-pokhorony-pohibshikh-v-shkole-ilzii-nahimullinoj-i-amira-shajkhutdinova.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://strana.ua/news/332602-strelba-v-kazani-hlavnoe-o-terakte-v-shkole-175-i-strelke-ilnaze-haljavieve.html
+	set tags deti,kazan,kriminal,murder,rossia,strelba,tragedia,__may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://strana.ua/news/166770-terakt-v-kerchi-hde-eshche-proiskhodili-massovye-ubijstva-v-shkolakh.html
+	set tags 2018,deti,kerch',kriminal,murder,rossia,shooting,shooting.shkola,tragedia,usa
+page
+	set url https://strana.ua/news/332799-v-tatarstane-vlasti-otsenili-dejstvija-shkolnikov-kohda-hulziev-otkryl-ohon.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://ukraina.ru/news/20210512/1031345102.html
+	set tags basta.rossia.repper,kiev,knu,skandal,tarasjuk_anastasia,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210512/1031343492.html
+	set tags __may_2021.ukr.kiev.obysk.medvedchuk,medvedchuk_viktor,rossia,ukraina,vojna
+page
+	set url https://www.dialog.ua/russia/229061_1620757582
+	set tags __may_2021.rossia.kazan.shkola.tragedia,harlamov_garik.rossia.jumorist,rossia,tragedia
+page
+	set url https://www.dialog.ua/russia/229059_1620755473
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.dialog.ua/russia/229056_1620753283
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.dialog.ua/russia/229045_1620744547
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.dialog.ua/russia/229027_1620735666
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.dialog.ua/russia/229023_1620730502
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.dialog.ua/russia/229018_1620727242
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.dialog.ua/russia/229013_1620723165
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.dialog.ua/russia/229009_1620720139
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.dialog.ua/russia/229012_1620721289
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.dialog.ua/russia/229007_1620718894
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.dialog.ua/russia/229042_1620742724
+	set tags __may_2021.rossia.kazan.shkola.tragedia,kazan,mater,ohota,oruzhie,rossia,syn,tatarstan
+page
+	set url https://news.dialog.ua/229070_1620762952
+	set tags chaes,chernobyl,nauka,trevoga,uchenyj,ukraina,zhurnal.science,_important
+page
+	set url https://www.dialog.ua/blogs/229067_1620761581
+	set tags armia,granica,jarosh_dmitrii,rossia,ugroza,ukraina,vojna
+page
+	set url https://vz.ru/news/2021/5/12/1098743.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.dialog.ua/blogs/228898_1620563235
+	set tags pobeditel,ukraina,ukraincy,usa
+page
+	set url https://www.dialog.ua/blogs/228879_1620539050
+	set tags butusov_jurij,den_pobedy,istoria,mirvojna2,sssr,ukraina,vov
+page
+	set url https://www.dialog.ua/blogs/228858_1620477620
+	set tags basta.rossia.repper,bereza_borislav,iskrennost,izvinenie,knu,tarasjuk_anastasia,ukraina
+page
+	set url https://news.dialog.ua/229083_1620808958
+	set tags bucha.ukr.gorod.kiev_obl,problemy,terpenie,ukraina,ukrzaliznycia,zhaloba
+page
+	set url https://www.radiosvoboda.org/a/sbu-vlashtuvalo-obshuky-v-budynku-de-zhyve-medvedchuk/31250150.html
+	set tags __may_2021.ukr.kiev.obysk.medvedchuk,medvedchuk_viktor,obysk,opzzh,sbu,ukraina,ulica.kiev.montazhnikov
+page
+	set url https://fraza.com/news/300780-izrail-poterjal-kontrol-nad-odnim-iz-svoih-gorodov-tam-nachalas-grazhdanskaja-vojna
+	set tags civil_war,hamas.dvizhenie,izrail,izrail_vs_palestina,lod.gorod.izrail,palestina,sektor_gaza,terrorizm
+page
+	set url https://fraza.com/news/300778-v-kieve-pravoslavnaja-molodezh-i-volontery-upts-organizovali-razdachu-obedov-dlja-bezdomnyh
+	set tags bomzh,cerkov,kiev,molodezh,pomosch,pravoslavie,ukraina,upc,volonter
+page
+	set url https://zen.yandex.ru/media/armshistory/horosho-vladel-mechom-chto-govoriat-uchenye-o-iaroslave-mudrom-60447067b8613c1dbbd81048
+	set tags istoria,jaroslav_mudryj,kiev,kievrus,rossia,rusmir,ukraina
+page
+	set url https://zen.yandex.ru/media/id/601909ad3a686f6022fad3c5/kak-odna-devushka-vsem-dokazyvala-chto-boga-net-60728b3284a2b719d70b79f8
+	set tags _important,bog,chelovek,devushka,rusmir,spasenie,vera,zhizn
+page
+	set url https://zen.yandex.ru/media/slavjznsky_stan/skolko-stolic-bylo-u-rossiirusi-609162a4c235fb60b6ee2549
+	set tags drevrus,istoria,moskva,novgorod,rossia,rusmir,st_peterburg,stolica,vladimir.gorod.rossia
+page
+	set url https://zen.yandex.ru/media/bonorus/pochemu-na-zapade-tak-nichtojny-otnosheniia-rodstva-izza-vtorichnosti-ih-iazykov-609a52f04461ec746c45b178
+	set tags chelovek,filologia,istoria,kultura,rodstvo,zapad
+page
+	set url https://strana.ua/news/332687-kolumbajn-v-kazani-rekonstruktsija-teraktra-v-shkole-v-tatarstane-chto-izvestno-o-ilnaze-haljavieve.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,_important,deti,kazan,rekonstrukcia,rossia,shkola,tragedia
+page
+	set url https://sharij.net/iz-za-perekrytiya-severo-krymskogo-kanala-chast-hersonshhiny-ostalas-bez-vody-video
+	set tags __blokada.krym.voda,blokada,herson,krym,severo_krymskij_kanal,ukraina,voda
+page
+	set url https://sharij.net/145379
+	set tags __blokada.krym.voda,dzhemilev_mustafa,kravchuk_leonid,krym,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://sharij.net/kak-otmetili-den-pobedy-v-rossii-chto-pishut-inostrannye-smi-o-parade-pobedy-v-moskve
+	set tags 9_may,den_pobedy,mirvojna2,moskva,nacizm,pamjat,parad,putin_vladimir,rossia,vov
+page
+	set url https://strana.ua/showbiz/332810-morhenshterna-ne-pustili-v-ukrainu-iz-za-propahandy-kulta-nasilija.html
+	set tags morgenstern,muzyka,rossia,sbu,showbiz,ukraina,zapret
+page
+	set url https://strana.ua/articles/analysis/332709-zvezdy-shou-biznesa-prokommentirovali-vystuplenie-didzheja-nasti-topolskoj-v-moskve.html
+	set tags dj_nastia.ukr,leschenko_sergei,rossia,skandal,ukraina
+page
+	set url https://strana.ua/news/332809-advokaty-medvedchuka-rasskazali-o-eho-namerenii-prinjat-uchastie-v-sledstvennykh-dejstvijakh.html
+	set tags genprokuratura,kiev,medvedchuk_viktor,obvinenie,prokuratura,ukraina
+page
+	set url https://112ua.tv/mir/v-kazani-nachalis-pohorony-pogibshih-pri-strelbe-v-shkole-577247.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,pohoron
+page
+	set url https://tvrain.ru/news/v_kazani_nachalis_pohorony_pogibshih_pri_strelbe_v_shkole-529790/
+	set tags __may_2021.rossia.kazan.shkola.tragedia
 eof
 off
 page

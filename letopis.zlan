@@ -26140,6 +26140,21 @@ page
 page
 	set url https://lgaki.info/novosti/vojna-ne-mesto-dlya-detej/
 	set tags den_pobedy,deti,lgaki,lnr,lugansk,spektakl,vojna
+page
+	set url https://vz.ru/society/2021/5/12/1098817.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,galjaviev_ilnaz.ubijca.kazan,ignatjeva_elvira.kazan,rossia,shkola,tatarstan,tragedia
+page
+	set url https://vz.ru/news/2021/5/12/1098849.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,durov_pavel,galjaviev_ilnaz.ubijca.kazan,telegram
+page
+	set url https://vz.ru/news/2021/5/12/1098807.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia,samolet
+page
+	set url https://vz.ru/news/2021/5/12/1098728.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,kazan,krasnyj_krest.rossia,rossia,sberbank,tatarstan
+page
+	set url https://vz.ru/news/2021/5/12/1098701.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,tatarstan
 eof
 off
 page

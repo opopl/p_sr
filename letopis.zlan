@@ -26158,6 +26158,15 @@ page
 page
 	set url https://kiev.strana.ua/332942-v-kieve-vladelets-sobaki-bez-namordnik-nozhom-ranil-dvukh-chelovek.html
 	set tags kiev,konflikt,muzhchina,namordnik,napadenie,nozh,policia,ranenie,sobaka,ukraina
+page
+	set url https://kiev.strana.ua/329035-v-kieve-neizvestnyj-ubil-muzhchinu-nozhom.html
+	set tags kiev,kriminal,murder,napadenie,nozh,ukraina,voskresenka.kiev
+page
+	set url https://strana.ua/news/325380-nakanune-8-marta-syn-zarezal-sozhitelja-materi-chej-trup-nashli-v-lesopolose.html
+	set tags 8_marta,kiev,kriminal,mater,murder,nozh,semja,syn,ukraina
+page
+	set url https://strana.ua/opinions/332948-bez-oshchushchenija-strakha-nasha-vlast-ne-budet-reshat-problemu-donbassa.html
+	set tags donbass,rossia,ukraina,vojna
 eof
 off
 page

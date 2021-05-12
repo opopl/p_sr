@@ -25987,6 +25987,9 @@ page
 page
 	set url https://ukraina.ru/news/20210512/1031351661.html
 	set tags nagrada,ptushkin_anton.ukr.blogger,tv,ukraina
+page
+	set url https://pravoslavie.ru/139221.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,kazan,liturgia,patriarh_kirill,tatarstan,tragedia,vera
 eof
 off
 page

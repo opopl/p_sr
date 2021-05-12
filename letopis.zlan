@@ -25864,6 +25864,15 @@ page
 page
 	set url https://strana.ua/news/332811-v-irlandii-skandal-posle-pisma-poslov-ukrainy-i-hruzii-k-universitetu-iz-za-rossii.html
 	set tags dublin.irlandia,irlandia,skandal,ukraina,universitet.dublin.irlandia
+page
+	set url https://zaxid.net/zhittya_za_8_sekund_n1518707
+	set tags chelovek,obschestvo,psihologia,ukraina
+page
+	set url https://riafan.ru/1442741-ukraincy-zayavili-ob-otsutstvii-zhalosti-i-sochuvstviya-posle-tragedii-v-kazani
+	set tags __may_2021.rossia.kazan.shkola.tragedia,chelovek,nenavist,rossia,sostradanie,ukraina,zhalost
+page
+	set url https://novorosinform.org/859721
+	set tags __may_2021.rossia.kazan.shkola.tragedia,internet,nenavist,rossia,sostradanie,ukraina
 eof
 off
 page

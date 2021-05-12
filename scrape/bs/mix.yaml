@@ -28,6 +28,7 @@ include:
 
 ###news_nvr
     - news.nvr.voshod_info
+    - news.nvr.novorosinform_org
 
 ###news_ru
     - news.ru.aif

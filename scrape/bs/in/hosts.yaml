@@ -99,6 +99,7 @@
 
 ###news.nvr
 'voskhodinfo.su'  : { 'site' : 'news.nvr.voshod_info' }
+'novorosinform.org'  : { 'site' : 'news.nvr.novorosinform_org' }
 
 ###bib
 'exlibris.org.ua' : { 'site' : 'bib.ua.exlibris' }

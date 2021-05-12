@@ -25873,6 +25873,42 @@ page
 page
 	set url https://novorosinform.org/859721
 	set tags __may_2021.rossia.kazan.shkola.tragedia,internet,nenavist,rossia,sostradanie,ukraina
+page
+	set url https://novorosinform.org/859669
+	set tags rossia,stoun_oliver,usa,vrazhda
+page
+	set url https://news.obozrevatel.com/russia/terakt-v-shkole-v-kazani-strelku-grozit-pozhiznennoe-ili-smertnaya-kazn.htm
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://vesti.ua/mir/vse-chto-nuzhno-znat-o-kazanskom-terakte-gde-pogibli-deti
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,murder,rossia,shkola,tragedia
+page
+	set url https://vesti.ua/politika/esli-rf-budet-nastupat-cherez-belarus-u-minoborony-est-plan-taran
+	set tags nastuplenie,oborona,plan,rossia,ukraina,vojna
+page
+	set url https://sport.fakty.ua/375777-svitolina-v-rime-dozhala-silnuyu-amerikanku-s-russkimi-kornyami-videoobzor-matcha
+	set tags italia,sport,svitolina_elina.ukr.tenisist,tenis,turnir,ukraina
+page
+	set url https://fakty.ua/375729-massovoe-ubijstvo-v-kazanskoj-shkole-sledstvie-prestupnogo-pravleniya-putina-i-ego-opg---slava-rabinovich
+	set tags __may_2021.rossia.kazan.shkola.tragedia,_important,deti,putin_vladimir,rossia,shkola,tragedia
+page
+	set url https://world.fakty.ua/375724-chetyre-malchika-tri-devochki-i-dvoe-vzroslyh-v-kazani-utochnili-chislo-pogibshih-v-rezultate-strelby-v-shkole
+	set tags __may_2021.rossia.kazan.shkola.tragedia,kazan,rossia,tatarstan,traur
+page
+	set url https://crime.fakty.ua/375403-bespredel-po-kievski-neadekvat-natravlivaet-svirepogo-psa-na-lyudej-i-sobak
+	set tags incident,kiev,napadenie,sobaka,ukraina
+page
+	set url https://showbiz.fakty.ua/375549-ideya-proekta-mandruj-ukrainoyu-prishla-mne-v-golovu-v-to-vremya-kogda-mir-byl-zakryt
+	set tags kiev,komarov_dmitrij.ukr.tv,otdyh,puteshestvie,turizm,ukraina
+page
+	set url https://world.fakty.ua/375770-kartina-hudozhnika-afroamerikanca-prodana-za-93-milliona-dollarov
+	set tags 1983,baskia_zhan_mishel.hudozhnik.afrika,cherep,isskustvo,kartina,prodazha,world
+page
+	set url https://racurs.ua/b203-nujen-li-ukraine-saharov.html
+	set tags istoria,rossia,saharov_andrej.fizik.sssr,sssr,ukraina
+page
+	set url https://24tv.ua/ru/strelba-shkole-kazani-11-maja-2021-est-zhertvy-novosti-ukraina_n1622648
+	set tags __may_2021.rossia.kazan.shkola.tragedia
 eof
 off
 page

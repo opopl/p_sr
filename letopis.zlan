@@ -25561,6 +25561,180 @@ page
 page
 	set url https://lenta.ru/news/2021/05/11/tolpa/
 	set tags dtp,ekaterinburg,rossia
+page
+	set url https://strana.ua/news/332686-podozrenie-medvedchuku-fabula-dela-i-hde-sejchas-lider-opzzh.html
+	set tags gosizmena,kozak_taras,medvedchuk_viktor,pidozra,sbu,ukraina,venediktova_irina
+page
+	set url https://strana.ua/opinions/332741-v-vospitanii-u-nas-serezno-narushen-balans-dobra-i-zla.html
+	set tags chelovek,deti,dobro,obrazovanie,shkola,vospitanie,zlo
+page
+	set url https://strana.ua/opinions/332743-voennaja-nehotovnost-chetvertaja-volna-oliharkhi-v-zakone.html
+	set tags itogi,ukraina
+page
+	set url https://strana.ua/opinions/332740-zakon-ob-oliharkhakh-zastavit-sluh-naroda-zhit-na-odnu-zarplatu.html
+	set tags oligarh,sluga_naroda,ukraina,zakon
+page
+	set url https://gazeta.ua/blog/55036/mayemo-vidsikti-russkij-mir-vid-peremogi-u-drugij-svitovij
+	set tags den_pobedy,rossia,rusmir,ukraina
+page
+	set url https://news.obozrevatel.com/society/ukraintsi-gotovyi-dat-reshitelnyij-otpor-kremlevskomu-karliku.htm
+	set tags _important,fraza,putin_vladimir,rossia,ukraina
+page
+	set url https://lenta.ru/articles/2021/05/12/kazantireur/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia
+page
+	set url https://lenta.ru/news/2021/05/11/rasskazala/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia
+page
+	set url https://lenta.ru/news/2021/05/11/officer/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia,tragedia
+page
+	set url https://strana.ua/news/332766-u-shkoly-v-kazani-ljudi-ostavili-poslanie-terroristu.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia
+page
+	set url https://strana.ua/news/332742-vosstanovlena-polnaja-khronolohija-terakta-massovoho-ubijstva-v-kazani.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://sharij.net/kazanskij-strelok-ostavil-bombu-v-razdevalke-shkoly-ot-vzryva-chastichno-obrushilis-steny
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://strana.ua/news/332757-ljubimaja-hruppa-putina-ljube-dala-kontsert-v-donetske-pod-akkompanement-dozhdja.html
+	set tags dnr,doneck,koncert,ljube.gruppa,putin_vladimir
+page
+	set url https://www.pravda.com.ua/news/2021/05/11/7293163/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,itogi,medvedchuk_viktor,pidozra,rossia,ukraina
+page
+	set url https://regnum.ru/news/society/3266254.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://regnum.ru/news/society/3266237.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,_important,chelovek,obschestvo,psihologia,rossia
+page
+	set url https://regnum.ru/news/society/3266081.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,kabardino_balkaria.rossia,rossia,sochuvstvie
+page
+	set url https://regnum.ru/news/polit/3264992.html
+	set tags 9_may,den_pobedy,obschestvo,ukraina
+page
+	set url https://regnum.ru/news/polit/3264832.html
+	set tags 9_may,bandera_stepan,buzhanskii_maksim,den_pobedy,kiev,kmda,obschestvo,okkupacia,ukraina
+page
+	set url http://lug-info.com/news/one/glava-lnr-vyrazil-soboleznovaniya-prezidentu-tatarstana-v-svyazi-s-tragediei-v-kazani-67643
+	set tags __may_2021.rossia.kazan.shkola.tragedia,lnr,pasechnik_leonid
+page
+	set url http://lug-info.com/news/one/parad-pobedy-proshel-v-luganske-s-uchastiem-bolee-100-ed-tekhniki-i-dvukh-tys-voennosluzhaschikh-foto-67562
+	set tags 9_may,den_pobedy,lnr,lugansk,nm_lnr,parad_pobedy,pasechnik_leonid
+page
+	set url http://voskhodinfo.su/aktualno/65740-nastoyaschiy-polkovniko-tribunale-nad-ukronacistami-mezhdunarodnom-sotrudnichestve-i-cheshskih-sau.html
+	set tags nacizm,nato,ukraina
+page
+	set url https://ukraina.ru/news/20210511/1031342613.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,oon,soboleznovanie
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/chto-takoe-russkaia-dusha-608fb9beb8f34b04d24a6d26
+	set tags chelovek,rossia,rusdusha,skazka
+page
+	set url https://zen.yandex.ru/media/id/5e39622e308e5914fb49d1d3/kto-takie-kazaki-6055e085b1c77423c57fef09
+	set tags cherkassy,dnepr,istoria,kazaki,kiev,ukraina
+page
+	set url https://lenta.ru/news/2021/05/12/ombudsmen/
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://vz.ru/society/2021/5/11/1098646.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.radiosvoboda.org/a/druzhyna-serhiya-leshchenka-vystup-u-moskvi/31249982.html
+	set tags dj_nastia.ukr,leschenko_sergei,moskva,rossia,skandal,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-leshchenko-dj-nastia/31250659.html
+	set tags dj_nastia.ukr,leschenko_sergei,moskva,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-tatarstan-zhaloba/31250748.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia,tatarstan,traur
+page
+	set url https://www.radiosvoboda.org/a/napady-na-navchalni-zaklady-hronologiya/31249820.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia,world
+page
+	set url https://www.radiosvoboda.org/a/vystup-zelenskooho-do-dnia-peremohy/31247265.html
+	set tags den_pobedy,den_primirenia.ukraina,hitler_adolf,hitlerizm,istoria,pamjat,rossia,stalin_iosif,stalinizm,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ukraine-donbas-ordlo-viyna/31250027.html
+	set tags 2014,dnr,donbass,lnr,referendum,rossia,ukraina
+page
+	set url https://www.pravda.com.ua/news/2021/05/12/7293193/
+	set tags __may_2021.ukr.kiev.obysk.medvedchuk,avto,evakuator,kiev,medvedchuk_viktor,opzzh,ukraina
+page
+	set url https://zen.yandex.ru/media/nabljudatel/nasha-vera-608d0abd4e93064eb854a140
+	set tags cerkov,pravoslavie,rossia,velykden',vera
+page
+	set url https://strana.ua/opinions/332777-ukraina-vyhljadit-kak-osazhdennyj-banderovsij-skhron.html
+	set tags bandera_stepan,leschenko_sergei,obschestvo,ukraina
+page
+	set url https://strana.ua/opinions/332779-ukraina-vse-taki-okazalas-na-porohe-defolta.html
+	set tags defolt,ekonomika,ukraina
+page
+	set url https://strana.ua/news/332794-ljudi-v-rossijskikh-horodakh-nesut-tsvety-i-ihrushki-v-znak-trahedii-v-kazanskoj-shkole.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,kazan,ludi,memorial,rossia,skorbj,tragedia
+page
+	set url https://strana.ua/news/332784-pravookhraniteli-nashli-u-ilnaza-haljavieva-kotoryj-ustroil-strelbu-v-shkole-koran.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://strana.ua/news/332772-bojnja-v-kazani-junyj-strelok-zhil-v-obespechennoj-seme-i-sekhal-ot-roditelej-iz-za-konflikta.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://strana.ua/opinions/332782-leshchenko-dokazyvaet-chto-eho-zhena-v-moskve-borolas-za-prava-lhbt.html
+	set tags lbgt,leschenko_sergei,moskva,rossia,ukraina
+page
+	set url https://strana.ua/news/332787-delo-protiv-medvedchuka-bojnja-v-kazani-proshchanie-s-nato.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,itogi,medvedchuk_viktor,nato,strana_ua,ukraina
+page
+	set url https://fraza.com/video/300766-sektor-gaza-nanes-po-tel-avivu-massirovannyj-raketnyj-udar
+	set tags hamas.dvizhenie,izrail,palestina,raketa,sektor_gaza,terrorizm,udar
+page
+	set url https://fraza.com/news/300777-mitropolit-upts-rasskazal-o-tom-kak-cheloveku-poznat-hrista
+	set tags hristos,pokajanie,poznanie,pravoslavie,ukraina,upc,vera
+page
+	set url https://vesti.ua/opinions/kazanskaya-tragediya-i-uroki-dlya-ukrainy
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://news.obozrevatel.com/abroad/hamas-vsyu-noch-obstrelival-izrail-zapustili-bolee-350-raket-video.htm
+	set tags hamas.dvizhenie,izrail,terrorist
+page
+	set url https://news.obozrevatel.com/society/rasstrel-v-kazani-vazhnaya-informatsiya-dlya-teh-u-kogo-deti-uchatsya-v-shkole.htm
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://news.obozrevatel.com/politics/zelenskij-prodemonstriroval-gotovnost-protivostoyat-oligarham-i-rossijskim-agentam-vliyaniya.htm
+	set tags danilov_aleksei,oligarh,rnbo,ukraina,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/abroad/izrail-vyistoit-molimsya-chtobyi-i-u-nas-byil-zheleznyij-kupol-i-na-kazhduyu-raketu-desyat-protivoraket.htm
+	set tags donbass,izrail,palestina,terrorizm,vojna
+page
+	set url https://zen.yandex.ru/media/istok/tri-bitvy-s-tataromongolami-o-kotoryh-ne-stydno-rasskazyvat-detiam-i-vnukam-608d10b64e93064eb863edbb
+	set tags 1223,1237,drevrus,istoria,mongoly,rossia,rusmir
+page
+	set url https://strana.ua/articles/private-life/332664-dlja-prezidentskoho-kortezha-perekryvajut-dorohu-na-10-minut-a-samoho-zelenskoho-soprovozhdaet-bolee-20-sotrudnikov-uho-i-snajpery.html
+	set tags kiev,ohrana,snajper,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/332788-strelba-v-kazani-kohda-projdut-pokhorony.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,kazan,pohoron,rossia,tatarstan
+page
+	set url https://sharij.net/skandal-v-odesse-v-restorane-lvovskaya-rebernya-izmenili-risunki-posle-vozmushheniya-zhitelej
+	set tags obschestvo,odessa,rebernja.ukr.restoran,ukraina,vozmuschenie
+page
+	set url https://sharij.net/185533
+	set tags fejk,jazyk,kiev,mova,skandal,teatr,teatr.kiev.na_podole,ukraina
+page
+	set url https://regnum.ru/news/3263611.html
+	set tags harkov,odessa,putin_vladimir,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-knu-shevchenka-studentka-zayavy/31249733.html
+	set tags etika,kiev,knu,obschestvo,tarasjuk_anastasia,ukraina
+page
+	set url https://sharij.net/prodavecz-obyasnil-pochemu-prodal-oruzhie-kazanskomu-strelku
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://sharij.net/izrail-vs-palestina-raketnyj-obstrel-dalshe-vojna
+	set tags izrail,izrail_vs_palestina,palestina,vojna
 eof
 off
 page

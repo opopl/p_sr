@@ -25927,6 +25927,15 @@ page
 page
 	set url http://antifashist.com/item/dobkin-potreboval-ot-zelenskogo-hristianskogo-i-muzhskogo-postupka-vyrazit-soboleznovaniya-po-teraktu-v-kazani.html
 	set tags __may_2021.rossia.kazan.shkola.tragedia,dobkin_mihail,kazan,rossia,sochuvstvie,ukraina
+page
+	set url https://golos.ua/anonsy/anons-press-konferentsyy-krovavyj-terakt-v-kazany-pochemu-v-myre-rastet-kolychestvo-ubyjstv-y-grozyt-ly-eto-ukrayne
+	set tags __may_2021.rossia.kazan.shkola.tragedia,press_konferencia,rossia,ukraina
+page
+	set url https://censor.net/ru/blogs/3264729/sm_rokv_chergovyi_rosyiskyi_brehn
+	set tags 2014,dnr,donbass,lnd,referendum,ukraina,vojna
+page
+	set url https://censor.net/ru/news/3264774/zamglavy_mvd_geraschenko_o_strelbe_v_kazanskoyi_shkole_kak_pokazyvaet_mirovoyi_opyt_predotvratit_takoyi
+	set tags __may_2021.rossia.kazan.shkola.tragedia,geraschenko_anton,mvd_ukraina,oruzhie,psihologia,rossia,ukraina
 eof
 off
 page

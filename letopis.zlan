@@ -25912,9 +25912,6 @@ page
 page
 	set url https://tochka.press/blog/2021/05/11/59334/
 	set tags __may_2021.rossia.kazan.shkola.tragedia,belarus,rossia,soboleznovanie,sochuvstvie,sostradanie
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://korrespondent.net/ukraine/events/4356458-ytohy-1105-terakt-v-kazany-y-podozrenyia-nardepam
 	set tags __may_2021.rossia.kazan.shkola.tragedia
@@ -25924,6 +25921,12 @@ page
 page
 	set url https://life.ru/p/1396420
 	set tags __may_2021.rossia.kazan.shkola.tragedia,soboleznovanie,sochuvstvie,ukraina,opzzh
+page
+	set url https://forpost.media/novosti/v-zaporizkykh-shkolakh-mozhut-posylyty-zakhody-bezpeky-pislia-strilianyny-v-inshchiy-kraini.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,_important,deti,rossia,shkola,ukraina,zaporozhie
+page
+	set url http://antifashist.com/item/dobkin-potreboval-ot-zelenskogo-hristianskogo-i-muzhskogo-postupka-vyrazit-soboleznovaniya-po-teraktu-v-kazani.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,dobkin_mihail,kazan,rossia,sochuvstvie,ukraina
 eof
 off
 page

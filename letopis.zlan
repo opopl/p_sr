@@ -26155,6 +26155,9 @@ page
 page
 	set url https://vz.ru/news/2021/5/12/1098701.html
 	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,tatarstan
+page
+	set url https://kiev.strana.ua/332942-v-kieve-vladelets-sobaki-bez-namordnik-nozhom-ranil-dvukh-chelovek.html
+	set tags kiev,konflikt,muzhchina,namordnik,napadenie,nozh,policia,ranenie,sobaka,ukraina
 eof
 off
 page

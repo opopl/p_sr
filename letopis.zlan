@@ -25936,6 +25936,9 @@ page
 page
 	set url https://censor.net/ru/news/3264774/zamglavy_mvd_geraschenko_o_strelbe_v_kazanskoyi_shkole_kak_pokazyvaet_mirovoyi_opyt_predotvratit_takoyi
 	set tags __may_2021.rossia.kazan.shkola.tragedia,geraschenko_anton,mvd_ukraina,oruzhie,psihologia,rossia,ukraina
+page
+	set url https://sharij.net/marchenko-otreagirovala-na-obyski-u-medvedchuka-nadeyus-vas-prinimali-radushno
+	set tags __may_2021.ukr.kiev.obysk.medvedchuk,kiev,marchenko_oksana,medvedchuk_viktor,radushie,ukraina
 eof
 off
 page

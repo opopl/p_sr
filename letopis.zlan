@@ -25855,6 +25855,15 @@ page
 page
 	set url https://tvrain.ru/news/v_kazani_nachalis_pohorony_pogibshih_pri_strelbe_v_shkole-529790/
 	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.radiosvoboda.org/a/30410520.html
+	set tags dekomunizacia,kiev,kommunizm,rodina_mat.kiev,simvolika,ukraina,zakon,zapret
+page
+	set url https://sharij.net/sternenko-izvinilsya-pered-serdyuchkoj-za-fejk-o-ee-vystuplenii-v-rf
+	set tags danilko_andrei,fejk,rossia,showbiz,sternenko_sergei,ukraina
+page
+	set url https://strana.ua/news/332811-v-irlandii-skandal-posle-pisma-poslov-ukrainy-i-hruzii-k-universitetu-iz-za-rossii.html
+	set tags dublin.irlandia,irlandia,skandal,ukraina,universitet.dublin.irlandia
 eof
 off
 page

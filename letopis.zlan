@@ -25981,6 +25981,9 @@ page
 page
 	set url http://asn.in.ua/ru/news/opinions/11901-my-dolzhny-zajavit-monopoliju-na-nasledie-kievskoj.html
 	set tags arestovich_aleksei,kievrus,nasledie,ukraina
+page
+	set url https://regnum.ru/news/polit/3266936.html
+	set tags bakanov_ivan,kommentarii,napadenie,oborona,rossia,ugroza,ukraina
 eof
 off
 page

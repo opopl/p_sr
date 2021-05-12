@@ -32,6 +32,7 @@ include:
 
 ###news_ru
     - news.ru.aif
+    - news.ru.tochka_press
     - news.ru.allcrimea_net
     - news.ru.donbasstoday
     - news.ru.eadaily

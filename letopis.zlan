@@ -25909,6 +25909,21 @@ page
 page
 	set url https://24tv.ua/ru/strelba-shkole-kazani-11-maja-2021-est-zhertvy-novosti-ukraina_n1622648
 	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://tochka.press/blog/2021/05/11/59334/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,belarus,rossia,soboleznovanie,sochuvstvie,sostradanie
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://korrespondent.net/ukraine/events/4356458-ytohy-1105-terakt-v-kazany-y-podozrenyia-nardepam
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.dialog.ua/ukraine/229015_1620723496
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://life.ru/p/1396420
+	set tags __may_2021.rossia.kazan.shkola.tragedia,soboleznovanie,sochuvstvie,ukraina,opzzh
 eof
 off
 page

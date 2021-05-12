@@ -55,6 +55,7 @@
 'rusvesna.su' : { 'site' : 'news.ru.rusvesna' }
 
 'aif.ru' : { 'site' : 'news.ru.aif' }
+'tochka.press' : { 'site' : 'news.ru.tochka_press' }
 
 # stavropol
 'stapravda.ru' : { 'site' : 'news.ru.stapravda' }

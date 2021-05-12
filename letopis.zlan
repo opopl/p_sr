@@ -26104,6 +26104,42 @@ page
 page
 	set url https://hromadske.ua/posts/u-ssha-cholovik-vidkriv-vogon-ta-vbiv-6-lyudej-na-vechirci-bo-jogo-na-neyi-ne-zaprosili
 	set tags kolorado.usa,kriminal,murder,strelba,usa,vecherinka
+page
+	set url https://news.obozrevatel.com/abroad/smozhet-li-kremlevskij-shtepsel-priuchit-tarapunku.htm
+	set tags belarus,lukashenko_aleksandr,putin_vladimir,rossia,shtepsel,tarapunka,ukraina
+page
+	set url https://www.radiosvoboda.org/a/russia-victims-school-shooting-kazan-buried/31251763.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,pohoron,proschanie,rossia,tatarstan
+page
+	set url https://www.pravda.com.ua/news/2021/05/12/7293275/
+	set tags izrail,izrail_vs_palestina,palestina,sektor_gaza,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/332935-v-chernobyle-podtverdili-problemy-na-aes-no-hovorjat-chto-opasnosti-net.html
+	set tags atomic_energy,chaes,chernobyl,ukraina
+page
+	set url https://beztabu.net/rosiyeyu-keruyut-degenerati_n73145
+	set tags degenerat,fraza,rossia
+page
+	set url https://odessa.strana.ua/332928-pod-odessoj-muzhchina-podzheh-sosedku-kotoraja-vmeshalas-v-semejnuju-ssoru.html
+	set tags benzin,kriminal,odessa,pokushenie,policia,sosed,ukraina
+page
+	set url https://strana.ua/news/332926-skolko-millionerov-zhivet-v-ukraine-v-2020-hodu.html
+	set tags dengi,dohod,ekonomika,millioner,pandemia,ukraina
+page
+	set url https://regnum.ru/news/society/3267377.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,cvety,moskva,sochuvstvie,tatarstan
+page
+	set url https://regnum.ru/news/accidents/3266833.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://regnum.ru/news/polit/3267011.html
+	set tags kiev,koshka,ohrana,salo,ukraina,zelenskii_vladimir
+page
+	set url http://lug-info.com/news/one/prazdnichnye-meropriyatiya-v-chest-dnya-respubliki-proshli-v-gorodakh-i-raionakh-lnr-foto-67699
+	set tags den_respubliki.lnr,lnr,lugansk,prazdnik,prazdnovanie
+page
+	set url https://lgaki.info/novosti/vojna-ne-mesto-dlya-detej/
+	set tags den_pobedy,deti,lgaki,lnr,lugansk,spektakl,vojna
 eof
 off
 page

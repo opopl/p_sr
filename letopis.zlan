@@ -25939,6 +25939,48 @@ page
 page
 	set url https://sharij.net/marchenko-otreagirovala-na-obyski-u-medvedchuka-nadeyus-vas-prinimali-radushno
 	set tags __may_2021.ukr.kiev.obysk.medvedchuk,kiev,marchenko_oksana,medvedchuk_viktor,radushie,ukraina
+page
+	set url https://strana.ua/news/332786-skandal-v-irlandii-s-ukrainskim-posolstvom-podrobnosti.html
+	set tags __dublin_ukraina_gruzia_maj_2021_univer,cenzura,dezinformacia,diplomatia,dublin.irlandia,infvojna,irlandia,rossia,skandal,ukraina,universitet.dublin.irlandia,zrada
+page
+	set url https://strana.ua/opinions/332854-dva-mira-dva-shapiro.html
+	set tags ekonomika,ukraina
+page
+	set url https://strana.ua/news/332843-objavlenie-podozrenija-medvedchuku-v-kremle-nazvali-vnutrennim-delom-ukrainy.html
+	set tags __may_2021.ukr.kiev.obysk.medvedchuk,kreml,medvedchuk_viktor,peskov_dmitrii,rossia,ukraina
+page
+	set url https://strana.ua/news/332720-venediktova-i-bakanov-rasskazali-o-mestonakhozhdenii-kozaka-i-medvedchuka.html
+	set tags bakanov_ivan,kozak_taras,medvedchuk_viktor,pidozra,sbu,ukraina,venediktova_irina
+page
+	set url https://strana.ua/opinions/332858-oliharkhov-nuzhno-prosto-zahruzit-rabotoj-objazat-ikh-razvivat-ekonomiku-strany.html
+	set tags ekonomika,oligarh,ukraina
+page
+	set url http://lug-info.com/news/one/lnr-vystupaet-za-mirnoe-reshenie-konflikta-no-gotova-dat-otpor-agressoru-pasechnik-67674
+	set tags agressor,donbass,lnr,pasechnik_leonid,ukraina,vojna
+page
+	set url https://lenta.ru/news/2021/05/12/diag/
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.radiosvoboda.org/a/news-viyna-na-donbasi/31251251.html
+	set tags dnr,donbass,lnr,oos,rossia,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/society/chem-otlichayutsya-ukrainskoe-i-rossijskoe-selo-ili-kak-zhivesh-veteran.htm
+	set tags rossia,selo,sssr,ukraina,veteran
+page
+	set url https://gazeta.ua/blog/55049/ukrayina-ne-maye-ni-soyuznikiv-ni-ekonomiki
+	set tags armia,ekonomika,oborona,rossia,sojuznik,ukraina
+page
+	set url https://gazeta.ua/blog/55045/pislya-srsr-zalishivsya-lishe-odin-plyus
+	set tags istoria,sssr,ukraina,zelenskii_vladimir
+page
+	set url https://fraza.com/news/300794-stalo-izvestno-skolko-detej-pogiblo-s-nachala-vojny-na-donbasse
+	set tags _important,deti,donbass,oon,smert,statistika,ukraina,vojna
+page
+	set url https://analytics.hvylya.net/230370-na-zahid-chi-na-shid-kudi-pryamuye-ukrajina
+	set tags geopolitika,provincia,rossia,ukraina,usa,zapad
+page
+	set url http://asn.in.ua/ru/news/opinions/11901-my-dolzhny-zajavit-monopoliju-na-nasledie-kievskoj.html
+	set tags arestovich_aleksei,kievrus,nasledie,ukraina
 eof
 off
 page

@@ -95,6 +95,7 @@ include:
     - news.anglia.sun
 
 ###news_ua
+    - news.ua.hromadske
     - news.ua.vesti_ua
     - news.ua.nash
     - news.ua.ukrmir

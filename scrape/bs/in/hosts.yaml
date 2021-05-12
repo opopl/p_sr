@@ -2,6 +2,7 @@
 ###news.ua
 #
 
+'hromadske.ua' : { 'site' : 'news.ua.hromadske' } 
 'nash.live' : { 'site' : 'news.ua.nash' } 
 'segodnya.ua' : { 'site' : 'news.ua.segodnya' } 
 'vesti.ua' : { 'site' : 'news.ua.vesti_ua' } 

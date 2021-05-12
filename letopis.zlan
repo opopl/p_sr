@@ -25990,6 +25990,117 @@ page
 page
 	set url https://pravoslavie.ru/139221.html
 	set tags __may_2021.rossia.kazan.shkola.tragedia,kazan,liturgia,patriarh_kirill,tatarstan,tragedia,vera
+page
+	set url https://strana.ua/news/332864-podrostki-pod-poltavoj-ustroili-vecherinku-na-kladbishche.html
+	set tags kladbische,podrostki,poltava,ukraina
+page
+	set url https://strana.ua/news/332825-chto-reshil-kabmin-12-maja.html
+	set tags ahmetov_renat.ukr.oligarh,chernigov,ekonomika,kabmin,ukraina
+page
+	set url https://strana.ua/articles/interview/332294-para-iz-kharkova-provela-v-naruchnikakh-uzhe-pochti-tri-mesjatsa-intervju-.html
+	set tags harkov,ljubov,naruchniki,rekord,semja,ukraina
+page
+	set url https://strana.ua/news/332845-v-chernobyle-uchenye-vstrevozheny-iz-za-radiatsii-pod-sarkofahom-chaes-i-slonovikh-noh.html
+	set tags atomic_energy,chaes,chernobyl,nauka,ukraina
+page
+	set url https://strana.ua/news/332882-uchenye-zajavili-o-roste-radiatsii-na-chetvertom-enerhobloke-v-pripjati.html
+	set tags _important,atomic_energy,chaes,chernobyl,dengi,finansy,nauka,uchenyj,ukraina,zhurnal.science
+page
+	set url https://strana.ua/news/332746-vaktsinatsija-v-san-marino-kak-v-evrope-privivajutsja-rossijskim-sputnikom.html
+	set tags bolezn,covid,evropa,rossia,san_marino,sputnik_v,vaccinacia,vaccine,zabolevajemost'
+page
+	set url https://strana.ua/news/332870-zhitelnitsa-krivoho-roha-zakhlebnulas-nechistotami-v-tualete.html
+	set tags devushka,epilepsia,fekalii,krivoj_rog,smert,tualet,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210512/1031351403.html
+	set tags fsb,kerch',krym,minirovanie,rossia,simferopol,terrorist
+page
+	set url https://fraza.com/news/300793-nardepa-goncharenko-obokrali-v-poezde-odessa-kovel
+	set tags goncharenko_alexei,krazha,kriminal,poezd,policia,ukraina,ukrzaliznycia
+page
+	set url https://lenta.ru/news/2021/05/12/durov/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,durov_pavel,internet,obvinenie,rossia,socset,telegram
+page
+	set url https://sharij.net/goroda-goryat-nebo-v-raketah-zelenskij-otreagiroval-na-eskalacziyu-v-izraile
+	set tags eskalacia,izrail_vs_palestina,obstrel,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/show/people/makarevich-vyistupil-vo-lvove-sobrav-anshlag-na-kontserte-foto.htm
+	set tags koncert,lvov,makarevich_andrej,muzyka,rossia,showbiz,ukraina,vizit
+page
+	set url https://strana.ua/news/332889-stali-izvestny-poslednie-slova-uchitelnitsy-pohibshej-pri-terakte-v-kazanskoj-shkole.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,rossia,shkola
+page
+	set url https://strana.ua/news/332886-bojnja-v-kazani-ilnazu-haljavievu-izbirajut-meru-presechenija.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,kazan,rossia,sud,tatarstan
+page
+	set url https://strana.ua/news/332838-haljaviev-podzheh-svoju-kvartiru-pered-teraktom-v-himnazii.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,kazan,kvartira,podzhog,rossia
+page
+	set url https://www.radiosvoboda.org/a/news-movnyi-zakon-knyzhky-lypen/31251658.html
+	set tags kniga,magazin,ukraina,ukrainizacia
+page
+	set url https://www.radiosvoboda.org/a/ukrayinska-mova-viyna-i-putin/31215228.html
+	set tags jazyk,mova,ukraina,ukrainizacia
+page
+	set url https://lenta.ru/news/2021/05/12/proverka/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,fsb,proverka,rossia,tatarstan
+page
+	set url https://regnum.ru/news/society/3267254.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,kerch'
+page
+	set url https://regnum.ru/news/accidents/3266848.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,rossia
+page
+	set url https://zaxid.net/lvivskiy_student_otrimav_virok_za_oblittya_farboyu_pamyatnika_banderi_n1518739
+	set tags bandera_stepan,pamjatnik,studenty,sud,tjurma,ukraina,vandalizm
+page
+	set url https://odessa.strana.ua/332911-storonniki-korchinskoho-razrisovali-steny-telekanalov-v-odesse.html
+	set tags bratstvo.ukr.partia.korchinskij,korchinskii_dmitrii,medvedchuk_viktor,miting,nacionalist,odessa,pershyj_nezalezhnyj,piket,protest,ukraina,zapret
+page
+	set url https://strana.ua/news/332929-k-posolstvu-rf-v-kieve-prinesli-tsvety.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,cvety,kiev,posolstvo.rossia.kiev,rossia,ukraina
+page
+	set url https://strana.ua/opinions/332920-neuzheli-zelenskij-namekaet-na-prizrak-totalitarnoho-hosudarstva.html
+	set tags derzhava,totalitarizm,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/332851-ubijstvo-v-kharkove-za-chto-zarezali-prepodavatelja-aleksandra-evrokimova-i-eho-devushku.html
+	set tags harkov,murder,ukraina,velykden'
+page
+	set url https://strana.ua/news/332884-ilnaz-haljaviev-stradaet-zabolevaniem-holovnoho-mozha-i-vedet-sebja-neadekvatno.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,bolezn,galjaviev_ilnaz.ubijca.kazan,mozg,rossia
+page
+	set url https://fraza.com/foto/300797-nashestvie-zmej-na-harkovschine-mestnye-zhiteli-silno-napugany
+	set tags harkov,ukraina,zmeja
+page
+	set url https://strana.ua/news/332927-medvedchuka-podozrevajut-v-narushenii-obychaev-vojny-advokat.html
+	set tags medvedchuk_viktor,pidozra,prokuratura,prokuror,ukraina,vojna
+page
+	set url https://riakursk.ru/rodstvenniki-pogibshikh-geroev-kurskoy-bitvy-spasibo-chto-vernuli-boytsov-domoy/
+	set tags bitva.vov.kurskaja_duga,kursk,ostanki,pohoron,rossia,vov,zahoronenie
+page
+	set url https://lenta.ru/news/2021/05/12/diagnoz_ezpln/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,agressia,diagnoz,galjaviev_ilnaz.ubijca.kazan,mozg
+page
+	set url https://sharij.net/zhena-leshhenko-dj-nastia-posle-vystupleniya-v-moskve-proreklamirovala-ukrzaliznyczyu-foto
+	set tags dj_nastia.ukr,leschenko_sergei,moskva,poezd,reklama,rossia,ukraina,ukrzaliznycia
+page
+	set url https://sharij.net/ilya-kiva-o-vazhnosti-gorodov-geroev
+	set tags 1941,gorod,gorod.geroj,istoria,kiev,kiva_ilja,pamjat,sssr,ukraina,vov
+page
+	set url https://ukraina.ru/opinion/20210512/1031349980.html
+	set tags avakov_arsen,den_pobedy,nacizm,narod,pamjat,portnov_andrei,presledovanie,simvol,simvolika,ukraina,vov,zelenskii_vladimir
+page
+	set url https://lenta.ru/brief/2021/05/12/kazan/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,diagnoz
+page
+	set url https://www.obozrevatel.com/curious/zhurnalist-vozle-ofisa-genprokurora-nazval-medvedchuka-dyavolom-kotoryij-pogibnet-v-adu-kureznoe-video.htm
+	set tags djavol,genprokuratura,hromadske_ua,kiev,kiva_ilja,kutepov_bogdan.hromadske_ua,medvedchuk_viktor,opzzh,ukraina,zhurnalist
+page
+	set url https://hromadske.ua/posts/zvit-mene-bog-reportazh-z-kazanskoyi-shkoli-de-kolishnij-uchen-rozstrilyav-devyatoh-lyudej
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://hromadske.ua/posts/patrulni-vikipediyi-yak-vlashtovana-onlajn-enciklopediya-ta-yaki-vijni-v-nij-viruyut
+	set tags moderator,ukraina,volonter,wikipedia
 eof
 off
 page

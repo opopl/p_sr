@@ -26167,6 +26167,12 @@ page
 page
 	set url https://strana.ua/opinions/332948-bez-oshchushchenija-strakha-nasha-vlast-ne-budet-reshat-problemu-donbassa.html
 	set tags donbass,rossia,ukraina,vojna
+page
+	set url https://regnum.ru/news/society/3267449.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,chelovek,diagnoz,mozg,psihologia,vospitanie
+page
+	set url https://ukraina.ru/news/20210512/1031355241.html
+	set tags kondicioner,poezd,ukraina,ukrzaliznycia
 eof
 off
 page

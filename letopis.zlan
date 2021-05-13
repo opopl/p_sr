@@ -26503,6 +26503,12 @@ page
 page
 	set url https://zaxid.net/banderivtsi_yevreyi_tsementuvannya_bulbashok_n1518822
 	set tags bandera_stepan,banderovec,den_pobedy,mirvojna2,rkka,ukraina,vjatrovich_vladimir,vov
+#page
+	#set url https://vesti.ua/strana/obshhestvennaya-ekspertiza-den-pobedy-ukrainy-ili-nad-ukrainoj
+	#set tags den_pobedy,mirvojna2,nacizm,prazdnik,ukraina
+page
+	set url https://censor.net/ru/video_news/3265138/pod_pecherskim_sudom_predstaviteli_natskorpusa_jgli_faery_i_skandirovali_medvedchuk_kremlevskaya_gnida
+	set tags __may_2021.medvedchuk,kiev,medvedchuk_viktor,miting,nackorpus,sud,sud.kiev.pecherskij,ukraina
 eof
 off
 page

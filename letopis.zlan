@@ -26545,6 +26545,12 @@ page
 page
 	set url https://strana.ua/news/333161-chislo-akusticheskikh-atak-na-diplomatov-ssha-uvelichilos-do-130-nyt.html
 	set tags akustika,ataka,biden_joe,diplomatia,kuba,usa,zvuk
+page
+	set url https://lenta.ru/articles/2021/05/14/gaz_ukraine/
+	set tags ekonomika,energetika,gaz,kreditor,mvf,otoplenie,tarify,ukraina
+page
+	set url https://www.radiosvoboda.org/a/koronavirus-covid-19-vooz-zvit/31253909.html
+	set tags chernobyl,covid,doklad,humanity,vooz,world
 eof
 off
 page

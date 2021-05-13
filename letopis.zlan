@@ -26509,6 +26509,42 @@ page
 page
 	set url https://censor.net/ru/video_news/3265138/pod_pecherskim_sudom_predstaviteli_natskorpusa_jgli_faery_i_skandirovali_medvedchuk_kremlevskaya_gnida
 	set tags __may_2021.medvedchuk,kiev,medvedchuk_viktor,miting,nackorpus,sud,sud.kiev.pecherskij,ukraina
+page
+	set url https://www.dialog.ua/ukraine/229155_1620904159
+	set tags arestovich_aleksei,jazyk,mova,obschestvo,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5f5b52e56f21d2080e798f1e/filosofiiskaia-skazka-609d512c3652e417087e1728
+	set tags dobro,skazka
+page
+	set url https://zen.yandex.ru/media/matushka_nina/dva-novgoroda--velikii-i-nijnii-60223f78d1d01a0cf8b9305a
+	set tags gorod,nizhnij_novgorod,novgorod,rossia
+page
+	set url https://www.mk.ru/social/2021/05/13/transportirovka-postradavshikh-pri-kazanskoy-tragedii-v-moskvu-zadala-neudobnyy-vopros.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,kazan,moskva,rossia
+page
+	set url https://zen.yandex.ru/media/id/60411022e853db38c7b7bbf8/zapiski-zlogo-sevastopolca-chast-5-s-takimi-druziami-i-vragov-ne-nado-609d640e3652e41708bb750d
+	set tags krym,rossia,sevastopol
+page
+	set url https://news.obozrevatel.com/show/people/makarevich-zayavil-chto-ne-schitaet-borsch-ukrainskim-blyudom.htm
+	set tags borsch,makarevich_andrej,rossia,tkachenko_aleksandr,ukraina
+page
+	set url https://strana.ua/news/333129-medvedchuk-sud-otkazalsja-sazhat-v-tjurmu-lidera-opzzh-chto-eto-znachit.html
+	set tags __may_2021.medvedchuk,arest,medvedchuk_viktor,obvinenie,sud.kiev.pecherskij,sudja,ukraina,vlast
+page
+	set url https://strana.ua/news/333026-viktor-medvedchuk-sud-sehodnja-mera-presechenija-na-zasedanii-pecherskoho-suda-13-maja-onlajn.html
+	set tags __may_2021.medvedchuk,arest,medvedchuk_viktor,opzzh,sud,sud.kiev.pecherskij,ukraina
+page
+	set url https://lenta.ru/news/2021/05/13/teachher/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,rossia,shkola,tatarstan,tragedia
+page
+	set url https://gazeta.ua/blog/55053/nacizm-davno-zasudili-a-komunizm-u-masovij-svidomosti-dosi-ne-ye-zlom
+	set tags chernobyl,chernobyl.film.kozlovskij_danila,film,kino,kommunizm,kultura,rossia,stalinizm,ukraina
+page
+	set url https://gazeta.ua/articles/culture/_spivachka-postala-v-obrazi-mavki-z-tvoru-lesi-ukrayinki/1031491
+	set tags lesja_ukrainka,lisova_pisnja.lesja_ukrainka,mavka,muzyka,pesnja,showbiz,ukraina
+page
+	set url https://strana.ua/news/333161-chislo-akusticheskikh-atak-na-diplomatov-ssha-uvelichilos-do-130-nyt.html
+	set tags akustika,ataka,biden_joe,diplomatia,kuba,usa,zvuk
 eof
 off
 page

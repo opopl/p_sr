@@ -26317,6 +26317,192 @@ page
 page
 	set url https://regnum.ru/news/society/3268159.html
 	set tags islam,islam.uraza_bajram.prazdnik,prazdnik,rossia,moskva
+page
+	set url https://sharij.net/raz-v-god-v-gosti-k-medvedchuku-kratkaya-hronika-kak-radikaly-ezhegodno-atakuyut-dom-i-ofis-lidera-opzzh
+	set tags medvedchuk_viktor,radikalizm,radikaly,ukraina
+page
+	set url https://strana.ua/news/333070-arestovich-zajavil-chto-russkojazychnye-ukraintsy-chuvstvujut-davlenie.html
+	set tags arestovich_aleksei,diskriminacia,jazyk,mova,ukraina,ukrainizacia
+page
+	set url https://strana.ua/news/333069-pod-poltavoj-v-avarii-razbilas-semochnaja-hruppa-ntn.html
+	set tags dtp,kiev,poltava,smert,telekanal_ntn.ukraina,ukraina
+page
+	set url https://from-ua.com/articles/599579-ukrainskaya-matrica-peremog.html
+	set tags cenzura,istoria,matrica,obschestvo,perestrojka,sssr,totalitarizm,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-obshuky-kyiv-klychko-prokuratura/31253203.html
+	set tags davlenie,kiev,klichko_vitalij,ukraina
+page
+	set url http://lug-info.com/news/one/glavy-dnr-i-bashkortostana-posetili-shkolu-imeni-shaimuratova-i-posadili-berezy-v-petrovskom-foto-67720
+	set tags bashkortostan.rossia,derevo,dnr,donbass,lnr,petrovskoje.lnr,pushilin_denis,rossia,vojna
+page
+	set url https://mir-lug.info/novosti-proektov/v-luganske-aktivisty-pochtili-pamyat-zhertvam-tragedii-v-kazani/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,lnr,lugansk,pamjat,shkola
+page
+	set url https://mir-lug.info/novosti-terotdelenij/alchevskie-aktivisty-pochtili-pamyat-zashhitnikov-lnr/
+	set tags aktivist,alchevsk,donbass,lnr,mir_luganschine,pamjat,podvig,rodina,vojna,zaschitnik
+page
+	set url https://ukraina.ru/opinion/20210513/1031364536.html
+	set tags chelovek,derzhava,poroshenko_petr,prezident,psihologia,putin_vladimir,rejgan_ronald,ukraina,vlast,zelenskii_vladimir
+page
+	set url https://ukraina.ru/opinion/20210513/1031357900.html
+	set tags civilizacia,future,nacia,nacionalist,nacionalizm,obschestvo,provincia,rossia,rusmir,ukraina,zapad
+page
+	set url https://ukraina.ru/interview/20210513/1031362655.html
+	set tags deti,kiev,kievljane,obrazovanie,shkola,ucheba,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210430/1031302513.html
+	set tags nuland_viktoria.usa,ukraina
+page
+	set url https://strana.ua/news/333004-konflikt-mezhdu-izrailem-i-palestinoj-chto-proiskhodit-i-k-chemu-privedet-eskalatsija-.html
+	set tags __may_2021.izrail.palestina.konflikt,hamas.dvizhenie,izrail,izrail_vs_palestina,obostrenie,palestina,sektor_gaza
+page
+	set url http://lug-info.com/news/one/prazdnovanie-dnya-respubliki-zavershilos-v-luganske-prazdnichnym-feierverkom-foto-67706
+	set tags den_respubliki.lnr,lnr,lugansk,prazdnik,prazdnovanie,rodina,salut
+page
+	set url https://kiev.strana.ua/333078-prokuratura-rasskazala-o-rezultatakh-obyskov-v-kommunulnykh-predprijatijakh-kieva.html
+	set tags kiev,kmda,obysk,prokuratura,ukraina
+page
+	set url https://strana.ua/news/332921-artur-palatnyj-podtverdil-obyski-u-neho-doma.html
+	set tags __may_2021.klichko.obysk.kiev,kiev,klichko_vitalij,palatnyj_artur.kiev,partia.udar,prokuratura,ukraina
+page
+	set url https://strana.ua/news/333080-v-kremenchuhe-konflikt-s-uchitelnitsej-iz-za-chipsov-edva-ne-privel-k-samoubijstvu-shkolnika.html
+	set tags chipsy,deti,kremenchug.ukr,shkola,suicid,uchitel,ugroza,ukraina
+page
+	set url https://lenta.ru/news/2021/05/13/hamas_sea/
+	set tags __may_2021.izrail.palestina.konflikt,hamas.dvizhenie,izrail,izrail_vs_palestina,konflikt,palestina
+page
+	set url https://regnum.ru/news/accidents/3268209.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,bashkortostan.rossia,diagnoz,mozg,obschestvo,opuhol
+page
+	set url https://regnum.ru/news/polit/3268424.html
+	set tags arestovich_aleksei,gollandia,jazyk,konflikt,mova,obschestvo,tkg,ukraina
+page
+	set url https://www.znak.com/2021-05-12/kak_kazan_prostilas_s_pogibshimi_vo_vremya_massovogo_rasstrela_v_gimnazii_175_detmi_i_uchitelyami
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,kazan,pohoron,shkola,tatarstan
+page
+	set url https://news.obozrevatel.com/politics/tvoej-zhpyi-pered-moim-litsom-ne-budet-zhurnalistyi-meshali-kive-nablyudat-za-protsessom-v-zale-suda-video.htm
+	set tags __may_2021.medvedchuk,kiev,kiva_ilja,medvedchuk_viktor,rabinovich_vadim,sud,ukraina,zasedanie
+page
+	set url https://news.obozrevatel.com/abroad/vojna-izrailya-i-palestinyi-rossiya-otkryito-podderzhala-hamas.htm
+	set tags __may_2021.izrail.palestina.konflikt,hamas.dvizhenie,izrail,izrail_vs_palestina,palestina,podderzhka,rossia
+page
+	set url https://strana.ua/news/333091-mezhdu-patriotami-za-zhizn-i-natsionalistami-proizoshla-stychka-vozle-pecherskoho-suda.html
+	set tags __may_2021.medvedchuk,kiev,kiva_ilja,konflikt,medvedchuk_viktor,nacionalist,opzzh,plakat,stus_vasyl,sud.kiev.pecherskij,ukraina
+page
+	set url https://strana.ua/opinions/333093-karantinnye-ohranichenija-lohichno-priveli-k-krizisu-metropolitena.html
+	set tags cena,finansy,karantin,kiev,metro,ukraina
+page
+	set url https://strana.ua/opinions/333096-prjamo-sejchas-zelenskij-nastupaet-na-hrabli-viktora-fedorovicha.html
+	set tags grabli,janukovich_viktor,kiev,klichko_vitalij,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/333098-kak-to-stranno-vyhljadit-v-ukraine-konets-epokhi-bednosti.html
+	set tags bednost,ekonomika,epoha,ukraina
+page
+	set url https://strana.ua/opinions/333101-itohi-vizita-blinkena-vse-ukraintsy-pochuvstvujut-na-svoej-shkure.html
+	set tags blinken_entoni.gossekretar.usa,ekonomika,energetika,oppozicia,subsidia,tarify,ukraina
+page
+	set url https://day.kyiv.ua/uk/article/den-ukrayiny/rozshmatovanyy-park-nyvky
+	set tags kiev,kievljane,klichko_vitalij,miting,nivki.park,protest,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/u-poshukah-rodu
+	set tags chelovek,korni,nacia,obschestvo,predki,rod,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/navishcho-kremlyu-bratski-narody
+	set tags bratstvo,dnr,donbass,lnr,narod,rossia,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/dribnyci-yaki-ne-ye-dribnycyamy
+	set tags obschestvo,rossia,sluga_naroda,ukraina,vereschuk_irina.ukr.deputat,verhovna_rada
+page
+	set url https://lenta.ru/articles/2021/05/13/gaza_strip/
+	set tags __may_2021.izrail.palestina.konflikt,izrail,izrail_vs_palestina,konflikt,obostrenie,palestina,vesna,vojna
+page
+	set url https://lb.ua/news/2021/05/12/484461_chervoni_linii_kremlya_abo_chomu.html
+	set tags bezopasnost',forum,granica,rossia,uchenija,ugroza,ukraina,vojna,voronezh,zelenskii_vladimir
+page
+	set url https://lb.ua/blog/liudyna_roku/484536_vshanuvannya_laureativ_25i_yuvileynoi.html
+	set tags 2020,chelovek,konkurs,restoran,restoran.queen.kiev,ukraina
+page
+	set url https://censor.net/ru/blogs/3264957/evolyutsya_degradats
+	set tags degradacia,evolucia,obschestvo,putin_vladimir,rossia
+page
+	set url https://censor.net/ru/video_news/3265099/titushki_sorvali_razvernutyyi_pod_sudom_banner_stus_cheka_medvedchuk_pd_aresht_proizoshla_potasovka
+	set tags aktivist,kiev,medvedchuk_viktor,miting,plakat,stus_vasyl,titushki,ukraina
+page
+	set url https://censor.net/ru/blogs/3264973/natsonalnopatrotichne_vihovannya_dlya_kogo_dlya_chogo_vono_potrbne
+	set tags nacia,nacionalist,nackorpus,patriotizm,ukraina,ukraincy,vospitanie
+page
+	set url https://analytics.hvylya.net/230448-komanda-shcho-zdatna-zrobiti-yak-realizuvati-potencial-ukrajini
+	set tags future,komanda,obschestvo,razvitie,ukraina
+page
+	set url https://hvylya.net/news/230445-aeroport-kiev-zakroyut-na-rekonstrukciyu
+	set tags aeroport.kiev,kiev,ukraina
+page
+	set url https://strana.ua/news/333050-domashnij-arest-mera-presechenija-viktora-medvedchuka-iz-opzzh.html
+	set tags __may_2021.medvedchuk,arest,kiev,medvedchuk_viktor,ukraina
+page
+	set url https://strana.ua/opinions/333139-strana-khochet-vseho-i-srazu-a-poluchaet-nicheho-i-postepenno.html
+	set tags obschestvo,strana,ukraina
+page
+	set url https://strana.ua/opinions/333142-hosdep-ssha-pod-kakim-to-mikroskopom-razhljadel-uspekh-reform-v-ukraine.html
+	set tags obschestvo,shizofrenia,ukraina
+page
+	set url https://strana.ua/news/333137-medvedchuk-reshaet-budet-li-podavat-apelljatsiju-na-domashnij-arest.html
+	set tags __may_2021.medvedchuk,arest,kiev,medvedchuk_viktor,opzzh,sud,ukraina
+page
+	set url https://buzina.org/memories/3967-vday.html
+	set tags 9_may,buzina.vp,buzina_oles,den_pobedy,kiev,ukraina
+page
+	set url https://lgaki.info/novosti/v-akademii-nagradili-pobeditelej-konkursa-mir-pobeda-otchij-dom/
+	set tags deti,foto,hudozhnik,konkurs,lgaki,lnr,mir,pobeda
+page
+	set url https://www.radiosvoboda.org/a/31253506.html
+	set tags covid,infvojna,pfizer,propaganda,rossia,sputnik_v,statistika,vaccine
+page
+	set url https://lenta.ru/news/2021/05/13/putinkazan/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,putin_vladimir,rossia
+page
+	set url https://lenta.ru/articles/2021/05/12/guns/
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://news.obozrevatel.com/politics/sud-arestoval-medchedchuka.htm
+	set tags __may_2021.medvedchuk,arest,kiev,medvedchuk_viktor,sud.kiev.pecherskij,ukraina
+page
+	set url https://news.obozrevatel.com/society/samyij-nesovetskij-film-snyatyij-v-sssr.htm
+	set tags film,film.vyshe_radugi.1986,istoria,kino,kultura,sssr
+page
+	set url https://plus.obozrevatel.com/crime/na-donbasse-voin-vsu-pogib-ot-puli-vrazheskogo-snajpera.htm
+	set tags donbass,oos,smert,ukraina,vojna,vsu
+page
+	set url https://zen.yandex.ru/media/bibliography/detskaia-i-vzroslaia-poeziia-besstrashnoi-i-priamoi-iunny-moric-6047a8b001026b4504e6c125
+	set tags literatura,morits_junna,poezia,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/politinteres/kogda-poiavilos-slovo-russkii-razoblachaem-mif-609b8fc1c7250854e268589d
+	set tags drevrus,letopis,letopis.pvl,rusmir,slovo,slovo.russkij
+page
+	set url https://zen.yandex.ru/media/librarian/apokalipticheskii-zverinec-6099e9384fade3788b71aa38
+	set tags apokalipsis,biblia,zverinec
+page
+	set url https://zen.yandex.ru/media/id/5b82bebd04a22900a90d91a0/kanadec-o-parade-u-russkih-net-masok-eto-u-nas-konclager-60985a7087bf2977fc06c5a0
+	set tags armia,covid,kanada,maska,rossia,vaccinacia,vaccine
+page
+	set url https://zen.yandex.ru/media/id/5f7659c81ca11a0cea25f92f/chto-ia-viju-o-nastoiascem-i-buduscem-rossii-i-chelovechestva--aleksandra-barvickaia-609c354eb3e6cf0944176aa9
+	set tags future,humanity,obschestvo,rossia
+page
+	set url https://zen.yandex.ru/media/lemurio_travel/moskva-volga-don-i-dnepr-davaite-posmotrim-na-istok-etih-rek-608c2611beec563fc83f5de5
+	set tags dnepr,istok,reka,reka.don,reka.moskva,rossia,volga
+page
+	set url https://zen.yandex.ru/media/id/606f437fc2989610130c1ebc/anekdot-dnia-za-ukrainu-609af777faab8f0140ff682a
+	set tags jumor,ukraina
+page
+	set url https://strana.ua/news/333140-pri-vykhode-medvedchuka-iz-suda-radikaly-khoteli-ustroit-provokatsiju-video.html
+	set tags __may_2021.medvedchuk,agressia,kiev,medvedchuk_viktor,nacionalist,napadenie,radikaly,tolpa,ukraina
+page
+	set url http://lug-info.com/news/one/rybkhoz-v-antratsitovskom-raione-planiruet-poluchit-200-tysyach-malkov-karpa-minprirody-foto-67740
+	set tags ekologia,lnr,priroda,ryba,voda
+page
+	set url https://zaxid.net/banderivtsi_yevreyi_tsementuvannya_bulbashok_n1518822
+	set tags bandera_stepan,banderovec,den_pobedy,mirvojna2,rkka,ukraina,vjatrovich_vladimir,vov
 eof
 off
 page

@@ -26710,6 +26710,165 @@ page
 page
 	set url http://lug-info.com/news/one/vybory-v-mp-lnr-vyyavili-mnogo-dostoinykh-molodezhnykh-aktivistov-nablyudatel-iz-dnr-foto-67785
 	set tags izbiratel,lnr,lugansk,molodezh,molodezh_parlament.lnr,vybory
+page
+	set url http://lug-info.com/news/one/otkrytie-byusta-russkogo-polkovodtsa-aleksandra-nevskogo-sostoyalos-v-sverdlovske-foto-67798
+	set tags bjust,lnr,nevskii_aleksandr,pamjatnik,sverdlovsk.lnr
+page
+	set url https://strana.ua/news/333287-snbo-14-maja-spisok-vorov-v-zakone-pod-sanktsijami.html
+	set tags rnbo,sankcii,ukraina,vor_v_zakone,zelenskii_vladimir
+page
+	set url https://www.volyn.com.ua/news/182469-v-ukraini-maizhe-300-vulyts-z-im-iam-rosiiskoi-okupantky
+	set tags krym,okupacia,tereshkova_valentina,ukraina
+page
+	set url https://apostrophe.ua/news/society/2021-05-14/shel-v-ukrainu-v-poiskah-luchshey-jizni-na-granitse-s-rf-zaderjali-podrostka-foto/232127
+	set tags granica,podrostki,rossia,ukraina,zhizn
+page
+	set url https://apostrophe.ua/article/kyiv/cultura/2021-05-09/ustavshie-ot-vnimaniya-veteranyi-i-besstrashnyie-tolpyi-kak-v-kieve-otprazdnovali-den-pobedyi/39514
+	set tags 9_may,den_pobedy,kiev,prazdnik,prazdnovanie,ukraina
+page
+	set url https://apostrophe.ua/news/society/accidents/2021-05-14/v-tsentre-odessyi-mujchina-pyitalsya-iznasilovat-3-letnego-sosedskogo-malchika-foto-prestupnika/232130
+	set tags iznasilovanie,kriminal,odessa,popytka,rebenok,ukraina
+page
+	set url https://strana.ua/news/333352-hlava-moz-ukrainy-maksim-stepanov-podal-zajavlenie-ob-otstavke.html
+	set tags otstavka,stepanov_maksim,ukraina,verhovna_rada,zajavlenie
+page
+	set url https://gazeta.ua/blog/55064/putin-terorist--1-kazanskogo-strilcya-i-hamas-vikoristovuye-na-svoyu-korist
+	set tags __may_2021.rossia.kazan.shkola.tragedia,hamas.dvizhenie,izrail_vs_palestina,putin_vladimir,rossia
+page
+	set url https://gazeta.ua/blog/55056/putin-buduye-v-rosiyi-elektronnu-zaliznu-zavisu
+	set tags putin_vladimir,rossia,zanaves_zheleznyj
+page
+	set url https://lb.ua/blog/andrey_myseliuk/484510_antiutopiya_rf.html
+	set tags agressia,napadenie,rossia,ugroza,ukraina,vojna
+page
+	set url https://lenta.ru/news/2021/05/14/ural/
+	set tags ekaterinburg,izbienie,kriminal,rossia,suicid
+page
+	set url https://regnum.ru/news/accidents/3269663.html
+	set tags golokost,istoria,istorik,murder,nikolaev,ukraina
+page
+	set url https://regnum.ru/news/society/3268908.html
+	set tags foto,gorod,obschestvo,pogoda,rossia,st_peterburg,zhizn
+page
+	set url https://regnum.ru/news/society/3259438.html
+	set tags bogosluzhenie,evpatoria.krym,krym,prazdnik,rossia,velykden'
+page
+	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/stranichka-iumora-slovar-samyh-drevnih-ukrov-i-ne-tolko-605b43c3c07d7f6f2a3c9c12
+	set tags filologia,istoria,jazyk,kievrus,lingvistika,mova,rusmir,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/afanasii-nikitin-pervyi-professionalnyi-razvedchik-rusi-609e5970bb251b5e5c00986f
+	set tags drevrus,india,istoria,karamzin_nikolaj.istorik,moskovia,moskva,nikitin_afanasij,razvedchik,razvedka,rus'
+page
+	set url https://zen.yandex.ru/media/ultramaretour/vy-znaete-a-ia-rad-chto-nakonecto-v-mire-stali-razdeliat-russkih-i-ukraincev-6093be6755f6b84138cbda47
+	set tags emigracia,mentalitet,narod,rossia,russkie,ukraina,ukraincy
+page
+	set url https://regnum.ru/news/3264646.html
+	set tags 9_may,den_pobedy,kiev,mirvojna2,prazdnik,prazdnovanie,ukraina,vov
+page
+	set url https://ngs.ru/text/world/2021/05/09/69904319/
+	set tags 2012,9_may,_important,bessmertnyj_polk,den_pobedy,istoria,rossia,sibir,sssr,tomsk,vov,zhurnalist
+page
+	set url https://ngs.ru/text/incidents/2021/05/14/69915368/
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://strana.ua/opinions/333366-zapadu-ne-nuzhna-nasha-promyshlennost-nuzhno-nashe-syre-.html
+	set tags promyshlennost,strana,ukraina,zapad
+page
+	set url https://strana.ua/opinions/333369-kto-o-uzhe-6-let-nazad-znal-za-chto-budut-horbatitsja-ukraintsy.html
+	set tags 2015,leschenko_sergei,obschestvo,strana,ukraina
+page
+	set url https://strana.ua/opinions/333373-naivnaja-vera-v-luchshie-zapadnye-praktiki-ne-reshaet-nashikh-problem.html
+	set tags ekonomika,enron.kompania,naftogaz,ukraina,zapad
+page
+	set url https://strana.ua/news/333380-snbo-reshil-sozdat-v-ukraine-kibervojska.html
+	set tags kiberbezopasnost,kibervojska,rnbo,ukraina
+page
+	set url https://zen.yandex.ru/media/slavmir/slovo-sovest-imeetsia-tolko-u-slavianskih-narodov-609d7708cc145612f8a39e90
+	set tags chelovek,rossia,rus',rusmir,russkie,russkij_chelovek,sovest
+page
+	set url https://vnnews.ru/glavnyy-urok-kazani-o-chem-ne-khotelos-g/?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags __may_2021.rossia.kazan.shkola.tragedia,cena,chelovechnost,chelovek,ignatjeva_elvira.kazan,kazan,obschestvo,rossia
+page
+	set url https://vnnews.ru/goblin-puchkov-o-tragedii-v-kazani-i-smertnoy/
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://vnnews.ru/pyat-minut-krovavoy-slavy-vladislav-sh/
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://vnnews.ru/a-byvaet-i-tak-o-pobedobesii-v-mirno/
+	set tags 9_may,den_pobedy,pamjat,pobedobesie,prazdnik,rossia
+page
+	set url https://vnnews.ru/expressnews/roditeley-ne-puskayut-vse-lezhat-uzhasny/
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://zen.yandex.ru/media/interesnoyeryadom/700-000-prosmotrov-devochka-stancevala-na-ldu-dlia-mamy-a-zaplakal-ves-zal-608e893ec235fb60b624bbb6
+	set tags deti,devochka,figurist,figurnoje_katanie,krasota,mater,rossia,slezy,sport
+page
+	set url https://odessa.strana.ua/333381-v-odesse-vvedena-politsejskaja-operatsija-perekhvat-14-maja.html
+	set tags avto,balaklava,banditizm,obstrel,odessa,policia,ranenie,ukraina,voditel
+page
+	set url https://strana.ua/news/264859-spasateli-hschs-prodolzhajut-tushit-pozhary-v-chernobyle-i-zhitomirskoj-zone.html
+	set tags chernobyl,les,pozhar,ukraina,zhitomir
+page
+	set url https://strana.ua/news/333200-kak-pohibli-alpinisty-na-evereste-13-maja-rasskaz-ochevidtsa.html
+	set tags alpinizm,everest,gory,nepal,smert,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5f6c4aab1283c934c007759a/rossiia--kraine-nepredskazuemaia-strana-i-eta-cherta-pozvoliaet-ei-razvivatsia-i-stremitsia-k-luchshei-jizni-608b5c6a90ed913710e43f31
+	set tags chelovek,filosofia,future,gogol_nikolai,nacia,obschestvo,petr_pervyi,rossia,rusmir,russkie,russkij_chelovek,slavjane,tjutchev_fedor.poet,zapad
+page
+	set url https://travelask.ru/blog/posts/30264-pochemu-na-rusi-bylo-prinyato-delat-kupol-tserkvi-v-vide-luk
+	set tags arhitektura,cerkov,hram,istoria,lukovica,pravoslavie,rus',rusmir,vera,zodchestvo
+page
+	set url https://travelask.ru/blog/posts/6056-samyy-krasivyy-hram-v-rossii
+	set tags arhitektura,cerkov,hram,krasota,pravoslavie,rossia,zodchestvo
+page
+	set url https://www.cosmo.ru/stars/news/14-05-2021/priletela-sdat-krov-alina-zagitova-zaplakala-na-meste-gibeli-detey-v-kazani/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,zagitova_alina.figurist.rossia
+page
+	set url https://zen.yandex.ru/media/zenmag/kak-za-tri-mesiaca-sobrat-auditoriiu-200k-opyt-novichka-dzena-606a98244e1bd50949314e90
+	set tags _important,internet,socset,yandex_zen
+page
+	set url https://lenta.ru/articles/2021/05/15/violence/
+	set tags diskussia,nasilie,rossia,st_peterburg,world
+page
+	set url https://www.radiosvoboda.org/a/photo-babyn-yar-symvolichna-synahoha-vidkryttya/31255405.html
+	set tags babij_jar,kiev,pamjat,ukraina,sinagoga,simvol
+page
+	set url https://www.istpravda.com.ua/artefacts/2020/04/20/157365/
+	set tags cerkov,gorod,hram,istoria,kiev,sssr,ukraina
+page
+	set url https://golospravdy.eu/oleksandr-semchenko-ukraincyam-zagrozhuye-do-10-rokiv-vyaznici-za-gimn-srsr/
+	set tags gimn,obschestvo,repressii,sssr,ukraina
+page
+	set url https://news.obozrevatel.com/kiyany/life/nad-kievom-proletel-40-metrovyij-flag-izrailya-foto-video.htm
+	set tags flag,flag.izrail,kiev,ukraina
+page
+	set url https://mir-lug.info/novosti-terotdelenij/aktivisty-od-mir-luganshhine-proveli-akcziyu-yablonevyj-sad-v-molodogvardejske/
+	set tags aktivist,ekologia,lnr,mir_luganschine
+page
+	set url https://mir-lug.info/novosti-proektov/yavka-na-vybory-molodyozhnyh-deputatov-na-15-00-sostavila-bolee-32-tysyach-chelovek/
+	set tags lnr,molodezh,molodezh_parlament.lnr,vybory
+page
+	set url https://ukraina.ru/exclusive/20210514/1031325572.html
+	set tags nacionalist,nacionalizm,nacizm,ukraina
+page
+	set url https://ngs.ru/text/entertainment/2021/05/13/69911447/
+	set tags kultura,muzei,noch_muzeev,novosibirsk,rossia
+page
+	set url https://day.kyiv.ua/uk/article/den-planety/zhertvy-govoryat-u-pokolinnyah
+	set tags golodomor,pamjat,ukraina
+page
+	set url https://mir-lug.info/novosti-terotdelenij/krasnoluchskie-aktivisty-proveli-subbotnik-u-reki-hrustalskaya/
+	set tags aktivist,ekologia,lnr,mir_luganschine,priroda,reka,subbotnik
+page
+	set url https://pravoslavie.ru/139218.html
+	set tags bog,cerkov,kniga,pravoslavie,rossia,schastje,vera,zhizn,chelovek
+page
+	set url https://zen.yandex.ru/media/redbook/lvov-shel-by-ty-domoi-6080dba4b981b87951594427
+	set tags 2014,lvov,poslanie,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5aa042bba936f45eb845acff/shvedskii-krestovyi-pohod-na-novgorod-1348-g-607f0854d4fdbb0ea412fe09
+	set tags 1348,drevrus,istoria,letopis,novgorod,rossia,rusmir,shvecia,vera
 eof
 off
 page

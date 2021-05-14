@@ -56,7 +56,15 @@
 'rusvesna.su' : { 'site' : 'news.ru.rusvesna' }
 
 'aif.ru' : { 'site' : 'news.ru.aif' }
+'cosmo.ru' : { 'site' : 'news.ru.cosmopolitan' }
 'tochka.press' : { 'site' : 'news.ru.tochka_press' }
+
+# vashi novosti
+'vnnews.ru' : { 'site' : 'news.ru.vashi_novosti' }
+
+# novosibirsk online
+'ngs.ru' : { 'site' : 'news.ru.ngs' }
+
 
 # stavropol
 'stapravda.ru' : { 'site' : 'news.ru.stapravda' }
@@ -136,6 +144,9 @@
 
 ###sport.ru
 'championat.com' : { 'site' : 'sport.ru.championat' }
+
+###travel.ru
+'travelask.ru' : { 'site' : 'travel.ru.travelask' }
 
 ###kultura.lnr
 'theaterluspekaev.com' : { 'site' : 'kultura.lnr.lardt' }

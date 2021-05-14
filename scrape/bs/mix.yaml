@@ -31,6 +31,9 @@ include:
     - news.nvr.novorosinform_org
 
 ###news_ru
+    - news.ru.ngs
+    - news.ru.cosmopolitan
+    - news.ru.vashi_novosti
     - news.ru.aif
     - news.ru.tochka_press
     - news.ru.allcrimea_net
@@ -78,6 +81,9 @@ include:
 
 ###sport_ru
     - sport.ru.championat
+
+###travel_ru
+    - travel.ru.travelask
 
 ###nauka_ru
     - nauka.ru.nkj

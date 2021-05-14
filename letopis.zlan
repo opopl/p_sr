@@ -26551,6 +26551,36 @@ page
 page
 	set url https://www.radiosvoboda.org/a/koronavirus-covid-19-vooz-zvit/31253909.html
 	set tags chernobyl,covid,doklad,humanity,vooz,world
+page
+	set url https://strana.ua/news/333175-oleh-barna-izbil-narodnoho-deputata-sluhi-naroda-dmitrija-solomchuka-v-telestudii.html
+	set tags barna_oleg,deputat,draka,kiev,politika,sluga_naroda,talk_show,telekanal,ukraina
+page
+	set url https://strana.ua/opinions/333174-eto-vam-ne-sanktsii-vvodit.html
+	set tags __may_2021.medvedchuk,kiev,klounada,propaganda,sankcii,sud,sud.kiev.pecherskij,ukraina,vlast,medvedchuk_viktor
+page
+	set url https://strana.ua/opinions/333176-sudja-rajonnoho-suda-publichno-vyporol-vlast.html
+	set tags __may_2021.medvedchuk,kiev,medvedchuk_viktor,sud,sud.kiev.pecherskij,ukraina,vlast
+page
+	set url https://strana.ua/opinions/333177-khorosho-by-nashej-natsii-nauchitsja-u-majja-ne-derzhat-obid-na-ves-mir.html
+	set tags chelovechnost,chelovek,maja.plemja,mudrost,nacia,obida,world
+page
+	set url https://strana.ua/news/333149-konets-hosizmeny-medvedchuka-metro-po-20-hriven-zelenskij-protiv-klichko.html
+	set tags astrazeneka,covid,itogi,kiev,klichko_vitalij,medvedchuk_viktor,strana,sud.kiev.pecherskij,ukraina,vaccinacia,vaccine
+page
+	set url https://strana.ua/opinions/333180-s-posledovatelej-ss-prokurory-pochemu-to-ne-vzjali-ni-kopejki.html
+	set tags __may_2021.medvedchuk,kiev,kozin.kiev,poroshenko_petr,sud.kiev.pecherskij,ukraina,zalog
+page
+	set url https://strana.ua/opinions/333196-silnaja-vlast-ne-brosaet-liderov-oppozitsii-v-tjurmu.html
+	set tags __may_2021.medvedchuk,kiev,konstitucia,medvedchuk_viktor,obvinenie,prokuratura,sud,sud.kiev.pecherskij,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/nazvano-imya-pogibshego-na-donbasse-voina-vsu1.htm
+	set tags donbass,oos,smert,ukraina,vojna,vsu
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-u-etoj-stranyi-net-buduschego-s.htm
+	set tags krym,krymnash,novosti,rossia
+page
+	set url https://lenta.ru/news/2021/05/14/deti/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,bolnica,deti,lechenie,operacia,rossia
 eof
 off
 page

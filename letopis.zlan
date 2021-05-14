@@ -26632,6 +26632,84 @@ page
 page
 	set url https://lb.ua/culture/2021/05/14/484495_vistavka_riepina_gelsinki_myaka.html
 	set tags finlandia,isskustvo,istoria,kartina,repin_ilja.hudozhnik,rossia,ukraina,vystavka
+page
+	set url https://strana.ua/news/333201-obstrely-na-donbasse-14-maja-chto-proiskhodit.html
+	set tags ataka,dnr,donbass,jermak_andrej,mirnoe_uregulirovanie,normandskaja_chetverka,obstrel,peremirie,snajper,ukraina,vojna,vsu
+page
+	set url https://strana.ua/news/333276-solomchuk-i-barna-napisali-zajavlenija-ob-izbienii-druh-druha-posle-draki-v-efire.html
+	set tags barna_oleg,deputat,draka,policia,solomchuk_dmitrij.sluga_naroda.deputat,telekanal,ukraina
+page
+	set url https://strana.ua/news/333272-ruslan-koshovenko-uhrozhaet-zhurnalistam-i-oskorbljaet-ikh.html
+	set tags koshovenko_ruslan.nacionalist,nacik,nacionalist,ugroza,ukraina,zhurnalist
+page
+	set url https://strana.ua/news/333232-barna-podralsja-s-solonchukom-skandalnye-vykhodki-deputata.html
+	set tags barna_oleg,deputat,draka,skandal,ukraina,verhovna_rada
+page
+	set url https://strana.ua/opinions/333235-oliharkhov-nuzhno-bit-ne-po-denham-a-po-svjazjam-vo-vlasti.html
+	set tags obschestvo,oligarh,ukraina
+page
+	set url https://regnum.ru/news/polit/3269542.html
+	set tags antirossia,putin_vladimir,rossia,ukraina
+page
+	set url https://regnum.ru/news/polit/3269091.html
+	set tags __may_2021.medvedchuk,ukraina
+page
+	set url https://life.pravda.com.ua/society/2021/05/14/244889/
+	set tags deti,shkola,ucheba,ukraina,vypusknoj.shkola
+page
+	set url http://voskhodinfo.su/aktualno/65785-kerch-kazan-gde-dalee-strelki-prishli-ubivat-kak-ih-ostanovit.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,analiz,chelovechnost,chelovek,deti,obschestvo,rossia,shkola,tragedia
+page
+	set url http://voskhodinfo.su/aktualno/65796-tam-po-ulicam-hodyat-legendy.html
+	set tags 2014,den_respubliki.lnr,donbass,lnr,lugansk,nikolaev,sbu,vojna
+page
+	set url https://strana.ua/news/333314-brifinh-po-itoham-zasedanija-snbo-v-pjatnitsu-14-maja-chto-reshili.html
+	set tags nauka,rnbo,sankcii,uchenyj,ukraina,vor_v_zakone,zelenskii_vladimir
+page
+	set url https://strana.ua/news/333304-semena-semenchenko-podozrevajut-v-obstrele-kanala-112.html
+	set tags 112_ua,2019,granatomet,obstrel,pidozra,semenchenko_semen,telekanal,tv,ukraina
+page
+	set url https://strana.ua/opinions/333237-delo-protiv-medvedchuka-pozvoljaet-vlasti-pokazat-amerike-borbu-s-oliharkhami.html
+	set tags __may_2021.medvedchuk,cenzura,medvedchuk_viktor,opzzh,rnbo,sankcii,telekanaly,ukraina,usa,zapret
+page
+	set url https://strana.ua/opinions/333245-velikobritanii-v-blizhajshee-vremja-budet-ne-do-ukrainskikh-del.html
+	set tags breksit,britania,shotlandia,ukraina
+page
+	set url https://strana.ua/news/333331-kabinet-ministrov-rossii-vnes-chekhiju-v-spisok-nedruzhestvennykh-hosudarstv.html
+	set tags chehia,dip_otnoshenia,druzhba,rossia,spisok,ukraina,usa
+page
+	set url https://strana.ua/articles/333116-chto-oznachaet-ataka-pravookhranitelej-na-chinovnikov-iz-okruzhenija-klichko-.html
+	set tags bankova,gorod,kiev,klichko_vitalij,kmda,ofis_prezidenta,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/333277-o-muzhe-prezidentskoj-dache-natsistakh-i-klounakh-tekst-intervju-eleny-zelenskoj-dlja-tsn.html
+	set tags interview,ukraina,zelenskaja_elena,zelenskii_vladimir
+page
+	set url https://blogs.pravda.com.ua/authors/lucenko/609dff738300e/
+	set tags __may_2021.medvedchuk,medvedchuk_viktor,stus_vasyl,ukraina
+page
+	set url https://www.radiosvoboda.org/a/power-yevhen-pashchenko-v-khovatiji/31247984.html
+	set tags horvatia,kultura,nekrolog,paschenko_evgen.ukrainist.horvatia,smert,ukraina
+page
+	set url https://lenta.ru/news/2021/05/14/supernova/
+	set tags astronomia,kosmos,planeta,vzryv,zemlja,zemlja.planeta,zvezda
+page
+	set url https://lenta.ru/news/2021/05/14/pash_put/
+	set tags armenia,armia,azerbajdzhan,pomosch,putin_vladimir,rossia,vojna
+page
+	set url https://news.obozrevatel.com/society/voeval-s-pervogo-dnya-byil-ranen-no-vernulsya-kakim-byil-pogibshij-na-donbasse-pavel-kolesnik.htm
+	set tags donbass,kolesnik_pavel.vsu.2021.smert,semja,smert,ukraina,vojna,vsu
+page
+	set url https://news.obozrevatel.com/society/vse-chto-proishodit-s-zhitelyami-ordlo-eto-tsena-za-predatelstvo-ukrainyi.htm
+	set tags dnr,donbass,lnr,obschestvo,predatelstvo,putin_vladimir,rossia,ukraina,zhizn
+page
+	set url https://news.obozrevatel.com/society/dedyi-na-palke-ili-sovetskaya-pobeda-v-korichnevyih-tonah.htm
+	set tags den_pobedy,istoria,kritika,mirvojna2,pamjat,sssr,ukraina,vov
+page
+	set url http://antifashist.com/item/nadezhda-savchenko-obnarodovala-film-o-vneshnem-upravlenii-ukrainoj.html
+	set tags film,savchenko_natalia,ukraina,vneshnee_upravlenie
+page
+	set url http://lug-info.com/news/one/vybory-v-mp-lnr-vyyavili-mnogo-dostoinykh-molodezhnykh-aktivistov-nablyudatel-iz-dnr-foto-67785
+	set tags izbiratel,lnr,lugansk,molodezh,molodezh_parlament.lnr,vybory
 eof
 off
 page

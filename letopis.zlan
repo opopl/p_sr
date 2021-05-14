@@ -26869,6 +26869,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5aa042bba936f45eb845acff/shvedskii-krestovyi-pohod-na-novgorod-1348-g-607f0854d4fdbb0ea412fe09
 	set tags 1348,drevrus,istoria,letopis,novgorod,rossia,rusmir,shvecia,vera
+page
+	set url https://golos.ua/news/zagadochnoe-nlo-ozadachylo-set
+	set tags 1350,freska,hristos,kosmos,serbia
+page
+	set url https://golos.ua/news/v-kyeve-vozle-metro-ploshhad-lva-tolstogo-ubraly-mafy
+	set tags demontazh,kiev,maf,metro.kiev.lva_tolstogo,ukraina
 eof
 off
 page

@@ -26581,6 +26581,54 @@ page
 page
 	set url https://lenta.ru/news/2021/05/14/deti/
 	set tags __may_2021.rossia.kazan.shkola.tragedia,bolnica,deti,lechenie,operacia,rossia
+page
+	set url https://strana.ua/articles/analysis/333199-kak-ukraintsy-zastrjali-v-nepale-iz-za-otmeny-aviasoobshchenija-i-kohda-oni-vernutsja-domoj-.html
+	set tags alpinizm,covid,everest,gory,karantin,katmandu.nepal,lockdown,nepal,pandemia,smert,turizm,ukraina
+page
+	set url https://strana.ua/news/333225-v-cheljabinske-zaderzhali-muzhchinu-kotoryj-kak-i-hjalviev-nazyval-sebja-bohom.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,bog,cheljabinsk,muzhchina,neadekvatnost,rossia,ural
+page
+	set url https://strana.ua/news/333023-kazanskij-strelok-dvazhdy-prikhodil-v-shkolu-v-den-napadenija.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://strana.ua/opinions/333215-eto-bessilie-vlasti-i-bassmyslennost-ee-tjahi-k-neobrazovannomu-avtoritarizmu.html
+	set tags __may_2021.medvedchuk,absurd,avtoritarizm,bessilie,ukraina,vlast
+page
+	set url https://strana.ua/opinions/333220-v-bezumnom-osleplenii-ljudi-pokorjajutsja-chuzhoj-vole-ne-vedaja-chto-tvorjat.html
+	set tags __may_2021.izrail.palestina.konflikt,fraza,izrail,izrail_vs_palestina,narod,palestina,remark_erih_maria,vojna
+page
+	set url https://strana.ua/news/333089-pochemu-v-ssha-voennye-vsled-za-frantsuzami-napisali-pismo-s-pretenzijami-k-bajdenu.html
+	set tags _important,armia,biden_joe,nacia,opasnost',pismo,usa
+page
+	set url https://strana.ua/news/333241-nszhu-obsudit-dejstvija-vlasti-po-rehionalnym-smi-na-spetsialnom-soveshchanii.html
+	set tags cenzura,dezinformacia,nszhu,podderzhka,tomilenko_sergei,ukraina
+page
+	set url https://analytics.hvylya.net/230494-kogda-udarit-ukrainskiy-neptun
+	set tags black_sea,neptun.raketa,oborona,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/religijna-sytuatsija-v-ukrajini/31253931.html
+	set tags obschestvo,religia,ugkc,ukraina,upc
+page
+	set url https://www.pravda.com.ua/articles/2021/05/14/7292466/
+	set tags _important,gorod,harkov,kernes_gennadii,obschestvo,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/uchitel-muzyiki-kotoryij-pristaval-k-detyam-okazalsya-muzhem-zavucha-podrobnosti-skandala-na-ternopolschine.htm
+	set tags deti,muzyka,obschestvo,pedofilia,skandal,ternopil,uchitel,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210514/1031369388.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,medvedchuk_viktor,prigovor,prokuratura,sud.kiev.pecherskij,ukraina,venediktova_irina,vlast
+page
+	set url https://ukraina.ru/news/20210514/1031370983.html
+	set tags blinken_entoni.gossekretar.usa,lnr,pasechnik_leonid,ukraina,usa,zdorovje,zelenskii_vladimir
+page
+	set url http://lug-info.com/news/one/vybory-pozvolyat-otobrat-dostoinykh-predstavitelei-v-molodezhnyi-parlament-studentka-67754
+	set tags devushka,lgpu,lnr,molodezh,molodezh_parlament.lnr,student,vybory
+page
+	set url https://lgaki.info/novosti/predstaviteli-akademii-matusovskogo-uchastvuyut-v-teatralnom-festivale-vstrechi-v-rossii-v-sankt-peterburge/
+	set tags festival,kultura,lgaki,lnr,lugansk,rossia,st_peterburg,teatr
+page
+	set url https://www.radiosvoboda.org/a/u-rosiji-pislia-strilianyny-v-kazani-xochut-bilshe-kontroliu/31254650.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
 eof
 off
 page

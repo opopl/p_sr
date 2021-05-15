@@ -26941,6 +26941,18 @@ page
 page
 	set url https://fraza.com/analytics/300677-tovarisch-krasnov-revoljutsija-v-rossii-delo-blizhajshih-desjati-let
 	set tags putin_vladimir,revolucia,rossia
+page
+	set url https://www.kp.ru/daily/27245.5/4373708/
+	set tags _important,serdce,ukraina,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/society/livni-26-i-zamorozki-sinoptiki-utochnili-prognoz-pogodyi-do-kontsa-maya.htm
+	set tags foto,pogoda,ukraina,vesna
+page
+	set url https://news.obozrevatel.com/politics/vremya-ledorubov.htm
+	set tags ledorub,shpion,vojna,vopros,vremja
+page
+	set url http://lug-info.com/news/one/zamdirektora-lkm-irina-klyuchneva-vozobnovlenie-arkheologicheskikh-raskopok-eto-bolshoi-stimul-dlya-uchenykh-lnr-67799
+	set tags arheologia,lnr,muzei.lugansk.kraevedchestkij,nauka
 eof
 off
 page

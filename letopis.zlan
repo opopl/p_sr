@@ -27073,6 +27073,9 @@ page
 page
 	set url https://sharij.net/v-snbo-gotovy-obmenyat-medvedchuka-na-ukrainczev-nahodyashhihsya-v-rossijskih-tyurmah-danilov
 	set tags danilov_aleksei,medvedchuk_viktor,obmen,plennye,rnbo,rossia,tjurma,ukraina
+page
+	set url https://strana.ua/news/333479-brat-najema-schitaet-chto-ukraina-dolzhna-napsast-na-rossiju.html
+	set tags _important,butusov_jurij,facebook,kommentarii,najem_masi.jurist.ukr,najem_mustafa,napadenie,rossia,socset,ukraina
 eof
 off
 page

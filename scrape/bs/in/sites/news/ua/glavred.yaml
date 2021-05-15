@@ -1,8 +1,11 @@
 
 sel:
   clean:
+    - .partner-news
+    - .popular-news-article
   only:
-    - .article__body
+    #- .article__body
+    - .content-left
   keep:
 
 PageParser:

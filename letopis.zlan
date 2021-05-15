@@ -26908,6 +26908,39 @@ page
 page
 	set url https://inosmi.ru/politic/20210515/249724061.html
 	set tags covid,sputnik_v,ukraina,vaccinacia,vaccine
+page
+	set url https://glavred.info/opinions/napadenie-putina-na-ukrainu-lish-vopros-vremeni-10271658.html
+	set tags napadenie,putin_vladimir,rossia,ugroza,ukraina
+page
+	set url https://glavred.info/opinions/pora-ryt-okopy-v-hersonskoy-oblasti-10272003.html
+	set tags herson,napadenie,okopy,putin_vladimir,rossia,ugroza,ukraina
+page
+	set url https://glavred.info/opinions/putin-licemerit-v-svoih-obvineniyah-v-adres-ukrainy-10272066.html
+	set tags antirossia,licemerie,medvedchuk_viktor,obvinenie,putin_vladimir,rossia,ukraina
+page
+	set url https://glavred.info/opinions/reshit-li-rossiya-vodnuyu-problemu-kryma-probiv-dno-10270893.html
+	set tags __blokada.krym.voda,kreml,krym,rossia,ukraina,voda
+page
+	set url https://glavred.info/opinions/kogda-v-ukraine-ischeznut-kulachnye-boi-na-9-maya-10270629.html
+	set tags 9_may,:ls,den_pobedy,nacia,obschestvo,ukraina
+page
+	set url https://glavred.info/opinions/504399-9-maya-den-ne-nashey-pobedy-ili-pochemu-ukraine-nechego-prazdnovat.html
+	set tags 9_may,den_pobedy,istoria,mirvojna2,rossia,sssr,ukraina,vov
+page
+	set url https://strana.ua/news/333278-vladimir-shchukin-i-nikolaj-shitjuk-vse-podrobnosti-ubijstv-uchenykh-v-nikolaeve.html
+	set tags __may_2021.nikolaev.murder.istorik.golokost,golodomor,golokost,istorik,murder,nikolaev,policia,schukin_vladimir.istorik.golokost.ukr,shytjuk_nikolaj.istorik.golodomor.ukr,ukraina
+page
+	set url https://strana.ua/opinions/333410-v-soznanii-ukrainskoho-patriota-antisemitizm-uzhivaetsja-s-izrailskoj-avatarkoj.html
+	set tags __may_2021.izrail.palestina.konflikt,izrail,nacionalist,palestina,ukraina,ultrapravyje,zigovanie
+page
+	set url https://kiev.strana.ua/333409-vitalij-klichko-v-kieve-startoval-sezon-fontanov.html
+	set tags fontan,gorod,kiev,ukraina
+page
+	set url https://strana.ua/news/290639-novyj-fontan-s-arkhanhelom-mikhailom-v-kieve.html
+	set tags fontan,gorka.vladimirskaja.kiev,kiev,klichko_vitalij,mihail.arhangel,ukraina
+page
+	set url https://fraza.com/analytics/300677-tovarisch-krasnov-revoljutsija-v-rossii-delo-blizhajshih-desjati-let
+	set tags putin_vladimir,revolucia,rossia
 eof
 off
 page

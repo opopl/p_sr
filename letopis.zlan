@@ -27097,6 +27097,18 @@ page
 page
 	set url https://strana.ua/news/333481-ministr-kultury-napisal-o-mikhaile-bulhakove-v-den-rozhdenija-pisatelja.html
 	set tags 130_let,birthday,bulgakov_mihail,gorod,kiev,tkachenko_aleksandr,ukraina
+page
+	set url https://strana.ua/news/120504-vinnichuk-raskritikoval-vysotskoho-bulhakova-i-pushkina.html
+	set tags bulgakov_mihail,plagiat,pushkin_aleksandr,rusmir,ukraina,vinnichuk_jurij.ukr.pisatel,vysockij_vladimir.bard
+page
+	set url https://strana.ua/news/120016-vjatrovich-predupredil-ob-opasnosti-tvorchestva-vysotskoho-i-tsoja.html
+	set tags 8_marta,bulgakov_mihail,coi_viktor,imperializm,kiev,kultura,rossia,rusmir,sovok,ukraina,upc,vjatrovich_vladimir,vysockij_vladimir.bard
+page
+	set url https://strana.ua/news/81979-izvestnyj-pisatel-predlozhil-svoj-variant-molitvy-dlya-deputatov.html
+	set tags molitva,poezia,prezident,ukraina,verhovna_rada,vinnichuk_jurij.ukr.pisatel
+page
+	set url https://strana.ua/opinions/333490-bulhakovskikh-kievljan-v-horode-uzhe-prakticheski-ne-ostalos.html
+	set tags bulgakov_mihail,epoha,gorod,kiev,kievljane,razruha,ukraina,umiranie,varvary
 eof
 off
 page

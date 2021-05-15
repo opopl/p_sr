@@ -27076,6 +27076,27 @@ page
 page
 	set url https://strana.ua/news/333479-brat-najema-schitaet-chto-ukraina-dolzhna-napsast-na-rossiju.html
 	set tags _important,butusov_jurij,facebook,kommentarii,najem_masi.jurist.ukr,najem_mustafa,napadenie,rossia,socset,ukraina
+page
+	set url https://strana.ua/opinions/333456-novoe-video-prezidenta-novyj-triumf-neprofessionalizma.html
+	set tags prezident,professionalizm,sorosjata,ukraina,vesna,video,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/333459-mozhet-li-sochetatsja-ideja-edinoj-ukrainy-s-obrazom-donetsko-luhanskikh-primatov.html
+	set tags 2015,donbass,edinstvo,facebook,janevskij_danila.ukr.zhurnalist,nenavist,obschestvo,oskorblenie,screenshot,ukraina
+page
+	set url https://strana.ua/opinions/333460-tak-chto-poluchaetsja-vory-v-zakone-u-nas-nepodsudny.html
+	set tags otvetstvennost',sud,ukraina,vor_v_zakone
+page
+	set url https://strana.ua/opinions/333487-sanktsii-protiv-vorov-v-zakone-ocherednoj-deshevyj-spektakl.html
+	set tags rnbo,sankcii,spektakl,ukraina,vor_v_zakone,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/333488-v-strane-nastupila-pravovaja-diktatura.html
+	set tags diktatura,konstitucia,ksu,oask,obschestvo,rnbo,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/articles/interview/333432-hlava-ks-aleksandr-tupitskij-v-intervju-stranaua-rasskazal-pochemu-ofis-prezidenta-eho-presleduet.html
+	set tags konstitucia,ksu,tupickii_aleksandr,ukraina
+page
+	set url https://strana.ua/news/333481-ministr-kultury-napisal-o-mikhaile-bulhakove-v-den-rozhdenija-pisatelja.html
+	set tags 130_let,birthday,bulgakov_mihail,gorod,kiev,tkachenko_aleksandr,ukraina
 eof
 off
 page

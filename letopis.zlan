@@ -27109,6 +27109,33 @@ page
 page
 	set url https://strana.ua/opinions/333490-bulhakovskikh-kievljan-v-horode-uzhe-prakticheski-ne-ostalos.html
 	set tags bulgakov_mihail,epoha,gorod,kiev,kievljane,razruha,ukraina,umiranie,varvary
+page
+	set url https://strana.ua/news/333483-v-vashinhton-post-proanalizirovali-pomozhet-li-nato-ukraine-v-sluchae-konflikta-s-rossiej.html
+	set tags donbass,nastuplenie,nato,pobeda,podderzhka,prognoz,rossia,ukraina,vojna,zapad
+page
+	set url https://strana.ua/news/120371-vjatrovich-pojasnil-pochemu-tsoj-i-vysotskij-opasny-dlja-ukrainy.html
+	set tags agressia,bulgakov_mihail,kultura,rossia,sigareta,sravnenie,ukraina,vjatrovich_vladimir,vysockij_vladimir.bard
+page
+	set url https://strana.ua/news/116109-vladimir-vjatrovich-predlozhil-schitat-sovetskij-period-okkupatsiej.html
+	set tags 1991,donbass,istoria,krym,okupacia,sssr,ukraina,unr,vjatrovich_vladimir
+page
+	set url https://ukraina.ru/exclusive/20210515/1031259677.html
+	set tags astrologia,hruschov_nikita,istoria,sssr
+page
+	set url https://miaistok.su/pozhiloj-amerikanets-zaskuchal-na-karantine-i-napisal-365-kartin-za-god/
+	set tags 60_plus,amerikanec,isskustvo,karantin,kartina,starik,usa
+page
+	set url https://www.radiosvoboda.org/a/muzei-istoriyi-u-dnipri/31256813.html
+	set tags dnepropetrovsk,muzei,ukraina,gorod
+page
+	set url https://www.volyn.com.ua/news/182647-u-lutskomu-raioni-zmahalysia-dzhury-foto-video
+	set tags deti,dzhura.igra,igra,kazaki,luck,shkola,sorevnovanie,ukraina
+page
+	set url https://regnum.ru/news/society/3270107.html
+	set tags foto,krym,most,pushkin_aleksandr,rossia
+page
+	set url https://rusvesna.su/news/1621082086
+	set tags donbass,obstrel,ukraina,ulica,vojna,vsu
 eof
 off
 page

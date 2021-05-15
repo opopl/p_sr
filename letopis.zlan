@@ -27136,6 +27136,9 @@ page
 page
 	set url https://rusvesna.su/news/1621082086
 	set tags donbass,obstrel,ukraina,ulica,vojna,vsu
+page
+	set url https://hvylya.net/news/230569-v-kieve-progremel-vzryv-v-mnogoetazhke-est-postradavshiy
+	set tags dom,gorod,kiev,mnogoetazhka,ukraina,vzryv
 eof
 off
 page

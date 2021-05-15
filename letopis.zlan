@@ -26875,6 +26875,15 @@ page
 page
 	set url https://golos.ua/news/v-kyeve-vozle-metro-ploshhad-lva-tolstogo-ubraly-mafy
 	set tags demontazh,kiev,maf,metro.kiev.lva_tolstogo,ukraina
+page
+	set url https://strana.ua/opinions/333396-putin-prozrachno-nameknul-chto-zelenskij-zarabatyvaet-v-rossii.html
+	set tags ekonomika,putin_vladimir,rossia,ukraina,zelenskii_vladimir,sankcii
+page
+	set url https://strana.ua/opinions/333397-amerikanskoe-plecho-stanovitsja-bezalternativnym-dlja-zelenskoho.html
+	set tags obida,oligarhi,ukraina,usa,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/333398-kto-to-sozdaet-kriminalnuju-volnu-sanktsijami-protiv-vorov-v-zakone.html
+	set tags absurd,rnbo,sankcii,ukraina,vor_v_zakone,zelenskii_vladimir
 eof
 off
 page

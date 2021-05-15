@@ -26884,6 +26884,12 @@ page
 page
 	set url https://strana.ua/opinions/333398-kto-to-sozdaet-kriminalnuju-volnu-sanktsijami-protiv-vorov-v-zakone.html
 	set tags absurd,rnbo,sankcii,ukraina,vor_v_zakone,zelenskii_vladimir
+page
+	set url https://strana.ua/news/333112-tsvetochnaja-superluna-2021-kohda-budet-superlunie-v-mae.html
+	set tags luna,nebo,superlunia,ukraina
+page
+	set url https://www.epravda.com.ua/columns/2021/05/14/673864/
+	set tags kiberbezopasnost,kibercentr,ukraina
 eof
 off
 page

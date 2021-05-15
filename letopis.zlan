@@ -27139,6 +27139,21 @@ page
 page
 	set url https://hvylya.net/news/230569-v-kieve-progremel-vzryv-v-mnogoetazhke-est-postradavshiy
 	set tags dom,gorod,kiev,mnogoetazhka,ukraina,vzryv
+page
+	set url https://novayagazeta.ru/articles/2021/04/20/zheleznyi-khleb?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags krym,poezd,rossia,turizm,ukraina,vpechatlenie
+page
+	set url rusichi-neojidannye-i-interesnye-fakty-kosy-u-mujchin-iazycheskii-mat-i-zolotye-poiasa-6097e739c235fb60b67ca677
+	set tags beresta,istoria,kievrus,materschina,novgorod
+page
+	set url https://rusvesna.su/news/1621011912
+	set tags dnr,donbass,karateli,lnr,molodezh,peklo,poslanie,ukraina,video,vojna
+page
+	set url https://www.rbc.ua/ukr/styler/vesna-osenyu-kieve-foto-popala-prirodnaya-1603712641.html
+	set tags anomalia,kashtan,kiev,osenj,pogoda,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2020/05/29/7253616/
+	set tags _important,foto,istoria,kashtan,kashtan.kiev,kiev,sssr,ukraina
 eof
 off
 page

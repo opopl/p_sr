@@ -27001,6 +27001,78 @@ page
 page
 	set url https://www.radiosvoboda.org/a/29866457.html
 	set tags 2014,_important,goloborodjko_vasyl.poet.lugansk,imja,krazha,lugansk,poezia,ukraina,zabuzhko_oksana
+page
+	set url https://www.radiosvoboda.org/a/news-vasyl-holoborodko-den-narodzhennia/29866367.html
+	set tags 2014,goloborodjko_vasyl.poet.lugansk,istoria,literatura,lugansk,poezia,sssr,symonenko_vasyl,ukraina,zabuzhko_oksana
+page
+	set url https://strana.ua/finance/333431-ischezli-denhi-s-karty-privatbanka-pochemu.html
+	set tags dengi,finansy,moshennik,privatbank,ukraina,vorovstvo
+page
+	set url https://strana.ua/articles/private-life/333275-basta-i-morhenshtern-taki-vystupat-dlja-ukraintsev-no-na-turetskom-kurorte.html
+	set tags basta.rossia.repper,kamenskih_nastja.pevica.kiev,kiev,leps_grigorij.pevec.rossia,loboda_svetlana.pevica.kiev,morgenstern,muzyka,showbiz,turcia,ukraina
+page
+	set url http://lug-info.com/news/one/pyanye-boitsy-vsu-ustroili-debosh-v-magazine-v-krymskom-narodnaya-militsiya-67807
+	set tags donbass,lnr,magazin,nm_lnr,pjanstvo,ukraina,vojna,vsu
+page
+	set url https://beztabu.net/pomer-golivudskij-aktor---zirka-serialu-chornobil_n73131
+	set tags akter,chernobyl,chernobyl.film.hbo,smert,ukraina
+page
+	set url https://beztabu.net/pobyedobyesiye-yak-rosiya-namagayetsya-zberegti-vpliv-v-ukrayini_n18787
+	set tags 9_may,den_pobedy,imperia,kiev,moskva,propaganda,rossia,rusimperia,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/na-hmelnichchine-gruzovik-vletel-v-mikroavtobus-oba-zagorelis-izvestno-o-4-pogibshih-foto-s-mesta-dtp.htm
+	set tags avaria,doroga,dtp,gruzovik,hmelnickaja_obl.ukraina,ukraina,smert
+page
+	set url https://news.obozrevatel.com/society/v-nebe-raketyi-nas-bombyat-gromkaya-sirena.htm
+	set tags __may_2021.izrail.palestina.konflikt,analogia,bomba,bomboubezhische,donbass,izrail,izrail_vs_palestina,palestina,raketa,rossia,vojna
+page
+	set url https://news.obozrevatel.com/politics/otritsanie-gosudarstvennosti-ukrainyi-dolzhno-karatsya-zakonom.htm
+	set tags golodomor,grazhdanstvo,mova,nakazanie,suverenitet,tomenko_nikolaj,ukraina,unizhenie,uvazhenie,zakon,malorossia
+page
+	set url https://news.obozrevatel.com/sport/football/podtashnivalo-a-nogi-byili-vatnyie-blohin-rasskazal-o-pobede-dinamo-v-kubke-kubkov.htm
+	set tags 1975,_important,blohin_oleg,futbol,istoria,kiev,kubok_kubkov.futbol,pobeda,sorevnovanie,sport,sssr
+page
+	set url https://news.obozrevatel.com/politics/zelenskij-myi-tsentr-evropyi-ukraina-obyazatelno-budet-v-es.htm
+	set tags es,evropa,maidan2,serdce,ukraina,zelenskii_vladimir
+page
+	set url https://ukraina.ru/news/20210515/1031381306.html
+	set tags es,evropa,serdce,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/333426-mikhail-bulhakov-130-let-nazad-rodilsja-avtor-mastera-i-marharity-chto-on-hovoril-ob-ukraine.html
+	set tags 130_let,belaja_gvardia_roman,birthday,bulgakov_mihail,buzhanskii_maksim,gogol_nikolai,gorod,jazyk,kiev,literatura,lukash_elena,luzina_lada.fb.kiev,mova,surzhik,ukraina
+page
+	set url https://strana.ua/news/333428-mid-prokommentiroval-slova-putina-o-prevrashchenii-ukrainy-v-antipod-rf.html
+	set tags antirossia,donbass,mzs,neponimanie,ponimanie,putin_vladimir,rossia,ukraina,vojna
+page
+	set url https://strana.ua/news/333265-vladimir-zajavil-chto-v-ukraine-nachalis-politicheskie-chistki.html
+	set tags antirossia,cenzura,medvedchuk_viktor,politika,putin_vladimir,rossia,ukraina,ukraina_ne_rossia,zachistka
+page
+	set url https://fraza.com/news/300917--episkop-upts-rasskazal-o-kievskom-svjaschennike-kotoryj-spasal-evreev-vo-vremja-vojny
+	set tags 14_may,1941,babij_jar,cerkov,evrei,glagolev_aleksej.kiev.pravednik,golokost,istoria,mirvojna2,nacizm,pravednik,pravoslavie,spasenie,ukraina,upc
+page
+	set url https://analytics.hvylya.net/230545-chemu-ukrainu-uchit-den-nezavisimosti-izrailya
+	set tags 14_may,15_may,1948,britania,istoria,izrail,nezalezhnist,vojna.izrail.1948,vojna
+page
+	set url https://analytics.hvylya.net/220249-istoricheskie-primery-nacionalnoy-kapitulyacii-100-i-330-let-nazad
+	set tags 1920,denikin_anton,istoria,kapituljacia,nacia,odessa,petljura_simon,uga.ukr_galickaja_armia,ukraina,unr,uss.ukr_sichovi_strilci
+page
+	set url https://sharij.net/kto-budet-sleduyushhim-prezidentom-rf-posle-putina
+	set tags preemnik,prezident,putin_vladimir,rossia
+page
+	set url https://sharij.net/infovojna-antizapadnaya-ritorika-chto-ne-tak-s-novym-issledovaniem-detektor-media
+	set tags detektor_media,infvojna,ukraina,zapad
+page
+	set url https://sharij.net/v-hamas-soobshhili-skolko-vremeni-budut-prodolzhatsya-udary-po-tel-avivu
+	set tags __may_2021.izrail.palestina.konflikt,hamas.dvizhenie,izrail,palestina
+page
+	set url https://sharij.net/kiva-soobshhil-o-bordelyah-prinadlezhashhih-klichko-i-predlozhil-zelenskomu-ih-zakryt
+	set tags bordeli,kiev,kiva_ilja,klichko_vitalij,priton,ukraina
+page
+	set url https://sharij.net/puma-ignoriruet-dolbobov-vedushhij-maks-nazarov-otvetil-sternenko-na-travlyu-brenda
+	set tags dorn_ivan,kiev,nazarov_maks.tv.ukr,puma.kompania,sternenko_sergei,ukraina
+page
+	set url https://sharij.net/v-snbo-gotovy-obmenyat-medvedchuka-na-ukrainczev-nahodyashhihsya-v-rossijskih-tyurmah-danilov
+	set tags danilov_aleksei,medvedchuk_viktor,obmen,plennye,rnbo,rossia,tjurma,ukraina
 eof
 off
 page

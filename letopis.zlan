@@ -26953,6 +26953,54 @@ page
 page
 	set url http://lug-info.com/news/one/zamdirektora-lkm-irina-klyuchneva-vozobnovlenie-arkheologicheskikh-raskopok-eto-bolshoi-stimul-dlya-uchenykh-lnr-67799
 	set tags arheologia,lnr,muzei.lugansk.kraevedchestkij,nauka
+page
+	set url https://ukraina.ru/exclusive/20210515/1031367294.html
+	set tags 15_may,birthday,bulgakov_mihail,istoria,kiev,kultura,literatura,lunacharskij_anatolij.narkom.sssr,paustovskij_konstantin,rusimperia,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210510/1031323330.html
+	set tags bulgakov_mihail,dnevnik,gorod,kiev,petljura_simon,ukraina
+page
+	set url https://ukraina.ru/exclusive/20200920/1028905208.html
+	set tags dni_turbinyh.pjesa.bulgakov,istoria,kiev,rusimperia,ukraina,bulgakov_mihail
+page
+	set url https://ukraina.ru/history/20200303/1026886734.html
+	set tags 1847,arhitektura,istoria,kiev,nikolaev_vladimir.kiev.zodchij,rusimperia,ukraina,zodchestvo
+page
+	set url https://ukraina.ru/history/20210515/1031379304.html
+	set tags 1948,evrei,istoria,izrail,odessa,palestina,ukraina,vojna.izrail.1948
+page
+	set url https://ukraina.ru/history/20200503/1027580876.html
+	set tags evrei,istoria,izrail,kiev,meir_golda,pogrom,sionizm,ukraina
+page
+	set url https://ukraina.ru/history/20181017/1021433832.html
+	set tags 1880,evrei,istoria,odessa,sionizm,zhabotinskij_vladimir.sionist
+page
+	set url https://ukraina.ru/history/20181016/1021414827.html
+	set tags everest,india,istoria,lisanevich_boris.odessa.nepal,nepal,odessa,ukraina
+page
+	set url https://kiev.strana.ua/333451-po-kievu-proshlis-marshem-protivniki-vaktsin.html
+	set tags anticovid,covid,genocid,kiev,marsh,protest,tarify,ukraina,vaccinacia
+page
+	set url https://kiev.strana.ua/323834-kovidoskeptiki-protestujut-na-sofijskoj-ploshchadi-v-kieve-reportazh.html
+	set tags anticovid,covid,covidoskeptik,kiev,protest,ukraina,vaccinacia,vaccine
+page
+	set url https://glavred.info/ukraine/danilov-rasskazal-kogda-zakonchitsya-voyna-na-donbasse-10272081.html
+	set tags danilov_aleksei,donbass,putin_vladimir,rnbo,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://glavred.info/politics/v-mid-otvetili-na-passazh-putina-o-prevrashchenii-ukrainy-v-antipod-rossii-10272144.html
+	set tags antirossia,mzs,putin_vladimir,rossia,rusmir,ukraina
+page
+	set url https://www.radiosvoboda.org/a/krym-ukraina-rossiya-okupaciya/31252800.html
+	set tags 2014,krym,nedovolstvo,obschestvo,razocharovanie,rossia,ukraina,vossoedinenie
+page
+	set url https://www.radiosvoboda.org/a/ukrajinska-knyzhka-rynok-knyzhok/31256201.html
+	set tags chtenie,jazyk,kniga,knigopechatanie,mova,ukraina,ukrainizacia,zakon
+page
+	set url https://www.radiosvoboda.org/a/news-zabuzhko-nich-literarury/29932022.html
+	set tags chehia,kiev,kniga,ukraina,zabuzhko_oksana
+page
+	set url https://www.radiosvoboda.org/a/29866457.html
+	set tags 2014,_important,goloborodjko_vasyl.poet.lugansk,imja,krazha,lugansk,poezia,ukraina,zabuzhko_oksana
 eof
 off
 page

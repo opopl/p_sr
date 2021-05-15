@@ -26890,6 +26890,24 @@ page
 page
 	set url https://www.epravda.com.ua/columns/2021/05/14/673864/
 	set tags kiberbezopasnost,kibercentr,ukraina
+page
+	set url https://gazeta.ua/articles/science-life/_130-rokiv-vid-dnya-narodzhennya-mihajla-bulgakova-cikavi-i-zagadkovi-fakti-z-zhittya-ta-tvorchosti/1031811
+	set tags 15_may,1891,birthday,bulgakov_mihail,kiev,literatura,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-radio-svoboda-rosija-blokuvannia/31255704.html
+	set tags inoagent,radio_svoboda,rossia,shtraf,zakon.rossia.inoagent,zapret
+page
+	set url https://www.radiosvoboda.org/a/gulag-srsr-ukrayintsi-povstannia/31252102.html
+	set tags gulag,nkvd,repressii,sandarmoh,sssr,stalin_jozef,ukraina,istoria
+page
+	set url https://www.kp.ru/daily/26990.5/4050896/
+	set tags istoria,kievrus,rossia,ukraina
+page
+	set url https://zaxid.net/sproshhennya_do_nimtsiv_i_nashih_n1518916
+	set tags babij_jar,germania,istoria,kiev,nacizm,pamjat,sssr,ukraina
+page
+	set url https://inosmi.ru/politic/20210515/249724061.html
+	set tags covid,sputnik_v,ukraina,vaccinacia,vaccine
 eof
 off
 page

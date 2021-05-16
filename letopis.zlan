@@ -27263,6 +27263,12 @@ global
 page
 	set url https://www.radiosvoboda.org/a/istorychna-svoboda-kyivska-rus-batyj/30986656.html
 	set tags 1223,1240,batyj.han,bitva.kalka.1223,istoria,kiev,kievrus,knjaz.danylo_galickij,mongoly,padenie.kiev.1240,papa_rimskij,rusmir,tolochko_pp,ukraina,_important
+page
+	set url https://www.radiosvoboda.org/a/kulykovska--bytva/30836440.html
+	set tags _important,bitva.kulikov.1380,istoria,rusmir
+page
+	set url https://www.radiosvoboda.org/a/30823745.html
+	set tags istoria,kievrus,moneta,nahodka,rusmir
 eof
 off
 page

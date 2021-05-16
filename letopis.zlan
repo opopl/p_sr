@@ -27256,10 +27256,6 @@ page
 page
 	set url https://life.pravda.com.ua/culture/2021/05/16/244904/
 	set tags agressia,agressor,kalitko_katerina.ukr.pisatel,literatura,poezia,proschenije,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://www.radiosvoboda.org/a/istorychna-svoboda-kyivska-rus-batyj/30986656.html
 	set tags 1223,1240,batyj.han,bitva.kalka.1223,istoria,kiev,kievrus,knjaz.danylo_galickij,mongoly,padenie.kiev.1240,papa_rimskij,rusmir,tolochko_pp,ukraina,_important
@@ -27272,6 +27268,24 @@ page
 page
 	set url https://lenta.ru/articles/2021/05/16/turkey_lockdown_problems/
 	set tags bednost,covid,ekonomika,karantin,lockdown,nischeta,obschestvo,turcia
+page
+	set url https://ukraina.ru/opinion/20210516/1031382067.html
+	set tags es,future,obschestvo,osina,osinovyj_kol,strana,ukraina,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/politics/podderzhivaem-izrail-gde-srazhaetsya-tsivilizatsiya-protiv-varvarstva.htm
+	set tags __may_2021.izrail.palestina.konflikt,civilizacia,dnepropetrovsk,evrei,filatov_boris,flag.izrail,hamas.dvizhenie,izrail,izrail_vs_palestina,palestina,podderzhka,ukraina,varvary
+page
+	set url https://news.obozrevatel.com/abroad/elitnyij-klub-vragov-rossii-a-gde-zhe-ukraina.htm
+	set tags chehia,druzhba,rossia,ukraina
+page
+	set url https://mir-lug.info/hot/molodyozhnye-lidery-lnr-i-dnr-provozglasili-manifest-molodyozhi-donbassa/
+	set tags krasnodon,manifest,manifest.molodezhi.donbassa.2021,mir_luganschine,molodaja_gvardia.lnr,molodezh
+page
+	set url http://lug-info.com/news/one/molodezh-lnr-i-dnr-provozglasila-manifest-molodezhi-donbassa-foto-67811
+	set tags dnr,donbass,lnr,manifest.molodezhi.donbassa.2021,molodezh
+page
+	set url https://www.pravda.com.ua/news/2021/05/16/7293706/
+	set tags _important,armia,kladbische,lnr,perevalsk,razrushenie,tank
 eof
 off
 page

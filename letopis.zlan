@@ -27269,6 +27269,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/30823745.html
 	set tags istoria,kievrus,moneta,nahodka,rusmir
+page
+	set url https://lenta.ru/articles/2021/05/16/turkey_lockdown_problems/
+	set tags bednost,covid,ekonomika,karantin,lockdown,nischeta,obschestvo,turcia
 eof
 off
 page

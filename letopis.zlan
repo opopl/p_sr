@@ -27289,6 +27289,9 @@ page
 page
 	set url https://strana.ua/news/333621-rossija-zadejstvuet-staroobrjadtsev-v-obuchenii-rossijskikh-voennykh-vyzhivaniju.html
 	set tags armia,obuchenie,pravoslavie,rossia,shojgu_sergej,staroobrjadcy,tajga,vera
+page
+	set url https://regnum.ru/news/accidents/3270418.html
+	set tags ekaterinburg,pozhar,rossia
 eof
 off
 page

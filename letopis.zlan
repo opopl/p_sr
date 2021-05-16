@@ -27286,6 +27286,9 @@ page
 page
 	set url https://www.pravda.com.ua/news/2021/05/16/7293706/
 	set tags _important,armia,kladbische,lnr,perevalsk,razrushenie,tank
+page
+	set url https://strana.ua/news/333621-rossija-zadejstvuet-staroobrjadtsev-v-obuchenii-rossijskikh-voennykh-vyzhivaniju.html
+	set tags armia,obuchenie,pravoslavie,rossia,shojgu_sergej,staroobrjadcy,tajga,vera
 eof
 off
 page

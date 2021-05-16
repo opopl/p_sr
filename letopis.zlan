@@ -27256,6 +27256,13 @@ page
 page
 	set url https://life.pravda.com.ua/culture/2021/05/16/244904/
 	set tags agressia,agressor,kalitko_katerina.ukr.pisatel,literatura,poezia,proschenije,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://www.radiosvoboda.org/a/istorychna-svoboda-kyivska-rus-batyj/30986656.html
+	set tags 1223,1240,batyj.han,bitva.kalka.1223,istoria,kiev,kievrus,knjaz.danylo_galickij,mongoly,padenie.kiev.1240,papa_rimskij,rusmir,tolochko_pp,ukraina,_important
 eof
 off
 page

@@ -27154,6 +27154,39 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2020/05/29/7253616/
 	set tags _important,foto,istoria,kashtan,kashtan.kiev,kiev,sssr,ukraina
+page
+	set url https://strana.ua/news/333498-v-kazani-bolee-desjati-shkol-evakuirovali-iz-za-soobshchenij-o-minirovanii.html
+	set tags kazan,minirovanie,rossia,obman
+page
+	set url https://www.radiosvoboda.org/a/ounivtsi-pravednyky/31255102.html
+	set tags 1941,golokost,gulag,hitler_adolf,irkutsk,istitut.jad_vashem.izrail,istoria,izrael,mirvojna2,nikopol.ukraina,oun,pravednik,pravednik.narodov_mira,rossia,spasenie,sssr,stalin_jozef,ukraina,uman
+page
+	set url https://strana.ua/news/333538-na-blahotvoritelnom-auktsione-raskupili-predmety-iskusstva-avtorstva-serheja-shojhu.html
+	set tags _important,aukcion,habenskij_konstantin.akter.rossia,moskva,obschestvo,obschestvo.rus_geograficheskoje,prodazha,rossia,serviz,shojgu_sergej,tvorchestvo,vaza,zhizn
+page
+	set url https://strana.ua/opinions/323885-predstavte-sebe-esli-by-upal-ne-bajden-a-lukashenko-ili-putin.html
+	set tags biden_joe,dvojnyje_standarty,kurjez,nasmeshka,padenie,putin_vladimir,rossia,usa
+page
+	set url https://kharkov.strana.ua/333529-v-kharkove-upala-bashnja-elevatora-pri-demontazhe-video.html
+	set tags bashnja,demontazh,elevator,harkov,padenie,ukraina
+page
+	set url https://kharkov.strana.ua/332108-v-kharkove-unichtozhili-plakaty-ko-dnju-pobedy.html
+	set tags 9_may,den_pobedy,harkov,nadrugatelstvo,nenavist,plakat,pozdravlenie,ukraina,vandalizm
+page
+	set url https://strana.ua/opinions/333508-vsled-za-hazovoj-atakoj-elektricheskij-udar-.html
+	set tags ataka,ekonomika,elektrichestvo,elektrika,gaz,tarify,ukraina
+page
+	set url https://strana.ua/opinions/333509-v-ukraine-est-norma-pozvoljajushchaja-sazhat-tolko-za-status-vora-v-zakone.html
+	set tags absurd,rnbo,somali,ukraina,vor_v_zakone,zakon,debilizacia
+page
+	set url https://strana.ua/opinions/333510-zelenskij-khochet-podvesti-itohi-svoikh-dvukh-let-chto-zh-pomozhem-emu.html
+	set tags ekonomika,obeschanie,obschestvo,tarify,ukraina,vybory,zelenskii_vladimir,zhkh
+page
+	set url https://strana.ua/opinions/333531-v-ukraine-nabljudatelnye-sovety-eto-chistyj-karho-kult.html
+	set tags kargokult,nabsovet,obschestvo,ukraina,zapad
+page
+	set url https://strana.ua/opinions/333533-nasha-rodina-nakhoditsja-na-samom-dne-jamy-pozora-i-bedstvija-chto-zhe-dalshe.html
+	set tags 1919,_important,bulgakov_mihail,dno,fraza,jama,obschestvo,pozor,revolucia,strana,ukraina
 eof
 off
 page

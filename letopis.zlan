@@ -27292,6 +27292,18 @@ page
 page
 	set url https://regnum.ru/news/accidents/3270418.html
 	set tags ekaterinburg,pozhar,rossia
+page
+	set url https://sharij.net/posetiteli-botsada-v-odesse-v-den-otkrytiya-zatoptali-i-posryvali-unikalnye-rasteniya-foto
+	set tags botsad.odessa,cvety,odessa,posetitel,priroda,rastenia,sirenj,ukraina,vandalizm,varvary
+page
+	set url https://sharij.net/mid-ukrainy-skryl-spisok-uchastnikov-krymskoj-platformy-iz-za-rossii
+	set tags krym,krymskaja_platforma,mzs,rossia,ukraina
+page
+	set url https://studrespublika.com/impotentsiya-myshleniya/
+	set tags future,impotencia,myshlenie,nacia,obschestvo,strana,ukraina
+page
+	set url https://newrepublic.info/kak-zhit-posle-nenavisti/
+	set tags _important,nenavist,obschestvo,ukraina
 eof
 off
 page

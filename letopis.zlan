@@ -27187,6 +27187,75 @@ page
 page
 	set url https://strana.ua/opinions/333533-nasha-rodina-nakhoditsja-na-samom-dne-jamy-pozora-i-bedstvija-chto-zhe-dalshe.html
 	set tags 1919,_important,bulgakov_mihail,dno,fraza,jama,obschestvo,pozor,revolucia,strana,ukraina
+page
+	set url http://www.kursivom.ru/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BF%D0%B5%D1%81%D0%B5%D0%BD-%D1%8D%D0%BD%D1%82%D0%B8%D0%BD-1-%D0%B1%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA/
+	set tags entin_jurij.poet,muzyka,pesnja,rossia,rusmir
+page
+	set url https://strana.ua/opinions/333534-opjanjajushchee-chuvstvo-edinenija-na-pochve-nenavisti-k-vraham.html
+	set tags __may_2021.izrail.palestina.konflikt,edinstvo,izrail,izrail_vs_palestina,nenavist,obschestvo,palestina,sektor_gaza,ukraina,vrag
+page
+	set url https://strana.ua/opinions/333536-kak-nam-povysit-enerhoeffektivnost-zhiloho-fonda.html
+	set tags energoeffektivnost,ukraina,zhiloj_fond
+page
+	set url https://strana.ua/news/333562-krjukova-prodala-kartinu-posvjashchennuju-sudu-nad-medvedchukom-za-10-tysjach-dollarov.html
+	set tags __may_2021.medvedchuk,hudozhnik,isskustvo,kartina,kiev,krjukova_svetlana,medvedchuk_viktor,opzzh,pokupka,prodazha,rnbo,sankcii,ukraina
+page
+	set url https://strana.ua/opinions/333570-pochemu-zelenskij-okruzhaet-sebja-sploshnymi-kholujami.html
+	set tags holujstvo,politika,professionalizm,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/333571-ukrainu-podverhajut-prinuditelnoj-transnatsionalizatsii.html
+	set tags decentralizacia,ekonomika,elita,transnacionalizacia,ukraina,vlast,vojna.elit
+page
+	set url https://strana.ua/opinions/333574-ukrainskoe-pravitelstvo-reshilo-poihrat-v-kommunizm.html
+	set tags benzin,cena,igra,kabmin,kommunizm,pravitelstvo,ukraina
+page
+	set url https://strana.ua/opinions/333576-vvp-ukrainy-umenshilsja-po-sravneniju-i-s-proshlym-hodom-i-s-predydushchim-mestsem.html
+	set tags ekonomika,kazino,ukraina,vvp,vvp.ukraina
+page
+	set url https://strana.ua/opinions/333608-kazhetsja-propahanda-vsled-za-jazykom-nachinaet-rasshatyvat-nashi-ushi.html
+	set tags clubhouse,internet,propaganda,socset,ukraina,ushi
+page
+	set url https://strana.ua/opinions/333610-est-povod-possoritsja-v-junesko-srazu-s-poljakami-i-evrejami.html
+	set tags borsch,evrei,polsha,ssora,ukraina,unesco
+page
+	set url https://strana.ua/news/333544-chto-hovorjat-v-mire-kriminala-o-sanktsijakh-protiv-vorov-v-zakone.html
+	set tags policia,rnbo,sankcii,ukraina,vor_v_zakone,zakon
+page
+	set url https://strana.ua/news/333525-ukraina-proihraet-vojnu-s-rossiej-zapad-ne-pomozhet-o-chem-statja-washington-post-.html
+	set tags blinken_entoni.gossekretar.usa,provokator,rossia,ukraina,usa,vojna,zapad
+page
+	set url https://news.obozrevatel.com/society/bez-suda-bez-mogilyi-ukraina-pomnit-o-zhertvah-stalinskogo-terrora.htm
+	set tags 80_let,butusov_jurij,den_pamjati_zhertv_polit_repressij,istoria,nkvd,rasstrel,repressii,sssr,ukraina
+page
+	set url https://news.obozrevatel.com/society/v-ukraine-prostilis-s-ubityim-na-donbasse-voinom-i-snajperom-razvedchitsej-foto.htm
+	set tags chernigov,donbass,graneckaja_olga.vsu,kolesnik_pavel.vsu.2021.smert,onkologia,pohoron,proschanie,smert,smert.vsu,ukraina,vinnica,vojna,vsu
+page
+	set url https://news.obozrevatel.com/society/kak-sovetskie-alkashi-popadali-v-vyitrezviteli.htm
+	set tags alkash,istoria,milicia,obschestvo,pjanstvo,sssr,vytrezvitel,zhizn
+page
+	set url https://news.obozrevatel.com/society/shmyigalschina-ili-nazad-v-sssr.htm
+	set tags benzin,cena,ekonomika,kabmin,klo.zapravka,shmygal'_denis.ministr,sssr,ukraina
+page
+	set url https://news.obozrevatel.com/society/bratskij-borsch-kak-makarevich-probil-ocherednoe-dno.htm
+	set tags borsch,dno,eda,makarevich_andrej,rossia,ukraina
+page
+	set url https://news.obozrevatel.com/society/samaya-strashnaya-bolezn-ukrainyi-kogda-preodoleem-rvanem-vpered.htm
+	set tags bolezn,obschestvo,tradicii,ukraina
+page
+	set url https://kiev.strana.ua/333573-v-kieve-passazhir-vystrelil-v-voditelja-avtobusa-na-ulitse-chernobylskoj.html
+	set tags avtobus,kiev,kriminal,oruzhie,policia,ranenie,razgovor,telefon,ukraina,voditel,vystrel
+page
+	set url https://lenta.ru/news/2021/05/16/massy/
+	set tags grazhdanstvo,holodnaja_vojna,imperia_zla,istoria,kreml,peskov_dmitrii,rejgan_ronald,rossia,sssr,usa
+page
+	set url https://www.pravda.com.ua/podcasts/5fee9b842e098/60a045a8ae470/
+	set tags 1991,1_aug,bush_george_sr.usa.prezident,chicken_kiev,istoria,kiev,kravchuk_leonid,nezalezhnist,referendum,ukraina,usa,vizit.george_bush_sr.1991.kiev
+page
+	set url https://www.radiosvoboda.org/a/oleksandr-nevsky-rosiyska-tserkva/31257825.html
+	set tags 1221,800_let,cerkov,istoria,kiev,kievrus,nevskii_aleksandr,pravoslavie,rossia,rpc,ukraina,upc
+page
+	set url https://life.pravda.com.ua/culture/2021/05/16/244904/
+	set tags agressia,agressor,kalitko_katerina.ukr.pisatel,literatura,poezia,proschenije,ukraina
 eof
 off
 page

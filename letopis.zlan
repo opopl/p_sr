@@ -27304,6 +27304,51 @@ page
 page
 	set url https://newrepublic.info/kak-zhit-posle-nenavisti/
 	set tags _important,nenavist,obschestvo,ukraina
+page
+	set url https://strana.ua/news/333630-trahedija-v-izraile-pri-obrushenii-tribuny-v-sinahohe-khasidov-pohibli-2-cheloveka-213-raneny-foto-i-video.html
+	set tags hasid,izrail,smert,tragedia,tribuna,sinagoga
+page
+	set url https://strana.ua/opinions/333636-sudu-nad-medvedchukom-ne-khvataet-melodii-iz-derevni-durakov.html
+	set tags __may_2021.medvedchuk,absurd,durni,medvedchuk_viktor,ukraina
+page
+	set url https://strana.ua/opinions/333637-druhoho-metoda-upravlenija-krome-repressivnoho-komanda-zelenskoho-ne-znaet.html
+	set tags fraza,future,repressii,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/333639-vrjad-li-sovremennye-kitajtsy-zaseljat-sibir.html
+	set tags kitaj,rossia,sibir
+page
+	set url https://strana.ua/news/333545-chto-oznachaet-antirossijskij-doklad-chatham-house-pered-vstrechej-putina-i-bajdena-i-kak-on-povlijaet-na-ukrainu-.html
+	set tags britania,doklad,geopolitika,miroporjadok,nato,rossia,zapad
+page
+	set url https://strana.ua/news/333648-bojnja-v-kazani-ucheniki-vernulis-k-uchebe-v-druhoj-shkole.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://strana.ua/opinions/333640-poka-ukraina-pridumyvaet-kak-by-ne-zabyt-o-kosmose.html
+	set tags arabs,kosmos,luna,mars,oae,ukraina
+page
+	set url https://fraza.com/video/300946-v-krymu-vypal-gigantskij-grad
+	set tags grad.pogoda,krym,pogoda,rossia,simferopol
+page
+	set url https://hvylya.net/interview/230618-uroki-rossiyskoy-eskalacii-bolshoy-zapad-ne-gotov-k-voyne-v-ukraine
+	set tags rossia,ukraina,vojna,zapad
+page
+	set url https://lenta.ru/news/2021/05/17/genocide_bel/
+	set tags belarus,genocid,mirvojna2,priznanie,vov
+page
+	set url https://lenta.ru/news/2021/05/17/zst/
+	set tags ekaterinburg,napadenie,policia,rossia,vystrel
+page
+	set url https://www.radiosvoboda.org/a/krymski-tatary-krym/31257938.html
+	set tags 1944,krym,krym_tatary,ukraina
+page
+	set url https://news.obozrevatel.com/abroad/armiya-izrailya-atakovala-doma-9-ti-liderov-hamasa-chto-sejchas-proishodit-v-zone-konflikta-foto-i-video.htm
+	set tags __may_2021.izrail.palestina.konflikt,hamas.dvizhenie,izrail,konflikt,palestina,udar,vojna
+page
+	set url https://news.obozrevatel.com/abroad/vyishe-stropila-plotniki-kak-stroitsya-amerika.htm
+	set tags amerika,plotnik,stroitelstvo
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-rossiya-strana-kotoraya-ne-mozhet-prinesti-schastya.htm
+	set tags rossia,schastje,strana
 eof
 off
 page

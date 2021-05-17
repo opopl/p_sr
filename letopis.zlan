@@ -27604,6 +27604,39 @@ page
 page
 	set url https://news.obozrevatel.com/show/people/makarevich-proizvel-furor-na-kontserte-v-poltave-zal-aplodiroval-stoya-foto-i-video.htm
 	set tags koncert,makarevich_andrej,muzyka,poltava,ukraina
+page
+	set url https://strana.ua/news/333801-vo-lvovskoj-oblasti-uchitelnitsa-makhala-v-klasse-nozhom-pered-detmi.html
+	set tags deti,lvov,shkola,ugroza,ukraina,unizhenie
+page
+	set url https://strana.ua/news/329131-v-cherkassakh-shkolnika-v-tire-tjazhelo-ranili-v-holovu.html
+	set tags cherkassy,deti,ranenie,shkola,tragedia,ukraina
+page
+	set url https://kharkov.strana.ua/324962-video-kak-pod-kharkovom-v-popytkakh-spasti-psa-v-prudu-utonul-paren.html
+	set tags harkov,podrostki,smert,sobaka,spasenie,tragedia,ukraina
+page
+	set url https://www.znak.com/2021-05-17/kak_peterburzhcy_okazyvayutsya_na_ulice_bez_sredstv_k_suchestvovaniyu_reportazh_iz_priyuta_nochlezhk
+	set tags bomzh,chelovek,nischeta,nochlezhka,obschestvo,rossia,st_peterburg,zhizn
+page
+	set url https://gazeta.ua/blog/55075/zelenskij-vikinuv-pravosuddya-na-smitnik-istoriyi
+	set tags __may_2021.medvedchuk,portnov_andrei,pravosudie,sud,ukraina,zelenskii_vladimir
+page
+	set url https://www.vesti.ru/article/2562801
+	set tags __may_2021.rossia.kazan.shkola.tragedia,oruzhie,rosgvardia
+page
+	set url https://smotrim.ru/article/2562798
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://smotrim.ru/article/2562738
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://sharij.net/162615
+	set tags farion_irina,oskorblenie,ukraina
+page
+	set url https://sharij.net/farion-rasskazala-kogda-diviziyu-ss-galichina-budut-chestvovat-na-gosudarstvennom-urovne
+	set tags farion_irina,ss_galichina,ukraina
+page
+	set url https://www.vesti.ru/article/2561877
+	set tags __may_2021.rossia.kazan.shkola.tragedia,bolnica,deti,lechenie,moskva,rossia
 eof
 off
 page

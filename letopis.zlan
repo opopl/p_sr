@@ -27487,6 +27487,15 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5fce8cdc60e9760ab703b1f4/vmeste-s-vokzalom--609d7c0c3652e4170806c0c2
 	set tags chelovek,donbass,interview,nacionalist,napadenie,rossia,slavjansk,ukraina,vojna,zhurnalist
+page
+	set url https://zen.yandex.ru/media/id/5fce8cdc60e9760ab703b1f4/odessa-my-pomnim--608e8709a38d215d4e54c593
+	set tags 02.05.2014,maidan2,odessa,rossia,rusmir,tragedia,ukraina,zapad
+page
+	set url https://zen.yandex.ru/media/id/5fce8cdc60e9760ab703b1f4/nebo-slavian-60898a0a9b8b9a4212b8a771
+	set tags patriot,patriotizm,pesnja.nebo_slavjan,rossia,sankcii,slavjane,ukraina,vozmuschenie,zapad,zlost
+page
+	set url https://zen.yandex.ru/media/id/5fce8cdc60e9760ab703b1f4/podjigateli-6082a9b4ff8fff5a64183cd8
+	set tags politzak,rossia
 eof
 off
 page

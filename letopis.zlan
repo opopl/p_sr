@@ -27457,6 +27457,33 @@ page
 page
 	set url https://vz.ru/opinions/2021/5/15/1098482.html
 	set tags bulgakov_mihail,kiev,kniga,kniga.master_i_margarita.bulgakov,literatura,rossia,rusmir
+page
+	set url https://strana.ua/news/333731-eks-kombata-semenchenko-iz-sizo-privezli-v-kardioreanimatsiju.html
+	set tags 112ua,ato,bolnica,dobrobaty,donbass,kardiologia,obvinenie,reanimacia,semenchenko_semen,ukraina,vojna
+page
+	set url https://strana.ua/opinions/333737-vojna-s-vorami-v-zakone-ne-vykhodit-za-predely-obychnoho-piara.html
+	set tags ukraina,vor_v_zakone,zakon
+page
+	set url https://regnum.ru/news/society/3271292.html
+	set tags __may_2021.rossia.kazan.shkola.tragedia,petrov_andrej.blogger.rossia,travlja
+page
+	set url https://ukraina.ru/opinion/20210517/1031389505.html
+	set tags borsch,drevnost',eda,istoria,kiev,kuhnja,ukraina,vavilon
+page
+	set url https://from-ua.com/intervyu/600042-hudozhnik-klimenko-kultura-prevratilas-v-arenu-geopoliticheskoi-bitvi.html
+	set tags hudozhnik,interview,isskustvo,kartina,ukraina
+page
+	set url https://strana.ua/news/333728-blinken-nazval-rossiju-uhrozoj-dlja-evropy-iz-za-situatsii-na-ukrainskoj-hranitse.html
+	set tags armia,evropa,granica,rossia,sevpotok2,ugroza,ukraina
+page
+	set url https://lenta.ru/articles/2021/05/17/guns/
+	set tags __may_2021.rossia.kazan.shkola.tragedia,oruzhie,rossia
+page
+	set url https://news.obozrevatel.com/abroad/genealogiya-vyihodtsev-iz-sssr.htm
+	set tags chelovek,genealogia,istoria,sssr
+page
+	set url http://lug-info.com/news/one/sp-lnr-predstavil-posmertnyi-poeticheskii-sbornik-anatoliya-maltseva-stikhi-na-pamyat-foto-67830
+	set tags lnr,lugansk,poezia
 eof
 off
 page

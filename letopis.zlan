@@ -27349,6 +27349,30 @@ page
 page
 	set url https://news.obozrevatel.com/society/novosti-kryimnasha-rossiya-strana-kotoraya-ne-mozhet-prinesti-schastya.htm
 	set tags rossia,schastje,strana
+page
+	set url https://kiev.strana.ua/333688-v-kieve-passazhir-upal-pod-poezd-metro.html
+	set tags incident,kiev,metro,metro.arsenalnaja,padenie,passazhir,ukraina
+page
+	set url https://kiev.strana.ua/333088-v-metro-kieva-objasnili-pochemu-trebujut-povysit-stoimost-proezda.html
+	set tags cena,kiev,kievrada,kmda,metro,ukraina
+page
+	set url https://ukraina.ru/opinion/20200516/1027714271.html
+	set tags ermitazh.muzei.rossia,mgu.universitet.moskva,sankcii,ukraina,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/society/prud-ohladitel-v-chernobyile-vyisoh-i-zarastaet-kustarnikami-bloger-pokazal-redkie-foto.htm
+	set tags chaes,chernobyl,ukraina,voda
+page
+	set url https://strana.ua/news/333675-v-poezde-uz-lopnula-hnilaja-truba.html
+	set tags odessa,poezd,rahov,ukraina,ukrzaliznycia
+page
+	set url https://strana.ua/opinions/333662-zelenskij-nikak-ne-pojmet-v-chem-nastojashchaja-polza-dlja-ukrainy.html
+	set tags ekonomika,obschestvo,ukraina
+page
+	set url https://strana.ua/opinions/333668-eshche-para-karantinov-i-s-servisom-u-nas-budet-pokoncheno.html
+	set tags karantin,kino,kinoteatr,servis,ukraina
+page
+	set url https://sharij.net/na-sajte-minobrazovaniya-opublikovan-uchebnik-so-ssylkoj-na-pornosajt
+	set tags deti,minobr.ukr,obrazovanie,pornografia,shkola,ucheba,uchebnik,ukraina
 eof
 off
 page

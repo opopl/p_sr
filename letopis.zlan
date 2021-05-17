@@ -27415,6 +27415,21 @@ page
 page
 	set url https://zen.yandex.ru/media/feel_fuck_online/iazyk-i-mentalitet-chto-pervichno-6062228dfa23f523d3fc6348
 	set tags chelovek,language,lingvistika,mentalitet,psihologia,slovo
+page
+	set url https://strana.ua/news/333707-dmitrij-peskov-zajavil-o-defitsite-suvereniteta-v-ukraine.html
+	set tags antirossia,deficit,nenavist,rossia,russofobia,suverenitet,ukraina
+page
+	set url https://strana.ua/news/333717-dmitrij-razumkov-zajavil-chto-medvedchuk-ne-smozhet-prinimat-uchastie-v-zasedanija-vru.html
+	set tags __may_2021.medvedchuk,arest,deputat,razumkov_dmitrii,ukraina,verhovna_rada
+page
+	set url https://strana.ua/news/333693-v-kremle-ne-vosprinjali-serezno-slova-danilova-ob-obmene-medvedchuka.html
+	set tags __may_2021.medvedchuk,danilov_aleksei,medvedchuk_viktor,obmen,peskov_dmitrii,rnbo,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/antikkuban/kak-kiev-stal-kyiv-i-vernulsia-v-svoe-hazarskoe-proshloe-604f4a9a011181447b19a942
+	set tags hazaria,istoria,kiev,kievrus
+page
+	set url https://zen.yandex.ru/media/sergeytsvetkov.livejournal.com/kto-i-kogda-postroil-gorod-kiev-5ea637ea36cf6f401e18d073
+	set tags armenia,istoria,kiev,legenda
 eof
 off
 page

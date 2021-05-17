@@ -27430,6 +27430,33 @@ page
 page
 	set url https://zen.yandex.ru/media/sergeytsvetkov.livejournal.com/kto-i-kogda-postroil-gorod-kiev-5ea637ea36cf6f401e18d073
 	set tags armenia,istoria,kiev,legenda
+page
+	set url https://www.radiosvoboda.org/a/photo-package-israeli-palestinian-conflict-konflikt/31258942.html
+	set tags __may_2021.izrail.palestina.konflikt,grazhdanskoje_naselenie,hamas.dvizhenie,izrail,obstrel,palestina,smert,vojna,zhertva
+page
+	set url https://www.pravda.com.ua/articles/2021/05/17/7293728/
+	set tags klichko_vitalij,ukraina,zelenskii_vladimir
+page
+	set url https://www.pravda.com.ua/columns/2021/05/16/7293672/
+	set tags __may_2021.medvedchuk,arest,cirk,gosizmena,medvedchuk_viktor,ukraina
+page
+	set url https://analytics.hvylya.net/230652-ushcherbnosti-ukrajinskoji-nezalezhnosti-abo-perspektivi-ukrajinskogo-proektu-na-30-mu-roci-derzhavnosti
+	set tags future,ideologia,istoria,mentalitet,nacia,nezalezhnist,ukraina
+page
+	set url https://glavred.info/life/cvyashchennyy-organ-menedzher-ukrpochty-razvoroshila-set-postom-o-sekse-10272687.html
+	set tags chelovek,internet,seks,socset,sovet,ukraina,ukrposhta
+page
+	set url https://glavred.info/stars/predstavitelnica-rossii-na-evrovidenii-2021-vyskazalas-o-go-a-i-konflikte-s-ukrainoy-10272684.html
+	set tags evrovidenie,go_a.gruppa,manizha,muzyka,rossia,showbiz,ukraina
+page
+	set url https://www.radiosvoboda.org/a/krym-voda-perekryttia-damba-2014/31257455.html
+	set tags 2014,__blokada.krym.voda,blokada,dnepr,krym,ukraina,voda
+page
+	set url https://www.radiosvoboda.org/a/archive-kgb/31259206.html
+	set tags arhiv,chelovek,istoria,obschestvo,semja,ukraina
+page
+	set url https://vz.ru/opinions/2021/5/15/1098482.html
+	set tags bulgakov_mihail,kiev,kniga,kniga.master_i_margarita.bulgakov,literatura,rossia,rusmir
 eof
 off
 page

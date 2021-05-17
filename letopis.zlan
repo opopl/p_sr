@@ -27601,6 +27601,9 @@ page
 page
 	set url https://vz.ru/opinions/2021/5/17/1098106.html
 	set tags 1935,francia,gadzhet,obschestvo,smartfon
+page
+	set url https://news.obozrevatel.com/show/people/makarevich-proizvel-furor-na-kontserte-v-poltave-zal-aplodiroval-stoya-foto-i-video.htm
+	set tags koncert,makarevich_andrej,muzyka,poltava,ukraina
 eof
 off
 page

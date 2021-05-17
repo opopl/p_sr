@@ -27496,6 +27496,111 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5fce8cdc60e9760ab703b1f4/podjigateli-6082a9b4ff8fff5a64183cd8
 	set tags politzak,rossia
+page
+	set url https://strana.ua/articles/interview/333732-mat-sudi-nikolaja-chausa-obratilas-k-prezidentu-zelenskomu-s-prosboj-vernut-ej-syna.html
+	set tags chaus_nikolaj.ukr.sudja,ukraina
+page
+	set url https://strana.ua/news/333666-sudja-chaus-pojavilsja-na-video-i-sdelal-zajavlenie-dast-li-on-pokazanija-na-poroshenko.html
+	set tags chaus_nikolaj,poroshenko_petr,ukraina
+page
+	set url https://strana.ua/opinions/333738-presledovanija-medvedchuka-eshche-odin-shah-v-ohranichenii-politicheskoho-pljuralizma.html
+	set tags __may_2021.medvedchuk,obschestvo,politika,presledovanie,ukraina
+page
+	set url https://strana.ua/opinions/333740-nastojashchaja-borba-za-nezavisimost-idet-vovse-ne-na-shestvijakh-rjazhenykh.html
+	set tags borjba,ekonomika,nezalezhnist,rynok,ukraina
+page
+	set url https://strana.ua/opinions/333745-na-ukrainskoj-pochve-ubezhdenija-sobirajut-shchedryj-urozhaj-hluposti-i-tshcheslavija.html
+	set tags glupost,obschestvo,patriotizm,tscheslavie,ukraina
+page
+	set url https://strana.ua/news/333751-sud-zapretil-medvedchuku-obshchatsja-s-kozakom.html
+	set tags __may_2021.medvedchuk,kozak_dmitrii,medvedchuk_viktor,opzzh,sud.kiev.pecherskij,ukraina
+page
+	set url https://www.pravda.com.ua/news/2021/05/17/7293864/
+	set tags film,krym,minkult.ukraina,ukraina,zapret
+page
+	set url http://lug-info.com/news/one/komandy-luganska-i-stakhanova-pobedili-v-respublikanskom-konkurse-slete-yunykh-ekskursovodov-foto-67859
+	set tags ekskursia,ekskursovod,konkurs,krasnodon.lnr,lnr,molodezh,stahanov.lnr
+page
+	set url https://glavred.info/world/spiker-putina-nazhalovalsya-na-ukrainu-i-vyskazalsya-o-dialoge-s-kievom-10272660.html
+	set tags dip_otnoshenia,kiev,peskov_dmitrii,putin_vladimir,rossia,ukraina
+page
+	set url https://fraza.com/column/144199-%C2%ABokkupaj%C2%BB_po_odesski
+	set tags aktivist,obschestvo,odessa,okkupaj.odessa,ukraina
+page
+	set url https://analytics.hvylya.net/230666-kak-sozdavali-ruslan-i-mriyu-vospominaniya-k-90-letiyu-generalnogo-aviakonstruktora-petra-balabueva
+	set tags 23_may,90_let,an225,avia,balabujev_petr.kb_antonov,istoria,kb_antonov,mechta,rossia,ruslan.samolet,samolet,ukraina
+page
+	set url https://hvylya.net/news/230642-nbc-news-donbass-okazalsya-na-grani-ekologicheskoy-katastrofy
+	set tags donbass,ekologia,katastrofa,ukraina
+page
+	set url https://zen.yandex.ru/media/yasimf/nad-gorodom-kreml-a-nad-kremlem-tolko-bog-rasskazyvaiu-istoriiu-moskovskogo-kremlia-6054c04789855f0fdec78346
+	set tags arhitektura,istoria,kreml,moskva,poslovica,rossia,rusmir,zodchestvo
+page
+	set url https://regnum.ru/news/3264645.html
+	set tags bessmertnyj_polk,den_pobedy,dnr,donbass,doneck,mankurt,montjan_tatjana.advokat.kiev,portret,zelenskii_vladimir
+page
+	set url https://ukraina.ru/exclusive/20210517/1031390738.html
+	set tags __may_2021.medvedchuk,arest,medvedchuk_viktor,opzzh,presledovanie,repressii,ukraina,vojna
+page
+	set url https://ukraina.ru/exclusive/20210517/1031391782.html
+	set tags banosh.eda.guculy,eda,guculy,kuhnja,kulinaria,recept,tradicii,ukraina
+page
+	set url https://news.obozrevatel.com/russia/uyazvimyie-mesta-rossii-na-kotoryie-ne-obraschayut-vnimanie.htm
+	set tags davlenie,rossia,sankcii,zapad
+page
+	set url https://www.volyn.com.ua/news/182811-u-kyievi-strybnuv-z-mosta-15-richnyi-khlopets-batky-iakoho-v-berezni-pomerly-vid-covid-19
+	set tags deti,kiev,malchik,most,podrostki,roditeli,suicid,ukraina
+page
+	set url https://www.volyn.com.ua/news/182602-lutskym-hvardiikam-podaruvaly-bili-troiandy-foto
+	set tags cerkov,cvety,luck,podarok,pravoslavie,ukraina,woman
+page
+	set url https://zen.yandex.ru/media/dutch_in_russia/pervoe-vpechatlenie-gollandca-o-rossii-i-liudiah-605f9e6b7e40c468537495c8
+	set tags gollandec_v_rossii,gollandia,moskva,puteshestvie,rossia,turizm,vpechatlenie,zhizn
+page
+	set url https://gazeta.ua/blog/54845/ne-zavzhdi-zahidne-rozuminnya-golokostu-pracyuye-vidpovidno-do-ukrayinskih-realij
+	set tags evrei,golokost,istoria,kommunizm,sssr,stalin_iosif,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/kultura/myhaylo-bulgakov-kyyiv-i-kyyany
+	set tags bulgakov_mihail,istoria,kiev,kievljane,literatura,sssr,ukraina
+page
+	set url https://zen.yandex.ru/media/kritikstar/skazka-stranstvii--1983-chitaem-otzyvy-zarubejnyh-zritelei-609d8401a9cac6315170caee
+	set tags 1983,chelovek,film,film.skazka_stranstvij.1983,kino,kultura,mitta_aleksandr.rezhisser.sssr,muzyka,shnitke_alfred.kompozitor,skazka,sssr
+page
+	set url https://lgaki.info/novosti/vpervye-na-smart-start-prishlo-pochti-200-rabot-v-tom-chisle-iz-primorskogo-kraya-rf/
+	set tags deti,lgaki,lingvistika,lnr,lugansk,molodezh,perevod
+page
+	set url https://zen.yandex.ru/media/id/5ffef3fe04e1c0191eb118c3/ania-scerbakova-stavit-shah-heiteram-i-zapuskaet-novyi-chellendj-60996c3755f6b841384dcbeb
+	set tags figurist,figurnoje_katanie,krasota,rossia,scherbakova_anna.rossia.figurist
+page
+	set url https://zaxid.net/v_nas_selo_nezradlive_n1519008
+	set tags chelovechnost,chelovek,evrei,golokost,istoria,pravednik,selo,spasenie,ukraina
+page
+	set url https://zen.yandex.ru/media/skobari_na_vyatke/kupalskaia-noch-608ad560d348406df5a1b2d5
+	set tags prazdnik.ivana_kupala,rossia,rusmir,slavjane,tradicii
+page
+	set url https://strana.ua/news/333715-chto-dumajut-deputaty-rady-o-holosovanii-po-otstavke-maksima-stepanova.html
+	set tags golosovanie,otstavka,stepanov_maksim,suprun_uljana,ukraina,verhovna_rada
+page
+	set url https://strana.ua/opinions/333782-juristy-okazalis-samoj-depressivnoj-professiej.html
+	set tags chelovechnost,chelovek,depressia,jurist,professia,psihologia
+page
+	set url https://strana.ua/opinions/333785-vsja-eta-dur-i-skandaly-v-novostjakh-sposob-otvlech-nas-ot-hlavnoho.html
+	set tags chelovek,novosti,ukraina
+page
+	set url https://strana.ua/opinions/333791-chaus-nashelsja-stepanov-upiraetsja-klichko-ohryzaetsja.html
+	set tags itogi,ukraina
+page
+	set url https://ukraina.ru/news/20210517/1031392862.html
+	set tags mova,tkachenko_aleksandr,ukraina,ukrainizacia
+page
+	set url https://lenta.ru/news/2021/05/17/erdocurse/
+	set tags __may_2021.izrail.palestina.konflikt,avstria,erdogan_redzhep_tajip,izrail,palestina,prokljatie,turcia,vena.avstria.stolica
+page
+	set url https://regnum.ru/news/polit/3271119.html
+	set tags evroparlament,rossia,zapad
+page
+	set url https://vz.ru/opinions/2021/5/17/1098106.html
+	set tags 1935,francia,gadzhet,obschestvo,smartfon
 eof
 off
 page

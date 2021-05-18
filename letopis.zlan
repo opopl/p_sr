@@ -27688,6 +27688,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/news-donbas-divchynka-boyovyky-poranennia/31260629.html
 	set tags devochka,donbass,lnr,ranenie,sverdlovsk.lnr,vojna
+page
+	set url https://www.radiosvoboda.org/a/yak-zberehty-sadybu-sikorskoho-v-kyevi/31259890.html
+	set tags arhitektura,dom,istoria,kiev,sikorskii_igor,sohranenie,tkachenko_aleksandr,ukraina,ulica.kiev.jaroslavov_val
 eof
 off
 page

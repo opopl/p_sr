@@ -27746,6 +27746,21 @@ page
 page
 	set url https://www.radiosvoboda.org/a/ukrayina-pluzhnyk-antonych-falkivsky/31257960.html
 	set tags istoria,kultura,literatura,rossia,ukraina
+page
+	set url https://kiev.strana.ua/333915-v-kieve-18-maja-idet-dozhd-video-nepohody.html
+	set tags grad.pogoda,groza,kiev,pogoda,ukraina
+page
+	set url https://analytics.hvylya.net/230700-deportaciya-dazhe-veteranov-borovshihsya-s-fashizmom-otpravili-na-specposeleniya-moskva-seychas-kak-i-v-1944-presleduet-krymskih-tatar
+	set tags 1944,deportacia.tatary.1944,istoria,krym,krym_tatary,sssr,stalin_iosif
+page
+	set url https://ukraina.ru/exclusive/20210518/1031396098.html
+	set tags bolsheviki,institut_nacpamjati,istoria,kiev,nacia,narod,pamjat,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210509/1031283220.html
+	set tags dekomunizacia,demontazh,istoria,lvov,monument_slavy.lvov,pamjat,sssr,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210518/1031398757.html
+	set tags ekspert,imitacia,obschestvo,realnost',rossia,ukraina
 eof
 off
 page

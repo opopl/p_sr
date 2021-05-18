@@ -27713,6 +27713,33 @@ page
 page
 	set url https://www.pravda.com.ua/news/2021/05/17/7293877/
 	set tags harkov,kiev,pritula_sergej,ukraina
+page
+	set url https://strana.ua/news/333848-v-ukraine-priletela-partija-vaktsin-pfizer-ot-covax.html
+	set tags covid,pfizer,samolet,ukraina,vaccine
+page
+	set url https://zen.yandex.ru/media/valerongrach/anna-iaroslavna-koroleva-francii-kakoi-ona-byla-russkoi-kievskoi-ili-skandinavskoi-608502d4d77cf0380366f603
+	set tags anna_jaroslavna,francia,istoria,kiev,kievrus
+page
+	set url https://zen.yandex.ru/media/vad_nes/chernigov-odna-iz-nesuscih-konstrukcii-drevnei-rusi-6045de9f58285736dd306ba4
+	set tags chernigov,drevrus,istoria,kievrus
+page
+	set url https://zen.yandex.ru/media/stepan_korolkov/zachem-vy-nosites-s-etim-dnem-pobedy-nu-pobedili-i-pobedili-govoriat-nekotorye-vse-chasce-no-ia-v-korne-ne-soglasen-6092ef86a5f87026b1bb1a3c
+	set tags den_pobedy,istoria,rossia,rusmir,sssr,zhukov_georgii
+page
+	set url https://kiev.strana.ua/333906-v-bolnitse-umer-podrostok-kotoryj-vchera-priekhal-v-kiev-iz-sela-i-pryhnul-s-mosta.html
+	set tags kiev,podrostki,policia,smert,suicid,ukraina
+page
+	set url https://news.obozrevatel.com/society/pod-kievom-podrostok-iz-semi-gde-roditeli-umerli-ot-koronavirusa-spryignul-s-mosta.htm
+	set tags kiev,podrostki,semja,smert,suicid,ukraina
+page
+	set url https://news.obozrevatel.com/society/apostol-svobodyi-hose-marti-menya-byi-ponyal.htm
+	set tags kiev,kuba,marti_hose.kuba.poet,pamjat,pavlychko_dmytro.poet.ukr,poezia,ukraina
+page
+	set url https://zen.yandex.ru/media/kritikstar/sovetskii-karlson-glazami-zarubejnyh-zritelei-609439684461ec746c88a33d
+	set tags istoria,karlson,kultura,multik,multik.malysh_i_karlson,rusmir
+page
+	set url https://strana.ua/news/333927-v-rossii-izvestnyj-solist-baleta-upal-s-elektrosamokata-poluchil-travmy-i-vpal-v-komu.html
+	set tags balet,padenie,rossia,samokat,st_peterburg,teatr.mariinskij.piter,travma,trepanacia
 eof
 off
 page

@@ -27691,6 +27691,22 @@ page
 page
 	set url https://www.radiosvoboda.org/a/yak-zberehty-sadybu-sikorskoho-v-kyevi/31259890.html
 	set tags arhitektura,dom,istoria,kiev,sikorskii_igor,sohranenie,tkachenko_aleksandr,ukraina,ulica.kiev.jaroslavov_val
+page
+	set url https://www.radiosvoboda.org/a/news-u-kyevi-bilia-aeroportu-vstanovliujut-pamjatnyk-sikorskomu/30127850.html
+	set tags aeroport.kiev,kiev,klichko_vitalij,pamjatnik,sikorskii_igor,ukraina
+page
+	set url https://www.vesti.ru/article/2561099
+	set tags __may_2021.rossia.kazan.shkola.tragedia,chelovek,ignatjeva_elvira.kazan,rossia,smert,zhizn
+page
+	set url https://regnum.ru/news/society/3271607.html
+	set tags moskva,obschestvo,pogoda,rossia,teplo,zhara
+page
+	set url https://sharij.net/perechpokal-vsyu-via-gru-kto-iz-zvezd-podderzhal-ani-lorak-a-kto-konstantina-meladze-v-neutihayushhem-seks-skandale
+	set tags ani_lorak,meladze_konstantin,seks,seks_skandal,showbiz,skandal,ukraina
+page
+	set url https://www.pravda.com.ua/cdn/graphics/2021/samopovernennja_v_krym/
+	set tags 1944,istoria,krym_tatary,ukraina,vozvraschenie
+	set date 18_05_2021
 eof
 off
 page

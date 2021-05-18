@@ -27707,6 +27707,12 @@ page
 	set url https://www.pravda.com.ua/cdn/graphics/2021/samopovernennja_v_krym/
 	set tags 1944,istoria,krym_tatary,ukraina,vozvraschenie
 	set date 18_05_2021
+page
+	set url https://strana.ua/articles/analysis/333780-kak-sluhi-naroda-khotjat-reformirovat-sbu.html
+	set tags reformi,sbu,sluga_naroda,ukraina,verhovna_rada
+page
+	set url https://www.pravda.com.ua/news/2021/05/17/7293877/
+	set tags harkov,kiev,pritula_sergej,ukraina
 eof
 off
 page

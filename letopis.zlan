@@ -27637,6 +27637,57 @@ page
 page
 	set url https://www.vesti.ru/article/2561877
 	set tags __may_2021.rossia.kazan.shkola.tragedia,bolnica,deti,lechenie,moskva,rossia
+page
+	set url https://www.vesti.ru/article/2561837
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.vesti.ru/article/2561730
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://www.vesti.ru/article/2561124
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://strana.ua/news/333695-press-konferentsii-zelenskoho-2019-2020-chto-na-nikh-obeshchal-prezident-ukrainy.html
+	set tags donbass,obeschanie,poroshenko_petr,press_konferencia,ukraina,zelenskii_vladimir,zhurnalist
+page
+	set url https://strana.ua/opinions/333821-zelenskij-vytesnjaet-ukrainskuju-auditoriju-na-rossijskie-kanaly.html
+	set tags cenzura,rossia,telekanaly,tv,tv.rossia,ukraina,zapret,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/333823-polsha-pokazyvaet-primer-toho-kak-nado-vyvodit-narod-iz-pandemii.html
+	set tags ekonomika,polsha,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/333824-my-s-vami-nabljudaem-zakat-professii-analitika.html
+	set tags professia,professia.analitik,ukraina,zakat
+page
+	set url https://strana.ua/opinions/333825-bolshaja-privatizatsija-obektivno-nuzhna-ukraine.html
+	set tags ekonomika,privatizacia,ukraina
+page
+	set url https://strana.ua/news/333798-stepanov-protiv-zelenskoho-klichko-ne-chernovetskij-ukraina-popala-v-hum.html
+	set tags es,evropa,gruzia,moldova,politika,ukraina
+page
+	set url https://kiev.strana.ua/333846-strana-uznala-chto-18-maja-k-domu-klichko-prishli-pravookhraniteli.html
+	set tags klichko_vitalij,policia,ukraina
+page
+	set url https://news.obozrevatel.com/kiyany/life/siloviki-ustroili-maski-shou-v-dome-klichko-vse-detali.htm
+	set tags davlenie,kiev,klichko_vitalij,kvartira,policia,sbu,silovik,ukraina
+page
+	set url https://news.obozrevatel.com/abroad/chto-mozhet-odin-on-mozhet-zastavit-vspomnit-yazyik-zabyityij-2-tyis-let-nazad.htm
+	set tags _important,evrei,fraza,ivrit,izrail,narod,perelman_eliezer.izrail.otec_ivrita,ukraina
+page
+	set url https://news.obozrevatel.com/dnipro/boris-filatov-o-dne-pobedyi-etot-svyatoj-prazdnik-dolzhen-byit-bez-partijnyih-flagov-i-spekulyatsij.htm
+	set tags 9_may,den_pobedy,dnepropetrovsk,filatov_boris,mirvojna2,prazdnik,ukraina,vov
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-deti-ezhechasno-uhodili-iz-zhizni-a-materi-i-ottsyi-ryili-im-mogilyi.htm
+	set tags 1944,ekstremizm,genocid,krym,krym_tatary,rossia
+page
+	set url https://zaxid.net/lvivski_hirurgi_vidalili_nadzvichayno_ridkisnu_puhlinu_shiyi_u_40_richnogo_patsiyenta_n1519043
+	set tags cancer,hirurgia,lvov,operacia,opuhol,ukraina
+page
+	set url https://www.vesti.ru/article/2561162
+	set tags __may_2021.rossia.kazan.shkola.tragedia,deti,erdogan_redzhep_tajip,murder,rasstrel,rossia,shkola,soboleznovanie,tragedia,turcia
+page
+	set url https://www.radiosvoboda.org/a/news-donbas-divchynka-boyovyky-poranennia/31260629.html
+	set tags devochka,donbass,lnr,ranenie,sverdlovsk.lnr,vojna
 eof
 off
 page

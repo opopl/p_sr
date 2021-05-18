@@ -27740,6 +27740,12 @@ page
 page
 	set url https://strana.ua/news/333927-v-rossii-izvestnyj-solist-baleta-upal-s-elektrosamokata-poluchil-travmy-i-vpal-v-komu.html
 	set tags balet,padenie,rossia,samokat,st_peterburg,teatr.mariinskij.piter,travma,trepanacia
+page
+	set url https://gazeta.ua/articles/politics/_medvedchuk-ne-nablizhenij-do-putina-vin-shistka-bihusinfo/1032364
+	set tags kreml,medvedchuk_viktor,putin_vladimir,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-pluzhnyk-antonych-falkivsky/31257960.html
+	set tags istoria,kultura,literatura,rossia,ukraina
 eof
 off
 page

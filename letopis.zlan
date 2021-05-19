@@ -27761,6 +27761,111 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210518/1031398757.html
 	set tags ekspert,imitacia,obschestvo,realnost',rossia,ukraina
+page
+	set url https://strana.ua/news/333854-zolushka-novyj-film-s-akterom-heem-billi-porterom-pochemu-on-vyzval-skandal.html
+	set tags film,film.zolushka,gender,kino,kultura,rossia,ukraina,zapad,zolushka
+page
+	set url https://strana.ua/news/333849-proekt-signature-reduction-chto-izvestno-o-samoj-zasekrechennoj-razvedke-ssha.html
+	set tags internet,pentagon,socset,usa,world
+page
+	set url https://ukraina.ru/opinion/20210518/1031404133.html
+	set tags kommunizm,portugalia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/izraelsko-palestynskyj-konflikt-tryvaje-photogalereja/31261445.html
+	set tags __may_2021.izrail.palestina.konflikt,foto,hamas.dvizhenie,izrail,izrail_vs_palestina,palestina,sektor_gaza,vojna
+page
+	set url https://strana.ua/news/334111-ukraintsev-vyvezut-iz-sektora-haza-cherez-ehipet.html
+	set tags __may_2021.izrail.palestina.konflikt,egipet,evakuacia,izrail,mzs,palestina,sektor_gaza,ukraina,zelenyj_koridor
+page
+	set url https://strana.ua/opinions/333996-sistema-dija-kotoroj-tak-hordjatsja-na-holovu-nizhe-analohu-iz-oae.html
+	set tags dija.sistema.komputer,internet,it,oae,sravnenie,ukraina
+page
+	set url https://strana.ua/opinions/333947-posle-epokhi-kommunistov-i-komsomoltsev-v-nashej-politike-nastupila-pionerskaja-zarja.html
+	set tags kommunizm,komsomol,nacia,obschestvo,pioner,ukraina
+page
+	set url https://strana.ua/opinions/333869-nikto-poroshenko-v-ukraine-presledovat-ne-budet.html
+	set tags poroshenko_petr,presledovanie,ukraina,vlast
+page
+	set url https://strana.ua/opinions/333872-klichko-moh-by-podtverdit-prezidentskie-ambitsii-protsvetajushchim-kievom.html
+	set tags kiev,klichko_vitalij,stagnacia,ukraina
+page
+	set url https://strana.ua/opinions/333893-v-konstitutsii-ne-napisano-chto-vysshij-sovet-pravosudija-formirujut-sorosjata.html
+	set tags konstitucia,pravosudie,sorosjata,ukraina
+page
+	set url https://strana.ua/opinions/333941-nedra-pochemu-to-stali-ne-moi-a-koboleva-ukrposhta-ne-moja-a-smeljanskoho.html
+	set tags nedra,obschestvo,ukraina
+page
+	set url https://strana.ua/opinions/333943-vazhno-ne-to-chto-vy-dumaete-o-konflikte-i-na-chej-vy-storone.html
+	set tags __may_2021.izrail.palestina.konflikt,biblia,bog,humanity,izrail,palestina,ukraina
+page
+	set url https://strana.ua/opinions/333950-evropa-ne-spravljaetsja-s-orhanizovannym-desantom-bezhentsev.html
+	set tags bezhenec,desant,evropa
+page
+	set url https://strana.ua/opinions/334025-vot-tak-i-zhivem-lataem-dyry-a-ne-shem-novuju-odezhdu.html
+	set tags ekonomika,obschestvo,razvitie,ukraina
+page
+	set url https://strana.ua/opinions/334027-delo-ne-v-etikh-spektakljakh-vokruh-klichko.html
+	set tags kiev,klichko_vitalij,ukraina
+page
+	set url https://strana.ua/opinions/334030-v-teploj-vanne-zelenskoho-budet-tolko-teplaja-voda.html
+	set tags obschestvo,ofis_prezidenta,prezident,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334074-klichko-sreahiroval-na-vizit-silovikov-chrezvychajno-nervno.html
+	set tags kiev,klichko_vitalij,sbu,silovik,ukraina
+page
+	set url https://strana.ua/opinions/334084-dobro-pozhalovat-v-postroennoe-vami-hosudarstvo-petr-alekseevich.html
+	set tags poroshenko_petr,ukraina
+page
+	set url https://strana.ua/opinions/334092-ukraina-mohla-prekrasno-zhit-v-statuse-mosta-mezhdu-evropoj-i-evraziej.html
+	set tags evrasia,evropa,geopolitika,most,ukraina
+page
+	set url https://strana.ua/news/334086-evrovidenie-2021-v-sotssetjakh-solistku-go_a-sravnili-s-triniti-iz-matritsy.html
+	set tags evropa,evrovidenie,go_a.gruppa,konkurs,muzyka,showbiz,tvorchestvo,ukraina,verka_serduchka
+page
+	set url https://strana.ua/news/334095-v-belarusi-razbilsja-voennyj-samolet-video-s-mesta-sobytij.html
+	set tags avia,belarus,katastrofa,samolet
+page
+	set url https://strana.ua/news/334071-viktor-ljashko-kto-mozhet-vozhlavit-minzdrav-ukrainy-skandaly-i-svjaz-s-suprun.html
+	set tags ljashko_oleg,minzdrav,sorosjata,suprun_uljana,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-mova-kontsepsiya-2030/31263022.html
+	set tags kabmin,mova,ukraina,ukrainizacia
+page
+	set url http://lug-info.com/news/one/organizatory-opredelili-pobeditelei-konkursa-risunka-okhrana-truda-glazami-detei-lnr-foto-67930
+	set tags deti,konkurs,lnr
+page
+	set url http://lug-info.com/news/one/teatr-estradnoi-muzyki-i-pesni-luganska-priglashaet-na-muzykalnye-vechera-67925
+	set tags koncert,lnr,lugansk,muzyka,priglashenie
+page
+	set url http://lug-info.com/news/one/proekt-druzhina-priglashaet-zhitelei-lnr-prinyat-uchastie-v-sorevnovaniyakh-po-krossfitu-67929
+	set tags druzhina.lnr.projekt,krossfit,lnr,lugansk,priglashenie,sorevnovanie
+page
+	set url https://ukraina.ru/exclusive/20210519/1031410460.html
+	set tags druzhba,evrovidenie,go_a.gruppa,manizha,muzyka,politika,rossia,ukraina
+page
+	set url https://ukraina.ru/news/20210519/1031409454.html
+	set tags kiev,koncert,makarevich_andrej,muzyka,ukraina
+page
+	set url https://sharij.net/kusochek-veneczii-v-kieve-iz-za-livnya-zatopilo-uliczu
+	set tags dozhd,kiev,pogoda,potop,ukraina,venecia,voda
+page
+	set url https://sharij.net/zazhigatelnye-go-a-padshij-angel-i-temnokozhaya-izrailtyanka-kak-proshel-polufinal-evrovideniya-2021-i-na-kogo-stavyat-bukmekery
+	set tags evrovidenie,go_a.gruppa,kultura,manizha,muzyka,rossia,showbiz,ukraina
+page
+	set url https://strana.ua/finance/333964-politiki-i-biznesmeny-snimajut-vklady-s-bankovskikh-schetov-i-otvozjat-ikh-v-komnaty-deneh.html
+	set tags ekonomika,finansy,rnbo,sankcii,ukraina
+page
+	set url https://vz.ru/opinions/2021/5/19/1099832.html
+	set tags aglomeracia,gorod,obschestvo,rossia,st_peterburg,zlo
+page
+	set url https://plus.obozrevatel.com/crime/zhenschina-vyibrosivshaya-v-aeroportu-ukrainskie-pasporta-popala-v-bazu-mirotvortsa-foto.htm
+	set tags mirotvorec_sajt,novorossia,passport,skandal,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/nikomu-ne-pozvolim-izdevatsya-nad-ukrainskij-pasportom.htm
+	set tags geraschenko_anton,harkov,passport,skandal,ukraina
+page
+	set url https://from-ua.com/articles/600290-kto-isportil-vladimira-zelenskogo.html
+	set tags nacia,nacionalizm,patriotizm,politika,poroshenko_petr,ukraina,zelenskii_vladimir
 eof
 off
 page

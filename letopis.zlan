@@ -27983,6 +27983,51 @@ page
 page
 	set url https://www.radiosvoboda.org/a/news-go-a-shum-evrobachennia/31263769.html
 	set tags evrovidenie,go_a.gruppa,manizha,muzyka,rossia,showbiz,ukraina,youtube
+page
+	set url https://lb.ua/economics/2018/02/15/390210_poezd_kievmoskva_stal_samim.html
+	set tags ekonomika,finansy,kiev,moskva,poezd,poezd.kiev_moskva,pribyl,rossia,ukraina,ukrzaliznycia
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/vony-pomerly-vid-sumu
+	set tags ukraina
+page
+	set url https://regnum.ru/news/society/3270138.html
+	set tags 1876,kiev,kievka.rossia.1876,obschestvo,rossia,rusimperia,zhizn
+page
+	set url https://zen.yandex.ru/media/lubaslava/kitej-grad-russkaia-atlantida-60872b8b98f0f555640cd135
+	set tags atlantida,istoria,kitezh_grad,legenda,rossia
+page
+	set url https://zen.yandex.ru/media/id/5f6c4aab1283c934c007759a/rossiia-i-evropa-o-evropeiskom-i-aziatskom-v-rossii-608dce59c235fb60b6f96938
+	set tags asia,dostojevskii_fedor,evropa,istoria,rossia
+page
+	set url https://zen.yandex.ru/media/world_of_figure_skating/istoricheskii-rossiiskii-pedestal-u-jenscin-vsem-heiteram-nazlo-605e55973d911e18a5464883
+	set tags chempionat,figurist,figurnoje_katanie,pobeda,rossia,scherbakova_anna.rossia.figurist,sorevnovanie,sport,trusova_aleksandra,tuktamysheva_elizaveta.rossia.figurist
+page
+	set url https://zen.yandex.ru/media/world_of_figure_skating/alina-zagitova-otprazdnovala-svoi-den-rojdeniia-v-usloviiah-samoizoliacii-60a50638c76c0b7635d914b9
+	set tags birthday,figurist,figurnoje_katanie,japonia,rossia,zagitova_alina.figurist.rossia
+page
+	set url https://zen.yandex.ru/media/volleybox/cennoe-mnenie-pochemu-dominiruiut-rossiiskie-figuristki-606018f5188a9f73596dd20c
+	set tags dominirovanie,figurist,figurnoje_katanie,rossia,scherbakova_anna.rossia.figurist,sport,trusova_aleksandra,tuktamysheva_elizaveta.rossia.figurist
+page
+	set url https://zen.yandex.ru/media/otkritaya_seminariya/missiia-rusi-60a0dba43ce0c13106e48c0f
+	set tags bog,missia,moskva,narod,pravoslavie,rossia,rus',vera,istoria
+page
+	set url https://zen.yandex.ru/media/id/5ec8baa730f3950eeeba32b6/babii-god-609b9fcaf50f1457c123c0ec
+	set tags istoria,rossia,rusmir,slavjane,tradicii
+page
+	set url https://zen.yandex.ru/media/stihiavv/smeialis-devochki-hihi-vysockii-stal-pisat-stihi-6056c58e7d5c247f6fe46f8e
+	set tags kultura,poezia,sssr,vysockij_vladimir.bard
+page
+	set url https://zen.yandex.ru/media/id/5cda083dda97b800b4826e4d/az-esm-ia-sem-605dd2a49a49cb03ecf07f49
+	set tags alfavit,azbuka,filologia,language,rusmir,slovo
+page
+	set url https://zen.yandex.ru/media/statjidmitrijamarta/valentina-karbovskaia-rossiiane-nashi-bratia-navek-609f771168e89b2ef96d69b5
+	set tags belarus,bratstvo,rossia
+page
+	set url https://zen.yandex.ru/media/ukrru/mihail-bulgakov-a-pamiat-o-petliure-da-sginet-60a1932076444c34754e49ec
+	set tags 130_let,bulgakov_mihail,cvety,istoria,kiev,kniga.master_i_margarita.bulgakov,pamjatnik
+page
+	set url https://zen.yandex.ru/media/ukrru/russkii-ukrainec-ia-za-nenku-609ba3ed5896cd3bee997a47
+	set tags rossia,ukraina
 eof
 off
 page

@@ -27866,6 +27866,9 @@ page
 page
 	set url https://from-ua.com/articles/600290-kto-isportil-vladimira-zelenskogo.html
 	set tags nacia,nacionalizm,patriotizm,politika,poroshenko_petr,ukraina,zelenskii_vladimir
+page
+	set url https://regnum.ru/news/society/3273340.html
+	set tags arhitektura,cerkov,hram,pravoslavie,rossia
 eof
 off
 page

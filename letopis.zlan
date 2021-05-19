@@ -27968,6 +27968,21 @@ page
 page
 	set url https://www.segodnya.ua/oldarchive/c2256713004f33f5c2256b5e003b9718.html
 	set tags chelovek,gorod,istoria,kiev,kultura,muzyka,sssr,ukraina,vysockij_vladimir.bard
+page
+	set url https://v-vysotsky.com/Vysotsky_v_Kijeve/text01.html
+	set tags istoria,kiev,kultura,muzyka,sssr,ukraina,vysockij_vladimir.bard
+page
+	set url https://strana.ua/news/334226-kanalu-pershij-nezalezhnij-otkazali-v-akkreditatsii-na-press-konferentsiju-zelenskoho.html
+	set tags akkreditacia,ofis_prezidenta,otkaz,pershyj_nezalezhnyj,press_konferencia,telekanal,tv,ukraina,zelenskii_vladimir,zhurnalist
+page
+	set url https://strana.ua/opinions/334223-u-nas-v-mode-kakaja-to-partijnaja-ideolohizirovannaja-chelovechnost.html
+	set tags chelovechnost,chelovek,izbiratelnost,obschestvo,sochuvstvie
+page
+	set url https://strana.ua/news/334228-chernobylskij-zapovednik-opublikoval-foto-tsvetov-kotorye-luchshe-ne-njukhat.html
+	set tags chernobyl,cvety,foto,ukraina,zapovednik.chernobyl
+page
+	set url https://www.radiosvoboda.org/a/news-go-a-shum-evrobachennia/31263769.html
+	set tags evrovidenie,go_a.gruppa,manizha,muzyka,rossia,showbiz,ukraina,youtube
 eof
 off
 page

@@ -28130,6 +28130,54 @@ page
 page
 	set url https://ukraina.ru/opinion/20210520/1031420001.html
 	set tags identichnost',ideologia,mentalitet,nacia,nacidea,narod,nicoi_larisa,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210520/1031425266.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,kiev,press_konferencia,ukraina,zelenskii_vladimir
+page
+	set url https://lenta.ru/news/2021/05/20/dientes/
+	set tags putin_vladimir,rossia,zuby
+page
+	set url https://lb.ua/society/2020/06/12/459670_kiev_dvoe_sutok_ustanovil_dva.html
+	set tags kiev,leto,pogoda,rekord,ukraina
+page
+	set url https://lb.ua/society/2021/05/20/485136_komisiya_kiivradi_pidtrimala_proiekt.html
+	set tags demontazh,kiev,kievrada,kmda,moskva,pamjatnik.kiev.ukr.druzhba_kiev_moskva,ukraina
+page
+	set url https://lb.ua/society/2020/03/04/451642_godu_kiev_nameren_visadit.html
+	set tags gorod,kiev,park,posadka.derevja,priroda,ukraina
+page
+	set url https://strana.ua/news/334348-serhej-shcherbich-v-sude-rasskazal-kak-eho-pokhishchal-i-pytal-serhej-sternenko.html
+	set tags odessa,sternenko_sergei,sud,ukraina
+page
+	set url https://strana.ua/news/334342-zelenskij-obmolvilsja-chto-hotov-prestupit-zakon.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,ukraina,zakon,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334345-zelenskij-v-den-vyshivanki-opublikoval-foto-v-russkoj-kosovorotke.html
+	set tags den.vyshyvanki.ukr,kosovorotka,russkie,ukraina,vyshyvanka,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334329-pojavilsja-tekst-zakonoproekta-o-korennykh-narodakh-ukrainy.html
+	set tags krym_tatary,narod,narod.korennoj,russkie,ukraina,verhovna_rada,zakon
+page
+	set url https://strana.ua/opinions/334029-pochemu-dlja-zelenskoho-podderzhka-tatar-vazhnee-chem-podderzhka-russkojazychnykh.html
+	set tags krym_tatary,narod.korennoj,nenavist,ukraina,verhovna_rada,zakon,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334338-strane-vtoroj-hod-podrjad-ne-dali-zadat-vopros-zelenskomu-na-press-konferentsii.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,bumerang,kb_antonov,krjukova_svetlana,kvartal95,prezident,rnbo,sankcii,strana_ua,ukraina,vopros,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334310-ukrainskim-elitam-teper-pridetsja-iskat-novye-istochniki-dokhoda.html
+	set tags dohod,ekonomika,elita,muzhestvo,psihika,rossia,sankcii,sevpotok2,ukraina,usa,zdorovje,zdorovje.psihika
+page
+	set url https://strana.ua/opinions/334353-za-tri-chasa-press-konferentsii-zelenskomu-ne-zadali-ni-odnoho-voprosa-po-tarifam.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,press_konferencia,tarify,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334355-prezidentu-pora-by-znat-chto-konstitutsija-orlika-ne-byla-konstitutsiej.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,konstitucia,konstitucia.orlika,orlik_filip,ukraina,zelenskii_vladimir
+page
+	set url https://lb.ua/news/2016/07/11/339909_parubiy_krestniy_hod_kiev.html
+	set tags cerkov,kiev,kreml,krestnyj_hod,parubii,pravoslavie,ukraina,upc
+page
+	set url https://lb.ua/society/2015/03/02/297231_borba_vecherniy_kiev.html
+	set tags gazeta,gazeta.kiev.vechernij_kiev,gazeta.kiev.vesti,kiev,smi,ukraina
 eof
 off
 page

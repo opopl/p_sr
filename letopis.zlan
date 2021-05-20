@@ -28118,6 +28118,18 @@ page
 page
 	set url https://news.obozrevatel.com/politics/zelenskij-myi-stroim-mirnuyu-ukrainu-dlya-lyudej-a-ne-dlya-sotni-forbes.htm
 	set tags __may_2021.zelenskii.press_konferencia.kiev,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/05/20/7294148/
+	set tags kiev,klichko_vitalij,prezident,ukraina,vybory
+page
+	set url https://blogs.pravda.com.ua/authors/bogomolec/60a60caa9d4d0/
+	set tags cancer,lechenie,medicina,melanoma,obschestvo,spasenie,ukraina,zhizn
+page
+	set url https://www.vesti.ru/article/2564158
+	set tags __may_2021.rossia.kazan.shkola.tragedia,policia,rossia,uvolnenie
+page
+	set url https://ukraina.ru/opinion/20210520/1031420001.html
+	set tags identichnost',ideologia,mentalitet,nacia,nacidea,narod,nicoi_larisa,ukraina
 eof
 off
 page

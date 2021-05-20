@@ -28178,6 +28178,105 @@ page
 page
 	set url https://lb.ua/society/2015/03/02/297231_borba_vecherniy_kiev.html
 	set tags gazeta,gazeta.kiev.vechernij_kiev,gazeta.kiev.vesti,kiev,smi,ukraina
+page
+	set url https://strana.ua/news/334149-press-konferentsija-zelenskoho-sehodnja-prjamaja-transljatsija-hlavnye-zajavlenija-onlajn.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,kiev,press_konferencia,ukraina,zelenskii_vladimir
+page
+	set url https://www.facebook.com/andriy.manchuk/posts/4561838863845354
+	set tags den.vyshyvanki.ukr,istoria,kiev,nacionalist,nacionalizm,obschestvo,patriotizm,sssr,ukraina,vyshyvanka
+page
+	set url https://strana.ua/opinions/334365-za-dva-hoda-zelenskij-rasterjal-doverie-obshchestva.html
+	set tags antirejting,doverie,elektorat,obschestvo,politika,rejting,ukraina,vybory,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334315-press-konferentsija-zelenskoho-hlavnye-vyvody.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,biden_joe,donbass,itogi,poroshenko_petr,press_konferencia,putin_vladimir,referendum,strana_ua,ukraina,vyvody
+page
+	set url https://strana.ua/news/334360-vladimir-zelenskij-schitaet-chto-dopuskal-kadrovye-oshibki.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,donbass,killer,press_konferencia,putin_vladimir,ukraina,vojna,vopros,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334367-izbitaja-v-kupe-poezda-zhurnalistka-intera-namerena-suditsja-protiv-ukrzaliznytsi.html
+	set tags espl,evropa,izbienie,lugovaja_anastasia.inter.ukr.veduschaja,poezd,ukraina,ukrzaliznycia
+page
+	set url https://strana.ua/news/334331-zelenskij-zajavil-chto-stal-prihovorom-dlja-poroshenko.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,poroshenko_petr,press_konferencia,prigovor,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334344-press-konferentsija-zelenskoho-2021-samye-jarkie-zajavlenija-prezidenta-sehodnja.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,fraza,kiev,poroshenko_petr,press_konferencia,prigovor,ukraina,zelenskii_vladimir
+page
+	set url https://fraza.com/video/301128-u-biblioteki-vernadskogo-v-kieve-iz-pod-zemli-v-nebo-ustremilsja-stolb-kipjatka-razbity-mashiny
+	set tags avaria,biblioteka,biblioteka.kiev.vernadskogo,gejzer,goloseevo,kiev,kipjatok,ukraina
+page
+	set url https://fraza.com/news/301138-evropejskaja-redaktsija-radio-svoboda-priznaet-chto-delo-medvedchuka-akt-politicheskih-repressij
+	set tags __may_2021.medvedchuk,evropa,opzzh,radio_svoboda,repressii,ukraina
+page
+	set url https://strana.ua/news/334343-press-konferentsija-zelenskoho-chto-pishut-v-sotssetjakh.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,filosof,gushva_igor,krjukova_svetlana,medvedeva_olesja,press_konferencia,ukraina,vpechatlenie,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334390-voprosy-kryma-i-donbassa-kljuchevye-dlja-obsuzhdenija-na-vstreche-zelenskoho-i-putina.html
+	set tags donbass,krym,kuleba_dmitrii,putin_vladimir,ukraina,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334325-zelenskij-otkazalsja-ot-rezkikh-vyskazyvanij-v-adres-putina.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,eskalacia,putin_vladimir,ukraina
+page
+	set url https://strana.ua/news/334304-zelenskij-otreahiroval-na-rossijskuju-pasportizatsiju-na-donbasse.html
+	set tags aneksia,donbass,krym,pasportizacia,passport,rossia,ukraina,__may_2021.zelenskii.press_konferencia.kiev
+page
+	set url https://fraza.com/video/301140-v-seti-publikujut-novye-zhutkie-foto-i-video-posledstvij-proryva-teplotrassy-na-goloseevo
+	set tags avaria,biblioteka,biblioteka.kiev.vernadskogo,gejzer,kiev,ukraina
+page
+	set url https://www.radiosvoboda.org/a/vyshyvanka-zelenskogo-shogzga-na-kosovorotku/31265275.html
+	set tags den.vyshyvanki.ukr,facebook,kommentarii,kosovorotka,kritika,ukraina,vyshyvanka,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/photo-teplomerezha-proryv-kyiv/31265477.html
+	set tags avaria,biblioteka,biblioteka.kiev.vernadskogo,kiev,ukraina
+page
+	set url https://www.pravda.com.ua/news/2021/05/20/7294275/
+	set tags golosovanie,jazyk,kremin_taras,mova,nikolaev,ukraina,ukrainizacia,zakon
+page
+	set url https://www.pravda.com.ua/articles/2021/05/20/7294261/
+	set tags __may_2021.zelenskii.press_konferencia.kiev,kiev,ukraina
+page
+	set url https://www.pravda.com.ua/news/2021/05/20/7294280/
+	set tags kuleba_dmitrii,projekt,tajna,turizm,ukraina
+page
+	set url https://news.obozrevatel.com/politics/v-kieve-projdet-press-konferentsiya-zelenskogo-chto-proishodit-na-antonove-vse-detali-foto-i-video.htm
+	set tags __may_2021.zelenskii.press_konferencia.kiev,kiev,ukraina
+page
+	set url https://lenta.ru/articles/2021/05/20/svoboda/
+	set tags 1991,20_may,istoria,obschestvo,sssr,turizm,zagranica,zanaves_zheleznyj,zapad
+page
+	set url https://regnum.ru/news/polit/3275089.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,kiev,kommentarii,ukraina,zelenskii_vladimir
+page
+	set url https://regnum.ru/news/polit/3275049.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,kiev,kommentarii,ukraina
+page
+	set url https://regnum.ru/news/cultura/3274747.html
+	set tags arhitektura,chelovek,hram,norvegia,rossia,russkie,russkij_chelovek,turchasovo.rossia
+page
+	set url https://ukraina.ru/exclusive/20210520/1031430543.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev
+page
+	set url https://ukraina.ru/news/20210520/1031431599.html
+	set tags kuchma_leonid,sravnenie,ukraina,zelenskii_vladimir
+page
+	set url https://ukraina.ru/exclusive/20210520/1031428863.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,karma,kiev,poroshenko_petr,pravosudie,ukraina,zelenskii_vladimir
+page
+	set url https://ukraina.ru/history/20210520/1031429156.html
+	set tags blinken_entoni.gossekretar.usa,kiev,korni,ukraina,istoria
+page
+	set url https://strana.ua/news/334407-v-brazilii-vypustili-pervuju-partiju-vaktsiny-sputnik-v.html
+	set tags brazilia,covid,latin_america,proizvodstvo,rossia,sputnik_v,vaccine
+page
+	set url https://strana.ua/news/334395-v-ijune-lego-vypustit-konstruktor-v-chest-lhbt-foto.html
+	set tags igrushka,lbgt,lego.kompania,reklama,world
+page
+	set url https://lb.ua/blog/svitlana_paveletska/484871_maslit_chitati_chi_chitati.html
+	set tags kniga,literatura,literatura.massovaja,obschestvo,ukraina
+page
+	set url https://glavred.info/ukraine/chto-ne-tak-s-vyshivankami-zelenskih-eksperty-obyasnili-pochemu-tak-negoduyut-ukraincy-10273665.html
+	set tags den.vyshyvanki.ukr,kosovorotka,kritika,ukraina,zelenskii_vladimir
 eof
 off
 page

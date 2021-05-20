@@ -28028,6 +28028,96 @@ page
 page
 	set url https://zen.yandex.ru/media/ukrru/russkii-ukrainec-ia-za-nenku-609ba3ed5896cd3bee997a47
 	set tags rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/enas_kniga/alye-parusa-feeriia-aleksandra-grina-i-skazka-aleksandra-ptushko-60571e0508506c23b0e953c3
+	set tags chelovek,grin_aleksandr.pisatel,istoria,ptushko_aleksandr.rezhisser.sssr,rusmir
+page
+	set url https://strana.ua/news/334159-press-konferentsija-zelenskoho-sehodnja-chto-ukraintsy-khotjat-sprosit-u-prezidenta-.html
+	set tags donbass,kiev,kievljane,mir,obeschanie,opros,politika,press_konferencia,prezident,tarify,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://zen.yandex.ru/media/enas_kniga/pervaia-ekranizaciia-zolotogo-kliuchika-5f33d0e097d25b1c9c63aae7
+	set tags 1935,buratino,ekranizacia,film.buratino,film.zolotoj_kluchik,istoria,kino,kultura,ptushko_aleksandr.rezhisser.sssr,rusmir,skazka,sssr,tolstoj_aleksej_nikolajevich.pisatel
+page
+	set url https://strana.ua/news/333651-obeshchanija-zelenskoho-v-den-inauhuratsii-chto-vypolneno.html
+	set tags donbass,inauguracia,mir,nato,obeschanie,politika,prezident,tarify,ukraina,vybory,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334249-khimicheskoe-pozheltenie-rechki-lybed-malo-koho-vzvolnovalo-v-ukraine.html
+	set tags ekologia,himia,himikat,kiev,reka.lybid.kiev,ukraina
+page
+	set url https://strana.ua/opinions/334251-belhijskij-rembo-poshel-vojnoj-na-politsiju-i-virusolohov-.html
+	set tags belgia,evropa,gollandia,policia,rembo
+page
+	set url https://strana.ua/opinions/334253-bunt-heneralov-podcherkivaet-krizis-hlobalnoho-kapitalizma.html
+	set tags bunt,bunt.generalov,francia,general,kapitalizm,kapitalizm.globalnyj,krizis,world
+page
+	set url https://strana.ua/opinions/334254-press-konferentsija-zelenskoho-ne-vyzyvaet-nikakoho-interesa.html
+	set tags kiev,obschestvo,politika,press_konferencia,ukraina,zelenskii_vladimir
+page
+	set url https://kiev.strana.ua/334282-pod-hlavnym-vkhodom-antonova-hde-projdet-press-konferentsija-zelenskoho-natsionalisty.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,kb_antonov,kiev,nacionalist,nato,press_konferencia,protest,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334283-press-konferentsija-zelenskoho-projdet-v-anhare-na-fone-samoleta.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,kb_antonov,kiev,press_konferencia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334274-press-konferentsii-zelenskoho-ozhidajut-desjatki-zhurnalistov.html
+	set tags kb_antonov,ochered',press_konferencia,ukraina,zelenskii_vladimir
+page
+	set url https://ukraina.ru/opinion/20210520/1031421481.html
+	set tags 20_may,den.vyshyvanki.ukr,film.kievljanka,istoria,kiev,patriotizm,pavlychko_dmytro.poet.ukr,prazdnik,prinuzhdenie,ukraina,vyshyvanka
+page
+	set url https://zen.yandex.ru/media/id/5f3974547fc6c7662ddc62ea/poklonniki-chempionki-mira-anny-scerbakovoi-prosiat-gleihengauza-sdelat-postanovku-veselogo-i-zadornogo-tanca-na-olimpiiskii-sezon-609a42e5c235fb60b6d8c434
+	set tags devushka,figurnoje_katanie,krasota,poklonnik,rossia,scherbakova_anna.rossia.figurist,tanec
+page
+	set url https://zen.yandex.ru/media/otkritaya_seminariya/stolica-mira-moskva-ili-novyi-ierusalim-60a0cdc00e5c522bd8a0e671
+	set tags bog,future,gorod,ierusalim,istoria,izrail,missia,moskva,pravoslavie,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/72sad/pokolenie-bogov-princess-princev-korolei-i-korolev-v-deistvii-1-chast-609ffe9168e89b2ef9d347a6
+	set tags __may_2021.rossia.kazan.shkola.tragedia,chelovek,deti,frontovik,obschestvo,pokolenie,rossia,vospitanie,vov
+page
+	set url https://zen.yandex.ru/media/seafarer/staryi-russkii-gorod-s-samym-dlinnym-dereviannym-mostom-v-rossii-608531a15bfb251ca7274ee4
+	set tags arhitektura,foto,kirzhach.gorod,most,most.tipografskij.555.kirzhach,puteshestvie,rossia,turizm
+page
+	set url https://zen.yandex.ru/media/donchanka/to-chto-rossiia-eto-evropa-a-ne-ukraina-vidish-srazu-kak-tolko-peresekaesh-granicu-60a4ff5bbeea820469b7fd85
+	set tags dnr,doneck,evropa,lnr,obschestvo,rossia,rossia_eto_evropa,ukraina,ukraina_ce_evropa,vpechatlenie,zhizn
+page
+	set url https://zen.yandex.ru/media/id/60327947f47e6930d9637848/kak-eto-bylo-odessa-9-maia-2021-goda-609cf65cef1b79760d8ccfa3
+	set tags bessmertnyj_polk,den_pobedy,kiev,nacionalist,nacionalizm,odessa,ukraina,varvary,zhukov_georgii
+page
+	set url https://yandex.ru/q/question/kakoi_byla_by_istoriia_rossii_esli_by_12b58117/?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags istoria,moskva,novgorod,rossia,rus',rusmir
+page
+	set url https://zen.yandex.ru/media/loneliness/gordis-strana-pushkina-tekst-pesni-maniji-priznan-odnim-iz-luchshih-na-evropeiskom-konkurse-60a2691954c8dd21575646c2
+	set tags evrovidenie,kritika,manizha,poezia,rossia
+page
+	set url https://ukraina.ru/opinion/20210520/1031408295.html
+	set tags _important,fraza,istoria,kiev,mentalitet,nacia,realnost',rossia,rusmir,ukraina,volja
+page
+	set url https://ukraina.ru/news/20210520/1031424363.html
+	set tags donbass,konflikt,putin_vladimir,rossia,ukraina,vojna,vstrecha,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334302-simvolom-k-30-letiju-nezavisimosti-ukrainy-stal-tsvetok.html
+	set tags kiev,lvov,nezalezhnist,simvol,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334298-naselenie-ukrainy-sokratilos-eshche-na-100-tysjach-chelovek.html
+	set tags demografia,naselenie,smertnost',statistika,ukraina
+page
+	set url https://strana.ua/opinions/334301-press-konferentsii-prezidentov-ukrainy-malo-chem-otlichajutsja-ot-plenumov-tsk-kpss.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,brezhnev_leonid,kiev,kpss,obschestvo,ohlokratia,ohlos,press_konferencia,sssr,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334306-anturazh-press-konferentsii-zelenskoho-imeet-kontrabandnyj-podtekst.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,an124.ruslan,anturazh,kiev,kontrabanda,rnbo,ruslan.samolet,ukraina,zelenskii_vladimir
+page
+	set url https://vkorin.com.ua/2021/05/19/u-kyievi-richka-lybid-stala-zhovtoiu-z-iavylys-rezultaty-analizu-vody/
+	set tags ekologia,himia,himikat,kiev,reka.lybid.kiev,ukraina
+page
+	set url https://strana.ua/news/334293-press-konferentsija-zelenskoho-prokhodit-na-fone-perevozivsheho-kontrabandu-samoleta.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,an124.ruslan,kontrabanda,ruslan.samolet,ukraina,zelenskii_vladimir
+page
+	set url https://hvylya.net/interview/230823-taras-zagorodniy-zelenskogo-sozhrut-vse
+	set tags ukraina,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/politics/zelenskij-myi-stroim-mirnuyu-ukrainu-dlya-lyudej-a-ne-dlya-sotni-forbes.htm
+	set tags __may_2021.zelenskii.press_konferencia.kiev,ukraina
 eof
 off
 page

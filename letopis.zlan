@@ -28457,6 +28457,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5e660fa523565406ab5951c0/pravda-li-chto-seichas-leto-7529-goda-po-slavianskomu-kaledariu-60a3ed67a8b4917c5ae68666
 	set tags istoria,kalendar,rossia,rusmir,slavjane,vremja
+page
+	set url http://lug-info.com/news/one/lhm-predstavit-po-vsej-respublike-vystavku-luchshih-rabot-suvorovskogo-konkursa-risunkov-foto-67999
+	set tags lnr,lugansk,muzei,muzei.lugansk.hudozhestvennyj,risunok,tvorchestvo,vystavka
 eof
 off
 page

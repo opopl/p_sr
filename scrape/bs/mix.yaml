@@ -32,6 +32,7 @@ include:
 
 ###news_ru
     - news.ru.ngs
+    - news.ru.odnarodyna
     - news.ru.cosmopolitan
     - news.ru.vashi_novosti
     - news.ru.aif

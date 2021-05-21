@@ -23575,9 +23575,6 @@ page
 	set url https://regnum.ru/news/society/3255081.html
 	set tags cheljabinsk,deti,mater,ozhog,rossia,socset,sosed
 page
-	set url https://odnarodyna.org/content/ukraina-i-nastoyashchiy-gogol
-	set tags gogol_nikolai,tkachenko_aleksandr,ukraina
-page
 	set url https://oldkiev.top/gogol/gogol.html
 	set tags istoria,kiev,ukraina
 page
@@ -28461,15 +28458,6 @@ page
 	set url http://lug-info.com/news/one/lhm-predstavit-po-vsej-respublike-vystavku-luchshih-rabot-suvorovskogo-konkursa-risunkov-foto-67999
 	set tags lnr,lugansk,muzei,muzei.lugansk.hudozhestvennyj,risunok,tvorchestvo,vystavka
 page
-	set url https://odnarodyna.org/article/faina-savenkova-samoe-trudnoe-v-voennoe-vremya-ne-otchaivatsya
-	set tags deti,donbass,interview,lnr,otchajanie,savenkova_faina,vojna
-page
-	set url https://odnarodyna.org/article/paskevich-i-shevchenko-peresecheniya-v-knige-i-na-arale
-	set tags istoria,malorossia,paskevich_ivan.feldmarshal.rusimperia,rusimperia,shevchenko_taras,ukraina
-page
-	set url https://odnarodyna.org/article/kiev-stavit-krest-na-minskikh-soglasheniyakh
-	set tags donbass,kiev,minsk_dogovor,peregovory,ukraina,vojna
-page
 	set url https://strana.ua/news/334042-zno-2021-v-ukraine-porohovyj-ball-hrafik-kohda-budut-rezultaty.html
 	set tags ekzamen,obrazovanie,shkola,ukraina,zno
 page
@@ -28541,6 +28529,64 @@ page
 page
 	set url http://lug-info.com/news/one/sverdlovskaya-bol-nica-v-hode-trenirovki-podgotovilas-k-massovomu-postupleniyu-postradavshih-foto-68032
 	set tags bolnica,lnr,sverdlovsk.lnr,trenirovka
+page
+	set url https://strana.ua/news/334530-sbityj-il-76-pochemu-opravdali-henerala-nazarova.html
+	set tags __2014.il76.lugansk.katastrofa,donbass,lugansk,nazarov_viktor,ukraina,vojna
+page
+	set url https://strana.ua/opinions/334607-vyshivanka-prevratilas-v-bronezhilet-dlja-korruptsionerov-i-vsevozmozhnykh-chertej.html
+	set tags den.vyshyvanki.ukr,korupcia,patriotizm,ukraina,vyshyvanka,zelenskii_vladimir,zrada
+page
+	set url https://strana.ua/opinions/334609-putin-i-oliharkhi-druhikh-tem-dlja-zelenskoho-ne-sushchestvuet.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,oligarhi,putin_vladimir,zelenskii_vladimir
+page
+	set url https://lenta.ru/news/2021/05/21/moscowsanc/
+	set tags osuzhdenie,rossia,sankcii,svoboda_slova,ukraina,zelenskii_vladimir
+page
+	set url https://ukraina.ru/opinion/20210521/1031441403.html
+	set tags den.vyshyvanki.ukr,istoria,kosovorotka,narod,rossia,tradicii,ukraina,vyshyvanka,zelenskii_vladimir
+page
+	set url https://ukraina.ru/exclusive/20210521/1031420442.html
+	set tags _important,absurd,den_pobedy,kommunizm,pamjat,pensioner,policia,presledovanie,simvolika,ukraina,zakon,zaporozhie
+page
+	set url https://vz.ru/economy/2021/5/21/1100315.html
+	set tags industria,problemy,rossia,ukraina,umiranie
+page
+	set url https://zaxid.net/viyna_medvedchuka_n1519213
+	set tags gosizmena,medvedchuk_viktor,politika,poroshenko_petr,ukraina
+page
+	set url https://zaxid.net/falsh_i_poluda_ukrayinskoyi_polemichnoyi_kulturi_n1519323
+	set tags argumentum_ad_hominem,kultura.polemiki,obschestvo,polemika,ukraina
+page
+	set url https://odnarodyna.org/article/samolyot-bez-krylev-i-kosovorotka-kak-zelenskiy-dvukhletie-prezidentstva-otmetil
+	set tags __may_2021.zelenskii.press_konferencia.kiev,den.vyshyvanki.ukr,vyshyvanka
+global
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://odnarodyna.org/article/faina-savenkova-samoe-trudnoe-v-voennoe-vremya-ne-otchaivatsya
+	set tags deti,donbass,interview,lnr,otchajanie,savenkova_faina,vojna
+page
+	set url https://odnarodyna.org/article/paskevich-i-shevchenko-peresecheniya-v-knige-i-na-arale
+	set tags istoria,malorossia,paskevich_ivan.feldmarshal.rusimperia,rusimperia,shevchenko_taras,ukraina
+page
+	set url https://odnarodyna.org/article/kiev-stavit-krest-na-minskikh-soglasheniyakh
+	set tags donbass,kiev,minsk_dogovor,peregovory,ukraina,vojna
+page
+	set url https://odnarodyna.org/content/ukraina-i-nastoyashchiy-gogol
+	set tags gogol_nikolai,tkachenko_aleksandr,ukraina
+page
+	set url https://odnarodyna.org/content/donbass-zayavil-kievu-my-vozvrashchaemsya-domoy
+	set tags donbass,kiev,novosti,pesnja.donbass.my_vozvraschaemsja_domoj,ukraina
+page
+	set url https://odnarodyna.org/article/kak-ukraina-sebe-za-krymskuyu-zasukhu-otomstila
+	set tags __blokada.krym.voda,blokada,dnepr,ekologia,krym,reznikov_aleksei,ukraina,voda,zasuha
+page
+	set url https://odnarodyna.org/article/opyanyonnye-bespamyatstvom-ili-ozhidanie-prozreniya
+	set tags _important,fraza,narod,ozhidanie,pamjat,poezia,prozrenie,ukraina
+page
+	set url https://odnarodyna.org/article/ukrainskie-goniteli-protiv-voskresshego-khrista
+	set tags cerkov,kiev,lavra,pravoslavie,ukraina,vera
 eof
 off
 page

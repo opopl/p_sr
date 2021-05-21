@@ -28460,6 +28460,12 @@ page
 page
 	set url http://lug-info.com/news/one/lhm-predstavit-po-vsej-respublike-vystavku-luchshih-rabot-suvorovskogo-konkursa-risunkov-foto-67999
 	set tags lnr,lugansk,muzei,muzei.lugansk.hudozhestvennyj,risunok,tvorchestvo,vystavka
+page
+	set url https://odnarodyna.org/article/faina-savenkova-samoe-trudnoe-v-voennoe-vremya-ne-otchaivatsya
+	set tags deti,donbass,interview,lnr,otchajanie,savenkova_faina,vojna
+page
+	set url https://odnarodyna.org/article/paskevich-i-shevchenko-peresecheniya-v-knige-i-na-arale
+	set tags istoria,malorossia,paskevich_ivan.feldmarshal.rusimperia,rusimperia,shevchenko_taras,ukraina
 eof
 off
 page

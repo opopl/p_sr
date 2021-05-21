@@ -28466,6 +28466,81 @@ page
 page
 	set url https://odnarodyna.org/article/paskevich-i-shevchenko-peresecheniya-v-knige-i-na-arale
 	set tags istoria,malorossia,paskevich_ivan.feldmarshal.rusimperia,rusimperia,shevchenko_taras,ukraina
+page
+	set url https://odnarodyna.org/article/kiev-stavit-krest-na-minskikh-soglasheniyakh
+	set tags donbass,kiev,minsk_dogovor,peregovory,ukraina,vojna
+page
+	set url https://strana.ua/news/334042-zno-2021-v-ukraine-porohovyj-ball-hrafik-kohda-budut-rezultaty.html
+	set tags ekzamen,obrazovanie,shkola,ukraina,zno
+page
+	set url https://strana.ua/opinions/334500-pravjashchaja-komanda-ponimaet-uhrozy-dlja-ekonomiki-ot-zapuska-sevpotoka-2.html
+	set tags agressor,dogovor,rossia,sankcii,sevpotok2,ukraina,usa,washington
+page
+	set url https://strana.ua/news/334468-zelenskij-v-kosovorotke-chto-izvestno-o-skandale-memy-reaktsija-sotssetej.html
+	set tags den.vyshyvanki.ukr,kosovorotka,ofis_prezidenta,otkaz,skandal,ukraina,vyshyvanka,zelenskaja_elena,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334204-vtoroj-srok-zelenskoho-strana-uznala-chto-ob-etom-dumajut-narodnye-deputaty.html
+	set tags deputat,opros,prezident,prezident.vtoroj_srok,ukraina,vybory,zelenskii_vladimir
+page
+	set url https://kiev.strana.ua/334583-v-kieve-na-otradnom-horjashchij-musor-i-pokryshki-vzmetnuli-v-nebo-hihantskij-chernyj-stolb-dyma.html
+	set tags dym,kiev,pozhar,ukraina
+page
+	set url https://strana.ua/news/334579-zelenskij-utverdil-sanktsii-snbo-protiv-vorov-v-zakone-i-juridicheskikh-lits.html
+	set tags dnr,donbass,lnr,pasechnik_leonid,pushilin_denis,rossia,sankcii,ukaz,ukraina,yandex,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334553-venhrov-i-russkikh-v-korennye-narody-ukrainy-ne-vkljuchili.html
+	set tags greki,krym_tatary,narod.korennoj,russkie,ukraina,vengry,zakon
+page
+	set url https://strana.ua/opinions/334564-ukraintsev-menjajut-ustraivajut-porku-otnimajut-hrazhdanstvo.html
+	set tags grazhdanstvo,ukraina
+page
+	set url https://strana.ua/opinions/334569-ot-press-konferentsii-zelenskoho-nicheho-ne-zavisit.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,future,press_konferencia,ukraina
+page
+	set url https://strana.ua/news/334584-kartinu-svetlany-krjukovoj-s-chausom-kupil-korban.html
+	set tags chaus_nikolaj,chaus_nikolaj.ukr.sudja,isskustvo,kartina,korban_gennadij.ukr.biznesmen,krjukova_svetlana,ukraina
+page
+	set url https://fraza.com/news/301177-pevitsa-ledi-gaga-rasskazala-chto-ee-iznasilovali-
+	set tags iznasilovanie,kriminal,ledi_gaga.pevica.usa,usa
+page
+	set url https://www.radiosvoboda.org/a/zirvana-vystavka-jak-vlada-moskvy-vidznachaje-juvilej-saharova/31267304.html
+	set tags moskva,radio_svoboda,rossia,saharov_andrej.fizik.sssr,ukraina,vystavka
+page
+	set url https://www.radiosvoboda.org/a/katuvannya-fsb-vladyslav-yesypenko-lysty-z-nevoli/31266685.html
+	set tags krym,pytka,rossia,simferopol,sizo,sizo.simferopol,tjurma,ukraina
+page
+	set url https://www.pravda.com.ua/news/2021/05/21/7294375/
+	set tags __blokada.krym.voda,blokada,katastrofa.gumanitarnaja,krym,rossia,ukraina,voda
+page
+	set url https://blogs.pravda.com.ua/authors/pogotova/60a77e7e909df/
+	set tags ekologia,shvejcaria,sravnenie,ukraina
+page
+	set url https://gazeta.ua/blog/55112/rosiyanam-scho-ne-pokazhi-use-gotovi-vvazhati-svoyim-voni-napravleni-na-ekspansiyu
+	set tags imperia,kultura,nacia,obschestvo,prisvojenie,rossia,russkie,ukraina
+page
+	set url https://gazeta.ua/blog/55109/prezidentkvitochka-v-krayini-mrij
+	set tags __may_2021.zelenskii.press_konferencia.kiev,an124.ruslan,kb_antonov,mechta,namek,prezident,strana,ukraina,zelenskii_vladimir
+page
+	set url https://gazeta.ua/articles/yermolenko/_comu-nam-potriben-stefanik/1033019
+	set tags 150_let,chelovek,lesja_ukrainka,literatura,mova,stefanyk_vasyl.ukr.pisatel,ukraina
+page
+	set url https://news.obozrevatel.com/abroad/peremirie-mezhdu-izrailem-i-hamasom-nachalo-dejstvovat-chto-proishodit-sejchas-foto-i-video.htm
+	set tags __may_2021.izrail.palestina.konflikt,hamas.dvizhenie,izrail,izrail_vs_palestina,palestina,peremirie
+page
+	set url https://news.obozrevatel.com/abroad/netanyahu-izrail-sdelal-to-chto-ne-delala-ni-odna-armiya-v-mire.htm
+	set tags __may_2021.izrail.palestina.konflikt,izrail,izrail_vs_palestina,palestina,peremirie
+page
+	set url https://news.obozrevatel.com/society/uzhasyi-sovetskoj-torgovli-v-starom-filme.htm
+	set tags ekonomika,istoria,obschestvo,sssr,torgovlja,uzhas,zhizn
+page
+	set url https://crime.fakty.ua/376525-v-kieve-iz-okna-mnogoetazhki-strelyali-po-voinskoj-chasti-chto-izvestno
+	set tags kiev,strelba,ukraina,vsu
+page
+	set url http://lug-info.com/news/one/proekt-volonter-peredal-kancelyarskie-nabory-detyam-iz-maloivanovki-foto-68041
+	set tags aktivist,deti,lnr,mir_luganschine,pasechnik_leonid,pomosch,volonter
+page
+	set url http://lug-info.com/news/one/sverdlovskaya-bol-nica-v-hode-trenirovki-podgotovilas-k-massovomu-postupleniyu-postradavshih-foto-68032
+	set tags bolnica,lnr,sverdlovsk.lnr,trenirovka
 eof
 off
 page

@@ -28454,6 +28454,9 @@ page
 page
 	set url https://lenta.ru/news/2021/05/21/stado/
 	set tags deputat,pensioner,rossia,vorovstvo
+page
+	set url https://zen.yandex.ru/media/id/5e660fa523565406ab5951c0/pravda-li-chto-seichas-leto-7529-goda-po-slavianskomu-kaledariu-60a3ed67a8b4917c5ae68666
+	set tags istoria,kalendar,rossia,rusmir,slavjane,vremja
 eof
 off
 page

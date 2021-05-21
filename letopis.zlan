@@ -28451,6 +28451,9 @@ page
 page
 	set url https://lenta.ru/news/2021/05/21/zel_kosovorotka/
 	set tags den.vyshyvanki.ukr,kosovorotka,skandal,ukraina,vyshyvanka,zelenskii_vladimir
+page
+	set url https://lenta.ru/news/2021/05/21/stado/
+	set tags deputat,pensioner,rossia,vorovstvo
 eof
 off
 page

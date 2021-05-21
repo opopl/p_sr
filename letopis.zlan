@@ -28277,6 +28277,108 @@ page
 page
 	set url https://glavred.info/ukraine/chto-ne-tak-s-vyshivankami-zelenskih-eksperty-obyasnili-pochemu-tak-negoduyut-ukraincy-10273665.html
 	set tags den.vyshyvanki.ukr,kosovorotka,kritika,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334410-akterov-petrenko-mironovu-i-kopylova-priznali-uhrozoj-natsbezopasnosti-ukrainy.html
+	set tags akter,minkult.ukraina,nacbezopasnost,rossia,ukraina,zapret
+page
+	set url https://ukraina.ru/news/20210520/1031431850.html
+	set tags kiev,rossia,sevpotok2,strah,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210520/1031429708.html
+	set tags morozhenoje,rossia,sladkoje,ukraina
+page
+	set url https://gazeta.ua/articles/regions/_lviv-u-vishivankah-koloritni-foto/1032986
+	set tags den.vyshyvanki.ukr,lvov,prazdnik,ukraina,vyshyvanka
+page
+	set url https://gazeta.ua/blog/55098/zablokovani-telekanali-dali-pracyuyut-ce-nebezpechno-dlya-ukrayini
+	set tags cenzura,medvedchuk_viktor,pershyj_nezalezhnyj,rusmir,telekanal,ukraina,youtube,zapret
+page
+	set url https://day.kyiv.ua/uk/article/den-ukrayiny/dvobiy-ozera-vyrlyci-ta-trc
+	set tags ekologia,kiev,metro.kiev.vyrlycja,miting,protest,stroitelstvo,ukraina
+page
+	set url https://day.kyiv.ua/uk/article/nashchadok-tarasa-bulby-gromadyanyn-svitu
+	set tags 1888,istoria,mykluho_maklaj_nikolaj.puteshestvennik,ostrov.novaja_gvineja,rusimperia,ukraina,vojsko_zaporozhskoje
+page
+	set url https://strana.ua/articles/analysis/334349-kak-zhivet-zavod-antonov-hde-provodil-press-konferentsiju-zelenskij.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,an124.ruslan,avia,kb_antonov,kiev,krizis,proizvodstvo,samolet,ukraina,aviastrojenie
+page
+	set url https://matchtv.ru/figure-skating/matchtvnews_NI1331500_Velikije_russkije_devochki_Kak_Shherbakova_Tuktamysheva_i_Trusova_vzali_vse_medali_chempionata_mira
+	set tags chempionat,figurist,figurnoje_katanie,pobeda,rossia,scherbakova_anna.rossia.figurist,sport,trusova_aleksandra,tuktamysheva_elizaveta.rossia.figurist
+page
+	set url https://matchtv.ru/summer/matchtvnews_NI1016809_Vojna_do_sih_por_mne_snitsa_Vyzhit_posle_shesti_rukopashnyh_s_nemcami_i_vernutsa_v_sambo
+	set tags chelovek,istoria,mirvojna2,sambo,sport,sssr,veteran,veteran.vov,vojna,vov
+page
+	set url https://kiev.strana.ua/334434-foto-kak-v-tsentre-kieva-odnu-iz-klub-ukrasili-koljuchej-provolokoj.html
+	set tags cvety,kiev,klumba,provoloka.koljuchaja,ukraina,ukrashenie
+page
+	set url https://strana.ua/news/334246-v-chest-znamenitoho-khirurha-nikolaja-amosova-v-kieve-zastuchalo-bronzovoe-serdtse-foto.html
+	set tags amosov_nikolaj,gorod,hirurgia.kardio,institut_amosova.kiev,kiev,pamjat,serdce,skulptura,ukraina,ulica,ulica.kiev.bogdana_hmelnickogo
+page
+	set url https://lvov.strana.ua/332834-oblivsheho-kraskoj-pamjatnik-bandere-studenta-osudili-vo-lvove.html
+	set tags bandera_stepan,lvov,molodezh,pamjatnik,studenty,sud,tjurma,ukraina,vandalizm
+page
+	set url https://strana.ua/news/334440-na-nekotorye-shtaty-ssha-nakhlynut-milliardy-nasekomykh-tsikad.html
+	set tags nasekomoje,nasekomoje.cykada,priroda,shum,usa,usa.shtaty.vostok
+page
+	set url https://strana.ua/opinions/334424-stul-pod-zelenskim-khot-i-ne-sloman-no-uzhe-nachal-nemnoho-poshatyvatsja.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,an225,future,kb_antonov,kiev,mechta,stul,ukraina
+page
+	set url https://strana.ua/opinions/334428-zelenskij-obrekaet-stranu-na-boltanie-mezhdu-tremja-silami.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,derzhava,future,obschestvo,perspektivy,politika,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334411-u-biblioteki-vernadskoho-v-kieve-zabil-hejzer-povredivshij-pochti-dva-desjatka-avto.html
+	set tags avaria,biblioteka,biblioteka.kiev.vernadskogo,gejzer,kiev,ukraina,voda
+page
+	set url https://news.obozrevatel.com/society/novosti-ukrainyi-zelenskij-pobesedoval-s-zhurnalistami-i-kak-strana-otmetila-den-vyishivanki.htm
+	set tags 20_may,__may_2021.zelenskii.press_konferencia.kiev,den.vyshyvanki.ukr,itogi,kb_antonov,ukraina
+page
+	set url https://www.radiosvoboda.org/a/druha-mrija-an-225/31265720.html
+	set tags an225,aviastrojenie,kb_antonov,ukraina
+page
+	set url https://strana.ua/news/334443-trahedija-lajnera-mau-sud-kanady-obvinil-iran-v-terrorizme.html
+	set tags __jan_2020.mau.iran.katastrofa,avia_katastrofa,iran,kanada,mau.avia.kompania,obvinenie,samolet,terrorizm,tragedia,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/05/21/7294297/
+	set tags chelovek,don_kihot,genius_loci,ivaschishin_markian,lvov,ukraina
+page
+	set url https://buzina.org/povtorenie/1528-bulgakov-spassya-strannoobrazno.html
+	set tags belaja_gvardia_roman,bog,bulgakov_mihail,buzina_oles,istoria,kiev,kievljane,kultura,literatura,moskva,pisatel,rossia,spasenie,sssr,stalin_iosif,ukraina,vera,zhukov_georgii
+page
+	set url https://kiev.strana.ua/334447-nochju-v-kieve-zapolykhal-kara-kum-video.html
+	set tags kiev,pozhar,restoran,restoran.karakum.kiev,ukraina
+page
+	set url https://zaxid.net/zelenskiy_z_druzhinoyu_kosovorotka_chi_vishivanka_etnologi_n1519216
+	set tags den.vyshyvanki.ukr,kosovorotka,kultura,nacia,narod,tradicii,ukraina,vyshyvanka,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334445-vlast-obsluzhivajut-treterazrjadnye-predstaviteli-sistemy-janukovicha.html
+	set tags janukovich_viktor,public_relations,ukraina,vlada,vyshyvanka,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334446-post-ministra-razvitija-ekonomiki-mozhno-likvidirovat-za-nenadobnostju.html
+	set tags ekonomika,ministr,razvitie,ukraina
+page
+	set url https://strana.ua/news/334452-v-ivano-frankovskoj-oblasti-kamaz-lesovoz-upal-v-reku.html
+	set tags avaria,gruzovik,ivano_frankovsk,kamaz,ukraina
+page
+	set url https://gazeta.ua/blog/55097/skoda-scho-1991-roku-ukrayina-ne-postavila-dosvid-pioneriyi-sobi-na-sluzhbu
+	set tags deti,donbass,ideologia,istoria,krym,patriotizm,pioner,sssr,ukraina,vospitanie,vozhatyj
+page
+	set url https://gazeta.ua/blog/55102/zelenskij-pochav-vijnu-proti-vsih-voyuye-za-maksimalnu-vladu
+	set tags __may_2021.zelenskii.press_konferencia.kiev,kb_antonov,press_konferencia,ukraina,zelenskii_vladimir
+page
+	set url https://www.depo.ua/ukr/politics/viyna-proti-vsikh-za-absolyutnu-vladu-yaku-krainu-budue-zelenskiy-202105201323351
+	set tags __may_2021.zelenskii.press_konferencia.kiev,press_konferencia,ukraina,vlast,vojna,zelenskii_vladimir
+page
+	set url https://zak.depo.ua/ukr/zak/dlya-chogo-u-svyato-ivana-bogoslova-treba-obovyazkovo-shchos-spekti-i-shukati-zustrichi-z-perekhozhimi-20190521965072
+	set tags 21_may,biblia,bogoslov_ioann.apostol,pravoslavie,tradicii,ukraina
+page
+	set url https://pravoslavie.ru/139409.html
+	set tags babushka,cancer,cerkov,chelovek,iscelenie,lechenie,pravoslavie,rossia,rusmir,vera
+page
+	set url https://ukraina.ru/opinion/20210521/1031428142.html
+	set tags _important,arestovich_aleksei,butusov_jurij,den.vyshyvanki.ukr,donbass,obschestvo,patriotizm,sharij_analotij,tkachuk_maxim,ukraina,vojna,vyshyvanka
+page
+	set url https://ukraina.ru/exclusive/20191025/1025461424.html
+	set tags istoria,kommunizm,lenin_vladimir,rossia,rusmir,sssr,ukraina,vernadskij_vladimir
 eof
 off
 page

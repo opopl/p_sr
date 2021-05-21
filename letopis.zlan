@@ -28379,6 +28379,12 @@ page
 page
 	set url https://ukraina.ru/exclusive/20191025/1025461424.html
 	set tags istoria,kommunizm,lenin_vladimir,rossia,rusmir,sssr,ukraina,vernadskij_vladimir
+page
+	set url https://ukraina.ru/opinion/20210521/1031432311.html
+	set tags kosovorotka,narod,obschestvo,press_konferencia,protivopolozhnost,rossia,rusmir,russkie,ukraina,upadok,vlast,zelenskii_vladimir
+page
+	set url https://regnum.ru/news/cultura/3273880.html
+	set tags _important,chtenie,istoria,kniga,kultura,literatura,literatura.detskaja,prokofjeva_sofja.pisatel.sssr.deti,rusmir,skazka,sssr
 eof
 off
 page

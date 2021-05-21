@@ -28385,6 +28385,72 @@ page
 page
 	set url https://regnum.ru/news/cultura/3273880.html
 	set tags _important,chtenie,istoria,kniga,kultura,literatura,literatura.detskaja,prokofjeva_sofja.pisatel.sssr.deti,rusmir,skazka,sssr
+page
+	set url http://lug-info.com/news/one/pochti-150-yunyh-literatorov-iz-lnr-dnr-i-rf-prinyali-uchastie-v-konkurse-molodye-golosa-foto-67990
+	set tags _important,biblioteka,biblioteka.lugansk.molodezh,dal'_vladimir,dnr,kniga,konkurs,kultura,literatura,lnr,lugansk,molodezh,nagrazhdenie,rossia
+page
+	set url http://lug-info.com/news/one/avtomobil-vekhal-v-vitrinu-torgovogo-tsentra-lugansk-siti-tsentr-foto-67936
+	set tags avaria,avto,dtp,lnr,lugansk
+page
+	set url http://lug-info.com/news/one/luganskii-avtodor-poluchil-iz-rf-dve-novye-vysokotekhnologichnye-samokhodnye-frezy-foto-67974
+	set tags lnr,rossia,tehnika
+page
+	set url http://lug-info.com/news/one/elektronnaya-versiya-sbornika-maltseva-stikhi-na-pamyat-poyavilas-v-svobodnom-dostupe-67970
+	set tags kniga,lnr,malcev_anatolij.lnr.poet,poezia,stihi
+page
+	set url http://lug-info.com/news/one/mediki-na-trenirovke-operativno-dostavili-patsientku-iz-slavyanoserbska-v-lugansk-foto-67969
+	set tags bolnica,lnr,lugansk,medik,trenirovka
+page
+	set url https://hvylya.net/news/230847-oligarhi-putin-bayden-otstavki-v-kabmine-voyna-na-donbasse-itogi-press-konferencii-vladimira-zelenskogo
+	set tags __may_2021.zelenskii.press_konferencia.kiev,itogi,kiev,press_konferencia,ukraina
+page
+	set url https://hvylya.net/news/230866-opredelilis-vse-soperniki-ukraincev-go-a-po-finalu-evrovideniya-2021
+	set tags evrovidenie,konkurs,muzyka,showbiz
+page
+	set url https://virus.glavred.info/kiev-snova-vyrvalsya-vpered-opublikovana-svezhaya-statistika-po-covid-19-v-ukraine-10273800.html
+	set tags bolezn,covid,kiev,statistika,ukraina,zabolevajemost'
+page
+	set url https://glavred.info/opinions/pres-konferenciya-zelenskogo-ce-yogo-zayavka-na-drugiy-prezidentskiy-termin-10273713.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,medvedchuk_viktor,press_konferencia,prezident,ukraina,zajavka,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/show/people/evrovidenie-2021-v-rotterdame-startuet-vtoroj-polufinal-konkursa-podrobnosti-onlajn.htm
+	set tags evrovidenie,konkurs,kultura,muzyka,pesnja,showbiz
+page
+	set url https://news.obozrevatel.com/politics/arestovich-dal-prognoz-po-sudbe-mira-na-donbasse.htm
+	set tags __may_2021.zelenskii.press_konferencia.kiev,arestovich_aleksei,donbass,mir,prognoz,rossia,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/russia/kremlevskie-startsyi-ili-sibir-uzhe-davno-kitajskaya.htm
+	set tags kitaj,putin_vladimir,rossia
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-predateli-zhaluyutsya-chto-okkupantyi-prevratili-ih-v-bespravnyih-rabov.htm
+	set tags den.vyshyvanki.ukr,krym,krymnash,predatel',rabstvo,rossia,ukraina,vyshyvanka,zhaloba
+page
+	set url https://kharkov.strana.ua/334484-na-marshe-vyshivanok-v-kharkove-devushka-nazvala-lozunh-slava-ukraine-herojam-slava-natsistskim.html
+	set tags den.vyshyvanki.ukr,harkov,nacizm,ukraina,vyshyvanka,zrada
+page
+	set url https://strana.ua/opinions/334485-ot-mnenija-ljudej-v-ukraine-nicheho-ne-zavisit.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,narod,obschestvo,press_konferencia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334492-a-ne-proiskhodit-li-vyshivanka-ot-imeni-arijskoho-boha-shivy.html
+	set tags den.vyshyvanki.ukr,istoria,ukraina,vyshyvanka
+page
+	set url https://strana.ua/news/334478-v-rossii-v-bereznjakakh-shkolnik-udaril-uchitelja-nozhom-v-sheju-video.html
+	set tags deti,kriminal,napadenie,nozh,rossia,shkola,uchitel
+page
+	set url https://strana.ua/news/334491-ilon-mask-voskhitilsja-rossiej-i-rasskazal-kakim-budet-mir-cherez-50-let.html
+	set tags kosmos,marafon,mask_ilon,rossia,sssr
+page
+	set url https://strana.ua/opinions/334496-krasivyj-vidos-o-tarifakh-s-kvadrokoptera-ne-snimesh.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,press_konferencia,tarify,ukraina
+page
+	set url https://from-ua.com/articles/600589-kak-zhivut-ukrainskie-batraki.html
+	set tags batrak,bednost,bomzh,ekonomika,ludi,nischeta,obschestvo,rabota,ukraina
+page
+	set url https://lenta.ru/articles/2021/05/21/medvedchuk/
+	set tags __may_2021.medvedchuk,medvedchuk_viktor,opzzh,presledovanie,putin_vladimir,repressii,rossia,ukraina,venediktova_irina
+page
+	set url https://lenta.ru/news/2021/05/21/zel_kosovorotka/
+	set tags den.vyshyvanki.ukr,kosovorotka,skandal,ukraina,vyshyvanka,zelenskii_vladimir
 eof
 off
 page

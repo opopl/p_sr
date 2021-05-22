@@ -28709,6 +28709,15 @@ page
 page
 	set url https://day.kyiv.ua/uk/photo/vechirniy-kyyiv-neymovirno-prekrasnyy
 	set tags foto,kiev,ukraina,gorod
+page
+	set url https://maidan.org.ua/arch/hist/1311018576.html
+	set tags istoria,malorossia,mazohizm,narod,ukraina
+page
+	set url https://www.radiosvoboda.org/a/27449220.html
+	set tags gorod,kiev,nenavist,ukraina
+page
+	set url https://gordonua.com/ukr/news/society/farion-rosijskomovnim-ukrajintsjam-tak-jak-vas-zemlja-nosit-245980.html
+	set tags farion_irina,jazyk,mova,nenavist,oskorblenie,ukraina
 eof
 off
 page

@@ -28676,6 +28676,39 @@ page
 page
 	set url https://zen.yandex.ru/media/h4gen/inorodnoe-telo-blokadnica-v-ukrainskoi-derevne-60a0ace73ce0c13106866bcf
 	set tags blokada.leningrad,chelovek,istoria,selo,sssr,ukraina,zhizn,golod
+page
+	set url https://kiev.strana.ua/334720-v-samom-tsentre-kieva-molodoj-paren-pomochilsja-v-fontan.html
+	set tags fontan,kiev,mocha,molodezh,skandal,ukraina
+page
+	set url https://gazeta.ua/articles/history/_okupanti-spalili-kiyiv/995058
+	set tags 1943,bitva_za_dnepr,kiev,rkka,ukraina,vov
+page
+	set url https://topwar.ru/74813-v-kieve-otkrylsya-pab-karatel.html
+	set tags karateli,kiev,marazm,restoran.karatel.kiev,ukraina
+page
+	set url https://spb.tsargrad.tv/news/ukrainskie-smi-vzorvannyj-v-centre-kieva-karatel-vsu-byl-lichnym-vragom-kadyrova_84475
+	set tags donbass,kadyrov_ramzan,karateli,kiev,ukraina,vojna,vsu
+page
+	set url https://strana.ua/news/334713-prezidenta-frantsii-makrona-prihlasili-na-bokal-vina-v-kiev.html
+	set tags alkogol,francia,kiev,makron_emmanuel.prezident.francia,priglashenie,ukraina,vino
+page
+	set url https://strana.ua/opinions/334726-pochemu-zelenskomu-mozhno-prodavat-v-rossiju-svoi-serialy.html
+	set tags film,jazyk,kino,kvartal95,rossia,serial,tv,ukraina,ukrainizacia,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/kiyany/life/v-kieve-projdet-marsh-transgenderov-sobralis-politsiya-i-protestuyuschie-foto-i-video.htm
+	set tags kiev,lbgt,marsh,transgender,ukraina
+page
+	set url https://day.kyiv.ua/uk/article/kultura/anna-ahmatova-y-kiyiv
+	set tags ahmatova_anna,istoria,kiev,rusimperia,ukraina
+page
+	set url https://day.kyiv.ua/uk/article/den-ukrayiny/zhadibnist-znyshchyt-kyyiv
+	set tags arhitektura,kiev,ukraina,zhadnost
+page
+	set url https://day.kyiv.ua/uk/article/taym-aut/adresa-kyyiv
+	set tags kiev,muzei.ukr.sovremennogo_isskustva.kiev,ukraina,vystavka
+page
+	set url https://day.kyiv.ua/uk/photo/vechirniy-kyyiv-neymovirno-prekrasnyy
+	set tags foto,kiev,ukraina,gorod
 eof
 off
 page

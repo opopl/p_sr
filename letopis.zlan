@@ -28559,10 +28559,6 @@ page
 page
 	set url https://odnarodyna.org/article/samolyot-bez-krylev-i-kosovorotka-kak-zelenskiy-dvukhletie-prezidentstva-otmetil
 	set tags __may_2021.zelenskii.press_konferencia.kiev,den.vyshyvanki.ukr,vyshyvanka
-global
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://odnarodyna.org/article/faina-savenkova-samoe-trudnoe-v-voennoe-vremya-ne-otchaivatsya
 	set tags deti,donbass,interview,lnr,otchajanie,savenkova_faina,vojna
@@ -28587,6 +28583,99 @@ page
 page
 	set url https://odnarodyna.org/article/ukrainskie-goniteli-protiv-voskresshego-khrista
 	set tags cerkov,kiev,lavra,pravoslavie,ukraina,vera
+page
+	set url https://strana.ua/news/334549-serial-100-tysjach-minut-pokazhut-v-rossii-chto-izvestno-o-filmakh-kvartala-v-rf.html
+	set tags film,kino,kultura,kvartal95,rossia,serial,ukraina
+page
+	set url https://strana.ua/news/334654-opzzh-trebuet-snjat-obvinenija-s-medvedchuka.html
+	set tags __may_2021.medvedchuk,arest,medvedchuk_viktor,opzzh,ukraina
+page
+	set url https://strana.ua/news/334480-v-kievskom-apelljatsionnom-sude-usilili-okhranu-pered-apelljatsiej-zashchity-medvedchuka-na-arest-foto.html
+	set tags __may_2021.medvedchuk,kiev,medvedchuk_viktor,ohrana,policia,sud,sud.kiev.apeljacionnyj.solomenka,ukraina
+page
+	set url https://strana.ua/news/334591-vory-v-zakone-spisok-ot-zelenskoho.html
+	set tags chislo.665,sankcii,ukraina,vor_v_zakone,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334612-nikohda-oliharkham-tak-sladko-ne-zhilos-kak-pri-zelenskom.html
+	set tags oligarh,politika,prezident,ukraina,vybory,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334636-monopolii-na-pravdu-net-ni-u-koho-i-ne-dolzhno-byt.html
+	set tags den_pobedy,monopolia,obschestvo,pravda,stalinizm,ukraina,vov
+page
+	set url https://strana.ua/opinions/334637-zrada-prishla-otkuda-ne-zhdali-ot-ilona-maska.html
+	set tags ilon_mask,kosmonavtika,kosmos,raketa,rossia,sssr,voshischenie,zrada
+page
+	set url https://strana.ua/opinions/334638-251-400-chelovek-vot-elektoralnoe-pole-prezidenta.html
+	set tags donbass,elektorat,narod.korennoj,rnbo,russkie,ukraina,ukraincy.russkojazychnyje,zakon,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334639-den-bankira-i-den-nauki-khorosho-by-obedinit-v-odin-prazdnik.html
+	set tags ekonomika,istoria,rotshild
+page
+	set url https://strana.ua/opinions/334655-ljudi-s-khoroshimi-litsami-protestujut-protiv-proizvola-politsii.html
+	set tags kiev,ludi,policia,proizvol,protest,ukraina
+page
+	set url https://strana.ua/opinions/334658-navernoe-nash-verkhovnyj-komik-luchshe-druhikh-pochuvstvoval-ukraintsev.html
+	set tags donbass,geopolitika,kloun,komik,lavrov_sergei,narod,politika,ukraina,usa,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334661-kak-ukrainskaja-kartoshka-mozhet-byt-pochti-v-dva-raza-dorozhe-izrailskoj.html
+	set tags agrarii,cena,ekonomika,izrail,kartofel,rynok,superderzhava.agrarnaja,ukraina
+page
+	set url https://strana.ua/opinions/334672-konflikt-na-donbasse-eto-ne-shakhmatnaja-partija-v-holove-zelenskoho.html
+	set tags chess,donbass,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334682-pismo-ejnshtejna-prodali-za-1-2-mln-dollarov.html
+	set tags aukcion,einstein_albert.fizik,formula,formula.e_mc2,pismo,prodazha
+page
+	set url https://strana.ua/news/295247-insulta-net-deti-kernesa-rasskazali-strane-o-zdorove-mera-kharkova.html
+	set tags bolezn,deti,einstein_albert,harkov,insult,kernes_gennadii,ukraina
+page
+	set url https://strana.ua/news/334650-muzej-majdana-arkhitektor-iz-hermanii-podaril-ukraine-proekt.html
+	set tags arhitektura,germania,kiev,maidan2,muzei.maidana.kiev,podarok,ukraina
+page
+	set url https://strana.ua/sport/334708-predstavitel-ukrainy-vpervye-stal-chempionom-evropy-po-muzhskomu-karate.html
+	set tags chempionat,horvatia,karate,sport,ukraina,ukrainec
+page
+	set url https://strana.ua/opinions/334698-severnyj-potok-2-znachitelno-snizit-heopoliticheskuju-naprjazhennost-vokruh-ukrainy.html
+	set tags donbass,rossia,sevpotok2,ukraina,vojna
+page
+	set url https://strana.ua/opinions/334704-chtoby-uskorit-dostup-k-nashej-zemle-posly-stran-semerki-hotovy-napjalit-vyshivanki.html
+	set tags ukraina,vyshyvanka,zemlja
+page
+	set url https://strana.ua/opinions/334706-hosudarstvo-stroit-ohromnuju-finansovuju-piramidu.html
+	set tags derzhava,ekonomika,finansy,piramida.finansovaja,pravitelstvo,ukraina
+page
+	set url https://strana.ua/opinions/334709-chto-moh-by-postroit-ilon-mask-v-ukraine-hde-eho-tak-ljubjat.html
+	set tags ilon_mask,kosmos,proizvodstvo,rossia,ukraina
+page
+	set url https://fraza.com/analytics/301196-postsovetskaja-sudba-ruslanov
+	set tags an124.ruslan,aviastrojenie,kb_antonov,livia,rossia,samolet,ukraina
+page
+	set url https://fraza.com/news/301204-titarenko-v-ukraine-idet-borba-s-oppozitsiej-i-neposredstvenno-medvedchukom
+	set tags gosdep,medvedchuk_viktor,titarenko_lubov,ukraina,zapad
+page
+	set url https://lenta.ru/news/2021/05/22/vody/
+	set tags __blokada.krym.voda,blokada,krym,rossia,ukraina,voda
+page
+	set url https://sharij.net/v-moskve-trener-po-figurnomu-kataniyu-v-upor-vystrelil-v-golovu-zhenshhine-video
+	set tags figurnoje_katanie,golova,kriminal,moskva,pistolet,rossia,vystrel
+page
+	set url https://news.obozrevatel.com/society/harkovchanku-oskorbivshuyu-patriotov-v-vyishivankah-uvolili-s-rabotyi-video-s-izvineniyami.htm
+	set tags babkova_evgenia.harkov,den.vyshyvanki.ukr,devushka,harkov,izvinenie,skandal,ukraina,uvolnenie,video,vyshyvanka
+page
+	set url https://news.obozrevatel.com/society/donbass-i-kryim-schastlivyi.htm
+	set tags donbass,krym,obschestvo,rossia,rusmir,schastje,ukraina,zhizn
+page
+	set url http://lug-info.com/news/one/koncert-pamati-narodnogo-artista-lnr-uria-derskogo-prosel-v-stolicnom-russkom-dramteatre-68057
+	set tags koncert,kultura,lardt,lnr,lugansk
+page
+	set url https://www.radiosvoboda.org/a/krym-putin-kovalchuk-rotenberh-palatsy-dachi/31268014.html
+	set tags krym,putin_vladimir,rossia,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/05/22/7294431/
+	set tags __may_2021.zelenskii.press_konferencia.kiev,butaforia,ukraina,zelenskii_vladimir
+page
+	set url https://zen.yandex.ru/media/h4gen/inorodnoe-telo-blokadnica-v-ukrainskoi-derevne-60a0ace73ce0c13106866bcf
+	set tags blokada.leningrad,chelovek,istoria,selo,sssr,ukraina,zhizn,golod
 eof
 off
 page

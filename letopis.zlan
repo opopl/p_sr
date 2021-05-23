@@ -28721,14 +28721,39 @@ page
 page
 	set url https://gordonua.com/ukr/news/politics/-farion-de-v-konstitutsiji-ukrajini-napisano-shcho-rosijskomovne-naselennja-maje-pravo-na-isnuvannja-vam-podobajetsja-rosijska-kupili-kvitok-piljajte-v-moskoviju-220349.html
 	set tags farion_irina,jazyk,mova,nenavist,oskorblenie,ukraina,ukraincy.russkojazychnyje
-global
-	set redo 1
-	setlist acts
-		fetch
-		db_update
 page
 	set url https://strana.ua/news/334750-evrovidenie-2021-holosovanie-zritelej-ukraintsy-otdali-rossii-7-mesto-rossijane-ukraine-4-mesto.html
 	set tags evrovidenie,go_a.gruppa,golosovanie,italia,manizha,muzyka,rossia,showbiz,ukraina
+page
+	set url https://strana.ua/opinions/334728-kazhetsja-zelenskij-uzhe-pomiloval-poroshenko.html
+	set tags nakazanie,pomilovanie,poroshenko_petr,prigovor,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334729-plany-ilona-maska-nastolko-obshirny-chto-i-dlja-nas-tam-najdetsja-mesto.html
+	set tags ilon_mask,investicia,investor,proizvodstvo,rossia,tesla.avto,ukraina,zavod
+page
+	set url https://strana.ua/opinions/334752-v-ukraine-vysshij-stimul-ekonomicheskoho-razvitija-eto-bol.html
+	set tags biznes,bogatstvo,bolj,ekonomika,razvitie,ukraina
+page
+	set url https://strana.ua/opinions/334753-pohruzhenie-v-proshloe-obrekaet-na-mesto-na-obochine-budushcheho-.html
+	set tags future,ilon_mask,kapitalizm,obochina,obschestvo,proshloje,rossia,ukraina
+page
+	set url https://strana.ua/opinions/334756-rabota-dolzhna-byt-ili-denezhnaja-ili-interesnaja-ili-neobremenitelnaja.html
+	set tags maja.plemja,psihologia,rabota,usa,chelovek
+page
+	set url https://strana.ua/opinions/334757-zelenskij-pochti-po-klassike-prokhodit-put-plokhoho-top-menedzhera.html
+	set tags top_menedzher,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334764-ben-uolles-britanija-rassmatrivaet-rossiju-kak-uhrozu-nomer-odin.html
+	set tags britania,rossia,vrag
+page
+	set url https://strana.ua/news/334621-u-rossii-est-oruzhie-kotoroho-net-nihde-v-mire-shojhu.html
+	set tags oruzhie,oruzhie.giperzvuk,rossia,shojgu_sergej
+page
+	set url https://strana.ua/opinions/334769-otkuda-v-holovakh-nashikh-ministrov-mif-o-6-milliardov-dollarov-za-tranzit-haza.html
+	set tags ekonomika,mif,ukraina,zoloto.polubotka
+page
+	set url https://strana.ua/news/334745-evrovidenie-2021-kto-pobedil-luchshaja-pesnja.html
+	set tags evrovidenie,muzyka,showbiz,ukraina
 eof
 off
 page

@@ -28814,6 +28814,36 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/sravnivaia-pravoradikalov-ukrainy-i-bolshevikov-pochemu-u-nih-ne-poluchitsia--609ffd70e0626f5a38b2f981
 	set tags bolsheviki,future,istoria,obschestvo,radikalizm,radikaly,sssr,ukraina,ultrapravyje
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/za-kerchiu-kazan-prostye-voprosy-k-nashim-specslujbam-609a77b6d0fd62728b7c8697
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://cont.ws/@max-sim/1974605
+	set tags future,kiev,mova,ukraina
+page
+	set url https://cont.ws/@alexandr-rogers/1997449
+	set tags bezishodnost,bytie,future,kardinal.rishelje,obschestvo,pessimizm,prognoz,ukraina
+page
+	set url https://strana.ua/news/334809-podrobnosti-zaderzhanija-v-minske-osnovatelja-nexta-romana-protasevicha.html
+	set tags arest,belarus,nexta,oppozicia
+page
+	set url http://lug-info.com/news/one/turnir-po-rukopashnomu-boyu-sredi-yunoshej-i-devushek-proshel-v-luganske-68089
+	set tags boj.rukopashnyj,deti,dinamo.lnr.fso_mvd,lnr,lugansk,molodezh,sorevnovanie,sport,turnir
+page
+	set url http://lug-info.com/news/one/nedel-ya-glazami-eksperta-prednamerennaya-tugouhost-godovshina-obmana-i-beskrylyj-benefis-68077
+	set tags donbass,ekspert,lnr,marochko_andrej.nm_lnr,nm_lnr,peregovory,vojna
+page
+	set url http://lug-info.com/news/one/kievskie-siloviki-dva-raza-za-sutki-narushili-rezhim-tishiny-2-68078
+	set tags donbass,kiev,peremirie,ukraina,vojna
+page
+	set url https://news.obozrevatel.com/show/people/goundefineda-vernulis-s-evrovideniya-2021-ukraintsyi-ustroili-teplyij-priem-v-aeroportu-foto-i-video.htm
+	set tags borispol,evrovidenie,go_a.gruppa,kultura,muzyka,showbiz,ukraina,vstrecha
+page
+	set url https://soc.obozrevatel.com/v-seti-pokazali-vid-supermarketa-v-gorlovke-kotoryij-razgrabili-maroderyi.htm
+	set tags dnr,donbass,foto,gorlovka,vojna
+page
+	set url https://news.obozrevatel.com/show/people/ukrainu-nuzhno-lishit-prava-otsenivat-vyistupleniya-uchastnikov-ot-stranyi-agressora-eto-amoralno.htm
+	set tags _important,absurd,agressor,evrovidenie,fraza,kondratjuk_igor,konkurs,muzyka,ocenka,rossia
 eof
 off
 page

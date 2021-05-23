@@ -28847,6 +28847,9 @@ page
 page
 	set url https://strana.ua/opinions/334846-fakt-proniknovenija-politkorrektnosti-v-sferu-jumora-nalitso.html
 	set tags cenzura,jumor,obschestvo,politkorrektnost
+page
+	set url https://focus.ua/ratings/481700-top-50-blogerov-ukrainy-rejting-fokusa
+	set tags blogger,focus_ua.zhurnal,obschestvo,rejting,ukraina
 eof
 off
 page

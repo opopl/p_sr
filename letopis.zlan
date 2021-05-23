@@ -28844,6 +28844,9 @@ page
 page
 	set url https://news.obozrevatel.com/show/people/ukrainu-nuzhno-lishit-prava-otsenivat-vyistupleniya-uchastnikov-ot-stranyi-agressora-eto-amoralno.htm
 	set tags _important,absurd,agressor,evrovidenie,fraza,kondratjuk_igor,konkurs,muzyka,ocenka,rossia
+page
+	set url https://strana.ua/opinions/334846-fakt-proniknovenija-politkorrektnosti-v-sferu-jumora-nalitso.html
+	set tags cenzura,jumor,obschestvo,politkorrektnost
 eof
 off
 page

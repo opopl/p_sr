@@ -28868,6 +28868,42 @@ page
 page
 	set url https://www.radiosvoboda.org/a/lagidna-ukrainizasiya-eksperty-pro-movu/31269251.html
 	set tags mova,tkachenko_aleksandr,ukraina,ukrainizacia
+page
+	set url https://www.pravda.com.ua/news/2021/05/23/7294568/
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,kiev,miting,podderzhka,protasevich_roman.belarus.nexta,protest,ukraina
+page
+	set url https://www.pravda.com.ua/news/2021/05/23/7294552/
+	set tags bolezn,covid,kiev,statistika,ukraina,zabolevajemost'
+page
+	set url https://www.pravda.com.ua/articles/2021/05/23/7294503/
+	set tags obschestvo,politika,prezident,prorochestvo,ukraina,zelenskii_vladimir
+page
+	set url https://blogs.pravda.com.ua/authors/sylantyev/60aa7ecc10c8b/
+	set tags bogatstvo,future,ludi,obschestvo,razvitie,ukraina,zoloto
+page
+	set url https://blogs.pravda.com.ua/authors/chekalskyj/60a8d4c54bdd5/
+	set tags gorod,kiev,razvitie,ukraina
+page
+	set url https://strana.ua/opinions/334847-nelzja-byt-odnovremenno-revoljutsionerom-i-razhildjaem.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,lenin_vladimir,lukashenko_aleksandr,protasevich_roman.belarus.nexta,razgiljdjaj,revolucia,stalin_iosif
+page
+	set url https://strana.ua/opinions/334849-nas-zhdut-tarify-na-teplo-eshche-bolshie-chem-dazhe-byli.html
+	set tags ekonomika,otoplenie,tarify,teplo,ukraina
+page
+	set url https://strana.ua/news/334840-prichina-smerti-vdovy-filatova-i-zolotukhina-aktrisy-niny-shatskoj.html
+	set tags kino,kultura,rossia,shackaja_nina.aktrisa.sssr,smert,sssr,teatr,teatr.moskva.na_taganke
+page
+	set url https://sharij.net/putin-budet-obsuzhdat-s-zelenskim-krym-tolko-kak-region-rf-peskov
+	set tags krym,peskov_dmitrii,putin_vladimir,ukraina,vstrecha,zelenskii_vladimir,rossia
+page
+	set url https://sharij.net/festival-vozdushnyh-sharov-v-kamenecz-podolskom-zakonchilsya-smertelnym-padeniem-detali-i-foto-tragedii
+	set tags festival,kamenec_podolskij.ukr.gorod,smert,tragedia,ukraina,vozdushnyj_shar
+page
+	set url https://sharij.net/v-kieve-pokazali-idealnuyu-marshrutku-foto
+	set tags ideal,kiev,kmda,marshrutka,ukraina
+page
+	set url https://sharij.net/poyavilos-video-zaderzhaniya-na-marshe-transgenderov-v-kieve
+	set tags kiev,lbgt,marsh,ukraina
 eof
 off
 page

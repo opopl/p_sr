@@ -28922,6 +28922,30 @@ page
 page
 	set url https://riafan.ru/region/svs/1439534-monument-zhertvam-ukrainskikh-nacistov-upa-napominaet-krymchanam-o-prestupleniyakh-kieva
 	set tags kiev,krym,nacionalist,pamjat,pamjatnik,simferopol,ukraina,upa
+page
+	set url https://from-ua.com/mneniya/600673-taras-chornovil-mriya-zelenskogo.html
+	set tags an225,kb_antonov,martin_luter_king,mechta,obschestvo,strana,ukraina,zelenskii_vladimir
+page
+	set url https://vz.ru/opinions/2021/5/20/1099913.html
+	set tags bezumie,deti,moral,obschestvo,rossia,soblaznenie,zapad,zolushka
+page
+	set url https://vz.ru/opinions/2021/5/19/1099839.html
+	set tags geografia,naselenie,novosibirsk,rossia,sibir,tomsk
+page
+	set url https://vz.ru/opinions/2021/5/20/1099914.html
+	set tags bedstvie,kursovaja,obrazovanie,rossia,studenty
+page
+	set url https://vz.ru/world/2021/5/23/1100643.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,minsk,oppozicia,razvedka,ryanair.aviakompania,specoperacia,specsluzhba
+page
+	set url https://lb.ua/world/2021/05/23/485343_ryanair_prokomentuvali_ekstrenu.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,nexta
+page
+	set url https://varlamov.ru/4204542.html
+	set tags naselenie,obschestvo,rossia,vymiranie
+page
+	set url https://zen.yandex.ru/media/astroprog/kalendar-sobytii-buduscego-ot-iakova-briusa-chto-nas-jdet-i-pravda-li-eto-60a9e21c27a3a31d0100a9b2
+	set tags istoria,kalendar,rossia,rusmir
 eof
 off
 page

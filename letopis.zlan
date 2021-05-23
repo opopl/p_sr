@@ -28754,6 +28754,54 @@ page
 page
 	set url https://strana.ua/news/334745-evrovidenie-2021-kto-pobedil-luchshaja-pesnja.html
 	set tags evrovidenie,muzyka,showbiz,ukraina
+page
+	set url https://strana.ua/news/334765-chernaja-plesen-v-indii-600-zarazhennym-prishlos-udalit-hlaza.html
+	set tags bolezn,covid,glaz.udalenie,glaza,india,lechenie
+page
+	set url https://strana.ua/opinions/334785-kievljan-nastojchivo-hotovjat-k-podorozhaniju-proezda-v-metro.html
+	set tags bilet,bilet.metro,cena,kiev,kievljane,metro,podorozhanie,ukraina
+page
+	set url https://strana.ua/opinions/334773-v-chem-vyhoda-ukrainy-v-situatsii-vokruh-severnoho-potoka-2.html
+	set tags germania,rossia,sevpotok2,ukraina,usa,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/show/people/zelenskij-o-vyistuplenii-goundefineda-na-evrovidenii-pesnya-s-privkusom-dushi-nashej-stranyi.htm
+	set tags dusha,evrovidenie,fraza,go_a.gruppa,muzyka,privkus,ukraina,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/society/odno-foto-pokazyivayuschee-chto-takoe-sovok.htm
+	set tags arhitektura,chelovek,istoria,kiev,sovok,sssr,ukraina
+page
+	set url https://news.obozrevatel.com/show/people/set-voshitili-neveroyatnyie-kaveryi-na-goundefineda-poet-dazhe-avstraliya.htm
+	set tags avstralia,evrovidenie,go_a.gruppa,muzyka,perepev,showbiz,ukraina,youtube
+page
+	set url https://zen.yandex.ru/media/nezagooglish/rossiia-nachinaetsia-zdes-otkuda-v-pskove-vzialas-eta-nadpis-i-pochemu-ona-vyzvala-tak-mnogo-sporov-60374ebdebccc751611af7cd
+	set tags istoria,kievrus,pskov,rossia,rusmir,turizm
+page
+	set url https://zen.yandex.ru/media/istor_ross/kakoi-gorod-byl-stolicei-na-rusi-pri-vescem-olege-603f655d8da63757af424683
+	set tags istoria,kiev,mat_gorodam_ruskim,novgorod,oleg_veschij,rusmir
+page
+	set url https://strana.ua/opinions/334805-spisok-vorov-v-zakone-vyhljadit-stranno-bez-tekh-kto-ukral-milliony.html
+	set tags ukraina,vor_v_zakone,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334807-nado-bylo-ne-movnykh-ombudsmenov-kormit-a-provodit-reformy.html
+	set tags future,obmudsmen.mova,obschestvo,ukraina,vzryv.socialnyj,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334818-kohda-shtaty-nachinali-borotsja-s-korruptsiej-oni-ne-delali-vidosiki.html
+	set tags korupcia,ukraina,usa,video,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334820-hde-tonkaja-hran-mezhdu-nekompetentnostju-i-nekorrektnostju.html
+	set tags ekonomika,finansy,ukraina
+page
+	set url https://zen.yandex.ru/media/h4gen/kak-otnosilis-k-ukrainskomu-iazyku-v-rossiiskoi-imperii-6054749e9b23db779b947309
+	set tags _important,fraza,jazyk,mova,rusimperia,ukraina
+page
+	set url https://zen.yandex.ru/media/melfm/kniga-jivuscaia-sama-po-sebe-kak-podrostki-chitaiut-mastera-i-margaritu-60a24e3585151531ba057312
+	set tags bulgakov_mihail,chtenie,kniga,kniga.master_i_margarita.bulgakov,literatura,molodezh,podrostki,rusmir
+page
+	set url https://zen.yandex.ru/media/vneigry_net/alina-zagitova-v-utrennei-gimnastike-vladimira-vysockogo-iz-karantina-v-iaponii-1605-3-video-60a0fbe90e5c522bd81c5703
+	set tags figurnoje_katanie,rossia,zagitova_alina.figurist.rossia
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/poslednee-pismo-iz-kieva-60a34225a4e2a041881b2b24
+	set tags kiev,pismo,psihiatria,rossia,ukraina
 eof
 off
 page

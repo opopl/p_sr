@@ -28718,6 +28718,12 @@ page
 page
 	set url https://gordonua.com/ukr/news/society/farion-rosijskomovnim-ukrajintsjam-tak-jak-vas-zemlja-nosit-245980.html
 	set tags farion_irina,jazyk,mova,nenavist,oskorblenie,ukraina
+page
+	set url https://gordonua.com/ukr/news/politics/-farion-de-v-konstitutsiji-ukrajini-napisano-shcho-rosijskomovne-naselennja-maje-pravo-na-isnuvannja-vam-podobajetsja-rosijska-kupili-kvitok-piljajte-v-moskoviju-220349.html
+	set tags farion_irina,jazyk,mova,nenavist,oskorblenie,ukraina,ukraincy.russkojazychnyje
+page
+	set url https://strana.ua/news/334750-evrovidenie-2021-holosovanie-zritelej-ukraintsy-otdali-rossii-7-mesto-rossijane-ukraine-4-mesto.html
+	set tags evrovidenie,go_a.gruppa,golosovanie,italia,manizha,muzyka,rossia,showbiz,ukraina
 eof
 off
 page

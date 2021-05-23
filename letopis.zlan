@@ -28850,6 +28850,24 @@ page
 page
 	set url https://focus.ua/ratings/481700-top-50-blogerov-ukrainy-rejting-fokusa
 	set tags blogger,focus_ua.zhurnal,obschestvo,rejting,ukraina
+page
+	set url https://hvylya.net/news/230968-na-ryanair-polilas-volna-heyta-iz-za-zahvata-samoleta-s-protasevichem-v-kompanii-otvetili
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,minsk,nexta,protasevich_roman.belarus.nexta,ryanair.aviakompania,skandal
+page
+	set url https://www.radiosvoboda.org/a/vshanuvannja-dnja-gerojiv-u-kyjevi/31269525.html
+	set tags kiev,nebesna_sotnja,pamjat,ukraina
+page
+	set url https://www.radiosvoboda.org/a/nil-khasevych-holovny-khudozhnyk-upa/31263521.html
+	set tags hasevich_nil.ukr.oun.hudozhnik.1905_1952,hudozhnik,oun,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-rus-hrushevsky-derzhavni-kordony/31268605.html
+	set tags bratstvo,drevrus,grushevskij_mihail.istorik,istoria,kievrus,mify,rossia,rusmir,ukraina,ukraina_rusj
+page
+	set url https://www.radiosvoboda.org/a/rozmova-z-rodychkoyu-tarasa-shevchenka/31267225.html
+	set tags istoria,kultura,literatura,semja,shevchenko_taras,ukraina
+page
+	set url https://www.radiosvoboda.org/a/lagidna-ukrainizasiya-eksperty-pro-movu/31269251.html
+	set tags mova,tkachenko_aleksandr,ukraina,ukrainizacia
 eof
 off
 page

@@ -25160,7 +25160,6 @@ page
 page
 	set url https://strana.ua/news/332478-chem-opasen-indijskij-shtamm-koronavirusa.html
 	set tags bolezn,covid,covid.shtamm.india,india,stepanov_maksim,ukraina,zabolevajemost',zdorovje
-on
 page
 	set url https://www.radiosvoboda.org/a/yak-obladnannya-simensu-potrapylo-v-okupovanyy-krym/31247723.html
 	set tags blokada,krym,rossia,sankcii,ukraina,voda
@@ -28943,6 +28942,12 @@ page
 page
 	set url https://varlamov.ru/4204542.html
 	set tags naselenie,obschestvo,rossia,vymiranie
+on
+global
+	set redo 1
+	set limit 10
+	setlist acts
+		db_update
 page
 	set url https://zen.yandex.ru/media/astroprog/kalendar-sobytii-buduscego-ot-iakova-briusa-chto-nas-jdet-i-pravda-li-eto-60a9e21c27a3a31d0100a9b2
 	set tags istoria,kalendar,rossia,rusmir

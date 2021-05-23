@@ -28904,6 +28904,24 @@ page
 page
 	set url https://sharij.net/poyavilos-video-zaderzhaniya-na-marshe-transgenderov-v-kieve
 	set tags kiev,lbgt,marsh,ukraina
+page
+	set url https://sharij.net/harkovchanku-nazvavshuyu-parad-vyshivanok-paradom-naczistskogo-bydla-zapodozrili-v-rabote-vebkam-modelyu-foto
+	set tags __may_2021.vyshyvanka.babkova.harkov.skandal,babkova_evgenia.harkov,den.vyshyvanki.ukr,harkov,podozrenie,ukraina,vyshyvanka
+page
+	set url https://lenta.ru/brief/2021/05/23/nehta_lukashenko/
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,lukashenko_aleksandr,minsk,nexta,ryanair.aviakompania
+page
+	set url https://ukraina.ru/exclusive/20210523/1031439382.html
+	set tags gogol_nikolai,istoria,kazaki,kuhnja,recept,ukraina,varenuha.eda
+page
+	set url https://ukraina.ru/exclusive/20210523/1031267236.html
+	set tags diaspora,kanada,patriotizm,ukraina
+page
+	set url https://ukraina.ru/interview/20210523/1031444964.html
+	set tags harkov,kevorkjan_konstantin,kniga,moskva,rossia,ukraina
+page
+	set url https://riafan.ru/region/svs/1439534-monument-zhertvam-ukrainskikh-nacistov-upa-napominaet-krymchanam-o-prestupleniyakh-kieva
+	set tags kiev,krym,nacionalist,pamjat,pamjatnik,simferopol,ukraina,upa
 eof
 off
 page

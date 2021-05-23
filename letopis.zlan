@@ -28943,14 +28943,45 @@ page
 	set url https://varlamov.ru/4204542.html
 	set tags naselenie,obschestvo,rossia,vymiranie
 on
-global
-	set redo 1
-	set limit 10
-	setlist acts
-		db_update
 page
 	set url https://zen.yandex.ru/media/astroprog/kalendar-sobytii-buduscego-ot-iakova-briusa-chto-nas-jdet-i-pravda-li-eto-60a9e21c27a3a31d0100a9b2
 	set tags istoria,kalendar,rossia,rusmir
+page
+	set url https://news.obozrevatel.com/abroad/v-minske-zaderzhan-osnovatel-telegram-kanala-nexta-roman-protasevich.htm
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,lukashenko_aleksandr,nexta,protasevich_roman.belarus.nexta
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/probujdenie--hudojestvennyi-rasskaz-60878fb152fe3b4f414d543b
+	set tags rasskaz,tvorchestvo,ukraina
+page
+	set url https://lenta.ru/news/2021/05/23/record/
+	set tags __may_2021.protasevich.belarus.zaderzhanie
+page
+	set url https://riakursk.ru/v-kurskoy-oblasti-segodnya-zavershaetsya-solovinaya-perepis/
+	set tags kursk,perepis,perepis.solovji,priroda,ptica,rossia,solovej,zavershenie
+page
+	set url https://riakursk.ru/zavtra-v-shkolakh-kurskoy-oblasti-prozvenit-posledniy-zvonok/
+	set tags deti,kursk,obrazovanie,rossia,shkola,zvonok.poslednij.shkola
+page
+	set url https://lgaki.info/novosti/16-j-kontsertnyj-sezon-tts-krasnaya-ploshhad-7-zakrylsya-yarkim-estradno-tsirkovym-shou/
+	set tags kultura,lgaki,lnr,lugansk
+page
+	set url http://voskhodinfo.su/aktualno/65997-oni-tam-est-odesskiy-uchitel.html
+	set tags jazyk,malorossia,mova,odessa,skandal,ukraina
+page
+	set url https://gazeta.ua/articles/culture/_mi-prirecheni-na-susidstvo-z-rosiyeyu-natalka-vorozhbit-pro-vijnu-pogani-dorogi-i-10-rokiv-zhittya-u-moskvi/1033438
+	set tags donbass,film,rossia,sosedstvo,ukraina,vojna,vorozhbyt_natalia.rezhisser
+page
+	set url https://gazeta.ua/blog/55115/slovyani-epichnij-serial-spisi-dovkola-nogo-lamatimut-lishe-doslidniki-epohi
+	set tags bratstvo,film,film.slavjane.2021,istoria,kino,kultura,mifologia,obschestvo,slavjane,slovakia,ukraina
+page
+	set url https://day.kyiv.ua/uk/article/den-ukrayiny/naybilshyy-hmarochos-kyyeva-taky-zbuduyut
+	set tags gorod,kiev,neboskreb,stroitelstvo,ukraina
+page
+	set url https://zen.yandex.ru/media/chtogde/alina-zagitova-eto-u-menia-fanatskoe-ili-ona-vse-horosheet-604548ec9e9a5735c168d696
+	set tags devushka,foto,krasota,rossia,zagitova_alina.figurist.rossia
+page
+	set url https://www.pravmir.ru/akademik-bogolyubov-nereligioznyx-fizikov-mozhno-pereschitat-po-palcam/
+	set tags biografia,bogoljubov_nikolaj.fizik,fizik,fizika,istoria,pravoslavie,rusmir,sssr,ukraina,vera
 eof
 off
 page

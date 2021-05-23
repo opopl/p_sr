@@ -28805,6 +28805,15 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/gimn-rossii-i-ne-tolko-6093ac8ab8f34b04d22e1671
 	set tags gimn.rossia,gimn.ukraina,rossia,sravnenie,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/pro-zoshyt-609372c555f6b84138fb11e7
+	set tags istoria,jazyk,mova,shkola,sssr,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/ukraina-besceremonno-otobrala-16-chast-rossii-6090bd08a38d215d4e29f3f1
+	set tags jazyk,mova,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/sravnivaia-pravoradikalov-ukrainy-i-bolshevikov-pochemu-u-nih-ne-poluchitsia--609ffd70e0626f5a38b2f981
+	set tags bolsheviki,future,istoria,obschestvo,radikalizm,radikaly,sssr,ukraina,ultrapravyje
 eof
 off
 page

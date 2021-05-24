@@ -2,6 +2,7 @@
 sel:
   clean:
   only:
+    - article.mainArticle
   keep:
 
 fetch:
@@ -20,14 +21,14 @@ PageParser:
     sels:
       - { 
           # css selector
-          'find'  : '',
+          'find'  : 'header .dateTime',
           'get'   : 'text',
           #'get'   : 'attr',
           #'attr'  : '',
           # split date string
           #'split' : ' ',
           # used by dateparser.parse()
-          #'order' : 'DMY',
+          'order' : 'DMY',
         }
   get_author:
     tries:
@@ -36,7 +37,7 @@ PageParser:
     sels:
       - { 
           'search' : {
-              'css'   : [ '' ],
+              'css'   : [ 'a.authorName' ],
               'map' : {
                   'name' : 'text',
                   'url'  : { 

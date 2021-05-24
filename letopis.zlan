@@ -29255,6 +29255,9 @@ page
 page
 	set url https://hvylya.net/interview/231005-nuzhna-ekonomicheskaya-hunta-ili-kak-izmenit-konchenoe-gosudarstvo-v-ukraine
 	set tags ukraina,hunta,ekonomika
+page
+	set url https://strana.ua/news/334969-epidemija-chernoj-pleseni-mukormikoz-simptomy-lechenie-mozhet-li-popast-v-ukrainu.html
+	set tags bolezn.chernaja_plesenj,covid,epidemia,india,mukormikoz,smert,zabolevajemost'
 eof
 off
 page

@@ -29237,6 +29237,15 @@ page
 page
 	set url https://www.radiosvoboda.org/a/28382399.html
 	set tags kiev,kievrus,mova,ukraina
+page
+	set url https://strana.ua/news/335000-kohda-na-zemle-ozhidat-moshchnye-mahnitnye-buri-posle-vspyshek-na-solntse.html
+	set tags astronomia,kosmos,nauka,solnce,vspyshka.solnce
+page
+	set url https://strana.ua/opinions/335005-pochemu-imenno-eti-italjantsy-pobedili-na-evrovidenii.html
+	set tags choknutyj,evrovidenie,italia,muzyka,pobeda,prichina,showbiz
+page
+	set url http://lug-info.com/news/one/vospitanniki-kadetskogo-klassa-gimnazii-60-imeni-200-letiya-luganska-prinyali-prisyagu-68129
+	set tags kadety,lnr,lugansk,obrazovanie,prisjaga,shkola,shkola.gimnazia
 eof
 off
 page

@@ -29108,6 +29108,9 @@ page
 page
 	set url https://beztabu.net/yevrobachennya-2021-ukrayina-posila-pyate-misce_n73311
 	set tags evrovidenie,go_a.gruppa,golosovanie,kultura,muzyka,ukraina
+page
+	set url https://www.radiosvoboda.org/a/zakordonna-dopomoga-dlia-zsu/31266364.html
+	set tags armia,donbass,kiev,podderzhka,ukraina,vojna,vsu
 eof
 off
 page

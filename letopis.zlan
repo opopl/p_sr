@@ -1,7 +1,19 @@
 off
+page
+	set url https://riakalm.ru/index.php/news/culture/28233-v-eliste-sostoyalsya-pervyj-otborochnyj-etap-startuyushchego-proekta-my-rossiya
+	set tags rossia,kalmykia,deti,kultura,muzyka,pesnja
+page
+	set url https://riakalm.ru/index.php/news/culture/28240-my-khudozhniki-opeshili-v-natsionalnom-muzee-kalmykii-otkrylas-vystavka-zurach
+	set tags rossia,kalmykia,kultura,hudozhnik,vystavka,muzei
+page
+	set url https://riakalm.ru/index.php/news2/28246-amulanga-uteeva-nasha-tsel-vnesti-vklad-v-razvitie-kultury-kalmytskogo-naroda
+	set tags rossia,kalmykia,language.native,vyveska,populjarizacia,language.kalmyk
+page
+	set url https://aforisma.ru/gogol-citaty/
+	set tags rusmir,gogol_nikolai,fraza,literatura,kultura,rossia,ukraina
 on
 global
-	set limit 2
+	set limit 100
 	setlist opts
 		no_site
 		no_date
@@ -1984,9 +1996,9 @@ page
 page
 	set url https://www.foxnews.com/health/russias-sputnik-v-vaccine-91-6-effective-against-covid-19-in-late-stage-trial-study
 	set tags sputnik_v,rossia,vaccine,covid
-page
-	set url https://www.en24news.com/e/2021/02/european-union-sputnik-v-is-good-news-for-humanity.html
-	set tags es,borrel_jozef,vaccine,covid,sputnik_v
+#page
+	#set url https://www.en24news.com/e/2021/02/european-union-sputnik-v-is-good-news-for-humanity.html
+	#set tags es,borrel_jozef,vaccine,covid,sputnik_v
 page
 	set url https://www.vesti.ru/article/2520806
 	set tags rossia,usa,vaccine,covid,sputnik_v,fauchi_anthony
@@ -5517,9 +5529,9 @@ page
 page
 	set url https://gazeta.ua/articles/history/_pochali-suditi-pismennika/1017125
 	set tags franko_ivan,istoria,sud,ukraina
-page
-	set url http://dontsov-nic.com.ua/ivan-franko-pro-halytske-moskvofilstvo/
-	set tags franko_ivan,moskvofily,istoria,kultura
+#page
+	#set url http://dontsov-nic.com.ua/ivan-franko-pro-halytske-moskvofilstvo/
+	#set tags franko_ivan,moskvofily,istoria,kultura
 page
 	set url https://vgolos.com.ua/news/yak-ivan-franko-otsinyuvav-kozatsku-epohu_1046917.html
 	set tags franko_ivan,rusmir,kozaky,istoria
@@ -12644,9 +12656,6 @@ page
 	set url http://lug-info.com/news/one/molodezhnyi-parlament-lnr-s-21-marta-po-4-aprelya-provedet-konkurs-chtetsov-poezii-foto-65710
 	set tags poezia,parlament,molodezh,konkurs,lnr,socset,vkontakte
 page
-	set url oos
-	set tags ukraina,rossia,donbass,vojna,peremirie,obstrel,obse
-page
 	set url https://www.pravda.com.ua/news/2021/03/20/7287324/
 	set tags donbass,vojna,rossia,ukraina,vsu,oos
 page
@@ -13502,12 +13511,6 @@ page
 	set url https://stapravda.ru/20210321/farforovuyu_skulpturu_stavropolskih_masterov_otmetili_na_vseross_162847.html
 	set tags rossia,stavropol,mineralnyje_vody,master,isskustvo,farfor,vystavka,kislovodsk
 page
-	set url https://riakalm.ru/index.php/news/culture/28240-my-khudozhniki-opeshili-v-natsionalnom-muzee-kalmykii-otkrylas-vystavka-zurach
-	set tags rossia,kalmykia,kultura,hudozhnik,vystavka,muzei
-page
-	set url https://riakalm.ru/index.php/news2/28246-amulanga-uteeva-nasha-tsel-vnesti-vklad-v-razvitie-kultury-kalmytskogo-naroda
-	set tags rossia,kalmykia,language.native,vyveska,populjarizacia,language.kalmyk
-page
 	set url https://strana.ua/news/324014-ofis-prezidenta-nadeetsja-chto-obostrenie-na-donbasse-ne-skazhetsja-na-perehovorakh.html
 	set tags mendel_julia,ukraina,donbass,vojna,fraza,sila,uzhas,ostanovka,rossia
 page
@@ -13525,9 +13528,6 @@ page
 page
 	set url https://fraza.com/column/297700-a-v-rossii-ljubjat-politsaev
 	set tags ukraina,rossia,istoria,sssr,vov,policaj,fashizm,nacizm
-page
-	set url https://riakalm.ru/index.php/news/culture/28233-v-eliste-sostoyalsya-pervyj-otborochnyj-etap-startuyushchego-proekta-my-rossiya
-	set tags rossia,kalmykia,deti,kultura,muzyka,pesnja
 page
 	set url https://news.novgorod.ru/articles/read/1055.html
 	set tags miting,rossia,future,deti,mater,interview,novaja_derevnja.novgorod,selo
@@ -16702,9 +16702,6 @@ page
 page
 	set url http://lug-info.com/news/one/glava-lnr-i-obschestvenniki-v-khode-kruglogo-stola-obsudili-rol-dalya-v-kulture-donbassa-foto-66169
 	set tags donbass,dal'_vladimir,lnr,rusmir,rusdusha,rossia,istoria,kultura,jazyk,literatura
-page
-	set url https://aforisma.ru/gogol-citaty/
-	set tags rusmir,gogol_nikolai,fraza,literatura,kultura,rossia,ukraina
 page
 	set url https://ukraina.ru/news/20210401/1031021438.html
 	set tags belarus,ukraina,bazar,kultura
@@ -29271,6 +29268,9 @@ page
 page
 	set url https://news.obozrevatel.com/politics/novyij-sssr-v-kotoryij-vas-zamanivayut-mificheskim-vkusnyim-plombirom.htm
 	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,lukashenko_aleksandr,morozhenoje.plombir,sssr
+page
+	set url https://umoloda.kyiv.ua/number/3730/164/157395/
+	set tags 150_let,2023,istoria,kiev,mazepa_ivan,pamjat,pamjatnik,skoropadskij_getman,ukraina
 eof
 off
 page

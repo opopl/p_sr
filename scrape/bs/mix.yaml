@@ -22,6 +22,7 @@ include:
     - news.lnr.miaistok
     - news.lnr.narod_tribuna
     - news.lnr.zemlug
+    - news.lnr.luganskonline
 
 ###news_dnr
     - news.dnr.hotline
@@ -102,6 +103,7 @@ include:
     - news.anglia.sun
 
 ###news_ua
+    - news.ua.umoloda
     - news.ua.hromadske
     - news.ua.vesti_ua
     - news.ua.nash

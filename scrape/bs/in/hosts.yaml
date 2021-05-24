@@ -2,6 +2,7 @@
 ###news.ua
 #
 
+'umoloda.kyiv.ua' : { 'site' : 'news.ua.umoloda' } 
 'hromadske.ua' : { 'site' : 'news.ua.hromadske' } 
 'nash.live' : { 'site' : 'news.ua.nash' } 
 'segodnya.ua' : { 'site' : 'news.ua.segodnya' } 
@@ -107,6 +108,7 @@
 'nt1941.su'    : { 'site' : 'news.lnr.narod_tribuna' }
 'miaistok.su'  : { 'site' : 'news.lnr.miaistok' }
 'zemlug.ru'  : { 'site' : 'news.lnr.zemlug' }
+'luganskonline.su'  : { 'site' : 'news.lnr.luganskonline' }
 
 ###news.nvr
 'voskhodinfo.su'  : { 'site' : 'news.nvr.voshod_info' }

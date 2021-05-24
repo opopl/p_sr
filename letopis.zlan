@@ -11,7 +11,7 @@ page
 page
 	set url https://aforisma.ru/gogol-citaty/
 	set tags rusmir,gogol_nikolai,fraza,literatura,kultura,rossia,ukraina
-on
+off
 global
 	set limit 100
 	setlist opts
@@ -29265,6 +29265,7 @@ page
 page
 	set url https://strana.ua/news/335015-opublikovano-pervoe-video-s-protasevichem-on-hovorit-chto-daet-priznatelnye-pokazanija.html
 	set tags __may_2021.protasevich.belarus.zaderzhanie
+on
 page
 	set url https://news.obozrevatel.com/politics/novyij-sssr-v-kotoryij-vas-zamanivayut-mificheskim-vkusnyim-plombirom.htm
 	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,lukashenko_aleksandr,morozhenoje.plombir,sssr

@@ -29093,6 +29093,21 @@ page
 page
 	set url https://strana.ua/opinions/334891-u-pilota-byli-mezhdunarodnye-pravila-i-prikaz-saditsja.html
 	set tags 2016,__may_2021.protasevich.belarus.zaderzhanie,belarus,belavia.aviakompania,ilon_mask,lowcoster,protasevich_roman.belarus.nexta,ryanair.aviakompania,ukraina
+page
+	set url https://strana.ua/news/334907-evrosojuz-ne-iskljuchaet-ostanovki-aviasoobshchenija-i-nazemnykh-perevozok-s-belarusju.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,avia,aviacia,es,evropa,kiev,oblet,polet,protasevich_roman.belarus.nexta,samolet,ukraina
+page
+	set url https://lenta.ru/news/2021/05/24/prostr/
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviacia,belarus,minsk,protasevich_roman.belarus.nexta,samolet,vilnjus.litva
+page
+	set url https://kiev.strana.ua/334915-na-shuljavskom-mostu-v-kieve-iz-asfalta-bet-voda.html
+	set tags avaria,doroga,fontan,kiev,most.kiev.shuljavskij,ukraina,voda
+page
+	set url https://kiev.strana.ua/334347-v-kieve-na-holoseevskom-prospekte-prorvalo-trubu-mashiny-povrezhdeny.html
+	set tags avaria,biblioteka.kiev.vernadskogo,fontan,gejzer,goloseevo,kiev,teplosetj,ukraina,voda
+page
+	set url https://beztabu.net/yevrobachennya-2021-ukrayina-posila-pyate-misce_n73311
+	set tags evrovidenie,go_a.gruppa,golosovanie,kultura,muzyka,ukraina
 eof
 off
 page

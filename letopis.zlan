@@ -29129,6 +29129,21 @@ page
 page
 	set url http://lug-info.com/news/one/kievskie-siloviki-razmestili-bronetehniku-v-rajone-orehovo-narodnaya-miliciya-68094
 	set tags bronetehnika,donbass,kiev,oruzhie,ukraina,vojna
+page
+	set url https://from-ua.com/articles/600829-daite-nam-groshei-bolshaya-ukrainskaya-mechta-o-velikoi-halyave.html
+	set tags dengi,ekonomika,finansy,haljava,mechta,ukraina
+page
+	set url https://strana.ua/news/334927-samolety-ryanair-vse-eshche-letajut-nad-belarusju.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviacia,belarus,polet,ryanair.aviakompania
+page
+	set url https://strana.ua/news/334910-devushku-romana-protasevicha-zaderzhali-v-minske.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,devushka,nexta,protasevich_roman.belarus.nexta
+page
+	set url https://sharij.net/zaderzhanie-protasevicha-kem-on-byl-ranee-i-za-chto-emu-mojet-grozit-smertnaya-kazn
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,kazn,kazn.smertnaja,nakazanie,protasevich_roman.belarus.nexta,ugroza
+page
+	set url https://sharij.net/sluga-naroda-obyasnila-kak-poluchila-kvartiru-v-kieve-za-165-tysyach-griven
+	set tags bezuglaja_marjana.deputat,cena,kiev,kvartira,objasnenie,sluga_naroda,ukraina,verhovna_rada
 eof
 off
 page

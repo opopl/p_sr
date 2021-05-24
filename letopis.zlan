@@ -28982,6 +28982,72 @@ page
 page
 	set url https://www.pravmir.ru/akademik-bogolyubov-nereligioznyx-fizikov-mozhno-pereschitat-po-palcam/
 	set tags biografia,bogoljubov_nikolaj.fizik,fizik,fizika,istoria,pravoslavie,rusmir,sssr,ukraina,vera
+page
+	set url https://strana.ua/news/334722-kto-i-pochemu-izvinjaetsja-posle-kritiki-ukrainizatsii-i-vyshivanok.html
+	set tags analitika,babkova_evgenia.harkov,cenzura,harkov,jazyk,leonenko_liza,mirotvorec_sajt,mova,postanovka,rusmir,samocenzura,tarasjuk_anastasia,ukraina,ukrainizacia
+page
+	set url https://kiev.strana.ua/334881-smertelnoe-dtp-pod-kievom-dva-cheloveka-shoreli-zazhivo-obezhlavlen-prokhozhij.html
+	set tags avaria,doroga,dtp,gruzovik,kiev,peshehod,policia,smert,tragedia,trassa.kiev_zhitomir,ukraina
+page
+	set url https://kiev.strana.ua/334693-v-rezultate-dtp-na-trasse-kiev-odessa-lishilis-zhizni-dva-cheloveka.html
+	set tags avaria,doroga,dtp,kiev,kiev_obl.ukraina,odessa,smert,trassa.kiev_odessa,ukraina
+page
+	set url https://strana.ua/opinions/334868-protasevich-vyhljadit-zhertvennoj-peshkoj-zapada.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,peshka,protasevich_roman.belarus.nexta,zapad,zhertva
+page
+	set url https://strana.ua/opinions/334869-nyneshnee-evrovidenie-eto-uzhe-sovsem-ne-molodezhnaja-muzyka.html
+	set tags evrovidenie,muzyka,showbiz,vpechatlenie,molodezh
+page
+	set url https://strana.ua/opinions/334870-tem-kto-vozmushchaetsja-posadkoj-samoleta-v-belarusi-stoit-perenestis-na-5-let-nazad.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aeroport.kiev,avia,aviacia,belarus,belavia.aviakompania,kiev,samolet,ukraina,vozmuschenie
+page
+	set url https://strana.ua/opinions/334873-pochemu-britantsy-pjut-pivo-a-ne-vino.html
+	set tags alkogol,britanec,britania,geopolitika,obschestvo,pivo,vino
+page
+	set url https://strana.ua/opinions/334883-zapad-nam-ne-pomozhet-nas-prezirajut-ot-nas-ustali.html
+	set tags future,maidan3,mysli,obschestvo,pomosch,rossia,ukraina,zapad
+page
+	set url https://strana.ua/news/334888-latvijskie-aviakompanii-obletajut-belarus-iz-za-intsidenta-s-protasevichem.html
+	set tags airbaltic.aviakompania,avia,aviacia,belarus,latvia,riga
+page
+	set url https://strana.ua/news/334852-pojavilas-zapis-razhovora-pilota-samoleta-protasevicha-s-minskim-aeroportom.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie
+page
+	set url https://strana.ua/news/334850-romanaprotasevicha-zaderzhali-posle-publikatsii-eho-foto-iz-aeroporta.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie
+page
+	set url https://strana.ua/news/334843-otets-roman-protasevicha-prokommentiroval-eho-zaderzhanie-v-aeroportu-minska.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,kommentarii,otec,protasevich_roman.belarus.nexta,semja,syn
+page
+	set url https://strana.ua/news/334837-roman-protasevich-zajavil-chto-khb-sledil-za-nim-eshche-v-aeroportu-afin.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,grecia,kgb.belarus,nexta,protasevich_roman.belarus.nexta,specsluzhba
+page
+	set url https://strana.ua/news/292085-iz-nexta-ushel-roman-protasevich.html
+	set tags belarus,internet,nexta,protasevich_roman.belarus.nexta,telegram
+page
+	set url https://racurs.ua/b205-press-konferenciya-zelenskogo-s-tochki-zreniya-psihiatrii.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,analiz,chelovek,diagnoz,myshlenie,press_konferencia,psihiatria,psihologia,ukraina,zelenskii_vladimir
+page
+	set url https://racurs.ua/b204-gosizmena-i-domashniy-arest-parad-neadekvatov.html
+	set tags __may_2021.medvedchuk,jurisprudencia,kiev,kiva_ilja,opzzh,podmostki,rabinovich_vadim,sud.kiev.pecherskij,teatr,ukraina,zelenskii_vladimir
+page
+	set url https://racurs.ua/b202-strashnyy-vopros.html
+	set tags chelovek,gegel_georg,istoria,kultura,lenin_vladimir,rossia
+page
+	set url https://www.dialog.ua/opinion/229800_1621768170
+	set tags evrovidenie,go_a.gruppa,pritula_sergej,ukraina
+page
+	set url https://lenta.ru/news/2021/05/24/bel_kgb/
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,evropa,nexta,protasevich_roman.belarus.nexta,ryanair.aviakompania
+page
+	set url https://sharij.net/nardepa-shevchenko-isklyuchili-iz-slugi-naroda
+	set tags frakcia,iskljuchenie,shevchenko_evgenii,sluga_naroda,ukraina,verhovna_rada
+page
+	set url https://sharij.net/my-s-baczkoj-za-narod-nardep-shevchenko-podderzhal-zaderzhanie-protasevicha
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,nexta,protasevich_roman.belarus.nexta,shevchenko_evgenii
+page
+	set url https://kiev.strana.ua/334882-v-tsentre-kieva-neadekvatnyi-paren-razbil-steklo-patrulnoj-mashine.html
+	set tags deboshir,huliganstvo,incident,kiev,kreschatik.kiev,policia,ukraina
 eof
 off
 page

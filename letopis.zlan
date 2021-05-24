@@ -29147,6 +29147,27 @@ page
 page
 	set url https://sharij.net/evrovidenie-v-evropresse-italiya-pobeditel-germaniya-i-britaniya-pasut-zadnih-a-ukrainu-nazvali-koshmarnoj-tanczevalnoj-ugrozoj
 	set tags evropa,evrovidenie,go_a.gruppa,muzyka,pressa,tanec,ugroza,ukraina,vpechatlenie
+page
+	set url https://life.dialog.ua/229828_1621801145
+	set tags paraolimpics,pobeda,sport,ukraina
+page
+	set url https://112ua.tv/statji/kladbishhe-imperiy-chemu-nauchila-ssha-i-ukrainu-voyna-v-afganistane-578649.html
+	set tags afganistan,imperia,ukraina,usa
+page
+	set url https://strana.ua/news/334889-chechentsy-batalona-shejkha-mansura-pod-sanktsijami-zelenskoho-kak-oni-popali-v-chernyj-spisok.html
+	set tags bataljon.ato.imeni_shejha_mansura,bereza_borislav,chechenec,chechnja,dobrobaty,donbass,jarosh_dmitrii,rnbo,sankcii,ukraina,vojna,vor_v_zakone,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/334943-v-dele-virastjuka-zelenskomu-luchshe-ne-davit-na-sud-i-ne-nasilovat-tsik.html
+	set tags ivano_frankovsk,politika,ukraina,virastjuk_vasilij,vybory,zelenskii_vladimir
+page
+	set url https://gazeta.ua/blog/55122/merzota-i-zrada-v-odnomu-flakoni-vlada-vnesla-u-sankcijnij-spisok-dobrovolciv
+	set tags ato,bataljon.ato.imeni_shejha_mansura,chechenec,chechnja,dobrobaty,donbass,fsb,rnbo,rossia,sankcii,ukraina,vojna,zelenskii_vladimir,zrada
+page
+	set url https://gazeta.ua/blog/55100/bachvanski-rusnaki-nasha-najdavnisha-diaspora-e-unikalna-knizhka-pro-yihnyu-dolyu
+	set tags diaspora,istoria,narod,rusnak,serbia,ukraina
+page
+	set url https://gazeta.ua/blog/55105/gnobiti-za-ne-taku-vishivanku-yak-nasmihatisya-z-togo-hto-zagovoriv-ukrayinskoyu
+	set tags den.vyshyvanki.ukr,kosovorotka,tradicii,travlja,ukraina,vyshyvanka,zelenskii_vladimir
 eof
 off
 page

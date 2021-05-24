@@ -29231,6 +29231,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/28470650.html
 	set tags cerkov,kiev,lavra,pravoslavie,turizm,ukraina,vera
+page
+	set url https://www.radiosvoboda.org/a/29531992.html
+	set tags dekomunizacia,gerb.sssr,kiev,lavra,rodina_mat.kiev,ukraina
 eof
 off
 page

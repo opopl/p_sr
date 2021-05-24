@@ -29246,6 +29246,15 @@ page
 page
 	set url http://lug-info.com/news/one/vospitanniki-kadetskogo-klassa-gimnazii-60-imeni-200-letiya-luganska-prinyali-prisyagu-68129
 	set tags kadety,lnr,lugansk,obrazovanie,prisjaga,shkola,shkola.gimnazia
+page
+	set url https://zen.yandex.ru/media/rubez/nachalo-jizni-kniazia-vladimira-kak-kniaz-bejal-iz-novgoroda-i-kakuiu-tainu-peredala-emu-mat-rasskazyvaiu-60a578972b5fbd2cdfb984a9
+	set tags drevrus,istoria,kiev,kievrus,knjaz_vladimir,novgorod,rusmir
+page
+	set url https://radonezh.ru/2021/05/24/chelovek-kak-landshaft-po-kotoromu-techyot-mysl
+	set tags chelovek,myshlenie,psihologia,rusmir,slovo,sovest,svoboda
+page
+	set url https://hvylya.net/interview/231005-nuzhna-ekonomicheskaya-hunta-ili-kak-izmenit-konchenoe-gosudarstvo-v-ukraine
+	set tags ukraina,hunta,ekonomika
 eof
 off
 page

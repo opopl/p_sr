@@ -29234,6 +29234,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/29531992.html
 	set tags dekomunizacia,gerb.sssr,kiev,lavra,rodina_mat.kiev,ukraina
+page
+	set url https://www.radiosvoboda.org/a/28382399.html
+	set tags kiev,kievrus,mova,ukraina
 eof
 off
 page

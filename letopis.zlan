@@ -29081,6 +29081,18 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/05/24/7294569/
 	set tags 2013,2014,kiev,maidan2,rassledovanie,revgidnosti,silovik,ukraina
+page
+	set url https://strana.ua/news/334911-sozdatel-telegram-kanala-nexta-uhovarival-pilotov-otkazatsja-ot-posadki-v-minske.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,minsk,nexta,protasevich_roman.belarus.nexta,telegram
+page
+	set url https://kiev.strana.ua/334707-v-kieve-u-posolstva-belarusi-zaderzhali-aktsionera-kotoryj-pytalsja-brosat-v-zdanie-navoz.html
+	set tags belarus,kiev,muzhchina,nacgvardia,navoz,posolstvo,posolstvo.belarus.kiev,ukraina
+page
+	set url https://strana.ua/opinions/334887-eshche-nikomu-iz-prezidentov-ne-udalos-obedinit-ukrainu.html
+	set tags 1933,depressia.usa.velikaja,novyj_kurs.usa.ruzvelt,objedinenie,prezident.usa,ruzvelt_franklin.fdr,ukraina,usa
+page
+	set url https://strana.ua/opinions/334891-u-pilota-byli-mezhdunarodnye-pravila-i-prikaz-saditsja.html
+	set tags 2016,__may_2021.protasevich.belarus.zaderzhanie,belarus,belavia.aviakompania,ilon_mask,lowcoster,protasevich_roman.belarus.nexta,ryanair.aviakompania,ukraina
 eof
 off
 page

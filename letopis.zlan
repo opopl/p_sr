@@ -29048,6 +29048,39 @@ page
 page
 	set url https://kiev.strana.ua/334882-v-tsentre-kieva-neadekvatnyi-paren-razbil-steklo-patrulnoj-mashine.html
 	set tags deboshir,huliganstvo,incident,kiev,kreschatik.kiev,policia,ukraina
+page
+	set url https://news.obozrevatel.com/society/donbass-nakryivaet-vodno-ekologicheskij-krizis-razbiraemsya-est-li-riski-dlya-vsej-territorii-ukrainyi.htm
+	set tags donbass,ekologia,katastrofa,opasnost',voda
+page
+	set url https://news.obozrevatel.com/travel/location/stala-perelezat-so-svoego-kresla-i-udarila-zhenschinu-v-visok-novaya-versiya-konflikta-rejsa-kiev-dominikana.htm
+	set tags dominikana,draka,kiev,konflikt,napadenie,samolet,turizm,ukraina
+page
+	set url https://strana.ua/news/334897-imena-chechentsev-iz-bat-shejkha-mansura-popavshie-pod-sanktsii-snbo-stali-izvestny-strane.html
+	set tags chechenec,chechnja,jarosh_dmitrii,rnbo,sankcii,ukraina
+page
+	set url https://strana.ua/news/334856-dmitrij-jarosh-zajavil-chto-pod-sanktsii-snbo-popali-chechentsy-sluzhivshie-v-ato.html
+	set tags chechenec,dobrobaty,dobrovolec,jarosh_dmitrii,pravyj_sektor,rnbo,sankcii,ukraina
+page
+	set url https://strana.ua/opinions/334886-svezhaja-sotsiolohija-pokazala-snizhenie-kolichestva-verujushchikh.html
+	set tags cerkov,poroshenko_petr,sociologia,socopros,statistika,ukraina,vera
+page
+	set url https://strana.ua/news/334898-hlava-ryanair-nazval-posadku-samoleta-v-minske-uhonom.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,nexta,piratstvo,protasevich_roman.belarus.nexta,ryanair.aviakompania
+page
+	set url https://strana.ua/news/334867-v-ssha-prizvali-zakryt-nebo-nad-belarusju-iz-za-zaderzhanija-protasevicha.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,icao,osuzhdenie,ryanair.aviakompania,usa
+page
+	set url https://strana.ua/news/334862-trebuem-eho-nemedlennoho-osvobozhdenija-hosdep-ssha-obratilsja-k-belarusi-posle-zaderzhanija-protasevicha.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,gosdep,nexta,osuzhdenie,protasevich_roman.belarus.nexta
+page
+	set url https://www.radiosvoboda.org/a/kyyevo-pecherska-i-pochayivska-lavry-tserkovna-problema/31269443.html
+	set tags cerkov,kiev,lavra,pcu,pravoslavie,ukraina,vera
+page
+	set url https://www.radiosvoboda.org/a/ktymsky-pokhid-na-moskvu/31269460.html
+	set tags 1521,istoria,krym,moskva,rossia,rusmir
+page
+	set url https://www.pravda.com.ua/articles/2021/05/24/7294569/
+	set tags 2013,2014,kiev,maidan2,rassledovanie,revgidnosti,silovik,ukraina
 eof
 off
 page

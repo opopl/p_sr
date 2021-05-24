@@ -29117,6 +29117,12 @@ page
 page
 	set url https://news.obozrevatel.com/show/people/10-strannyih-veschej-iz-sssr-kotoryie-sejchas-sbivayut-s-tolku.htm
 	set tags hitrost,istoria,obschestvo,sssr,zhizn
+page
+	set url https://news.obozrevatel.com/show/people/uberite-rossijskij-sapog-i-ukrainskaya-kultura-pobet-vse-mirovyie-rekordyi.htm
+	set tags evrovidenie,kultura,manizha,muzyka,rossia,sapog,showbiz,ukraina
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-predateli-v-kryimu-prishli-k-vyivodu-chto-rossiyane-huzhe-glistov.htm
+	set tags glisty,krymnash,predatel',rossia
 eof
 off
 page

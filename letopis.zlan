@@ -29123,6 +29123,12 @@ page
 page
 	set url https://news.obozrevatel.com/society/novosti-kryimnasha-predateli-v-kryimu-prishli-k-vyivodu-chto-rossiyane-huzhe-glistov.htm
 	set tags glisty,krymnash,predatel',rossia
+page
+	set url http://lug-info.com/news/one/teatry-kukol-iz-lnr-dnr-i-rf-proveli-onlajn-vystavku-risunkov-my-slavyane-68105
+	set tags kukla,lnr,lugansk,risunok,rusmir,slavjane,teatr,teatr.kukolnyj
+page
+	set url http://lug-info.com/news/one/kievskie-siloviki-razmestili-bronetehniku-v-rajone-orehovo-narodnaya-miliciya-68094
+	set tags bronetehnika,donbass,kiev,oruzhie,ukraina,vojna
 eof
 off
 page

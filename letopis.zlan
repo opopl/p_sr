@@ -29111,6 +29111,12 @@ page
 page
 	set url https://www.radiosvoboda.org/a/zakordonna-dopomoga-dlia-zsu/31266364.html
 	set tags armia,donbass,kiev,podderzhka,ukraina,vojna,vsu
+page
+	set url https://news.obozrevatel.com/russia/putin-tryaset-yaschik-pandoryi-no-poka-ne-otkryivaet.htm
+	set tags jaschik.pandory,putin_vladimir,rossia,zapad
+page
+	set url https://news.obozrevatel.com/show/people/10-strannyih-veschej-iz-sssr-kotoryie-sejchas-sbivayut-s-tolku.htm
+	set tags hitrost,istoria,obschestvo,sssr,zhizn
 eof
 off
 page

@@ -1,6 +1,7 @@
 
 sel:
   clean:
+    - .footerSingleNews
   only:
     - article.mainArticle
   keep:

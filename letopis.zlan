@@ -29272,6 +29272,12 @@ page
 page
 	set url https://umoloda.kyiv.ua/number/3730/164/157395/
 	set tags 150_let,2023,istoria,kiev,mazepa_ivan,pamjat,pamjatnik,skoropadskij_getman,ukraina
+page
+	set url https://ukraina.ru/opinion/20210524/1031449450.html
+	set tags _important,analitika,future,nacia,obschestvo,rossia,strana,ukraina
+page
+	set url https://ukraina.ru/history/20210524/1031440451.html
+	set tags _important,bogomolec_olga,istoria,kiev,maidan2,ukraina
 eof
 off
 page

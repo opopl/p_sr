@@ -29168,6 +29168,9 @@ page
 page
 	set url https://gazeta.ua/blog/55105/gnobiti-za-ne-taku-vishivanku-yak-nasmihatisya-z-togo-hto-zagovoriv-ukrayinskoyu
 	set tags den.vyshyvanki.ukr,kosovorotka,tradicii,travlja,ukraina,vyshyvanka,zelenskii_vladimir
+page
+	set url https://vz.ru/society/2021/5/24/1100725.html
+	set tags 1947,kultura,marafon,obrazovanie,obschestvo,rossia,sssr,znanie,znanie.rossia.obschestvo
 eof
 off
 page

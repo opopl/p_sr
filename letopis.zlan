@@ -1,4 +1,12 @@
 off
+on
+global
+	set limit 2
+	setlist opts
+		no_site
+		no_date
+	setlist acts
+		db_update
 page 
 	set url https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
 	set ii sternenko_mova_odessa
@@ -28942,7 +28950,6 @@ page
 page
 	set url https://varlamov.ru/4204542.html
 	set tags naselenie,obschestvo,rossia,vymiranie
-on
 page
 	set url https://zen.yandex.ru/media/astroprog/kalendar-sobytii-buduscego-ot-iakova-briusa-chto-nas-jdet-i-pravda-li-eto-60a9e21c27a3a31d0100a9b2
 	set tags istoria,kalendar,rossia,rusmir
@@ -29258,6 +29265,12 @@ page
 page
 	set url https://strana.ua/news/334969-epidemija-chernoj-pleseni-mukormikoz-simptomy-lechenie-mozhet-li-popast-v-ukrainu.html
 	set tags bolezn.chernaja_plesenj,covid,epidemia,india,mukormikoz,smert,zabolevajemost'
+page
+	set url https://strana.ua/news/335015-opublikovano-pervoe-video-s-protasevichem-on-hovorit-chto-daet-priznatelnye-pokazanija.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie
+page
+	set url https://news.obozrevatel.com/politics/novyij-sssr-v-kotoryij-vas-zamanivayut-mificheskim-vkusnyim-plombirom.htm
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,lukashenko_aleksandr,morozhenoje.plombir,sssr
 eof
 off
 page

@@ -29171,6 +29171,9 @@ page
 page
 	set url https://vz.ru/society/2021/5/24/1100725.html
 	set tags 1947,kultura,marafon,obrazovanie,obschestvo,rossia,sssr,znanie,znanie.rossia.obschestvo
+page
+	set url https://vz.ru/opinions/2021/5/24/1100022.html
+	set tags cerkov,drevrus,istoria,kiev,kievrus,mitropolit_illarion,pismennost',pravoslavie,rossia,rus',slavjane,slovo_o_zakone_i_blagodati,vera
 eof
 off
 page

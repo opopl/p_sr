@@ -29174,6 +29174,63 @@ page
 page
 	set url https://vz.ru/opinions/2021/5/24/1100022.html
 	set tags cerkov,drevrus,istoria,kiev,kievrus,mitropolit_illarion,pismennost',pravoslavie,rossia,rus',slavjane,slovo_o_zakone_i_blagodati,vera
+page
+	set url https://kiev.strana.ua/334937-proezd-v-metro-kieva-podorozhaet.html
+	set tags cena,dengi,ekonomika,finansy,gorod,kiev,metro,transport,ukraina
+page
+	set url https://strana.ua/news/334960-belarus-zaverila-chto-ne-vynuzhdala-samolet-ryanair-saditsja-v-minske.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviadispetcher,belarus,hamas.dvizhenie,kiev,minsk,nexta,protasevich_roman.belarus.nexta,ryanair.aviakompania,samolet,ugroza,ukraina
+page
+	set url https://strana.ua/news/334955-v-mintranse-belarusi-rasskazali-podrobnosti-vynuzhdennoj-posadki-lajnera-ryanair.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviacia,belarus,protasevich_roman.belarus.nexta,ryanair.aviakompania,ugroza,vilnjus.litva
+page
+	set url https://strana.ua/opinions/334962-delo-protasevicha-eshche-odin-povod-razdut-kholodnuju-vojnu.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,_important,belarus,donbass,evropa,holodnaja_vojna,narod,nexta,protasevich_roman.belarus.nexta,russkie,ukraina,ukraincy,vojna
+page
+	set url https://strana.ua/opinions/334970-chem-otlichaetsja-poroshenko-ot-lukashenko-razresheniem-tormozit-samolety.html
+	set tags 2016,__may_2021.protasevich.belarus.zaderzhanie,belarus,eto_drugoje,lukashenko_aleksandr,poroshenko_petr,protasevich_roman.belarus.nexta,samolet,sravnenie,ukraina
+page
+	set url https://strana.ua/opinions/334976-nash-mid-zhivet-v-kakom-to-vydumannom-mire.html
+	set tags fantazia,mzs,rossia,sevpotok2,turcia,ukraina
+page
+	set url https://strana.ua/news/334972-zelenskij-poruchil-zakryt-aviasoobshchenie-ukrainy-s-belarusju.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviacia,aviasoobschenie,belarus,ukraina,zapret,zelenskii_vladimir
+page
+	set url https://strana.ua/news/334946-zaderzhanie-protasevicha-chto-stalo-ponjatno-na-sehodnja.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,posledstvie,ukraina
+page
+	set url https://strana.ua/news/334953-v-kievskom-metro-nashli-8-letneho-malchika-kotoryj-ne-khodit-v-shkolu.html
+	set tags deti,kiev,metro,metro.kiev,metro.kiev.dorogozhichi,odinochestvo,policia,rebenok,semja,ukraina
+page
+	set url https://strana.ua/news/334967-kvartira-marjany-bezuhloj-v-kieve-stoit-shest-tysjach-dollarov-kak-takoe-mozhet-byt.html
+	set tags bezuglaja_marjana.deputat,cena,finansy,kiev,kvartira,nedvizhimost',skandal,ukraina
+page
+	set url https://sharij.net/zhdet-smertnaya-kazn-kakie-smi-i-pod-kakim-sousom-razgonyayut-messedzh-o-veroyatnoj-smertnoj-kazni-protasevicha
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviacia,belarus,kazn.smertnaja,minsk,nakazanie,ozhidanie,protasevich_roman.belarus.nexta,samolet
+page
+	set url https://ukraina.ru/exclusive/20210524/1031456674.html
+	set tags 2016,__may_2021.protasevich.belarus.zaderzhanie,belarus,belavia.aviakompania,poroshenko_petr,protasevich_roman.belarus.nexta,ukraina
+page
+	set url https://strana.ua/news/334635-zelenskij-dal-ukrainskoe-hrazhdanstvo-spikeru-pravoho-sektora-artemu-sokropadskomu.html
+	set tags grazhdanstvo,moskva,rossia,skoropadskij_artem.pravyj_sektor.ukraina,ukraina,zelenskii_vladimir
+page
+	set url https://ukraina.ru/exclusive/20210524/1031446469.html
+	set tags 2016,__may_2021.protasevich.belarus.zaderzhanie,aviacia,belarus,kazn.smertnaja,nakazanie,nexta,protasevich_roman.belarus.nexta,samolet,ukraina,zapad
+page
+	set url https://strana.ua/news/334996-ukraina-prekratit-polety-v-belarus-danilov.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviasoobschenie,belarus,danilov_aleksei,rnbo,ukraina,zapret
+page
+	set url https://gazeta.ua/blog/55118/biloruskogo-fyurera-navryad-htos-zupinit-protasevicha-chekaye-pogane
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,kazn.smertnaja,protasevich_roman.belarus.nexta,rabstvo
+page
+	set url https://strana.ua/news/334987-v-rihe-na-chm-po-khokkeju-snjali-flah-belarusi-minsk-vyslal-rabotnikov-posolstva-latvii.html
+	set tags belarus,dip_otnoshenia,flag,latvia,skandal,sorevnovanie,sport
+page
+	set url https://www.radiosvoboda.org/a/news-minkult-batkovscchyna-matir/31271141.html
+	set tags gerb.sssr,kiev,radiosvoboda,rodina_mat.kiev,ukraina
+page
+	set url https://www.radiosvoboda.org/a/28470650.html
+	set tags cerkov,kiev,lavra,pravoslavie,turizm,ukraina,vera
 eof
 off
 page

@@ -110,6 +110,7 @@ include:
 
 ###news_ua
     - news.ua.news24ua
+    - news.ua.nv
     - news.ua.umoloda
     - news.ua.hromadske
     - news.ua.vesti_ua

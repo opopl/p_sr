@@ -46,7 +46,7 @@ page
 	set tags ukraina,di_rubens,onacka_taisia,blogger,skandal,shtirliz,vsu,rossia
 on
 global
-	set limit 3
+	set limit 100
 	setlist opts
 		no_site
 		no_date
@@ -29403,6 +29403,9 @@ page
 page
 	set url https://news.obozrevatel.com/show/ukrainu-opyat-zarezali-na-evrovidenii-zachem-nam-konkurs-i-stoit-li-ot-nego-otkazatsya.htm
 	set tags evrovidenie,konkurs,muzyka,politika,ukraina
+page
+	set url http://lug-info.com/news/one/pervyj-zampred-narodnogo-soveta-pozdravil-ucenikov-stolicnoj-skoly-no-21-s-okoncaniem-uceby-16219356564714-68139
+	set tags deti,linejka,lnr,ns_lnr,pozdravlenie,shkola
 eof
 off
 page

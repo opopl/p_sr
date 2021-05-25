@@ -29399,6 +29399,90 @@ on
 page
 	set url https://strana.ua/articles/335034-chto-izmenilos-v-novom-variante-reformy-sbu.html
 	set tags bezuglaja_marjana.deputat,sbu,sluga_naroda,specsluzhba,ukraina,verhovna_rada,zakon,zakonoprojekt
+page
+	set url https://strana.ua/news/335061-deshevye-aviabilety-iz-kiev-v-moskvu-pravila-tranzita-v-es-i-vezda-v-rf-vozvrat-biletov-belavia.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,avia,aviacia,belarus,kiev,ukraina,zapret
+page
+	set url https://strana.ua/news/335132-spisok-stran-ohranichivshikh-aviasoobshchenie-s-belarusju.html
+	set tags __may_2021.aviacia.zapret.belarus,__may_2021.protasevich.belarus.zaderzhanie,aviacia,belarus,evropa
+page
+	set url https://strana.ua/news/334956-hia-2021-kakie-vypusknye-ekzameny-sdajut-shkolakh-dnr-i-kuda-idut-uchitsja.html
+	set tags dnr,donbass,doneck,obrazovanie,shkola,ukraina
+page
+	set url https://strana.ua/news/326067-restoran-bao-i-khlebnyj-zakryli-posle-vizita-hospotrebsluzhby.html
+	set tags geraschenko_anton,karantin,kiev,restoran,ukraina,zakrytie
+page
+	set url https://www.radiosvoboda.org/a/news-kyiv-maietok-barbana/31272826.html
+	set tags kiev,protest,ukraina,zastrojka
+page
+	set url https://life.pravda.com.ua/society/2021/05/25/244998/
+	set tags derzhava,grazhdanstvo,krym,okupacia,passport,podrostki,simferopol,ukraina
+page
+	set url https://www.pravda.com.ua/columns/2021/05/25/7294759/
+	set tags dissidents,istoria,saharov_andrej.fizik.sssr,sssr,svoboda,svoboda_slova
+page
+	set url https://strana.ua/news/335116-rossijskie-rieltory-nazvali-kiev-liderom-po-skupke-zhilja-v-moskve.html
+	set tags dengi,ekonomika,finansy,kiev,kievljane,moskva,nedvizhimost',pokupka,rossia,ukraina
+page
+	set url https://zaxid.net/lvivskiy_aktivist_domigsya_skasuvannya_regionalnoyi_rosiyskoyi_movi_v_harkovi_n1519469
+	set tags harkov,jazyk,jazyk.regionalnyj.ukraina,litinskij_svjatoslav,mova,sud,ukraina,zakon
+page
+	set url https://riafan.ru/1444235-reakciyu-rossiyan-na-cheloveka-s-simvolikoi-ukrainy-snyali-na-video?utm_referrer=https%3A%2F%2Fzen.yandex.com
+	set tags eksperiment,flag.ukraina,ludi,moskva,rossia,simvolika,simvolika.ukraina,ukraina
+page
+	set url https://zaxid.net/v_okupovanomu_sevastopoli_zirvali_pokaz_propagandistskogo_filmu_opolchenochka_n1519475
+	set tags dnr,donbass,film,film.opolchenochka,kino,kinoteatr,kultura,lnr,rossia,sevastopol,skandal,vojna
+page
+	set url https://www.volyn.com.ua/news/183045-lesia-v-hrushakh
+	set tags 150_let,derevo,grusha.derevo,kiev,lesja_ukrainka,posadka.derevja,ukraina
+page
+	set url https://www.volyn.com.ua/news/183250-u-lutsku-iaskravo-i-kreatyvno-zapaliuvaly-zori-tvorchosti-foto
+	set tags deti,festival,kultura,luck,tvorchestvo,ukraina
+page
+	set url https://www.volyn.com.ua/news/183209-iakyi-iz-zelenskoho-fiurer-3
+	set tags fjurer,janukovich_viktor,politika,ukraina,zelenskii_vladimir
+page
+	set url https://zz.te.ua/sydiv-na-kolii-i-na-syhnaly-ne-reahuvav-u-politsii-rozpovily-detali-trahedii-nepodalik-ternopolia-foto/
+	set tags naezd,poezd,smert,ternopil,tragedia,ukraina
+page
+	set url https://zz.te.ua/zabih-u-vyshyvankakh-vlashtuvaly-u-ternopoli-foto/
+	set tags den.vyshyvanki.ukr,prazdnik,sport,ternopil,ukraina,vyshyvanka,zabeg
+page
+	set url https://zz.te.ua/my-budemo-borotysia-za-svitle-maybutnie-nashoi-natsii-mykhaylo-holovko-na-marshi-heroiv-u-ternopoli/
+	set tags den.vyshyvanki.ukr,geroi,geroizm,marsh,nacia,nacionalist,pamjat,ternopil,tjagnybok_oleg,ukraina,vo_svoboda,vyshyvanka
+page
+	set url https://zz.te.ua/motoroshnyy-vypadok-v-ternopoli-khlopchykovi-u-vukho-zalizla-zhakhlyva-istota/
+	set tags deti,incident,lechenie,medik,skoraja,tarakan,ternopil,ukraina
+page
+	set url https://zz.te.ua/vybranyk-bozhyy-i-henial-nyy-vozhd-iak-u-pochaievi-moskovs-kyy-patriarkhat-zustrichav-viys-ka-hitlera/
+	set tags _important,hitler_adolf,mirvojna2,ukraina,upc
+page
+	set url https://strana.ua/news/335128-vezd-v-rossiju-dlja-inostrantsev-2021-vlasti-oslabili-ohranichenija.html
+	set tags granica,pravila.peresechenie.granica,rossia
+page
+	set url https://strana.ua/opinions/335148-ukraina-stremitsja-pereevropit-evropu-v-ee-evropejskosti.html
+	set tags __may_2021.aviacia.zapret.belarus,__may_2021.protasevich.belarus.zaderzhanie,aviacia,aviasoobschenie,belarus,diktator,evropa,lukashenko_aleksandr,ukraina,zapret
+page
+	set url https://strana.ua/opinions/335152-ukraina-nikak-ne-mozhet-ulovit-novyj-trend-v-mirovoj-politike.html
+	set tags biden_joe,dialog,geopolitika,moskva,patrushev_nikolaj,rossia,tabaka,ukraina,usa
+page
+	set url https://strana.ua/opinions/335165-ukraintsy-vvozjat-vse-bolshe-mashin-znachit-stali-luchshe-zhit.html
+	set tags avto,ekonomika,import,obschestvo,ukraina
+page
+	set url https://strana.ua/opinions/335168-na-prinuditelnye-posadki-samoletov-v-mire-reahirujut-po-raznomu.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,analitika,belarus,mechta,narod,posadka.samolet.prinuzhdenie,raznica,ryanair.aviakompania,ukraina,world
+page
+	set url https://strana.ua/news/335150-kreml-i-belyj-dom-ofitsialno-nazvali-vremja-i-mesto-vstrechi-putina-i-bajdena.html
+	set tags biden_joe,podgotovka,psaki_dzhen,putin_vladimir,rossia,shvejcaria,usa,vstrecha,zheneva.shejcaria
+page
+	set url https://strana.ua/news/335166-merkel-zajavila-chto-net-dokazatelstv-prichastnosti-rf-k-posadke-samoleta-v-minske.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,germania,merkel_angela,prichastnost,rossia
+page
+	set url https://www.radiosvoboda.org/a/news-sud-rehionalnyi-status-rosiiskoi-harkiv/31272989.html
+	set tags harkov,jazyk,jazyk.regionalnyj.ukraina,mova,otmena,sud,ukraina,ukrainizacia,zakon
+page
+	set url https://gazeta.ua/blog/55116/menti-nastilki-pereatestuvalis-scho-pidzabuli-uroki-majdanu
+	set tags aktivist,belarus,navoz,policia,posolstvo.belarus.kiev,protest,rusmir,ukraina
 eof
 off
 page

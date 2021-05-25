@@ -29531,6 +29531,24 @@ page
 page
 	set url https://fraza.com/news/301319-pledge-times-o-dele-medvedchuka-karatelnaja-mashina-politsejskogo-gosudarstva-pereshla-k-ocherednomu-aktu-bezzakonija
 	set tags __may_2021.medvedchuk,medvedchuk_viktor,presledovanie,ukraina
+page
+	set url https://news.obozrevatel.com/abroad/otets-protasevicha-syinu-slomali-nos-i-vyibili-priznaniya.htm
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus
+page
+	set url https://day.kyiv.ua/uk/article/den-ukrayiny/ostriv-pamyati
+	set tags ato,dnepropetrovsk,donbass,muzei.ukr.dnepropetrovsk.ato,pamjat,ukraina,vojna
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/pro-slovyansku-solidarnist
+	set tags bratstvo,evrovidenie,go_a.gruppa,konkurs,manizha,muzyka,narod,rossia,showbiz,slavjane,solidarnost,ukraina
+page
+	set url https://opinions.glavred.info/imperiya-voskresla-pochemu-rossiya-vycherkivaet-dissidentov-iz-svoey-istorii-10273944.html
+	set tags dissidents,istoria,moskva,rossia,saharov_andrej.fizik.sssr,sssr,vystavka
+page
+	set url https://racurs.ua/b200-proshloe-kotoroe-vse-esche-s-nami.html
+	set tags 1933,golodomor,istoria,kannibalizm,obschestvo,pamjat,sssr,stalin_iosif,ukraina
+page
+	set url https://texty.org.ua/projects/103537/pro-audytoriyu-prorosijskyh-media-v-ukrayini/
+	set tags analitika,propaganda,rossia,smi.rossia,ukraina
 eof
 off
 page

@@ -29344,6 +29344,9 @@ page
 page
 	set url https://odnarodyna.org/article/marsh-zaschitnikov-borscha-ili-nash-otvet-makarevichu
 	set tags borsch,jaroslav_mudryj,makarevich_andrej,rossia,tkachenko_aleksandr,ukraina
+page
+	set url https://www.radiosvoboda.org/a/pushkin-istoriya-rusiv-borotba-ukrayintsiv-za-nezalezhnist/31269509.html
+	set tags istoria,kniga.istoria_rusov,literatura,poezia,pushkin_aleksandr,rossia,ukraina
 eof
 off
 page

@@ -29549,6 +29549,16 @@ page
 page
 	set url https://texty.org.ua/projects/103537/pro-audytoriyu-prorosijskyh-media-v-ukrayini/
 	set tags analitika,propaganda,rossia,smi.rossia,ukraina
+page
+	set url https://texty.org.ua/articles/103626/miscevi-rady-telebachennya-sport-ta-inshe-hto-porushuye-zakon-pro-movu-i-sho-robyty-shob-vin-vykonuvavsya/
+	set tags jazyk,mova,ukraina,ukrainizacia,zakon
+page
+	set url https://texty.org.ua/projects/103028/svitlo-i-morok-yak-za-chas-vijny-zminylosya-osvitlennya-vilnoyi-ukrayiny-i-okupovanyh-terytorij/
+	set tags _important,donbass,grafik,maidan2,okupacia,osveschenie,sravnenie,svet,temnota,ukraina
+page
+	set url https://texty.org.ua/d/2019/music-charts/
+	set tags _important,muzyka,rossia,showbiz,statistika,ukraina,youtube
+	set date 25_05_2021
 eof
 off
 page

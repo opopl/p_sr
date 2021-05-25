@@ -44,14 +44,6 @@ page
 page
 	set url https://www.gazeta.ru/army/2021/01/21/13449800.shtml
 	set tags ukraina,di_rubens,onacka_taisia,blogger,skandal,shtirliz,vsu,rossia
-on
-global
-	set limit 100
-	setlist opts
-		no_site
-		no_date
-	setlist acts
-		db_update
 page 
 	set url https://strana.ua/news/312469-sternenko-i-natsionalisty-uhrozhajut-arteli-u-mashkovichej-v-odesse.html
 	set ii sternenko_mova_odessa
@@ -27144,9 +27136,6 @@ page
 	set url https://novayagazeta.ru/articles/2021/04/20/zheleznyi-khleb?utm_referrer=https%3A%2F%2Fzen.yandex.com
 	set tags krym,poezd,rossia,turizm,ukraina,vpechatlenie
 page
-	set url rusichi-neojidannye-i-interesnye-fakty-kosy-u-mujchin-iazycheskii-mat-i-zolotye-poiasa-6097e739c235fb60b67ca677
-	set tags beresta,istoria,kievrus,materschina,novgorod
-page
 	set url https://rusvesna.su/news/1621011912
 	set tags dnr,donbass,karateli,lnr,molodezh,peklo,poslanie,ukraina,video,vojna
 page
@@ -29406,6 +29395,10 @@ page
 page
 	set url http://lug-info.com/news/one/pervyj-zampred-narodnogo-soveta-pozdravil-ucenikov-stolicnoj-skoly-no-21-s-okoncaniem-uceby-16219356564714-68139
 	set tags deti,linejka,lnr,ns_lnr,pozdravlenie,shkola
+on
+page
+	set url https://strana.ua/articles/335034-chto-izmenilos-v-novom-variante-reformy-sbu.html
+	set tags bezuglaja_marjana.deputat,sbu,sluga_naroda,specsluzhba,ukraina,verhovna_rada,zakon,zakonoprojekt
 eof
 off
 page

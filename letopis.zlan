@@ -29364,6 +29364,12 @@ page
 page
 	set url https://strana.ua/news/335084-denis-kostrzhevskij-zajavil-chto-zapret-poletov-v-belarus-lishit-aeroport-zhuljany-10-dokhodov.html
 	set tags __may_2021.aviacia.zapret.belarus,aeroport,aeroport.kiev,aviacia,belarus,dengi,dohod,ekonomika,finansy,kiev,ukraina
+page
+	set url https://fraza.com/news/301299-velopalomniki-upts-s-1-po-4-ijunja-preodolejut-450-kilometrov-iz-kieva-k-pochaevskoj-lavre
+	set tags cerkov,kiev,lavra,palomnik,pravoslavie,ukraina,upc,velosiped
+page
+	set url https://fraza.com/news/301294-verhovnyj-sud-otklonil-isk-ptsu-o-vyselenii-semej-svjaschennikov-upts-na-rovenschine
+	set tags cerkov,pcu,rovno,ukraina,upc,vera,verhovnyy_sud
 eof
 off
 page

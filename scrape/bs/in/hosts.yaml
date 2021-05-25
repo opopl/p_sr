@@ -52,6 +52,10 @@
 ###news.by
 'tut.by' : { 'site' : 'news.by.tut' }
 
+###kiev
+'bigkyiv.com.ua' : { 'site' : 'kiev.bigkyiv' }
+
+
 ###news.ru
 #
 'rusvesna.su' : { 'site' : 'news.ru.rusvesna' }

@@ -1,5 +1,8 @@
 off
 page
+	set url https://www.cyberciti.biz/faq/noninteractive-shell-script-ssh-password-provider/
+	set tags pc,sshpass,ssh
+page
 	set url https://riakalm.ru/index.php/news/culture/28233-v-eliste-sostoyalsya-pervyj-otborochnyj-etap-startuyushchego-proekta-my-rossiya
 	set tags rossia,kalmykia,deti,kultura,muzyka,pesnja
 page
@@ -11,9 +14,18 @@ page
 page
 	set url https://aforisma.ru/gogol-citaty/
 	set tags rusmir,gogol_nikolai,fraza,literatura,kultura,rossia,ukraina
-off
+page
+	set url https://bigkyiv.com.ua/aktorku-lizu-vasylenko-vnesly-do-bazy-myrotvorecz/
+	set tags vasilenko_liza.blogger,moskva,kiev,ukraina,rossia,mirotvorec_sajt,obschestvo
+page
+	set url https://bigkyiv.com.ua/vesnyanyj-kyyiv-1983-roku-navit-vodu-z-fontaniv-pyly-arhivne-video/
+	set tags kiev,ukraina,foto,sssr,istoria,1983,voda,fontan
+page
+	set url https://www.hobobo.ru/poslovitsy-i-pogovorki/poslovitsy-i-pogovorki-o-rossii/
+	set tags poslovica,rossia
+on
 global
-	set limit 100
+	set limit 10
 	setlist opts
 		no_site
 		no_date
@@ -17618,12 +17630,6 @@ page
 	set url https://www.infobomb24.info/my-prosto-ne-vstyhnemo-ia-tilky-shcho-povernyvsia-z-donbasy-i-khochu-vsim-iaknaishvydshe-providomyty-shcho-tam/
 	set tags ukraina,vojna,donbass,rossia
 page
-	set url https://bigkyiv.com.ua/aktorku-lizu-vasylenko-vnesly-do-bazy-myrotvorecz/
-	set tags vasilenko_liza.blogger,moskva,kiev,ukraina,rossia,mirotvorec_sajt,obschestvo
-page
-	set url https://bigkyiv.com.ua/vesnyanyj-kyyiv-1983-roku-navit-vodu-z-fontaniv-pyly-arhivne-video/
-	set tags kiev,ukraina,foto,sssr,istoria,1983,voda,fontan
-page
 	set url http://shogi.by/lib/chess/7/
 	set tags chess,sjogi,japonia,igra
 page
@@ -18020,9 +18026,6 @@ page
 	set url https://materinstvo.ru/art/13797
 	set tags poslovica,rossia
 page
-	set url https://www.hobobo.ru/poslovitsy-i-pogovorki/poslovitsy-i-pogovorki-o-rossii/
-	set tags poslovica,rossia
-page
 	set url https://zen.yandex.ru/media/ukrru/ukrainskie-i-russkie-pogovorki-5ca99bf28bdce800b4721d52
 	set tags poslovica,ukraina,rossia
 page
@@ -18190,9 +18193,6 @@ page
 page
 	set url https://gazeta.ua/blog/54876/arestovich-zyavivsya-bilya-zelenskogo-nevipadkovo
 	set tags ukraina,obschestvo,arestovich_aleksei,zelenskii_vladimir
-page
-	set url https://www.cyberciti.biz/faq/noninteractive-shell-script-ssh-password-provider/
-	set tags pc,sshpass,ssh
 page
 	set url https://strana.ua/news/327063-aleksej-arestovich-rasskazal-o-prichinakh-hibeli-rebenka-na-okraine-donetska.html
 	set tags arestovich_aleksei,shihov_vladislav.rebenok.donbass,ukraina,rossia,donbass,vojna,vzryv,aleksandrovskoje.donbass
@@ -29265,7 +29265,6 @@ page
 page
 	set url https://strana.ua/news/335015-opublikovano-pervoe-video-s-protasevichem-on-hovorit-chto-daet-priznatelnye-pokazanija.html
 	set tags __may_2021.protasevich.belarus.zaderzhanie
-on
 page
 	set url https://news.obozrevatel.com/politics/novyij-sssr-v-kotoryij-vas-zamanivayut-mificheskim-vkusnyim-plombirom.htm
 	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,lukashenko_aleksandr,morozhenoje.plombir,sssr
@@ -29347,6 +29346,24 @@ page
 page
 	set url https://www.radiosvoboda.org/a/pushkin-istoriya-rusiv-borotba-ukrayintsiv-za-nezalezhnist/31269509.html
 	set tags istoria,kniga.istoria_rusov,literatura,poezia,pushkin_aleksandr,rossia,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/05/25/7294717/
+	set tags filologia,kultura,mova,ukraina
+page
+	set url https://bigkyiv.com.ua/shho-take-kyn-grust-i-chomu-kyyanam-varto-tam-pobuvaty/
+	set tags ekaterina_II,gorod,istoria,kiev,kiev.kinj_grust,rusimperia,ukraina
+page
+	set url https://strana.ua/opinions/335090-jarosh-i-bereza-zaholosili-v-podderzhku-pobratimov-chechentsev.html
+	set tags bataljon.ato.imeni_shejha_mansura,bereza_borislav,chechenec,dobrobaty,donbass,jarosh_dmitrii,rnbo,ukraina,vojna,vor_v_zakone
+page
+	set url https://regnum.ru/news/polit/3238455.html
+	set tags donbass,kommentarii,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://kiev.strana.ua/335073-v-tsentre-kieva-obnaruzhili-tajnik-s-oruzhiem.html
+	set tags bojepripas,gorod,kiev,oruzhie,policia,ukraina
+page
+	set url https://strana.ua/news/335084-denis-kostrzhevskij-zajavil-chto-zapret-poletov-v-belarus-lishit-aeroport-zhuljany-10-dokhodov.html
+	set tags __may_2021.aviacia.zapret.belarus,aeroport,aeroport.kiev,aviacia,belarus,dengi,dohod,ekonomika,finansy,kiev,ukraina
 eof
 off
 page

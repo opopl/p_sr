@@ -102,6 +102,9 @@ include:
 ###news_brit
     - news.anglia.sun
 
+###kiev
+    - kiev.bigkyiv 
+
 ###news_ua
     - news.ua.umoloda
     - news.ua.hromadske

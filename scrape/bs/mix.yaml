@@ -84,6 +84,7 @@ include:
 
 ###sport_ru
     - sport.ru.championat
+    - sport.ru.sportru
 
 ###travel_ru
     - travel.ru.travelask
@@ -104,7 +105,8 @@ include:
     - news.anglia.sun
 
 ###kiev
-    - kiev.bigkyiv 
+    - kiev.bigkyiv
+    - kiev.kk
 
 ###news_ua
     - news.ua.news24ua

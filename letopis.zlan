@@ -24,6 +24,9 @@ page
 	set url https://www.hobobo.ru/poslovitsy-i-pogovorki/poslovitsy-i-pogovorki-o-rossii/
 	set tags poslovica,rossia
 page
+	set url https://www.gazeta.ru/comments/column/vodennikov/s63353/13561646.shtml
+	set tags bog,chelovek,gagarin_jurij,rusmir,vera
+page
 	set url https://www.gazeta.ru/social/news/2021/04/04/n_15821504.shtml
 	set tags finlandia,mentalitet,narod,obschenie,rossia,russkie,vpechatlenie,zhizn,zhurnalist
 page
@@ -21528,9 +21531,6 @@ page
 	set url https://riakursk.ru/svyshe-tysyachi-kurskikh-studentov-prinyali-uchastie-v-studencheskoy-vesne-solovinogo-kraya/
 	set tags festival,kursk,rossia,studenty,tvorchestvo
 page
-	set url https://www.gazeta.ru/comments/column/vodennikov/s63353/13561646.shtml
-	set tags bog,chelovek,gagarin_jurij,rusmir,vera
-page
 	set url https://beztabu.net/kakim-budet-2019-j-dlya-dnr-i-lnr-goroskop-dlya-terroristov_n58339
 	set tags 2019,dnr,donbass,goroskop,lnr,pasechnik_leonid,pushilin_denis,rusmir,ukraina
 page
@@ -29373,6 +29373,36 @@ page
 page
 	set url https://bigkyiv.com.ua/proyekt-u-15-rokiv-i-10-tomiv-u-sofiyi-kyyivskij-prezentuyut-vydannya-pro-grafiti/
 	set tags grafiti,istoria,kiev,kievrus,kniga,kultura,pismennost',prezentacia,sofia_sobor,ukraina
+page
+	set url https://kiev.strana.ua/335104-v-kieve-zhenshchine-hrozit-3-hoda-tjurmy-za-vovlechenie-docheri-v-poproshajnichestvo.html
+	set tags deti,kiev,kievljane,kriminal,mater,poproshajka,prokuratura,semja,ukraina
+page
+	set url https://strana.ua/news/190339-stalo-izvestno-skolko-poproshajki-zarabatyvajut-v-kievskom-metro-za-nedelju.html
+	set tags dengi,gorod,kiev,krysha,metro,policia,poproshajka,rassledovanie,ukraina,zhurnalist
+page
+	set url https://strana.ua/opinions/335094-kitaju-blokirujut-odno-iz-napravlenij-novoho-shelkovoho-puti.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,ekonomika,evropa,geopolitika,kitaj,shelkovyj_putj,skandal,transport
+page
+	set url https://strana.ua/news/335106-ukraina-prorabatyvaet-puti-operativnoho-vozvrashchenija-ukraintsev-iz-belarusi.html
+	set tags __may_2021.aviacia.zapret.belarus,aviacia,belarus,kiev,ukraina,ukraincy
+page
+	set url https://strana.ua/opinions/335102-hovorite-delo-ne-v-promyshlennosti-a-v-rynochnoj-ekonomike-posmotrite-na-ssha.html
+	set tags ekonomika,promyshlennost,usa
+page
+	set url https://strana.ua/news/335108-v-kremle-otritsajut-prichastnost-k-intsidentu-s-zaderzhaniem-protasevicha.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,kreml,obvinenie,peskov_dmitrii,rossia,russofobia
+page
+	set url https://www.radiosvoboda.org/a/news-mova-porushennia-ombudsmen/31272632.html
+	set tags kremin_taras,mova,ukraina,ukrainizacia,zhaloba
+page
+	set url https://censor.net/ru/resonance/3266789/ekstraditsya_kborgarosyanina_zelenogo_vipustili_z_tt_odnak_sprava_jiva
+	set tags chemodanov_leonid.pravyj_sektor.ukr,donbass,doneck_aeroport,kiborg,rossia,ukraina,vojna
+page
+	set url https://censor.net/ru/blogs/3267157/sbu_tse_flya_kgb_blorus_chi_fsb_ros_ne_moju_rozbratis
+	set tags belarus,dobrobaty,fsb,kgb.belarus,rossia,sbu,semenchenko_semen,ukraina
+page
+	set url https://news.obozrevatel.com/show/ukrainu-opyat-zarezali-na-evrovidenii-zachem-nam-konkurs-i-stoit-li-ot-nego-otkazatsya.htm
+	set tags evrovidenie,konkurs,muzyka,politika,ukraina
 eof
 off
 page

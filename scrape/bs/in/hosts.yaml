@@ -55,7 +55,7 @@
 
 ###kiev
 'bigkyiv.com.ua' : { 'site' : 'kiev.bigkyiv' }
-
+'kievkiev.com.ua' : { 'site' : 'kiev.kk' }
 
 ###news.ru
 #
@@ -154,6 +154,7 @@
 
 ###sport.ru
 'championat.com' : { 'site' : 'sport.ru.championat' }
+'sport.ru' : { 'site' : 'sport.ru.sportru' }
 
 ###travel.ru
 'travelask.ru' : { 'site' : 'travel.ru.travelask' }

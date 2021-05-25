@@ -29559,6 +29559,9 @@ page
 	set url https://texty.org.ua/d/2019/music-charts/
 	set tags _important,muzyka,rossia,showbiz,statistika,ukraina,youtube
 	set date 25_05_2021
+page
+	set url https://strana.ua/news/335229-na-donbasse-zametili-stratehicheskij-bespilotnik-rq-4b-global-hawk-ssha.html
+	set tags bpla,donbass,polet,ukraina,usa
 eof
 off
 page

@@ -29483,6 +29483,54 @@ page
 page
 	set url https://gazeta.ua/blog/55116/menti-nastilki-pereatestuvalis-scho-pidzabuli-uroki-majdanu
 	set tags aktivist,belarus,navoz,policia,posolstvo.belarus.kiev,protest,rusmir,ukraina
+page
+	set url https://strana.ua/news/335135-zakon-o-natsionalnom-soprotivlenii-v-chem-eho-sut.html
+	set tags armia,dobrobaty,oborona,teroborona,ukraina,zelenskii_vladimir
+page
+	set url https://kiev.strana.ua/335199-v-tsentre-kieva-na-saksahanskoho-politsija-obezvredila-podozritelnyj-predmet.html
+	set tags huliganstvo,kiev,policia,predmet.podozritelnyj,ukraina,ulica.kiev.saksaganskogo
+page
+	set url https://strana.ua/opinions/335167-zelenskij-javno-stremitsja-k-ustanovleniju-lichnoj-diktatury.html
+	set tags diktatura,future,obschestvo,prognoz,strana,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/335059-elena-zelenskaja-rasskazala-kakim-budet-menju-shkolnikov-s-1-sentjabrja.html
+	set tags deti,eda,klopotenko_evgenij.ukr.shef_povar,kuhnja,obrazovanie,shkola,ukraina,zelenskaja_elena
+page
+	set url https://news.obozrevatel.com/abroad/nastoyaschee-litso-russkogo-mira.htm
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,rusmir,ukraina
+page
+	set url https://news.obozrevatel.com/abroad/mat-sapegi-o-pokazaniyah-docheri-eto-son-ili-podstava.htm
+	set tags __may_2021.protasevich.belarus.zaderzhanie
+page
+	set url http://lug-info.com/news/one/prazdnik-poslednego-zvonka-proshel-v-gorodah-i-rajonah-respubliki-68153
+	set tags deti,linejka,lnr,lugansk,obrazovanie,pasechnik_leonid,prazdnik,shkola,zvonok.poslednij.shkola
+page
+	set url https://lgaki.info/novosti/dissertatsionnyj-sovet-akademii-matusovskogo-vyhodit-na-mezhdunarodnyj-uroven/
+	set tags dissertacia,lgaki,lnr,lugansk,nauka
+page
+	set url https://strana.ua/news/335181-herashchenko-obvinil-v-napadenii-s-bitoj-na-avto-kievljanina-kotoryj-otritsaet-svoju-prichastnost-k-napadeniju.html
+	set tags geraschenko_anton,izvinenie,kiev,kievljane,napadenie,obidchik,policia,skandal,ukraina
+page
+	set url https://www.radiosvoboda.org/a/chy-dorechni-porivnyannya-zatrymky-litakiv/31272908.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviacia,belarus,eto_drugoje,samolet,sravnenie,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/bileckyj/60ad38205b7b2/
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,ukraina
+page
+	set url https://www.pravda.com.ua/columns/2021/05/24/7294632/
+	set tags gorod,kiev,ukraina
+page
+	set url https://strana.ua/news/335215-rasshifrovka-perehovorov-pilota-ryanair-s-dispetcherom-v-minske.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviacia,belarus,minsk,rasshifrovka,samolet,tekst
+page
+	set url https://strana.ua/news/335194-video-s-devushkoj-protasevicha-ona-publikuet-v-telehram-lichnye-dannye-silovikov.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,dannye.personalnye,dannye.sliv,dopros,internet,nexta,priznanie,sapega_sofja.devushka.protasevich.rossia
+page
+	set url https://strana.ua/news/335223-v-kieve-hadalki-pod-predlohom-snjatija-porchi-otbirali-sberezhenija-u-pensionerov.html
+	set tags gadalka,kiev,kriminal,moshennik,obman,pensioner,prokuratura,ukraina
+page
+	set url https://fraza.com/news/301319-pledge-times-o-dele-medvedchuka-karatelnaja-mashina-politsejskogo-gosudarstva-pereshla-k-ocherednomu-aktu-bezzakonija
+	set tags __may_2021.medvedchuk,medvedchuk_viktor,presledovanie,ukraina
 eof
 off
 page

@@ -29278,6 +29278,33 @@ page
 page
 	set url https://ukraina.ru/history/20210524/1031440451.html
 	set tags _important,bogomolec_olga,istoria,kiev,maidan2,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210525/1031456849.html
+	set tags gorod,istoria,kashtan,kashtan.kiev,kiev,majboroda_platon.ukr.kompozitor,malyshko_andrej.ukr.poet,rusimperia,sssr,tort.kievskij,ukraina,ussr,zibrov_pavel.ukr.pevec
+page
+	set url https://ukraina.ru/news/20210525/1031460201.html
+	set tags deti,eda,kuhnja,shkola,ukraina
+page
+	set url https://strana.ua/news/335026-batska-terrorist-otmena-pobedy-virastjuka-proval-vaktsinatsii.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviacia,belarus,itogi,lukashenko_aleksandr,protasevich_roman.belarus.nexta,sankcii,verhovnyy_sud,virastjuk_vasilij,zelenskii_vladimir
+page
+	set url https://strana.ua/news/335047-v-kieve-dali-tri-hoda-zhitelju-poltavy-kotoryj-nasiloval-zhenshchin-v-obshchestvennykh-ubornykh.html
+	set tags iznasilovanie,kiev,kriminal,nasilie,sud,tualet,ukraina
+page
+	set url https://strana.ua/opinions/335011-politiki-brjatsajut-oruzhiem-a-torhovlja-mezhdu-ssha-i-kitaem-rastet.html
+	set tags kitaj,oruzhie,politika,torgovlja,usa
+page
+	set url https://strana.ua/opinions/335040-my-eto-uzhe-prokhodili-ukraina-pozakryvala-rejsy-v-kitaj-i-kazakhstan.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aeroflot.aviakompania.rossia,aviacia,belarus,evropa,ukraina,zapret
+page
+	set url https://strana.ua/opinions/335041-rost-tarifov-snachala-vyduet-ostatki-deneh-iz-karmanov-naselenija.html
+	set tags ekonomika,energetika,naselenie,nedvizhimost',sssr,tarify,ukraina
+page
+	set url https://strana.ua/opinions/335042-iz-nyneshneho-evrovidenija-vrjad-li-chto-to-zakhochetsja-ostavit-v-kollektsii.html
+	set tags evrovidenie,muzyka,razocharovanie
+page
+	set url https://strana.ua/opinions/335043-nikakikh-norm-mezhdunarodnoho-prava-net-ikh-unichtozhil-zapad.html
+	set tags 2016,__may_2021.protasevich.belarus.zaderzhanie,belavia.aviakompania,kiev,pravo.mezhdunarodnoje,ukraina,zapad
 eof
 off
 page

@@ -29338,6 +29338,12 @@ page
 page
 	set url https://lenta.ru/articles/2021/05/14/search/
 	set tags chelovek,internet,issledovanie,lajk,rossia,sociologia
+page
+	set url https://vz.ru/economy/2021/5/25/1100862.html
+	set tags __may_2021.aviacia.zapret.belarus,__may_2021.protasevich.belarus.zaderzhanie,belarus,karatel,ukraina
+page
+	set url https://odnarodyna.org/article/marsh-zaschitnikov-borscha-ili-nash-otvet-makarevichu
+	set tags borsch,jaroslav_mudryj,makarevich_andrej,rossia,tkachenko_aleksandr,ukraina
 eof
 off
 page

@@ -29305,6 +29305,39 @@ page
 page
 	set url https://strana.ua/opinions/335043-nikakikh-norm-mezhdunarodnoho-prava-net-ikh-unichtozhil-zapad.html
 	set tags 2016,__may_2021.protasevich.belarus.zaderzhanie,belavia.aviakompania,kiev,pravo.mezhdunarodnoje,ukraina,zapad
+page
+	set url https://strana.ua/news/335032-video-v-kieve-zametili-neupravljaemuju-barzhu-kotoraja-drejfuet-vniz-po-dnepru.html
+	set tags barzha,dnepr,kiev,ukraina
+page
+	set url https://covid.obozrevatel.com/kiev-za-sutki-zafiksirovali-402-novyih-bolnyih-covid-19.htm
+	set tags covid,kiev,statistika,ukraina,zabolevajemost'
+page
+	set url https://news.obozrevatel.com/society/tsiklon-oblozhnyie-dozhdi-i-nastoyaschee-leto-sinoptiki-rasskazali-o-roskoshnoj-pogode.htm
+	set tags leto,pogoda,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/v-ukraine-s-nachala-goda-utonuli-bolshe-300-lyudej.htm
+	set tags reka,smert,statistika,ukraina,utoplenie,voda,vodojem
+page
+	set url https://news.obozrevatel.com/society/dveri-zakryivayutsya-zhitelej-ldnr-v-rossii-zhdyot-gulag-2-0.htm
+	set tags dnr,donbass,gulag,lnr,putin_vladimir,rossia
+page
+	set url https://lenta.ru/brief/2021/05/24/lukashenko_hamas/
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,nexta,protasevich_roman.belarus.nexta,skandal,skandal.mezhdunarodnyj
+page
+	set url https://riakursk.ru/24-maya-kuryane-mogut-otprazdnovat-den-kofe-i-povalyatsya-na-trave/
+	set tags 1985,24_may,den.shizofrenii,den.slavjanskoj_pismennosti_i_kultury,kursk,moskva,murmansk,prazdnik,rossia,shizofrenia
+page
+	set url https://regnum.ru/news/society/3278192.html
+	set tags avtobus,bezdorozhje,deti,doroga,rossia,shkola,udmurtia.rossia
+page
+	set url https://regnum.ru/news/cultura/3277522.html
+	set tags feshin_nikolaj.hudozhnik.1881,isskustvo,repin_ilja.hudozhnik,rossia,tatarstan,tretjakovka,vystavka
+page
+	set url https://www.radiosvoboda.org/a/yaki-sanktsiji-budut-proty-lukashenka-za-protasevychaa/31271592.html
+	set tags __may_2021.aviacia.zapret.belarus,__may_2021.protasevich.belarus.zaderzhanie,belarus,ukraina
+page
+	set url https://lenta.ru/articles/2021/05/14/search/
+	set tags chelovek,internet,issledovanie,lajk,rossia,sociologia
 eof
 off
 page

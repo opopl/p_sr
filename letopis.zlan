@@ -23,6 +23,24 @@ page
 page
 	set url https://www.hobobo.ru/poslovitsy-i-pogovorki/poslovitsy-i-pogovorki-o-rossii/
 	set tags poslovica,rossia
+page
+	set url https://www.gazeta.ru/social/news/2021/04/04/n_15821504.shtml
+	set tags finlandia,mentalitet,narod,obschenie,rossia,russkie,vpechatlenie,zhizn,zhurnalist
+page
+	set url https://www.gazeta.ru/comments/column/mironova/13549532.shtml
+	set tags belarus,obschestvo,rossia,sravnenie,sssr,ukraina,zhizn
+page
+	set url https://www.gazeta.ru/comments/column/melamed/13548356.shtml
+	set tags chelovek,hudozhnik,lenj,leonardo_da_vinci,psihologia,pushkin_aleksandr,rossia,rusmir
+page
+	set url https://www.gazeta.ru/politics/2018/02/07_a_11640733.shtml
+	set tags germania,krym,melnik_andrei.ukraina.posol,otvet,ukraina
+page
+	set url https://www.gazeta.ru/social/news/2021/02/20/n_15644336.shtml?utm_source=yxnews&utm_medium=desktop
+	set tags rossia,sputnik_v,vaccine,covid,registracia
+page
+	set url https://www.gazeta.ru/army/2021/01/21/13449800.shtml
+	set tags ukraina,di_rubens,onacka_taisia,blogger,skandal,shtirliz,vsu,rossia
 on
 global
 	set limit 3
@@ -4314,9 +4332,6 @@ page
 page
 	set url https://meduza.io/feature/2021/01/14/skolko-vse-taki-lyudey-uzhe-vaktsinirovali-v-rossii-samyy-chestnyy-otvet-nikto-ne-znaet
 	set tags rossia,vaccinacia,statistika
-page
-	set url https://www.gazeta.ru/social/news/2021/02/20/n_15644336.shtml?utm_source=yxnews&utm_medium=desktop
-	set tags rossia,sputnik_v,vaccine,covid,registracia
 page
 	set url http://lug-info.com/news/one/kievskie-siloviki-odin-raz-za-sutki-narushili-rezhim-tishiny-64870
 	set tags kiev,donbass,vojna,lnr
@@ -16166,9 +16181,6 @@ page
 	set url http://islam.ru/content/obshestvo/41063
 	set tags islam,hristos,vera,rusmir,rossia,koran,prorok
 page
-	set url https://www.gazeta.ru/army/2021/01/21/13449800.shtml
-	set tags ukraina,di_rubens,onacka_taisia,blogger,skandal,shtirliz,vsu,rossia
-page
 	set url https://www.kp.ru/daily/27257/4389540/
 	set tags ukraina,donbass,kiev,rossia,obschestvo,lockdown,karantin,zhizn,foto
 page
@@ -21034,15 +21046,6 @@ page
 	set url https://lenta.ru/news/2021/04/19/ingenuity/
 	set tags kosmos,mars,marsohod,marsohod.perseverance,nasa,nauka,usa,vertolet
 page
-	set url https://www.gazeta.ru/social/news/2021/04/04/n_15821504.shtml
-	set tags finlandia,mentalitet,narod,obschenie,rossia,russkie,vpechatlenie,zhizn,zhurnalist
-page
-	set url https://www.gazeta.ru/comments/column/mironova/13549532.shtml
-	set tags belarus,obschestvo,rossia,sravnenie,sssr,ukraina,zhizn
-page
-	set url https://www.gazeta.ru/comments/column/melamed/13548356.shtml
-	set tags chelovek,hudozhnik,lenj,leonardo_da_vinci,psihologia,pushkin_aleksandr,rossia,rusmir
-page
 	set url https://zen.yandex.ru/media/id/5de55a696d29c100ac11729d/pochemu-u-rusov-v-dogovore-olega-vescego-s-vizantiei-nerusskie-imena-607c7871298124331e785da6
 	set tags dogovor,imja,istoria,kievrus,konstantinopol,rusmir,skandinav,vizantia
 page
@@ -21749,9 +21752,6 @@ page
 page
 	set url https://vesti.ua/politika/276700-posol-pokhvastalsja-kak-vpravil-mozhi-nemetskim-deputatam
 	set tags diplomatia,germania,hamstvo,krym,melnik_andrei,melnik_andrei.ukraina.posol,mozgi,posol,ukraina
-page
-	set url https://www.gazeta.ru/politics/2018/02/07_a_11640733.shtml
-	set tags germania,krym,melnik_andrei.ukraina.posol,otvet,ukraina
 page
 	set url https://strana.ua/news/329478-v-rossii-10-amerikanskikh-diplomatov-objavleny-personami-non-hrata.html
 	set tags dip_otnoshenia,diplomatia,mid_rf,persona_non_grata,putin_vladimir,rossia,us_embassy,us_embassy.rossia,usa
@@ -29370,6 +29370,9 @@ page
 page
 	set url https://fraza.com/news/301294-verhovnyj-sud-otklonil-isk-ptsu-o-vyselenii-semej-svjaschennikov-upts-na-rovenschine
 	set tags cerkov,pcu,rovno,ukraina,upc,vera,verhovnyy_sud
+page
+	set url https://bigkyiv.com.ua/proyekt-u-15-rokiv-i-10-tomiv-u-sofiyi-kyyivskij-prezentuyut-vydannya-pro-grafiti/
+	set tags grafiti,istoria,kiev,kievrus,kniga,kultura,pismennost',prezentacia,sofia_sobor,ukraina
 eof
 off
 page

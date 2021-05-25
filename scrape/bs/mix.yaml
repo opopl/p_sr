@@ -33,6 +33,7 @@ include:
 
 ###news_ru
     - news.ru.ngs
+    - news.ru.gzt
     - news.ru.odnarodyna
     - news.ru.cosmopolitan
     - news.ru.vashi_novosti
@@ -106,6 +107,7 @@ include:
     - kiev.bigkyiv 
 
 ###news_ua
+    - news.ua.news24ua
     - news.ua.umoloda
     - news.ua.hromadske
     - news.ua.vesti_ua

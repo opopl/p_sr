@@ -29589,6 +29589,36 @@ page
 page
 	set url https://strana.ua/news/335175-uchastnik-kompanii-vaktsinatsii-izvestnykh-ukraintsev-ot-covid-19-ne-mozhet-najti-vtoruju-dozu.html
 	set tags covid,druzenko_gennadij.ukr.volonter,ukraina,vaccinacia,vaccine
+page
+	set url https://strana.ua/news/334893-v-polovine-rehionov-ukrainy-ne-sdelali-ni-odnoj-privivki-.html
+	set tags covid,ukraina,vaccinacia,vaccine
+page
+	set url https://strana.ua/opinions/335238-ohromnyj-partizanskij-muzej-na-chernihovshchine-prevrashchaetsja-v-mertvyj-obekt.html
+	set tags muzei,muzei.partizan.chernigov.lesograd,pamjat,partizan,turizm,ukraina,upadok,vov
+page
+	set url https://strana.ua/news/335242-epidemija-covid-19-skolko-v-ukraine-bolnykh-po-dannym-na-26-maja-2021-hoda.html
+	set tags covid,kacheli,statistika,ukraina,zabolevajemost'
+page
+	set url https://strana.ua/opinions/335241-inohda-byvaet-polezno-sravnit-tarify-na-elektroenerhiju.html
+	set tags cena,ekonomika,elektroenergia,energetika,finansy,kabmin,krym,sravnenie,ukraina
+page
+	set url https://strana.ua/opinions/335250-ukraina-lehalizovala-somalijskie-dejstvija-hosudarstva-v-vozdukhe.html
+	set tags __2016.martirosjan_belavia_kiev,__may_2021.protasevich.belarus.zaderzhanie,belavia.aviakompania,bezzakonie,kiev,legalizacia,martirosjan_armen,minsk,piratstvo,samolet,sbu,somali,ukraina,zakon
+page
+	set url https://strana.ua/news/335063-posledstvija-zaderzhanija-protasevicha-v-belarusi-dlja-otnoshenija-zapada-i-rossii-.html
+	set tags biden_joe,putin_vladimir,rossia,shvejcaria,usa,vstrecha,zheneva.shejcaria
+page
+	set url https://www.radiosvoboda.org/a/viyna-zelens%CA%B9kyy-donbas-rosiya/31273918.html
+	set tags armia,nastuplenie,oborona,podgotovka,rossia,teroborona,ukraina,vojna
+page
+	set url https://lenta.ru/news/2021/05/26/sofia/
+	set tags __may_2021.protasevich.belarus.zaderzhanie,arest,belarus,obvinenie,protasevich_roman.belarus.nexta,rossia,sapega_sofja.devushka.protasevich.rossia
+page
+	set url https://lenta.ru/news/2021/05/26/otkrylis/
+	set tags avia,otdyh,polet,rossia,rossiane,turizm
+page
+	set url https://zen.yandex.ru/media/vad_nes/kak-nemeckii-princ-stal-chernigovskim-kniazem-i-russkim-sviatym-605b65056c8c1e575f966e30
+	set tags 1778,chernigov,drevrus,ekaterina_II,istoria,kievrus,rjazan.gorod,rossia,rus',russkie,svjatost
 eof
 off
 page

@@ -29562,6 +29562,33 @@ page
 page
 	set url https://strana.ua/news/335229-na-donbasse-zametili-stratehicheskij-bespilotnik-rq-4b-global-hawk-ssha.html
 	set tags bpla,donbass,polet,ukraina,usa
+page
+	set url https://vz.ru/opinions/2021/5/25/1099578.html
+	set tags amerika,black_lives_matter,floyd_george,usa
+page
+	set url https://regnum.ru/news/polit/3274981.html
+	set tags 1920,agressia,armenia,azerbajdzhan,civilizacia,istoria,karabah
+page
+	set url https://regnum.ru/news/society/3278981.html
+	set tags arhangelsk,derevnja,foto,klubnika,krasota,priroda,rossia
+page
+	set url http://lug-info.com/news/one/gendirektor-luganskgaza-peredala-irminskomu-internatu-posudu-i-fejerverk-68164
+	set tags blagotvoritelnost,deti,lnr,lugansk,pomosch
+page
+	set url https://lenta.ru/articles/2021/05/26/minskiy_manevr/
+	set tags __may_2021.protasevich.belarus.zaderzhanie,analitika,belarus,lukashenko_aleksandr,nexta,rossia,sankcii,ugroza,zapad
+page
+	set url https://lenta.ru/articles/2021/05/26/blm/
+	set tags black_lives_matter,floyd_george,obschestvo,rasizm,usa
+page
+	set url https://strana.ua/news/335230-medvedi-karpat-hrabjat-uli-seljan-rezhut-skot-i-lomajut-zabory-vesnoj-2021-hoda.html
+	set tags karpaty,medved',priroda,ukraina,zhivotnoje
+page
+	set url https://strana.ua/news/253860-v-zaporozhe-desjatiletnjaja-devochka-pohibla-iz-za-padenija-na-nee-statui-masha-i-medved-video.html
+	set tags deti,devochka,masha_i_medved'.multik,masha_i_medved'.skulptura.zaporozhie,skulptura,smert,ukraina,zaporozhie
+page
+	set url https://strana.ua/news/335175-uchastnik-kompanii-vaktsinatsii-izvestnykh-ukraintsev-ot-covid-19-ne-mozhet-najti-vtoruju-dozu.html
+	set tags covid,druzenko_gennadij.ukr.volonter,ukraina,vaccinacia,vaccine
 eof
 off
 page

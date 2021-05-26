@@ -29745,16 +29745,21 @@ page
 page
 	set url https://strana.ua/news/335385-pojavilis-foto-protasevicha-na-parade-azova-v-mariupole.html
 	set tags __may_2021.protasevich.belarus.zaderzhanie,azov_polk,belarus,donbass,foto,protasevich_roman.belarus.nexta,ukraina,vojna
-global
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://life.pravda.com.ua/culture/2021/05/26/245012/
 	set tags arhitektura,armenia,berezhany.ukr.ternopil_obl,cerkov,hram,istoria,ternopil,ukraina
 page
 	set url https://zen.yandex.ru/media/slavmir/predskazaniia-o-sudbe-rossii-60ac1a9dd001161964110a20
 	set tags future,prorochestvo,rossia,rusmir
+page
+	set url https://lenta.ru/news/2021/05/26/nikto/
+	set tags __may_2021.protasevich.belarus.zaderzhanie
+page
+	set url https://lenta.ru/news/2021/05/26/azovvv/
+	set tags azov_polk,donbass,protasevich_roman.belarus.nexta,vojna
+page
+	set url https://zen.yandex.ru/media/id/5d4090fa8600e12247029513/poluchite-raspishites-nokaut-ot-genetikov-vsem-rusofobam-mira-60ae007fba3aa439432b0d08
+	set tags evrasia,genetika,issledovanie,mify,narod,nauka,rossia,rusmir,russkie,russofobia,slavjane
 eof
 off
 page

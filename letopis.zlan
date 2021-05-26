@@ -29760,6 +29760,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5d4090fa8600e12247029513/poluchite-raspishites-nokaut-ot-genetikov-vsem-rusofobam-mira-60ae007fba3aa439432b0d08
 	set tags evrasia,genetika,issledovanie,mify,narod,nauka,rossia,rusmir,russkie,russofobia,slavjane
+page
+	set url https://strana.ua/news/335417-v-ssha-obryvajut-telefon-sluzhby-spasenija-iz-za-hromkoho-penija-tsikad.html
+	set tags usa
+page
+	set url https://strana.ua/opinions/335420-sem-let-nazad-ukrainskaja-aviatsija-nachala-ataku-na-donetskij-aeroport.html
+	set tags ato,aviacia,donbass,doneck,doneck_aeroport,poroshenko_petr,turchinov_aleksandr,vojna
 eof
 off
 page

@@ -29622,6 +29622,36 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/buduscee-interviu-kravchuka-gordonu-606e86eca057e8171d620208
 	set tags _fun,_important,denacifikacia,fraza,future,galicia,gordon_dmitrii,interview,kravchuk_leonid,novorossia,razgovor,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/test-dlia-prosiascih-u-rossii-60a0b4cb106dc30e547731ab
+	set tags prosjba,rossia,test
+page
+	set url https://strana.ua/video/335283-strana-uznala-kak-otnosjatsja-kievljane-k-resheniju-kabmina-zakryt-aviasoobshchenie-s-belarusju.html
+	set tags __may_2021.aviacia.zapret.belarus,belarus,beloglazova_antonina.kiev.stranaua,kiev,kievljane,mnenie,opros,strana_ua,ukraina,zapret
+page
+	set url https://ukraina.ru/exclusive/20210526/1031469510.html
+	set tags antirossia,bzhezinskii_zbignev.usa,evropa,geopolitika,rossia,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210526/1031467801.html
+	set tags bezuglaja_marjana.deputat,granica,peklo,sbu,specsluzhba,ukraina,verhovna_rada,zakon,zakonoprojekt
+page
+	set url https://strana.ua/news/335260-roman-protasevich-v-azove-voeval-li-belorusskij-nekhta-na-donbasse.html
+	set tags 2013,azov_polk,bileckii_andrei,donbass,kiev,lenin_vladimir,maidan2,nexta,pamjatnik.kiev.lenin,protasevich_roman.belarus.nexta,ukraina,vojna
+page
+	set url https://strana.ua/news/335300-lukashenko-zajavil-chto-protasevich-i-sapeha-hotovili-krovavyj-mjatezh.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,ekstremizm,lukashenko_aleksandr,protasevich_roman.belarus.nexta,sapega_sofja.devushka.protasevich.rossia
+page
+	set url https://strana.ua/video/334999-kak-sazhali-samolety-ot-poroshenko-do-lukashenko-vypusk-jasnoponjatno-s-olesej-medvedevoj.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviacia,protasevich_roman.belarus.nexta,samolet
+page
+	set url https://strana.ua/news/335278-lukashenko-otreahiroval-na-zakrytie-aviasoobshchenija-s-belarusju.html
+	set tags 2014,__may_2021.aviacia.zapret.belarus,belarus,kommentarii,lukashenko_aleksandr,mh17,samolet,ukraina,zapret
+page
+	set url https://strana.ua/news/335271-lukashenko-poobeshchal-skoro-obnarodovat-novuju-informatsiju-po-protasevichu.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,kommentarii,lukashenko_aleksandr,protasevich_roman.belarus.nexta,ukraina
+page
+	set url https://strana.ua/news/335224-mat-sapehi-prokommentirovala-video-docheri-iz-sizo-v-minske.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,kommentarii,mater,sapega_sofja.devushka.protasevich.rossia,telegram,zaderzhanie
 eof
 off
 page

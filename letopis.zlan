@@ -29688,6 +29688,12 @@ page
 page
 	set url https://censor.net/ru/blogs/3267573/van_franko_titan_ukranskogo_slova_ukransko_dumki
 	set tags franko_ivan,istoria,literatura,ukraina
+page
+	set url https://zrada.org/history/2-naukovij-pidhid/275-zhittja-natsiyi-vikoristannja-toponimiv-rus-moskovija-ukrayina-rosija.html
+	set tags istoria,moskovia,rossia,rus',slovo,slovo.rossia,slovo.ukraina,ukraina
+page
+	set url https://strana.ua/news/335308-otets-protasevicha-hovoril-chto-oppozitsioner-voeval-na-donbasse.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,donbass,otec,protasevich_roman.belarus.nexta,semja,video,vojna
 eof
 off
 page

@@ -29752,6 +29752,9 @@ global
 page
 	set url https://life.pravda.com.ua/culture/2021/05/26/245012/
 	set tags arhitektura,armenia,berezhany.ukr.ternopil_obl,cerkov,hram,istoria,ternopil,ukraina
+page
+	set url https://zen.yandex.ru/media/slavmir/predskazaniia-o-sudbe-rossii-60ac1a9dd001161964110a20
+	set tags future,prorochestvo,rossia,rusmir
 eof
 off
 page

@@ -29652,6 +29652,42 @@ page
 page
 	set url https://strana.ua/news/335224-mat-sapehi-prokommentirovala-video-docheri-iz-sizo-v-minske.html
 	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,kommentarii,mater,sapega_sofja.devushka.protasevich.rossia,telegram,zaderzhanie
+page
+	set url https://strana.ua/opinions/335273-zelenskij-hotovit-zakon-o-porazhenii-ukrainy-v-vojne-rossii.html
+	set tags porazhenie,proval,rossia,ukraina,vojna,zakon
+page
+	set url https://strana.ua/opinions/335279-v-ussr-ne-bylo-shkoly-i-sadika-hde-deti-ne-uchili-by-ukrainskij-folklor.html
+	set tags deti,detsad,folkljor,go_a.gruppa,istoria,obrazovanie,obuchenie,pavlenko_katerina.go_a.gruppa.ukraina,politika,propaganda,shkola,sssr,tradicii,ukraina,ussr,vranje
+page
+	set url https://strana.ua/opinions/335298-ot-dzhoan-roulinh-trebovali-dobavit-v-knihu-35-novykh-polov-i-nebinarnuju-lichnost.html
+	set tags garri_potter,king_steven.pisatel.usa,kultura,literatura,rouling_dzhoan.pisatel.anglia,spor,transgender,trebovanie
+page
+	set url https://strana.ua/news/335297-lukashenko-soobshchil-chto-samolet-posle-soobshchenija-o-minirovanii-ne-zakhotel-prinjat-vilnjus.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,kiev,lukashenko_aleksandr
+page
+	set url https://www.radiosvoboda.org/a/u-kyyev%D1%96-prezentuvaly-knygu-spogad%D1%96v-pro-zhurnal%D1%96stku-rad%D1%96o-svoboda-bogdanu-kostyuk/31273002.html
+	set tags kiev,kniga,kostjuk_bogdana.ukr.zhurnalist,pamjat,prezentacia,radio_svoboda,ukraina
+page
+	set url https://strana.ua/news/335307-rekord-ukrainy-samyj-chipirovannyj-ukrainets-pavel-klets.html
+	set tags chipirovanie,it,rekord,ukraina,ukraincy,ukrainec
+page
+	set url https://www.radiosvoboda.org/a/photo-piket-pid-posolstvom-rosii/31274516.html
+	set tags kiev,krym,okupacia,posolstvo.rossia.kiev,presledovanie,protest,rossia,ukraina
+page
+	set url https://www.epravda.com.ua/publications/2021/05/26/674248/
+	set tags future,ilon_mask,kolonizacia,kosmonavtika,kosmos,mars
+page
+	set url https://blogs.pravda.com.ua/authors/gajdajchuk/60ac9b434e160/
+	set tags chelovek,obrazovanie,obschestvo,prizvanie,professia,ukraina
+page
+	set url https://lenta.ru/news/2021/05/26/nider/
+	set tags dogovor,gollandia,nalogi,putin_vladimir,razryv,rossia
+page
+	set url https://zaxid.net/dvi_istoriyi_yaki_nichogo_ne_vchat_n1519461
+	set tags 1905,hmelnickii_bogdan,istoria,lvov,pravda,proshloje,ukraina
+page
+	set url https://censor.net/ru/blogs/3267573/van_franko_titan_ukranskogo_slova_ukransko_dumki
+	set tags franko_ivan,istoria,literatura,ukraina
 eof
 off
 page

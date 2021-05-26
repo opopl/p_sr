@@ -37,6 +37,7 @@ PageParser:
               '.post_content_author_name a',
               '.post_author a',
               '.post__author a',
+              '.autor-name',
             ],
             'map' : {
               'name' : {

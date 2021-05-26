@@ -29694,6 +29694,64 @@ page
 page
 	set url https://strana.ua/news/335308-otets-protasevicha-hovoril-chto-oppozitsioner-voeval-na-donbasse.html
 	set tags __may_2021.protasevich.belarus.zaderzhanie,donbass,otec,protasevich_roman.belarus.nexta,semja,video,vojna
+page
+	set url https://kiev.strana.ua/335362-podzhihatel-trollejbusa-na-troeshchine-rasskazal-o-motivakh-brosit-koktejl-molotova.html
+	set tags benzin,kiev,kriminal,ludi,troeschina.kiev,trolejbus,ukraina
+page
+	set url https://strana.ua/news/335365-ukraina-popala-v-pjaterku-stran-s-naibolshim-kolichestvom-nedostovernykh-akkauntov-v-fejsbuk.html
+	set tags botsetj,facebook,internet,rossia,ukraina,usa
+page
+	set url https://strana.ua/articles/analysis/334986-kak-bankovaja-ishchet-povod-snjat-spikera-razumkova.html
+	set tags bankova,kiev,ofis_prezidenta,politika,razumkov_dmitrii,ukraina,verhovna_rada,zelenskii_vladimir
+page
+	set url https://zrada.org/suchasnist/17-svit-dosvid/3072-pro-te-yak-rosiya-pikluetsya-pro-natsmenshini-zakhist-prav-natsionalnikh-menshin-v-rosiji.html
+	set tags moskva,narod.korennoj,obvinenie,oon,rossia,ukraina,vystuplenie
+page
+	set url https://zrada.org/inshe/43-literatura/271-prokopovich-ta-inshi-ukrayintsi-scho-buduvali-rosiju.html
+	set tags istoria,prokopovych_feofan,rossia,rusmir,ukraina
+page
+	set url https://kiev.strana.ua/335379-v-metro-kieva-obnovili-pravila-perevozki-monokoles-i-samokatov.html
+	set tags kiev,metro,pravila.proezd.metro,pravilo,ukraina
+page
+	set url https://strana.ua/opinions/335373-protasevich-i-eho-zapadnye-kuratory-dopustili-neprostitelnuju-bespechnost.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,isterika,protasevich_roman.belarus.nexta,revolucia,revolucioner,zapad
+page
+	set url https://strana.ua/opinions/335377-takoe-chuvstvo-chto-nas-v-2014-hodu-slivali-nashi-partnery.html
+	set tags 2014,krym,obama_barak.usa.prezident,putin_vladimir,rossia,slivanie,ukraina
+page
+	set url https://strana.ua/opinions/335378-snbo-vo-hlave-s-prezidentom-zelenskim-sebja-merilom-spravedlivosti-naznachili.html
+	set tags agrarii,kontrabanda,otzhym,rnbo,spravedlivost,ukraina,vor_v_zakone,zelenskii_vladimir
+page
+	set url https://strana.ua/news/335360-v-set-popali-foto-protasevicha-iz-eho-smartfona-na-kotorykh-on-v-forme-i-s-oruzhiem.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,azov_polk,belarus,donbass,foto,oruzhie,protasevich_roman.belarus.nexta,ukraina,vojna
+page
+	set url https://strana.ua/news/335262-rossijanke-sofii-sapehe-hrozit-do-12-let-tjurmy.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,sapega_sofja.devushka.protasevich.rossia
+page
+	set url https://strana.ua/news/335254-vaktsina-pfajzer-v-ukraine-skolko-i-koho-budut-kolot.html
+	set tags aeroport.kiev,covid,dostavka,kiev,pfizer,samolet,ukraina,vaccinacia,vaccine
+page
+	set url https://news.obozrevatel.com/show/people/tiktok-udalil-akkaunt-izvestnoj-blogershi-s-selskimi-rolikami.htm
+	set tags evtuh_dasha.blogger.ukr,internet,selo,tiktok,ukraina
+page
+	set url https://news.obozrevatel.com/society/nikakogo-sssr-na-samom-dele-ne-byilo.htm
+	set tags analitika,istoria,oproverzhenie,razoblachenie,sssr
+page
+	set url https://www.radiosvoboda.org/a/news-den-nezalezhnosti/31274999.html
+	set tags cvetok,krasota,nacia,nezalezhnist,simvolika,tkachenko_aleksandr,ukraina
+page
+	set url https://www.pravda.com.ua/news/2021/05/26/7294977/
+	set tags belarus,chempionat,dip_otnoshenia,flag.belarus,flag.bkb.by,flag.rossia,hokkej,latvia,mid_rf,riga,rossia,russofobia,skandal,vysylka_diplomatov,zaharova_maria
+page
+	set url https://strana.ua/news/335385-pojavilis-foto-protasevicha-na-parade-azova-v-mariupole.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,azov_polk,belarus,donbass,foto,protasevich_roman.belarus.nexta,ukraina,vojna
+global
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://life.pravda.com.ua/culture/2021/05/26/245012/
+	set tags arhitektura,armenia,berezhany.ukr.ternopil_obl,cerkov,hram,istoria,ternopil,ukraina
 eof
 off
 page

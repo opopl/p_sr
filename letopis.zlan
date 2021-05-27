@@ -29919,6 +29919,15 @@ page
 page
 	set url https://news.obozrevatel.com/russia/sudba-rossii-budet-reshatsya-na-ulitsah.htm
 	set tags future,obschestvo,protest,rossia,sudjba,ulica
+page
+	set url https://kiev.strana.ua/335530-natspolitsija-uzhe-vosem-mesjatsev-ne-mozhet-vyjasnit-kto-ubil-v-kieve-amerikanskoho-diplomata.html
+	set tags kiev,policia,rassledovanie,smert,ukraina,us_embassy,us_embassy.ukraina
+page
+	set url https://strana.ua/news/335539-papa-rimskij-poshutil-o-brazilii.html
+	set tags alkogol,brazilia,katolichestvo,molitva,papa_rimskij,shutka,spasenie,vera
+page
+	set url https://strana.ua/news/328868-naprjazhenie-na-vostoke-ukrainy-papa-rimskij-obespokoen.html
+	set tags cerkov,donbass,katolichestvo,papa_rimskij,propovedj,ukraina,vojna
 eof
 off
 page

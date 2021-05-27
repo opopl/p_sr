@@ -29931,6 +29931,9 @@ page
 page
 	set url https://strana.ua/opinions/335520-lobodjanka-kvasha-varenyj-kendjukh-svinye-kishki.html
 	set tags deti,eda,eda.shkolnaja,kuhnja,shkola,shpundra,ukraina
+page
+	set url https://strana.ua/articles/analysis/335259-verkhovnaja-rada-prinjala-zakon-o-nakazanii-za-voennye-prestuplenija.html
+	set tags amnistia,deputat,markiv_vitalii,nakazanie,prestuplenie,prestuplenie.protiv_chelovechnosti,prestuplenie.vojennoje,sud.gaaga.mus,ukraina,verhovna_rada,zakon
 eof
 off
 page

@@ -29808,6 +29808,9 @@ page
 page
 	set url https://strana.ua/opinions/335456-ne-nuzhno-nikoho-lishat-izbiratelnoho-prava.html
 	set tags demokratia,lishenie_prava,narod,obschestvo,pravo.izbiratelnoje,sovershenstvo,ukraina,vybory
+page
+	set url https://strana.ua/news/335452-epidemija-covid-19-skolko-v-ukraine-bolnykh-po-dannym-na-27-maja-2021-hoda.html
+	set tags bolezn,covid,smert,smertnost',statistika,ukraina,zabolevajemost',zdorovje
 eof
 off
 page

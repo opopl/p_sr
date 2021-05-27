@@ -29880,6 +29880,9 @@ page
 page
 	set url https://strana.ua/articles/analysis/335143-kak-pri-zelenskom-izmenilis-zarplaty-chinovnikov-a-hossluzhba-stala-rabotoj-mechty.html
 	set tags chastnyj_sektor,chinovnik,ekonomika,rabota,ukraina,zarplata,zelenskii_vladimir
+page
+	set url https://strana.ua/news/312961-hosduma-rf-prinjala-zajavlenie-o-pritesnenii-russkojazychnykh-v-ukraine.html
+	set tags gosduma,osuzhdenie,prizyv,rossia,ukraina,ukrainizacia,world
 eof
 off
 page

@@ -29814,6 +29814,60 @@ page
 page
 	set url https://strana.ua/opinions/335458-protasevich-nam-vazhnee-chem-sobstvennaja-ekonomika.html
 	set tags belarus,obschestvo,psihologia,rossia,rusmir,shizofrenia,ukraina
+page
+	set url https://lenta.ru/articles/2021/05/27/guns_and_murders/
+	set tags kriminal,obschestvo,oruzhie,rossia,shooting,usa
+page
+	set url https://ukraina.ru/opinion/20210526/1031471298.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,rossia,sankcii,zapad
+page
+	set url https://strana.ua/news/335422-roman-protasevich-v-azove-hlavnoe-iz-intervju-radio-svoboda-o-eho-uchastii-v-vojne-na-donbasse.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,azov_polk,belarus,donbass,nacionalizm,orda,orda.putinskaja,otec,otec.protasevicha,protasevich_roman.belarus.nexta,rossia,semja,ukraina,vojna
+page
+	set url https://www.radiosvoboda.org/a/belarus-ryanair-patrasevich-transcript-questions-bomb-lukashenka/31275411.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviacia,belarus,lukashenko_aleksandr,minsk,protasevich_roman.belarus.nexta,rassledovanie
+page
+	set url http://lug-info.com/news/one/koordinator-proekta-lekcii-na-cherdake-lrunb-eto-ploshadka-intellektual-nogo-dosuga-i-polucheniya-znanij-v-neformal-noj-obstanovke-68206
+	set tags biblioteka.lnr.lrunb,kultura,lektorij,lnr,lugansk,nauka,obrazovanie,obschestvo,slushatel
+page
+	set url http://lug-info.com/news/one/pozdravlenie-federacii-profsoyuzov-lnr-s-dnem-bibliotek-68152
+	set tags biblioteka,bibliotekar,den.bibliotek.lnr,lnr,pozdravlenie,prazdnik,profsouz
+page
+	set url https://from-ua.com/articles/601106-nuzhen-li-ukraine-belorusskii-front.html
+	set tags belarus,dip_otnoshenia,front,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/05/27/7295005/
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,lukashenko_aleksandr,sponsor,ukraina
+page
+	set url https://life.pravda.com.ua/society/2021/05/27/245008/
+	set tags armia,interview,ukraina,veteran,vsu
+page
+	set url https://strana.ua/news/335479-brend-petrov-i-boshirov-sozdali-v-rossii-pod-nim-budut-vypuskat-shampuni.html
+	set tags ekonomika,petrov_i_bashirov,registracia,rossia,shampunj,torgovlja,tovary
+page
+	set url https://strana.ua/news/330508-rossijskaja-kompanija-planiruet-vypustit-ihry-pro-petrova-i-boshirova.html
+	set tags igra,igra.computer,it,petrov_i_bashirov,registracia,rossia,software
+page
+	set url https://strana.ua/opinions/335460-uhroza-kollapsa-teplosnabzhenija-vpolne-realna.html
+	set tags energetika,kabmin,kollaps,otoplenie,teplo,teplosetj,ukraina,zhkh
+page
+	set url https://strana.ua/opinions/335481-kak-revoljutsioner-protasevich-okazalsja-zolotym-malchikom.html
+	set tags belarus,ideologia,otec.protasevicha,protasevich_dmitrij.otec.by,protasevich_roman.belarus.nexta,revolucia,revolucioner
+page
+	set url https://strana.ua/opinions/335485-ispolzovanie-avtomobilja-v-kieve-dolzhno-stat-nevyhodnym.html
+	set tags avto,ekologia,kiev,ukraina
+page
+	set url https://strana.ua/news/335482-politsija-zaderzhala-muzhchinu-kotoryj-podzheh-svoju-devushku.html
+	set tags _important,benzin,beremennost,devushka,kriminal,krivoj_rog,ogon',podzhog,policia,ukraina
+page
+	set url https://kiev.strana.ua/308134-v-kieve-muzhchina-ubil-mat-i-sprjatal-ee-trup-v-svoj-divan.html
+	set tags kiev,kievljane,kriminal,kvartira,mater,murder,policia,semja,smert,ukraina
+page
+	set url https://strana.ua/opinions/335489-padenie-kapitalnykh-investitsij-v-ukraine-prosto-bespretsedentnoe.html
+	set tags ekonomika,investicia,padenie,ukraina
+page
+	set url https://zaxid.net/cherez_strah_pered_nimetskoyu_vladoyu_n1519518
+	set tags den.pamjati_ukraincev_spasitelej_evrejev,evrei,golokost,mirvojna2,pamjat,ukraina
 eof
 off
 page

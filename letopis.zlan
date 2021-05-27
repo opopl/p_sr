@@ -29883,6 +29883,9 @@ page
 page
 	set url https://strana.ua/news/312961-hosduma-rf-prinjala-zajavlenie-o-pritesnenii-russkojazychnykh-v-ukraine.html
 	set tags gosduma,osuzhdenie,prizyv,rossia,ukraina,ukrainizacia,world
+page
+	set url https://www.radiosvoboda.org/a/portret-putina-z-vyrvanyh-zubiv-yevgeniya-khaibullina-ufa/31276134.html
+	set tags hudozhnik,isskustvo,kartina,putin_vladimir,rossia,sibir,ufa,ugroza,zuby
 eof
 off
 page

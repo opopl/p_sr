@@ -30045,6 +30045,9 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210527/1031482990.html
 	set tags jazyk,mova,rodstvo,rusmir,slavjane,slovo
+page
+	set url https://ukraina.ru/history/20210527/1031481015.html
+	set tags evrazia,evrazijstvo,filosofia,ideologia,istoria,rossia,rusmir,savickij_petr.chernigov.1895,ukraina
 eof
 off
 page

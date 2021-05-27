@@ -29991,6 +29991,12 @@ page
 page
 	set url https://strana.ua/news/305887-v-rossii-loshad-otkusila-nos-pjanomu-muzhchine.html
 	set tags bolnica,loshadj,nos,pjanstvo,rossia,rossiane,st_peterburg,travma
+page
+	set url https://strana.ua/news/275852-v-kieve-muzhchina-v-odnikh-trusakh-verkhom-na-loshadi-zaekhal-v-supermarket-.html
+	set tags alkogol,kiev,kon',kurjez,loshadj,magazin,pivo,supermarket,trusy.belje,ukraina
+page
+	set url https://strana.ua/news/335627-v-moskve-pojmali-parnja-kotoryj-dva-hoda-pristaval-k-devushkam-v-metro-.html
+	set tags metro,moskva,rossia
 eof
 off
 page

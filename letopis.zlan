@@ -29871,6 +29871,15 @@ page
 page
 	set url https://kiev.strana.ua/335476-sbu-provedet-antiterroristicheskie-uchenija-v-stolichnom-metro.html
 	set tags antiterror,dokument,kiev,metro,preduprezhdenie,sbu,terrorizm,uchenija,ukraina
+page
+	set url https://strana.ua/opinions/335492-ukraine-ne-smohla-nazhitsja-na-aviatsionnoj-blokade-belarusi.html
+	set tags __may_2021.aviacia.zapret.belarus,__may_2021.protasevich.belarus.zaderzhanie,aviacia,belarus,ekonomika,es,evropa,nazhiva,oblet,pribaltika,ubytok,ukraina,vygoda,zapret
+page
+	set url https://strana.ua/news/335500-vaktsinu-johnson-johnson-vvezli-v-ukrainu.html
+	set tags covid,johnson_and_johnson.kompania,registracia,ukraina,vaccina.johnson_and_johnson,vaccinacia,vaccine
+page
+	set url https://strana.ua/articles/analysis/335143-kak-pri-zelenskom-izmenilis-zarplaty-chinovnikov-a-hossluzhba-stala-rabotoj-mechty.html
+	set tags chastnyj_sektor,chinovnik,ekonomika,rabota,ukraina,zarplata,zelenskii_vladimir
 eof
 off
 page

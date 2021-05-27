@@ -29886,6 +29886,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/portret-putina-z-vyrvanyh-zubiv-yevgeniya-khaibullina-ufa/31276134.html
 	set tags hudozhnik,isskustvo,kartina,putin_vladimir,rossia,sibir,ufa,ugroza,zuby
+page
+	set url http://lug-info.com/news/one/devyanosto-vypusknikov-luganskih-shkol-pretenduyut-na-zolotye-i-serebryanye-medali-meriya-68240
+	set tags deti,lnr,medal',medal.zolotaja,obrazovanie,shkola,zoloto
 eof
 off
 page

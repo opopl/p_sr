@@ -29961,6 +29961,29 @@ page
 page
 	set url https://www.dialog.ua/blogs/230026_1622101504
 	set tags 2014,dnr,donbass,doneck,rusmir,vojna,vsu
+page
+	set url https://sharij.net/poehavshie-stalinisty-vyrodki-i-bombyashhie-gospropagandony-kak-protasevich-oskorblyal-vlasti-belarusi-v-svoem-twitter
+	set tags belarus,polsha,protasevich_roman.belarus.nexta,twitter
+page
+	set url https://sharij.net/sem-let-boyam-za-doneczkij-aeroport-chto-govoryat-o-nih-sejchas-i-kuda-delis-kiborgi
+	set tags 2014,donbass,doneck,doneck_aeroport,kiborg,ukraina,vojna,vsu
+page
+	set url https://strana.ua/news/335578-poroshenko-na-donbasse-kak-eks-prezident-ot-sbu-na-vojne-spasalsja.html
+	set tags begstvo,donbass,poezd,poroshenko_petr,povestka,sbu,ukraina
+page
+	set url https://strana.ua/opinions/335613-v-strane-krajne-iznoshena-infrastruktura.html
+	set tags infrastruktura,modernizacia,problemy,ukraina
+page
+	set url https://strana.ua/news/335600-umerla-odesskaja-barbi-illami-poetessa-olha-arkhanhelskaja-skonchalas.html
+	set tags arhangelskaja_olga.odessa.poet,kukla.barbi,poezia,smert,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.ua/news/334233-19-maja-umerla-zasluzhennajaartistka-rsfsr-halina-novozhilova.html
+	set tags deti,novozhilova_galina.sssr.aktrisa.1922_2021,pioner,rossia,smert,sssr,teatr,vospitanie
 eof
 off
 page

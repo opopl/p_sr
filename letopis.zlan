@@ -29984,6 +29984,9 @@ global
 page
 	set url https://strana.ua/news/334233-19-maja-umerla-zasluzhennajaartistka-rsfsr-halina-novozhilova.html
 	set tags deti,novozhilova_galina.sssr.aktrisa.1922_2021,pioner,rossia,smert,sssr,teatr,vospitanie
+page
+	set url https://strana.ua/opinions/335618-ukrainskij-patriot-hotov-borotsja-s-rezhimom-lukashenko-no-chuzhimi-rukami.html
+	set tags __may_2021.aviacia.zapret.belarus,aeroport.kiev,aviacia,belarus,borjba,lukashenko_aleksandr,rezhim,rezhim.lukashenko,ukraina
 eof
 off
 page

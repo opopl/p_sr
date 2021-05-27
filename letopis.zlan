@@ -29904,6 +29904,15 @@ page
 page
 	set url https://gazeta.ua/blog/55128/nashi-gromadyani-chasto-dosi-ne-viryat-v-isnuvannya-nezalezhnoyi-ukrayini
 	set tags nachalnik,naselenie,nezalezhnist,rossia,russkie,ukraina,vera
+page
+	set url https://kiev.strana.ua/335528-vozle-ocean-plaza-snova-prorvalo-trubu-proezzhaja-chast-zatoplena-vodoj.html
+	set tags avaria,kiev,ocean_plaza.kiev,proryv.vodoprovoda,truba,ukraina,ulica.kiev.antonovicha,voda,vodoprovod
+page
+	set url https://strana.ua/video/231800-prorvalo-trubu-kiev-na-shota-rustaveli-video-i-foto-051119.html
+	set tags avaria,kiev,kipjatok,truboprovod,ukraina,ulica,ulica.kiev.shota_rustaveli,voda,vodoprovod
+page
+	set url https://plus.obozrevatel.com/crime/na-donbasse-snajper-terroristov-ubil-ukrainskogo-voina.htm
+	set tags donbass,smert,snajper,ukraina,vojna,vsu
 eof
 off
 page

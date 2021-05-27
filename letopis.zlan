@@ -29976,10 +29976,6 @@ page
 page
 	set url https://strana.ua/news/335600-umerla-odesskaja-barbi-illami-poetessa-olha-arkhanhelskaja-skonchalas.html
 	set tags arhangelskaja_olga.odessa.poet,kukla.barbi,poezia,smert,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://strana.ua/news/334233-19-maja-umerla-zasluzhennajaartistka-rsfsr-halina-novozhilova.html
 	set tags deti,novozhilova_galina.sssr.aktrisa.1922_2021,pioner,rossia,smert,sssr,teatr,vospitanie
@@ -29989,6 +29985,12 @@ page
 page
 	set url https://strana.ua/opinions/335620-ukraina-kak-feodalnaja-anhlija-vremen-sherifa-nottinhema-tolko-bez-robin-huda.html
 	set tags anglia,feodalizm,obschestvo,politika,robin_hood,ukraina
+page
+	set url https://kiev.strana.ua/335629-v-kieve-zhenshchina-huljala-po-proezzhaj-chasti-s-loshadju-na-tsepi.html
+	set tags kiev,kurjez,loshadj,ukraina,ulica,woman
+page
+	set url https://strana.ua/news/305887-v-rossii-loshad-otkusila-nos-pjanomu-muzhchine.html
+	set tags bolnica,loshadj,nos,pjanstvo,rossia,rossiane,st_peterburg,travma
 eof
 off
 page

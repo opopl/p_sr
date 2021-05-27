@@ -29811,6 +29811,9 @@ page
 page
 	set url https://strana.ua/news/335452-epidemija-covid-19-skolko-v-ukraine-bolnykh-po-dannym-na-27-maja-2021-hoda.html
 	set tags bolezn,covid,smert,smertnost',statistika,ukraina,zabolevajemost',zdorovje
+page
+	set url https://strana.ua/opinions/335458-protasevich-nam-vazhnee-chem-sobstvennaja-ekonomika.html
+	set tags belarus,obschestvo,psihologia,rossia,rusmir,shizofrenia,ukraina
 eof
 off
 page

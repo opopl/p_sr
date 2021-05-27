@@ -29928,6 +29928,9 @@ page
 page
 	set url https://strana.ua/news/328868-naprjazhenie-na-vostoke-ukrainy-papa-rimskij-obespokoen.html
 	set tags cerkov,donbass,katolichestvo,papa_rimskij,propovedj,ukraina,vojna
+page
+	set url https://strana.ua/opinions/335520-lobodjanka-kvasha-varenyj-kendjukh-svinye-kishki.html
+	set tags deti,eda,eda.shkolnaja,kuhnja,shkola,shpundra,ukraina
 eof
 off
 page

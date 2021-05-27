@@ -29934,6 +29934,24 @@ page
 page
 	set url https://strana.ua/articles/analysis/335259-verkhovnaja-rada-prinjala-zakon-o-nakazanii-za-voennye-prestuplenija.html
 	set tags amnistia,deputat,markiv_vitalii,nakazanie,prestuplenie,prestuplenie.protiv_chelovechnosti,prestuplenie.vojennoje,sud.gaaga.mus,ukraina,verhovna_rada,zakon
+page
+	set url https://strana.ua/news/335550-pismo-o-minirovanii-samoleta-iz-afin-otpravili-posle-razvorota-borta-v-storonu-minska.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,hamas.dvizhenie,internet
+page
+	set url https://strana.ua/opinions/335521-esli-ty-snimalsja-v-serialakh-zelenskoho-to-mozhno-ezdit-v-krym.html
+	set tags dobronravov_fedor.akter.rossia,krym,kultura,kvartal95,obeschanie,poroshenko_petr,prigovor,rossia,sbu,serial,ukraina,zapret,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/335524-mir-perevernulsja-patsienty-psikhiatricheskoj-bolnitsy-pishut-zakony.html
+	set tags _important,bezumie,bolnica.psihiatricheskaja,fraza,janukovich_viktor,pacient,politika,psihiatria,ukraina,zakon,zakonoprojekt
+page
+	set url https://strana.ua/news/335559-lavrov-zajavil-chto-ne-v-kompetentsii-kravchuka-reshat-hde-budet-zasedat-tkh-po-donbassu.html
+	set tags belarus,donbass,kravchuk_leonid,lavrov_sergei,oon.sovet_bezopastnosti,peregovory,rossia,tkg,ukraina,vojna
+page
+	set url https://fraza.com/video/301437-u-kievljan-iz-pod-nog-ushla-zemlja-v-rajone-populjarnogo-torgovogo-tsentra-na-lybedskoj
+	set tags avaria,kiev,metro.kiev.lybidskaja,ocean_plaza.kiev,proryv.vodoprovoda,ukraina,voda,vodoprovod
+page
+	set url https://hvylya.net/interview/231167-zapad-govorit-ukraine-rebyata-mozhet-vy-nakonec-priberetes-doma
+	set tags blinken_entoni.gossekretar.usa,illjuzia,obschestvo,politika,ukraina,usa,zapad
 eof
 off
 page

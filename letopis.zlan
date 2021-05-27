@@ -29892,6 +29892,9 @@ page
 page
 	set url http://lug-info.com/news/one/administraciya-luganska-priglashaet-zhitelej-goroda-na-subbotnik-28-maya-68237
 	set tags administracia,ekologia,gorod,lnr,lugansk,priglashenie,subbotnik,uborka
+page
+	set url https://gazeta.ua/articles/kiev-life/_masshtabna-avariya-peretvorila-vulicyu-kiyeva-na-richku-video-np/1034279
+	set tags avaria,gorod,kiev,reka,ukraina,ulica,voda,vodoprovod
 eof
 off
 page

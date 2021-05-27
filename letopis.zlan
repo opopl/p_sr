@@ -29766,6 +29766,48 @@ page
 page
 	set url https://strana.ua/opinions/335420-sem-let-nazad-ukrainskaja-aviatsija-nachala-ataku-na-donetskij-aeroport.html
 	set tags ato,aviacia,donbass,doneck,doneck_aeroport,poroshenko_petr,turchinov_aleksandr,vojna
+page
+	set url https://strana.ua/news/335447-strelba-v-kalifornii-bajden-trebuet-ohranichit-prodazhi-oruzhija-v-ssha.html
+	set tags kalifornia,oruzhie,san_jose.ca.usa,shooting,strelba,tragedia,usa,smert
+page
+	set url https://strana.ua/news/335418-v-kalifornii-pri-strelbe-pohibli-vosem-chelovek-vkljuchaja-strelka.html
+	set tags oruzhie,san_jose.ca.usa,shooting,smert,strelba,tragedia,usa
+page
+	set url https://strana.ua/news/335441-batska-poobeshchal-vstretit-bajdena-v-minske-tremja-istrebiteljami.html
+	set tags belarus,biden_joe,istrebitel,lukashenko_aleksandr,putin_vladimir,rossia,samolet
+page
+	set url https://strana.ua/news/335353-lukashenko-pozval-bajdena-i-putina-v-minsk-obsudit-belarus.html
+	set tags belarus,biden_joe,geopolitika,lukashenko_aleksandr,priglashenie,rossia,usa
+page
+	set url https://strana.ua/news/335329-u-putina-predlozhili-belarusi-nachat-letat-v-krym.html
+	set tags aeroport.simferopol.krym,aviacia,aviasoobschenie,belarus,krym,rossia
+page
+	set url https://strana.ua/news/335436-vstrecha-sovetnikov-normandskoi-chetverki-proshla-bezrezultatno-arestovich.html
+	set tags arestovich_aleksei,donbass,normandskaja_chetverka,peregovory,peremirie,rossia,ukraina,vojna
+page
+	set url https://covid.obozrevatel.com/professor-dosenko-chtobyi-byistree-preodolet-covid-19-ukraine-nuzhnyi-mozgi-iz-za-rubezha.htm
+	set tags covid,izrail,sputnik_v,ukraina,vaccinacia,vaccine,zdorovje
+page
+	set url https://news.obozrevatel.com/auto/prilepin-betsya-v-isterike-v-sevastopole-vmesto-ego-filma-pokazali-pozyivnoj-banderas.htm
+	set tags dnr,donbass,film.opolchenochka,kinoteatr,krym,lnr,rossia,sevastopol,skandal
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-svinyam-v-kryimu-mesta-net.htm
+	set tags kiev,krym,posolstvo.rossia.kiev,protest,rossia,ukraina
+page
+	set url https://buzina.org/povtorenie/2571-velikaya-brehnia.html
+	set tags grushevskij_mihail.istorik,istoria,konstitucia,malorossia,nacionalizm,orlik_filip,sssr,ukraina,ussr,vranje
+page
+	set url https://buzina.org/golos-naroda/3973-eto-drugoe.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,eto_drugoje,protasevich_roman.belarus.nexta,ukraina
+page
+	set url https://kiev.strana.ua/335449-v-kiev-iz-sektora-haza-pribyl-lajner-s-evakuirovannymi-hrazhdanami-ukrainy.html
+	set tags __may_2021.izrail.palestina.konflikt,evakuacia,izrail,izrail_vs_palestina,kiev,konflikt,palestina,sektor_gaza,ukraina
+page
+	set url https://strana.ua/opinions/335454-kakie-to-multjashnye-personazhi-dajut-moralnuju-otsenku-prezidentu-belarusi.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,chelovek,lukashenko_aleksandr,ocenka,personazh.multik,ukraina
+page
+	set url https://strana.ua/opinions/335456-ne-nuzhno-nikoho-lishat-izbiratelnoho-prava.html
+	set tags demokratia,lishenie_prava,narod,obschestvo,pravo.izbiratelnoje,sovershenstvo,ukraina,vybory
 eof
 off
 page

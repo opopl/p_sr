@@ -29895,6 +29895,12 @@ page
 page
 	set url https://gazeta.ua/articles/kiev-life/_masshtabna-avariya-peretvorila-vulicyu-kiyeva-na-richku-video-np/1034279
 	set tags avaria,gorod,kiev,reka,ukraina,ulica,voda,vodoprovod
+page
+	set url https://gazeta.ua/articles/kiev-life/_zvilnili-cherez-kashtani-na-hreschatiku-visadili-falshivi-dereva/1034209
+	set tags derevo,kashtan,kiev,kreschatik.kiev,obman,posadka.derevja,ukraina
+page
+	set url https://gazeta.ua/blog/55134/teroristi-vvazhayut-lukashenka-negidnim-a-30-ukrayinciv-najkraschim-prezidentom
+	set tags belarus,ludi,lukashenko_aleksandr,sovok,sssr,terrorizm,ukraina,rusmir
 eof
 off
 page

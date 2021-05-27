@@ -30018,6 +30018,33 @@ page
 page
 	set url https://news.obozrevatel.com/society/banda-agency-i-setters-ukrainskoe-reklamnoe-agenstvo-oskandalilos-kollaboratsiej-s-rf.htm
 	set tags banda_agency.ukr.kompania,druzhba,kiev,reklama,rossia,sotrudnichestvo,ukraina
+page
+	set url http://lug-info.com/news/one/personal-naya-vystavka-fotorabot-prepodavatelya-kolledzha-lgaki-otkrylas-v-luganske-68262
+	set tags biblioteka.lnr.lrunb,foto,fotograf,fotografia,fotohudozhnik,lgaki,lnr,lugansk,vystavka
+page
+	set url http://lug-info.com/news/one/zamkombata-brigady-vsu-pogib-pri-podryve-na-ukrainskoj-mine-narodnaya-miliciya-68275
+	set tags donbass,lnr,mina,minirovanie,nm_lnr,smert,ukraina,vojna,vsu
+page
+	set url https://kyiv.media/news/a-yak-ukrayinskoyu-druzhba-agencziya-shho-rozrobyla-brend-ukraine-now-pryvezla-do-kyyeva-rosijskyh-reklamnykiv
+	set tags agressor,banda_agency.ukr.kompania,kiev,reklama,rossia,sotrudnichestvo,ukraina
+page
+	set url https://kyiv.media/news/na-gidroparku-vidryly-kafe-imeni-lyepsa-rosijskogo-spivaka-yakyj-pitrymav-aneksiyu-krymu-ta-polityku-putina-shhodo-ukrayiny
+	set tags gidropark.kiev,gorod,kafe,kiev,leps_grigorij.pevec.rossia,sternenko_sergei,telegram,ukraina
+page
+	set url https://kyiv.media/news/suhroba-karimova-yakyj-vlitku-pogrozhuvav-pidirvaty-bank-u-czentri-kyyevi-vidpravyly-na-prymusove-psyhiatrychne-likuvannya
+	set tags kiev,leonardo.kiev.biznes_centr,ukraina
+page
+	set url https://news.obozrevatel.com/politics/kravchuk-v-minsk-nelzya-popast-budet-najdeno-novoe-mesto-dlya-peregovorov-po-donbassu.htm
+	set tags __may_2021.aviacia.zapret.belarus,belarus,donbass,kravchuk_leonid,lukashenko_aleksandr,peregovory,tkg,ukraina,vojna
+page
+	set url https://www.vesti.ru/article/2567547
+	set tags covid,deti,oon,rossia,sputnik_v,unicef,vaccinacia,vaccine,vooz
+page
+	set url https://www.vesti.ru/article/2567118
+	set tags krasnyj_krest,rossia,sputnik_v,vaccinacia,vaccine
+page
+	set url https://ukraina.ru/exclusive/20210527/1031482990.html
+	set tags jazyk,mova,rodstvo,rusmir,slavjane,slovo
 eof
 off
 page

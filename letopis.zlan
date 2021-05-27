@@ -29997,6 +29997,27 @@ page
 page
 	set url https://strana.ua/news/335627-v-moskve-pojmali-parnja-kotoryj-dva-hoda-pristaval-k-devushkam-v-metro-.html
 	set tags metro,moskva,rossia
+page
+	set url https://analytics.hvylya.net/231180-bitva-za-ukrajinu-hto-vinen-ta-shcho-robiti
+	set tags derzhava,ekonomika,future,geopolitika,nacia,obschestvo,strategia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/russia-war-in-ukraine-investigations/31212089.html
+	set tags donbass,rassledovanie,rossia,ukraina,vojna
+page
+	set url https://www.radiosvoboda.org/a/znachennya-oborony-donetskogo-aeroportu/31275122.html
+	set tags donbass,doneck_aeroport,kiborg,ukraina,vojna
+page
+	set url https://blogs.pravda.com.ua/authors/prytula/60af8099c22f5/
+	set tags gongadze_georgij,pismo,pravda_com_ua,prodazha,sheremet_pavel,ukraina,zhurnalistika
+page
+	set url https://www.pravda.com.ua/news/2021/05/27/7295120/
+	set tags azarov_nikolaj,cenzura,donbass,nacsovet,newsone,presledovanie,shtraf,telekanal_nash,tv,ukraina,vojna
+page
+	set url https://sharij.net/britanskaya-radiovedushhaya-umerla-posle-privivki-vakczinoj-astrazeneca
+	set tags bbc,britania,covid,pobochka,radio,smert,tromboz,vaccinacia,vaccine
+page
+	set url https://news.obozrevatel.com/society/banda-agency-i-setters-ukrainskoe-reklamnoe-agenstvo-oskandalilos-kollaboratsiej-s-rf.htm
+	set tags banda_agency.ukr.kompania,druzhba,kiev,reklama,rossia,sotrudnichestvo,ukraina
 eof
 off
 page

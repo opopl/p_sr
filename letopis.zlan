@@ -29952,6 +29952,15 @@ page
 page
 	set url https://hvylya.net/interview/231167-zapad-govorit-ukraine-rebyata-mozhet-vy-nakonec-priberetes-doma
 	set tags blinken_entoni.gossekretar.usa,illjuzia,obschestvo,politika,ukraina,usa,zapad
+page
+	set url https://strana.ua/news/335502-kto-sozdal-koronavirus-i-pochemu-za-eto-vzjalsja-bajden.html
+	set tags biden_joe,covid,covid.proishozhdenie,kitaj,razvedka,razvorot,specsluzhba,trump_donald,usa
+page
+	set url https://www.dialog.ua/world/230059_1622122184
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviacia,aviasoobschenie,evropa,icao,moskva,oblet,rossia
+page
+	set url https://www.dialog.ua/blogs/230026_1622101504
+	set tags 2014,dnr,donbass,doneck,rusmir,vojna,vsu
 eof
 off
 page

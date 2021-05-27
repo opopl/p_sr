@@ -29913,6 +29913,12 @@ page
 page
 	set url https://plus.obozrevatel.com/crime/na-donbasse-snajper-terroristov-ubil-ukrainskogo-voina.htm
 	set tags donbass,smert,snajper,ukraina,vojna,vsu
+page
+	set url https://strana.ua/news/335529-duda-skazal-chto-rossija-javljaetsja-hosudarstvom-ahressorom-v-kremle-otvetili.html
+	set tags agressor,kreml,nenavist,peskov_dmitrii,polsha,rossia
+page
+	set url https://news.obozrevatel.com/russia/sudba-rossii-budet-reshatsya-na-ulitsah.htm
+	set tags future,obschestvo,protest,rossia,sudjba,ulica
 eof
 off
 page

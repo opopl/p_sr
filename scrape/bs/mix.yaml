@@ -109,52 +109,52 @@ include:
     - kiev.kk
 
 ###news_ua
-    - news.ua.news24ua
-    - news.ua.nv
-    - news.ua.umoloda
-    - news.ua.hromadske
-    - news.ua.vesti_ua
-    - news.ua.nash
-    - news.ua.ukrmir
+    #- news.ua.nakipelo
     #- news.ua.segodnya
-    - news.ua.zbruc
-    - news.ua.molbuk
-    - news.ua.golospravdy
+    #- news.ua.sprotyv
+    #- news.ua.tyzhden
     - news.ua.112ua
     - news.ua.apostrof
     - news.ua.beztabu
     - news.ua.censor
+    - news.ua.citynews
     - news.ua.den
-    - news.ua.korrespondent
     - news.ua.depo
     - news.ua.dialog
-    - news.ua.racurs
     - news.ua.fakty
     - news.ua.fraza
     - news.ua.fromua
     - news.ua.gazeta
     - news.ua.glavred
+    - news.ua.golospravdy
     - news.ua.gordon
+    - news.ua.hromadske
     - news.ua.hvylya
+    - news.ua.korrespondent
     - news.ua.lb
     - news.ua.mediaport
+    - news.ua.molbuk
+    - news.ua.nash
+    - news.ua.news24ua
     - news.ua.newsone
+    - news.ua.nv
     - news.ua.oboz
-    - news.ua.zn
-    - news.ua.texty
     - news.ua.pravda
     - news.ua.prostirsvobody
+    - news.ua.racurs
     - news.ua.radiosvoboda
     - news.ua.sharij
-    - news.ua.citynews
     - news.ua.strana
-    #- news.ua.tyzhden
+    - news.ua.texty
+    - news.ua.ukrmir
+    - news.ua.umoloda
+    - news.ua.vesti_ua
     - news.ua.volyn
     - news.ua.zaxid
+    - news.ua.zbruc
     - news.ua.zik
+    - news.ua.zn
     - news.ua.zzte
-    #- news.ua.nakipelo
-    #- news.ua.sprotyv
     #- news.anglia.bbc
 ###pc_articles
     - pc.articles.sitepoint

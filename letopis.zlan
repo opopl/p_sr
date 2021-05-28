@@ -30111,6 +30111,15 @@ page
 page
 	set url https://lenta.ru/news/2021/05/28/won_lost/
 	set tags kvartira,poterja,priz,rossia,rossiane,sport,vyigrysh
+page
+	set url https://zrada.org/history/10-brehnja-istorikiv/48-jak-hochetsja-use-zabuti.html
+	set tags _important,istoria,pamjat,rossia,rusmir,ukraina,zhelanie
+page
+	set url https://zen.yandex.ru/media/turista_del_bosque/moskoviia-tartariia-i-staraia-baba-na-starinnyh-kartah-603c62b7732f3c7f62a9845a
+	set tags istoria,karta,moskovia,moskva,rossia,rusmir
+page
+	set url https://bigkyiv.com.ua/kyyivski-vesnyani-gradusy/
+	set tags 1770,foto,istoria,kiev,navodnenie,potop,priroda,ukraina,universytet_shevchenka,vesna
 eof
 off
 page

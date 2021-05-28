@@ -30120,6 +30120,21 @@ page
 page
 	set url https://bigkyiv.com.ua/kyyivski-vesnyani-gradusy/
 	set tags 1770,foto,istoria,kiev,navodnenie,potop,priroda,ukraina,universytet_shevchenka,vesna
+page
+	set url https://kiev.strana.ua/335751-v-kieve-muzhchina-napal-na-prokhozhikh-krushil-bankomaty-i-mashiny.html
+	set tags agressia,bankomat,huliganstvo,kiev,muzhchina,ukraina
+page
+	set url https://kiev.strana.ua/321201-v-kieve-devushka-bloher-streljala-iz-pistoleta-na-ulitse-i-razhromila-semnuju-kvartiru.html
+	set tags blogger,devushka,gorod,hamstvo,huliganstvo,kiev,kvartira,oruzhie,razgrom,strelba,ukraina
+page
+	set url https://strana.ua/opinions/335687-patriot-oleh-skripka-spokojno-vykladyvaet-pesni-na-jandeksmuzyku.html
+	set tags jazyk,licemerie,muzyka,patriotizm,showbiz,skripka_oleg,ukraina,yandex
+page
+	set url https://strana.ua/opinions/335691-ukrainskie-natsionalisty-nachali-aktivno-perenimat-praktiku-vudu.html
+	set tags koldovstvo,nacionalizm,shamanstvo,terror,ukraina,zombi
+page
+	set url https://strana.ua/opinions/335698-za-tupost-nashej-vlasti-kak-obychno-zaplatjat-rjadovym-ukraintsy.html
+	set tags belarus,benzin,ekonomika,torgovlja,tupost,ukraina,vlast
 eof
 off
 page

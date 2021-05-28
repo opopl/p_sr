@@ -30069,6 +30069,21 @@ page
 page
 	set url https://kp.ua/culture/696864-oleh-skrypka-bud-u-menia-rabota-ya-by-ne-snymalsia-v-reklame-onlain-kazyno
 	set tags muzyka,rusmir,showbiz,skripka_oleg,ukraina,ukraincy
+page
+	set url https://strana.ua/showbiz/292170-muzykant-oleh-skripka-ezdil-na-mototsikle-pjanym.html
+	set tags dtp,motorcycle,peshehod,pjanstvo,rebenok,skripka_oleg,sud.kiev.pecherskij,ukraina,woman,zebra.perehod_peshehod,2013
+page
+	set url https://strana.ua/news/335626-moskva-zashchishchaet-belarus-ubytki-ukrainy-ot-sanktsij-protiv-minska-vojna-naftohaza-s-sp-2.html
+	set tags __may_2021.aviacia.zapret.belarus,aeroport.kiev,belarus,itogi,moskva,putin_vladimir,rossia,sankcii,ukraina
+page
+	set url https://www.radiosvoboda.org/a/facebook-operatsiji-vplyvu-ukrajina-rosija/31277312.html
+	set tags facebook,internet,rossia,ukraina,vlijanie
+page
+	set url https://www.radiosvoboda.org/a/voenno-grazdanskaja-administracija-v-slavyanske/31276906.html
+	set tags demokratia,slavjansk,ukraina,zelenskii_vladimir
+page
+	set url https://lb.ua/blog/lion_djoel/485608_yak_mozhe_ukraina_zupiniti_teroristiv.html
+	set tags __may_2021.izrail.palestina.konflikt,hamas.dvizhenie,izrail,oon,palestina,ukraina
 eof
 off
 page

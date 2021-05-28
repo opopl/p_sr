@@ -114,6 +114,7 @@ include:
     #- news.ua.segodnya
     #- news.ua.sprotyv
     #- news.ua.tyzhden
+    - news.ua.zrada
     - news.ua.112ua
     - news.ua.apostrof
     - news.ua.beztabu

@@ -2,6 +2,7 @@
 ###news.ua
 #
 
+'zrada.org' : { 'site' : 'news.ua.zrada' } 
 'nv.ua' : { 'site' : 'news.ua.nv' } 
 'news2ua.com' : { 'site' : 'news.ua.news24ua' } 
 'umoloda.kyiv.ua' : { 'site' : 'news.ua.umoloda' } 

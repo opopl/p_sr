@@ -30066,6 +30066,9 @@ page
 page
 	set url https://strana.ua/news/335654-oleh-skripka-nazval-artistov-kotorye-pishut-pesni-na-russkom-ne-ukraintsami.html
 	set tags muzyka,nacia,narod,obschestvo,rossia,showbiz,skripka_oleg,ukraina,ukraincy,unizhenie
+page
+	set url https://kp.ua/culture/696864-oleh-skrypka-bud-u-menia-rabota-ya-by-ne-snymalsia-v-reklame-onlain-kazyno
+	set tags muzyka,rusmir,showbiz,skripka_oleg,ukraina,ukraincy
 eof
 off
 page

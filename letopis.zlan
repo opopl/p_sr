@@ -30135,6 +30135,18 @@ page
 page
 	set url https://strana.ua/opinions/335698-za-tupost-nashej-vlasti-kak-obychno-zaplatjat-rjadovym-ukraintsy.html
 	set tags belarus,benzin,ekonomika,torgovlja,tupost,ukraina,vlast
+page
+	set url https://strana.ua/opinions/335740-100-hriven-v-den-za-proezd-v-kievskom-horodskom-transporte.html
+	set tags cena,dengi,ekonomika,kiev,metro,transport,ukraina
+page
+	set url https://strana.ua/news/335705-pochemu-belarus-ostanavlivaet-postavki-benzina-v-ukrainu-i-cheho-zhdat-na-azs.html
+	set tags belarus,benzin,nefteprodukty,postavka,torgovlja,ukraina,zapret
+page
+	set url https://strana.ua/news/335738-vo-vremja-onlajn-soveshchanija-u-aksenova-za-spinoj-u-chinovnikov-iz-shkafa-vyshel-chelovek.html
+	set tags aksenov_sergei,krym,kurjez,rossia,shkaf
+page
+	set url https://strana.ua/opinions/335747-ukraina-strana-krivykh-zerkal-i-fiskalnoho-kannibalizma.html
+	set tags ekonomika,nalogi,ukraina
 eof
 off
 page

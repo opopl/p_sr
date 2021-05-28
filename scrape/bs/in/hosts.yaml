@@ -4,6 +4,7 @@
 
 'zrada.org' : { 'site' : 'news.ua.zrada' } 
 'nv.ua' : { 'site' : 'news.ua.nv' } 
+'kp.ua' : { 'site' : 'news.ua.kpua' } 
 'news2ua.com' : { 'site' : 'news.ua.news24ua' } 
 'umoloda.kyiv.ua' : { 'site' : 'news.ua.umoloda' } 
 'hromadske.ua' : { 'site' : 'news.ua.hromadske' } 

@@ -30048,6 +30048,24 @@ page
 page
 	set url https://ukraina.ru/history/20210527/1031481015.html
 	set tags evrazia,evrazijstvo,filosofia,ideologia,istoria,rossia,rusmir,savickij_petr.chernigov.1895,ukraina
+page
+	set url https://strana.ua/news/335653-kak-ukraina-vmeshivalas-v-vybory-2020-v-ssha.html
+	set tags biden_joe,rassledovanie,trump_donald,ukraina,usa,vmeshatelstvo,vybory
+page
+	set url https://strana.ua/news/335645-dmitrij-kuleba-ukraina-ne-mozhet-otozvat-posla-iz-minska-posle-intsidenta-s-protasevichem.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,dip_otnoshenia,kuleba_dmitrii,otzyv_posla,posol,ukraina
+page
+	set url https://strana.ua/opinions/335647-zelenskij-ne-ostavljaet-popytok-prinudit-bajdena-k-ljubvi.html
+	set tags biden_joe,ljubov,prinuzhdenie,ukraina,usa,vzaimnost',zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/335648-poslushat-sytnika-tak-ukrainskomu-narodu-nelzja-doverjat-hosudarstvo.html
+	set tags inostrancy,korupcia,nabu,nezalezhnist,sytnik_artem.nabu,ukraina,zapad
+page
+	set url https://strana.ua/opinions/335650-voennykh-prestupnikov-s-etoj-storony-mozhno-budet-osudit-tolko-posle-smeny-vlasti.html
+	set tags donbass,nakazanie,prestuplenie.vojennoje,ukraina,vojna,zakon
+page
+	set url https://strana.ua/news/335654-oleh-skripka-nazval-artistov-kotorye-pishut-pesni-na-russkom-ne-ukraintsami.html
+	set tags muzyka,nacia,narod,obschestvo,rossia,showbiz,skripka_oleg,ukraina,ukraincy,unizhenie
 eof
 off
 page

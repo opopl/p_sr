@@ -2,6 +2,7 @@
 ###news.ua
 #
 
+'slovoprosvity.org' : { 'site' : 'news.ua.slovoprosvity' } 
 'zrada.org' : { 'site' : 'news.ua.zrada' } 
 'nv.ua' : { 'site' : 'news.ua.nv' } 
 'kp.ua' : { 'site' : 'news.ua.kpua' } 

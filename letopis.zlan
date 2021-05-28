@@ -30087,6 +30087,27 @@ page
 page
 	set url https://zrada.org/history/10-brehnja-istorikiv/1466-v-moskve-postavili-pamyatnik-knyazyu-volodymeru-iskoverkav-ego-imya.html
 	set tags istoria,kievrus,knjaz_vladimir,moskva,rossia,rusmir
+page
+	set url https://www.dialog.ua/ukraine/230088_1622182292
+	set tags 112_ua,cenzura,gordon_dmitrii,infvojna,interview,medvedchuk_viktor,newsone,rossia,rusmir,telekanaly,ukraina,venediktov_aleksei,zik
+page
+	set url https://strana.ua/news/335336-chto-proiskhodit-v-ssha-c-blm-cherez-hod-posle-ubijstva-flojda-.html
+	set tags biden_joe,black_lives_matter,floyd_george,protest,rasizm,usa
+page
+	set url https://www.vesti.ru/article/2567005
+	set tags covid,razreshenie,registracia,rossia,slovakia,sputnik_v,vaccinacia,vaccine
+page
+	set url https://regnum.ru/news/society/3281631.html
+	set tags den_pobedy,memorial,mirvojna2,pamjat,rossia,vechnyj_ogon,vov
+page
+	set url https://www.radiosvoboda.org/a/news-denisova-pislitkova-samohubstva/31278009.html
+	set tags denisova_ljudmyla.ukr.upoln_s_prav_cheloveka,podrostki,popytka,suicid,ukraina
+page
+	set url https://lenta.ru/articles/2021/05/28/abortion/
+	set tags abort,bednost,beremennost,depressia,deti,nischeta,obschestvo,odinochestvo,rebenok,rody,rossia,woman
+page
+	set url https://lenta.ru/articles/2021/05/28/lukiyanov/
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,lukashenko_aleksandr,manipuljacia,razryv,rossia,zapad
 eof
 off
 page

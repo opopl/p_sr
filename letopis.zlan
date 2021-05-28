@@ -30108,6 +30108,9 @@ page
 page
 	set url https://lenta.ru/articles/2021/05/28/lukiyanov/
 	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,lukashenko_aleksandr,manipuljacia,razryv,rossia,zapad
+page
+	set url https://lenta.ru/news/2021/05/28/won_lost/
+	set tags kvartira,poterja,priz,rossia,rossiane,sport,vyigrysh
 eof
 off
 page

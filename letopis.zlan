@@ -30147,6 +30147,27 @@ page
 page
 	set url https://strana.ua/opinions/335747-ukraina-strana-krivykh-zerkal-i-fiskalnoho-kannibalizma.html
 	set tags ekonomika,nalogi,ukraina
+page
+	set url https://kiev.strana.ua/335813-v-kieve-muzhchina-streljal-iz-okna-po-prokhozhim-eho-bral-spetsnaz.html
+	set tags kiev,kvartira,pjanstvo,policia,specnaz,strelba,ukraina
+page
+	set url https://strana.ua/opinions/335794-belarus-hotova-vvesti-litsenzirovanie-importa-tovarov-iz-ukrainy.html
+	set tags belarus,ekonomika,import,licenzia,licenzirovanie,tovary,ukraina
+page
+	set url https://strana.ua/opinions/335748-novaja-stratehija-natsbanka-ne-pomozhet-stimulirovat-razvitie-ekonomiki.html
+	set tags ekonomika,nacbank.ukraina,strategia,ukraina
+page
+	set url https://strana.ua/opinions/335798-eshche-v-janvare-verkhovnaja-rada-hovorila-chto-naselenie-nuzhdaetsja-v-zashchite-ot-novykh-tarifov-zhkkh.html
+	set tags ekonomika,razumkov_dmitrii,tarify,ukraina,verhovna_rada,zhkh
+page
+	set url https://strana.ua/opinions/335801-elita-katehoricheski-ne-zhelaet-otkazyvatsja-ot-ot-privilehij-i-obohashchenija.html
+	set tags ekonomika,elita,obogaschenie,privilegii,ukraina
+page
+	set url https://strana.ua/news/335807-v-cherkassakh-rebenok-chut-ne-vypal-iz-okna-poka-eho-mat-zarabatyvala-intimom-video.html
+	set tags cherkassy,deti,mater,obschestvo,policia,prostitucia,rebenok,semja,ukraina
+page
+	set url https://strana.ua/news/335799-v-mid-prokommentirovali-predlozhenie-minska-privivat-ukraintsev-sputnikom-v.html
+	set tags belarus,covid,rossia,sputnik_v,ukraina,vaccinacia,vaccine
 eof
 off
 page

@@ -30183,6 +30183,21 @@ page
 page
 	set url https://strana.ua/articles/interview/335702-nju-model-natalja-chuprina-posle-holoho-foto-v-dubae-zajavila-chto-ee-iznasilovali-v-dnepre.html
 	set tags devushka,dnepropetrovsk,dubaj,fotosessia,izbienie,iznasilovanie,nu_sessia,oae,ukraina,vymogatelstvo
+page
+	set url https://strana.ua/news/335755-viktor-hvozd-pohib-v-ehipte-chto-izvestno-o-henerale-razvedki.html
+	set tags akvalang,dajving,egipet,more.krasnoje.egipet,razvedchik,razvedka,smert,tragedia,ukraina,voda
+global
+	setlist acts
+		auth_update
+page
+	set url https://www.radiosvoboda.org/a/zustrich-lukashenka-z-putinym/31279898.html
+	set tags belarus,kiev,lukashenko_aleksandr,sankcii,ukraina
+page
+	set url https://www.eurointegration.com.ua/articles/2021/05/28/7123752/
+	set tags donbass,kiev,minsk_dogovor,peregovory,ukraina,vojna
+page
+	set url https://www.vokrugsveta.ru/quiz/69/
+	set tags dnepr,istoria,nazvanie,reka.desna,rossia,slavjane,ukraina
 eof
 off
 page

@@ -30258,6 +30258,15 @@ page
 page
 	set url https://www.radiosvoboda.org/a/rosijske-pr-ahentstvo-pfizer-rozsliduvannia/31279602.html
 	set tags covid,dezinformacia,evropa,pfizer,rassledovanie,reklama,sputnik_v,vaccine,rossia
+page
+	set url https://lenta.ru/news/2021/05/29/rus_plane/
+	set tags __may_2021.protasevich.belarus.zaderzhanie,aviacia,aviakompania,belarus,oblet,rossia
+page
+	set url https://strana.ua/news/335819-na-zakarpate-pjanye-politsejskie-izdevalis-nad-devushkoj.html
+	set tags devushka,nasilie,pjanstvo,policia,ukraina,zakarpatie
+page
+	set url https://crime.fakty.ua/377121-vzryv-v-zhilom-dome-v-odesse-v-oknah-vyleteli-stekla-i-nachalsya-pozhar
+	set tags dom,kvartira,mnogoetazhka,odessa,pozhar,ukraina,vzryv
 eof
 off
 page

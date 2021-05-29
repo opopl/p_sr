@@ -30231,6 +30231,12 @@ page
 page
 	set url https://regnum.ru/news/3273437.html
 	set tags antirossia,kiev,otvetstvennost',politika,rossia,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210528/1031501326.html
+	set tags an26.samolet,avia,aviacia,ekonomika,kb_antonov,proizvodstvo,rossia,rynok,samolet,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210529/1031479925.html
+	set tags bulgakov_mihail,gorod,istoria,kvartira,literatura,moskva,rusmir,sssr
 eof
 off
 page

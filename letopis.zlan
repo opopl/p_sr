@@ -30354,6 +30354,36 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5f27368d25de5a7ad165c92c/v-glazah-u-devochki-vasnecov-uvidel-stolko-odinochestva-i-chisto-russkoi-pechali-chto-priamo-ahnul-6055a2ee83224c57fb990000
 	set tags deti,devochka,grustj,hudozhnik,isskustvo,kartina,pechalj,rossia,rusmir,vasnecov_viktor.hudozhnik
+page
+	set url https://zen.yandex.ru/media/id/5f60d3867e799241989a27d0/kogda-byvshie-respubliki-sssr-perestanut-ispolzovat-russkii-iazyk-ih-odichanie-i-ogluplenie-tolko-uskoritsia-6092ed83b8f34b04d2c9a4b0
+	set tags future,glupost,istoria,jazyk,kultura,nacionalizm,obrazovanie,obschestvo,odichanie,ogluplenie,rossia,rusmir,sssr
+page
+	set url https://glavred.info/opinions/10123742-vosstanovit-edinstvo-ukrainskoy-nacii-budet-neprosto.html
+	set tags donbass,edinstvo,nacia,proschenije,sivoho_sergei,ukraina,vojna,vosstanovlenie
+page
+	set url https://glavred.info/chat/1037-larisa-nicoy.html
+	set tags chat,mova,nicoi_larisa,obschenie,ukraina,ukrainizacia
+page
+	set url https://strana.ua/news/335920-v-ssha-skonchalsja-konsul-ukrainy-foto.html
+	set tags dip_otnoshenia,konsul.ukrainy.usa,smert,ukraina,usa
+page
+	set url https://gazeta.ua/articles/health/_ne-hochu-vmerti-kovid-zabrav-blizku-lyudinu-yak-u-kiyevi-vpershe-masovo-kololi-coronavac/1034676
+	set tags coronavac,covid,kiev,ukraina,vaccinacia,vaccine
+page
+	set url https://news.obozrevatel.com/abroad/soyuz-nenormalnyih-gosudarstv.htm
+	set tags oskorblenie,politika,polsha,rossia
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-poluchilos-chto-myi-voshli-v-rossiyu-i-nabrali-zdes-kuchu-nepriyatnostej-s.htm
+	set tags 2014,krymnash,krymskaja_platforma,nedovolstvo,obschestvo,rossia,simferopol,voda,vossoedinenie
+page
+	set url https://news.obozrevatel.com/society/sovetskaya-serost-ulichnaya-moda-v-sssr.htm
+	set tags istoria,moda.odezhda,obschestvo,odezhda,serostj,sssr,zhizn
+page
+	set url https://sharij.net/kak-zhivut-sejchas-geroi-majdana
+	set tags geroi,jarosh_dmitrii,maidan2,ukraina,zhizn
+page
+	set url https://sharij.net/v-seti-poyavilsya-multfilm-pro-petrova-i-boshirova
+	set tags jumor,kultura,multfilm,multiplikacia,petrov_i_bashirov,rossia,ukraina,zelenskii_vladimir
 eof
 off
 page

@@ -30272,6 +30272,9 @@ global
 page
 	set url https://crime.fakty.ua/377121-vzryv-v-zhilom-dome-v-odesse-v-oknah-vyleteli-stekla-i-nachalsya-pozhar
 	set tags dom,kvartira,mnogoetazhka,odessa,pozhar,ukraina,vzryv
+page
+	set url https://zen.yandex.ru/media/yulya_from_piter_with_love/my-nesgibaemaia-naciia-nas-tolko-dustom-60657cf52a842913a71a1e17
+	set tags besstrashie,mentalitet,nacia,narod,rodina,rossia,rusmir,russkie,russkij_chelovek,strah
 eof
 off
 page

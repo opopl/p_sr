@@ -30297,6 +30297,45 @@ page
 page
 	set url https://www.radiosvoboda.org/a/ssha-ukrayina-rosiya-bayden-putin/31279014.html
 	set tags armia.usa,bezopasnost',garantia,klimkin_pavel.ukr.ministr,odessa,ukraina,usa
+page
+	set url https://news.obozrevatel.com/kiyany/life/imperatora-razbili-a-tramvaj-ubraliak-izmenilsya-kiev-za-sto-let-fotoreportazh.htm
+	set tags den.kieva,gorod,istoria,kiev,prazdnik,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/taka-ot-svoboda-slova
+	set tags gordon_dmitrii,radio.eho_moskvy.rossia,rossia,rusmir,ukraina,venediktov_aleksei
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/zapytannya-vid-dytyny
+	set tags blagotvoritelnost,deti,obschestvo,shkola,shkola.gimnazia,shkola.internat,ukraina,vopros
+page
+	set url https://zen.yandex.ru/media/englishdom/smogli-by-vy-poniat-staroslavianskii-iazyk-608029cf0285cb5864dbb586
+	set tags filologia,jazyk.staroslavjanskij,kirillica,language,lingvistika,pismennost',ponimanie,slovo
+page
+	set url https://zen.yandex.ru/media/id/5ffef3fe04e1c0191eb118c3/ania-scerbakova-balzam-moei-dushi-607736c450d6720e34b2e20d
+	set tags devushka,dusha,figurnoje_katanie,krasota,ljubov,rossia,rusmir,scherbakova_anna.figurist.rossia,sport,voshischenie
+page
+	set url https://zen.yandex.ru/media/igor_novikov/rossiia-i-ukraina-utrachennoe-sodrujestvo-60af9b3448b9e142efeedccd
+	set tags belarus,druzhba,future,narod.russkij,rossia,rus',russkie,sodruzhestvo,ukraina
+page
+	set url https://zen.yandex.ru/media/igor_novikov/kak-ukraina-svoi-krym-ne-zascitila-605269853eb67941688fa71a
+	set tags 2014,krym,maidan2,rossia,ukraina,zaschita
+page
+	set url https://zen.yandex.ru/media/otkritaya_seminariya/kak-ojidanie-vtorogo-prishestviia-v-1492om-godu-izmenilo-kurs-russkoi-istorii-60a0d11a68e89b2ef934fcf5
+	set tags cerkov,ierusalim,missia,moskva,rim,rossia,rus',rusimperia,rusmir,vera,vizantia
+page
+	set url https://zen.yandex.ru/media/krasotakrasota/5-500-000-prosmotrov-trogatelnoe-vystuplenie-devushki-na-vypusknom-sestry-606f447e0ba8b83561a3763b
+	set tags deti,devushka,internet,koncert,rossia,shkola,vypusknoj.shkola,youtube,muzyka
+page
+	set url https://zen.yandex.ru/media/id/603dc3d2bb72076c9d3cc79c/moscnaia-pesnia-v-ispolnenii-pelagei-nevozmojno-sderjat-slezy-60b10dffb86a7b140d0bad99
+	set tags kultura,muzyka,pelageja.pevica.rossia,pesnja,rossia
+page
+	set url https://zen.yandex.ru/media/id/603dc3d2bb72076c9d3cc79c/pelageia-dusha-naroda-ochen-tronula-ee-novaia-pesnia-609ab5e0abeaa615fdf5e187
+	set tags dusha,kultura,muzyka,narod,pelageja.pevica.rossia,pesnja,rossia
+page
+	set url https://zen.yandex.ru/media/alexguitar/till-iz-rammstein-liubov-k-rosiii-i-pesni-na-russkom-iazyke-6086e9fe09024b3e2c91727c
+	set tags germania,kiev,muzyka,pesnja,pesnja.ljubimyj_gorod,rammstein.gruppa,rossia
+page
+	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/oleg-skripka-chelovek-zabyvshii-rodinu-60abc6f7e0a62f356ef2a7b4
+	set tags chelovek,jazyk,mova,muzyka,pamjat,rodina,rossia,showbiz,skripka_oleg,ukraina
 eof
 off
 page

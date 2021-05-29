@@ -30168,6 +30168,9 @@ page
 page
 	set url https://strana.ua/news/335799-v-mid-prokommentirovali-predlozhenie-minska-privivat-ukraintsev-sputnikom-v.html
 	set tags belarus,covid,rossia,sputnik_v,ukraina,vaccinacia,vaccine
+page
+	set url https://strana.ua/opinions/335822-v-ukraine-javno-hotovjatsja-skhemy-po-massovoj-skupke-zemel.html
+	set tags ekonomika,rynok,ukraina,zemlja
 eof
 off
 page

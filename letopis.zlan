@@ -30174,6 +30174,15 @@ page
 page
 	set url https://strana.ua/opinions/335824-v-ukrainu-vozvrashchajutsja-dazhe-ne-devjanostye-a-chistoe-srednevekove.html
 	set tags kriminal,les,lesorub,murder,obschestvo,policia,srednevekovie,ukraina
+page
+	set url https://strana.ua/opinions/335825-smelost-projavljaemaja-v-slaboumii-i-otvahe-vedet-k-razrusheniju.html
+	set tags bezumie,demencia,konstitucia,obschestvo,otvaga,razrushenie,slaboumie,smelost,ukraina,vlast
+page
+	set url https://strana.ua/opinions/335846-poroshenko-zhivoe-olitsetvorenie-korruptsii.html
+	set tags korupcia,poroshenko_petr,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/articles/interview/335702-nju-model-natalja-chuprina-posle-holoho-foto-v-dubae-zajavila-chto-ee-iznasilovali-v-dnepre.html
+	set tags devushka,dnepropetrovsk,dubaj,fotosessia,izbienie,iznasilovanie,nu_sessia,oae,ukraina,vymogatelstvo
 eof
 off
 page

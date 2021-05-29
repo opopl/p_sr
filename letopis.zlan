@@ -30243,6 +30243,12 @@ page
 page
 	set url https://sharij.net/kakie-filmy-ukrainczy-ishhut-i-smotryat-v-seti
 	set tags film,internet,kino,kultura,ukraina,ukraincy
+page
+	set url https://strana.ua/news/335868-v-rossii-zajavili-ob-uhroze-iz-za-razvala-jadernoj-triady-ssha.html
+	set tags atomic_bomb,jadernyj_schit,oruzhie.jadernoje,rossia,usa
+page
+	set url https://strana.ua/news/335754-heneral-nazarov-rasskazal-kak-ukraina-nachala-hotovitsja-k-vojne-s-rossiej-eshche-v-2007-hodu.html
+	set tags 2007,podgotovka,rossia,ukraina,vojna
 eof
 off
 page

@@ -30216,6 +30216,9 @@ page
 page
 	set url https://strana.ua/news/335596-zachem-v-rumyniju-iz-ukrainy-vezli-revolvery-pod-patron-flobera.html
 	set tags oruzhie,revolver,romania,ukraina,vvoz
+page
+	set url https://strana.ua/opinions/335851-nashi-evropejskie-partnery-hotovy-dohovarivatsja-khot-s-chertom-lysyl.html
+	set tags evropa,klounada,oppozicia,putin_vladimir,rossia,ukraina,zapad
 eof
 off
 page

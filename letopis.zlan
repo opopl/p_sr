@@ -30249,6 +30249,15 @@ page
 page
 	set url https://strana.ua/news/335754-heneral-nazarov-rasskazal-kak-ukraina-nachala-hotovitsja-k-vojne-s-rossiej-eshche-v-2007-hodu.html
 	set tags 2007,podgotovka,rossia,ukraina,vojna
+page
+	set url https://zen.yandex.ru/media/travelmaniac/evropeiskaia-strana-v-kotoroi-luchshe-ne-govorit-chto-ty-iz-rossii-60914b6da5f87026b148f07f
+	set tags evropa,kosovo,ludi,rossia,serbia,usa
+page
+	set url https://strana.ua/news/335866-zoom-konferentsija-obernulas-otstavkoj-politika-v-kanade-on-pomochilsja-v-chashku.html
+	set tags kanada,kurjez,politika
+page
+	set url https://www.radiosvoboda.org/a/rosijske-pr-ahentstvo-pfizer-rozsliduvannia/31279602.html
+	set tags covid,dezinformacia,evropa,pfizer,rassledovanie,reklama,sputnik_v,vaccine,rossia
 eof
 off
 page

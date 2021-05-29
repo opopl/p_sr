@@ -30198,6 +30198,9 @@ page
 page
 	set url https://www.vokrugsveta.ru/quiz/69/
 	set tags dnepr,istoria,nazvanie,reka.desna,rossia,slavjane,ukraina
+page
+	set url https://zen.yandex.ru/media/id/606f437fc2989610130c1ebc/anekdot-dnia-za-ukrainu-60ae6dbc156c7c57e26130be
+	set tags anekdot,obschestvo,ukraina
 eof
 off
 page

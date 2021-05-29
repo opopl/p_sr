@@ -30237,6 +30237,9 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210529/1031479925.html
 	set tags bulgakov_mihail,gorod,istoria,kvartira,literatura,moskva,rusmir,sssr
+page
+	set url https://ukraina.ru/exclusive/20210529/1031496896.html
+	set tags borsch,eda,kuhnja,kulinaria,mzs,poltava,recept,rossia,rusmir,ukraina
 eof
 off
 page

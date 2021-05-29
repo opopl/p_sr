@@ -30264,6 +30264,11 @@ page
 page
 	set url https://strana.ua/news/335819-na-zakarpate-pjanye-politsejskie-izdevalis-nad-devushkoj.html
 	set tags devushka,nasilie,pjanstvo,policia,ukraina,zakarpatie
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
 page
 	set url https://crime.fakty.ua/377121-vzryv-v-zhilom-dome-v-odesse-v-oknah-vyleteli-stekla-i-nachalsya-pozhar
 	set tags dom,kvartira,mnogoetazhka,odessa,pozhar,ukraina,vzryv

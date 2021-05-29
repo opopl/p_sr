@@ -30219,6 +30219,15 @@ page
 page
 	set url https://strana.ua/opinions/335851-nashi-evropejskie-partnery-hotovy-dohovarivatsja-khot-s-chertom-lysyl.html
 	set tags evropa,klounada,oppozicia,putin_vladimir,rossia,ukraina,zapad
+page
+	set url https://strana.ua/opinions/335857-v-sfere-proizvodstva-dronov-ssha-uzhe-nikohda-ne-dohonjat-kitaj.html
+	set tags bpla,kitaj,proizvodstvo,usa
+page
+	set url https://lenta.ru/articles/2021/05/28/nep/
+	set tags istoria,kapitalizm,kommunizm,lenin_vladimir,nep.sssr,rossia,sssr
+page
+	set url http://lug-info.com/news/one/kievskie-siloviki-dva-raza-za-sutki-narushili-rezhim-tishiny-5-68459
+	set tags donbass,kiev,lnr,peremirie,rezhim.tishiny,ukraina,vojna,vsu
 eof
 off
 page

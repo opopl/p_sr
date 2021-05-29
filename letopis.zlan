@@ -30201,6 +30201,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/606f437fc2989610130c1ebc/anekdot-dnia-za-ukrainu-60ae6dbc156c7c57e26130be
 	set tags anekdot,obschestvo,ukraina
+page
+	set url https://zen.yandex.ru/media/id/603dc3d2bb72076c9d3cc79c/ukrainskaia-pesnia-v-ispolnenii-pelagei-60afd9629db826483f3b5fec
+	set tags koncert,kultura,moskva,muzyka,pelageja.pevica.rossia,pesnja.ukr.cvite_teren,rossia
+page
+	set url https://zen.yandex.ru/media/id/5e1e1dd3a1bb8700b0178a97/anneksiia-na-anneksiiu-6092b522fe106d592215097c
+	set tags aneksia,elcin_boris,istoria,kiev,krym,rossia,simferopol,sssr,ukraina
 eof
 off
 page

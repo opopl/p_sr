@@ -30228,6 +30228,9 @@ page
 page
 	set url http://lug-info.com/news/one/kievskie-siloviki-dva-raza-za-sutki-narushili-rezhim-tishiny-5-68459
 	set tags donbass,kiev,lnr,peremirie,rezhim.tishiny,ukraina,vojna,vsu
+page
+	set url https://regnum.ru/news/3273437.html
+	set tags antirossia,kiev,otvetstvennost',politika,rossia,ukraina
 eof
 off
 page

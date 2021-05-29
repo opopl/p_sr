@@ -30264,17 +30264,39 @@ page
 page
 	set url https://strana.ua/news/335819-na-zakarpate-pjanye-politsejskie-izdevalis-nad-devushkoj.html
 	set tags devushka,nasilie,pjanstvo,policia,ukraina,zakarpatie
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://crime.fakty.ua/377121-vzryv-v-zhilom-dome-v-odesse-v-oknah-vyleteli-stekla-i-nachalsya-pozhar
 	set tags dom,kvartira,mnogoetazhka,odessa,pozhar,ukraina,vzryv
 page
 	set url https://zen.yandex.ru/media/yulya_from_piter_with_love/my-nesgibaemaia-naciia-nas-tolko-dustom-60657cf52a842913a71a1e17
 	set tags besstrashie,mentalitet,nacia,narod,rodina,rossia,rusmir,russkie,russkij_chelovek,strah
+page
+	set url https://strana.ua/news/335891-partija-sr-zp-kuda-vstupil-sihal-potrebovala-priznanija-ldnr.html
+	set tags rossia,sigal_stiven,trebovanie
+page
+	set url https://strana.ua/news/163129-hollivudskij-akter-stiven-sihal-zajavil-chto-khochet-byt-hubernatorom-primorja.html
+	set tags mid_rf,rossia,rossia.primorskij_kraj,sigal_stiven
+page
+	set url https://strana.ua/opinions/335878-edinstvennym-izbiratelnym-tsenzom-mozhet-byt-politicheskaja-hramotnost.html
+	set tags cenz.izbiratelnyj,demokratia,gramotnost,gramotnost.politicheskaja,izbiratel,obschestvo,vybory
+page
+	set url https://strana.ua/opinions/335884-ukrainu-khotjat-ljuboj-tsenoj-otorvat-ot-russkoho-mira.html
+	set tags rusmir,ukraina
+page
+	set url https://strana.ua/opinions/335886-v-ukraine-idet-beskonechnaja-borba-s-vetrjanymi-melnitsami.html
+	set tags beskonechnost,borjba,melnica,melnica.vetrjanaja,obschestvo,reformi,ukraina
+page
+	set url https://strana.ua/news/335892-stalo-izvestno-o-chem-hovorili-lukashenko-i-putin-vo-vtoroj-den-v-sochi.html
+	set tags belarus,belavia.aviakompania,dogovor,ekonomika,lukashenko_aleksandr,putin_vladimir,rossia
+page
+	set url https://strana.ua/news/335889-pojavilos-foto-sovmestnoho-vizita-lukashenko-s-putinym.html
+	set tags belarus,foto,lukashenko_aleksandr,putin_vladimir,rossia,vstrecha
+page
+	set url https://www.radiosvoboda.org/a/31279986.html
+	set tags 1011,1037,ekskursia,filologia,foto,grafiti.sofia_kiev,issledovanie,istoria,kiev,kievljane,kievrus,kniga,kornienko_vjacheslav.istorik.sofia.kiev,language,lingvistika,slovo,sofia_sobor,ukraina,unesco,vystavka
+page
+	set url https://www.radiosvoboda.org/a/ssha-ukrayina-rosiya-bayden-putin/31279014.html
+	set tags armia.usa,bezopasnost',garantia,klimkin_pavel.ukr.ministr,odessa,ukraina,usa
 eof
 off
 page

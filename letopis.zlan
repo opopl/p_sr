@@ -30336,14 +30336,21 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/oleg-skripka-chelovek-zabyvshii-rodinu-60abc6f7e0a62f356ef2a7b4
 	set tags chelovek,jazyk,mova,muzyka,pamjat,rodina,rossia,showbiz,skripka_oleg,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://regnum.ru/news/3282867.html
 	set tags belarus,ekonomika,narod,opzzh,rossia,sankcii,shufrich_nestor,ukraina,zajavlenie
+page
+	set url https://strana.ua/news/335908-bolharija-nachala-rassledovanie-intsidenta-vo-vremja-kotoroho-voennye-ssha-po-oshibke-vorvalis-v-tsekh.html
+	set tags armia.usa,bolgaria,incident,masterskaja,oruzhie,proizvodstvo,rabochij,radio_svoboda,skandal,usa
+page
+	set url https://strana.ua/news/335906-v-kieve-i-evropejskikh-horodakh-proshli-aktsii-v-podderzhku-belarusi.html
+	set tags akcia,belarus,kiev,maidan_nezalezhnosti.kiev,miting,oppozicia,solidarnost,tihanovskaja_svetlana,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ukrayinskyy-stounkhendzh-na-dnipropetrovshchyni-kromlekh-kurgan/31279994.html
+	set tags dnepropetrovsk,drevnost',istoria,kurgan,nahodka,raskopki,stounhedzh,ukraina
+page
+	set url https://lb.ua/society/2021/05/27/485642_ostannya_vidrada_yak_znishchennya.html
+	set tags adaptacia,ekologia,gorod,kiev,kievrada,klimat,ozero,ozero.vyrlycja.kiev,ukraina
 eof
 off
 page

@@ -30420,11 +30420,6 @@ page
 page
 	set url https://www.radiosvoboda.org/a/vykryvayemo-mify-shcho-putin-nasadzhuye-pro-rosiyu/31278550.html
 	set tags _important,belarus,fraza,infvojna,istoria,nacia,propaganda,putin_vladimir,rossia,rusmir,ukraina,vkl
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://www.radiosvoboda.org/a/vid-mazepy-do-bandery/31227977.html
 	set tags bandera_stepan,geroi,istoria,mazepa_ivan,mirvojna2,moskva,pamjat,rossia,sssr,ukraina,vov
@@ -30443,6 +30438,18 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/05/30/7295332/
 	set tags flot,istoria,jumor,kursant,morjak,obrazovanie,odessa,sssr,teatr,tradicii,ucheba,ukraina,vuz,vuz.odessa.morskaja_akademia
+page
+	set url https://lgaki.info/novosti/golos-trombona-golos-boga-bethoven-tak-govoril-a-my-segodnya-ego-slyshali/
+	set tags bog,koncert,kultura,lgaki,lnr,lugansk,muzyka,trombon.instrument.muzyka
+page
+	set url http://lug-info.com/news/one/aktivisty-proekta-druzhina-proveli-v-stolichnom-skvere-sorevnovaniya-po-krossfitu-68485
+	set tags aktivist,donbass,druzhina.lnr.projekt,krossfit,lnr,lugansk,mir_luganschine,sorevnovanie,sport
+page
+	set url https://lgaki.info/novosti/literaturnym-marafonom-otmetili-v-akademii-matusovskogo-den-slavyanskoj-pismennosti-i-kultury/
+	set tags den.slavjanskoj_pismennosti_i_kultury,jazyk,kultura,literatura,lnr,lugansk,marafon,molodezh,pismennost',prazdnik,slavjane,studenty
+page
+	set url https://miaistok.su/premera-pesni-ot-gruppy-zveroboj-shans-na-spasenie/
+	set tags bolezn,chelovechnost,chelovek,covid,donbass,kultura,lechenie,medik,muzyka,pesnja,spasenie,vrach,zveroboj.gruppa.donbass
 eof
 off
 page

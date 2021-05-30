@@ -30510,6 +30510,24 @@ page
 page
 	set url https://zen.yandex.ru/media/moiblog5/ukrainskii-serial-pochemu-u-nih-kasha-v-golove-608cde79c40f515f720eaee0
 	set tags chelovek,film,golova,kasha,kino,kvartal95,rusmir,serial,serial.papik.ukr,ukraina
+page
+	set url https://zen.yandex.ru/media/moiblog5/vasia-zachem-ty-edesh-v-kiev-esli-tam-takaia-ceevropa-60922586fe106d5922713118
+	set tags basta.rossia.repper,kiev,koncert,muzyka,pesnja,rep.muzyka.stil,showbiz,ukraina,ukraina_ce_evropa,vopros
+page
+	set url https://strana.ua/news/335978-batut-v-rossii-vzorvalsja-kohda-na-nem-byli-deti-dvoe-v-tjazhelom-sostojanii.html
+	set tags barnaul.rossia,batut,deti,incident,relsy.tramvaj,rossia,tramvaj,travma
+page
+	set url https://strana.ua/news/335970-v-berehovo-budut-zakryvat-kladbishche-bez-zabora-na-noch-.html
+	set tags kladbische,ukraina,vorovstvo,zabor,zakarpatie
+page
+	set url https://strana.ua/news/331583-v-rossii-rebenok-sel-za-rul-zavel-avtomobil-i-sbil-svoju-mat-zhenshchina-umerla.html
+	set tags avto,deti,kladbische,kursk,malchik,mater,rossia,semja,smert,tragedia
+page
+	set url https://riakursk.ru/1300-kuryan-prinyali-uchastie-vo-vserossiyskom-polumarafone-zabeg.rf/
+	set tags beg,kursk,marafon,rekord,rekord.ginnes,rossia,sport,zabeg
+page
+	set url https://lenta.ru/articles/2021/05/29/razvedka/
+	set tags bystroletov_dmitrij.razvedchik.sssr,gulag,istoria,razvedchik,razvedka,rossia,rusmir,sssr
 eof
 off
 page

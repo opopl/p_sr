@@ -30528,6 +30528,17 @@ page
 page
 	set url https://lenta.ru/articles/2021/05/29/razvedka/
 	set tags bystroletov_dmitrij.razvedchik.sssr,gulag,istoria,razvedchik,razvedka,rossia,rusmir,sssr
+page
+	set url https://kiev.strana.ua/335990-vaktsinatsija-ot-koronavirusa-v-kieve-obrazovalas-bolshaja-ochered.html
+	set tags covid,kiev,ochered',ukraina,vaccinacia,vaccine,zdorovje
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://analytics.hvylya.net/231230-svoboda-zhenskogo-roda
+	set tags chelovek,feminizm,svoboda
 eof
 off
 page

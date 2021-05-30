@@ -30542,6 +30542,9 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210529/1031281204.html
 	set tags analitika,aristotel',filosofia,gosudarstvo,nezalezhnist,obman,platon,ukraina
+page
+	set url https://news.obozrevatel.com/kiyany/life/kievu-1539-moskve-700-tsivilizatsiyu-na-bolota-zavezli-kievlyane.htm
+	set tags civilizacia,den.kieva,istoria,kiev,kievljane,moskva,rusmir
 eof
 off
 page

@@ -30486,6 +30486,9 @@ page
 page
 	set url https://kyiv.media/news/kyyany-za-godynu-zibraly-groshi-dlya-pensionerky-u-yakoyi-shahrayi-vkraly-groshi-z-kartky
 	set tags dengi,kiev,kievljane,krazha,moshennik,obman,pensioner,pomosch,ukraina
+page
+	set url https://kyiv.media/news/nazvano-lokacziyu-u-kyyevi-de-pokazhut-oryginal-konstytucziyi-pylypa-orlyka
+	set tags istoria,kiev,konstitucia,konstitucia.orlika,orlik_filip,shvecia,sofia_sobor,ukraina,vystavka
 eof
 off
 page

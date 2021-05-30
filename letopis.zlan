@@ -30495,6 +30495,9 @@ page
 page
 	set url https://bigkyiv.com.ua/sogodni-vidznachayut-den-kyyeva/
 	set tags den.kieva,kiev,prazdnik,prazdnovanie,ukraina
+page
+	set url https://kiev.strana.ua/335967-vitalij-klichko-pozdravil-kievljan-s-dnem-horoda.html
+	set tags den.kieva,kiev,klichko_vitalij,pozdravlenie,prazdnik,prazdnovanie,ukraina,zelenskii_vladimir
 eof
 off
 page

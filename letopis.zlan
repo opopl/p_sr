@@ -30572,6 +30572,9 @@ page
 page
 	set url https://strana.ua/news/335744-mitinh-v-kieve-sehodnja-onlajn-v-podderzhku-sternenko-chto-proiskhodit-vozle-ofisa-prezidenta.html
 	set tags 30.05.2021,bankova,den.kieva,kiev,lukashenko_aleksandr,miting,protest,rusmir,sternenko_sergei,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/335995-u-kieva-est-i-khajp-i-vajb-i-emu-dlja-etoho-ne-nuzhny-ni-kievljane-ni-hosti-stolitsy.html
+	set tags den.kieva,gorod,kiev,kievljane,prostranstvo,ukraina,vpechatlenie
 eof
 off
 page

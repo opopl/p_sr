@@ -30390,6 +30390,18 @@ page
 page
 	set url https://odnarodyna.org/article/kanonicheskiy-bunt-fanara-vremya-myagkikh-resheniy-cerkvi-zakanchivaetsya
 	set tags bunt,cerkov,fanar.stambul.turcia,patriarh_varfolomej.konstantinopol,pravoslavie,raskol,raskol.cerkov.ukraina,ukraina,upc,vera
+page
+	set url https://zen.yandex.ru/media/yulya_from_piter_with_love/zdorove-nacii-pod-ugrozoi-deti-prodoljaiut-padat-s-samokatov-60a95a77288764247f49fbff
+	set tags deti,golova,lechenie,nacia,nejrohirurgia,obschestvo,padenie,rossia,samokat,spasenie,st_peterburg,travma,ugroza,zdorovje
+page
+	set url https://strana.ua/news/333777-den-kieva-2021-kartinki-otkrytki-pozdravlenija-luchshie-pesni.html
+	set tags den.kieva,gorod,kiev,pozdravlenie,prazdnik,strana_ua,ukraina
+page
+	set url https://strana.ua/news/335346-den-kieva-2021-afisha-na-30-maja-kuda-pojti-v-kieve.html
+	set tags afisha,den.kieva,gorod,kiev,muzyka,prazdnik,prazdnovanie,ukraina
+page
+	set url https://strana.ua/opinions/335938-amerikanskaja-elita-sovershenno-otorvana-ot-mirovoj-kultury.html
+	set tags amerika,elita,harvard,kultura,literatura,pajps_richard.professor.russist,rossia,rusmir,russistika,usa
 eof
 off
 page

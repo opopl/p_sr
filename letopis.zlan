@@ -30531,11 +30531,6 @@ page
 page
 	set url https://kiev.strana.ua/335990-vaktsinatsija-ot-koronavirusa-v-kieve-obrazovalas-bolshaja-ochered.html
 	set tags covid,kiev,ochered',ukraina,vaccinacia,vaccine,zdorovje
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://analytics.hvylya.net/231230-svoboda-zhenskogo-roda
 	set tags chelovek,feminizm,svoboda
@@ -30545,6 +30540,9 @@ page
 page
 	set url https://news.obozrevatel.com/kiyany/life/kievu-1539-moskve-700-tsivilizatsiyu-na-bolota-zavezli-kievlyane.htm
 	set tags civilizacia,den.kieva,istoria,kiev,kievljane,moskva,rusmir
+page
+	set url https://news.obozrevatel.com/show/people/okean-elzi-yuliya-sanina-dzhamala-kak-ukrainskie-zvezdyi-pozdravili-s-dnem-kieva.htm
+	set tags den.kieva,kiev,pozdravlenie,prazdnik,ukraina
 eof
 off
 page

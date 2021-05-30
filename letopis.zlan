@@ -30501,6 +30501,12 @@ page
 page
 	set url https://strana.ua/opinions/335969-kohda-tonesh-na-seredine-dnepra-khvataeshsja-za-plastikovye-butylki.html
 	set tags dnepr,ekonomika,ukraina
+page
+	set url https://strana.ua/opinions/335972-kto-to-eshche-pomnit-chto-saakashvili-nezakonno-poluchil-ukrainskoe-hrazhdanstvo.html
+	set tags grazhdanstvo,poroshenko_petr,saakashvili_mihail,ukraina,zakon,zelenskii_vladimir
+page
+	set url https://strana.ua/news/335870-cheho-zhdut-v-rossii-i-na-zapade-ot-vstrechi-bajdena-i-putina.html
+	set tags biden_joe,donbass,jabloko,putin_vladimir,rossia,ukraina,vojna
 eof
 off
 page

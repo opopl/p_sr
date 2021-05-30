@@ -30567,14 +30567,24 @@ global
 		db_update
 		auth_update
 page
+	set redo 1
 	set url https://analytics.hvylya.net/231253-bolshoy-kievskiy-roman
 	set tags kiev,kniga,literatura,nikitin_aleksej.pisatel.kiev.ukr,ukraina
+	setlist acts
+		db_update
+		auth_update
 page
 	set url https://strana.ua/news/335744-mitinh-v-kieve-sehodnja-onlajn-v-podderzhku-sternenko-chto-proiskhodit-vozle-ofisa-prezidenta.html
 	set tags 30.05.2021,bankova,den.kieva,kiev,lukashenko_aleksandr,miting,protest,rusmir,sternenko_sergei,ukraina,zelenskii_vladimir
 page
 	set url https://strana.ua/opinions/335995-u-kieva-est-i-khajp-i-vajb-i-emu-dlja-etoho-ne-nuzhny-ni-kievljane-ni-hosti-stolitsy.html
 	set tags den.kieva,gorod,kiev,kievljane,prostranstvo,ukraina,vpechatlenie
+page
+	set url https://strana.ua/opinions/335999-v-kieve-eshche-ostalis-ljudi-dalekie-ot-pafosnoho-mejnstrima.html
+	set tags 1240,den.kieva,gorod,istoria,kiev,kievljane,mejnstrim,mysli,pafos,pozdravlenie,prazdnik,ukraina
+page
+	set url https://strana.ua/opinions/336029-sehodnja-povod-podumat-o-tom-kakim-prekrasnym-kiev-moh-by-stat.html
+	set tags den.kieva,future,gorod,kiev,kievljane,mysli,ukraina
 eof
 off
 page

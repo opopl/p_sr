@@ -30546,6 +30546,24 @@ page
 page
 	set url https://news.obozrevatel.com/politics/den-kieva-poroshenko-v-pozdravlenii-nazval-stolitsu-samyim-schastlivyim-mestom.htm
 	set tags 1983,den.kieva,kiev,poroshenko_marina,poroshenko_petr,pozdravlenie,prazdnik,semja,ukraina
+page
+	set url https://news.obozrevatel.com/abroad/priglasitelnyij-na-tragediyu-22-goda-so-dnya-massovoj-gibeli-v-minske.htm
+	set tags 1999,30.05.1999,30_may,belarus,davka,gorod,koncert,minsk,nemiga.minsk,nemiga.minsk.1999.tragedia,smert,tolpa,tragedia
+page
+	set url https://news.obozrevatel.com/russia/priklyucheniya-rossijskogo-trikolora-chto-sleduet-znat-mirovyim-lideram-o-flage-rf.htm
+	set tags flag.rossia,istoria,mid_rf,rossia,rusimperia,trikolor,zaharova_maria
+page
+	set url https://news.obozrevatel.com/kiyany/life/zelenskij-v-den-kieva-lyublyu-tebya-starenkij.htm
+	set tags den.kieva,kiev,pozdravlenie,prazdnik,ukraina,zelenskii_vladimir
+page
+	set url https://news.obozrevatel.com/kiyany/life/na-den-kieva-projdut-festivali-i-probeg-pod-kashtanami-spisok-meropriyatij.htm
+	set tags den.kieva,kiev,prazdnik,prazdnovanie,ukraina
+page
+	set url https://news.obozrevatel.com/kiyany/life/kievu-1539-let-stolitsu-ukrainyi-pozdravili-poslyi-i-meryi-so-vsego-mira-video.htm
+	set tags den.kieva,gorod,kiev,kievljane,pozdravlenie,ukraina
+page
+	set url https://analytics.hvylya.net/231253-bolshoy-kievskiy-roman
+	set tags kiev,kniga,literatura,nikitin_aleksej.pisatel.kiev.ukr,ukraina
 eof
 off
 page

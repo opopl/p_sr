@@ -30561,6 +30561,11 @@ page
 page
 	set url https://news.obozrevatel.com/kiyany/life/kievu-1539-let-stolitsu-ukrainyi-pozdravili-poslyi-i-meryi-so-vsego-mira-video.htm
 	set tags den.kieva,gorod,kiev,kievljane,pozdravlenie,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
 page
 	set url https://analytics.hvylya.net/231253-bolshoy-kievskiy-roman
 	set tags kiev,kniga,literatura,nikitin_aleksej.pisatel.kiev.ukr,ukraina

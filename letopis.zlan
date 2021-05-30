@@ -30569,6 +30569,9 @@ global
 page
 	set url https://analytics.hvylya.net/231253-bolshoy-kievskiy-roman
 	set tags kiev,kniga,literatura,nikitin_aleksej.pisatel.kiev.ukr,ukraina
+page
+	set url https://strana.ua/news/335744-mitinh-v-kieve-sehodnja-onlajn-v-podderzhku-sternenko-chto-proiskhodit-vozle-ofisa-prezidenta.html
+	set tags 30.05.2021,bankova,den.kieva,kiev,lukashenko_aleksandr,miting,protest,rusmir,sternenko_sergei,ukraina,zelenskii_vladimir
 eof
 off
 page

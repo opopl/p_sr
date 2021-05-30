@@ -30661,6 +30661,9 @@ page
 page
 	set url https://gazeta.ua/blog/55146/e-ukrayinci-yaki-chekayut-sputnik-v-so-z-nimi-robiti-rebus-dlya-lyashka
 	set tags bolezn,covid,kiev,lechenie,medicina,sputnik_v,ukraina,vaccinacia,vaccine,vrach,rusmir
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/zablokovani-telekanaly-ta-antyderzhavna-propaganda
+	set tags 112ua,cenzura,infvojna,kiev,newsone,presledovanie,ukraina,youtube,zapret
 eof
 off
 page

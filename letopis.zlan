@@ -30543,6 +30543,9 @@ page
 page
 	set url https://news.obozrevatel.com/show/people/okean-elzi-yuliya-sanina-dzhamala-kak-ukrainskie-zvezdyi-pozdravili-s-dnem-kieva.htm
 	set tags den.kieva,kiev,pozdravlenie,prazdnik,ukraina
+page
+	set url https://news.obozrevatel.com/politics/den-kieva-poroshenko-v-pozdravlenii-nazval-stolitsu-samyim-schastlivyim-mestom.htm
+	set tags 1983,den.kieva,kiev,poroshenko_marina,poroshenko_petr,pozdravlenie,prazdnik,semja,ukraina
 eof
 off
 page

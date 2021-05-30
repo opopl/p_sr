@@ -30539,6 +30539,9 @@ global
 page
 	set url https://analytics.hvylya.net/231230-svoboda-zhenskogo-roda
 	set tags chelovek,feminizm,svoboda
+page
+	set url https://ukraina.ru/exclusive/20210529/1031281204.html
+	set tags analitika,aristotel',filosofia,gosudarstvo,nezalezhnist,obman,platon,ukraina
 eof
 off
 page

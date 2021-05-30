@@ -30507,6 +30507,9 @@ page
 page
 	set url https://strana.ua/news/335870-cheho-zhdut-v-rossii-i-na-zapade-ot-vstrechi-bajdena-i-putina.html
 	set tags biden_joe,donbass,jabloko,putin_vladimir,rossia,ukraina,vojna
+page
+	set url https://zen.yandex.ru/media/moiblog5/ukrainskii-serial-pochemu-u-nih-kasha-v-golove-608cde79c40f515f720eaee0
+	set tags chelovek,film,golova,kasha,kino,kvartal95,rusmir,serial,serial.papik.ukr,ukraina
 eof
 off
 page

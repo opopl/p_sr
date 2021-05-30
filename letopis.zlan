@@ -30480,6 +30480,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/news-den-kyiv-svyato/31280896.html
 	set tags den.kieva,kiev,klichko_vitalij,pozdravlenie,prazdnik,ukraina,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/30184855.html
+	set tags grafiti,istoria,kiev,kievrus,knjaz_vladimir,sofia_sobor
 eof
 off
 page

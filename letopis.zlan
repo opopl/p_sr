@@ -30420,6 +30420,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/vykryvayemo-mify-shcho-putin-nasadzhuye-pro-rosiyu/31278550.html
 	set tags _important,belarus,fraza,infvojna,istoria,nacia,propaganda,putin_vladimir,rossia,rusmir,ukraina,vkl
+page
+	set url https://www.radiosvoboda.org/a/vid-mazepy-do-bandery/31227977.html
+	set tags bandera_stepan,geroi,istoria,mazepa_ivan,mirvojna2,moskva,pamjat,rossia,sssr,ukraina,vov
 eof
 off
 page

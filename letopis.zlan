@@ -30402,6 +30402,21 @@ page
 page
 	set url https://strana.ua/opinions/335938-amerikanskaja-elita-sovershenno-otorvana-ot-mirovoj-kultury.html
 	set tags amerika,elita,harvard,kultura,literatura,pajps_richard.professor.russist,rossia,rusmir,russistika,usa
+page
+	set url https://strana.ua/opinions/335939-posle-povyshenija-tsen-na-elektroenerhiju-subsidii-ponadobjatsja-millionam.html
+	set tags ekonomika,elektroenergia,narod,subsidia,tarify,ukraina
+page
+	set url https://strana.ua/news/335929-kolja-lukashenko-poekhal-vmeste-so-svoim-ottsom-na-perehovory-s-putinym-chto-o-nem-izvestno.html
+	set tags belarus,lukashenko_aleksandr,lukashenko_nikolaj,otec,putin_vladimir,rossia,semja,syn
+page
+	set url https://strana.ua/news/335931-uchenye-sdelali-novoe-otkrytie-na-marse-foto.html
+	set tags kosmos,mars,marsohod,marsohod.curiosity.rover,nasa,nauka,pogoda,usa
+page
+	set url https://strana.ua/news/335922-v-prjamom-efire-ukraina-24-pojavilas-devushka-s-obnazhennoj-hrudju.html
+	set tags belarus,devushka,devushka.golaja,kurjez,rossia,telekanal,telekanal.rossia.dozhdj,ukraina
+page
+	set url https://news.obozrevatel.com/kiyany/life/vzryiv-v-metro-i-zahvat-zalozhnikov-rasskazyivaem-kak-v-kieve-proveli-antiterroristicheskie-ucheniya-foto.htm
+	set tags antiterror,gorod,kiev,metro,sbu,terrorist,terrorizm,uchenija,ukraina,zalozhnik
 eof
 off
 page

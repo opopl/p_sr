@@ -30420,9 +30420,29 @@ page
 page
 	set url https://www.radiosvoboda.org/a/vykryvayemo-mify-shcho-putin-nasadzhuye-pro-rosiyu/31278550.html
 	set tags _important,belarus,fraza,infvojna,istoria,nacia,propaganda,putin_vladimir,rossia,rusmir,ukraina,vkl
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
 page
 	set url https://www.radiosvoboda.org/a/vid-mazepy-do-bandery/31227977.html
 	set tags bandera_stepan,geroi,istoria,mazepa_ivan,mirvojna2,moskva,pamjat,rossia,sssr,ukraina,vov
+page
+	set url https://lenta.ru/news/2021/05/30/pisma/
+	set tags ekzjuperi_de_sent_antuan.francia.pisatel,francia,istoria,kniga.malenkij_princ.ekzupery,kultura,literatura,pismo
+page
+	set url https://kiev.strana.ua/335941-kak-v-stolitse-otprazdnuju-den-kieva.html
+	set tags den.kieva,kiev,prazdnik,prazdnovanie,ukraina
+page
+	set url https://strana.ua/opinions/335940-teper-uzh-ne-uvidim-my-belyj-dym-iz-truby-vatikana.html
+	set tags ekologia,italia,katolichestvo,papa_rimskij,vatikan
+page
+	set url https://strana.ua/news/333914-katolicheskaja-troitsa-2021-traditsii-otkrytki-kartinki-hifki-pozdravlenija-s-prazdnikom-30-maja.html
+	set tags cerkov,katolichestvo,pozdravlenie,pravoslavie,prazdnik,strana_ua,troica.prazdnik.vera,ukraina,vera
+page
+	set url https://www.pravda.com.ua/articles/2021/05/30/7295332/
+	set tags flot,istoria,jumor,kursant,morjak,obrazovanie,odessa,sssr,teatr,tradicii,ucheba,ukraina,vuz,vuz.odessa.morskaja_akademia
 eof
 off
 page

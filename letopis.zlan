@@ -30417,6 +30417,9 @@ page
 page
 	set url https://news.obozrevatel.com/kiyany/life/vzryiv-v-metro-i-zahvat-zalozhnikov-rasskazyivaem-kak-v-kieve-proveli-antiterroristicheskie-ucheniya-foto.htm
 	set tags antiterror,gorod,kiev,metro,sbu,terrorist,terrorizm,uchenija,ukraina,zalozhnik
+page
+	set url https://www.radiosvoboda.org/a/vykryvayemo-mify-shcho-putin-nasadzhuye-pro-rosiyu/31278550.html
+	set tags _important,belarus,fraza,infvojna,istoria,nacia,propaganda,putin_vladimir,rossia,rusmir,ukraina,vkl
 eof
 off
 page

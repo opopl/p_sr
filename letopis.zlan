@@ -30561,11 +30561,6 @@ page
 page
 	set url https://news.obozrevatel.com/kiyany/life/kievu-1539-let-stolitsu-ukrainyi-pozdravili-poslyi-i-meryi-so-vsego-mira-video.htm
 	set tags den.kieva,gorod,kiev,kievljane,pozdravlenie,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set redo 1
 	set url https://analytics.hvylya.net/231253-bolshoy-kievskiy-roman
@@ -30585,6 +30580,21 @@ page
 page
 	set url https://strana.ua/opinions/336029-sehodnja-povod-podumat-o-tom-kakim-prekrasnym-kiev-moh-by-stat.html
 	set tags den.kieva,future,gorod,kiev,kievljane,mysli,ukraina
+page
+	set url https://strana.ua/opinions/336030-kosovorotka-i-vyshivanka-dolzhny-sblizhat-a-ne-razdeljat-narody.html
+	set tags kosovorotka,mif,nacia,nacidea,narod,ukraina,vyshyvanka
+page
+	set url https://regnum.ru/news/society/3282389.html
+	set tags cerkov,istoria,katastrofa,narod.russkij,podvizhnik,pravoslavie,rossia,rusmir,vera
+page
+	set url https://strana.ua/news/336020-pochemu-storonniki-sternenko-sehodnja-ne-hromili-ofis-zelenskoho-v-kieve.html
+	set tags bankova,den.kieva,kiev,ofis_prezidenta,protest,sternenko_sergei,ukraina,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/prorosiyske-media-v-ukrayini/31280240.html
+	set tags analitika,radio_svoboda,strana_ua,ukraina,zhurnalist
+page
+	set url https://www.pravda.com.ua/articles/2021/05/28/7295144/
+	set tags chelovek,ukraina,ukraincy,zhizn
 eof
 off
 page

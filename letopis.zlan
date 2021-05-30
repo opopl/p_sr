@@ -30610,6 +30610,44 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5e3981a1e41fd74ec64b9b44/pesnia-ty-znaesh-tak-hochetsia-jit-kotoraia-zastavliaet-plakat-daje-mujchin-60a79d4052636e385ade5b72
 	set tags chelovek,kultura,muzyka,pesnja,rusmir
+page
+	set url https://zen.yandex.ru/media/id/5b68994119d91600a84e5213/chenneling-arhangela-mihaila-jizn-meniaet-svoi-pozicii-60aa4819f1146d0d0866e889
+	set tags arhangel_mihail,pismo,zemlja.planeta,zemljane
+page
+	set url https://zen.yandex.ru/media/id/5c6e907b6ecf9600c0144a52/neissiakaemo-talantlivyi-narod-606c646e23a0980fd9f05ce7
+	set tags deti,hudozhnik,isskustvo,istoria,kartina,narod.russkij,obrazovanie,pismennost',rodina,rossia,rusimperia,rusmir,russkie,shkola,sssr,talant,ucheba,uchenik
+page
+	set url https://glavred.info/world/umru-i-vseh-postrelyayu-v-rf-muzhchina-otkryl-strelbu-po-prohozhim-est-ranenye-10276278.html
+	set tags __may_2021.ekaterinburg.strelba.rossia,ekaterinburg,kriminal,oruzhie,policia,rosgvardia,rossia,strelba
+page
+	set url https://glavred.info/world/massovoe-ubiystvo-na-vecherinke-v-rossii-glavnaya-versiya-i-imena-zhertv-10219529.html
+	set tags ekaterinburg,murder,rossia,smert,tragedia,vecherinka
+page
+	set url https://kiev.strana.ua/336036-foto-kak-nakanune-dnja-horoda-v-tsentre-kieva-obvalilsja-na-trotuar-kusok-balkona.html
+	set tags balkon,dom,gorod,kiev,padenie,ukraina
+page
+	set url https://kiev.strana.ua/328881-v-kieve-obvalilsja-balkon-mnohoetazhki-foto.html
+	set tags avaria,balkon,dom,gorod,kiev,lukjanovka.kiev,mnogoetazhka,obval,padenie,ukraina
+page
+	set url https://strana.ua/news/336042-video-pozhara-v-shakhte-lifta-odnoj-iz-mnohoetazhek-na-levom-berehu-dnepra-v-kieve.html
+	set tags ahmatova_anna,avaria,dnepr,gorod,kiev,mnogoetazhka,pozhar,ukraina
+page
+	set url http://lug-info.com/news/one/kievskij-silovik-dezertiroval-s-oruzhiem-s-pozicij-vsu-u-zolotogo-narodnaya-miliciya-68501
+	set tags dezertir,donbass,kiev,lnr,nm_lnr,ukraina,vojna,vsu
+page
+	set url https://lenta.ru/brief/2021/05/30/badpolice/
+	set tags __may_2021.ekaterinburg.strelba.rossia,deti,kriminal,oruzhie,policia,ranenie,rebenok,rosgvardia,rossia,strelba
+page
+	set url https://lb.ua/society/2021/05/30/485849_kiyani_svyatkuyut_sogodni_den_mista.html
+	set tags den.kieva,gorod,kiev,pozdravlenie,prazdnik,prazdnovanie,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://zn.ua/UKRAINE/blahotvoritelnyj-probeh-pod-kashtanami-sobral-11-tysjach-uchastnikov-fotoreportazh-znua.html
+	set tags beg,blagotvoritelnost,den.kieva,hirurgia.kardio,kardiologia,kashtan,kiev,kreschatik.kiev,probeg,sport,ukraina,zdorovje
 eof
 off
 page

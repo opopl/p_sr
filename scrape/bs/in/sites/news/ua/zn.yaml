@@ -37,7 +37,9 @@ PageParser:
     sels:
       - { 
           'search' : {
-              'css'   : [ '' ],
+              'css'   : [
+                '.created_author a.news_editor_style'
+              ],
               'map' : {
                   'name' : 'text',
                   'url'  : { 

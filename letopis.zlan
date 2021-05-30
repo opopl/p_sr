@@ -30453,6 +30453,12 @@ page
 page
 	set url https://miaistok.su/k-130-letiyu-mihaila-bulgakova-v-lnr-vypustili-pochtovyj-blok-marok/
 	set tags 130_let,bulgakov_mihail,literatura,lnr,marka,pochta,pochta.lnr,rusmir
+page
+	set url https://strana.ua/news/335959-v-kanade-obnaruzhili-massovoe-zakhoronenie-detej.html
+	set tags deti,genocid,istoria,kanada,narod.korennoj,ostanki,shkola.internat,smert,tragedia,vospitanie,zahoronenie
+page
+	set url https://strana.ua/showbiz/316904-prakh-stilista-shevchuka-zakhoronen-v-ukraine.html
+	set tags prah,rossia,shevchuk_aleksandr.rossia.stilist,smert,ukraina,uman,zahoronenie
 eof
 off
 page

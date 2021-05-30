@@ -30489,6 +30489,12 @@ page
 page
 	set url https://kyiv.media/news/nazvano-lokacziyu-u-kyyevi-de-pokazhut-oryginal-konstytucziyi-pylypa-orlyka
 	set tags istoria,kiev,konstitucia,konstitucia.orlika,orlik_filip,shvecia,sofia_sobor,ukraina,vystavka
+page
+	set url https://kyiv.media/news/u-czentri-kyyeva-startuvav-blagodijnyj-probig-pid-kashtanamy-klychko-ne-zmig-pryyednatysya-cherez-travmu
+	set tags blagotvoritelnost,den.kieva,kashtan,kiev,klichko_vitalij,kreschatik.kiev,prazdnik,sport,ukraina,zabeg
+page
+	set url https://bigkyiv.com.ua/sogodni-vidznachayut-den-kyyeva/
+	set tags den.kieva,kiev,prazdnik,prazdnovanie,ukraina
 eof
 off
 page

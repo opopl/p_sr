@@ -30384,6 +30384,12 @@ page
 page
 	set url https://sharij.net/v-seti-poyavilsya-multfilm-pro-petrova-i-boshirova
 	set tags jumor,kultura,multfilm,multiplikacia,petrov_i_bashirov,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://odnarodyna.org/article/27-maya-den-v-nashey-istorii
+	set tags 1753,27_may,cerkov.kiev.andreevskaja,ekaterina_II,istoria,kiev,rossia,rusimperia,rusmir,ukraina
+page
+	set url https://odnarodyna.org/article/kanonicheskiy-bunt-fanara-vremya-myagkikh-resheniy-cerkvi-zakanchivaetsya
+	set tags bunt,cerkov,fanar.stambul.turcia,patriarh_varfolomej.konstantinopol,pravoslavie,raskol,raskol.cerkov.ukraina,ukraina,upc,vera
 eof
 off
 page

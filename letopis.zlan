@@ -30673,6 +30673,39 @@ page
 page
 	set url https://strana.ua/news/335791-vladimir-zelenskij-provel-soveshchanie-po-voprosam-kinoindustrii-v-ukraine.html
 	set tags kino,kinostudia,kultura,muzei,predlozhenie,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/336061-zelenskij-ne-smozhet-obespechit-implementatsiju-minskikh-sohlashenij.html
+	set tags biden_joe,donbass,minsk_dogovor,mir,putin_vladimir,rossia,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/336062-o-chem-mozhet-byt-antioliharkhicheskij-zakon-o-borbe-s-otrazheniem-v-zerkale-.html
+	set tags oligarh,otrazhenie.zerkalo,ukraina,zakon,zakonoprojekt,zerkalo
+page
+	set url https://strana.ua/opinions/336064-tolko-splochennyj-i-schastlivyj-narod-mozhet-pobedit-kovid-dazhe-esli-deneh-ne-tak-mnoho.html
+	set tags bolezn,butan,covid,narod,pandemia,schastje,vaccinacia,world,zdorovje
+page
+	set url https://strana.ua/opinions/336066-termin-hibrid-tak-zaezdili-chto-poterjano-eho-iznachalnoe-znachenie.html
+	set tags analiz,slovo,slovo.gibrid
+page
+	set url https://strana.ua/opinions/336090-kiev-ne-dolzhen-meritsja-drevnostju-s-druhimi-stolitsami.html
+	set tags drevnost',gorod,kiev,kievrus,ljubov,moskva,rossia,skify,sssr,ukraina
+page
+	set url https://strana.ua/opinions/336095-zakon-o-media-nelzja-prinimat-v-nyneshnem-vide.html
+	set tags ukraina,verhovna_rada,zakon,zakon.ukr.o_media.2021,zakonoprojekt,zhurnalist,zhurnalistika
+page
+	set url https://strana.ua/opinions/336100-v-kieve-vsled-za-tarifnym-narastaet-zemelnyj-majdan.html
+	set tags ekonomika,future,kiev,maidan,nedovolstvo,obschestvo,protest,tarify,ukraina,zemlja
+page
+	set url https://strana.ua/opinions/336117-kievu-mozhno-pozhelat-odnoho-perezhit-etot-hrjaznyj-period.html
+	set tags den.kieva,future,gorod,kiev,pozhelanie,ukraina
+page
+	set url https://strana.ua/news/336145-sud-opravdal-sternenko-po-delu-o-pokhishchenii-cheloveka.html
+	set tags odessa,prigovor,sternenko_sergei,sud.odessa.apelljacionnyj,ukraina
+page
+	set url https://strana.ua/news/336164-v-tsentre-kieva-iz-za-konflikta-proizoshla-strelba.html
+	set tags avto.mersedes,kiev,kriminal,pechersk,perestrelka,policia,ranenie,strelba,ukraina
+page
+	set url https://kiev.strana.ua/336013-v-kieve-radikaly-pravoho-sektora-uchili-detej-streljat-po-maketu-kremlja.html
+	set tags avtomat.kalashnikova,avtomat.oruzhie,bumaga,den.kieva,deti,kiev,kreml,pravyj_sektor,strelba,ukraina
 eof
 off
 page

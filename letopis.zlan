@@ -30745,6 +30745,21 @@ page
 page
 	set url https://new.lug-info.com/news/cspk-razresila-provedenie-skol-nyh-vypusknyh-vecerov-v-ocnom-formate
 	set tags lnr,obrazovanie,shkola,ucheba
+page
+	set url https://strana.ua/opinions/336187-neschastnye-merzavtsy-eti-avtory-knizhek-vo-slavu-heroev-ss.html
+	set tags germania,istoria,kniga,nacizm,narod,otvraschenie,ss_galichina,ukraina
+page
+	set url https://strana.ua/news/336181-sternenko-obzhaluet-uslovnyj-srok.html
+	set tags obzhalovanie,odessa,sternenko_sergei,sud,tjurma,ukraina
+page
+	set url https://news.obozrevatel.com/society/legkij-sposob-vernutsya-v-sssr.htm
+	set tags istoria,kritika,obschestvo,sssr,vozvraschenie
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-zabornaya-tsivilizatsiya.htm
+	set tags krym,obschestvo,rossia,simferopol,zhizn
+page
+	set url https://ukraina.ru/opinion/20210531/1031511213.html
+	set tags ekonomika,future,ideologia,imperia,krokodil,nacia,obschestvo,rossia,rusimperia,ukraina,vopros
 eof
 off
 page

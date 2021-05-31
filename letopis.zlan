@@ -30664,6 +30664,15 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/polityka/zablokovani-telekanaly-ta-antyderzhavna-propaganda
 	set tags 112ua,cenzura,infvojna,kiev,newsone,presledovanie,ukraina,youtube,zapret
+page
+	set url https://strana.ua/news/336088-zelenskij-objavil-o-sozdanii-universiteta-budushcheho.html
+	set tags 2014,future,obrazovanie,obschestvo,stipendia,ukraina,universitet,zelenskii_vladimir,zhurnalist
+page
+	set url https://strana.ua/news/335795-vladimir-zelenskij-podpisal-ukaz-o-naznachenii-stipendii-detjam-pohibshikh-zhurnalistov.html
+	set tags 2014,debalcevo,labutkin_dmitrij.ukr.zhurnalist.2015,prezident,stipendia,ukaz,ukraina,veremij_vjacheslav.zhurnalist.vesti.ukr,zelenskii_vladimir,zhurnalist
+page
+	set url https://strana.ua/news/335791-vladimir-zelenskij-provel-soveshchanie-po-voprosam-kinoindustrii-v-ukraine.html
+	set tags kino,kinostudia,kultura,muzei,predlozhenie,ukraina,zelenskii_vladimir
 eof
 off
 page

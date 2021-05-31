@@ -30778,9 +30778,6 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/kulebazhenya/60b370f4a5485/
 	set tags den.kieva,gorod,kiev,kievljane,ljubov,ukraina
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://blogs.pravda.com.ua/authors/kulebazhenya/5fec3473e0ffb/
 	set tags deputat,ekologia,future,gorod,kiev,kievrada,klimat,transport,ukraina
@@ -30790,6 +30787,45 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/kulebazhenya/60a4c1ef67447/
 	set tags gorod,kiev,kievljane,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/bratushchak/605ca99a17a3b/
+	set tags karantin,kiev,kievljane,klichko_vitalij,transport,ugroza
+page
+	set url https://bigkyiv.com.ua/u-misto-bogiv-ta-sonczya-mozhna-zlitaty-trychi-na-tyzhden-z-boryspolya/
+	set tags afiny.grecia,avia,grecia,kiev,mau.avia.kompania
+page
+	set url https://bigkyiv.com.ua/do-dnya-kyyeva-nezvychajni-pamyatnyky-mista/
+	set tags den.kieva,istoria,kiev,kniga.zolotoj_telenok,literatura,pamjatnik,panikovskij_mihail.personazh.kiev
+page
+	set url https://bigkyiv.com.ua/101-podiya-v-istoriyi-tysyacholitnogo-kyyeva/
+	set tags istoria,istoria.kiev,kiev
+page
+	set url https://bigkyiv.com.ua/kino-i-lyudy-top-10-tsikavyh-faktiv-pro-pershi-filmy-u-staromu-kyyevi/
+	set tags 1895,1897,istoria,istoria.kiev,kiev,kino
+page
+	set url https://bigkyiv.com.ua/ne-vichna-pam-yat-vozhdi-yakym-bilshe-nemaye-mistsya-v-kyyevi/
+	set tags istoria,istoria.kiev,kiev,lenin_vladimir,pamjatnik,rusimperia
+page
+	set url https://bigkyiv.com.ua/tsikave-pro-vulytsyu-arhitektora-gorodetskogo-v-kyyevi/
+	set tags istoria,istoria.kiev,kiev
+page
+	set url https://bigkyiv.com.ua/top-7-kumednyh-faktiv-z-istoriyi-kyyivskogo-universytetu-lytsariv-nauky-revolyutsioneriv-i-shanuvalnykiv-divchat/
+	set tags 1833,istoria,istoria.kiev,kiev,knu,rusimperia
+page
+	set url https://bigkyiv.com.ua/top-10-faktiv-pro-pam-yatnyk-volodymyru-velykomu/
+	set tags 1853,cerkov,istoria,istoria.kiev,kiev,knjaz_vladimir,pravoslavie,rusimperia
+page
+	set url https://strana.ua/opinions/336223-sternenko-ne-posazhen-no-marhinalizirovan-kak-politicheskaja-fihura.html
+	set tags marginal,obschestvo,politika,prigovor,radikalizm,radikaly,sternenko,ukraina,vlast
+page
+	set url https://strana.ua/opinions/336224-koronavirus-otstupaet-ljashko-preduprezhdaet-zelenskij-vydumyvaet.html
+	set tags itogi,ukraina
+page
+	set url https://strana.ua/opinions/336216-antioliharkhicheskij-zakon-na-samom-dele-o-mediarejderstve.html
+	set tags obschestvo,oligarh,smi,ukraina,vlast,zakon,zelenskii_vladimir
+page
+	set url https://kiev.strana.ua/336218-prichiny-strelby-v-tsentre-kieva-hde-ranili-v-holovu-podozrevaemoho-v-ubijstve.html
+	set tags golova,kiev,kriminal,oruzhie,pechersk,policia,ranenie,strelba,ukraina,versia
 eof
 off
 page

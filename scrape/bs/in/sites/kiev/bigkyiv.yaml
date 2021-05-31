@@ -2,6 +2,7 @@
 sel:
   clean:
   only:
+    - .main-content
   keep:
 
 fetch:
@@ -36,7 +37,7 @@ PageParser:
     sels:
       - { 
           'search' : {
-              'css'   : [ '' ],
+              'css'   : [ '.main-content .author a' ],
               'map' : {
                   'name' : 'text',
                   'url'  : { 

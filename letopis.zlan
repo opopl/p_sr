@@ -30772,6 +30772,24 @@ page
 page
 	set url https://censor.net/ru/resonance/3268457/zatrimaniyi_pd_posolstvom_blorus_petro_markelov_u_kivskyi_polts_men_skazali_scho_tak_treba_bo_te_scho
 	set tags aktivist,belarus,kiev,policia
+page
+	set url https://www.pravda.com.ua/articles/2021/05/31/7295425/
+	set tags kult,obschestvo,politika,ukraina,zelenskii_vladimir
+page
+	set url https://blogs.pravda.com.ua/authors/kulebazhenya/60b370f4a5485/
+	set tags den.kieva,gorod,kiev,kievljane,ljubov,ukraina
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://blogs.pravda.com.ua/authors/kulebazhenya/5fec3473e0ffb/
+	set tags deputat,ekologia,future,gorod,kiev,kievrada,klimat,transport,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/kulebazhenya/5f8d669b1a3d1/
+	set tags demokratia,gorod,kiev,rajon.gorod,samoupravlenie.gorod,slovo.na_rajone,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/kulebazhenya/60a4c1ef67447/
+	set tags gorod,kiev,kievljane,ukraina
 eof
 off
 page

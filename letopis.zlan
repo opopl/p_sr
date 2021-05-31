@@ -30826,6 +30826,27 @@ page
 page
 	set url https://kiev.strana.ua/336218-prichiny-strelby-v-tsentre-kieva-hde-ranili-v-holovu-podozrevaemoho-v-ubijstve.html
 	set tags golova,kiev,kriminal,oruzhie,pechersk,policia,ranenie,strelba,ukraina,versia
+page
+	set url https://www.pravda.com.ua/news/2021/05/31/7295556/
+	set tags dokument,itogi,litva,persona_non_grata,sharij_analotij,sternenko_sergei,ukraina
+page
+	set url https://www.radiosvoboda.org/a/cheeks-ukrajinsky-forum/31282513.html
+	set tags 2013,chehia,forum,infvojna,kiev,propaganda,rossia,ukraina
+page
+	set url http://lug-info.com/news/one/komanda-horoshenskoj-shkoly-pobedila-v-turnire-po-mini-futbolu-frontovye-vorota-68582
+	set tags deti,futbol,igra,komanda,lnr,minifutbol,mir_luganschine,molodaja_gvardia.lnr,molodezh,pobeda,shkola,slavjanoserbsk.lnr,sorevnovanie,sport,vpechatlenie
+page
+	set url http://lug-info.com/news/one/bolee-200-detej-posetili-besplatnye-kinopokazy-v-irmino-almaznoj-sabovke-i-zamkovke-68579
+	set tags besplatno,deti,kino,kinopokaz,lnr,mir_luganschine,molodaja_gvardia.lnr,multfilm,projekt.mir_kino.lnr
+page
+	set url https://lgaki.info/novosti/personalnaya-vystavka-rabot-fotohudozhnika-lyudmila-suvorovoj-otkrylas-v-luganskoj-gorkovke/
+	set tags biblioteka,biblioteka.lnr.lrunb,foto,fotohudozhnik,lgaki,lnr,lugansk,vystavka
+page
+	set url http://voskhodinfo.su/aktualno/66433-kto-zachischaet-byvshih-agentov-vliyaniya-postmaydannoy-ukrainy.html
+	set tags maidan2,obschestvo,ukraina,vopros,zachistka
+page
+	set url https://miaistok.su/pensionerka-v-pervomajske-podorvalas-na-ukrainskom-snaryade-vo-vremya-raboty-na-ogorode/
+	set tags bojepripas,bolnica,donbass,lechenie,pensioner,pomosch.medicinskaja,ranenie,ranenie.oskolochnoje,ukraina,vojna,vsu,vzryv,woman
 eof
 off
 page

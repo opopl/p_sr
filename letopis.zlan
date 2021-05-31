@@ -30727,6 +30727,15 @@ page
 page
 	set url https://www.radiosvoboda.org/a/shkilni-tualety-i-velych-rosiyi/31282683.html
 	set tags rossia,shkola,tualet,velichie
+page
+	set url http://lug-info.com/news/one/obsestvenniki-ko-dnu-zasity-detej-organizovali-prazdnik-v-stolicnom-parke-druzba-16224714723165-68570
+	set tags den.zaschity_detej,deti,druzhba,druzhba.park.lugansk.lnr,lnr,lugansk,op_lnr,park,prazdnik
+page
+	set url http://lug-info.com/news/one/pochta-lnr-opredelila-pobeditelej-konkursa-lyublyu-tebya-moj-kraj-rodnoj-donbass-68545
+	set tags donbass,konkurs,ljubov,lnr,pochta,pochta.lnr,rodina
+page
+	set url http://lug-info.com/news/one/gruppa-iz-100-detej-lnr-otpravilas-na-otdyh-v-krymskij-dok-del-fin-68271
+	set tags deti,dok.delfin.krym,konstantinov_vladimir,krym,lnr,otdyh,rossia
 eof
 off
 page

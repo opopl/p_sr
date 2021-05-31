@@ -30709,6 +30709,24 @@ page
 page
 	set url https://strana.ua/opinions/336158-kievskie-horodskie-sumasshedshie-odinokimi-tochno-ne-smotrjatsja.html
 	set tags bezumie,emocii,gorod,kiev,most.kiev.patona,odinochestvo,sumasshedshij.gorodskoj
+page
+	set url https://strana.ua/articles/336120-pochemu-deputaty-ot-sluhi-naroda-khotjat-otsrochit-totalnuju-ukrainizatsiju-dlja-tele-i-kinorynka-.html
+	set tags jazyk,kino,kultura,mova,otsrochka,tv,ukraina,ukrainizacia,vnezapno,zelenskii_vladimir,zrada
+page
+	set url https://kiev.strana.ua/336167-v-kieve-vorony-napali-na-muzhchinu.html
+	set tags begstvo,gorod,kiev,napadenie,priroda,ptica,ptica.voron,spasenie,ukraina
+page
+	set url https://strana.ua/news/336136-uchenyj-sovet-universiteta-shevchenko-lishit-lukashenko-zvanija-pochetnoho-doktora-.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,_important,belarus,kiev,knu,lukashenko_aleksandr,universitet
+page
+	set url https://strana.ua/opinions/336173-nam-chto-necheho-krome-borshcha-vkljuchat-v-spisok-nematerialnoho-nasledija-junesko.html
+	set tags borsch,kultura,nasledie,ukraina,unesco
+page
+	set url https://strana.ua/opinions/336177-rost-vvp-v-ukraine-za-poslednie-desjatiletija-unizitelno-nizok.html
+	set tags ekonomika,rejting,ukraina,vvp
+page
+	set url https://www.radiosvoboda.org/a/shkilni-tualety-i-velych-rosiyi/31282683.html
+	set tags rossia,shkola,tualet,velichie
 eof
 off
 page

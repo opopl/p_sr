@@ -31,3 +31,12 @@ PageParser:
           'get'   : 'text',
           'split' : ',',
         }
+      - { 
+          'find'  : 'article time',
+          'get'   : 'attr',
+          'attr'  : 'datetime',
+          # split date string
+          #'split' : ' ',
+          # used by dateparser.parse()
+          #'order' : 'DMY',
+        }

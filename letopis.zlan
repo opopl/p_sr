@@ -30736,6 +30736,15 @@ page
 page
 	set url http://lug-info.com/news/one/gruppa-iz-100-detej-lnr-otpravilas-na-otdyh-v-krymskij-dok-del-fin-68271
 	set tags deti,dok.delfin.krym,konstantinov_vladimir,krym,lnr,otdyh,rossia
+page
+	set url http://lug-info.com/news/one/prazdnichnaya-programma-dlya-osobyh-detej-samyj-detskij-den-sostoyalas-v-luganske-68539
+	set tags deti,lnr,lugansk,prazdnik
+page
+	set url http://lug-info.com/news/one/lugansk-inform-centr-zapustil-novuyu-versiyu-sajta-agentstva-68504
+	set tags internet,lnr,sajt,sajt.lug_info.lnr
+page
+	set url https://new.lug-info.com/news/cspk-razresila-provedenie-skol-nyh-vypusknyh-vecerov-v-ocnom-formate
+	set tags lnr,obrazovanie,shkola,ucheba
 eof
 off
 page

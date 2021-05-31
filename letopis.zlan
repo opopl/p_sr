@@ -30760,6 +30760,18 @@ page
 page
 	set url https://ukraina.ru/opinion/20210531/1031511213.html
 	set tags ekonomika,future,ideologia,imperia,krokodil,nacia,obschestvo,rossia,rusimperia,ukraina,vopros
+page
+	set url https://hvylya.net/interview/231334-gennadiy-druzenko-zelenskiy-pochuvstvoval-silu
+	set tags __may_2021.zelenskii.press_konferencia.kiev,analitika,druzenko_gennadij.ukr.volonter,press_konferencia,razbor,romanenko_jurij,sila,ukraina,zelenskii_vladimir
+	set redo 1
+	setlist acts
+		db_update
+page
+	set url https://strana.ua/news/336169-sternenko-opravdali-za-razboj-po-delu-shcherbicha-chto-eto-oznachaet.html
+	set tags prigovor,sternenko_sergei,styd,sud,ukraina
+page
+	set url https://censor.net/ru/resonance/3268457/zatrimaniyi_pd_posolstvom_blorus_petro_markelov_u_kivskyi_polts_men_skazali_scho_tak_treba_bo_te_scho
+	set tags aktivist,belarus,kiev,policia
 eof
 off
 page

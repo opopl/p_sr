@@ -30948,7 +30948,16 @@ page
 	set tags __may_2021.protasevich.belarus.zaderzhanie,azov_polk,dnr,donbass,dopros,lnr,lukashenko_aleksandr,maidan2,minsk,protasevich_roman.belarus.nexta,vojna
 todo
 	# author
-	set rids 10039,10104,10139
+	set rids 10039,10104,10139,10165
+	condition
+		site news.ua.hvylya
+		site news.ua.radiosvoboda
+page
+	set url https://sharij.net/otecz-kazanskogo-strelka-o-tom-kak-zhivyot-ih-semya-posle-massovogo-ubijstva-v-shkole
+	set tags __may_2021.rossia.kazan.shkola.tragedia
+page
+	set url https://analytics.hvylya.net/231377-kto-ubil-17-millionov-ukraincev
+	set tags golodomor,istoria,murder,nacia,narod,obschestvo,ubijstvo,ukraina,vina,vopros,demografia
 eof
 off
 page

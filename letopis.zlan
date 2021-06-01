@@ -30865,6 +30865,15 @@ page
 page
 	set url https://strana.ua/news/336259-epidemija-covid-19-skolko-v-ukraine-bolnykh-po-dannym-na-1-ijunja-2021-hoda.html
 	set tags bolezn,covid,smert,statistika,ukraina,zabolevajemost'
+page
+	set url https://kiev.strana.ua/336264-blohersha-ttiisshhiinnaa-i-ee-paren-ustroili-pohrom-na-semnoj-kvartire.html
+	set tags blogger,blogger.kiev.ttiisshhiinnaa,gorod,kiev,kvartira,policia,razgrom,skandal,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ukrayintsi-i-druha-svitova-viyna/31281398.html
+	set tags 1941,berezan,hata,mirvojna2,nacizm,soldat,sssr,ukraina,vov
+	set redo 1
+	setlist acts
+		db_update
 eof
 off
 page

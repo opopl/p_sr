@@ -30940,6 +30940,9 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/badikov/5a5710b9dfdc5/
 	set tags obschestvo,ohrana.zdorovja,reforma.medicina.ukraina,reformi,ukraina,zdorovje
+page
+	set url https://blogs.pravda.com.ua/authors/matvienko/5735aa866630d/
+	set tags genprokuratura,genprokuror,janukovich_viktor,obschestvo,udar,ukraina,verhovna_rada
 eof
 off
 page

@@ -30847,6 +30847,24 @@ page
 page
 	set url https://miaistok.su/pensionerka-v-pervomajske-podorvalas-na-ukrainskom-snaryade-vo-vremya-raboty-na-ogorode/
 	set tags bojepripas,bolnica,donbass,lechenie,pensioner,pomosch.medicinskaja,ranenie,ranenie.oskolochnoje,ukraina,vojna,vsu,vzryv,woman
+page
+	set url https://strana.ua/showbiz/336256-till-lindemann-rammstein-novoe-video-ja-nenavizhu-detej-.html
+	set tags kultura,lindemann_till.rammstein.muzykant,pesnja,showbiz,sssr,video
+page
+	set url https://strana.ua/opinions/336254-mezhdu-pozorom-i-razhromom-zelenskij-vybral-pozor.html
+	set tags pozor,prigovor,razgrom,sternenko_sergei,sud,ukraina
+page
+	set url https://strana.ua/opinions/336255-evrosojuz-sozdal-mihrantskuju-problemu-v-marokko.html
+	set tags marokko,migracia,obschestvo,problemy,zapad
+page
+	set url https://strana.ua/opinions/336257-v-izrailsko-palestinskom-konflikte-tak-skazat-pobedila-druzhba.html
+	set tags __may_2021.izrail.palestina.konflikt,druzhba,izrail,izrail_vs_palestina,konflikt,palestina,pobeda,vojna
+page
+	set url https://strana.ua/opinions/336258-internet-vyrastil-politikov-vyssheho-ranha-no-treteho-sorta.html
+	set tags bazar,internet,obschestvo,otvetstvennost',politika,ponimanie,sankcii,ukraina
+page
+	set url https://strana.ua/news/336259-epidemija-covid-19-skolko-v-ukraine-bolnykh-po-dannym-na-1-ijunja-2021-hoda.html
+	set tags bolezn,covid,smert,statistika,ukraina,zabolevajemost'
 eof
 off
 page

@@ -30895,6 +30895,27 @@ page
 page
 	set url https://strana.ua/news/336345-rada-khochet-otkryt-inostrantsam-dostup-k-ukrainskim-nedram.html
 	set tags inostrancy,nedra,ukraina,verhovna_rada,zakon,zakonoprojekt
+page
+	set url https://strana.ua/news/336346-kak-netflix-perevjol-tsitaty-iz-brata-i-brata-2-na-anhlijskij.html
+	set tags banderovec,film.brat,kultura,nacizm,netflix,ukraina
+page
+	set url https://strana.ua/opinions/336358-universitet-zelenskoho-ne-spaset-obrazovanie-ot-dehradatsii.html
+	set tags degradacia,obrazovanie,obschestvo,ukraina,universitet,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/336361-hrustnoe-75-letie-aviatsionnoho-predprijatija-antonov.html
+	set tags 75_let,an225,aviacia,aviastrojenie,grustj,istoria,kb_antonov,promyshlennost,sssr,ukraina,upadok
+page
+	set url https://strana.ua/opinions/336364-ukraine-nuzhno-ponjat-chto-ej-hrozjat-lokdauny-do-2023-hoda.html
+	set tags bolezn,covid,karantin,lechenie,lockdown,ugroza,ukraina,vaccinacia,vaccine
+page
+	set url https://strana.ua/opinions/336367-intervju-zelenskoho-nemetskomu-izdaniju-zhalobnaja-prosba-o-pomoshchi.html
+	set tags evropa,gazeta.frankfurter_allgemeine_zeitung.germania,germania,interview,pomosch,prosjba,ukraina,zapad,zelenskii_vladimir,zhaloba
+page
+	set url https://strana.ua/news/336330-seksualnoe-nasilie-nad-detmi-v-ukraine-i-vovlechenie-v-prestupnost-dannye-za-2021-hod.html
+	set tags den.zaschity_detej,deti,iznasilovanie,narkomania,obschestvo,pornografia,statistika,suicid,ukraina,venediktova_irina
+page
+	set url https://strana.ua/news/336355-komitet-predlozhit-rade-razreshit-inostrantsam-obuchatsja-v-vuzakh-na-russkom-jazyke.html
+	set tags inostrancy,jazyk,mova,obrazovanie,studenty,ucheba,ukraina,ukrainizacia
 eof
 off
 page

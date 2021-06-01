@@ -30877,6 +30877,9 @@ page
 page
 	set url https://strana.ua/opinions/336281-pytki-i-pokhishchenie-sternenko-okazalis-hrazhdanskoj-aktivnostju.html
 	set tags obschestvo,sternenko_sergei,sud,ukraina
+page
+	set url https://life.ru/p/1047756
+	set tags babij_jar,istoria,kiev,nacizm,sssr,tragedia,ukraina
 eof
 off
 page

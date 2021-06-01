@@ -30943,6 +30943,12 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/matvienko/5735aa866630d/
 	set tags genprokuratura,genprokuror,janukovich_viktor,obschestvo,udar,ukraina,verhovna_rada
+page
+	set url https://strana.ua/news/336424-lukashenko-prihlasil-sledovatelej-ldnr-doprosit-romana-protasevicha.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,azov_polk,dnr,donbass,dopros,lnr,lukashenko_aleksandr,maidan2,minsk,protasevich_roman.belarus.nexta,vojna
+todo
+	# author
+	set rids 10039,10104,10139
 eof
 off
 page

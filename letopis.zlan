@@ -30880,6 +30880,21 @@ page
 page
 	set url https://life.ru/p/1047756
 	set tags babij_jar,istoria,kiev,nacizm,sssr,tragedia,ukraina
+page
+	set url https://strana.ua/opinions/336283-sistema-vyssheho-obrazovanija-hotovit-ne-tekh-kto-prihoditsja-v-zhizni.html
+	set tags obrazovanie,obschestvo,ukraina,vuz
+page
+	set url https://strana.ua/opinions/336314-nas-plavno-prevrashchajut-v-syrevuju-koloniju-bez-nauki-tekhnolohij-i-industrii.html
+	set tags ekonomika,kolonia,syrje,ukraina,zahvat,zapad
+page
+	set url https://kiev.strana.ua/336327-v-kieve-politsija-lovila-pjanoho-bajkera-kotoryj-poterjal-passazhira.html
+	set tags dtp,kiev,metro,motorcycle,pjanstvo,policia,travma,ukraina
+page
+	set url https://kiev.strana.ua/336325-strana-uznala-podrobnosti-strelby-v-pecherskom-rajone-kieva-hde-ranili-muzhchinu.html
+	set tags huliganstvo,kiev,kriminal,pechersk,policia,strelba,ukraina
+page
+	set url https://strana.ua/news/336345-rada-khochet-otkryt-inostrantsam-dostup-k-ukrainskim-nedram.html
+	set tags inostrancy,nedra,ukraina,verhovna_rada,zakon,zakonoprojekt
 eof
 off
 page

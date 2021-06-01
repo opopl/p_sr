@@ -30874,6 +30874,9 @@ page
 	set redo 1
 	setlist acts
 		db_update
+page
+	set url https://strana.ua/opinions/336281-pytki-i-pokhishchenie-sternenko-okazalis-hrazhdanskoj-aktivnostju.html
+	set tags obschestvo,sternenko_sergei,sud,ukraina
 eof
 off
 page

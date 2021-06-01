@@ -30934,6 +30934,12 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/matvienko/60b62eb4c1f2d/
 	set tags akademia.kiev.mogila,istoria,kiev,knu,nauka,obrazovanie,ukraina,universitet,vojsko_zaporozhskoje,1834
+page
+	set url https://blogs.pravda.com.ua/authors/matvienko/60194e57515bc/
+	set tags agressia,agressor,donbass,obschestvo,revolucia,rossia,ukraina,ukraina_ne_rossia,vojna,vynnychenko_vladimir.unr.ukr.pisatel,zelenskii_vladimir
+page
+	set url https://blogs.pravda.com.ua/authors/badikov/5a5710b9dfdc5/
+	set tags obschestvo,ohrana.zdorovja,reforma.medicina.ukraina,reformi,ukraina,zdorovje
 eof
 off
 page

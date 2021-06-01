@@ -30916,6 +30916,24 @@ page
 page
 	set url https://strana.ua/news/336355-komitet-predlozhit-rade-razreshit-inostrantsam-obuchatsja-v-vuzakh-na-russkom-jazyke.html
 	set tags inostrancy,jazyk,mova,obrazovanie,studenty,ucheba,ukraina,ukrainizacia
+page
+	set url https://strana.ua/news/336332-kakie-zarplaty-platjat-na-ukrzaliznytse.html
+	set tags ekonomika,rabota,ukraina,ukrzaliznycia,zabastovka,zarplata
+page
+	set url https://strana.ua/news/336335-plastikovye-pakety-zapretili-v-ukraine-kakie-s-kakoho-chisla-analiz-zakonoproekta-2051-1.html
+	set tags ekologia,plastik,ukraina,zapret
+page
+	set url https://strana.ua/opinions/336406-halanterejshchik-i-kardinal-stsena-tretja-apofeoz-absurda.html
+	set tags absurd,naftogaz,sevpotok2,ukraina
+page
+	set url https://strana.ua/opinions/336415-smert-plastika-vojna-ajkosam-skepticheskie-nastroenija.html
+	set tags itogi,ukraina
+page
+	set url https://strana.ua/news/336394-pohranichniki-zaderzhali-rossijanina-pri-peresechenii-im-hranitsy-on-zakopal-pasport-v-lesu.html
+	set tags granica,grazhdanstvo,passport,pogranichnik,rossia,rossiane,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/matvienko/60b62eb4c1f2d/
+	set tags akademia.kiev.mogila,istoria,kiev,knu,nauka,obrazovanie,ukraina,universitet,vojsko_zaporozhskoje,1834
 eof
 off
 page

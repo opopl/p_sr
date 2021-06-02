@@ -30954,6 +30954,10 @@ todo
 	# news.nvr.voshod_info
 	set rids 10179,10180,10181
 
+	# news.ua.radiosvoboda 
+	# extra space at end, see author_line
+	set rids 10200
+
 	condition
 		site news.ua.hvylya
 		site news.ua.radiosvoboda
@@ -31067,6 +31071,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/dekomunizatsiya-gerb-srsr-monument-batkivschyna-maty/31283759.html
 	set tags dekomunizacia,gerb.sssr,gorod,istoria,kiev,rodina_mat.kiev,sssr,ukraina
+page
+	set url https://www.radiosvoboda.org/a/donetskaya-respublika-pervichka-debalcevo/31284475.html
+	set tags dnr,donbass,politruk,propaganda,rossia,sharij_analotij,ss_galichina,ukraina,zelenskii_vladimir
 eof
 off
 page

@@ -30958,6 +30958,27 @@ page
 page
 	set url https://analytics.hvylya.net/231377-kto-ubil-17-millionov-ukraincev
 	set tags golodomor,istoria,murder,nacia,narod,obschestvo,ubijstvo,ukraina,vina,vopros,demografia
+page
+	set url http://lug-info.com/news/one/prazdnichnye-i-pamyatnye-meropriyatiya-proshli-v-respublike-v-den-zashity-detej-68651
+	set tags aktivist,alchevsk,brjanka,den.zaschity_detej,deti,koncert,krasnodon,lnr,lugansk,mir_luganschine,molodezh,muzyka,pasechnik_leonid,pervomajsk,pesnja,prazdnik,prazdnovanie,rovenjki.lnr,slavjanoserbsk.lnr,stahanov.lnr,sverdlovsk.lnr
+page
+	set url http://lug-info.com/news/one/krymskij-lager-del-fin-v-kotoryj-na-otdyh-otpravilis-deti-iz-lnr-otkryl-pervuyu-smenu-68650
+	set tags deti,krym,lager.detskij,lager.krym.delfin,lnr,otdyh,pasechnik_leonid,rossia
+page
+	set url https://strana.ua/news/336451-ukraina-v-trojke-stran-evropy-po-novym-smertjam-ot-koronavirusa.html
+	set tags antirejting,antirekord,bolezn,covid,evropa,rossia,smertnost',statistika,ukraina,zabolevajemost'
+page
+	set url https://strana.ua/opinions/336439-kak-pokazyvaet-opyt-zemljakov-emihrantov-rodina-ne-tam-hde-vy-rodilis.html
+	set tags emigracia,grustj,grustno,kiev,rodina,ukraina
+page
+	set url https://strana.ua/opinions/336442-serezhe-sternenko-pozvonili-blahopoluchno-izbezhat-nakazanija.html
+	set tags nakazanie,prigovor,sternenko_sergei,sud,ukraina
+page
+	set url https://strana.ua/news/336449-netflix-izmenil-perevod-slova-banderovets-v-filme-brat-2.html
+	set tags balabanov_sergej.rezhisser.rossia,banderovec,bodrov_sergej,film.brat,ispravlenie,kalifornia,kino,kollaborant,kultura,nacizm,netflix,perevod.language,silicon_valley.usa,ukraina,usa,zhaloba
+page
+	set url https://news.obozrevatel.com/russia/tragediya-kotoraya-mozhet-stat-spuskovyim-kryuchkom-rossijskogo-blm.htm
+	set tags azerbajdzhan,black_lives_matter,migrant.trudovoj,novosibirsk,policia,rossia,rossia.novosibirsk_obl,sibir,tragedia
 eof
 off
 page

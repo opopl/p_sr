@@ -30947,12 +30947,18 @@ page
 	set url https://strana.ua/news/336424-lukashenko-prihlasil-sledovatelej-ldnr-doprosit-romana-protasevicha.html
 	set tags __may_2021.protasevich.belarus.zaderzhanie,azov_polk,dnr,donbass,dopros,lnr,lukashenko_aleksandr,maidan2,minsk,protasevich_roman.belarus.nexta,vojna
 todo
+	problem author
 	# author
 	set rids 10039,10104,10139,10165,10177
+
+	# news.nvr.voshod_info
+	set rids 10179,10180,10181
+
 	condition
 		site news.ua.hvylya
 		site news.ua.radiosvoboda
 		site news.ua.pravda
+		site news.nvr.voshod_info
 page
 	set url https://sharij.net/otecz-kazanskogo-strelka-o-tom-kak-zhivyot-ih-semya-posle-massovogo-ubijstva-v-shkole
 	set tags __may_2021.rossia.kazan.shkola.tragedia
@@ -30998,6 +31004,15 @@ page
 page
 	set url https://from-ua.com/articles/601938-pochemu-razvalivaetsya-ukrainskaya-semya.html
 	set tags bednost,brak,brak.semja,cennosti,chelovek,ekonomika,finansy,karantin,ljubov,minjust,minjust.ukraina,nischeta,obschestvo,raspad,razvod.semja,schastje,semja,sssr,stalin_iosif,statistika,ukraina,ukraincy
+page
+	set url http://voskhodinfo.su/aktualno/66323-rossii-pora-perehodit-k-zhestkomu-resheniyu-britanskogo-voprosa.html
+	set tags britania,cennosti,geopolitika,miroporjadok,rossia,zapad
+page
+	set url http://voskhodinfo.su/aktualno/66464-spravedlivost-i-zakon-v-rossii.html
+	set tags azerbajdzhan,novosibirsk,omon,policia,rossia,spravedlivost,zakon
+page
+	set url http://voskhodinfo.su/panorama/geopolitika/66436-spustya-7-let-minsk-reshilsya-na-sankcii-protiv-kieva.html
+	set tags belarus,benzin,ekonomika,kiev,lukashenko_aleksandr,minsk,nefteprodukty,reshenie,sankcii,torgovlja,ukraina
 eof
 off
 page

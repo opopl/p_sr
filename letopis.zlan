@@ -31013,6 +31013,39 @@ page
 page
 	set url http://voskhodinfo.su/panorama/geopolitika/66436-spustya-7-let-minsk-reshilsya-na-sankcii-protiv-kieva.html
 	set tags belarus,benzin,ekonomika,kiev,lukashenko_aleksandr,minsk,nefteprodukty,reshenie,sankcii,torgovlja,ukraina
+page
+	set url https://strana.ua/news/336452-kak-netflix-perevel-banderovtsa-v-filme-brat-s-bodrovym.html
+	set tags bandera_stepan,banderovec,bitva,demjanjuk_ivan,deputat,film.brat,infvojna,kalifornia,kino,kollaborant,kultura,nacizm,netflix,perevod.language,propaganda,propaganda.rossijskaja,rossia,silicon_valley.usa,ukraina,usa,verhovna_rada,wikipedia,zrada
+page
+	set url https://strana.ua/news/336454-aviaudar-po-luhanskoj-oha-2062014-sem-voprosov-o-trahedii.html
+	set tags 7_let,__2014.lugansk.aviaudar.vsu.02_06_2021,aviacia,aviaudar,donbass,godovschina,lnr,lugansk,nakazanie,obse,prestuplenie.vojennoje,smert,tragedia,ukraina,vojna,vsu
+page
+	set url https://strana.ua/news/336391-intehratsija-belarusi-i-rossii-posle-sanktsij-zapada-cheho-zhdat-ot-sojuznoho-hosudarstva.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,belavia.aviakompania,dogovor,geopolitika,gushva_igor,integracia,kitaj,krym,lukashenko_aleksandr,maidan2,putin_vladimir,rossia,sankcii,ukraina,vostok,zapad
+page
+	set url https://strana.ua/opinions/336495-universitet-zelenskoho-zakonchitsja-ocherednym-poletom-v-kosmos.html
+	set tags kultura,molodezh,nauka,obrazovanie,ukraina,universitet,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/336497-v-livii-kvadrokopter-samostojatelno-prinjal-reshenie-ubit-cheloveka.html
+	set tags cifrovizacia,future,kompjuter,kvadrokopter,livia,mashina,mashina.kompjuter,murder,obschestvo,oon,oon.sovet_bezopastnosti,vojna
+page
+	set url https://strana.ua/opinions/336505-sem-let-nazad-kiev-ubil-poslednie-nadezhdy-na-mirnyj-dialoh.html
+	set tags 2014,__2014.lugansk.aviaudar.vsu.02_06_2021,dialog,dialog.mirnyj,donbass,licemerie,lnr,lugansh,maidan2,nadezhda,prestuplenie.vojennoje,rassledovanie,smert,tragedia,ukraina,vojna
+page
+	set url https://strana.ua/opinions/336509-bankovaja-teper-zamenjaet-vse-ot-avtodora-do-mid.html
+	set tags bankova,gazeta.frankfurter_allgemeine_zeitung.germania,germania,interview,kiev,obschestvo,ofis_prezidenta,politika,strana,ukraina,vlast,zelenskii_vladimir
+page
+	set url https://strana.ua/news/336534-kievskaja-blohersha-ttiisshhiinnaa-sobiraetsja-pokonchit-s-soboj-posle-bloka-v-instahram.html
+	set tags blogger.kiev.ttiisshhiinnaa,blokirovanie,instagram,internet,kiev,kvartira,policia,popytka,popytka.suicid,skandal,smysl.zhizni,suicid,ukraina,zhizn
+page
+	set url https://strana.ua/news/248762-netflixpokazala-spisok-filmov-i-serialov-kotorye-byli-zapreshcheny-v-raznykh-stranakh.html
+	set tags cenzura,internet,kino,kultura,netflix,poturaev_nikita,propaganda.rossijskaja,ukraina,world
+page
+	set url https://strana.ua/news/233438-chto-pishut-sotsseti-o-namerenii-vlastej-oblozhit-nalohami-netflix-i-youtube.html
+	set tags bereza_borislav,es,evropa,facebook,internet,nalogi,obschestvo,obsuzhdenie,pornhub,socset,tkachenko_aleksandr,ukraina,ukrainizacia,youtube
+page
+	set url https://strana.ua/news/336526-doklad-oon-po-pravam-cheloveka-v-ukraine-2021-analiz-hlavnykh-narushenij.html
+	set tags analiz,cenzura,doklad,jazyk,oon,prava_cheloveka,presledovanie,telekanaly,ukraina,zapret
 eof
 off
 page

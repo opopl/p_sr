@@ -5429,7 +5429,6 @@ page
 page
 	set url https://news.obozrevatel.com/society/zabastovki-v-ordlo-stoyat-na-kolenyah-i-poyut-hvalu-putinu.htm
 	set tags ukraina,donbass,mnenie
-	#set redo 1
 	set fail img
 	set fail_desc failure to load images
 	#setlist acts
@@ -30562,12 +30561,8 @@ page
 	set url https://news.obozrevatel.com/kiyany/life/kievu-1539-let-stolitsu-ukrainyi-pozdravili-poslyi-i-meryi-so-vsego-mira-video.htm
 	set tags den.kieva,gorod,kiev,kievljane,pozdravlenie,ukraina
 page
-	set redo 1
 	set url https://analytics.hvylya.net/231253-bolshoy-kievskiy-roman
 	set tags kiev,kniga,literatura,nikitin_aleksej.pisatel.kiev.ukr,ukraina
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/news/335744-mitinh-v-kieve-sehodnja-onlajn-v-podderzhku-sternenko-chto-proiskhodit-vozle-ofisa-prezidenta.html
 	set tags 30.05.2021,bankova,den.kieva,kiev,lukashenko_aleksandr,miting,protest,rusmir,sternenko_sergei,ukraina,zelenskii_vladimir
@@ -30763,9 +30758,6 @@ page
 page
 	set url https://hvylya.net/interview/231334-gennadiy-druzenko-zelenskiy-pochuvstvoval-silu
 	set tags __may_2021.zelenskii.press_konferencia.kiev,analitika,druzenko_gennadij.ukr.volonter,press_konferencia,razbor,romanenko_jurij,sila,ukraina,zelenskii_vladimir
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://strana.ua/news/336169-sternenko-opravdali-za-razboj-po-delu-shcherbicha-chto-eto-oznachaet.html
 	set tags prigovor,sternenko_sergei,styd,sud,ukraina
@@ -30871,9 +30863,6 @@ page
 page
 	set url https://www.radiosvoboda.org/a/ukrayintsi-i-druha-svitova-viyna/31281398.html
 	set tags 1941,berezan,hata,mirvojna2,nacizm,soldat,sssr,ukraina,vov
-	set redo 1
-	setlist acts
-		db_update
 page
 	set url https://strana.ua/opinions/336281-pytki-i-pokhishchenie-sternenko-okazalis-hrazhdanskoj-aktivnostju.html
 	set tags obschestvo,sternenko_sergei,sud,ukraina
@@ -30949,12 +30938,17 @@ page
 todo
 	problem author
 	# author
-	set rids 10039,10104,10139,10165,10177
+	set rids 10165,10177
+
+	# news.ua.hvylya 
+	set rids 10039,10104
 
 	# news.nvr.voshod_info
 	set rids 10179,10180,10181
 
 	# news.ua.radiosvoboda 
+	# no author - igor rozdobudko
+	set rids 10139
 	# extra space at end, see author_line
 	set rids 10200
 

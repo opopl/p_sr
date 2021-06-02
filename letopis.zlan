@@ -30948,10 +30948,11 @@ page
 	set tags __may_2021.protasevich.belarus.zaderzhanie,azov_polk,dnr,donbass,dopros,lnr,lukashenko_aleksandr,maidan2,minsk,protasevich_roman.belarus.nexta,vojna
 todo
 	# author
-	set rids 10039,10104,10139,10165
+	set rids 10039,10104,10139,10165,10177
 	condition
 		site news.ua.hvylya
 		site news.ua.radiosvoboda
+		site news.ua.pravda
 page
 	set url https://sharij.net/otecz-kazanskogo-strelka-o-tom-kak-zhivyot-ih-semya-posle-massovogo-ubijstva-v-shkole
 	set tags __may_2021.rossia.kazan.shkola.tragedia
@@ -30979,6 +30980,24 @@ page
 page
 	set url https://news.obozrevatel.com/russia/tragediya-kotoraya-mozhet-stat-spuskovyim-kryuchkom-rossijskogo-blm.htm
 	set tags azerbajdzhan,black_lives_matter,migrant.trudovoj,novosibirsk,policia,rossia,rossia.novosibirsk_obl,sibir,tragedia
+page
+	set url https://zaxid.net/soyuz__mertviy_komsomol__zhiviy_n1519771
+	set tags bandera_stepan,cennosti,chelovek,demokratia,istoria,komsomol,lukashenko_aleksandr,lvov,molodezh,nacia,nacidea,obschestvo,patriotizm,povedenie,psihologia,rossia,sssr,strana,ukraina,ukraincy,vospitanie
+page
+	set url https://zaxid.net/pyat_tsikavih_faktiv__vid_upa_do_ato_n1519836
+	set tags fakty,istoria,nacia,oun,ukraina,upa
+page
+	set url https://zaxid.net/rosiya__vichniy_suprotivnik_ukrayini_n1519652
+	set tags istoria,kievrus,krazha,orda,orda.zolotaja,protivnik,rossia,sopernichestvo,ukraina,vechnost'
+page
+	set url https://zaxid.net/avtomobilna_shina_yak_simvol_ukrayinskogo_bumerangu_n1503906
+	set tags bumerang,nacia,obschestvo,politika,poroshenko_petr,shina.avto,simvol,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/06/2/7295702/
+	set tags bolezn,covid,immunitet,immunitet.kollektivnyj,karantin,naselenie,nauka,ukraina,vaccinacia,zabolevajemost',zdorovje
+page
+	set url https://from-ua.com/articles/601938-pochemu-razvalivaetsya-ukrainskaya-semya.html
+	set tags bednost,brak,brak.semja,cennosti,chelovek,ekonomika,finansy,karantin,ljubov,minjust,minjust.ukraina,nischeta,obschestvo,raspad,razvod.semja,schastje,semja,sssr,stalin_iosif,statistika,ukraina,ukraincy
 eof
 off
 page

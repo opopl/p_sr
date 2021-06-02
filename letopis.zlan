@@ -31046,6 +31046,24 @@ page
 page
 	set url https://strana.ua/news/336526-doklad-oon-po-pravam-cheloveka-v-ukraine-2021-analiz-hlavnykh-narushenij.html
 	set tags analiz,cenzura,doklad,jazyk,oon,prava_cheloveka,presledovanie,telekanaly,ukraina,zapret
+page
+	set url https://strana.ua/news/336554-bezuhlaja-nazvala-provokatsiej-vopros-vlashchenko-o-kolichestve-stran-v-nato.html
+	set tags bezuglaja_marjana.deputat,deputat,nato,provokacia,sluga_naroda,tv,tv.ukr.programma.hard_s_vlaschenko,ukraina,verhovna_rada,vlaschenko_natalia.zhurnalist,vopros
+page
+	set url https://strana.ua/news/336304-zelenskij-intervju-frankfurter-allgemeine-zeitung-1-ijunja-hlavnye-tsitaty.html
+	set tags donbass,es,evrosojuz,gazeta.frankfurter_allgemeine_zeitung.germania,interview,nato,plan.b,rossia,sevpotok2,ukraina,vojna,zapad,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/336567-istorija-ljuboj-strany-eto-borba-nespravedlivosti-s-nevezhestvom.html
+	set tags borjba,istoria,moral,nespravedlivost,nevezhestvo,spravedlivost,strana
+page
+	set url https://strana.ua/opinions/336569-zapad-nikak-ne-mozhet-opredelitsja-otstalaja-rossija-ili-peredovaja.html
+	set tags benzokolonka,dissonans.kognitivnyj,hakery,hakery.rossia,rossia,zapad
+page
+	set url https://strana.ua/opinions/336580-zapret-plastika-imeet-i-svoi-minusy-o-kotorykh-sejchas-nikto-ne-dumaet.html
+	set tags ekologia,plastik,ukraina,verhovna_rada,zapret
+page
+	set url https://www.radiosvoboda.org/a/nachalo-voyny-v-luganske/31286480.html
+	set tags 2014,donbass,kiev,lnr,ludi,lugansk,opros,radio_svoboda,ukraina,vojna
 eof
 off
 page

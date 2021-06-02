@@ -31064,6 +31064,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/nachalo-voyny-v-luganske/31286480.html
 	set tags 2014,donbass,kiev,lnr,ludi,lugansk,opros,radio_svoboda,ukraina,vojna
+page
+	set url https://www.radiosvoboda.org/a/dekomunizatsiya-gerb-srsr-monument-batkivschyna-maty/31283759.html
+	set tags dekomunizacia,gerb.sssr,gorod,istoria,kiev,rodina_mat.kiev,sssr,ukraina
 eof
 off
 page

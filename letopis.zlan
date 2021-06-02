@@ -31068,6 +31068,27 @@ page
 page
 	set url https://www.radiosvoboda.org/a/donetskaya-respublika-pervichka-debalcevo/31284475.html
 	set tags dnr,donbass,politruk,propaganda,rossia,sharij_analotij,ss_galichina,ukraina,zelenskii_vladimir
+page
+	set url https://viktoriashilova.livejournal.com/643424.html
+	set tags __2014.lugansk.aviaudar.vsu.02_06_2021,donbass,smert,ukraina,vojna,vsu
+page
+	set url https://zen.yandex.ru/media/v780/kak-kiev-ostalsia-na-okraine-5-prichin-vozvysheniia-vladimirosuzdalskogo-kniajestva-v-xii-veke-60b30a28f8cd844b4eb78f7e
+	set tags istoria,kiev,kievrus,rossia,rusmir,suzdal,xii_vek
+page
+	set url https://zen.yandex.ru/media/grunes_buch/sem-let-nazad-nachalis-boi-v-slavianske-nachalis-i-ne-zakonchilis-do-sih-por-6075ed6dbfba535c1a342337
+	set tags 2014,civil_war,donbass,girkin_igor,slavjansk,ukraina,vojna
+page
+	set url https://strana.ua/opinions/336626-prezhde-chem-stroit-plany-na-budushchee-prezidentu-sleduet-razobratsja-s-proshlym.html
+	set tags future,gosapparat,plany,prezident,proshloje,ukraina
+page
+	set url https://strana.ua/opinions/336627-pojavilsja-zakonoproekt-zatrudnjajushchij-zhizn-zihujushchim-personazham.html
+	set tags buzhanskii_maksim,nacizm,patriotizm,radikalizm,radikaly,sluga_naroda,ukraina,verhovna_rada,zakonoprojekt,zigovanie
+page
+	set url https://strana.ua/opinions/336628-tsena-na-benzin-skandal-s-milovanovym-konoplja-dlja-meditsiny.html
+	set tags itogi,ukraina
+page
+	set url https://strana.ua/news/336614-pervye-podrobnosti-hibeli-lvovskoho-shkolnika-v-vodopade-kamenka.html
+	set tags deti,lvov,malchik,policia,smert,ukraina,vodopad
 eof
 off
 page

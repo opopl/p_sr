@@ -30944,7 +30944,7 @@ todo
 	set rids 10039,10104
 
 	# news.nvr.voshod_info
-	set rids 10179,10180,10181
+	set rids 10179,10180,10181,10247
 
 	# news.ua.radiosvoboda 
 	# no author - igor rozdobudko
@@ -30957,6 +30957,11 @@ todo
 		site news.ua.radiosvoboda
 		site news.ua.pravda
 		site news.nvr.voshod_info
+
+	problem time,img
+	set rids 10248
+	condition
+		site kultura.ru.ukrcentr
 page
 	set url https://sharij.net/otecz-kazanskogo-strelka-o-tom-kak-zhivyot-ih-semya-posle-massovogo-ubijstva-v-shkole
 	set tags __may_2021.rossia.kazan.shkola.tragedia
@@ -31206,6 +31211,13 @@ page
 page
 	set url http://lug-info.com/news/one/pochta-lnr-v-ramkah-akcii-sobrala-dlya-detskih-domov-i-internatov-19-tys-rub-68750
 	set tags blagotvoritelnost,dengi,deti,dobro,lnr,pochta.lnr,pomosch,shkola.internat
+page
+	set url http://voskhodinfo.su/aktualno/66508-doneck-evropa.html
+	set tags donbass,doneck,evropa,evroparlament,gorod,protasevich_roman.belarus.nexta,ukraina,ukraina_ce_evropa
+page
+	set url http://ukrcentr.ru/novini/nashi-diti/
+	set tags den.zaschity_detej,deti,moskva,pozdravlenie,prazdnik,rossia,ukraina,ukrcentr.moskva
+	set date 01_06_2021
 eof
 off
 page

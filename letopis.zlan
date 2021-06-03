@@ -31182,11 +31182,6 @@ page
 page
 	set url https://strana.ua/news/336809-v-beloj-tserkvi-pedofil-nasiloval-dvoikh-nesovershennoletnikh-sester-s-sohlasija-ikh-ottsa.html
 	set tags belaja_cerkov.ukr.gorod,deti,iznasilovanie,nasilie,pedofilia,sud,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/articles/analysis/336568-zachem-zelenskij-khochet-postroit-prezidentskij-universitet-budushcheho.html
 	set tags future,kiev,kiev.vdnh,nauka,obrazovanie,studenty,ucheba,ukraina,universitet,vuz,zelenskii_vladimir
@@ -31208,6 +31203,9 @@ page
 page
 	set url http://lug-info.com/news/one/detskij-ombudsmen-peredala-vospitannice-lutuginskogo-internata-invalidnuu-kolasku-68745
 	set tags deti,invalid,koljaska.invalidnaja,lnr,nm_lnr,ombudsmen.detskij,pasechnik_leonid,pomosch,shkola.internat
+page
+	set url http://lug-info.com/news/one/pochta-lnr-v-ramkah-akcii-sobrala-dlya-detskih-domov-i-internatov-19-tys-rub-68750
+	set tags blagotvoritelnost,dengi,deti,dobro,lnr,pochta.lnr,pomosch,shkola.internat
 eof
 off
 page

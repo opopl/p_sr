@@ -31146,6 +31146,9 @@ page
 page
 	set url https://news24ru.net/bred-sumasshedshego-kak-s-etim-git/
 	set tags chelovek,dusha,dzerzhinskii_feliks,istoria,muchenie,nkvd,pamjat,proshloje,psihika,psihologia,rasstrel,repressii,rossia,sssr,sumasshestvie,vopros,zhizn
+page
+	set url https://strana.ua/opinions/336656-obekty-severnoho-potoka-2-uzhe-perevodjat-v-testovyj-rezhim.html
+	set tags patriotizm,protest,rossia,sevpotok2,ukraina
 eof
 off
 page

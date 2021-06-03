@@ -31128,6 +31128,17 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/okara/5182d8f06ef67/
 	set tags 2013,kultura,rossia,st_peterburg,ukraina
+global
+	set redo 1
+	set limit 10
+	setlist opts
+		no_site
+		no_date
+	setlist acts
+		db_update
+page
+	set url http://antifashist.com/item/faina-savenkova-verit-i-nadeyatsya.html
+	set tags donbass,literatura,lnr,nadezhda,savenkova_faina,vera,vojna
 eof
 off
 page

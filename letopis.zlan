@@ -31205,6 +31205,9 @@ page
 page
 	set url https://www.pravda.com.ua/news/2021/06/3/7295874/
 	set tags bezumie,germania,interview,melnik_andrei,posolstvo.ukrainy.germania,putin_vladimir,rossia,ukraina,unichtozhenie
+page
+	set url http://lug-info.com/news/one/detskij-ombudsmen-peredala-vospitannice-lutuginskogo-internata-invalidnuu-kolasku-68745
+	set tags deti,invalid,koljaska.invalidnaja,lnr,nm_lnr,ombudsmen.detskij,pasechnik_leonid,pomosch,shkola.internat
 eof
 off
 page

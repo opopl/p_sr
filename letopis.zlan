@@ -31101,6 +31101,18 @@ page
 page
 	set url https://strana.ua/opinions/336653-zahranichnye-belorsskie-patrioty-sostavili-revoljutsionnyj-plan-peremoha.html
 	set tags belarus,patriot,peremoga,plan,zagranica,zapad,zrada
+page
+	set url https://strana.ua/opinions/336654-intervju-zelenskoho-otrazhaet-slabost-ukrainskoj-vneshnej-politiki.html
+	set tags interview,politika.vneshnaja,poproshajka,slabost',ukraina,usa,zapad,zelenskii_vladimir
+page
+	set url https://strana.ua/news/336645-operatsija-antioliharkh-antibanderovskij-netfliks-mid-ukrainy-protiv-belavia.html
+	set tags banderovec,film.brat,itogi,netflix,oligarh,strana_ua,ukraina,zakon
+page
+	set url https://www.pravda.com.ua/news/2021/06/3/7295878/
+	set tags aktivizacia,donbass,infvojna,pravosudie,rossia,sbu,ukraina,zelenskii_vladimir
+page
+	set url https://censor.net/ru/resonance/3261691/dobrovolets_oleksandr_vorobyi_vyina_ne_zmnyu_lyudinu_vona_prosto_rozkriva_sutnst_yakscho_lyudina_bula
+	set tags antimaidan,dobrovolec,donbass,doneck,harkov,maidan2,rossia,ruslana.ukr.pevica,ukraina,vata,vatnik,vojna
 eof
 off
 page

@@ -32,6 +32,7 @@ include:
     - news.nvr.novorosinform_org
 
 ###news_ru
+    - news.ru.news24ru
     - news.ru.ngs
     - news.ru.antifashist_com
     - news.ru.gzt
@@ -82,6 +83,9 @@ include:
     - kultura.ru.portal
     - kultura.ru.culture_ru
     #- kultura.ru.ukrcentr
+
+###socset
+    - socset.livejournal
 
 ###sport_ru
     - sport.ru.championat

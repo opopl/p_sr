@@ -67,6 +67,9 @@
 'rusvesna.su' : { 'site' : 'news.ru.rusvesna' }
 'antifashist.com' : { 'site' : 'news.ru.antifashist_com' }
 
+# pravda rossii
+'news24ru.net' : { 'site' : 'news.ru.news24ru' }
+
 'aif.ru' : { 'site' : 'news.ru.aif' }
 'cosmo.ru' : { 'site' : 'news.ru.cosmopolitan' }
 'tochka.press' : { 'site' : 'news.ru.tochka_press' }
@@ -199,3 +202,6 @@
 #
 'apple.com' : { 'site' : 'com.us.apple' }
 'facebook.com' : { 'site' : 'com.us.facebook' }
+
+'livejournal.com' : { 'site' : 'socset.livejournal' }
+

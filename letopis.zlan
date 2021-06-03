@@ -31149,6 +31149,47 @@ page
 page
 	set url https://strana.ua/opinions/336656-obekty-severnoho-potoka-2-uzhe-perevodjat-v-testovyj-rezhim.html
 	set tags patriotizm,protest,rossia,sevpotok2,ukraina
+page
+	set url https://strana.ua/opinions/336706-evropa-vpala-v-irratsionalnyj-isterichnyj-lukashizm.html
+	set tags belarus,evropa,isteria,isterika,lukashenko_aleksandr,rossia,ukraina
+page
+	set url https://strana.ua/opinions/336708-ze-standarty-v-sfere-smi-sovershenno-ne-otsenili-v-oon.html
+	set tags cenzura,doklad,doklad.oon,oon,prava_cheloveka,presledovanie,prigovor,svoboda_slova,telekanaly,tv,ukraina,zapret,zelenskii_vladimir,zhurnalist
+page
+	set url https://strana.ua/opinions/336756-edinstvennym-zhestkim-udarom-po-oliharkham-moh-by-stat-zapret-na-vladenie-media.html
+	set tags ekonomika,oligarh,ukraina,verhovna_rada,zakon,zapret
+page
+	set url https://strana.ua/opinions/336760-eto-stranno-no-zelenskij-sovershenno-ne-umeet-davat-intervju.html
+	set tags gazeta.frankfurter_allgemeine_zeitung.germania,germania,interview,slovo,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/336762-nasha-hazotransportnaja-sistema-mozhet-byt-rentabelnoj-.html
+	set tags ekonomika,rentabelnost,rossia,sistema.gaz.transport.ukr,ukraina,gaz
+page
+	set url https://strana.ua/opinions/336777-nalohovaja-amnistija-ot-prezidenta-skoree-vseho-okonchitsja-provalom.html
+	set tags amnistia,ekonomika,nalogi,prezident,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/336815-zateja-s-naznacheniem-oliharkhov-prodolzhenie-uzurpatsii-sudebnoj-vlasti.html
+	set tags konstitucia,ksu,oligarh,prezident,ukraina,uzurpacia,vlast,vlast.sudebnaja,zakon
+page
+	set url https://strana.ua/opinions/336816-zakon-ob-oliharkhakh-priduman-ne-dlja-borby-s-oliharkhami.html
+	set tags elektorat,oligarh,ukraina,verhovna_rada,zakon,zakonoprojekt
+page
+	set url https://strana.ua/opinions/336819-mjahkost-k-oliharkham-zelenskij-kak-budilnik-naloh-na-google.html
+	set tags budilnik,google,itogi,mjagkost,nalogi,oligarh,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/336808-protasevich-zajavil-chto-u-lukashenko-stalnye-jajtsa-video.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,interview,jajca,lukashenko_aleksandr,protasevich_roman.belarus.nexta
+page
+	set url https://strana.ua/news/336809-v-beloj-tserkvi-pedofil-nasiloval-dvoikh-nesovershennoletnikh-sester-s-sohlasija-ikh-ottsa.html
+	set tags belaja_cerkov.ukr.gorod,deti,iznasilovanie,nasilie,pedofilia,sud,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.ua/articles/analysis/336568-zachem-zelenskij-khochet-postroit-prezidentskij-universitet-budushcheho.html
+	set tags future,kiev,kiev.vdnh,nauka,obrazovanie,studenty,ucheba,ukraina,universitet,vuz,zelenskii_vladimir
 eof
 off
 page

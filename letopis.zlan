@@ -31089,6 +31089,18 @@ page
 page
 	set url https://strana.ua/news/336614-pervye-podrobnosti-hibeli-lvovskoho-shkolnika-v-vodopade-kamenka.html
 	set tags deti,lvov,malchik,policia,smert,ukraina,vodopad
+page
+	set url https://strana.ua/news/336647-khotim-znat-kak-planeta-stala-adom-v-nasa-objavili-o-starte-dvukh-missij-na-veneru.html
+	set tags future,issledovanie,kosmonavtika,kosmos,nasa,nauka,peklo,planeta,venera,venera.planeta
+page
+	set url https://strana.ua/news/336642-v-ssha-deti-zabralis-v-dom-s-oruzhiem-i-polchasa-streljali-po-pribyvshej-politsii.html
+	set tags begstvo,deti,florida,oruzhie,policia,prijut,prijut.deti,strelba,usa
+page
+	set url https://strana.ua/opinions/336651-ermak-rasshirjaet-i-usilivaet-vlijanie-na-vneshnjuju-politiku.html
+	set tags jermak_andrej,ofis_prezidenta,perestanovka,politika,politika.vneshnaja,ukraina,usa,zapad
+page
+	set url https://strana.ua/opinions/336653-zahranichnye-belorsskie-patrioty-sostavili-revoljutsionnyj-plan-peremoha.html
+	set tags belarus,patriot,peremoga,plan,zagranica,zapad,zrada
 eof
 off
 page

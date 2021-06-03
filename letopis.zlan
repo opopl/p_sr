@@ -31199,6 +31199,12 @@ page
 page
 	set url https://www.radiosvoboda.org/a/jevrobachennia-mjaka-syla-ukrajiny/31286469.html
 	set tags dzhamala.pevica.ukr,evrovidenie,go_a.gruppa,konkurs,kultura,muzyka,oruzhie.tajnoje,pesnja,ruslana.ukr.pevica,showbiz,sila.mjagkaja,sorevnovanie,tajna,ukraina,verka_serduchka,world
+page
+	set url https://www.radiosvoboda.org/a/karpaty-zahybel-dytyny-vodospad-kamyanka/31289117.html
+	set tags deti,karpaty,smert,tragedia,ukraina,vodopad
+page
+	set url https://www.pravda.com.ua/news/2021/06/3/7295874/
+	set tags bezumie,germania,interview,melnik_andrei,posolstvo.ukrainy.germania,putin_vladimir,rossia,ukraina,unichtozhenie
 eof
 off
 page

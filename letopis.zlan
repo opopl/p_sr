@@ -31113,6 +31113,21 @@ page
 page
 	set url https://censor.net/ru/resonance/3261691/dobrovolets_oleksandr_vorobyi_vyina_ne_zmnyu_lyudinu_vona_prosto_rozkriva_sutnst_yakscho_lyudina_bula
 	set tags antimaidan,dobrovolec,donbass,doneck,harkov,maidan2,rossia,ruslana.ukr.pevica,ukraina,vata,vatnik,vojna
+page
+	set url https://censor.net/ru/blogs/3269232/chomu_partya_opzj_morit_svoh_lyudeyi_golodom
+	set tags glupost,nenavist,opzzh,ukraina,vpechatlenie
+page
+	set url https://strana.ua/news/336727-verkhovnaja-rada-ukrainy-provalila-zakonoproekt-buzhanskoho-o-zapreteheroizatsii.html
+	set tags buzhanskii_maksim,evroparlament,geroizacia,geroizm,nacizm,pase,propaganda,propaganda.nacizma,proval,ss_galichina,ukraina,verhovna_rada,vo_svoboda,voloshin_oleg.opzzh.deputat,zakonoprojekt,zapret
+page
+	set url https://censor.net/ru/blogs/3265671/rosyisk_oftseri_v_ukranskomu_polon
+	set tags 2015,donbass,perestrelka,rossia,schastje.lugansk_obl,smert,ukraina,vojna
+page
+	set url https://censor.net/ru/blogs/3269165/novyyi_tridtsat_sedmoyi_i_rossiya_buduschego
+	set tags obschestvo,oppozicia,politika,rossia
+page
+	set url https://blogs.pravda.com.ua/authors/okara/5182d8f06ef67/
+	set tags 2013,kultura,rossia,st_peterburg,ukraina
 eof
 off
 page

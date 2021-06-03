@@ -31190,6 +31190,15 @@ global
 page
 	set url https://strana.ua/articles/analysis/336568-zachem-zelenskij-khochet-postroit-prezidentskij-universitet-budushcheho.html
 	set tags future,kiev,kiev.vdnh,nauka,obrazovanie,studenty,ucheba,ukraina,universitet,vuz,zelenskii_vladimir
+page
+	set url https://kiev.strana.ua/336812-na-stolichnoj-predprijatie-vorvalis-vooruzhennye-ljudi-v-balaklavakh-i-unesli-sejf-s-denhami.html
+	set tags kiev,kriminal,ograblenie,policia,prokuratura,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ataka-khakeriv-na-myiasozavody-ssha-fbr-rosiya/31288598.html
+	set tags belyj_dom.usa,biden_joe,hakery,hakery.rossia,kiberataka,mjaso,obvinenie,proizvodstvo,psaki_dzhen,rossia,usa
+page
+	set url https://www.radiosvoboda.org/a/jevrobachennia-mjaka-syla-ukrajiny/31286469.html
+	set tags dzhamala.pevica.ukr,evrovidenie,go_a.gruppa,konkurs,kultura,muzyka,oruzhie.tajnoje,pesnja,ruslana.ukr.pevica,showbiz,sila.mjagkaja,sorevnovanie,tajna,ukraina,verka_serduchka,world
 eof
 off
 page

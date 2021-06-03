@@ -31128,17 +31128,21 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/okara/5182d8f06ef67/
 	set tags 2013,kultura,rossia,st_peterburg,ukraina
-global
-	set redo 1
-	set limit 10
-	setlist opts
-		no_site
-		no_date
-	setlist acts
-		db_update
+page
+	set url http://lug-info.com/news/one/kiev-prepyatstvuet-popytkam-lnr-vystroit-otnosheniya-s-gosudarstvami-dejnego-68731
+	set tags dejnego_vladislav,donbass,kiev,lnr,mid_lnr,ukraina,vojna
+page
+	set url https://ukraina.ru/news/20210603/1031553579.html
+	set tags markov_sergej.rossia.politolog,radikalizm,rossia,russofobia,ukraina
 page
 	set url http://antifashist.com/item/faina-savenkova-verit-i-nadeyatsya.html
 	set tags donbass,literatura,lnr,nadezhda,savenkova_faina,vera,vojna
+page
+	set url http://slovoprosvity.org/2021/05/17/shanoblyve-stavlennia-do-zhinotstva-v-ukraini/
+	set tags istoria,jaroslav_mudryj,kievrus,kultura,literatura,ukraina,uvazhenie,woman
+page
+	set url http://slovoprosvity.org/2021/05/17/znakovi-budivli-tsentru-stolytsi/
+	set tags gorod,istoria,istoria.kiev,kiev,kiev.literaturnyj,ukraina
 eof
 off
 page

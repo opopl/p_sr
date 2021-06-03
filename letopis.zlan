@@ -31218,6 +31218,21 @@ page
 	set url http://ukrcentr.ru/novini/nashi-diti/
 	set tags den.zaschity_detej,deti,moskva,pozdravlenie,prazdnik,rossia,ukraina,ukrcentr.moskva
 	set date 01_06_2021
+page
+	set url https://day.kyiv.ua/uk/news/030621-vcheni-povnistyu-rozshyfruvaly-genom-lyudyny
+	set tags biologia,chelovek,genom,genom.cheloveka,genomika,humanity,issledovanie,nauka,otkrytie
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/pozahmarnyy-kyyiv
+	set tags gorod,kiev,lugansh,oblako,ukraina,vechnost'
+page
+	set url https://beztabu.net/dlya-chego-nuzhna-psihoterapiya-lichnosti_n73358
+	set tags chelovek,lechenie,lichnost',psihologia,psihoterapia
+page
+	set url https://strana.ua/news/336786-intervju-protasevicha-3-ijunja-video-ont.html
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,emocii,internet,interview,nexta,protasevich_roman.belarus.nexta,rossia,telegram,tihanovskaja_svetlana,tv
+page
+	set url https://strana.ua/news/336839-umer-narodnyj-artist-ukrainy-nikolaj-zavhorodnij-u-kotoroho-byl-koronavirus.html
+	set tags covid,odessa,smert,ukraina,zavgorodnij_nikolaj.narodnyj_artist_ukrainy.odessa
 eof
 off
 page

@@ -31335,9 +31335,17 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210604/1031543945.html
 	set tags eda,kuhnja,kulinaria,recept,salo,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
 page
 	set url https://gazeta.ua/blog/55186/hto-na-misci-protasevicha-ne-buv-bud-laska-stulit-piski
 	set tags belarus,janukovich_viktor,maidan2,protasevich_roman.belarus.nexta,ukraina,video
+page
+	set url https://gazeta.ua/blog/55170/rosijskij-rep-mozhe-zrujnuvati-ukrayinu
+	set tags amerika,kultura,muzyka,rep,rossia,sssr,ukraina
 eof
 off
 page

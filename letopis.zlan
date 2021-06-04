@@ -31293,6 +31293,12 @@ page
 page
 	set url https://zaxid.net/vikno_v_yevropu_n1519955
 	set tags evropa,infvojna,rossia,rusmir,ukraina,zanaves_zheleznyj
+page
+	set url https://lenta.ru/articles/2021/06/04/russia_canada/
+	set tags chempionat,hokkej,kanada,latvia,porazhenie,proigrysh,riga,rossia,sorevnovanie,sport
+page
+	set url https://ukraina.ru/opinion/20210604/1031559618.html
+	set tags evropa,krivosudie,pravosudie,radikalizm,radikaly,simvol,sternenko_sergei,sud,ubijca,ukraina,vranje
 eof
 off
 page

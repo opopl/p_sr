@@ -30946,6 +30946,9 @@ todo
 	# news.nvr.voshod_info
 	set rids 10179,10180,10181,10247
 
+	# news.ua.pravda
+	set rids 10268
+
 	# news.ua.radiosvoboda 
 	# no author - igor rozdobudko
 	set rids 10139
@@ -31275,6 +31278,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/azarov-tsaryiv-v-oon-naratyvy-rosii-i-pravda/31288475.html
 	set tags azarov_nikolaj,delegacia,donbass,infvojna,maidan2,nebenzja_vasilij.rossia.postpred.oon,obschenie,oon,oon.sovet_bezopastnosti,revgidnosti,rossia,tsarjov_oleg.ukr.deputat.novorossia,ukraina,vojna
+page
+	set url https://www.pravda.com.ua/articles/2021/06/4/7295978/
+	set tags 2014,__2014.ilovajsk,bronevik,donbass,enciklopedia,geroizm,ilovajsk,narod,oruzhie,vojna,volonter
 eof
 off
 page

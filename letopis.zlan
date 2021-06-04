@@ -31233,6 +31233,48 @@ page
 page
 	set url https://strana.ua/news/336839-umer-narodnyj-artist-ukrainy-nikolaj-zavhorodnij-u-kotoroho-byl-koronavirus.html
 	set tags covid,odessa,smert,ukraina,zavgorodnij_nikolaj.narodnyj_artist_ukrainy.odessa
+page
+	set url https://strana.ua/news/332117-v-ukraine-realnaja-smertnost-ot-covid-19-vtroe-prevyshaet-ofitsialnye-pokazateli-ihme.html
+	set tags bolezn,covid,institut.ihme.usa,issledovanie,medicina,ocenka,rossia,smertnost',sravnenie,statistika,ukraina,usa,world,zabolevajemost'
+page
+	set url https://kiev.strana.ua/329803-skolko-chelovek-v-kieve-umerli-ot-koronavirusa-po-dannym-na-23-aprelja.html
+	set tags bolezn,covid,kiev,klichko_vitalij,smertnost',statistics,ukraina,zabolevajemost'
+page
+	set url https://strana.ua/opinions/336849-v-zakone-ob-oliharkhakh-vsplyl-staryj-idiotizm.html
+	set tags idiotizm,oligarhi,ukraina,zakon,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/336850-objavlennyj-plan-b-ot-zelenskoho-skoree-kakoj-to-namek-flirt.html
+	set tags donbass,namek,plan.b,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/336851-vlast-oliharkhov-smozhet-preodolet-tolko-obnovlennoe-obshchestvo.html
+	set tags elcin_boris,obschestvo,oligarhi,preodolenie,putin_vladimir,sravnenie,ukraina,vlast,zakon,zakonoprojekt
+page
+	set url https://strana.ua/opinions/336852-reestr-oliharkhov-ne-reshit-vazhnejshikh-problem-nashej-ekonomiki.html
+	set tags ekonomika,obschestvo,oligarh,problemy,rejestr,ukraina
+page
+	set url https://strana.ua/opinions/336878-sotrudnichestvo-s-vlastju-i-slezy-eto-vybor-samoho-protasevicha.html
+	set tags belarus,gosperevorot,protasevich_roman.belarus.nexta,raskajanie,slezy,ukraina,vybor
+page
+	set url https://strana.ua/opinions/336879-hibel-ljudej-na-donbasse-hovorit-o-tom-chto-nashe-obshchestvo-bolnoe.html
+	set tags bolezn,chelovechnost,chelovek,chuvstvo,deti,donbass,dusha,isskustvo,krasota,literatura,lnr,oon,parazit,potrebitel,rebenok,savenkova_faina,tvorchestvo,ukraina,vaccine,vojna
+page
+	set url https://strana.ua/opinions/336881-amerika-ponjala-chto-mozhet-dobitsja-svoeho-ot-ukrainy-za-hroshi.html
+	set tags amerika,antirossia,bulgakov_mihail,geopolitika,golova,kiev,kievljane,politika,razruha,rossia,slepota,ukraina,usa,zapad
+page
+	set url https://strana.ua/opinions/336885-nastalo-vremja-otmenit-voennyj-sbor.html
+	set tags armia,ekonomika,gosudarstvo,nalog.sbor.vojennyj,nalogi,otmena,podderzhka,reformi,ukraina,vsu
+page
+	set url https://strana.ua/news/336837-pronatsistskoe-bolshinstvo-rady-priznanija-protasevicha-vmeshatelstvo-v-nemetskie-vybory.html
+	set tags buzhanskii_maksim,deputat,germania,geroizacia,geroizm,golosovanie,institut_nacpamjati,istoria,itogi,melnik_andrei.ukraina.posol,nacizm,pamjat,prognoz,protasevich_roman.belarus.nexta,ss_galichina,strana_ua,ukraina,usa,verhovna_rada,vjatrovich_vladimir,vo_svoboda,zavtra,zelenskii_vladimir
+page
+	set url https://strana.ua/news/336862-administratsija-bajdena-hotovit-kiberataku-protiv-rossijskikh-khakerov.html
+	set tags biden_joe,hakery,hakery.rossia,kiberataka,nacbezopasnost,nastuplenie,psaki_dzhen,putin_vladimir,rossia,usa
+page
+	set url https://www.radiosvoboda.org/a/31288914.html
+	set tags biznes,chehia,ekonomika,kiev,kijov.chehia,skidka,spasenie,valjuta,video
+page
+	set url https://www.radiosvoboda.org/a/azarov-tsaryiv-v-oon-naratyvy-rosii-i-pravda/31288475.html
+	set tags azarov_nikolaj,delegacia,donbass,infvojna,maidan2,nebenzja_vasilij.rossia.postpred.oon,obschenie,oon,oon.sovet_bezopastnosti,revgidnosti,rossia,tsarjov_oleg.ukr.deputat.novorossia,ukraina,vojna
 eof
 off
 page

@@ -31320,6 +31320,24 @@ page
 page
 	set url https://strana.ua/articles/interview/336863-amerikanskij-politoloh-samuel-charap-o-tom-chto-dumajut-v-ssha-o-zelenskom-vozmut-li-ukrainu-v-nato-i-dostrojat-li-severnyj-potok-2-.html
 	set tags kiev,nuland_viktoria.usa,priznak,rossia,ukraina,usa,vojna
+page
+	set url http://lug-info.com/news/one/chetyre-specnazovca-lnr-uspeshno-sdali-ekzamen-na-pravo-nosheniya-krapovogo-bereta-68807
+	set tags beret.krapovyj,ekzamen,lnr,omon,omon.berkut,specnaz
+page
+	set url http://lug-info.com/news/one/zhiteli-lnr-v-mezhdunarodnyj-den-nevinnyh-detej-pochtili-pamyat-yunyh-zhertv-agressii-kieva-68806
+	set tags agressia,aktivist,alchevsk,deti,donbass,druzhina.lnr.projekt,karatel,kiev,lnr,minuta_molchania,mir_luganschine,molodaja_gvardia.lnr,nevinnost,pamjat,perevalsk,pervomajsk,rebenok,rovenjki.lnr,slavjanoserbsk.lnr,smert,sverdlovsk.lnr,ukraina,vojna,vsu
+page
+	set url http://lug-info.com/news/one/glava-lnr-nakanune-dnya-russkogo-yazyka-nagradil-dvuh-deyatelej-kul-tury-luganska-68791
+	set tags biblioteka,jazyk,kultura,literatura,lnr,lugansk,nagrazhdenie,pushkin_aleksandr,tvorchestvo
+page
+	set url https://strana.ua/opinions/337008-chto-otmechat-ukrainskomu-zhurnalistu-v-svoj-professionalnyj-prazdnik.html
+	set tags den.zhurnalista.ukr,obschestvo,prazdnik,svoboda_slova,ukraina,zhurnalist
+page
+	set url https://ukraina.ru/exclusive/20210604/1031543945.html
+	set tags eda,kuhnja,kulinaria,recept,salo,ukraina
+page
+	set url https://gazeta.ua/blog/55186/hto-na-misci-protasevicha-ne-buv-bud-laska-stulit-piski
+	set tags belarus,janukovich_viktor,maidan2,protasevich_roman.belarus.nexta,ukraina,video
 eof
 off
 page

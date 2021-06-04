@@ -31284,6 +31284,12 @@ page
 page
 	set url https://life.pravda.com.ua/health/2021/06/4/245089/
 	set tags bolezn,cancer,chelovek,diagnoz,klishe,lechenie,nauka,objasnenie,obrazovanie,obschestvo,onkologia,oskorblenie,podderzhka,psihologia,slovnyk,slovo,ukraina,zhizn
+page
+	set url https://www.pravda.com.ua/articles/2020/04/24/7249128/
+	set tags chelovek,dom,kiev,kievljane,koza,kpi.kiev,priroda,ukraina,zhivotnoje,zhizn
+page
+	set url https://life.pravda.com.ua/columns/2021/06/3/245091/
+	set tags bednost,lnr,obschestvo,zhizn
 eof
 off
 page

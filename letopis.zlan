@@ -31299,6 +31299,27 @@ page
 page
 	set url https://ukraina.ru/opinion/20210604/1031559618.html
 	set tags evropa,krivosudie,pravosudie,radikalizm,radikaly,simvol,sternenko_sergei,sud,ubijca,ukraina,vranje
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/evropa-snosit-svoiu-identichnost-60b740c8e8a8c866ff001027
+	set tags evropa,hristianstvo,identichnost'
+page
+	set url https://strana.ua/news/336964-danilov-zajavil-chto-spetssluzhby-proverjat-vsekh-ukraintsev-popavshikh-po-sanktsii-ssha.html
+	set tags danilov_aleksei,gosdep,grazhdanstvo,proverka,rnbo,sankcii,specsluzhba,ugroza,ukraina,usa
+page
+	set url https://strana.ua/news/336949-zasedanie-snbo-4-ijunja-chto-prinjali-zelenskij-i-danilov.html
+	set tags amerika,avtoritet.kriminalnyj,danilov_aleksei,gosdacha,grazhdanstvo,itogi,koncha_zaspa,lishenie_grazhdanstva,nato,rnbo,sankcii,skuka,vor_v_zakone,vyselenie,zelenskii_vladimir
+page
+	set url https://strana.ua/news/336966-kak-ofis-prezidenta-otbiral-kandidata-na-dolzhnost-press-sekretarja.html
+	set tags konkurs,ofis_prezidenta,otbor,peskov_dmitrii,press_sekretar,rabota,ukraina,vakansia,zelenskii_vladimir
+page
+	set url https://buzina.org/investigation/3980-valentina-pavlovna.html
+	set tags buzina.vp,buzina_oles,mater,otchajanie,prokuratura,sochuvstvie,sud,talk_show,telekanal_1_plus_1,ukraina,venediktova_irina
+page
+	set url https://buzina.org/golos-naroda/3979-lugansk.html
+	set tags __2014.lugansk.aviaudar.vsu.02_06_2021,aviaudar,donbass,godovschina,tragedia,ukraina,vojna
+page
+	set url https://strana.ua/articles/interview/336863-amerikanskij-politoloh-samuel-charap-o-tom-chto-dumajut-v-ssha-o-zelenskom-vozmut-li-ukrainu-v-nato-i-dostrojat-li-severnyj-potok-2-.html
+	set tags kiev,nuland_viktoria.usa,priznak,rossia,ukraina,usa,vojna
 eof
 off
 page

@@ -31335,11 +31335,6 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210604/1031543945.html
 	set tags eda,kuhnja,kulinaria,recept,salo,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://gazeta.ua/blog/55186/hto-na-misci-protasevicha-ne-buv-bud-laska-stulit-piski
 	set tags belarus,janukovich_viktor,maidan2,protasevich_roman.belarus.nexta,ukraina,video
@@ -31349,6 +31344,15 @@ page
 page
 	set url https://gazeta.ua/blog/55171/nedofyureri-vtratili-gluzd-boronitisya-vid-takih-susidiv-treba-kozhnu-sekundu
 	set tags belarus,granica,imperia,rossia,ukraina
+page
+	set url https://lenta.ru/news/2021/06/04/putin_vac/
+	set tags covid,putin_vladimir,rossia,sputnik_v,vaccine
+page
+	set url https://from-ua.com/articles/602202-tushite-svet-gasite-dolg-elektrichestvo-stanet-ne-po-karmanu-bolshinstvu-ukraincev.html
+	set tags dengi,elektrichestvo,energetika,obschestvo,tarify,ukraina
+page
+	set url https://from-ua.com/news/602318-kommunalnii-kollaps-libo-socialnii-vzriv-chto-zhdet-ukraincev-v-blizhaishem-buduschem.html
+	set tags kollaps,obschestvo,tarify,ukraina,vzryv.socialnyj
 eof
 off
 page

@@ -30947,7 +30947,7 @@ todo
 	set rids 10179,10180,10181,10247
 
 	# news.ua.pravda
-	set rids 10268
+	set rids 10268,10271
 
 	# news.ua.radiosvoboda 
 	# no author - igor rozdobudko
@@ -31290,6 +31290,9 @@ page
 page
 	set url https://life.pravda.com.ua/columns/2021/06/3/245091/
 	set tags bednost,lnr,obschestvo,zhizn
+page
+	set url https://zaxid.net/vikno_v_yevropu_n1519955
+	set tags evropa,infvojna,rossia,rusmir,ukraina,zanaves_zheleznyj
 eof
 off
 page

@@ -61,6 +61,7 @@
 'bigkyiv.com.ua' : { 'site' : 'kiev.bigkyiv' }
 'kievkiev.com.ua' : { 'site' : 'kiev.kk' }
 'kyiv.media' : { 'site' : 'kiev.kmedia' }
+'story.kiev.ua' : { 'site' : 'kiev.istorii' }
 
 ###news.ru
 #

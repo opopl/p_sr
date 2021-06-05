@@ -31398,6 +31398,14 @@ page
 page
 	set url https://lb.ua/blog/eugenia_kravchuk/486312_veliki_idei_malih_mist.html
 	set tags gorod,goroda_i_sela,idea,kiev,obschestvo,selo,strana,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://story.kiev.ua/publikacii/boris-lushelskij-istorii-sozdanija-kieva-posvjashhaetsja/
+	set tags gorod,kiev,kiev.poezia,poezia,ukraina
 eof
 off
 page

@@ -31404,14 +31404,30 @@ page
 page
 	set url https://www.radiosvoboda.org/a/photo-vseukrayinskyy-veloden-u-kyyevi/31292124.html
 	set tags den.kiev.velo,foto,gorod,kiev,sport,ukraina,velosiped
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://story.kiev.ua/publikacii/boris-lushelskij-istorii-sozdanija-kieva-posvjashhaetsja/
 	set tags gorod,kiev,kiev.poezia,poezia,ukraina
+page
+	set url https://news.obozrevatel.com/society/chernobyil-2-oskolok-holodnoj-vojnyi.htm
+	set tags chaes,chernobyl,holodnaja_vojna,istoria,sssr,ukraina
+page
+	set url https://riafan.ru/1456882-ukrainskie-shkolniki-otprazdnovali-vypusknoi-pod-hity-rossiiskoi-pop-muzyki
+	set tags muzyka,rossia,rusmir,shkola,ukraina,vypusknoj.shkola
+page
+	set url https://www.radiosvoboda.org/a/doslidgennya-informatsiyna-viinaneitralizatsiya-negatyviv/31287247.html
+	set tags infvojna,nejtralizacia,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/paganel/kak-medved-stal-simvolom-rossii-kogo-za-eto-nado-vinit-ili-blagodarit-60b5fc0bd10b41440afef122
+	set tags istoria,medved,rossia,simvol
+page
+	set url https://riafan.ru/1445482-krymskii-most-stal-nastoyashim-spaseniem-tri-goda-s-nachala-zapuska-dvizheniya
+	set tags krym,krymskij_most,most,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/id/600a93756f1fa165c1d09105/ego-velichestvo-chelovek-chelovek-kuda-delos-tvoe-velichie-60a52197ce404e36f4845c28
+	set tags bratstvo,chelovechnost,chelovek,kniga,rossia,uzbekistan,fajzi_rahmat.pisatel.uzbekistan
+page
+	set url https://strana.ua/news/337054-hruppa-senatorov-frantsii-poprosila-hlavu-mida-strany-prokommentirovat-rost-neonatsizma-v-ukraine-.html
+	set tags azov_polk,francia,kiev,kiev.spusk.andrejevskij,nacionalizm,nacizm,neonazi,senat,senat.francia,ukraina,ultrapravyje
 eof
 off
 page

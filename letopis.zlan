@@ -31353,6 +31353,36 @@ page
 page
 	set url https://from-ua.com/news/602318-kommunalnii-kollaps-libo-socialnii-vzriv-chto-zhdet-ukraincev-v-blizhaishem-buduschem.html
 	set tags kollaps,obschestvo,tarify,ukraina,vzryv.socialnyj
+page
+	set url https://kiev.strana.ua/337038-veloden-2021-v-kieve-chastichno-ohranichat-i-izmenjat-dvizhenie-transporta.html
+	set tags den.kiev.velo,gorod,kiev,sport,transport,ukraina,velosiped
+page
+	set url https://strana.ua/opinions/337006-zrja-zelenskij-dumaet-chto-narod-ukrainy-duraki.html
+	set tags durak,narod,referendum,ukraina,zelenskii_vladimir,zemlja
+page
+	set url https://strana.ua/opinions/337015-ukraina-30-let-rasskazyvaet-kak-budet-umenshat-hazovuju-zavisimost-ot-rossii.html
+	set tags gaz,rossia,turcia,ukraina,umenjshenie,zavisimost
+page
+	set url https://strana.ua/opinions/337033-nikakoho-referenduma-o-statuse-oliharkhov-ne-budet.html
+	set tags referendum,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/337034-kievskaja-politsija-pobojalas-pomeshat-aktivistam-zakhvatit-rynok.html
+	set tags aktivist,evropa,kiev,narod,piratstvo,policia,religia,rynok,svoboda,ukraina
+page
+	set url https://strana.ua/opinions/337035-u-ukrainskoj-molodezhi-snizhaetsja-podderzhka-evropejskoho-kursa.html
+	set tags evropa,molodezh,podderzhka,reznikov_aleksei,ukraina
+page
+	set url https://strana.ua/opinions/337036-nikakoj-deoliharkhizatsii-v-ukraine-byt-ne-mozhet.html
+	set tags deoligarhizacia,future,obschestvo,oligarhi,revolucia,ukraina,zakon,zakonoprojekt,zelenskii_vladimir
+page
+	set url https://kiev.strana.ua/337045-v-kievskoj-oblasti-vo-vremja-pozhara-pohib-rebenok.html
+	set tags kiev,ogon',podrostok,pozhar,smert,tragedia,ukraina
+page
+	set url https://strana.ua/news/337023-chto-proiskhodit-s-vorami-v-zakone-posle-vvedenija-sanktsij-snbo.html
+	set tags danilov_aleksei,rnbo,sankcii,ukraina,vor_v_zakone
+page
+	set url https://www.pravda.com.ua/articles/2021/06/5/7296126/
+	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,lukashenko_aleksandr,mechta,protasevich_roman.belarus.nexta,ukraina
 eof
 off
 page

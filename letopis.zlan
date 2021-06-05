@@ -31398,6 +31398,12 @@ page
 page
 	set url https://lb.ua/blog/eugenia_kravchuk/486312_veliki_idei_malih_mist.html
 	set tags gorod,goroda_i_sela,idea,kiev,obschestvo,selo,strana,ukraina
+page
+	set url https://strana.ua/opinions/337096-amerika-postavila-ukrainu-v-rjad-s-sektorom-haza-irakom-i-kosovo.html
+	set tags amerika,politika,ukraina,unizhenie,usa,vaccine
+page
+	set url https://www.radiosvoboda.org/a/photo-vseukrayinskyy-veloden-u-kyyevi/31292124.html
+	set tags den.kiev.velo,foto,gorod,kiev,sport,ukraina,velosiped
 global
 	set redo 1
 	setlist acts

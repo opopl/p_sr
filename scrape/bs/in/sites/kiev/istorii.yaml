@@ -7,8 +7,13 @@ sel:
     - .af-main-banner-latest-posts 
     - .header-layout-1
     - .figure-categories
+    - .skip-link
   only:
   keep:
+
+unwrap:
+  skip: 
+    - { 'attr_eq' : { 'dir' : 'auto' } }
 
 fetch:
   requests:

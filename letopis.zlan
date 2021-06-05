@@ -31386,6 +31386,9 @@ page
 page
 	set url https://strana.ua/news/337067-romanu-protasevichu-v-lnr-hrozit-rasstrel-istochnik.html
 	set tags belarus,donbass,kazn.smertnaja,kuleba_dmitrii,lukashenko_aleksandr,nakazanie,protasevich_roman.belarus.nexta,ugroza,ukraina,vojna
+page
+	set url https://strana.ua/opinions/337056-ukraina-ne-dolzhna-tratit-enerhiju-na-vosproizvodstvo-idealnoho-proshloho.html
+	set tags feodalizm,future,istoria,obschestvo,pamjat,proshloje,ukraina
 eof
 off
 page

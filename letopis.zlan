@@ -31389,6 +31389,15 @@ page
 page
 	set url https://strana.ua/opinions/337056-ukraina-ne-dolzhna-tratit-enerhiju-na-vosproizvodstvo-idealnoho-proshloho.html
 	set tags feodalizm,future,istoria,obschestvo,pamjat,proshloje,ukraina
+page
+	set url https://zaxid.net/pravda_i_krivda_n1520071
+	set tags filosofia,obschestvo,osleplenie,pravda,psihologia,skazka,slepota,ukraina
+page
+	set url https://www.volyn.com.ua/news/184482-zrosiishchenym-ukraintsiam-pokazaly-spravzhniu-chaiku
+	set tags chajka.ptica,foto,herson,ptica,ukraina
+page
+	set url https://lb.ua/blog/eugenia_kravchuk/486312_veliki_idei_malih_mist.html
+	set tags gorod,goroda_i_sela,idea,kiev,obschestvo,selo,strana,ukraina
 eof
 off
 page

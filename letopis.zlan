@@ -31383,6 +31383,9 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/06/5/7296126/
 	set tags __may_2021.protasevich.belarus.zaderzhanie,belarus,lukashenko_aleksandr,mechta,protasevich_roman.belarus.nexta,ukraina
+page
+	set url https://strana.ua/news/337067-romanu-protasevichu-v-lnr-hrozit-rasstrel-istochnik.html
+	set tags belarus,donbass,kazn.smertnaja,kuleba_dmitrii,lukashenko_aleksandr,nakazanie,protasevich_roman.belarus.nexta,ugroza,ukraina,vojna
 eof
 off
 page

@@ -32,6 +32,7 @@ include:
     - news.nvr.novorosinform_org
 
 ###news_ru
+    #- news.ru.rweek
     - news.ru.news24ru
     - news.ru.ngs
     - news.ru.antifashist_com

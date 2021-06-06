@@ -31464,6 +31464,51 @@ page
 page
 	set url https://kiev.strana.ua/337184-v-kieve-prestupniki-izbili-i-ohrabili-muzhchinu-predstavivshis-atoshnikami.html
 	set tags ato,grabitel,kiev,kriminal,kurenie,ograblenie,policia,sigareta,ukraina
+page
+	set url https://strana.ua/opinions/337139-sovremennye-banderovtsy-ljubjat-hovorit-chto-ikh-predki-voevali-na-dva-fronta.html
+	set tags banderovec,fakty,istoria,mirvojna2,somnenie,ukraina,ukraina_zapad,sssr,bandera_stepan
+page
+	set url https://strana.ua/opinions/337141-v-ukraine-utverdilas-model-skrytoho-politicheskoho-aparteida.html
+	set tags aparteid,biznes,chess,ekonomika,naselenie,obschestvo,strana,ukraina,upravlenie,vlast
+page
+	set url https://strana.ua/opinions/337169-frantsuzskie-senatory-shokirovany-neonatsistskimi-nastroenijami-v-kieve.html
+	set tags andreevskij_spusk,azov_polk,francia,ideologia,kiev,nacionalist,nacizm,oruzhie,senat,senat.francia,ukraina,ultrapravyje,vozmuschenie
+page
+	set url https://strana.ua/opinions/337165-kak-unizitelno-vyhljadit-plach-ukrainy-o-nekhvatke-deneh-na-armiju-bez-rossijskoho-tranzira.html
+	set tags armia,ekonomika,gaz,plachj,rossia,sevpotok2,tranzit_gaza,ubozhestvo,ukraina
+page
+	set url https://strana.ua/opinions/337206-den-zhurnalistiki-prazdnik-est-a-zhurnalistiki-uzhe-net.html
+	set tags den.zhurnalista.ukr,ekonomika,issledovanie,issledovatel,obschestvo,prazdnik,professia,reklama,ukraina,zhurnalist,zhurnalistika
+page
+	set url https://strana.ua/opinions/337142-u-prezidenta-net-polnomochij-vynosit-na-referendum-zakon-ob-oliharkhakh.html
+	set tags narod,oligarh,polnomochia,prezident,referendum,ukraina,zakon,zelenskii_vladimir
+page
+	set url https://odnarodyna.org/article/machey-vishnyovski-ya-v-muchitelnoy-dushnoy-atmosfere-rusofobii
+	set tags mirotvorec_sajt,polsha,rossia,russofobia,zhurnalist
+page
+	set url https://strana.ua/opinions/337176-davajte-dadim-pravo-holosa-detjam.html
+	set tags demokratia,deti,golosovanie,izbiratel,konstitucia,obschestvo,pravo.izbiratelnoje,ukraina,vozrast,vybor,vybory
+page
+	set url https://strana.ua/opinions/337209-zhurnalistskoe-soobshchestvo-ukrainy-k-sozhaleniju-osatetsja-raskolotym.html
+	set tags den.zhurnalista.ukr,donbass,obschestvo,prazdnik,raskol,ukraina,vojna,zhurnalist
+page
+	set url https://strana.ua/opinions/337213-hde-balans-mezhdu-evropejskimi-natsionalnymi-i-lichnymi-tsennostjami.html
+	set tags analiz,cennosti,chelovek,obschestvo,proporcia,ukraina
+page
+	set url https://strana.ua/opinions/337219-v-den-zhurnalista-vlasti-vazhno-ponjat-kakie-smi-ej-nuzhny.html
+	set tags den.zhurnalista.ukr,obschestvo,pozdravlenie,prazdnik,ukraina,vlada,zhurnalist,zhurnalistika
+page
+	set url https://strana.ua/opinions/337216-vsja-ze-politika-zakljuchaetsja-v-dvukh-dejstvijakh-pozorit-i-predavat.html
+	set tags danilov_aleksei,francia,germania,nato,otvaga,otvetstvennost',pozor,predatel',predatelstvo,rnbo,slaboumie,ukraina,zapad,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/337236-vlast-khochet-dobratsja-do-kazhdoj-sotki-i-kazhdoho-kvadratnoho-metra.html
+	set tags ekonomika,politika,slovo.pokraschennja,ukraina,vlast,zakon,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/337237-khochetsja-uvidet-polnyj-spisok-raskhodov-na-antikorruptsionnye-orhany.html
+	set tags oligarh,oligarhi,ukraina,zakon
+page
+	set url https://strana.ua/news/337235-umer-rezo-habriadze-stsenarist-kin-dza-dza-i-mimino.html
+	set tags film.kindzadza.sssr,film.mimino,gabriadze_rezo.rezhisser.hudozhnik.sssr,hudozhnik,istoria,kino,kultura,rezhisser,smert,sssr
 eof
 off
 page

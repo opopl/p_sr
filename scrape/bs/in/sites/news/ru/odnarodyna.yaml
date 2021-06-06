@@ -46,18 +46,9 @@ PageParser:
               'map' : {
                   'name' : 'text',
                   'url'  : { 
-                    'get' : 'attr',
+                    'get'  : 'attr',
                     'attr' : 'href',
                   }
-              },
-             'text' : {
-               'lines' : {
-                  'match' : { 
-                      'pat'   : 'Текст:\s+(.*)$',
-                      'name'  : 1,
-                      'split' : ',',
-                  }
-                }
               }
           },
         }

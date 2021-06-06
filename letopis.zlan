@@ -31449,14 +31449,21 @@ page
 page
 	set url http://rweek.ru/2018/07/20/muzhestvennye-kievlyane-stali-nashimi-zemlyakami/
 	set tags begstvo,jaroslavl,kiev,kievljane,muzhestvo,pikta_svetlana,presledovanie,repressii,rossia,ukraina,zemljak
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://pravyysektor.info/novyny-poglyad/komunistychna-ideologiya-maye-znyknuty-zi-svitoglyadu-ukrayinciv
 	set tags genocid,ideologia,institut_nacpamjati,istoria,kommunizm,nacia,nacidea,narod.ukrainskij,obschestvo,okupacia,pravyj_sektor,prestupnik,sssr,ukraina,ukraincy,ukrainizacia
+page
+	set url https://lenta.ru/articles/2021/06/06/abel/
+	set tags atomic_bomb,istoria,kazn.smertnaja,nakazanie,razvedchik,razvedka,rossia,rusmir,shpion,shpionazh,smert,sssr,ugroza,usa
+page
+	set url https://strana.ua/news/337186-den-zhurnalista-raskryty-detali-shashlyk-pati-s-zelenskim.html
+	set tags den.zhurnalista.ukr,kiev,ofis_prezidenta,otdyh,priroda,shashlyk,ukraina,zelenskii_vladimir,zhurnalist,zhurnalistika
+page
+	set url https://strana.ua/news/145147--kak-v-sotssetjakh-podzravljajut-s-dnem-zhurnalista.html
+	set tags den.zhurnalista.ukr,obschestvo,sbu,strana_ua,ugolovnoje_delo,ukraina,zhurnalist
+page
+	set url https://kiev.strana.ua/337184-v-kieve-prestupniki-izbili-i-ohrabili-muzhchinu-predstavivshis-atoshnikami.html
+	set tags ato,grabitel,kiev,kriminal,kurenie,ograblenie,policia,sigareta,ukraina
 eof
 off
 page

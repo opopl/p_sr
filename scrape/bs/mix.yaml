@@ -121,6 +121,7 @@ include:
     #- news.ua.segodnya
     #- news.ua.sprotyv
     #- news.ua.tyzhden
+    - news.ua.pravyj_sektor
     - news.ua.slovoprosvity
     - news.ua.kpua
     - news.ua.zrada

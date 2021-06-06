@@ -2,6 +2,7 @@
 ###news.ua
 #
 
+'pravyysektor.info' : { 'site' : 'news.ua.pravyj_sektor' }
 'slovoprosvity.org' : { 'site' : 'news.ua.slovoprosvity' } 
 'zrada.org' : { 'site' : 'news.ua.zrada' } 
 'nv.ua' : { 'site' : 'news.ua.nv' } 

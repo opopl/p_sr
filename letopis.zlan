@@ -31509,6 +31509,12 @@ page
 page
 	set url https://strana.ua/news/337235-umer-rezo-habriadze-stsenarist-kin-dza-dza-i-mimino.html
 	set tags film.kindzadza.sssr,film.mimino,gabriadze_rezo.rezhisser.hudozhnik.sssr,hudozhnik,istoria,kino,kultura,rezhisser,smert,sssr
+page
+	set url https://strana.ua/news/337230-v-kieve-pojavitsja-teplokhodnyj-marshrut-po-dnepru.html
+	set tags dnepr,kanev,kiev,korabl,raketa,raketa.korabl.dnepr,sssr,teplohod,ukraina,voda
+page
+	set url https://strana.ua/news/337207-video-kravchuk-prizval-otrezat-donbass-ot-ukrainy-kak-rakovuju-opukhol.html
+	set tags cancer,donbass,gonchar_oles.pisatel.ukr,interview,kravchuk_leonid,opuhol,oskorblenie,slaboumie,sravnenie,tv,ukraina
 eof
 off
 page

@@ -1,6 +1,7 @@
 
 sel:
   clean:
+    - header
   only:
   keep:
 

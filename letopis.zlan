@@ -31449,6 +31449,11 @@ page
 page
 	set url http://rweek.ru/2018/07/20/muzhestvennye-kievlyane-stali-nashimi-zemlyakami/
 	set tags begstvo,jaroslavl,kiev,kievljane,muzhestvo,pikta_svetlana,presledovanie,repressii,rossia,ukraina,zemljak
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
 page
 	set url https://pravyysektor.info/novyny-poglyad/komunistychna-ideologiya-maye-znyknuty-zi-svitoglyadu-ukrayinciv
 	set tags genocid,ideologia,institut_nacpamjati,istoria,kommunizm,nacia,nacidea,narod.ukrainskij,obschestvo,okupacia,pravyj_sektor,prestupnik,sssr,ukraina,ukraincy,ukrainizacia

@@ -31428,6 +31428,24 @@ page
 page
 	set url https://strana.ua/news/337054-hruppa-senatorov-frantsii-poprosila-hlavu-mida-strany-prokommentirovat-rost-neonatsizma-v-ukraine-.html
 	set tags azov_polk,francia,kiev,kiev.spusk.andrejevskij,nacionalizm,nacizm,neonazi,senat,senat.francia,ukraina,ultrapravyje
+page
+	set url https://odnarodyna.org/article/yaroslavl-glazami-kievlyanki
+	set tags chelovek,emigracia,jaroslavl,kiev,nicoi_larisa,obschestvo,pikta_svetlana,presledovanie,repressii,rossia,sbu,ukraina,zhizn
+page
+	set url https://inosmi.ru/social/20210601/249833842.html
+	set tags deti,muzyka,obschestvo,proval,rusmir,shkola,ukraina,ukrainizacia
+page
+	set url https://glavcom.ua/columns/rudnytska/shcho-spivayut-nashi-diti-shah-i-mat-ukrajinizatoram-759221.html
+	set tags deti,kultura,muzyka,obrazovanie,pesnja,rusmir,shkola,ukraina,vypusknoj.shkola
+page
+	set url https://glavcom.ua/columns/rudnytska/rozmalovani-zayci-na-stolichniy-sofijivskiy-ploshchi-folklor-chi-feyklor-487251.html
+	set tags gorod,kiev,kiev.sofia.square,krasota,prazdnik,tradicii,ukraina,velykden',zajcy
+page
+	set url https://zen.yandex.ru/media/id/5ef8295709ec63125b323994/kak-primernaia-ukrainskaia-komsomolka-galia-stala-stala-neprimirimoi-nacionalistkoi-60bad744b6809552616a4c83
+	set tags bandera_stepan,chelovek,deti,istoria,jazyk,komsomol,malorossia,molodezh,mova,nacionalist,obrazovanie,russkie,shkola,sssr,ucheba,ukraina,ukraincy,zhizn
+page
+	set url http://rweek.ru/2018/01/19/yaroslavshhina-zhdet-otvazhnyx-kievlyan/
+	set tags begstvo,jaroslav_mudryj,jaroslavl,kiev,kievljane,muzhestvo,ozhidanie,pikta_svetlana,rossia,ukraina
 eof
 off
 page

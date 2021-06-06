@@ -136,6 +136,7 @@ include:
     - news.ua.fromua
     - news.ua.gazeta
     - news.ua.glavred
+    - news.ua.glavcom
     - news.ua.golospravdy
     - news.ua.gordon
     - news.ua.hromadske

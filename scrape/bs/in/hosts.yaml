@@ -37,6 +37,7 @@
 'censor.net,censor.net.ua' : { 'site' : 'news.ua.censor' }
 'sharij.net' : { 'site' : 'news.ua.sharij' }
 'glavred.info' : { 'site' : 'news.ua.glavred' }
+'glavcom.ua' : { 'site' : 'news.ua.glavcom' }
 'prostirsvobody.org' : { 'site' : 'news.ua.prostirsvobody' }
 'tyzhden.ua' : { 'site' : 'news.ua.tyzhden' }
 'fraza.com' : { 'site' : 'news.ua.fraza' }

@@ -31543,6 +31543,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/ocherednaia-zradaperemoga-60bcd9017f99d3334f137ae4
 	set tags analiz,jumor,kiev,peremoga,ukraina,zapad,zrada
+page
+	set url https://ukraina.ru/exclusive/20210607/1031575379.html
+	set tags 222_goda,den.jazyka.russkogo,english,geopolitika,infvojna,jazyk,oruzhie,pobeda,pushkin_aleksandr,rossia,rusmir,zapad
 eof
 off
 page

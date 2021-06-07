@@ -33,6 +33,7 @@ include:
 
 ###news_ru
     #- news.ru.rweek
+    - news.ru.voicesevas
     - news.ru.news24ru
     - news.ru.ngs
     - news.ru.antifashist_com

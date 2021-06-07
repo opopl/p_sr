@@ -70,6 +70,7 @@
 'rusvesna.su' : { 'site' : 'news.ru.rusvesna' }
 'antifashist.com' : { 'site' : 'news.ru.antifashist_com' }
 'rweek.ru' : { 'site' : 'news.ru.rweek' }
+'voicesevas.ru' : { 'site' : 'news.ru.voicesevas' }
 
 # pravda rossii
 'news24ru.net' : { 'site' : 'news.ru.news24ru' }

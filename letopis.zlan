@@ -31524,6 +31524,19 @@ page
 page
 	set url https://strana.ua/opinions/337265-s-vojnoj-v-rodnoj-strane-nikak-nelzja-primiritsja.html
 	set tags donbass,kniga,kurkov_andrej,ukraina,vojna
+page
+	set url http://voicesevas.ru/news/59041-ukraina-kak-unter-oficerskaya-vdova.html
+	set tags belarus,kuleba_dmitrii,protasevich_roman.belarus.nexta,rossia,shizofrenia,ukraina
+	set date 06_06_2021
+page
+	set url https://kiev.strana.ua/337280-spetsnaz-zaderzhal-muzhchinu-kotoryj-vzjal-zhenshchinu-v-zalozhniki-v-kvartire.html
+	set tags gorod,kiev,kriminal,kvartira,muzhchina,policia,ukraina,zalozhnik
+page
+	set url https://strana.ua/articles/analysis/333770-chto-ukrainskie-zhurnalisty-sprosili-by-u-zelenskoho-na-press-konferentsii-20-maja.html
+	set tags __may_2021.zelenskii.press_konferencia.kiev,cenzura,panchenko_diana,presledovanie,press_konferencia,prezident,telenakaly,ukraina,vopros,zelenskii_vladimir,zhurnalist
+page
+	set url https://strana.ua/articles/analysis/337211-chto-znachat-dlja-ukrainy-dohovorennosti-g7-po-naloham.html
+	set tags cukerberg_mark.fb,dengi,ekonomika,facebook,finansy,google,internet,it,nalogi,obschestvo,socset,ukraina
 eof
 off
 page

@@ -31579,6 +31579,21 @@ page
 page
 	set url https://analytics.hvylya.net/231529-o-sudbe-ukrainskogo-eksperimenta-i-strategicheskom-zdravomyslii
 	set tags donbass,eksperiment,future,mir,myshlenie,obschestvo,peregovory,rossia,strategia,ukraina,vojna,zdravomyslie
+page
+	set url https://kharkov.strana.ua/337440-v-kharkove-umer-mikhail-karpeev-poslednij-v-horode-heroj-sovetskoho-sojuza.html
+	set tags harkov,karpeev_mihail.veteran.vov.harkov,mirvojna2,smert,ukraina,veteran,veteran.vov,vov
+page
+	set url https://strana.ua/news/337439-pevitsa-rimma-volkova-v-dtp-pohibla-narodnaja-artistka-rossii.html
+	set tags dtp,kultura,leningrad_obl.rossia,muzyka,rossia,smert,volkova_rimma.rossia.narodnaja_artistka
+page
+	set url https://riakursk.ru/v-kurske-na-ulitse-lenina-ustanavlivayut-tsvetochnye-derevya/
+	set tags cvety,gorod,krasota,kursk,lenin_vladimir,ozelenenie,priroda,rossia
+page
+	set url https://riakursk.ru/kuryanka-vasilina-ivanova-proshla-v-final-vserossiyskogo-muzykalnogo-konkursa-novaya-zvezda-2021/
+	set tags konkurs,kultura,kursk,muzyka,pesnja,pobeda,rossia,zheleznogorsk.kursk,zvezda
+page
+	set url http://lug-info.com/news/one/pochta-lnr-vvela-v-obrashenie-blok-marok-k-280-letiyu-otkrytiya-russkoj-ameriki-68847
+	set tags 280_let,amerika,amerika.russkaja,geografia,istoria,lnr,pochta.lnr,rossia,rusimperia,rusmir
 eof
 off
 page

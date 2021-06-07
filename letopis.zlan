@@ -31546,6 +31546,15 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210607/1031575379.html
 	set tags 222_goda,den.jazyka.russkogo,english,geopolitika,infvojna,jazyk,oruzhie,pobeda,pushkin_aleksandr,rossia,rusmir,zapad
+page
+	set url https://regnum.ru/news/3289480.html
+	set tags agressia,civil_war,donbass,poroshenko_petr,putin_vladimir,rossia,ukraina,vojna,zajavlenie
+page
+	set url https://iz.ru/1175109/2021-06-06/pushkov-prokommentiroval-formu-futbolistov-ukrainy-s-konturom-kryma
+	set tags forma.sportivnaja,futbol,futbolist,futbolka,kommentarii,krym,pushkov_aleksei,rossia,sport,ukraina
+page
+	set url https://iz.ru/1175470/2021-06-07/ugrozhavshii-vzorvat-ttc-na-ukraine-potreboval-vertolet-i-1-mln
+	set tags dengi,terrorizm,torgovyj_centr,trebovanie,ugroza,ukraina,vertolet,zaporozhie
 eof
 off
 page

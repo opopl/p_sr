@@ -30941,7 +30941,7 @@ todo
 	set rids 10165,10177
 
 	# news.ua.hvylya 
-	set rids 10039,10104
+	set rids 10039,10104,10364,10365
 
 	# news.nvr.voshod_info
 	set rids 10179,10180,10181,10247
@@ -31555,6 +31555,30 @@ page
 page
 	set url https://iz.ru/1175470/2021-06-07/ugrozhavshii-vzorvat-ttc-na-ukraine-potreboval-vertolet-i-1-mln
 	set tags dengi,terrorizm,torgovyj_centr,trebovanie,ugroza,ukraina,vertolet,zaporozhie
+page
+	set url https://strana.ua/opinions/337419-bolshaja-posadka-bespritulnyj-holos-otstupajushchij-koronavirus.html
+	set tags itogi,raketa.korabl.dnepr,ukraina
+page
+	set url https://strana.ua/opinions/337417-lozunh-natsionalistov-na-futbolkakh-sbornoj-ukrainy-uzhe-ne-udivljaet.html
+	set tags __jun_2021.futbol.ukraina.forma,forma.sportivnaja,futbol,skandal,sport,ukraina
+page
+	set url https://strana.ua/news/337404-posolstvo-ssha-odobrilo-novuju-formu-sbornoj-ukrainy.html
+	set tags __jun_2021.futbol.ukraina.forma,lozung.slava_ukraine,posolstvo_usa,skandal,ukraina,us_embassy.ukraina,usa
+page
+	set url https://strana.ua/news/334625-posolstvo-ssha-rasskazalo-kak-zashchitit-antikorruptsionnye-orhany-ukrainy.html
+	set tags trebovanie,ukraina,us_embassy.ukraina,usa
+page
+	set url https://strana.ua/news/337388-k-elene-bondarenko-nahrjanuli-s-povestkoj-sotrudnik-sbu-no-ne-zastali-ee-doma.html
+	set tags bondarenko_elena,deputat,kvartira,povestka,sbu,ukraina
+page
+	set url https://analytics.hvylya.net/231606-pro-revolyuciyu-gidnosti-ta-jiji-naslidki
+	set tags 2013,2014,analitika,janukovich_viktor,kiev,maidan2,revgidnosti,ukraina
+page
+	set url https://analytics.hvylya.net/231637-ukrajinskiy-segment-facebook-pid-kontrolem-rosiyan-shcho-z-cim-robiti
+	set tags ajdar.bataljon,facebook,infvojna,internet,rossia,socset,ukraina
+page
+	set url https://analytics.hvylya.net/231529-o-sudbe-ukrainskogo-eksperimenta-i-strategicheskom-zdravomyslii
+	set tags donbass,eksperiment,future,mir,myshlenie,obschestvo,peregovory,rossia,strategia,ukraina,vojna,zdravomyslie
 eof
 off
 page

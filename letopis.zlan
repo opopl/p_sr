@@ -31594,6 +31594,12 @@ page
 page
 	set url http://lug-info.com/news/one/pochta-lnr-vvela-v-obrashenie-blok-marok-k-280-letiyu-otkrytiya-russkoj-ameriki-68847
 	set tags 280_let,amerika,amerika.russkaja,geografia,istoria,lnr,pochta.lnr,rossia,rusimperia,rusmir
+page
+	set url http://lug-info.com/news/one/uchrezhdeniya-obrazovaniya-luganska-zapustili-11-letnih-onlajn-lagerej-meriya-68863
+	set tags deti,lager,leto,lnr,lugansk,obrazovanie,ucheba
+#page
+	#set url https://from-ua.com/articles/375391-za-veru-carya-i-otechestvo-raznovidnosti-ukrainskogo-patriotizma.html
+	#set tags obschestvo,patriotizm,rodina,ukraina
 eof
 off
 page

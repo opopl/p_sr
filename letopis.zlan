@@ -31518,6 +31518,12 @@ page
 page
 	set url https://ukraina.ru/opinion/20210601/1031516612.html
 	set tags chelovechnost,chelovek,jazyk,mova,nacizm,obschestvo,ukraina,ukrainizacia,vopros.russkij
+page
+	set url https://strana.ua/articles/analysis/336989-podloh-i-tishchenko-kak-kum-ermaka-zakhotel-vlijat-na-otnoshenija-s-venhriej.html
+	set tags dip_otnoshenia,druzhba,opzzh,podlog,shufrich_nestor,sluga_naroda,tischenko_nikolai.deputat,ukraina,vengria,verhovna_rada,zakarpatie
+page
+	set url https://strana.ua/opinions/337265-s-vojnoj-v-rodnoj-strane-nikak-nelzja-primiritsja.html
+	set tags donbass,kniga,kurkov_andrej,ukraina,vojna
 eof
 off
 page

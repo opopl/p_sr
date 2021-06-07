@@ -31537,6 +31537,9 @@ page
 page
 	set url https://strana.ua/articles/analysis/337211-chto-znachat-dlja-ukrainy-dohovorennosti-g7-po-naloham.html
 	set tags cukerberg_mark.fb,dengi,ekonomika,facebook,finansy,google,internet,it,nalogi,obschestvo,socset,ukraina
+page
+	set url https://strana.ua/news/337344-v-krymu-efim-fiks-zajavil-o-hotovnosti-obrashchatsja-v-mezhdunarodnyj-sud-iz-za-vodnoj-blokady.html
+	set tags __blokada.krym.voda,blokada,kiev,krym,rossia,sud,ukraina,voda
 eof
 off
 page

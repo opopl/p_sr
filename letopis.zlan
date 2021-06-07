@@ -31540,6 +31540,9 @@ page
 page
 	set url https://strana.ua/news/337344-v-krymu-efim-fiks-zajavil-o-hotovnosti-obrashchatsja-v-mezhdunarodnyj-sud-iz-za-vodnoj-blokady.html
 	set tags __blokada.krym.voda,blokada,kiev,krym,rossia,sud,ukraina,voda
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/ocherednaia-zradaperemoga-60bcd9017f99d3334f137ae4
+	set tags analiz,jumor,kiev,peremoga,ukraina,zapad,zrada
 eof
 off
 page

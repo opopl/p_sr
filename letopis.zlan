@@ -31515,6 +31515,9 @@ page
 page
 	set url https://strana.ua/news/337207-video-kravchuk-prizval-otrezat-donbass-ot-ukrainy-kak-rakovuju-opukhol.html
 	set tags cancer,donbass,gonchar_oles.pisatel.ukr,interview,kravchuk_leonid,opuhol,oskorblenie,slaboumie,sravnenie,tv,ukraina
+page
+	set url https://ukraina.ru/opinion/20210601/1031516612.html
+	set tags chelovechnost,chelovek,jazyk,mova,nacizm,obschestvo,ukraina,ukrainizacia,vopros.russkij
 eof
 off
 page

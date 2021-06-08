@@ -31639,6 +31639,12 @@ page
 page
 	set url https://fakty.ua/377538-andrej-antonenko-pust-teper-te-kto-pridumal-nashu-istoriyu-dumayut-kak-budut-iz-nee-vyhodit
 	set tags __2016.sheremet_pavel.murder.kiev,antonenko_andrej.riffmaster,avakov_arsen,kiev,kriminal,murder,muzyka,muzykant,patriot,policia,sheremet_pavel,smert,ukraina
+page
+	set url https://zen.yandex.ru/media/trickster/pochemu-na-pravoslavnom-kreste-perekladina-kosaia-5f679b554c07ce06046f7521
+	set tags cerkov,istoria,krest.pravoslavnyj,pravoslavie,rusmir,vera,vopros
+page
+	set url https://zen.yandex.ru/media/baba_yaga/forma-ne-glavnoe--glavnoe-soderjanie-i-v-sporte-toje-60be28af1b3f5c222619708c
+	set tags __jun_2021.futbol.ukraina.forma,forma.sportivnaja,futbol,futbolist,krym,politika,rossia,skandal,sport,ukraina
 eof
 off
 page

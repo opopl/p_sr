@@ -31726,6 +31726,18 @@ page
 page
 	set url https://zen.yandex.ru/media/v780/po-sledam-velikogo-kniazia-k-kakim-gorodam-dotianulis-ruki-iuriia-dolgorukogo-60a8c21aed6cd079c9d32126
 	set tags dolgorukij_jurij,istoria,kiev,kievrus,rossia,rusmir
+page
+	set url https://day.kyiv.ua/uk/article/podrobyci/ochystytysya-shchob-vyzhyty
+	set tags forum,kiev,korupcia,obschestvo,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/hto-navazhytsya-zupynyty
+	set tags demokratia,geopolitika,izdevatelstvo,putin_vladimir,rossia,ukraina,zapad
+page
+	set url https://www.radiosvoboda.org/a/video-transplantatsiya-orhaniv-ukrayina-bilorus/31297010.html
+	set tags __may_2021.aviacia.zapret.belarus,belarus,lechenie,operacia,transplantacia,trebovanie,ukraina,ukraincy
+page
+	set url https://sharij.net/botoksnoe-zhivotnoe-i-tuhloryloe-sosalishhe-kak-patrioty-nakinulis-na-blogershu-iz-za-video-protiv-voennyh
+	set tags __jun_2021.blogger.kovalenko_anja.armia.harkov,armia,blogger,harkov,oskorblenie,skandal,ukraina,vsu
 eof
 off
 page

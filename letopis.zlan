@@ -30955,8 +30955,12 @@ todo
 	# extra space at end, see author_line
 	set rids 10200
 
+	# news.ua.censor
+	set rids 10420
+
 	condition
 		site news.ua.hvylya
+		site news.ua.censor
 		site news.ua.radiosvoboda
 		site news.ua.pravda
 		site news.nvr.voshod_info
@@ -31738,6 +31742,12 @@ page
 page
 	set url https://sharij.net/botoksnoe-zhivotnoe-i-tuhloryloe-sosalishhe-kak-patrioty-nakinulis-na-blogershu-iz-za-video-protiv-voennyh
 	set tags __jun_2021.blogger.kovalenko_anja.armia.harkov,armia,blogger,harkov,oskorblenie,skandal,ukraina,vsu
+page
+	set url https://sharij.net/voda-iz-dnepra-nachala-postupat-v-severo-krymskij-kanal
+	set tags __blokada.krym.voda,blokada,damba,dnepr,herson,krym,severo_krymskij_kanal,ukraina,voda
+page
+	set url https://censor.net/ru/blogs/3270071/kak_rabotayut_revolyutsii_etapy_rezultaty_sroki
+	set tags analiz,issledovanie,obschestvo,revolucia,sistema
 eof
 off
 page

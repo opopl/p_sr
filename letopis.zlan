@@ -31645,6 +31645,87 @@ page
 page
 	set url https://zen.yandex.ru/media/baba_yaga/forma-ne-glavnoe--glavnoe-soderjanie-i-v-sporte-toje-60be28af1b3f5c222619708c
 	set tags __jun_2021.futbol.ukraina.forma,forma.sportivnaja,futbol,futbolist,krym,politika,rossia,skandal,sport,ukraina
+page
+	set url https://strana.ua/news/337531-na-prikarpate-avarijnye-sluzhby-likvidirujut-posledstvija-vzryva-na-hazoprovode.html
+	set tags avaria,evakuacia,gaz,gazoprovod,prikarpatie,ukraina,vzryv
+page
+	set url https://kiev.strana.ua/335674-sbu-provela-antiterroristicheskie-uchenija-v-metro-kieva.html
+	set tags antiterror,kiev,metro.kiev,sbu,terrorist,terrorizm,uchenija,ukraina,metro
+page
+	set url https://kiev.strana.ua/331824-v-kievskoj-oblasti-predupredili-ob-uchenijakh-politsii.html
+	set tags gorod,kiev,kievljane,policia,spokojstvie,uchenija,ukraina
+page
+	set url https://strana.ua/news/337530-na-zakarpate-pohib-malenkij-rebenok-vypal-iz-koljaski.html
+	set tags deti,halatnost',rebenok,roditeli,semja,smert,tragedia,ukraina,zakarpatie
+page
+	set url https://strana.ua/news/337360-donbass-kak-rakovaja-opukhol-est-li-eto-v-dnevnikakh-olesja-honchara.html
+	set tags cancer,chelovechnost,donbass,kravchuk_leonid,nenavist,opuhol,opuhol.rakovaja,oskorblenie,reznikov_aleksei,terapia,ukraina,unizhenie,gonchar_oles,fraza,_important
+page
+	set url https://strana.ua/news/337528-torhovye-svjazi-ukrainy-s-rossiej-budut-sokhranjatsja.html
+	set tags ekonomika,kabmin,obeschanie,rossia,torgovlja,ukraina,vojna
+page
+	set url https://strana.ua/news/337518-blohersha-jana-kovalenko-obozvala-ukrainskikh-voennosluzhashchikh-tvarjami-.html
+	set tags armia,blogger,harkov,oskorblenie,skandal,ukraina,unizhenie,video,vojna,vsu
+page
+	set url https://strana.ua/news/337521-britanka-peshkom-doshla-iz-ukrainy-do-uelsa.html
+	set tags britanec,britania,cancer,kiev,peshehod,peshkom,puteshestvie,ukraina
+page
+	set url https://strana.ua/news/337500-pod-zhitomirom-veteran-ato-ustroil-ponozhovshchinu.html
+	set tags ato,donbass,kriminal,murder,obschestvo,smert,tragedia,ukraina,veteran,veteran.ato,vojna,zhitomir
+page
+	set url https://kiev.strana.ua/337572-v-kieve-za-zamechanie-o-maske-byl-izbit-klienta-zapravki.html
+	set tags draka,gorod,izbienie,kiev,kriminal,krov',krovoprolitie,maska,napadenie,policia,ukraina,zamechanie,zapravka.avto
+page
+	set url https://strana.ua/opinions/337563-khoroshij-prezident-tot-kotoryj-ostavljaet-posle-sebja-prekrasnuju-i-silnuju-stranu.html
+	set tags gimn,obschestvo,prezident,strana,ukraina
+page
+	set url https://strana.ua/opinions/337558-dlja-manipuljatsij-s-informatsiej-ljudej-i-brali-v-ofis-prezidenta.html
+	set tags biden_joe,geopolitika,informacia,manipuljacia,nato,ofis_prezidenta,ukraina,usa,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/337567-khorosho-li-my-predstavljaem-sebe-chto-eto-takoe-nato.html
+	set tags geopolitika,istoria,nato,nato.ukraina.vstuplenie,sssr,ukraina
+page
+	set url https://strana.ua/opinions/337565-vperedi-zakhvatyvajushchij-serial-s-borboj-zelenskoho-i-klichko.html
+	set tags gorod,kiev,kievljane,klichko_vitalij,serial,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/articles/analysis/337535-kak-milliard-derevev-ot-ze-mozhet-stat-novoj-zemelnoj-skhemoj.html
+	set tags ekologia,les,obschestvo,obsuzhdenie,posadka.derevja,priroda,ukraina,zelenskii_vladimir
+page
+	set url https://kiev.strana.ua/337562-v-kieve-na-stantsii-karavaevy-dachi-pohib-muzhchina.html
+	set tags gorod,kiev,poezd,smert,tragedia,ukraina,ukrzaliznycia
+page
+	set url https://kiev.strana.ua/337581-stolichnyj-stomatoloh-pytalsja-ubit-svoju-teshchu-povrezhiv-tormoza-v-avto.html
+	set tags avto,gorod,kiev,kriminal,pokushenie,stomatolog,tescha,tormoz,tormoz.avto,ukraina,prokuratura
+page
+	set url https://strana.ua/news/337559-vladimir-zelenskij-predlozhil-postroit-poltory-tysjachi-parkov.html
+	set tags dnepropetrovsk,posadka.derevja,priroda,ukraina,zajavlenie,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/337599-kovid-okazalsja-horazdo-kovarnee-i-opasnee-chem-predpolahalos.html
+	set tags bolezn,chelovek,covid,depressia,new_york,pandemia,psihika,psihologia,rasstrojstvo,rasstrojstvo.psihicheskoje,shizofrenia,usa
+page
+	set url https://strana.ua/opinions/337602-esli-plan-okonchanija-vojny-vstuplenie-v-nato-to-eto-nerealnyj-plan.html
+	set tags danilov_aleksei,donbass,nato,strategia,ukraina,vlast,vojna
+page
+	set url https://strana.ua/opinions/337604-poroshenko-primazalsja-zelenskij-sazhaet-ukraintsy-nedovolny.html
+	set tags itogi,obschestvo,politika,poroshenko_petr,ukraina,vybory,zelenskii_vladimir
+page
+	set url https://kiev.strana.ua/337595-video-pozhara-v-tsentre-kieva-hde-shorel-avtomobil.html
+	set tags avto,gorod,kiev,pozhar,ukraina
+page
+	set url https://strana.ua/articles/istorii/337390-chto-izmenili-v-kriminalnom-mire-sanktsii-snbo-protiv-vorov-v-zakone.html
+	set tags danilov_aleksei,kriminal,obschestvo,rnbo,smotrjaschij,ukraina,vor_v_zakone
+page
+	set url https://lb.ua/blog/sonya_koshkina/486531_rahmaninov_snachala_smert_potom.html
+	set tags fortepiano,kultura,muzyka,rahmaninov_sergei.kompozitor.rossia,smert,zhizn
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/prorab-putin-60bf03f84adb2513a36a4349
+	set tags analiz,analogia,metafora,obschestvo,prorab,putin_vladimir,rassuzhdenie,rossia,stroitelstvo,vlast
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/russkii-duh-shagaet-po-planete-i-pronikaet-vsiudu-60bcbd2ce14854002ec1679c
+	set tags duh,duh.russkij,duhovnost,rossia,rusmir,russkie,skazka
+page
+	set url https://zen.yandex.ru/media/v780/po-sledam-velikogo-kniazia-k-kakim-gorodam-dotianulis-ruki-iuriia-dolgorukogo-60a8c21aed6cd079c9d32126
+	set tags dolgorukij_jurij,istoria,kiev,kievrus,rossia,rusmir
 eof
 off
 page

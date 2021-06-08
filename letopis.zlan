@@ -30947,7 +30947,7 @@ todo
 	set rids 10179,10180,10181,10247
 
 	# news.ua.pravda
-	set rids 10268,10271
+	set rids 10268,10271,10381
 
 	# news.ua.radiosvoboda 
 	# no author - igor rozdobudko
@@ -31600,6 +31600,38 @@ page
 #page
 	#set url https://from-ua.com/articles/375391-za-veru-carya-i-otechestvo-raznovidnosti-ukrainskogo-patriotizma.html
 	#set tags obschestvo,patriotizm,rodina,ukraina
+page
+	set url https://strana.ua/news/337454-v-rossii-v-tiktok-proslavilsja-syn-svjashchennika-kotoryj-uchit-ihrat-na-kolokolakh.html
+	set tags blogger,cerkov,pravoslavie,rossia,tiktok,vera,video
+page
+	set url https://strana.ua/opinions/337459-k-chemu-privedet-tak-nazyvaemaja-deoliharkhizatsija.html
+	set tags deoligarhizacia,obschestvo,oligarh,ukraina
+page
+	set url https://strana.ua/opinions/337461-prezidentskij-universitet-budushcheho-vyhljadit-stranno-po-sravneniju-s-nastojashchim.html
+	set tags filosofia,future,obrazovanie,obschestvo,prezident,strannost',ukraina,universitet
+page
+	set url https://strana.ua/opinions/337462-eshche-odnoj-diktatury-v-tsentre-evropy-nikto-ne-dopustit.html
+	set tags diktatura,evropa,obschestvo,oligarhi,ukraina,vlast,zemlja
+page
+	set url https://strana.ua/opinions/337464-zelenskij-eto-antinomija-po-ukrainski-tochnee-absurdopedija.html
+	set tags absurdopedia,antinomia,filosofia,logika,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/337455-sud-ostavil-bez-izmenenij-pozhiznennyj-prihovor-ubijtse-voditelja-blablacar.html
+	set tags 2016,__2016.blablacar.murder.lvov,blablacar,lvov,murder,pravyj_sektor,prigovor,sud,ukraina
+page
+	set url https://strana.ua/news/337297-prodazha-zemli-s-1-ijulja-v-ukraine-chto-hovorjat-seljane-opros-antoniny-belohlazovoj.html
+	set tags beloglazova_antonina.kiev.stranaua,opros,seljane,selo,ukraina,zemlja,zemlja.prodazha.ukr,zhitomir,zhitomir_obl.ukr
+page
+	set url https://strana.ua/news/337279-zelenskij-intervju-axios-zrada-po-severnomu-potoku-nato-i-vstreche-s-putinym.html
+	set tags biden_joe,gazeta.axios.usa,interview,nato,razocharovanie,udivlenie,usa,zelenskii_vladimir
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://life.pravda.com.ua/health/2021/06/7/245103/
+	set tags anevrizma,bolezn,chelovek,insult,lechenie,medicina,mozg.golovnoj,ukraina,zdorovje,zhizn
 eof
 off
 page

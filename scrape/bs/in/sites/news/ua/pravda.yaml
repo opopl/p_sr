@@ -51,14 +51,14 @@ PageParser:
             }
           }
         }
-      - {
-          'name' : {
-            'find'  : '.autor-name',
-            'get'   : 'text',
-            'split' : '',
-          },
-          'url' : {}
-        }
+#      - {
+          #'name' : {
+            #'find'  : '.autor-name',
+            #'get'   : 'text',
+            #'split' : '',
+          #},
+          #'url' : {}
+        #}
   get_date_html:
     sels:
       - { 

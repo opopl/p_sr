@@ -30947,7 +30947,7 @@ todo
 	set rids 10179,10180,10181,10247
 
 	# news.ua.pravda
-	set rids 10268,10271,10381
+	set rids 10268,10271,10381,10383
 
 	# news.ua.radiosvoboda 
 	# no author - igor rozdobudko
@@ -31624,14 +31624,21 @@ page
 page
 	set url https://strana.ua/news/337279-zelenskij-intervju-axios-zrada-po-severnomu-potoku-nato-i-vstreche-s-putinym.html
 	set tags biden_joe,gazeta.axios.usa,interview,nato,razocharovanie,udivlenie,usa,zelenskii_vladimir
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://life.pravda.com.ua/health/2021/06/7/245103/
 	set tags anevrizma,bolezn,chelovek,insult,lechenie,medicina,mozg.golovnoj,ukraina,zdorovje,zhizn
+page
+	set url https://blogs.pravda.com.ua/authors/kulebazhenya/60bf05b1d7b97/
+	set tags gorod,karpaty,kiev,kiev.prudy.sovskije,klimat,ozero.vyrlycja.kiev,pogoda,priroda,ukraina,voda
+page
+	set url https://www.epravda.com.ua/columns/2021/06/8/674747/
+	set tags aviacia,gosudarstvo,obschestvo,politika,razvitie,strana,ukraina
+page
+	set url https://fakty.ua/377791-v-kremle-osoznayut-chto-krym-ukrainskij-a-imi-on-banalno-ukraden---borislav-bereza
+	set tags __jun_2021.futbol.ukraina.forma,bereza_borislav,forma.sportivnaja,futbol,isteria,kreml,krym,mid_rf,rossia,skandal,ukraina,zaharova_maria
+page
+	set url https://fakty.ua/377538-andrej-antonenko-pust-teper-te-kto-pridumal-nashu-istoriyu-dumayut-kak-budut-iz-nee-vyhodit
+	set tags __2016.sheremet_pavel.murder.kiev,antonenko_andrej.riffmaster,avakov_arsen,kiev,kriminal,murder,muzyka,muzykant,patriot,policia,sheremet_pavel,smert,ukraina
 eof
 off
 page

@@ -31856,6 +31856,9 @@ page
 page
 	set url https://zen.yandex.ru/media/olegkolobov/mesto-sily-60b65c3fab10d057bb8286be
 	set tags 1337,hram,istoria,monastyrj,moskva,pravoslavie,rossia,sergij_ranonezhskij.monah.rusj,sila,vera
+page
+	set url https://gazeta.ua/articles/culture/_suspilstvo-perebuvaye-u-stani-shoku/1036657
+	set tags chtenie,festival,festival.kiev.knizhnii_arsenal,kniga,kultura,obschestvo,ukraina
 eof
 off
 page

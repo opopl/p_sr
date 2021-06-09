@@ -31811,6 +31811,9 @@ page
 page
 	set url https://strana.ua/opinions/337722-eta-vlast-postroila-nam-kunstkameru-v-smartfone.html
 	set tags kunstkamera,smartfon,strana,ukraina,vlada,vlast,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/337727-i-v-ssha-est-svoi-oliharkhi-i-oni-tozhe-ne-platjat-nalohi.html
+	set tags ekonomika,nalogi,oligarhi,usa
 eof
 off
 page

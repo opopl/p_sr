@@ -30951,7 +30951,7 @@ todo
 
 	# news.ua.radiosvoboda 
 	# no author - igor rozdobudko
-	set rids 10139
+	set rids 10139,10432
 	# extra space at end, see author_line
 	set rids 10200
 
@@ -30967,8 +30967,14 @@ todo
 
 	problem time,img
 	set rids 10248
+
+	# zen.yandex.ru
+	# 	not all images were loaded
+	set rids 10434
+
 	condition
 		site kultura.ru.ukrcentr
+		site zen.yandex.ru
 page
 	set url https://sharij.net/otecz-kazanskogo-strelka-o-tom-kak-zhivyot-ih-semya-posle-massovogo-ubijstva-v-shkole
 	set tags __may_2021.rossia.kazan.shkola.tragedia
@@ -31763,17 +31769,36 @@ page
 page
 	set url https://strana.ua/opinions/337640-ukraintsy-znajut-kak-ne-obidet-poljakov.html
 	set tags 14_oct,belarus,den.pokrovy_bogomateri,den.ukr.kozactva,hitrost,istoria,polsha,prazdnik,prazdnovanie,ukraina,ukraina_zapad,ussr
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/news/337524-elena-bondarenko-rasskazala-o-detaljakh-vizita-sbu.html
 	set tags bondarenko_elena,deputat,kvartira,rassledovanie,sbu,ukraina,vizit
 page
 	set url https://strana.ua/opinions/337642-vozmozhno-britanskikh-ekspertov-pokusali-ukrainskie-kollehi.html
 	set tags agressia,armia,britanec,deboshir,ekspert,ekspert.britanskij,estonia,evropa,lechenie,nato,pjanstvo,putin_vladimir,russofobia,unizhenie
+page
+	set url https://strana.ua/opinions/337646-my-zhivem-v-obshchestve-prevrashchennom-v-spektakl.html
+	set tags obschestvo,realnost',spektakl,teatr,ukraina
+page
+	set url https://strana.ua/news/337671-pashinjan-rasporjadilsja-predlozhit-obmenjat-svoeho-syna-na-vsekh-plennikov.html
+	set tags _important,armenia,azerbajdzhan,obmen,pashinjan_nikol,plennye,vojna,zalozhnik
+page
+	set url https://strana.ua/news/337654-movnyj-ombudsmen-proveril-inter-11-trk-ukraina-i-ictv-na-normy-ukrainskoho-jazyka.html
+	set tags jazyk,kremin_taras,mova,shtraf,tv,ukraina,ukrainizacia,zhaloba
+page
+	set url https://www.pravda.com.ua/articles/2021/06/9/7296542/
+	set tags arestovich_aleksei,dezinformacia,facebook,infvojna,rnbo,ukraina,vranje
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-i-druha-svitova-viyna/31294084.html
+	set tags 1941,germania,istoria,mirvojna2,nacizm,otstuplenie,sssr,ukraina,vov
+page
+	set url https://zen.yandex.ru/media/id/5ea15c1ac8c4f56528e812a6/jenscina-vne-vremeni-olga-pervaia-kniaginia-kievskoi-rusi-608136bf6f9a7c4d10ed484c
+	set tags drevljane,istoria,kiev,kievrus,knjaz_svjatoslav_igorevich.rus',olga_knjaginja,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/dutch_in_russia/gollandec-v-rossii-chto-menia-izumliaet-v-russkom-detsadike-na-primere-sluchaia-v-nashem-sadike-60bfce6dd7c53f09a81bad33
+	set tags deti,gollandec_v_rossii,gollandia,inostrancy,obschestvo,rossia,rusmir,semja,udivlenie,vpechatlenie,zhizn
+page
+	set url http://lug-info.com/news/one/kiev-nachal-ubivat-zhitelej-donbassa-za-ih-reshenie-sohranit-druzhbu-s-rossiej-pasechnik-68931
+	set tags 2014,donbass,jazyk,kiev,lnr,lugansk,pasechnik_leonid,ubijstvo,ukraina,vojna
 eof
 off
 page

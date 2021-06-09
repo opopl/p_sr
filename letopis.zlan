@@ -31751,6 +31751,29 @@ page
 page
 	set url https://zen.yandex.ru/media/rockstory/zabvenie-nisceta-i-emigraciia-v-germaniiu-kak-slojilas-sudba-pevicy-ispolnivshei-znamenituiu-pesniu-prekrasnoe-daleko-60998916b8f34b04d24555cc
 	set tags film,film.gostja_iz_buduschego,kino,kultura,muzyka,pesnja,pesnja.prekrasnoje_daleko,rossia,sssr
+page
+	set url https://strana.ua/news/337608-pdch-v-nato-podarok-zelenskomu-ot-poroshenko-klichko-zapretili-chtit-natsistov.html
+	set tags bankova,biden_joe,kiev,konfuz,nato,ofis_prezidenta,politika,telefon,ukraina,usa,zvonok
+page
+	set url https://strana.ua/news/337648-v-sele-paryshkov-kievskoj-oblasti-krestjanin-obstreljal-muzhchinu-i-zhenshchinu-iz-za-laja-sobaki.html
+	set tags deboshir,kiev,sobaka,strelba,ukraina
+page
+	set url https://strana.ua/news/331414-v-permi-passazhirka-taksi-vystrelila-v-voditelja-iz-za-stoimosti-poezdki-.html
+	set tags cena,devushka,oruzhie,permj.rossia,pokushenie,rossia,ssora,strelba,taksi,taksist,vystrel
+page
+	set url https://strana.ua/opinions/337640-ukraintsy-znajut-kak-ne-obidet-poljakov.html
+	set tags 14_oct,belarus,den.pokrovy_bogomateri,den.ukr.kozactva,hitrost,istoria,polsha,prazdnik,prazdnovanie,ukraina,ukraina_zapad,ussr
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.ua/news/337524-elena-bondarenko-rasskazala-o-detaljakh-vizita-sbu.html
+	set tags bondarenko_elena,deputat,kvartira,rassledovanie,sbu,ukraina,vizit
+page
+	set url https://strana.ua/opinions/337642-vozmozhno-britanskikh-ekspertov-pokusali-ukrainskie-kollehi.html
+	set tags agressia,armia,britanec,deboshir,ekspert,ekspert.britanskij,estonia,evropa,lechenie,nato,pjanstvo,putin_vladimir,russofobia,unizhenie
 eof
 off
 page

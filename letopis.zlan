@@ -31802,14 +31802,15 @@ page
 page
 	set url https://strana.ua/news/337523-strana-jua-i-ee-stati-o-natsistakh-vyzvali-hnev-hrantoedov-analiz-skandala.html
 	set tags grantojedy,issledovanie,nacizm,napadki,radio_svoboda,ss_galichina,strana_ua,struktura.grantovaja,ukraina,ultrapravyje
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/news/337702-khovanskij-za-chto-zaderzhali-rossijskoho-blohera-video-pesni.html
 	set tags 2002,blogger,hovanskij_jurij.blogger.rossia,rosgvardia,rossia,terrorizm,tragedia.nord_ost.2002,zaderzhanie,deti
+page
+	set url https://strana.ua/opinions/337686-na-hlazakh-narastaet-hrandioznyj-krizis-ukrainskoj-hosudarstvennosti.html
+	set tags future,gosudarstvo,krizis,predskazanie,ukraina
+page
+	set url https://strana.ua/opinions/337722-eta-vlast-postroila-nam-kunstkameru-v-smartfone.html
+	set tags kunstkamera,smartfon,strana,ukraina,vlada,vlast,zelenskii_vladimir
 eof
 off
 page

@@ -31823,6 +31823,21 @@ page
 page
 	set url https://strana.ua/news/337783-putin-nazval-urodlivym-zakonoproekt-zelenskoho-o-korennykh-narodakh.html
 	set tags germania,germania.nacistkaja,interview,narod,narod.korennoj,putin_vladimir,rossia,tv,tv.rossia,ukraina,zakon,zakonoprojekt
+page
+	set url https://zen.yandex.ru/media/id/6086a135864c455717b619dc/pochemu-rossiia-nepobedima-osobennosti-mentaliteta-i-paradoksalnaia-strategiia-60a9fa1c288764247f307941
+	set tags 1242,bitva,istoria,mentalitet,narod,narod.russkij,pobeda,rossia,rusmir,russkie,strategia
+page
+	set url https://plus.obozrevatel.com/crime/svyazal-prostyini-i-vyilez-s-pyatogo-etazha-voenkomata-zhena-parnya-obvinyaet-voennyih-v-nasilii.htm
+	set tags armia,padenie,reanimacia,ternopol,teroborona,travma,ukraina,voenkomat
+page
+	set url https://zen.yandex.ru/media/id/5d3b5c43d4f07a00aeb160c2/monah-predskazal-ujasnoe-buduscee-dlia-vsego-mira-60be79565bad2d210c686d25
+	set tags cerkov,future,monah,pravoslavie,predskazanie,rossia,vera
+page
+	set url https://news.obozrevatel.com/society/ukraintsyi-nazvali-vinovnogo-v-vojne-na-donbasse-rezultatyi-sotsoprosa.htm
+	set tags agressia,donbass,rossia,sociologia,socopros,ukraina,vojna
+page
+	set url https://zen.yandex.ru/media/id/5efc5f06e51de179553e0b3b/v-chem-sekret-populiarnosti-aleksandry-russkoi-rakety-trusovoi-60be616852820d0e66b9c44b
+	set tags bolelschik,devushka,figurist,figurnoje_katanie,krasota,rossia,sport,trusova_aleksandra
 eof
 off
 page

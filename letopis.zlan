@@ -31838,6 +31838,24 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5efc5f06e51de179553e0b3b/v-chem-sekret-populiarnosti-aleksandry-russkoi-rakety-trusovoi-60be616852820d0e66b9c44b
 	set tags bolelschik,devushka,figurist,figurnoje_katanie,krasota,rossia,sport,trusova_aleksandra
+page
+	set url https://gazeta.ua/articles/history/_ci-nema-u-vas-charki-gorilki-yak-poznajomilis-sevchenko-ta-kulish/1036539
+	set tags alkogol,isskustvo,istoria,kiev,kulish_pantelejmon,kultura,literatura,rybalka,shevchenko_taras,ukraina,znakomstvo
+page
+	set url https://gazeta.ua/blog/55214/poperedu-visnazhliva-borotba-meni-potribna-vasha-pidtrimka-ta-dopomoga
+	set tags borjba,chelovek,diagnoz,obschestvo,onkologia,podderzhka,pomosch,svoboda,ukraina,zhizn
+page
+	set url https://gazeta.ua/blog/55213/rosijskij-film-pro-cornobil-lidiruye-v-ukrayinskomu-netfliksi
+	set tags 1986,atomic_energy,chaes,chernobyl,film,istoria,katastrofa,kino,kozlovskij_danila,kultura,netflix,rossia,sssr,ukraina,vpechatlenie
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/blokada-kryma-dala-tech-60bf95efdf00c7571da1937d
+	set tags __blokada.krym.voda,blokada,krym,rossia,ukraina,voda
+page
+	set url https://zen.yandex.ru/media/vzgljad_v_glubinu_vekov/glavnyi-evropeiskii-ekstremalnyi-attrakcion-raz-v-sto-let-napast-na-rossiiu-60bdf48fb30d1d1ae9a3d366
+	set tags 2014,attrakcion,napadenie,rossia,russkie,sankcii,stoletie,vrag
+page
+	set url https://zen.yandex.ru/media/olegkolobov/mesto-sily-60b65c3fab10d057bb8286be
+	set tags 1337,hram,istoria,monastyrj,moskva,pravoslavie,rossia,sergij_ranonezhskij.monah.rusj,sila,vera
 eof
 off
 page

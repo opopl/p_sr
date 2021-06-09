@@ -31814,6 +31814,15 @@ page
 page
 	set url https://strana.ua/opinions/337727-i-v-ssha-est-svoi-oliharkhi-i-oni-tozhe-ne-platjat-nalohi.html
 	set tags ekonomika,nalogi,oligarhi,usa
+page
+	set url https://strana.ua/opinions/337753-sovremennye-ukrainskie-politiki-akvanavty-teploj-vanny.html
+	set tags analiz,fantazia,fantazirovanie,informacia,obschestvo,politika,probka.vanna,ukraina,vanna,voda
+page
+	set url https://strana.ua/news/337751-horsovet-irpenja-po-sluchaju-dnja-nezavisimosti-ukrainy-khochet-pereimenovat-ulitsy.html
+	set tags irpenj.kiev,kiev,nezalezhnist,pereimenovanija,ukraina
+page
+	set url https://strana.ua/news/337783-putin-nazval-urodlivym-zakonoproekt-zelenskoho-o-korennykh-narodakh.html
+	set tags germania,germania.nacistkaja,interview,narod,narod.korennoj,putin_vladimir,rossia,tv,tv.rossia,ukraina,zakon,zakonoprojekt
 eof
 off
 page

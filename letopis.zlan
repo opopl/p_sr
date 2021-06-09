@@ -31859,6 +31859,15 @@ page
 page
 	set url https://gazeta.ua/articles/culture/_suspilstvo-perebuvaye-u-stani-shoku/1036657
 	set tags chtenie,festival,festival.kiev.knizhnii_arsenal,kniga,kultura,obschestvo,ukraina
+page
+	set url https://question-it.com/questions/948068/python-selenium-oshibka-elementnotinteractableexception-pri-nazhatii
+	set tags pc,python3,scraping,selenium
+page
+	set url https://zaxid.net/yak_metafori_ta_mifi_keruyut_nashoyu_uyavoyu_n1520330
+	set tags berestechko,bitva,bitva.berestechko.1651,chelovek,dusha,grecia,istoria,kazaki,metafora,mifologia,mify,myshlenie,psihologia,sparta,strana_ua,ukraina,voobrazhenie
+page
+	set url https://zaxid.net/mistetstvo_v_dobu_prividiv_u_mashinah_n1503072
+	set tags artificial_intelligence,chelovek,future,humanity,isskustvo,kartina,kompjuter,neural_network,vopros
 eof
 off
 page

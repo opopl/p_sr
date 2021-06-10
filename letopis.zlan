@@ -32000,6 +32000,9 @@ page
 page
 	set url https://strana.ua/opinions/337978-chto-imejut-v-vidu-kohda-prorochat-ukraine-budushchee-seroj-zony.html
 	set tags future,myshlenie,nadezhda,obschestvo,smysl,strana,ukraina,uspeh
+page
+	set url https://strana.ua/news/337996-v-kieve-predstanut-pered-sudom-litsa-istjazavshie-bezdomnykh.html
+	set tags bomzh,izdevatelstvo,kiev,murder,policia,prokuratura,sud,ukraina
 eof
 off
 page

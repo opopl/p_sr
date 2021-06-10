@@ -31988,6 +31988,15 @@ page
 page
 	set url https://analytics.hvylya.net/231819-nelyubov-ta-nekrasa-ukrajinskoji-nezalezhnosti
 	set tags future,krasota,ljubov,mysli,obschestvo,strana,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/yak-ty-nazyvayeshsya
+	set tags chelovek,imja,literatura,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/kultura/yakby
+	set tags fantazirovanie,istoria,proshloje,rossia
+page
+	set url https://opinions.glavred.info/yak-zakonoproekt-pro-korinni-narodi-ukrajini-vibiv-grunt-z-pid-nig-moskvi-10278945.html
+	set tags mif,moskva,rossia,rusmir,ukraina,zakon,zakonoprojekt,zelenskii_vladimir
 eof
 off
 page

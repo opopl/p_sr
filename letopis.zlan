@@ -30941,7 +30941,7 @@ todo
 	set rids 10165,10177
 
 	# news.ua.hvylya 
-	set rids 10039,10104,10364,10365,10366
+	set rids 10039,10104,10364,10365,10366,10498
 
 	# news.nvr.voshod_info
 	set rids 10179,10180,10181,10247
@@ -31982,6 +31982,12 @@ page
 page
 	set url https://vz.ru/opinions/2021/6/10/1103424.html
 	set tags artificial_intelligence,rossia
+page
+	set url https://strana.ua/news/337910-ukraintsy-raskritikovali-trebovanie-uefa-ubrat-s-formy-sbornoj-slova-herojam-slava.html
+	set tags ataka,forma.sportivnaja,futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,geroi,geroizm,internet,skandal,sport,uefa,ukraina
+page
+	set url https://analytics.hvylya.net/231819-nelyubov-ta-nekrasa-ukrajinskoji-nezalezhnosti
+	set tags future,krasota,ljubov,mysli,obschestvo,strana,ukraina
 eof
 off
 page

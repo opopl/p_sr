@@ -31931,14 +31931,30 @@ page
 page
 	set url http://lug-info.com/news/one/predstavitel-obse-po-itogam-vstrech-ne-upomyanula-chto-kiev-blokiruet-peregovory-miroshnik-68983
 	set tags donbass,kiev,lnr,miroshnik_rodion.lnr,obse,peregovory,ukraina,vojna
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://www.pravda.com.ua/news/2021/06/10/7296746/
 	set tags forma.sportivnaja,futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,krym,politika,protest,rossia,sport,trebovanie,uefa,ukraina
+page
+	set url https://lenta.ru/news/2021/06/10/larisa/
+	set tags deputat,gosduma,rossia,shojgu_larisa.rossia,smert
+page
+	set url https://strana.ua/news/337849-uefa-trebuet-izmenit-formu-ukrainskoj-sbornoj-na-evro-2020.html
+	set tags forma.sportivnaja,futbol,futbolist,futbolka,gaslo.slava_ukraini_gerojam_slava,politika,skandal,sport,uefa,ukraina
+page
+	set url https://strana.ua/opinions/337877-interesno-pochemu-spetsoperatsiju-v-chekhii-nazvali-klichko.html
+	set tags cennosti,chehia,evropa,kiev,klichko_vitalij,ukraina
+page
+	set url https://strana.ua/opinions/337882-esli-rossija-priznaet-chto-dvazhdy-dva-chetyre-to-v-ukraine-eto-dolzhno-byt-tri-ili-pjat.html
+	set tags infvojna,rossia,ukraina
+page
+	set url https://strana.ua/opinions/337891-a-slabo-nashim-patriotam-otozvat-sbornuju-ukrainy-s-evro.html
+	set tags bandera_stepan,banderovec,forma.sportivnaja,futbol,futbolist,gaslo,gaslo.slava_ukraini_gerojam_slava,komanda,komanda.sbornaja,nacionalizm,sport,uefa,ukraina
+page
+	set url https://regnum.ru/news/3293493.html
+	set tags armia,donbass,kommentarii,peredovaja,ukraina,vojna,vsu,zelenskii_vladimir
+page
+	set url https://zen.yandex.ru/media/funeralopolis/kak-seichas-vygliadit-pervaia-stolica-riurika-chto-posmotret-v-drevnei-stolice-severnoi-rusi-60829bb5960b6600abd22a70
+	set tags istoria,kievrus,letopis,oleg_veschij,rjurik.knjaz.rus',staraja_ladoga
 eof
 off
 page

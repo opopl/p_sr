@@ -31962,9 +31962,6 @@ page
 	set url https://strana.ua/news/337926-uefa-provedut-perehovory-s-pavlenko-ob-izmenenijakh-v-formue-sbornoj-ukrainy-po-futbolu.html
 	set tags futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,politika,rossia,skandal,sport,uefa,ukraina
 page
-	set url https://strana.ua/news/337933-mid-rf-vyzval-ukrainskoho-poverennoho-iz-za-sobytij-s-radikalami-ne-davshikh-vozlozhit-tsvety-pushkinu.html
-	set tags cvety,dip_otnoshenia,diplomatia,lvov,mid_rf,pamjatnik,protest,pushkin_aleksandr,radikaly,rossia,skandal,ukraina,ultrapravyje,zaharova_maria
-page
 	set url https://zen.yandex.ru/media/id/5e1deb60a1bb8700b26a71ee/variagi-potomki-slavian-versiia-tura-heierdala-6078abcc4fe8d226e656ca2a
 	set tags arheologia,evropa,hejerdal_tor,istoria,nauka,rossia,rus',rusmir,skandinavia
 page
@@ -31973,6 +31970,20 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5e1deb60a1bb8700b26a71ee/na-rusi-byl-kniazvolk-60b49103b86a7b140d4e5b3c
 	set tags 1044,istoria,kievrus,letopis,pvl,rossia,slovo_o_polku_igoreve
+page
+	set url https://strana.ua/opinions/337973-konfrontatsija-s-rossiej-borba-s-chuzhimi-natsionalistami.html
+	set tags geopolitika,konfrontacia,rossia,ukraina
+page
+	set url https://strana.ua/news/337972-vjatrovich-predlozhil-ukrainskim-futbolistam-sdelat-tatu-kak-u-shkirjaka.html
+	set tags forma.sportivnaja,futbol,gaslo.slava_ukraini_gerojam_slava,shkirjak_zorjan,sport,uefa,ukraina,vjatrovich_vladimir
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.ua/news/337933-mid-rf-vyzval-ukrainskoho-poverennoho-iz-za-sobytij-s-radikalami-ne-davshikh-vozlozhit-tsvety-pushkinu.html
+	set tags cvety,dip_otnoshenia,diplomatia,lvov,mid_rf,pamjatnik,protest,pushkin_aleksandr,radikaly,rossia,skandal,ukraina,ultrapravyje,zaharova_maria
 eof
 off
 page

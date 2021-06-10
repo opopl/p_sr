@@ -31923,11 +31923,19 @@ page
 	set url http://lug-info.com/news/one/aktivisty-od-mir-luganshine-blagoustroili-detskuyu-ploshadku-v-luganske-68974
 	set tags aktivist,blagoustrojstvo,deti,detskaja_ploschadka,druzhina,druzhina.lnr.projekt,lnr,lugansh,mir_luganschine,molodaja_gvardia.lnr,molodezh
 page
-	set url http://lug-info.com/news/one/predstavitel-obse-po-itogam-vstrech-ne-upomyanula-chto-kiev-blokiruet-peregovory-miroshnik-68983
-	set tags donbass,kiev,lnr,miroshnik_rodion.lnr,obse,peregovory,ukraina,vojna
-page
 	set url https://www.pravda.com.ua/news/2021/06/10/7296731/
 	set tags covid,granica,otkaz,pogranichnik,rossia,sputnik_v,ukraina,vaccinacia,vaccine,zapret
+page
+	set url https://www.radiosvoboda.org/a/do-dnya-pamyati-kateryny-bilokur/31300080.html
+	set tags 10_jun,1961,bilokur_katerina,cvety,hudozhnik,isskustvo,istoria,kartina,kultura,sssr,ukraina
+page
+	set url http://lug-info.com/news/one/predstavitel-obse-po-itogam-vstrech-ne-upomyanula-chto-kiev-blokiruet-peregovory-miroshnik-68983
+	set tags donbass,kiev,lnr,miroshnik_rodion.lnr,obse,peregovory,ukraina,vojna
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
 page
 	set url https://www.pravda.com.ua/news/2021/06/10/7296746/
 	set tags forma.sportivnaja,futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,krym,politika,protest,rossia,sport,trebovanie,uefa,ukraina

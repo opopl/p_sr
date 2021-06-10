@@ -31871,6 +31871,42 @@ page
 page
 	set url https://pravyysektor.info/prosvitnyctvo/chogo-pragnemo/nova-derzhava-za-yaku-boremos-yaka
 	set tags borjba,future,gosudarstvo,ideologia,nacia,nacidea,nacionalizm,obschestvo,patriotizm,pravyj_sektor,ukraina
+page
+	set url https://strana.ua/news/337811-zelenskij-na-peredovoj-hermanija-otkazala-ukraine-v-oruzhii-vstuplenie-v-es.html
+	set tags donbass,es,evropa,germania,itogi,oruzhie,otkaz,peredovaja,strana_ua,suicid,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/337795-ukrainskie-ahrobarony-poluchili-tsarskie-podarki-iz-hosbjudzheta.html
+	set tags agrarii,ekonomika,finansy,propast,strana,ukraina
+page
+	set url https://strana.ua/opinions/337798-evropa-stala-poluchat-menshe-haza-i-tsena-na-neho-tut-zhe-vyrosli.html
+	set tags ekonomika,evropa,finansy,gaz,norvegia,rossia
+page
+	set url https://strana.ua/opinions/337802-vseobshchaja-zelen-pobeda-virastjuka-universitetskij-rejtinh.html
+	set tags itogi,knu,obrazovanie,obschestvo,rejting,strana,ukraina,universitet,world
+page
+	set url https://strana.ua/opinions/337834-novoe-vremja-rodilo-kohortu-istorikov-samouchek.html
+	set tags istoria,istorik,kgb,osoaviahim.sssr,sssr,usa
+page
+	set url https://strana.ua/opinions/337836-kazhetsja-pensionery-i-invalidy-otezdili-svoe.html
+	set tags ekonomika,ljgota,nischebrod,nischeta,pensioner,plata_za_proezd,proezd_v_transporte,transport,ukraina
+page
+	set url https://strana.ua/opinions/337840-pochemu-vse-nashi-reformy-ot-meditsinskoj-do-sudebnoj-zakanchivajutsja-ukhudsheniem.html
+	set tags ekonomika,obschestvo,pochemu,reformi,uhudshenie,ukraina,vopros,zhizn
+page
+	set url https://strana.ua/opinions/337842-nas-zhdut-hollivud-disnejlend-silikonovaja-dolina-i-polety-na-mars.html
+	set tags bezumie,fantazia,future,gollivud,kosmonavtika,kosmos,kreativnost,mars,prezident,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/337785-putin-intervju-o-vstuplenii-ukrainy-v-nato-korennykh-narodakh-vstreche-s-zelenskim-hlavnoe.html
+	set tags geopolitika,germania.nacistkaja,interview,nacizm,narod,narod.korennoj,nato,putin_vladimir,redline,rossia,russkie,sport,svastika,tv,tv.rossia,ukraina,vozmuschenie,zakon,zakonoprojekt,zelenskii_vladimir
+page
+	set url https://kiev.strana.ua/337862-kievskie-politsejskie-spasli-dvukh-muzhchin-kotorye-pytalis-pokonchit-s-soboj.html
+	set tags dnepr,juzhnyj_most.kiev,policia,popytka,popytka.suicid,suicid,ukraina
+page
+	set url https://odessa.strana.ua/337847-v-odesse-invalidov-vyvezli-iz-psikhbolnitsy-na-kladbishche-i-brosili.html
+	set tags denisova_ljudmyla.ukr.upoln_s_prav_cheloveka,facebook,invalid,kladbische,odessa,pacient,psihbolnica,ukraina
+page
+	set url https://pravyysektor.info/novyny-poglyad/zakonoproekt-5488-uryad-za-dyskryminaciyu-ukrayinciv
+	set tags cennosti,kabmin,semja,shmygal'_denis.ministr,ukraina,verhovna_rada,zakonoprojekt
 eof
 off
 page

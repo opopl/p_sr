@@ -31925,6 +31925,12 @@ page
 page
 	set url http://lug-info.com/news/one/predstavitel-obse-po-itogam-vstrech-ne-upomyanula-chto-kiev-blokiruet-peregovory-miroshnik-68983
 	set tags donbass,kiev,lnr,miroshnik_rodion.lnr,obse,peregovory,ukraina,vojna
+page
+	set url https://www.pravda.com.ua/news/2021/06/10/7296731/
+	set tags covid,granica,otkaz,pogranichnik,rossia,sputnik_v,ukraina,vaccinacia,vaccine,zapret
+page
+	set url https://www.pravda.com.ua/news/2021/06/10/7296746/
+	set tags forma.sportivnaja,futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,krym,politika,protest,rossia,sport,trebovanie,uefa,ukraina
 eof
 off
 page

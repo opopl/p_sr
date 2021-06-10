@@ -31961,6 +31961,12 @@ page
 page
 	set url https://strana.ua/news/337926-uefa-provedut-perehovory-s-pavlenko-ob-izmenenijakh-v-formue-sbornoj-ukrainy-po-futbolu.html
 	set tags futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,politika,rossia,skandal,sport,uefa,ukraina
+page
+	set url https://strana.ua/news/337933-mid-rf-vyzval-ukrainskoho-poverennoho-iz-za-sobytij-s-radikalami-ne-davshikh-vozlozhit-tsvety-pushkinu.html
+	set tags cvety,dip_otnoshenia,diplomatia,lvov,mid_rf,pamjatnik,protest,pushkin_aleksandr,radikaly,rossia,skandal,ukraina,ultrapravyje,zaharova_maria
+page
+	set url https://zen.yandex.ru/media/id/5e1deb60a1bb8700b26a71ee/variagi-potomki-slavian-versiia-tura-heierdala-6078abcc4fe8d226e656ca2a
+	set tags arheologia,evropa,hejerdal_tor,istoria,nauka,rossia,rus',rusmir,skandinavia
 eof
 off
 page

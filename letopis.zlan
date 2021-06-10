@@ -31919,6 +31919,12 @@ page
 page
 	set url http://lug-info.com/news/one/zasedanie-kontaktnoj-gruppy-otlichilos-absurdnost-yu-vyhodok-ukrainy-delegaciya-lnr-68978
 	set tags absurd,donbass,kravchuk_leonid,lnr,peregovory,politicheskoje_uregulirovanie,tkg,ukraina,vojna
+page
+	set url http://lug-info.com/news/one/aktivisty-od-mir-luganshine-blagoustroili-detskuyu-ploshadku-v-luganske-68974
+	set tags aktivist,blagoustrojstvo,deti,detskaja_ploschadka,druzhina,druzhina.lnr.projekt,lnr,lugansh,mir_luganschine,molodaja_gvardia.lnr,molodezh
+page
+	set url http://lug-info.com/news/one/predstavitel-obse-po-itogam-vstrech-ne-upomyanula-chto-kiev-blokiruet-peregovory-miroshnik-68983
+	set tags donbass,kiev,lnr,miroshnik_rodion.lnr,obse,peregovory,ukraina,vojna
 eof
 off
 page

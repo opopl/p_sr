@@ -32003,6 +32003,15 @@ page
 page
 	set url https://strana.ua/news/337996-v-kieve-predstanut-pered-sudom-litsa-istjazavshie-bezdomnykh.html
 	set tags bomzh,izdevatelstvo,kiev,murder,policia,prokuratura,sud,ukraina
+page
+	set url https://www.radiosvoboda.org/a/yuviley-vasylya-shklyara-tsytaty/31299230.html
+	set tags 70_let,birthday,jubilej,kultura,literatura,shkljar_vasyl.pisatel.ukr,ukraina
+page
+	set url https://plus.obozrevatel.com/crime/na-donbasse-pogibla-voennosluzhaschaya-vsu.htm
+	set tags donbass,smert,ukraina,vojna,vsu
+page
+	set url http://lug-info.com/news/one/pereval-skaya-molodezh-provela-tanceval-nyj-fleshmob-s-rossiej-v-serdce-68998
+	set tags 12_jun,den_rossii,deti,donbass,festival,fleshmob,lnr,mir_luganschine,molodezh,perevalsk,prazdnik,prazdnovanie,rossia,tanec,vojna
 eof
 off
 page

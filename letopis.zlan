@@ -31976,14 +31976,17 @@ page
 page
 	set url https://strana.ua/news/337972-vjatrovich-predlozhil-ukrainskim-futbolistam-sdelat-tatu-kak-u-shkirjaka.html
 	set tags forma.sportivnaja,futbol,gaslo.slava_ukraini_gerojam_slava,shkirjak_zorjan,sport,uefa,ukraina,vjatrovich_vladimir
+page
+	set url https://strana.ua/news/337933-mid-rf-vyzval-ukrainskoho-poverennoho-iz-za-sobytij-s-radikalami-ne-davshikh-vozlozhit-tsvety-pushkinu.html
+	set tags cvety,dip_otnoshenia,diplomatia,lvov,mid_rf,pamjatnik,protest,pushkin_aleksandr,radikaly,rossia,skandal,ukraina,ultrapravyje,zaharova_maria
 global
 	set redo 1
 	setlist acts
 		db_update
 		auth_update
 page
-	set url https://strana.ua/news/337933-mid-rf-vyzval-ukrainskoho-poverennoho-iz-za-sobytij-s-radikalami-ne-davshikh-vozlozhit-tsvety-pushkinu.html
-	set tags cvety,dip_otnoshenia,diplomatia,lvov,mid_rf,pamjatnik,protest,pushkin_aleksandr,radikaly,rossia,skandal,ukraina,ultrapravyje,zaharova_maria
+	set url https://vz.ru/opinions/2021/6/10/1103424.html
+	set tags artificial_intelligence,rossia
 eof
 off
 page

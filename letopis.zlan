@@ -32057,6 +32057,42 @@ page
 page
 	set url https://strana.ua/news/338019-zakon-o-korennykh-narodakh-ukrainy-sut-proekta-i-reaktsija-putina.html
 	set tags narod,narod.korennoj,oon,putin_vladimir,reznikov_aleksei,rossia,russkie,segregacia,ukraina,ukrainizacia,zakon,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/338113-vitrenko-predskazal-nachalo-vojny-iz-za-severnoho-potoka-2.html
+	set tags predskazanie,sevpotok2,ukraina,vojna
+page
+	set url https://strana.ua/opinions/338121-vneshnepoliticheskaja-stratehija-ukrainy-eto-te-zhe-materialy-sezda-kpss.html
+	set tags absurd,analiz,chtenie,hobbit,nato,rossia,strategia,tolkien,ukraina,zapad
+page
+	set url https://strana.ua/opinions/338128-dazhe-esli-sbornaja-ukrainy-nicheho-ne-dobetsja-na-evro-patriotov-eto-uzhe-ne-ohorchit.html
+	set tags futbol,komanda.sbornaja,nacionalist,patriotizm,skandal,sport,ukraina
+page
+	set url https://strana.ua/news/338137-pisatelnitsa-laritsa-nitsoj-nazvala-ukrainskikh-futbolistov-mokovitami.html
+	set tags facebook,futbol,jazyk,moskovit,moskva,mova,muzyka,nicoj_larisa,oskorblenie,showbiz,sport,ukraina,unizhenie
+page
+	set url https://strana.ua/news/216386-nitsoj-rasskazala-chto-ubet-ukrainu.html
+	set tags future,nicoi_larisa,preduprezhdenie,ukraina,vysockij_vladimir.bard
+page
+	set url https://fraza.com/news/301989-antichnyj-mir-otkroetsja-na-kievschine
+	set tags antichnost',kiev,kievrus,kievrus.ukr.park,prazdnik,razvlechenie,ukraina
+page
+	set url https://opinions.glavred.info/chomu-skazilisya-rosiyani-cherez-napis-na-formi-ukrajinskoji-zbirnoji-geroyam-slava-10279482.html
+	set tags futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,skandal,sport,uefa,ukraina,vjatrovich_vladimir
+page
+	set url https://zen.yandex.ru/media/id/5f75d491f7de8a04f519af16/ni-geroev-ni-slavy-uefa-zapretil-lozungi-na-forme-futbolistov-ukrainy-60c2a0e7badbe26f3b18cd96
+	set tags __jun_2021.futbol.ukraina.forma,forma.sportivnaja,gaslo,gaslo.slava_ukraini_gerojam_slava,politika,rossia,skandal,sport,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5f75d491f7de8a04f519af16/ukrainskaia-armiia-pet-i-voiuet-po-natovskim-standartam-a-boshirov-i-petrov-vozmojno-razlagaiut-britanskih-soldat-v-estonii-60bf450a2b92e05b9bce0bd1
+	set tags armia,nato,psihologia,ukraina,vsu
+page
+	set url https://zen.yandex.ru/media/id/5f75d491f7de8a04f519af16/zastenchivaia-ulybka-zelenskogo-pohoja-na-ulybku-golubogo-vorishki-alhena-ty-komu-ukrainu-prodal-julik-60b49d56b86a7b140d750d16
+	set tags literatura,obschestvo,rusmir,ukraina,vyshyvanka,zelenskaja_elena,zelenskii_vladimir
+page
+	set url https://zen.yandex.ru/media/dushevn_shagomer/vy-znali-chto-suscestvuet-skazochnaia-karta-rossii-6050a4656c861f010755bb5c
+	set tags karta.rossia.skazochnaja,rossia,rusalka,rusmir,skazka
+page
+	set url https://zen.yandex.ru/media/reoktif/svejie-anekdoty-pro-nezalejnuiu-60bf1620eeb0cd2673c6d07f
+	set tags anekdot,kartinka,rossia,rusmir,ukraina
 eof
 off
 page

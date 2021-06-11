@@ -32045,6 +32045,15 @@ page
 page
 	set url https://zen.yandex.ru/media/istoriko/ukraina-nikak-ne-mojet-vybratsia-iz-kolonialnoi-zavisimosti--to-ot-rossii-to-ot-zapada-60b5ee73d407c548bcacef20
 	set tags amerika,istoria,kolonia,rossia,sssr,ukraina
+page
+	set url https://zen.yandex.ru/media/istoriko/russkie-jivut-po-poniatiiam-a-ukraincy-chtut-zakon-i-liubiat-vlast-chto-tut-ne-tak-60b0d6faa471d16dac436274
+	set tags analiz,kniga,kuchma_leonid,rossia,rusmir,russkie,ukraina,ukraina_ne_rossia,ukraincy,zakon,zhizn,zhizn_po_ponjatijam
+page
+	set url https://gazeta.ua/articles/politics/_slava-ukrayini-geroyam-slava-stalo-oficijnim-gaslom-ukrayinskogo-futbolu/1036971
+	set tags futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,politika,sport,ukraina
+page
+	set url https://gazeta.ua/articles/politics/_slug-narodu-z-russkim-mirom-namalyuvali-v-karikaturi/1036940
+	set tags buzhanskii_maksim,karikatura,mova,poturaev_nikita,rossia,rusmir,sluga_naroda,ukraina,ukrainizacia,verhovna_rada,zakon
 eof
 off
 page

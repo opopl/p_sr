@@ -32099,6 +32099,15 @@ page
 page
 	set url https://yandex.ru/q/question/kievskaia_rus_eto_rossiia_kotoraia_i_ili_5338cb1c/
 	set tags istoria,kievrus,naslednik,rusmir,vopros
+page
+	set url https://zaxid.net/v_borotbi_za_sebe_n1520518
+	set tags borjba,kravchuk_leonid,narod,obschestvo,osuzhdenie,politika,strana,timoshenko_julia,ukraina
+page
+	set url http://lug-info.com/news/one/glava-respubliki-v-svazi-s-diversiej-vsu-prerval-vizit-v-rossiu-i-vozvrasaetsa-v-lnr-69059
+	set tags diversia,donbass,jazyk,krym,lnr,nm_lnr,pasechnik_leonid,smert,ukraina,vojna,vsu
+page
+	set url http://lug-info.com/news/one/diversanty-rasstrelyali-pyat-zashitnikov-lnr-v-rajone-golubovskogo-narodnaya-miliciya-2-69056
+	set tags diversia,donbass,lnr,nm_lnr,smert,ukraina,vojna,vsu
 eof
 off
 page

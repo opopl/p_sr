@@ -32093,6 +32093,12 @@ page
 page
 	set url https://zen.yandex.ru/media/reoktif/svejie-anekdoty-pro-nezalejnuiu-60bf1620eeb0cd2673c6d07f
 	set tags anekdot,kartinka,rossia,rusmir,ukraina
+page
+	set url https://zen.yandex.ru/media/fond/luchshie-pesni-detstva-vmeste-s-bolshim-detskim-horom-sbornik-60b656863efca05eed0d4658
+	set tags deti,kultura,muzyka,pesnja,rossia,rusmir,sssr
+page
+	set url https://yandex.ru/q/question/kievskaia_rus_eto_rossiia_kotoraia_i_ili_5338cb1c/
+	set tags istoria,kievrus,naslednik,rusmir,vopros
 eof
 off
 page

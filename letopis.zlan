@@ -32054,6 +32054,9 @@ page
 page
 	set url https://gazeta.ua/articles/politics/_slug-narodu-z-russkim-mirom-namalyuvali-v-karikaturi/1036940
 	set tags buzhanskii_maksim,karikatura,mova,poturaev_nikita,rossia,rusmir,sluga_naroda,ukraina,ukrainizacia,verhovna_rada,zakon
+page
+	set url https://strana.ua/news/338019-zakon-o-korennykh-narodakh-ukrainy-sut-proekta-i-reaktsija-putina.html
+	set tags narod,narod.korennoj,oon,putin_vladimir,reznikov_aleksei,rossia,russkie,segregacia,ukraina,ukrainizacia,zakon,zelenskii_vladimir
 eof
 off
 page

@@ -32012,6 +32012,18 @@ page
 page
 	set url http://lug-info.com/news/one/pereval-skaya-molodezh-provela-tanceval-nyj-fleshmob-s-rossiej-v-serdce-68998
 	set tags 12_jun,den_rossii,deti,donbass,festival,fleshmob,lnr,mir_luganschine,molodezh,perevalsk,prazdnik,prazdnovanie,rossia,tanec,vojna
+page
+	set url https://strana.ua/opinions/337979-skandal-s-formoj-jajtsa-ot-hordona-elektronnye-bolnichnye.html
+	set tags forma.sportivnaja,futbol,gaslo.slava_ukraini_gerojam_slava,politika,rossia,russkie,skandal,sport,uefa,ukraina
+page
+	set url https://strana.ua/opinions/338009-evrosojuz-uhovoril-armeniju-otkazatsja-ot-nazvanija-konjak-za-3-milliona-evro.html
+	set tags armenia,es,evropa,konjak,rodina,torgovlja
+page
+	set url https://zen.yandex.ru/media/istoriko/kak-finnougorskaia-chud-1000-let-nazad-zahvatila-rus-postroila-moskvu-i-stala-pugat-evropu-60c25585596b103555b7d6e3
+	set tags finno_ugry,istoria,rossia,rus',rusmir
+page
+	set url https://zen.yandex.ru/media/istoriko/chem-otlichaetsia-ukrainskii-mir-ot-russkogo-mira-i-kakoi-iz-nih-dlia-ukrainy-luchshe-60bb62f961893124cbe6fbb3
+	set tags drevrus,istoria,kiev,kievrus,mat_gorodam_ruskim,rossia,rus',rusmir,russkie,ukraina,ukraincy,ukrmir
 eof
 off
 page

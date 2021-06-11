@@ -32108,6 +32108,21 @@ page
 page
 	set url http://lug-info.com/news/one/diversanty-rasstrelyali-pyat-zashitnikov-lnr-v-rajone-golubovskogo-narodnaya-miliciya-2-69056
 	set tags diversia,donbass,lnr,nm_lnr,smert,ukraina,vojna,vsu
+page
+	set url https://strana.ua/opinions/338174-lozunh-natsionalistov-na-forme-sbornoj-sposob-diskriminatsii-hrazhdan.html
+	set tags diskriminacia,futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,skandal,sport,ukraina
+page
+	set url https://gazeta.ua/blog/55226/oficijnomu-kiyevu-chas-buti-pershim-uchnem-na-ispiti-ne-vdastsya-propetlyati
+	set tags geopolitika,kiev,politika,rossia,ucheba,ukraina,zapad
+page
+	set url https://blogs.pravda.com.ua/authors/badikov/60c37946f06d3/
+	set tags gorod,kiev,kievrada,ukraina,zdorovje
+page
+	set url https://blogs.pravda.com.ua/authors/bratushchak/60c1cec60b843/
+	set tags infvojna,internet,propaganda.rossijskaja,rossia,strana_ua,ukraina
+page
+	set url https://kiev.strana.ua/338187-video-kak-v-kieve-na-andreevskom-spuske-prjamo-iz-bruschatki-zabil-fontan.html
+	set tags andreevskij_spusk,avaria,fontan,gorod,kiev,kievvodokanal,ukraina,voda
 eof
 off
 page

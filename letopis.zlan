@@ -32024,6 +32024,27 @@ page
 page
 	set url https://zen.yandex.ru/media/istoriko/chem-otlichaetsia-ukrainskii-mir-ot-russkogo-mira-i-kakoi-iz-nih-dlia-ukrainy-luchshe-60bb62f961893124cbe6fbb3
 	set tags drevrus,istoria,kiev,kievrus,mat_gorodam_ruskim,rossia,rus',rusmir,russkie,ukraina,ukraincy,ukrmir
+page
+	set url https://strana.ua/opinions/338011-skolko-eshche-raz-lidery-nato-dolzhny-poslat-zelenskoho.html
+	set tags bzhezinskii_zbignev.usa,kuleba_dmitrii,nato,ukraina,zapad,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/338031-put-k-miru-odin-ukraina-bez-nato-i-bez-natsizma.html
+	set tags geopolitika,nacizm,nato,obschestvo,politika,putin_vladimir,redline,rossia,ukraina
+page
+	set url https://strana.ua/opinions/338039-zakon-po-nulevoj-deklaratsii-jarkij-primer-tvorjashchehosja-v-ukraine-khaosa.html
+	set tags deklaracia,haos,konstitucia,ukraina,zakon,zakonoprojekt
+page
+	set url https://strana.ua/opinions/338042-poroshenko-dolzhen-nakonets-objasnit-ukraine-svoe-povedenie-v-minske.html
+	set tags dnr,donbass,lnr,medvedchuk_viktor,minsk,minsk_dogovor,peregovory,poroshenko_petr,putin_vladimir,ukraina,vojna
+page
+	set url https://strana.ua/opinions/338045-u-zelenskoho-byli-vse-vozmozhnosti-vypolnit-obeshchanie-i-snizit-tarify.html
+	set tags ekonomika,obeschanie,prezident,slovo,tarify,zelenskii_vladimir
+page
+	set url https://zen.yandex.ru/media/istoriko/ukraina-800-let-podriad-hotela-otdatsia-komuto-v-upravlenie-etot-vektor-prodoljaetsia-i-segodnia-60b93e9d7f99d3334f71fc92
+	set tags istoria,kazaki,kievrus,mazepa_ivan,nezalezhnist,orlik_filip,ukraina
+page
+	set url https://zen.yandex.ru/media/istoriko/ukraina-nikak-ne-mojet-vybratsia-iz-kolonialnoi-zavisimosti--to-ot-rossii-to-ot-zapada-60b5ee73d407c548bcacef20
+	set tags amerika,istoria,kolonia,rossia,sssr,ukraina
 eof
 off
 page

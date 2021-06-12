@@ -32123,6 +32123,24 @@ page
 page
 	set url https://kiev.strana.ua/338187-video-kak-v-kieve-na-andreevskom-spuske-prjamo-iz-bruschatki-zabil-fontan.html
 	set tags andreevskij_spusk,avaria,fontan,gorod,kiev,kievvodokanal,ukraina,voda
+page
+	set url https://strana.ua/news/338201-putin-ubijtsa-zhurnalisty-nbc-zadali-prezidentu-skandalnyj-vopros.html
+	set tags interview,killer,putin_vladimir,rossia,vopros
+page
+	set url https://strana.ua/opinions/338198-isk-ukrainy-protiv-hazproma-vyhljadit-bessmyslennoj-aktsiej.html
+	set tags bessmyslica,gaz,gazprom,isk,smysl,ukraina
+page
+	set url https://strana.ua/opinions/338199-vsekh-kto-ne-trebuet-zanesti-uefa-na-mirotvorets-uzhe-prichislili-k-pjatoj-kolonne.html
+	set tags __jun_2021.futbol.ukraina.forma,gaslo,gaslo.slava_ukraini_gerojam_slava,mirotvorec_sajt,patriotizm,skandal,uefa,ukraina
+page
+	set url https://strana.ua/opinions/338200-ukrainskim-patriotam-vazhno-chtoby-stranu-predstavljala-sbornaja-oun.html
+	set tags __jun_2021.futbol.ukraina.forma,futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,komanda.sbornaja,oun,patriotizm,politika,sport,ukraina
+page
+	set url https://strana.ua/opinions/338202-mer-melitopolja-pochemu-to-dumaet-chto-muzej-chereshni-privlechet-turistov.html
+	set tags chereshnja,melitopol,muzei,turizm,ukraina
+page
+	set url https://zen.yandex.ru/media/istoriko/pochemu-velikorossy-stali-takimi-silnymi-a-malorossy-ostalis-takimi-slabymi-60c3819603088a3a1a36d8ea
+	set tags gogol_nikolai,istoria,malorossia,narod,narod.russkij,rossia,rusmir,russkie,ukraincy
 eof
 off
 page

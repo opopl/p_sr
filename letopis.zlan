@@ -32147,6 +32147,18 @@ page
 page
 	set url https://zen.yandex.ru/media/istoriko/kto-osnoval-moskvu-vy-daje-udivites-ee-osnoval-velikii-kievskii-kniaz-v-xii-veke-i-zaselil-ee-ukraincami-5fdbe7737200780de15215b3
 	set tags dolgorukij_jurij,drevrus,istoria,kiev,kievrus,moskva,rossia,rusmir,ukraincy
+page
+	set url https://strana.ua/opinions/338222-natsbank-derzko-otsenil-v-hrivne-heroev-kotorym-slava.html
+	set tags cena,gaslo,gaslo.slava_ukraini_gerojam_slava,grivna,istoria,konovalec_evgen.oun,moneta,nacbank.ukraina,oun,ukraina
+page
+	set url https://strana.ua/opinions/338217-sokhranenie-nyneshneho-status-kvo-s-uskoreniem-dehradatsii-hosudarstva.html
+	set tags future,nato,putin_vladimir,redline,strategia,ukraina,zapad
+page
+	set url https://strana.ua/opinions/338226-neuzheli-nelzja-ukrainskuju-propahandu-na-donbasse-ispolnjat-bez-hrammaticheskikh-oshibok.html
+	set tags donbass,grammatika,propaganda,ukraina,vrangel.general.rossia
+page
+	set url https://strana.ua/opinions/338229-predstavte-chto-nemtsy-opjat-reshili-ispolzovat-zih-khajl.html
+	set tags __jun_2021.futbol.ukraina.forma,gaslo,gaslo.slava_ukraini_gerojam_slava,golokost,mirvojna2,nacizm,skandal,ukraina,usa
 eof
 off
 page

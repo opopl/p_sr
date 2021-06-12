@@ -32168,11 +32168,6 @@ page
 page
 	set url https://zen.yandex.ru/media/onp/oshibka-v-rechi-zelenskogo-pochemu-rossiia--vovse-ne-severnyi-sosed-ukrainy-608067ed6f9a7c4d10283a75
 	set tags geografia,rossia,sosed,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://www.championat.com/figureskating/article-4362589-kak-alina-zagitova-svyazana-s-hokkeem-otec-hokkeist-nomer-s-klyushkami-goryachaya-podderzhka-sbornoj-rossii.html
 	set tags bolelschik,figurist,figurnoje_katanie,hokkej,rossia,sport,zagitova_alina.figurist.rossia
@@ -32182,6 +32177,23 @@ page
 page
 	set url https://zen.yandex.ru/media/kinovoyage/5-zadushevnyh-ukrainskih-pesen-kotorye-peli-nashi-roditeli-a-teper-poem-my-60bcf367e8b8730bb2371439
 	set tags kultura,muzyka,pesnja,rossia,rusmir,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://zen.yandex.ru/media/id/5d9e1fc38d5b5f00b0d8dd8f/kakaia-raznica-na-kakih-futbolkah-krym-glavnoe-on-v-sostave-rossii-60be8c24942ceb0598e0db47
+	set tags __jun_2021.futbol.ukraina.forma,futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,krym,rossia,skandal,ukraina
+page
+	set url https://zen.yandex.ru/media/plastvrus/obzor-evro2020-match-otkrytiia-v-rime-rossiia-poteriala-mostovogo-a-na-ukraine-budut-prazdnovat-goly-v-vorota-rossii-60c340db32783008ebcf7264
+	set tags belgia,evro2020.futbol.chempionat,futbol,rossia,russofobia,sport
+page
+	set url https://zen.yandex.ru/media/id/6091546c064ac9639c18017d/futbolnaia-associaciia-ukrainy-razmestila-konutr-strany-s-krymom-60be21f47b0ba72b6f672a58
+	set tags __jun_2021.futbol.ukraina.forma,krym,rossia,russkie,ukraina
+page
+	set url https://strana.ua/sport/football/338306-futbolisty-rossijskoj-sbornoj-ne-preklonili-koleno-v-podderzhku-black-lives-matter.html
+	set tags belgia,black_lives_matter,bolelschik,futbol,rossia,sorevnovanie,st_peterburg
 eof
 off
 page

@@ -32177,11 +32177,6 @@ page
 page
 	set url https://zen.yandex.ru/media/kinovoyage/5-zadushevnyh-ukrainskih-pesen-kotorye-peli-nashi-roditeli-a-teper-poem-my-60bcf367e8b8730bb2371439
 	set tags kultura,muzyka,pesnja,rossia,rusmir,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://zen.yandex.ru/media/id/5d9e1fc38d5b5f00b0d8dd8f/kakaia-raznica-na-kakih-futbolkah-krym-glavnoe-on-v-sostave-rossii-60be8c24942ceb0598e0db47
 	set tags __jun_2021.futbol.ukraina.forma,futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,krym,rossia,skandal,ukraina

@@ -32197,6 +32197,9 @@ page
 page
 	set url https://zen.yandex.ru/media/imaginereview/drevnerusskoe-zodchestvo-sobor-sviatoi-sofii-v-kieve-604f437b126a3d455a2e3a4b
 	set tags istoria,kiev,kievrus,rossia,rusmir,sofia_sobor
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/glavnoechtobyneputin-60ab080d706b5c5631d9337f
+	set tags putin_vladimir,rossia
 eof
 off
 page

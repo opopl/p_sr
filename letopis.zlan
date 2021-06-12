@@ -32194,6 +32194,9 @@ page
 page
 	set url https://strana.ua/sport/football/338306-futbolisty-rossijskoj-sbornoj-ne-preklonili-koleno-v-podderzhku-black-lives-matter.html
 	set tags belgia,black_lives_matter,bolelschik,futbol,rossia,sorevnovanie,st_peterburg
+page
+	set url https://zen.yandex.ru/media/imaginereview/drevnerusskoe-zodchestvo-sobor-sviatoi-sofii-v-kieve-604f437b126a3d455a2e3a4b
+	set tags istoria,kiev,kievrus,rossia,rusmir,sofia_sobor
 eof
 off
 page

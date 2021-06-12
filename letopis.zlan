@@ -32159,6 +32159,15 @@ page
 page
 	set url https://strana.ua/opinions/338229-predstavte-chto-nemtsy-opjat-reshili-ispolzovat-zih-khajl.html
 	set tags __jun_2021.futbol.ukraina.forma,gaslo,gaslo.slava_ukraini_gerojam_slava,golokost,mirvojna2,nacizm,skandal,ukraina,usa
+page
+	set url https://strana.ua/opinions/338283-opyt-finskoho-vzaimodejstvija-s-rossiej-v-ukraine-pochti-tabuirovan.html
+	set tags finlandia,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/onp/7-interesnyh-faktov-iz-geografii-ukrainy-60c3a055fec57a5beabd551c
+	set tags geografia,ukraina
+page
+	set url https://zen.yandex.ru/media/onp/oshibka-v-rechi-zelenskogo-pochemu-rossiia--vovse-ne-severnyi-sosed-ukrainy-608067ed6f9a7c4d10283a75
+	set tags geografia,rossia,sosed,ukraina
 eof
 off
 page

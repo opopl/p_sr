@@ -32168,6 +32168,20 @@ page
 page
 	set url https://zen.yandex.ru/media/onp/oshibka-v-rechi-zelenskogo-pochemu-rossiia--vovse-ne-severnyi-sosed-ukrainy-608067ed6f9a7c4d10283a75
 	set tags geografia,rossia,sosed,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://www.championat.com/figureskating/article-4362589-kak-alina-zagitova-svyazana-s-hokkeem-otec-hokkeist-nomer-s-klyushkami-goryachaya-podderzhka-sbornoj-rossii.html
+	set tags bolelschik,figurist,figurnoje_katanie,hokkej,rossia,sport,zagitova_alina.figurist.rossia
+page
+	set url https://www.championat.com/figureskating/news-4374695-rossijskaya-figuristka-skopcova-na-evro-2020-otdelno-budu-bolet-za-ukrainca-zinchenko.html
+	set tags bolelschik,evro2020.futbol.chempionat,figurnoje_katanie,futbol,rossia,skopcova_anastasia.figuristka.rossia,sport,ukraina,zinchenko_aleksandr.ukr.futbolist
+page
+	set url https://zen.yandex.ru/media/kinovoyage/5-zadushevnyh-ukrainskih-pesen-kotorye-peli-nashi-roditeli-a-teper-poem-my-60bcf367e8b8730bb2371439
+	set tags kultura,muzyka,pesnja,rossia,rusmir,ukraina
 eof
 off
 page

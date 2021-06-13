@@ -32210,11 +32210,6 @@ page
 page
 	set url https://www.radiosvoboda.org/a/yevro-2020-futbol-ukrayina-reaktsiya-porazka-rosiyi/31304273.html
 	set tags belgia,bolelschik,evro2020.futbol.chempionat,futbol,gaslo,politika,rossia,st_peterburg
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://zen.yandex.ru/media/sandra_nika/chto-doljen-znat-kajdyi-russkii-60c42adae72f9332f715ee29
 	set tags den_rossii,drevrus,istoria,kievrus,rossia,russkie,staraja_ladoga,znanie

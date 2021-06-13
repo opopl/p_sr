@@ -32195,6 +32195,24 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/glavnoechtobyneputin-60ab080d706b5c5631d9337f
 	set tags putin_vladimir,rossia
+page
+	set url https://strana.ua/news/338228-pochemu-ukraina-po-nastojaniju-mvf-sohlasilas-pomoch-afrikanskomu-sudanu.html
+	set tags afrika,ekonomika,finansy,krym,mvf,pomosch,rossia,sudan,ukraina,world
+page
+	set url https://kharkov.strana.ua/338290-v-kharkove-paren-izbil-devushku-teper-im-zajmutsja-pravookhraniteli.html
+	set tags devushka,geraschenko_anton,harkov,izbienie,kriminal,obschestvo,podrostki,ukraina
+page
+	set url https://strana.ua/opinions/338270-reintehratory-khotjat-podstroit-pod-sebja-mozhi-millionov-ljudej.html
+	set tags banderovec,donbass,galichina,mentalnost,politika,reintegracia,reznikov_aleksei,ukraina,vojna
+page
+	set url https://www.pravda.com.ua/articles/2021/06/12/7296958/
+	set tags 1991,demokratia,elcin_boris,istoria,maidan2,obschestvo,rossia
+page
+	set url https://www.radiosvoboda.org/a/yevro-2020-futbol-ukrayina-reaktsiya-porazka-rosiyi/31304273.html
+	set tags belgia,bolelschik,evro2020.futbol.chempionat,futbol,gaslo,politika,rossia,st_peterburg
+page
+	set url https://zen.yandex.ru/media/sandra_nika/chto-doljen-znat-kajdyi-russkii-60c42adae72f9332f715ee29
+	set tags den_rossii,drevrus,istoria,kievrus,rossia,russkie,staraja_ladoga,znanie
 eof
 off
 page

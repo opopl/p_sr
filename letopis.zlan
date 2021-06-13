@@ -32210,9 +32210,23 @@ page
 page
 	set url https://www.radiosvoboda.org/a/yevro-2020-futbol-ukrayina-reaktsiya-porazka-rosiyi/31304273.html
 	set tags belgia,bolelschik,evro2020.futbol.chempionat,futbol,gaslo,politika,rossia,st_peterburg
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
 page
 	set url https://zen.yandex.ru/media/sandra_nika/chto-doljen-znat-kajdyi-russkii-60c42adae72f9332f715ee29
 	set tags den_rossii,drevrus,istoria,kievrus,rossia,russkie,staraja_ladoga,znanie
+page
+	set url https://zen.yandex.ru/media/politinteres/pochemu-v-moskve-nashli-vsego-chetyre-berestianye-gramoty-a-v-novgorode-svyshe-tysiachi-60a0f6270e5c522bd80be3e4
+	set tags arheologia,beresta,gramota,gramota.berestjanaja,istoria,moskva,nahodka,novgorod,pismennost',rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/politinteres/mostite-most-chto-oznachali-poslednie-slova-kniazia-vladimira-60bb4a3c61893124cba17076
+	set tags 988,istoria,jaroslav_mudryj,kievrus,knjaz_vladimir,letopis,most,novgorod
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/pervaia-pobeda-nashih-parnei--sbornaia-rossii-otkazalas-vstat-na-koleni-60c4f33272119574b72a008b
+	set tags belgia,black_lives_matter,futbol,negro,pobeda,politika,rossia,sport
 eof
 off
 page

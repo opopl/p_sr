@@ -32282,6 +32282,21 @@ page
 page
 	set url https://strana.ua/opinions/338552-vojna-zelenskoho-s-bjurokratiej-poterpela-krakh-ne-nachavshis.html
 	set tags biden_joe,bjurokratia,bolezn.parkinsona,gosudarstvo,obschestvo,sssr,ukraina,zakon.parkinsona
+page
+	set url https://strana.ua/opinions/338592-zelenskomu-nado-dat-pozhit-v-toj-svobode-kotoruju-sozdali-dlja-russkoho-jazyka.html
+	set tags 2013,jazyk,konstitucia,kvartal95,mova,svoboda,ukraina,ukrainizacia
+page
+	set url https://strana.ua/opinions/338593-eshche-odin-prezident-voznamerilsja-syhrat-na-starenkom-krymskom-rojale.html
+	set tags genprokuratura,krym,poklonskaja_natalia,solovej,ukraina
+page
+	set url https://strana.ua/opinions/338594-minimalnaja-zabolevaemost-ezhehodnaja-vaktsinatsija-dorozhajushchij-benzin.html
+	set tags geopolitika,nato,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/338572-elena-lukash-v-efire-kanala-nash-prokommentirovala-zajavlenie-sharija-v-adres-portnova.html
+	set tags liderstvo,lukash_elena,obschestvo,politika,portnov_andrei,sharij_analotij,ukraina
+page
+	set url http://lug-info.com/news/one/ubitye-terroristami-voiny-zasisali-svoj-rodnoj-donbass-doma-i-sem-i-sovetnik-glavy-lnr-69144
+	set tags donbass,kirovsk.lnr,murder,napadenie,nm_lnr,peremirie,pohoron,terrorist,ukraina,vojna,vsu
 eof
 off
 page

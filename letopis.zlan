@@ -32231,6 +32231,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/belorussiia-dve-zagadki-odnogo-nazvaniia-60608a0814931c44e8cf21a0
 	set tags belarus,minsk,narod.russkij,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/politinteres/kak-pisali-daty-v-drevnei-rusi-60b7c9e3ec6c3563a7b319d4
+	set tags drevrus,istoria,kievrus,letoischislenie,letopis,pismennost',rus',vremja
 eof
 off
 page

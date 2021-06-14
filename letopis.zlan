@@ -32270,6 +32270,15 @@ page
 page
 	set url https://strana.ua/opinions/338395-banderovtsy-pri-vlasti-sozdali-v-ukraine-ujutnenkuju-uhandu.html
 	set tags __jun_2021.futbol.ukraina.forma,afrika,futbol,gaslo,gaslo.slava_ukraini_gerojam_slava,skandal,uefa,uganda
+page
+	set url https://strana.ua/opinions/338475-sudba-evhenija-konovaltsa-tipichna-dlja-revoljutsionerov-toho-vremeni.html
+	set tags 14_jun,1891,borjba,istoria,konovalec_evgen.oun,oun,revolucia,revolucioner,sudjba,ukraina
+page
+	set url https://strana.ua/opinions/338494-v-istorii-s-zakhoroneniem-byvsheho-ssovtsa-zelenskij-vyhljadit-antihumanistichno.html
+	set tags nacizm,obschestvo,pohoron,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/338532-rukami-nashikh-zapadnykh-druzej-proizvodstvo-samoletov-v-ukraine-unichtozheno.html
+	set tags aviacia,monopolia,proizvodstvo,samolet,ukraina,unichtozhenie,usa
 eof
 off
 page

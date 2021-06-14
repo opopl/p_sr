@@ -32234,6 +32234,39 @@ page
 page
 	set url https://zen.yandex.ru/media/politinteres/kak-pisali-daty-v-drevnei-rusi-60b7c9e3ec6c3563a7b319d4
 	set tags drevrus,istoria,kievrus,letoischislenie,letopis,pismennost',rus',vremja
+page
+	set url https://strana.ua/news/338467-ukraina-niderlandy-na-evro-2020-otzyvy-na-match-v-ukraine-i-rossii.html
+	set tags belgia,bolelschik,evro2020.futbol.chempionat,rossia,st_peterburg,ukraina
+page
+	set url https://strana.ua/opinions/338315-zelenskij-prodolzhaet-raskalyvat-ukrainu-po-tselomu-rjadu-priznakov.html
+	set tags ekonomika,obschestvo,raskol,rossia,strana,ukraina
+page
+	set url https://strana.ua/opinions/338313-ukrainskij-natsionalizm-est-a-natsionalnoj-elity-net.html
+	set tags elita,gosudarstvo,kaznokradstvo,korupcia,nacionalist,nacionalizm,narod,obschestvo,patriotizm,ukraina,vorovstvo
+page
+	set url https://strana.ua/opinions/338317-my-zhivem-v-mire-kohda-razmer-perestal-imet-znachenie.html
+	set tags celostnost.territorialnaja,princip,vojna
+page
+	set url https://strana.ua/opinions/338336-sev-na-ukrainskie-potoki-tak-vazhno-odet-vyshivanku.html
+	set tags __jun_2021.futbol.ukraina.forma,banderovec,futbol,nacionalizm,politika,sport,ukraina,vyshyvanka
+page
+	set url https://strana.ua/opinions/338338-sekret-sinhapura-prahmatizm-i-otsutstvie-diskriminatsii.html
+	set tags cennosti,ekonomika,kniga,language,meritokratia,obschestvo,singapur
+page
+	set url https://strana.ua/opinions/338314-indijskij-shtamm-koronavirusa-ne-ispuhaet-ukrainskikh-patriotov.html
+	set tags bolezn,covid,covid.shtamm.india,india,patriotizm,ukraina,vaccinacia,vaccine,zdorovje
+page
+	set url https://strana.ua/opinions/338341-vy-eshche-utverzhdaete-chto-lozunh-slava-ukraine-herojam-slava-ne-imeet-otnoshenija-k-oun.html
+	set tags armia,gaslo,gaslo.slava_ukraini_gerojam_slava,oun,rossia,ukraina,vjatrovich_vladimir,vojna,vsu
+page
+	set url https://strana.ua/opinions/338354-sovetskomu-pokoleniju-povezlo-roditsja-do-toho-kak-u-detej-otobrali-pravo-vybora-.html
+	set tags chelovechnost,chelovek,detstvo,kultura,obschestvo,pokolenie,sssr,ukraina
+page
+	set url https://strana.ua/opinions/338368-radi-kvartala-95-sluhi-naroda-proholosujut-za-russkij-jazyk.html
+	set tags dengi,ekonomika,finansy,jazyk,karman,kvartal95,mova,rabota,ukraina,ukrainizacia,zakon,zarabotok,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/338382-esli-telegram-zablokirujut-v-evrope-to-zhe-sdelajut-i-v-ukraine.html
+	set tags cenzura,demokratia,evropa,germania,internet,slovo,svoboda,svoboda_slova,telegram,zapret
 eof
 off
 page

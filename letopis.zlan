@@ -32319,6 +32319,9 @@ page
 	set url https://www.sport-express.ru/football/euro/news/lukaku-kazak-chto-pishut-na-ukraine-o-razgromnom-porazhenii-rossii-ot-belgii-1799734/
 	set tags bolelschik,futbol,mem,rossia,sport,ukraina
 	set date 13_06_2021
+page
+	set url https://zen.yandex.ru/media/id/5f674204b142594c533e7bb4/slava-rossii-my-na-vershine-moguscestva-i-spuskatsia-bolee-ne-namereny-60c48c27b582164697cb2369
+	set tags bog,hristos,ljubov,narod.russkij,rodina,rossia,rossiane,rusmir,russkie
 eof
 off
 page

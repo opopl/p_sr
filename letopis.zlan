@@ -30945,6 +30945,9 @@ todo
 
 	# news.nvr.voshod_info
 	set rids 10179,10180,10181,10247
+	
+	# news.ru.vzgljad
+	set rids 10613
 
 	# news.ua.pravda
 	set rids 10268,10271,10381,10383
@@ -32331,6 +32334,15 @@ page
 page
 	set url https://life.pravda.com.ua/culture/2021/06/13/245165/
 	set tags interview,kniga,kultura,literatura,novinka,ukraina,zhadan_sergej
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/lekarstvo-ot-ravnodushiia-60a3305139dbb95f73d340f8
+	set tags babushka,dusha,gorkij_maksim.pisatel,lekarstvo,ravnodushie,rossia,rusmir,slovo.baba
+page
+	set url https://vz.ru/society/2021/6/12/1103827.html
+	set tags covid,lekarstvo,medicina,rossia,ustojchivost',zabolevajemost'
+page
+	set url https://zen.yandex.ru/media/krimposidushki_5/samaiasamaia-rossiia-severnaia-holodnaia-zagadochnaia-nepobedimaia-60c455751d6b9f44132f00cf
+	set tags gosudarstvo,patriotizm,rossia,rusmir,strana
 eof
 off
 page

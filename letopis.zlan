@@ -32343,6 +32343,9 @@ page
 page
 	set url https://zen.yandex.ru/media/krimposidushki_5/samaiasamaia-rossiia-severnaia-holodnaia-zagadochnaia-nepobedimaia-60c455751d6b9f44132f00cf
 	set tags gosudarstvo,patriotizm,rossia,rusmir,strana
+page
+	set url https://strana.ua/news/338650-intervju-putina-nbc-video-na-russkom-i-polnyj-tekst-analiz-otvetov-prezidenta-rf.html
+	set tags geopolitika,interview,kitaj,nato,putin_vladimir,rossia,ukraina,usa
 eof
 off
 page

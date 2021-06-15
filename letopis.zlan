@@ -32361,6 +32361,20 @@ page
 page
 	set url https://strana.ua/opinions/338757-emihranty-ihrali-i-ihraju-vydajushchujusja-rol-v-razvitii-ssha.html
 	set tags ekonomika,emigracia,emigrant,rabota,rossia,talant,ukraina,usa
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/takie-raznye-razgovory-s-podrostkami-60c210c84ab5364129ac00d9
+	set tags nato,podrostki,razgovor,realnost',rossia,rusmir,snovidenie
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://zen.yandex.ru/media/mirsamocvetov55/jivoi-mir-ili-paradoksy-russkogo-iazyka-60b448b5b86a7b140dc8a064
+	set tags jazyk,language,lingvistika,rossia,rusmir,slovo
+page
+	set url https://zen.yandex.ru/media/za_predelami_online/posle-11-let-jizni-v-ssha-ponial-samoe-vajnoe-na-moi-vzgliad-otlichie-mejdu-amerikancami-i-russkimi-60aba44671aaf011181fd498
+	set tags amerika,amerikanec,chelovechnost,chelovek,mentalitet,rabota,rossia,usa
 eof
 off
 page

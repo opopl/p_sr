@@ -32315,6 +32315,10 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5e1e1dd3a1bb8700b0178a97/ot-pserodaktilia-v-andertalca-i-dalee-v-venec-chelovechestva-rassujdeniia-nikudyshnogo-antropologa-60c4a1a87c4727120350b555
 	set tags antropologia,chelovechnost,chelovek,donbass,evolucia,homo_sapiens,kiev,obschestvo,otvaga,slaboumie,ukraina,vojna,vsu
+page
+	set url https://www.sport-express.ru/football/euro/news/lukaku-kazak-chto-pishut-na-ukraine-o-razgromnom-porazhenii-rossii-ot-belgii-1799734/
+	set tags bolelschik,futbol,mem,rossia,sport,ukraina
+	set date 13_06_2021
 eof
 off
 page

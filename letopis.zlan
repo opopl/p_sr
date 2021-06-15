@@ -32303,6 +32303,12 @@ page
 page
 	set url http://lug-info.com/news/one/yunye-plovcy-iz-lnr-zavoevali-20-medalej-na-otkrytyh-sorevnovaniyah-v-krymu-69132
 	set tags deti,evpatoria.krym,krym,kubok,lnr,medal,plavanie,sport
+page
+	set url https://gazeta.ua/blog/55242/u-politiku-treba-povernuti-moral-inakshe-mi-prirecheni-zalishatisya-stalinistami
+	set tags bandera_stepan,chelovechnost,chelovek,identichnost',ideologia,istoria,kommunizm,moral,obschestvo,politika,poroshenko_petr,sssr,stalin_iosif,stalinizm,ukraina
+page
+	set url https://gazeta.ua/blog/55240/putin-znovu-beretsya-za-istoriyu-ukrayini
+	set tags imperia,istoria,putin_vladimir,rossia,rusmir,sssr
 eof
 off
 page

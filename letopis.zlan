@@ -32346,6 +32346,12 @@ page
 page
 	set url https://strana.ua/news/338650-intervju-putina-nbc-video-na-russkom-i-polnyj-tekst-analiz-otvetov-prezidenta-rf.html
 	set tags geopolitika,interview,kitaj,nato,putin_vladimir,rossia,ukraina,usa
+page
+	set url https://ukraina.ru/opinion/20210615/1031640248.html
+	set tags obschestvo,psihoz,ukraina
+page
+	set url http://lug-info.com/media/ceremoniya-proshaniya-s-zashitnikami-respubliki-pogibshimi-ot-ruk-ukrainskih-diversantov-kirovsk-14-iyunya-2021-goda
+	set tags ceremonia,diversia,donbass,kirovsk.lnr,lnr,pohoron,vojna,vsu,zaschitnik
 eof
 off
 page

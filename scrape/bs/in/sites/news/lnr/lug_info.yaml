@@ -18,9 +18,27 @@ sel:
     - .right
     - .search
     - .slider-nav
+  only:
+    - .main
+
 PageParser:
   get_date_html:
     sels:
+      - { 
+          # css selector
+          'find'  : 'time',
+          'get'   : 'attr',
+          'attr'  : 'datetime',
+          # split date string
+          #'split' : ' ',
+          # used by dateparser.parse()
+          #'order' : 'DMY',
+
+          # options for the case 'get' = 'text'
+          #'text' : {
+            #'match' : '^(?P<year>\d{4})-(?P<month>\d{2})-(?P<day>\d{2})',
+          #},
+        }
       - {
           'find'  : '.data_news_center p',
           'get'   : 'text',

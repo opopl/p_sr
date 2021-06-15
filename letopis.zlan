@@ -32328,6 +32328,9 @@ page
 page
 	set url https://analytics.hvylya.net/232025-tragediya-ukrajinskoji-inteligenciji
 	set tags identichnost',inteligencia,medvedchuk_viktor,nacia,poroshenko_petr,sudnyj_den,ukraina,ukrainstvo
+page
+	set url https://life.pravda.com.ua/culture/2021/06/13/245165/
+	set tags interview,kniga,kultura,literatura,novinka,ukraina,zhadan_sergej
 eof
 off
 page

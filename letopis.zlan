@@ -30941,7 +30941,7 @@ todo
 	set rids 10165,10177
 
 	# news.ua.hvylya 
-	set rids 10039,10104,10364,10365,10366,10498
+	set rids 10039,10104,10364,10365,10366,10498,10609
 
 	# news.nvr.voshod_info
 	set rids 10179,10180,10181,10247
@@ -32322,6 +32322,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5f674204b142594c533e7bb4/slava-rossii-my-na-vershine-moguscestva-i-spuskatsia-bolee-ne-namereny-60c48c27b582164697cb2369
 	set tags bog,hristos,ljubov,narod.russkij,rodina,rossia,rossiane,rusmir,russkie
+page
+	set url https://analytics.hvylya.net/232052-zerkalnyy-potolok-ukrainy
+	set tags analitika,emocii,future,obschestvo,politika,potolok,rassuzhdenie,razvitie,ukraina,zerkalo
+page
+	set url https://analytics.hvylya.net/232025-tragediya-ukrajinskoji-inteligenciji
+	set tags identichnost',inteligencia,medvedchuk_viktor,nacia,poroshenko_petr,sudnyj_den,ukraina,ukrainstvo
 eof
 off
 page

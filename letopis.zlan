@@ -32352,6 +32352,12 @@ page
 page
 	set url http://lug-info.com/media/ceremoniya-proshaniya-s-zashitnikami-respubliki-pogibshimi-ot-ruk-ukrainskih-diversantov-kirovsk-14-iyunya-2021-goda
 	set tags ceremonia,diversia,donbass,kirovsk.lnr,lnr,pohoron,vojna,vsu,zaschitnik
+page
+	set url https://strana.ua/opinions/338678-razrushennyj-ilovajsk-snimali-v-280-kilometrakh-ot-kieva.html
+	set tags 2014,dekomunizacia,donbass,film,ilovajsk,kiev,kino,kultura,propaganda,ukraina,vojna,zavod
+page
+	set url https://teleskop.media/2021/06/14/katolicheskaya-ekspansiya-na-russkie-zemli-istoriya-i-sovremennost/
+	set tags cerkov,ekspansia,istoria,katolichestvo,pravoslavie,rusmir,vera
 eof
 off
 page

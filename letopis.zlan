@@ -32309,6 +32309,12 @@ page
 page
 	set url https://gazeta.ua/blog/55240/putin-znovu-beretsya-za-istoriyu-ukrayini
 	set tags imperia,istoria,putin_vladimir,rossia,rusmir,sssr
+page
+	set url https://gazeta.ua/articles/politics/_zaproshuyemo-tebe-z-cholovikom-na-poziciyu-de-mi-proholodzhuyemosya-ukrayinski-voyini-zvernulisya-do-goreblogerki/1037550
+	set tags blogger,chugujev.harkov_obl.ukr,donbass,harkov,obraschenie,oskorblenie,ukraina,unizhenie,vojna,vsu
+page
+	set url https://zen.yandex.ru/media/id/5e1e1dd3a1bb8700b0178a97/ot-pserodaktilia-v-andertalca-i-dalee-v-venec-chelovechestva-rassujdeniia-nikudyshnogo-antropologa-60c4a1a87c4727120350b555
+	set tags antropologia,chelovechnost,chelovek,donbass,evolucia,homo_sapiens,kiev,obschestvo,otvaga,slaboumie,ukraina,vojna,vsu
 eof
 off
 page

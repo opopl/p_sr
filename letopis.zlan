@@ -32379,11 +32379,6 @@ page
 page
 	set url http://lug-info.com/news/minsocpolitiki-lnr-napomnilo-kakie-dni-budut-vyhodnymi-na-troicu
 	set tags lnr,prazdnik,prazdnik.svjatoj_troicy,vyhodnye
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/news/338712-kakoj-dolzhna-byt-dostojnaja-zarplata-ukraintsev-opros-deputatov-verkhovnoj-rady.html
 	set tags dengi,deputat,ekonomika,finansy,kiva_ilja,obschestvo,opros,rabota,strana_ua,ukraina,verhovna_rada,zarplata

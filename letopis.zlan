@@ -30971,6 +30971,9 @@ todo
 	problem time,img
 	set rids 10248
 
+	# news.ua.gorlovka - blogs
+	set rids 10636
+
 	# zen.yandex.ru
 	# 	not all images were loaded
 	set rids 10434
@@ -32403,14 +32406,13 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/farion/60c79dfdf1130/
 	set tags geroi,istoria,konovalec_evgen.oun,oun,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://gorlovka.ua/news/article/9917/
 	set tags dnr,donbass,gorlovka,rebenok,ukraina,vojna
+page
+	set url https://gorlovka.ua/Blog/Blog/308
+	set tags chelovechnost,chelovek,donbass,gorlovka,gorod,ludi,ukraina,vojna,zhizn
+	set date 29_07_2016
 eof
 off
 page

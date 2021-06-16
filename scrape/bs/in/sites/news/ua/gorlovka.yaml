@@ -4,7 +4,7 @@ sel:
     - .info_icons
     - .sub_info
   only:
-    - '#news_title'
+    #- '#news_title'
   keep:
 
 fetch:
@@ -40,6 +40,15 @@ PageParser:
           #'text' : {
             #'match' : '^(?P<year>\d{4})-(?P<month>\d{2})-(?P<day>\d{2})',
           #},
+        }
+      - { 
+          # css selector
+          'find'  : '.bloglist_date',
+          'get'   : 'text',
+          'order' : 'DMY',
+          'text' : {
+            'match' : '^(?P<day>\d{2})-(?P<month>\d{2})-(?P<year>\d{4})',
+          },
         }
   get_author:
     tries:

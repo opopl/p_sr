@@ -32413,6 +32413,10 @@ page
 	set url https://gorlovka.ua/Blog/Blog/308
 	set tags chelovechnost,chelovek,donbass,gorlovka,gorod,ludi,ukraina,vojna,zhizn
 	set date 29_07_2016
+page
+	set url https://gorlovka.ua/Blog/Blog/310
+	set tags chelovechnost,chelovek,donbass,filosof,gorlovka,gorod,obschestvo,rassuzhdenie,razgovor,ukraina,vojna,zhizn
+	set date 06_11_2016
 eof
 off
 page

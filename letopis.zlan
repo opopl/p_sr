@@ -32391,6 +32391,9 @@ page
 page
 	set url https://strana.ua/news/338920-rossijskij-reper-fejs-rasskazal-o-syne-poroshenko-na-svoem-kontserte-v-londone.html
 	set tags britania,kiev,london,muzyka,poroshenko_mihail.syn.pap,poroshenko_petr,repper.face.rossia,rossia,rusmir,ukraina
+page
+	set url https://strana.ua/articles/special/337665-strana-sezdila-v-horod-prizrak-kotoryj-kohda-to-byl-odnim-iz-samykh-znachimykh-promyshlennykh-tsentrov-strany.html
+	set tags cukrovarov.ukr,razruha,ukraina
 eof
 off
 page

@@ -32387,6 +32387,12 @@ global
 page
 	set url https://strana.ua/news/338712-kakoj-dolzhna-byt-dostojnaja-zarplata-ukraintsev-opros-deputatov-verkhovnoj-rady.html
 	set tags dengi,deputat,ekonomika,finansy,kiva_ilja,obschestvo,opros,rabota,strana_ua,ukraina,verhovna_rada,zarplata
+page
+	set url https://strana.ua/news/338884-internet-fleshmob-babuli_v_kepochkakh-verujushchie-upts-otvetili-na-kommentarij-zelenksoho-.html
+	set tags cerkov,fleshmob,internet,obschestvo,ofis_prezidenta,opzzh,pravoslavie,ukraina,upc,vera,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/338859-vcherashnie-sobytija-pokazali-vlast-okonchatelno-otchuzhdaetsja-ot-naroda.html
+	set tags narod,obschestvo,otchuzhdenie,strana,ukraina,vlast
 eof
 off
 page

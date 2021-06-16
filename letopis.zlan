@@ -32370,6 +32370,23 @@ page
 page
 	set url https://zen.yandex.ru/media/za_predelami_online/posle-11-let-jizni-v-ssha-ponial-samoe-vajnoe-na-moi-vzgliad-otlichie-mejdu-amerikancami-i-russkimi-60aba44671aaf011181fd498
 	set tags amerika,amerikanec,chelovechnost,chelovek,mentalitet,rabota,rossia,usa
+page
+	set url https://kiev.strana.ua/338841-smertelnoe-dtp-v-kieve-na-okruzhnoj-sbili-vracha-na-velosipede.html
+	set tags bolnica,doroga,dtp,gorod,kiev,kiev.okruzhnaja,medik,smert,ukraina,velosiped
+page
+	set url https://strana.ua/opinions/338830-patrioticheskuju-isteriku-mozhno-pridumat-bukvalno-iz-nicheho.html
+	set tags chernobyl,isterika,jazyk,patriotizm,rossia,ukraina
+page
+	set url http://lug-info.com/news/minsocpolitiki-lnr-napomnilo-kakie-dni-budut-vyhodnymi-na-troicu
+	set tags lnr,prazdnik,prazdnik.svjatoj_troicy,vyhodnye
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.ua/news/338712-kakoj-dolzhna-byt-dostojnaja-zarplata-ukraintsev-opros-deputatov-verkhovnoj-rady.html
+	set tags dengi,deputat,ekonomika,finansy,kiva_ilja,obschestvo,opros,rabota,strana_ua,ukraina,verhovna_rada,zarplata
 eof
 off
 page

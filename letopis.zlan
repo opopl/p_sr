@@ -32393,6 +32393,9 @@ page
 page
 	set url https://strana.ua/opinions/338859-vcherashnie-sobytija-pokazali-vlast-okonchatelno-otchuzhdaetsja-ot-naroda.html
 	set tags narod,obschestvo,otchuzhdenie,strana,ukraina,vlast
+page
+	set url https://strana.ua/news/338920-rossijskij-reper-fejs-rasskazal-o-syne-poroshenko-na-svoem-kontserte-v-londone.html
+	set tags britania,kiev,london,muzyka,poroshenko_mihail.syn.pap,poroshenko_petr,repper.face.rossia,rossia,rusmir,ukraina
 eof
 off
 page

@@ -32402,6 +32402,9 @@ global
 page
 	set url https://kharkov.strana.ua/338950-studentka-nehativno-vyskazalas-ob-ukrainskom-jazyke.html
 	set tags harkov,jazyk,mova,skandal,skovoroda_grigorii,ukraina,ukrainizacia
+page
+	set url https://gorlovka.ua/news/article/9917/
+	set tags dnr,donbass,gorlovka,rebenok,ukraina,vojna
 eof
 off
 page

@@ -32394,17 +32394,15 @@ page
 page
 	set url https://strana.ua/articles/special/337665-strana-sezdila-v-horod-prizrak-kotoryj-kohda-to-byl-odnim-iz-samykh-znachimykh-promyshlennykh-tsentrov-strany.html
 	set tags cukrovarov.ukr,razruha,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
+page
+	set url https://gorlovka.ua/news/article/9917/
+	set tags dnr,donbass,gorlovka,rebenok,ukraina,vojna
 page
 	set url https://kharkov.strana.ua/338950-studentka-nehativno-vyskazalas-ob-ukrainskom-jazyke.html
 	set tags harkov,jazyk,mova,skandal,skovoroda_grigorii,ukraina,ukrainizacia
 page
-	set url https://gorlovka.ua/news/article/9917/
-	set tags dnr,donbass,gorlovka,rebenok,ukraina,vojna
+	set url https://strana.ua/news/338717-stalker-2-serdtse-chernobylja-pochemu-khejtjat-videoihru-ukrainskikh-razrabotchikov.html
+	set tags chernobyl,igra.computer,jazyk,mova,obschestvo,skandal,stalker,ukraina,zrada
 eof
 off
 page

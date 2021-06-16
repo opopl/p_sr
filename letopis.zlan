@@ -32394,6 +32394,14 @@ page
 page
 	set url https://strana.ua/articles/special/337665-strana-sezdila-v-horod-prizrak-kotoryj-kohda-to-byl-odnim-iz-samykh-znachimykh-promyshlennykh-tsentrov-strany.html
 	set tags cukrovarov.ukr,razruha,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://kharkov.strana.ua/338950-studentka-nehativno-vyskazalas-ob-ukrainskom-jazyke.html
+	set tags harkov,jazyk,mova,skandal,skovoroda_grigorii,ukraina,ukrainizacia
 eof
 off
 page

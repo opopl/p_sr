@@ -32407,9 +32407,6 @@ page
 	set url https://blogs.pravda.com.ua/authors/farion/60c79dfdf1130/
 	set tags geroi,istoria,konovalec_evgen.oun,oun,ukraina
 page
-	set url https://gorlovka.ua/news/article/9917/
-	set tags dnr,donbass,gorlovka,rebenok,ukraina,vojna
-page
 	set url https://gorlovka.ua/Blog/Blog/308
 	set tags chelovechnost,chelovek,donbass,gorlovka,gorod,ludi,ukraina,vojna,zhizn
 	set date 29_07_2016
@@ -32417,6 +32414,18 @@ page
 	set url https://gorlovka.ua/Blog/Blog/310
 	set tags chelovechnost,chelovek,donbass,filosof,gorlovka,gorod,obschestvo,rassuzhdenie,razgovor,ukraina,vojna,zhizn
 	set date 06_11_2016
+page
+	set url https://gorlovka.ua/news/article/9917/
+	set tags dnr,donbass,gorlovka,rebenok,ukraina,vojna
+page
+	set url https://maysuryan.livejournal.com/878784.html
+	set tags 2014,27.07.2014,27_jul,__2014.gorlovka.obstrel.27_jul,deti,dnr,donbass,gorlovka,obstrel,prestuplenie.vojennoje,smert,tragedia,ukraina,vojna
+page
+	set url https://kiev.strana.ua/339014-v-kieve-konduktor-trollejbusa-pokazyval-fokusy-passazhiram-.html
+	set tags fokus,kiev,konduktor,passazhir,razvlechenie,smeh,transport,trolejbus,ukraina
+page
+	set url https://strana.ua/news/338686-putin-i-bajden-vstrecha-sehodnja-onlajn-transljatsija-sammita-v-zheneve-2021.html
+	set tags __jun_2021.zheneva.putin_biden.vstrecha,biden_joe,putin_vladimir,rossia,shvejcaria,usa,vstrecha,zheneva.shejcaria
 eof
 off
 page

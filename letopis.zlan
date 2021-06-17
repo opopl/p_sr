@@ -32447,6 +32447,15 @@ page
 page
 	set url https://strana.ua/opinions/339035-nu-chto-objavljaet-traur-po-povodu-pobedy-finnov.html
 	set tags finlandia,futbol,gazprom,kuban',pobeda,rossia,sport,ukraina,zrada
+page
+	set url https://strana.ua/news/339075-draka-v-rade-posle-slov-poturaeva-o-rasstrele-opzzh-cheho-teper-zhdat.html
+	set tags draka,kiva_ilja,opzzh,poturaev_nikita,rasstrel,skandal,sluga_naroda,ugroza,ukraina,verhovna_rada
+page
+	set url https://strana.ua/opinions/339097-ukraina-muchitelno-pererozhdaetsja-iz-strany-oliharkhov-v-stranu-transnatsilonalov.html
+	set tags ekonomika,evropa,future,gosudarstvo,kolonia,obschestvo,oligarh,ukraina
+page
+	set url https://seraphim.com.ua/seraphim/topovye-intervyu/item/104231-glava-organizatsii-miryane-vasilij-makarovskij-my-vse-vmeste-dolzhny-stat-na-zashchitu-svoej-tserkvi
+	set tags _important,cerkov,mirjane,obschestvo,ukraina,vera
 eof
 off
 page

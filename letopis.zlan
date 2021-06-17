@@ -32429,6 +32429,24 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210609/1031601325.html
 	set tags cennosti,cerkov,obschestvo,pravoslavie,projekt.mirjane.ukr,ukraina,upc,vera
+page
+	set url https://strana.ua/opinions/339034-ukrainu-nuzhno-povernut-s-oliharkhicheskoho-na-innovatsionnyj-put-razvitija.html
+	set tags obschestvo,razvitie,slovo,ukraina,vopros
+page
+	set url https://strana.ua/news/339070-kiva-prokommentiroval-zajavlenie-poturaeva-posle-kotoroho-v-rade-proizoshla-draka.html
+	set tags bednost,epoha,kiva_ilja,opzzh,poturaev_nikita,rasstrel,sluga_naroda,ukraina,verhovna_rada
+page
+	set url https://strana.ua/opinions/338980-pravookhraniteli-poterjali-dokazatelstva-po-delu-sternenko.html
+	set tags kriminal,ljagushka,poterja,rassledovanie,sternenko_sergei,sud,ugolovnoje_delo,ukraina
+page
+	set url https://strana.ua/opinions/339031-ukraina-vedet-sebja-kak-podkabluchnik-iz-odesskoho-anekdota.html
+	set tags anekdot,kuleba_dmitrii,odessa,podkabluchnik,povedenie,rossia,smelost,ukraina,usa
+page
+	set url https://strana.ua/opinions/339036-ukraina-poterjala-doverie-i-naprasno-ozhidaet-podajanija.html
+	set tags obschestvo,politika,poproshajka,strana,ukraina
+page
+	set url https://strana.ua/opinions/339035-nu-chto-objavljaet-traur-po-povodu-pobedy-finnov.html
+	set tags finlandia,futbol,gazprom,kuban',pobeda,rossia,sport,ukraina,zrada
 eof
 off
 page

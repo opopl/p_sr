@@ -32459,6 +32459,9 @@ page
 page
 	set url https://life.pravda.com.ua/culture/2021/06/17/245205/
 	set tags foto,hata,istoria,kultura,puteshestvie,selo,tradicii,turizm,ukraina
+page
+	set url https://news.obozrevatel.com/society/strana-bez-istoricheskih-kornej-vsegda-budet-okkupantom.htm
+	set tags istoria,moskovia,rossia,rusmir
 eof
 off
 page

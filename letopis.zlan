@@ -32426,6 +32426,9 @@ page
 page
 	set url https://strana.ua/news/338686-putin-i-bajden-vstrecha-sehodnja-onlajn-transljatsija-sammita-v-zheneve-2021.html
 	set tags __jun_2021.zheneva.putin_biden.vstrecha,biden_joe,putin_vladimir,rossia,shvejcaria,usa,vstrecha,zheneva.shejcaria
+page
+	set url https://ukraina.ru/exclusive/20210609/1031601325.html
+	set tags cennosti,cerkov,obschestvo,pravoslavie,projekt.mirjane.ukr,ukraina,upc,vera
 eof
 off
 page

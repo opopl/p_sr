@@ -32456,6 +32456,9 @@ page
 page
 	set url https://seraphim.com.ua/seraphim/topovye-intervyu/item/104231-glava-organizatsii-miryane-vasilij-makarovskij-my-vse-vmeste-dolzhny-stat-na-zashchitu-svoej-tserkvi
 	set tags _important,cerkov,mirjane,obschestvo,ukraina,vera
+page
+	set url https://life.pravda.com.ua/culture/2021/06/17/245205/
+	set tags foto,hata,istoria,kultura,puteshestvie,selo,tradicii,turizm,ukraina
 eof
 off
 page

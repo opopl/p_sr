@@ -32489,6 +32489,15 @@ page
 page
 	set url https://strana.ua/news/338942-pokhorony-chapkisa-v-kieve-18-ijunja-foto-video-novosti.html
 	set tags chapkis_grigorij.horeograf.kiev,horeografia,kiev,kultura,pohoron,proschanie,tanec,ukraina,smert
+page
+	set url https://strana.ua/news/316717-chapkis-umer-prichina-smerti-biohrafija-zhena.html
+	set tags chapkis_grigorij.horeograf.kiev,horeografia,kiev,kultura,pohoron,proschanie,smert,tanec,ukraina
+page
+	set url https://strana.ua/news/339256-minskie-sohlashenija-i-vstrecha-bajdena-s-putinym-chto-udalos-reshit.html
+	set tags __jun_2021.zheneva.putin_biden.vstrecha,avtonomia,biden_joe,donbass,minsk_dogovor,peregovory,putin_vladimir,vstrecha
+page
+	set url https://strana.ua/opinions/339280-bajdenu-prikhoditsja-ihrat-na-harmoshke-i-tantsevat-pered-russkim-medvedem.html
+	set tags __jun_2021.zheneva.putin_biden.vstrecha,analiz,biden_joe,filosofia,garmoshka,igra,medved',ontologia,peregovory,putin_vladimir,rossia
 eof
 off
 page

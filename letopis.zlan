@@ -32480,6 +32480,15 @@ page
 page
 	set url https://zen.yandex.ru/media/terra1979/speak-na-move-please-608c3051a1d0372ada28c702
 	set tags jazyk,kremin_taras,mova,ukraina,ukrainizacia
+page
+	set url https://sport24.ru/news/football/2021-06-17-v-gosdume-prizvali-zhestko-otreagirovat-na-oskorbleniye-putina-ukrainskimi-fanatami-na-matche-yevro
+	set tags bolelschik,futbol,gaslo,gaslo.putin_hjlo,provokacia,rossia,skandal,sport,uefa,ukraina
+page
+	set url https://strana.ua/showbiz/339273-frontmen-hruppy-zemljane-popal-v-spisok-lits-predstavljajushchikh-uhrozu-natsbezopasnosti-ukrainy.html
+	set tags artist,koncert,krym,kultura,muzyka,muzykant,pesnja,rossia,ugroza,ukraina,zapret,zemlja,zemlja.planeta,zemljane,zemljane.gruppa.rossia
+page
+	set url https://strana.ua/news/338942-pokhorony-chapkisa-v-kieve-18-ijunja-foto-video-novosti.html
+	set tags chapkis_grigorij.horeograf.kiev,horeografia,kiev,kultura,pohoron,proschanie,tanec,ukraina,smert
 eof
 off
 page

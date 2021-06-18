@@ -32462,6 +32462,12 @@ page
 page
 	set url https://news.obozrevatel.com/society/strana-bez-istoricheskih-kornej-vsegda-budet-okkupantom.htm
 	set tags istoria,moskovia,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/to-chto-ot-vas-skryvaiut-prokremlevskie-smi-obzor-ukrainskoi-pressy-60cc12435df3a4541cf34fc5
+	set tags __jun_2021.zheneva.putin_biden.vstrecha,biden_joe,mordor,putin_vladimir,rossia,smi.ukraina,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/kogda-vlast-v-strane-prinadlejit-komande-kvn-60ba97da931ee526e13e47d0
+	set tags absurd,germania,kvn,logika,melnik_andrei.ukraina.posol,obschestvo,ukraina,zelenskii_vladimir
 eof
 off
 page

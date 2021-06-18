@@ -32498,6 +32498,15 @@ page
 page
 	set url https://strana.ua/opinions/339280-bajdenu-prikhoditsja-ihrat-na-harmoshke-i-tantsevat-pered-russkim-medvedem.html
 	set tags __jun_2021.zheneva.putin_biden.vstrecha,analiz,biden_joe,filosofia,garmoshka,igra,medved',ontologia,peregovory,putin_vladimir,rossia
+page
+	set url https://strana.ua/opinions/339285-rynok-otkusyvaet-vse-chto-ostalos-ot-setevykh-svobod.html
+	set tags cenzura,ekonomika,internet,obschestvo,rynok,svoboda,svoboda_slova
+page
+	set url https://gazeta.ua/blog/55247/so-krim-futbolok-robit-zbirnu-ukrayini-z-futbolu-nashoyu
+	set tags cennosti,futbol,komanda.sbornaja,malorossia,sport,ukraina,ukrainstvo
+page
+	set url https://day.kyiv.ua/uk/blog/kultura/blukannya-bluma-lis-dante-sadok-shevchenka
+	set tags 16_jun,1924,1982,dante_aligjeri,irlandia,italia,literatura,obschestvo,prazdnik,prazdnik.bloomsday,prazdnovanie,shevchenko_taras,ukraina,vishnja
 eof
 off
 page

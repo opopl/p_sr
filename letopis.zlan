@@ -32528,6 +32528,12 @@ page
 page
 	set url https://strana.ua/opinions/339495-prevratit-rossiju-v-chast-zapadnoho-mira-ne-udalos.html
 	set tags geopolitika,rossia,zapad
+page
+	set url https://strana.ua/opinions/339516-zhivushchie-dolzhny-perestat-videt-vraha-v-svoem-blizhnem.html
+	set tags donbass,druzhba,germania,merkel_angela,narod,nemcy,obschestvo,primirenie,ukraina,vojna,vrazhda
+page
+	set url https://kiev.strana.ua/339515-v-kieve-pojavilsja-pamjatnik-medikam-kotorye-otdali-svoi-zhizni-v-borbe-s-covid-19-.html
+	set tags bolnica,borjba,covid,kiev,medik,pamjatnik,smert,ukraina,vrach
 eof
 off
 page

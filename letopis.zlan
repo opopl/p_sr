@@ -32513,6 +32513,18 @@ page
 page
 	set url https://strana.ua/news/339459-danilov-o-kryme-hospod-dal-im-slishkom-mnoho-vody-reaktsija-sotssetej-.html
 	set tags avakov_arsen,bedstvie,danilov_aleksei,glumlenie,krym,navodnenie,potop,rossia,ukraina
+page
+	set url https://strana.ua/opinions/339350-stranoj-upravljaet-staja-zhadnykh-pronyrlivykh-beznravstvennykh-chinovnikov.html
+	set tags chinovnik,istoria,kniga,obschestvo,rossia,rusimperia,ukraina,upravlenie,zygarj_mihail.pisatel.rus
+page
+	set url https://strana.ua/opinions/339381-nikakoj-hendernoj-diskriminatsii-v-ukraine-ne-sushchestvuet.html
+	set tags gender,neravenstvo,obschestvo,ukraina,woman
+page
+	set url https://strana.ua/opinions/339420-zakon-o-nadruhatelstve-nad-ukrainskim-jazykom-naneset-moshchnyj-udar-po-vlasti.html
+	set tags boguckaja_elizaveta,obschestvo,ukraina,ukrainizacia,verhovna_rada,zakon,zakonoprojekt
+page
+	set url https://strana.ua/opinions/339422-ukrainskaja-vlast-tekhnicheski-povtorjaet-praktiku-fashizma.html
+	set tags fashizm,gosudarstvo,konstitucia,mussolini_benito.diktator,obschestvo,rnbo,strana,ukraina,vlast
 eof
 off
 page

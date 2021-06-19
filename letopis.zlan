@@ -32534,6 +32534,9 @@ page
 page
 	set url https://kiev.strana.ua/339515-v-kieve-pojavilsja-pamjatnik-medikam-kotorye-otdali-svoi-zhizni-v-borbe-s-covid-19-.html
 	set tags bolnica,borjba,covid,kiev,medik,pamjatnik,smert,ukraina,vrach
+page
+	set url https://ukraina.ru/exclusive/20180115/1019772887.html
+	set tags bilchenko_evgenia,infvojna,kiev,obschestvo,ukraina
 eof
 off
 page

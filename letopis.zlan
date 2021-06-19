@@ -32537,6 +32537,9 @@ page
 page
 	set url https://ukraina.ru/exclusive/20180115/1019772887.html
 	set tags bilchenko_evgenia,infvojna,kiev,obschestvo,ukraina
+page
+	set url https://strana.ua/news/339521-serhej-leshchenko-ostanetsja-v-nabsovete-ukrzaliznytsi-eshche-na-tri-mesjatsa.html
+	set tags 666,kontrakt,leschenko_sergei,nabsovet,ukraina,ukrzaliznycia
 eof
 off
 page

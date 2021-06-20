@@ -32557,6 +32557,12 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2019/08/23/7224233/
 	set tags belgorod_dnestrovskij.ukraina,dnestr,istoria,krepostj.sooruzhenie,ukraina
+page
+	set url https://strana.ua/opinions/339621-ne-rasslabljajtes-dorohie-patrioty-rano-ili-pozdno-kosa-najdet-na-kamen.html
+	set tags gosudarstvo,patriotizm,ukraina
+page
+	set url https://strana.ua/opinions/339587-boh-danilova-eto-boh-raschelovechivanija.html
+	set tags 2013,__jun_2021.krym.potop,bog,chelovechnost,chelovek,danilov_aleksei,donbass,raschelovechivanie,rnbo,ukraina,vojna
 eof
 off
 page

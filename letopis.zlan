@@ -30958,6 +30958,8 @@ todo
 	# extra space at end, see author_line
 	set rids 10200
 
+	set rids 10680
+
 	# news.ua.censor
 	set rids 10420
 
@@ -32540,6 +32542,21 @@ page
 page
 	set url https://strana.ua/news/339521-serhej-leshchenko-ostanetsja-v-nabsovete-ukrzaliznytsi-eshche-na-tri-mesjatsa.html
 	set tags 666,kontrakt,leschenko_sergei,nabsovet,ukraina,ukrzaliznycia
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/budet-li-na-meste-ukrainy-odna-bolshaia-pustynia-60cd809b344ba663b1758547
+	set tags desert,future,obschestvo,rossia,strana,ukraina
+page
+	set url https://zen.yandex.ru/media/za_predelami_online/ia-sevastopolec-v-5-pokolenii-izmeneniia-gorodageroia-pri-rossii-za-7-let-privodiascie-v-dikost-ukraincev-60ccb9cfb4fa377376c682b3
+	set tags blagoustrojstvo,gorod,izmenenie,krym,obschestvo,rasskaz,rossia,sevastopol,stroitelstvo,ukraina,vpechatlenie,zhizn
+page
+	set url https://lug-info.com/news/nedel-ya-glazami-eksperta-sammit-v-zheneve-razryv-arterii-i-il-zabveniya
+	set tags __2014.il76.lugansk.katastrofa,aviacia,donbass,lugansh,samolet,smert,tragedia,ukraina,vojna
+page
+	set url https://www.radiosvoboda.org/a/yuriy-keresh-zakarpattia-ukrayinska-mova/31305190.html
+	set tags galichina,ideologia,istoria,moskva,moskvofil,rossia,rusmir,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2019/08/23/7224233/
+	set tags belgorod_dnestrovskij.ukraina,dnestr,istoria,krepostj.sooruzhenie,ukraina
 eof
 off
 page

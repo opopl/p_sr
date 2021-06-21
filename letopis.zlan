@@ -32572,6 +32572,24 @@ page
 page
 	set url https://strana.ua/news/339676-serhej-lavrov-zachital-stikh-simonova-po-sluchaju-80-letija-vtorzhenija-natsistov-v-sssr-.html
 	set tags 1941,22_jun,germania,lavrov_sergei,nacizm,poezia,simonov_konstantin,sssr,vov,vov.22.06.1941
+page
+	set url https://strana.ua/articles/istorii/335503-kak-nachinalas-vojna-hermanii-protiv-sssr-22-ijunja-1941-hoda.html
+	set tags germania,istoria,mirvojna2,nacizm,sssr,vojna,vov,vov.22.06.1941
+page
+	set url https://strana.ua/news/339314-jazykovoj-skandal-s-kharkovskoj-studentkoj-marharitoj-maltsevoj-vse-podrobnosti.html
+	set tags harkov,jazyk,mova,travlja,ukraina,ukrainizacia
+page
+	set url https://strana.ua/opinions/339741-pochemu-na-oskorblenie-russkoho-jazyka-u-zelenskoho-vsem-plevat.html
+	set tags jazyk,konstitucia,kvartal95,obschestvo,oskorblenie,ukraina,ukrainizacia,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/339670-ukraina-na-vsekh-parakh-idet-ne-v-es-i-nato-a-v-stranu-mahii.html
+	set tags ekzamen,magia,obrazovanie,obschestvo,studenty,ucheba,ukraina,zno
+page
+	set url https://strana.ua/opinions/339682-prezhde-chem-borotsja-za-borshch-eho-by-nado-dekommunizirovat.html
+	set tags borsch,dekomunizacia,kommunizm,kultura,mafia,mafia.russkaja,rusmir,ukraina
+page
+	set url https://strana.ua/news/339687-jalta-navodnenie-v-krymu-chto-proiskhodit-21-ijunja-i-kak-likvidirujut-katastrofu.html
+	set tags __jun_2021.krym.potop,danilov_aleksei,jalta,krym,navodnenie,potop,rossia,ukraina,voda
 eof
 off
 page

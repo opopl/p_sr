@@ -32590,6 +32590,12 @@ page
 page
 	set url https://strana.ua/news/339687-jalta-navodnenie-v-krymu-chto-proiskhodit-21-ijunja-i-kak-likvidirujut-katastrofu.html
 	set tags __jun_2021.krym.potop,danilov_aleksei,jalta,krym,navodnenie,potop,rossia,ukraina,voda
+page
+	set url https://strana.ua/opinions/339785-davajte-pominutno-vspomnim-kak-nachinalas-ta-vojna.html
+	set tags germania,istoria,nacizm,sssr,vojna,vov,vov.22.06.1941
+page
+	set url https://strana.ua/news/339648-shtamm-koronavirusa-delta-iz-indii-chto-on-delaet-v-rossii-i-kohda-zhdat-v-ukraine.html
+	set tags bolezn,covid,covid.shtamm.india,moskva,pandemia,rossia,sputnik_v,vaccinacia,zabolevajemost'
 eof
 off
 page

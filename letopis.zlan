@@ -32596,6 +32596,18 @@ page
 page
 	set url https://strana.ua/news/339648-shtamm-koronavirusa-delta-iz-indii-chto-on-delaet-v-rossii-i-kohda-zhdat-v-ukraine.html
 	set tags bolezn,covid,covid.shtamm.india,moskva,pandemia,rossia,sputnik_v,vaccinacia,zabolevajemost'
+page
+	set url https://news.obozrevatel.com/sport/sport/nazvana-prichina-gibeli-rekordsmenki-ukrainyi-v-dtp-na-trasse-kiev-priluki.htm
+	set tags smert,sport,tragedia,ukraina
+page
+	set url https://news.obozrevatel.com/society/okkupantyi-vzyalis-prevratit-kryim-v-pustyinyu.htm
+	set tags desert,krym,rossia,ukraina
+page
+	set url https://strana.ua/opinions/339754-v-ukrainskoj-vlasti-sformirovalsja-klubok-universalnykh-menedzherov-kak-v-sssr.html
+	set tags menedzher,nomenklatura,obschestvo,ukraina,zapad
+page
+	set url https://news.obozrevatel.com/society/novosti-kryimnasha-vina-za-proizoshedshuyu-v-kryimu-katastrofu-lezhit-na-okkupantah.htm
+	set tags __jun_2021.krym.potop,jalta,krym,navodnenie,nenavist,potop,rossia,ukraina
 eof
 off
 page

@@ -32659,6 +32659,15 @@ page
 page
 	set url https://www.nkj.ru/open/41551/
 	set tags astronomia,black_matter,nauka,rossia,rusmir,universe
+page
+	set url https://zen.yandex.ru/media/id/608585cf577bd603e23b2409/zabytaia-krasota-slavianskih-imen-60bf11f12b92e05b9b222e4c
+	set tags imja,rusmir,slavjane
+page
+	set url https://zen.yandex.ru/media/id/5c0d47249ba2f700aa080380/i-chego-oni-tak-boiatsia-my-je-dobrye-i-pushistye-60b0e990f8cd844b4e419af2
+	set tags istoria,mir,narod,rossia
+page
+	set url https://zen.yandex.ru/media/stihiavv/kogda-u-tebia-murashki-pobegut-ot-etoi-pesni-togda-ty-poimesh-60cf26e0b4fa377376e18e2f
+	set tags istoria,pesnja,pesnja.vstavaj_strana_ogromnaja,rodina,rossia,sssr,vojna,vov,vov.22.06.1941
 eof
 off
 page

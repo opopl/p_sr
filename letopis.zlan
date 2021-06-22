@@ -32632,6 +32632,12 @@ page
 page
 	set url https://analytics.hvylya.net/232216-manifest-realista-abo-chas-zbirati-kaminnya-vono-nam-skoro-znadobitsya
 	set tags future,manifest,obschestvo,politika,realist,ukraina,vlast
+page
+	set url https://kiev.strana.ua/339865-ekoloh-nazval-prichinu-hustoho-smoha-kotoryj-okutal-kiev-v-zharu.html
+	set tags ekologia,kiev,smog,tuman,ukraina,vozduh,zagrjaznenie.vozduha
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/nemnogo-etodrugina-vam-v-lentu11-60cf97cfaa9d6d2116ddb1b7
+	set tags etodrugoe,rossia,rusmir,russkie,usa,zapad
 eof
 off
 page

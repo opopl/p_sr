@@ -32650,11 +32650,6 @@ page
 page
 	set url https://gorky.media/news/umer-poet-aleksandr-eremenko/
 	set tags jeremenko_aleksandr.poet.rossia,kultura,literatura,poezia,rossia,rusmir,smert
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://day.kyiv.ua/uk/article/podrobyci/velyka-vitchyznyana-chy-druga-svitova
 	set tags diskussia,germania,hitler_adolf,istoria,nacizm,sssr,vov,vov.22.06.1941

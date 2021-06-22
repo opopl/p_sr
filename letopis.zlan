@@ -32608,6 +32608,15 @@ page
 page
 	set url https://news.obozrevatel.com/society/novosti-kryimnasha-vina-za-proizoshedshuyu-v-kryimu-katastrofu-lezhit-na-okkupantah.htm
 	set tags __jun_2021.krym.potop,jalta,krym,navodnenie,nenavist,potop,rossia,ukraina
+page
+	set url https://strana.ua/news/339790-22-ijunja-80-let-napadenija-na-sssr-chto-nemtsy-hotovili-dlja-ukraintsev.html
+	set tags 1941,22_jun,germania,istoria,nacionalizm,nacizm,rozenberg_alfred.nacist.ideolog,ss_galichina,sssr,ukraina,vov,vov.22.06.1941
+page
+	set url https://strana.ua/opinions/339836-u-soten-millionov-zhivushchikh-data-22-ijunja-1941-hoda-v-krovi.html
+	set tags istoria,mif,mifologia,pamjat,sssr,ukraina,vov,vov.22.06.1941
+page
+	set url https://strana.ua/news/339837-v-ternopolskoj-oblasti-muzhchina-ubil-zhenu-utjuhom-i-vzorval-sebja-bomboj.html
+	set tags murder,semja,smert,ternopil,tragedia,ukraina,vzryv
 eof
 off
 page

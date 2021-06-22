@@ -30940,6 +30940,9 @@ todo
 	# author
 	set rids 10165,10177
 
+	# nauka.ru.nkj
+	set rids 10714
+
 	# news.ua.hvylya 
 	set rids 10039,10104,10364,10365,10366,10498,10609,10705
 
@@ -32653,6 +32656,9 @@ page
 page
 	set url https://day.kyiv.ua/uk/article/podrobyci/velyka-vitchyznyana-chy-druga-svitova
 	set tags diskussia,germania,hitler_adolf,istoria,nacizm,sssr,vov,vov.22.06.1941
+page
+	set url https://www.nkj.ru/open/41551/
+	set tags astronomia,black_matter,nauka,rossia,rusmir,universe
 eof
 off
 page

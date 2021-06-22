@@ -32617,6 +32617,12 @@ page
 page
 	set url https://strana.ua/news/339837-v-ternopolskoj-oblasti-muzhchina-ubil-zhenu-utjuhom-i-vzorval-sebja-bomboj.html
 	set tags murder,semja,smert,ternopil,tragedia,ukraina,vzryv
+page
+	set url https://www.radiosvoboda.org/a/berezan-i-starodubshscyna-druha-svitova-viyna/31317490.html
+	set tags berezanj.ukraina,germania,istoria,mirvojna2,nacizm,sssr,ukraina,vojna,vov,vov.22.06.1941
+page
+	set url https://www.pravda.com.ua/articles/2021/06/22/7297980/
+	set tags germania,hitler_adolf,istoria,kommunizm,mirvojna2,nacizm,pamjat,sssr,stalin_iosif,vojna,vov,vov.22.06.1941
 eof
 off
 page

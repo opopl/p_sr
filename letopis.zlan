@@ -30941,7 +30941,7 @@ todo
 	set rids 10165,10177
 
 	# news.ua.hvylya 
-	set rids 10039,10104,10364,10365,10366,10498,10609
+	set rids 10039,10104,10364,10365,10366,10498,10609,10705
 
 	# news.nvr.voshod_info
 	set rids 10179,10180,10181,10247
@@ -32623,6 +32623,15 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/06/22/7297980/
 	set tags germania,hitler_adolf,istoria,kommunizm,mirvojna2,nacizm,pamjat,sssr,stalin_iosif,vojna,vov,vov.22.06.1941
+page
+	set url https://sharij.net/v-fsb-rassekretili-dokumenty-ob-eksperimentah-naczistskih-vrachej-v-krymu-vyrezali-organy-i-vykachivali-krov
+	set tags fsb,istoria,murder,nacizm,prestuplenie.protiv_chelovechnosti,rossia,smert,sssr
+page
+	set url https://analytics.hvylya.net/232286-shcho-chekaye-na-ukrajinu
+	set tags future,gosudarstvo,istoria,obschestvo,ukraina
+page
+	set url https://analytics.hvylya.net/232216-manifest-realista-abo-chas-zbirati-kaminnya-vono-nam-skoro-znadobitsya
+	set tags future,manifest,obschestvo,politika,realist,ukraina,vlast
 eof
 off
 page

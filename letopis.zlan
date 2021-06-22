@@ -32638,6 +32638,18 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/nemnogo-etodrugina-vam-v-lentu11-60cf97cfaa9d6d2116ddb1b7
 	set tags etodrugoe,rossia,rusmir,russkie,usa,zapad
+page
+	set url https://www.radiosvoboda.org/a/news-buharest-vbolovalnyky-krym-ukraina/31320759.html
+	set tags bolelschik,buharest.romania.stolica,futbol,krym,politika,romania,rossia,skandal,sport
+page
+	set url https://www.radiosvoboda.org/a/chomu-zatopylo-yaltu-i-kerch-chy-stane-pislya-zlyv-v-krymu-bilshe-vody/31320382.html
+	set tags __blokada.krym.voda,__jun_2021.krym.potop,dnepr,jalta,krym,navodnenie,potop,rossia,ukraina,voda
+page
+	set url https://www.pravda.com.ua/news/2021/06/22/7298087/
+	set tags kriminal,murder,policia,pozhar,ukraina
+page
+	set url https://gorky.media/news/umer-poet-aleksandr-eremenko/
+	set tags jeremenko_aleksandr.poet.rossia,kultura,literatura,poezia,rossia,rusmir,smert
 eof
 off
 page

@@ -86,6 +86,7 @@ include:
     - kultura.ru.portal
     - kultura.ru.culture_ru
     - kultura.ru.ukrcentr
+    - kultura.ru.gorky_media
 
 ###socset
     - socset.livejournal

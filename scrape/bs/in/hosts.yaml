@@ -167,6 +167,7 @@
 'portal-kultura.ru' : { 'site' : 'kultura.ru.portal' }
 'ukrcentr.ru' : { 'site' : 'kultura.ru.ukrcentr' }
 'www.culture.ru' : { 'site' : 'kultura.ru.culture_ru' }
+'gorky.media' : { 'site' : 'kultura.ru.gorky_media' }
 
 ###sport.ru
 'championat.com' : { 'site' : 'sport.ru.championat' }

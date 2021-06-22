@@ -32668,6 +32668,9 @@ page
 page
 	set url https://zen.yandex.ru/media/stihiavv/kogda-u-tebia-murashki-pobegut-ot-etoi-pesni-togda-ty-poimesh-60cf26e0b4fa377376e18e2f
 	set tags istoria,pesnja,pesnja.vstavaj_strana_ogromnaja,rodina,rossia,sssr,vojna,vov,vov.22.06.1941
+page
+	set url https://censor.net/ru/resonance/3270685/artilerist_maksim_baglyi_rozpovd_scho_ot_koli_priyidut_do_mene_dodomu_tod_ya_budu_voyuvati_ya_ne_spriyimayu
+	set tags donbass,maidan2,titushki,ukraina,vojna
 eof
 off
 page

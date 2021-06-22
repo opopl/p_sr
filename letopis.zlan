@@ -30944,7 +30944,7 @@ todo
 	set rids 10714
 
 	# news.ua.hvylya 
-	set rids 10039,10104,10364,10365,10366,10498,10609,10705
+	set rids 10039,10104,10364,10365,10366,10498,10609,10705,10720
 
 	# news.nvr.voshod_info
 	set rids 10179,10180,10181,10247
@@ -32671,6 +32671,23 @@ page
 page
 	set url https://censor.net/ru/resonance/3270685/artilerist_maksim_baglyi_rozpovd_scho_ot_koli_priyidut_do_mene_dodomu_tod_ya_budu_voyuvati_ya_ne_spriyimayu
 	set tags donbass,maidan2,titushki,ukraina,vojna
+page
+	set url https://zen.yandex.ru/media/id/5d2c9661c49f2900aef426fd/ukrainskaia-diplomatiia-sochetanie-nesochetaemogo-60c4defa123d127494540349
+	set tags diplomatia,kiev,oksjumoron,ukraina
+page
+	set url https://analytics.hvylya.net/232449-80-rokiv-napadu-fashistskoji-nimechchini-ukrajina-dala-vse-vid-sebe-dlya-peremogi-nad-nacizmom
+	set tags germania,istoria,mirvojna2,nacizm,ukraina,vov,vov.22.06.1941
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.ua/news/339797-22-ijunja-v-kieve-chto-hovorili-ukrainskie-politiki.html
+	set tags 1941,22.06.1941,22_jun,germania,istoria,merkel_angela,nacizm,opzzh,putin_vladimir,rossia,sssr,ukraina,vov,vov.22.06.1941,vsu,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/operation-barbarossa-photos-nazi-invasion-soviet-union/31320823.html
+	set tags germania,istoria,mirvojna2,nacizm,napadenie,plan.barbarossa.nacizm,sssr,vojna,vov,vov.22.06.1941
 eof
 off
 page

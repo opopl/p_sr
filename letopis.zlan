@@ -32708,6 +32708,10 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210623/1031703231.html
 	set tags giljarovskij_vladimir.zhurnalist.1855_1935,harkov,hudozhnik,isskustvo,javornickij_dmitrij.istorik,kartina,kazaki,repin_ilja.hudozhnik,ukraina,vojsko_zaporozhskoje,zaporozhie
+page
+	set url http://romankuxaruk.com.ua/uk/blog/show/tsvyetnosti-vid-yuhla-tranzitom-z-galichini-u-knyagomu-kiyivi
+	set tags absurd,galichina,kiev,kuharuk_roman,kultura,moskva,nenavist,paranoia,ukraina,vrag
+	set date 26_06_2020
 eof
 off
 page

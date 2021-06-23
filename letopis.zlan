@@ -32721,6 +32721,18 @@ page
 page
 	set url https://lenta.ru/news/2021/06/23/corr/
 	set tags black_sea,britania,granica,granica.narushenie,korabl,krym,rossia
+page
+	set url https://zaxid.net/podviyniy_vorog_ukrayini_n1520965
+	set tags obschestvo,oligarhi,rossia,ukraina
+page
+	set url https://zaxid.net/chesno_misliti_pro_vlasnu_krayinu_n1521091
+	set tags __apr_2021.kiva.dissertacia,chestnost,dissertacia,kiva_ilja,myshlenie,obschestvo,strana,ukraina
+page
+	set url https://zaxid.net/ukrayinskomu_natsionalizmu_mozhlivo_poshhastilo_shho_katerina_ii_znishhila_zaporizku_sich_n1521161
+	set tags 1775,ekaterina_II,ideologia,istoria,kazaki,mif,mifologia,nacionalizm,rossia,rusimperia,ukraina,vojsko_zaporozhskoje
+page
+	set url https://zen.yandex.ru/media/feel_fuck_online/zagadochnoe-slovo-rossiia-60d1a80b5fc3481f3f16c7af
+	set tags istoria,rossia,rus',rusmir,slovo,slovo.rossia
 eof
 off
 page

@@ -32692,6 +32692,17 @@ page
 page
 	set url https://strana.ua/news/340010-studentka-marharita-iz-kharkova-popala-v-bolnitsu-posle-napadok-iz-za-jazyka.html
 	set tags bolnica,devushka,harkov,jazyk,mova,oskorblenie,skandal,studenty,ukraina,ukrainizacia,unizhenie
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.ua/news/339310-pozhalovavshujusja-na-ukrainskij-kharkovskuju-studentku-khotjat-uvolit-i-uhrozhajut-politsiej.html
+	set tags __jun_2021.mova.margarita.harkov,devushka,hamstvo,harkov,jazyk,mova,oskorblenie,pushkin_aleksandr,putin_vladimir,skandal,ugroza,ukraina,unizhenie,zabashta_viktor.harkov.centr_medpomoschi
+page
+	set url https://strana.ua/opinions/339974-po-evropejskim-merkam-sajt-mirotvorets-srednevekovaja-zhut.html
+	set tags internet,mirotvorec_sajt,pase,presledovanie,repressii,ukraina,vengria
 eof
 off
 page

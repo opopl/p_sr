@@ -32712,6 +32712,15 @@ page
 	set url http://romankuxaruk.com.ua/uk/blog/show/tsvyetnosti-vid-yuhla-tranzitom-z-galichini-u-knyagomu-kiyivi
 	set tags absurd,galichina,kiev,kuharuk_roman,kultura,moskva,nenavist,paranoia,ukraina,vrag
 	set date 26_06_2020
+page
+	set url https://lug-info.com/news/zhiteli-lnr-v-den-pamyati-i-skorbi-pochtili-pamyat-pogibshih-v-velikoj-otechestvennoj-vojne
+	set tags 80_let,alchevsk,brjanka,donbass,germania,istoria,kirovsk.lnr,krasnodon.lnr,lampadka,lnr,lugansk,mir_luganschine,molodezh_parlament.lnr,nacizm,pamjat,pasechnik_leonid,perevalsk,pervomajsk,sssr,svecha,svecha.pamjati,veteran.vov,vojna,vov,vov.22.06.1941
+page
+	set url https://lenta.ru/news/2021/06/23/vystrel/
+	set tags black_sea,bomba,bombardirovschik,britania,flot,granica,granica.narushenie,krym,rossia
+page
+	set url https://lenta.ru/news/2021/06/23/corr/
+	set tags black_sea,britania,granica,granica.narushenie,korabl,krym,rossia
 eof
 off
 page

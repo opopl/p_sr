@@ -32701,11 +32701,18 @@ page
 page
 	set url https://strana.ua/news/340026-chto-prinjal-kabin-23-ijunja.html
 	set tags itogi,kabmin,ukraina
+page
+	set url http://romankuxaruk.com.ua/uk/blog/show/ukrayinska-stihiya-a-vorogi
+	set tags future,mentalitet,nacia,narod,obschestvo,stihia,ukraina
+	set date 08_04_2021
+page
+	set url https://ukraina.ru/exclusive/20210623/1031703231.html
+	set tags giljarovskij_vladimir.zhurnalist.1855_1935,harkov,hudozhnik,isskustvo,javornickij_dmitrij.istorik,kartina,kazaki,repin_ilja.hudozhnik,ukraina,vojsko_zaporozhskoje,zaporozhie
 eof
 off
 page
 	set url 
-	set tags <++>
+	set tags 
 
 	#set redo 1
 	#setlist acts

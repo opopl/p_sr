@@ -32703,6 +32703,9 @@ page
 page
 	set url https://strana.ua/opinions/339974-po-evropejskim-merkam-sajt-mirotvorets-srednevekovaja-zhut.html
 	set tags internet,mirotvorec_sajt,pase,presledovanie,repressii,ukraina,vengria
+page
+	set url https://strana.ua/news/340026-chto-prinjal-kabin-23-ijunja.html
+	set tags itogi,kabmin,ukraina
 eof
 off
 page

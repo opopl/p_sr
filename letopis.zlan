@@ -32689,6 +32689,9 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/firsov/60d2d1da8f24d/
 	set tags ekologia,gorod,kiev,musor,ukraina
+page
+	set url https://strana.ua/news/340010-studentka-marharita-iz-kharkova-popala-v-bolnitsu-posle-napadok-iz-za-jazyka.html
+	set tags bolnica,devushka,harkov,jazyk,mova,oskorblenie,skandal,studenty,ukraina,ukrainizacia,unizhenie
 eof
 off
 page

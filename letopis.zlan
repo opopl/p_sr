@@ -32677,17 +32677,18 @@ page
 page
 	set url https://analytics.hvylya.net/232449-80-rokiv-napadu-fashistskoji-nimechchini-ukrajina-dala-vse-vid-sebe-dlya-peremogi-nad-nacizmom
 	set tags germania,istoria,mirvojna2,nacizm,ukraina,vov,vov.22.06.1941
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/news/339797-22-ijunja-v-kieve-chto-hovorili-ukrainskie-politiki.html
 	set tags 1941,22.06.1941,22_jun,germania,istoria,merkel_angela,nacizm,opzzh,putin_vladimir,rossia,sssr,ukraina,vov,vov.22.06.1941,vsu,zelenskii_vladimir
 page
 	set url https://www.radiosvoboda.org/a/operation-barbarossa-photos-nazi-invasion-soviet-union/31320823.html
 	set tags germania,istoria,mirvojna2,nacizm,napadenie,plan.barbarossa.nacizm,sssr,vojna,vov,vov.22.06.1941
+page
+	set url https://blogs.pravda.com.ua/authors/bratushchak/60cf2bbc38fbb/
+	set tags lukash_elena,portnov_andrei,razborki,rossia,rusmir,sharij_analotij,skandal,ssora,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/firsov/60d2d1da8f24d/
+	set tags ekologia,gorod,kiev,musor,ukraina
 eof
 off
 page

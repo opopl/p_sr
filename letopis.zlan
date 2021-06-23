@@ -32736,6 +32736,21 @@ page
 page
 	set url https://zen.yandex.ru/media/zacepilo/makedonskii-vseia-rusi-drevneishii-nash-pamiatnik-propagandy-60cb23ffa497d93fa903a37a
 	set tags arhitektura,hram,istoria,rossia,zodchestvo
+page
+	set url https://strana.ua/opinions/340005-ukrainskij-mir-s-eho-salom-na-noch-hotov-k-novomu-srednevekovju.html
+	set tags dieta,magia,obschestvo,patriotizm,srednevekovie,ukraina
+page
+	set url https://strana.ua/opinions/339972-hibridnye-vojny-velis-i-mnoho-stoletij-tomu-nazad.html
+	set tags dip_otnoshenia,istoria,rossia,territoria,torgovlja,ukraina,vojna,vojna.gibridnaja
+page
+	set url https://strana.ua/opinions/339976-v-ukraine-radujutsja-jaltinskomu-potopu-ne-zamechaja-sobstvennykh-bed.html
+	set tags __jun_2021.krym.potop,ekologia,jalta,kiev,krym,navodnenie,potop,ukraina,voda,vodohranilische,vodohranilische.kiev,zloradstvo
+page
+	set url https://strana.ua/opinions/339979-u-nas-vse-imitatsija-prepodavanie-matematiki-ne-iskljuchenie.html
+	set tags ekzamen,imitacia,matematika,obrazovanie,obschestvo,ucheba,ukraina,zno
+page
+	set url https://strana.ua/opinions/340090-ne-tak-strashny-vojny-za-svoi-ubezhdenija-kak-svoi-zabluzhdenija.html
+	set tags mif,mifologia,nacizm,obschestvo,protivnik,religia,rusmir,vojna
 eof
 off
 page

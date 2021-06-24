@@ -32792,6 +32792,15 @@ page
 page
 	set url https://strana.ua/opinions/340239-otritsatelnoe-torhovoe-saldo-ukrainy-s-rf-patriotichnaja-dyra.html
 	set tags bezumie,dissonans.kognitivnyj,politika,razum,shizofrenia,torgovlja,ukraina,usa,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/340301-futbolnoho-porazhenija-ukraine-ne-zhelal-prakticheski-nikto-iz-rossijan.html
+	set tags bratstvo,futbol,nenavist,politika,propaganda,rossia,sport,st_peterburg,ukraina
+page
+	set url https://strana.ua/opinions/340300-dlja-pobedy-nad-koronavirusom-nado-vaktsinirovat-tretij-mir.html
+	set tags covid,egoizm,third_world,usa,vaccinacia,vaccine,zapad
+page
+	set url https://strana.ua/news/340235-chto-pishet-ob-intsidente-s-korablem-defender-britanskie-smi.html
+	set tags __jun_2021.krym.britania.korabl,black_sea,britania,flot,granica,granica.narushenie,krym,rossia
 eof
 off
 page

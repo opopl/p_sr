@@ -32775,6 +32775,23 @@ page
 page
 	set url https://zen.yandex.ru/media/litinteres/v-dvadcatom-veke-bylo-napisano-tolko-tri-feerii-odna-belgiiskaia-dve-nashi-60a51146ec352b33cc616c91
 	set tags chudo,feeria,grin_aleksandr.pisatel,kniga,lesja_ukrainka,literatura,rusmir,zhanr,zhanr.literatura
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.ua/news/340264-kak-sledjat-za-zhiteljami-donetskoj-oblasti-po-internetu-chto-takoe-osint.html
+	set tags internet,kiberpolicia,obschestvo,razvedchik,razvedka,slezhka,socset,ukraina
+page
+	set url https://strana.ua/news/340296-amerikanku-nazvali-samoj-vlijatelnoj-zhenshchinoj-ukrainy.html
+	set tags krjukova_svetlana,kvin_kristina.posol.usa,rejting,ukraina,us_embassy,usa,venediktova_irina,woman,zhurnal.fokus.ukr
+page
+	set url https://strana.ua/opinions/340236-ukrainskaja-vlast-nikak-ne-mozhet-vyjti-iz-pervobytno-obshchinnoho-stroja.html
+	set tags magia,obschestvo,ukraina,zaklinanie
+page
+	set url https://strana.ua/opinions/340239-otritsatelnoe-torhovoe-saldo-ukrainy-s-rf-patriotichnaja-dyra.html
+	set tags bezumie,dissonans.kognitivnyj,politika,razum,shizofrenia,torgovlja,ukraina,usa,zelenskii_vladimir
 eof
 off
 page

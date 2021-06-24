@@ -32760,6 +32760,12 @@ page
 page
 	set url https://strana.ua/opinions/340191-daesh-polnuju-samoizoljatsiju-ukrainy-po-perimetru-byvshikh-sovetskikh-hranits.html
 	set tags belarus,deputat,dip_otnoshenia,goncharenko_alexei,partia_es,sankcii,ukraina,verhovna_rada
+page
+	set url https://strana.ua/articles/private-life/340169-pervyj-vitse-spiker-ruslan-stefanchuk-zakanchivaet-stroitelstvo-roskoshnoho-osobnjaka-v-anhlijskom-stile.html
+	set tags anglia,bogatstvo,ideologia,osobnjak,sluga_naroda,stefanchuk_ruslan.deputat.ukr,ukraina,verhovna_rada
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/ukraincy-vot-vam-primer-nastoiascei-gidnosti-i-samostiinosti-60d415941ff3a55655aec208
+	set tags britania,dostoinstvo,nezalezhnist,rabolepstvo,rabstvo,rossia,ukraina,unizhenie,usa
 eof
 off
 page

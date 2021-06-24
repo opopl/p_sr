@@ -32751,6 +32751,12 @@ page
 page
 	set url https://strana.ua/opinions/340090-ne-tak-strashny-vojny-za-svoi-ubezhdenija-kak-svoi-zabluzhdenija.html
 	set tags mif,mifologia,nacizm,obschestvo,protivnik,religia,rusmir,vojna
+page
+	set url https://strana.ua/opinions/340186-kino-pro-eto-ne-snimut-sanktsii-ne-nalozhat-olimpiadu-ne-zaberut.html
+	set tags aes,atomic_energy,ekologia,japonia,world
+page
+	set url https://strana.ua/opinions/340184-ne-vse-tak-prosto-i-odnoznachno-s-etim-hondurasom.html
+	set tags gonduras,gosudarstvo,obschestvo,puteshestvie,sravnenie,strana,turizm,ukraina,vpechatlenie
 eof
 off
 page

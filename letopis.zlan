@@ -32769,6 +32769,12 @@ page
 page
 	set url https://analytics.hvylya.net/232494-ukraina-mezhdu-3d-i-odnoy-zh
 	set tags future,gaslo,narod,obschestvo,politika,ukraina,unynie,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/masovi-rozstrily-nkvs-tyurmy/31322765.html
+	set tags 1941,22.06.1941,22_jun,istoria,lvov,mirvojna2,murder,nkvd,rasstrel,repressii,smert,sssr,tragedia,ukraina,vov,vov.22.06.1941
+page
+	set url https://zen.yandex.ru/media/litinteres/v-dvadcatom-veke-bylo-napisano-tolko-tri-feerii-odna-belgiiskaia-dve-nashi-60a51146ec352b33cc616c91
+	set tags chudo,feeria,grin_aleksandr.pisatel,kniga,lesja_ukrainka,literatura,rusmir,zhanr,zhanr.literatura
 eof
 off
 page

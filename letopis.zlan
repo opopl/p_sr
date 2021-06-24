@@ -32775,11 +32775,6 @@ page
 page
 	set url https://zen.yandex.ru/media/litinteres/v-dvadcatom-veke-bylo-napisano-tolko-tri-feerii-odna-belgiiskaia-dve-nashi-60a51146ec352b33cc616c91
 	set tags chudo,feeria,grin_aleksandr.pisatel,kniga,lesja_ukrainka,literatura,rusmir,zhanr,zhanr.literatura
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/news/340264-kak-sledjat-za-zhiteljami-donetskoj-oblasti-po-internetu-chto-takoe-osint.html
 	set tags internet,kiberpolicia,obschestvo,razvedchik,razvedka,slezhka,socset,ukraina
@@ -32801,6 +32796,24 @@ page
 page
 	set url https://strana.ua/news/340235-chto-pishet-ob-intsidente-s-korablem-defender-britanskie-smi.html
 	set tags __jun_2021.krym.britania.korabl,black_sea,britania,flot,granica,granica.narushenie,krym,rossia
+page
+	set url https://strana.ua/opinions/340345--pomnite-chto-o-cheloveke-mozhno-sudit-po-eho-vraham.html
+	set tags absurd,kirkorov_filipp,kultura,literatura,nacbezopasnost,rossia,showbiz,ukraina,vrag
+page
+	set url https://strana.ua/opinions/340347-my-doshli-do-tochki-kohda-cheloveku-chtoby-vyzhit-voobshche-nicheho-ne-objazatelno.html
+	set tags chelovek,obschestvo,ukraina,vlast,xxi_vek
+page
+	set url https://strana.ua/news/340328-polnyj-spisok-lits-protiv-kotorykh-vvel-sanktsii-zelenskij.html
+	set tags presledovanie,sankcii,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/340357-zelenskij-dopuskaet-referendum-o-rastorzhenii-otnoshenij-s-donbassom-.html
+	set tags donbass,narod,normandskaja_chetverka,peregovory,razryv,referendum,rossia,vojna,zelenskii_vladimir
+page
+	set url https://sharij.net/v-mid-rf-soobshhili-chto-kirkorov-rossijskoe-oruzhie-massovogo-porazheniya
+	set tags mid_rf,nacbezopasnost,oruzhie,oruzhie.massovogo_porazhenia,rossia,ukraina,zaharova_maria
+page
+	set url https://news.obozrevatel.com/politics/klyuchi-ot-mira-v-ukraine-nahodyatsya-v-rukah-kremlya.htm
+	set tags donbass,mir,putin_vladimir,rossia,ukraina,vojna
 eof
 off
 page

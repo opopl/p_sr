@@ -124,6 +124,7 @@ include:
     #- news.ua.segodnya
     #- news.ua.sprotyv
     #- news.ua.tyzhden
+    - news.ua.focus
     - news.ua.gorlovka
     - news.ua.pravyj_sektor
     - news.ua.slovoprosvity

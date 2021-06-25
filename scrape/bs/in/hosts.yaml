@@ -2,6 +2,7 @@
 ###news.ua
 #
 
+'focus.ua' : { 'site' : 'news.ua.focus' }
 'gorlovka.ua' : { 'site' : 'news.ua.gorlovka' }
 'pravyysektor.info' : { 'site' : 'news.ua.pravyj_sektor' }
 'slovoprosvity.org' : { 'site' : 'news.ua.slovoprosvity' } 

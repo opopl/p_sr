@@ -32829,6 +32829,20 @@ page
 page
 	set url https://zen.yandex.ru/media/belrus/malo-kto-znaet-kakoi-imenno-orel-izobrajen-na-gerbe-rossii-60ca5bab8f45bb66915f6fe7
 	set tags dvuglavyj_orel,gerb.rossia,gramota,istoria,rossia,rusimperia
+page
+	set url https://vz.ru/opinions/2021/6/18/1104023.html
+	set tags civilizacia,kipling_redjard,mem,missia,pravoslavie,putin_vladimir,rossia,rusmir,vera,zaschita
+page
+	set url https://i-ua.tv/society/27800-serhii-datsiuk-na-nas-chekaie-ruinuvannia-isnuiuchoho-zhertva-pereosmyslennia-i-novyi-pochatok
+	set tags dacjuk_sergej.filosof,filosof,filosofia,future,konstitucia,myshlenie,nacia,nacidea,nacionalizm,obschestvo,orlik_filip,otvetstvennost',ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://focus.ua/ukraine/486413-v-rejtinge-fokusa-top-100-vliyatelnyh-zhenshin-bolshe-poloviny-novyh-imen
+	set tags kvin_kristina.posol.usa,obschestvo,posolstvo_usa.kiev,rejting,strana,usa,vlijanie,woman
 eof
 off
 page

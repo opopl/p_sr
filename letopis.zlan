@@ -32843,6 +32843,9 @@ global
 page
 	set url https://focus.ua/ukraine/486413-v-rejtinge-fokusa-top-100-vliyatelnyh-zhenshin-bolshe-poloviny-novyh-imen
 	set tags kvin_kristina.posol.usa,obschestvo,posolstvo_usa.kiev,rejting,strana,usa,vlijanie,woman
+page
+	set url https://zen.yandex.ru/media/alexpolyakov/poehal-vo-lvov-kogda-mnogie-boialis-tuda-ehat-ves-risk-radi-arhitektury-pokazyvaiu-chto-skryvaetsia-za-fasadami-606cc9ce01bd4224ca41ac2f
+	set tags arhitektura,gorod,lvov,rossia,turizm,ukraina
 eof
 off
 page

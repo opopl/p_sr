@@ -32814,6 +32814,15 @@ page
 page
 	set url https://news.obozrevatel.com/politics/klyuchi-ot-mira-v-ukraine-nahodyatsya-v-rukah-kremlya.htm
 	set tags donbass,mir,putin_vladimir,rossia,ukraina,vojna
+page
+	set url https://karpatskasich.com/articles/item/209-trahediia-drezdena
+	set tags 1945,bombardirovka,drezden.bombardirovka.1945,drezden.germania,germania,gorod,istoria,mirvojna2,tragedia
+page
+	set url https://strana.ua/news/340421-roman-protasevich-i-sofja-sapeha-pod-domashnim-arestom-chto-izvestno-ob-ikh-osvobozhdenii-iz-sizo.html
+	set tags arest,belarus,lukashenko_aleksandr,protasevich_roman.belarus.nexta,sapega_sofja.devushka.protasevich.rossia
+page
+	set url https://zen.yandex.ru/media/id/6003f1707dc5fd0f6de8a3c7/chtoby-mir-izvratit-nujno-prosto-iskazit-iskonnuiu-sut-slova-60d0b464b2ba075e653d51f9
+	set tags bog,chelovek,slovo,vera
 eof
 off
 page

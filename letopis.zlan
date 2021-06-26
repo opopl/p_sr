@@ -32835,17 +32835,30 @@ page
 page
 	set url https://i-ua.tv/society/27800-serhii-datsiuk-na-nas-chekaie-ruinuvannia-isnuiuchoho-zhertva-pereosmyslennia-i-novyi-pochatok
 	set tags dacjuk_sergej.filosof,filosof,filosofia,future,konstitucia,myshlenie,nacia,nacidea,nacionalizm,obschestvo,orlik_filip,otvetstvennost',ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://focus.ua/ukraine/486413-v-rejtinge-fokusa-top-100-vliyatelnyh-zhenshin-bolshe-poloviny-novyh-imen
 	set tags kvin_kristina.posol.usa,obschestvo,posolstvo_usa.kiev,rejting,strana,usa,vlijanie,woman
 page
 	set url https://zen.yandex.ru/media/alexpolyakov/poehal-vo-lvov-kogda-mnogie-boialis-tuda-ehat-ves-risk-radi-arhitektury-pokazyvaiu-chto-skryvaetsia-za-fasadami-606cc9ce01bd4224ca41ac2f
 	set tags arhitektura,gorod,lvov,rossia,turizm,ukraina
+page
+	set url https://strana.ua/sport/football/340552-futbolist-kalinin-rasskazal-ob-uhrozakh-ukraintsev-posle-smeny-hrazhdanstva.html
+	set tags chelovechnost,futbol,grazhdanstvo,internet,kalinin_igor.futbolist.rossia,nenavist,obschestvo,rossia,semja,socset,ukraina
+page
+	set url https://kiev.strana.ua/340531-na-kontserte-basty-nachalis-perepalki-s-natsionalistami.html
+	set tags basta.rossia.repper,kiev,koncert,krym,materschina,muzyka,nacionalist,politika,protest,rossia,showbiz,skandal,ukraina
+page
+	set url https://kiev.strana.ua/340522-v-kieve-prokhodit-kontsert-repera-basty-.html
+	set tags basta.rossia.repper,gorod,kiev,koncert,muzyka,nacionalist,radikalizm,radikaly,showbiz,sternenko_sergei,ukraina
+page
+	set url https://strana.ua/opinions/340403-esli-est-hromkie-obvinenija-no-net-dokazatelstv-eto-repressii.html
+	set tags medvedchuk_viktor,presledovanie,repressii,semja,tescha,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/340503-zakonchilas-ukraina-promyshlennaja-i-nauchnaja-prishla-batrachnaja.html
+	set tags fizika,matematika,nauka,obrazovanie,shkola,ucheba,ukraina,zno
+page
+	set url https://strana.ua/opinions/340567-adekvatnyj-ukrainets-odinakovo-ljubit-bastu-i-okean-elzy.html
+	set tags adekvatnost,obschestvo,patriotizm,radikalizm,radikaly,ukraina
 eof
 off
 page

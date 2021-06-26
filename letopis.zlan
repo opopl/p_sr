@@ -32862,6 +32862,12 @@ page
 page
 	set url https://dev.to/hhsm95/python-facebook-posts-scraper-with-requests-and-beautifulsoup4-273a
 	set tags facebook,internet,pc,python3,scraping
+page
+	set url https://strana.ua/opinions/340644-zelenskij-otlichno-vpisalsja-v-rol-polykhaeva-iz-zolotoho-telenka.html
+	set tags absurd,kniga.zolotoj_telenok,kultura,literatura,obschestvo,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/340676-na-vypusknom-vechere-v-krivom-rohe-devushku-iznasiloval-uchitel.html
+	set tags devushka,iznasilovanie,kriminal,krivoj_rog,policia,uchitel,ukraina
 eof
 off
 page

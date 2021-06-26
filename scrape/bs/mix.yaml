@@ -179,6 +179,7 @@ include:
     - pc.articles.linuxize
     - pc.articles.habr
     - pc.articles.pavlutin
+    - pc.articles.devto
     #- pc.cairographics 
     #- pc.cairosvg
     

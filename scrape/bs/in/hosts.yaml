@@ -196,6 +196,7 @@
 
 ###pc
 
+'dev.to' : { 'site' : 'pc.articles.devto' }
 'habr.com' : { 'site' : 'pc.articles.habr' }
 'linuxize.com' : { 'site' : 'pc.articles.linuxize' }
 

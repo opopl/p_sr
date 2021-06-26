@@ -32859,6 +32859,9 @@ page
 page
 	set url https://strana.ua/opinions/340567-adekvatnyj-ukrainets-odinakovo-ljubit-bastu-i-okean-elzy.html
 	set tags adekvatnost,obschestvo,patriotizm,radikalizm,radikaly,ukraina
+page
+	set url https://dev.to/hhsm95/python-facebook-posts-scraper-with-requests-and-beautifulsoup4-273a
+	set tags facebook,internet,pc,python3,scraping
 eof
 off
 page

@@ -32904,6 +32904,9 @@ page
 page
 	set url https://vz.ru/world/2021/6/26/1105803.html
 	set tags kolonia,obschestvo,rejting,strana,ukraina,zhurnal.fokus.ukr
+page
+	set url https://strana.ua/news/318639-tkachenko-anonsiroval-zapusk-tsentra-protivodejstvija-dezinformatsii.html
+	set tags dezinformacia,fejk,infvojna,obschestvo,propaganda,rossia,tkachenko_aleksandr,ukraina,zhurnalist,zhurnalistika
 eof
 off
 page

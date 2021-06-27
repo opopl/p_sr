@@ -8,12 +8,17 @@ page
 	set tags bilchenko_evgenia
 	set title БЖ. Шариковы
 	set date 31_01_2021
-on
 page
 	set url https://www.facebook.com/yevzhik/posts/3601937103174707
 	set tags bilchenko_evgenia
 	set title БЖ. Так взрослеют (рецензирую поток обо-мне-сми-шоу)
 	set date 31_01_2021
+on
+page
+	set url https://www.facebook.com/groups/promovugroup/posts/995944770979384/
+	set tags smolij_andrij,zelenskii_vladimir,interview,ukraina
+	set title Яке позорисько - Зеленський - інтерв'ю - Мосійчук
+	set date 24_06_2021
 eof
 off
 page

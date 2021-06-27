@@ -30950,7 +30950,7 @@ todo
 	set rids 10179,10180,10181,10247
 	
 	# news.ru.vzgljad
-	set rids 10613
+	set rids 10613,10793
 
 	# news.ua.pravda
 	set rids 10268,10271,10381,10383
@@ -32877,6 +32877,33 @@ page
 page
 	set url https://strana.ua/news/339624-zachem-v-ispaniju-priplyli-revoljutsionery-iz-meksiki-.html
 	set tags aktivist,bunt,ispania,istoria,korabl,madrid,meksika,okean.atlanticheskij,protest,world
+page
+	set url https://strana.ua/opinions/340718-volja-i-reshimost-vot-chto-nuzhno-chtoby-tvoju-sudbu-za-tebja-ne-reshali-druhie.html
+	set tags avstria,evro2020.futbol.chempionat,futbol,pobeda,sport,ukraina,volja
+page
+	set url https://strana.ua/opinions/340691-ni-dnja-ne-prokhodit-chtoby-ukrainskie-pravye-koho-nibud-ne-zatravili.html
+	set tags internet,hamstvo,obschestvo,oskorblenie,patriotizm,presledovanie,psihika,radikalizm,radikaly,socset,travlja,ugrozy,ukraina,ultrapravyje,unizhenie
+page
+	set url https://strana.ua/opinions/340694-hosudarstvo-v-kotorom-osushchestvljaetsja-vnutrennij-raskol-obrecheno.html
+	set tags elita,evangelie,gosudarstvo,hristos,nacia,nenavist,obschestvo,raskol,razdelenie,ukraina,vrazhda
+page
+	set url https://strana.ua/opinions/340712-pri-zelenskom-samye-vysokie-tarify-v-istorii-strany.html
+	set tags ekonomika,grabezh,obschestvo,politika,poroshenko_petr,strana,tarify,ukraina,zelenskii_vladimir,zhkh
+page
+	set url https://strana.ua/opinions/340692-ukraina-khochet-byt-ne-partnerom-a-imenno-khaljavshchikom.html
+	set tags diplomatia,geopolitika,gosudarstvo,haljava,hutorjanstvo,obschestvo,partnerstvo,strana,strategia,ukraina,vlast
+page
+	set url https://strana.ua/opinions/340721-diplomaticheskoe-dno-ot-prezidenta-zelenskoho.html
+	set tags avtoritet,dip_otnoshenia,diplomatia,evropa,geopolitika,germania,merkel_angela,politika,skandal,styd,ukraina,unizhenie,zelenskii_vladimir
+page
+	set url https://strana.ua/news/340717-kirkorova-ubrali-iz-spiska-lits-predstavljajushchikh-uhrozu-natsbezopasnosti-ukrainy.html
+	set tags kirkorov_filipp,minkult.ukraina,nacbezopasnost,presledovanie,repressii,spisok,tkachenko_aleksandr,ukaz,ukraina
+page
+	set url https://strana.ua/news/327750-avtor-pesen-tiny-karol-i-ani-lorak-popal-v-chernyj-spisok-minkulta-ukrainy.html
+	set tags karol_tina.ukr.pevica,kultura,muzyka,nacbezopasnost,pesnja,showbiz,spisok,ugroza,ukraina
+page
+	set url https://vz.ru/world/2021/6/26/1105803.html
+	set tags kolonia,obschestvo,rejting,strana,ukraina,zhurnal.fokus.ukr
 eof
 off
 page

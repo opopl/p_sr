@@ -1,3 +1,3 @@
 ##!/bin/sh
 
-r_fbs.py -z ./posts.zlan
+r_fbs.py -c run -z ./posts.zlan

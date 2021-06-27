@@ -5,10 +5,15 @@ page
 	set tags nicoj_larisa
 page
 	set url https://www.facebook.com/yevzhik/posts/3600946543273763
+	set tags bilchenko_evgenia
+	set title БЖ. Шариковы
+	set date 31_01_2021
 on
 page
 	set url https://www.facebook.com/yevzhik/posts/3601937103174707
 	set tags bilchenko_evgenia
+	set title БЖ. Так взрослеют (рецензирую поток обо-мне-сми-шоу)
+	set date 31_01_2021
 eof
 off
 page

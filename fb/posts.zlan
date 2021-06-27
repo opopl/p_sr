@@ -1,0 +1,20 @@
+
+off
+page
+	set url https://www.facebook.com/nitsoi.larysa/posts/938801726686200
+	set tags nicoj_larisa
+page
+	set url https://www.facebook.com/yevzhik/posts/3600946543273763
+on
+page
+	set url https://www.facebook.com/yevzhik/posts/3601937103174707
+	set tags bilchenko_evgenia
+eof
+off
+page
+	set url 
+	set tags 
+
+	#set redo 1
+	#setlist acts
+		db_update

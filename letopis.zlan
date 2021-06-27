@@ -32868,6 +32868,15 @@ page
 page
 	set url https://strana.ua/news/340676-na-vypusknom-vechere-v-krivom-rohe-devushku-iznasiloval-uchitel.html
 	set tags devushka,iznasilovanie,kriminal,krivoj_rog,policia,uchitel,ukraina
+page
+	set url https://strana.ua/news/340713-marija-zakharova-otvetila-poslu-hermanii-v-kieve-na-slova-o-strakhe-vojny-s-rossiej.html
+	set tags interview,mid_rf,nato,rossia,strah,telegram,ukraina,vojna,zaharova_maria
+page
+	set url https://strana.ua/news/340597-esminets-defender-u-berehov-kryma-kak-menjalas-ritorika-britanii.html
+	set tags __jun_2021.krym.britania.korabl,black_sea,britania,granica,granica.narushenie,korabl.hms_defender,krym,rossia,skandal,strelba,ukraina
+page
+	set url https://strana.ua/news/339624-zachem-v-ispaniju-priplyli-revoljutsionery-iz-meksiki-.html
+	set tags aktivist,bunt,ispania,istoria,korabl,madrid,meksika,okean.atlanticheskij,protest,world
 eof
 off
 page

@@ -32943,6 +32943,12 @@ page
 page
 	set url https://gazeta.ua/articles/poglyad/_ukrayinskij-konstituciyi-2300-rokiv/1039531
 	set tags den_konstitucii.ukr,hersones,istoria,konstitucia,konstitucia.ukr,krym,ukraina
+page
+	set url https://gazeta.ua/blog/55303/u-nas-dosi-radyanska-pamyat-svit-nibito-pochavsya-v-1917mu-do-togo-buv-morok
+	set tags istoria,pamjat,ukraina
+page
+	set url https://gazeta.ua/blog/55295/sostij-prezident-tak-nachudiv-scho-nazdoganyatimut-i-jogo-i-jogo-svitu
+	set tags ukraina,zelenskii_vladimir
 eof
 off
 page

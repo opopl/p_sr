@@ -32920,9 +32920,6 @@ page
 	set url https://strana.ua/opinions/340835-ranee-chtoby-pridat-svoim-dejstvijam-vidimost-zakonnosti-menjali-konstitutsiju.html
 	set tags konstitucia.orlika,konstitucia.ukr,ukraina,zelenskii_vladimir
 page
-	set url https://strana.ua/opinions/340828-konstitutsija-vyhljadit-sehodnja-samym-radikalnym-i-podryvnym-dokumentom.html
-	set tags konstitucia,konstitucia.ukr,ukraina,vlast
-page
 	set url https://strana.ua/opinions/340807-konstitutsija-ukrainy-soderzhit-tselyj-rjad-zamechatelnykh-polozhenij.html
 	set tags den_konstitucii.ukr,konstitucia,konstitucia.ukr,posolstvo,ukraina,zakon
 page
@@ -32931,6 +32928,21 @@ page
 page
 	set url https://strana.ua/news/340782-khhapp-bolshe-ne-mozhet-proizvodit-samolety.html
 	set tags aviacia,aviastrojenie,harkov,interview,professia,proizvodstvo,razruha,samolet,ukraina,upadok,zavod.harkov.aviacionnyj
+page
+	set url https://strana.ua/news/272213-pochemu-ukroboronprom-vojuet-s-antonovym-i-chem-eto-zakonchitsja.html
+	set tags kb_antonov,konflikt,ukraina,ukroboronprom
+page
+	set url https://strana.ua/opinions/340878-zashchishchat-ukrainskij-jazyk-mozhno-i-bez-uhnetenija-russkoho.html
+	set tags jazyk,konstitucia.orlika,konstitucia.ukr,kremin_taras,mova,ukraina,ukrainizacia
+page
+	set url https://strana.ua/opinions/340828-konstitutsija-vyhljadit-sehodnja-samym-radikalnym-i-podryvnym-dokumentom.html
+	set tags konstitucia,konstitucia.ukr,ukraina,vlast
+page
+	set url https://strana.ua/opinions/340879-nad-osnovnym-zakonom-strany-snachala-nadruhalis-a-potom-rastoptali.html
+	set tags den_konstitucii.ukr,konstitucia,konstitucia.ukr,nadrugatelstvo,strana,ukraina,zakon
+page
+	set url https://gazeta.ua/articles/poglyad/_ukrayinskij-konstituciyi-2300-rokiv/1039531
+	set tags den_konstitucii.ukr,hersones,istoria,konstitucia,konstitucia.ukr,krym,ukraina
 eof
 off
 page

@@ -32919,6 +32919,18 @@ page
 page
 	set url https://strana.ua/opinions/340835-ranee-chtoby-pridat-svoim-dejstvijam-vidimost-zakonnosti-menjali-konstitutsiju.html
 	set tags konstitucia.orlika,konstitucia.ukr,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/340828-konstitutsija-vyhljadit-sehodnja-samym-radikalnym-i-podryvnym-dokumentom.html
+	set tags konstitucia,konstitucia.ukr,ukraina,vlast
+page
+	set url https://strana.ua/opinions/340807-konstitutsija-ukrainy-soderzhit-tselyj-rjad-zamechatelnykh-polozhenij.html
+	set tags den_konstitucii.ukr,konstitucia,konstitucia.ukr,posolstvo,ukraina,zakon
+page
+	set url https://strana.ua/opinions/340754-chem-ljudi-dobree-chem-bolee-oni-otkryty-tem-dolshe-oni-ostajutsja-molodymi.html
+	set tags den_molodezhi,den_molodezhi.ukr,molodezh,molodost,pozdravlenie,prazdnik,ukraina
+page
+	set url https://strana.ua/news/340782-khhapp-bolshe-ne-mozhet-proizvodit-samolety.html
+	set tags aviacia,aviastrojenie,harkov,interview,professia,proizvodstvo,razruha,samolet,ukraina,upadok,zavod.harkov.aviacionnyj
 eof
 off
 page

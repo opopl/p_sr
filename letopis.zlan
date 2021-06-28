@@ -32952,6 +32952,9 @@ page
 page
 	set url https://news.obozrevatel.com/society/kogda-den-konstitutsii-ukrainyi-v-2021-godu-osnovnomu-zakonu-ispolnitsya-25-let.htm
 	set tags den_konstitucii.ukr,konstitucia,konstitucia.ukr,pozdravlenie,prazdnik,ukraina,zelenskii_vladimir
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/sprava-ne-v-mylozvuchnosti
+	set tags jazyk,kolonia,mova,ukraina,ukrainizacia
 eof
 off
 page

@@ -32907,6 +32907,18 @@ page
 page
 	set url https://strana.ua/news/318639-tkachenko-anonsiroval-zapusk-tsentra-protivodejstvija-dezinformatsii.html
 	set tags dezinformacia,fejk,infvojna,obschestvo,propaganda,rossia,tkachenko_aleksandr,ukraina,zhurnalist,zhurnalistika
+page
+	set url https://strana.ua/news/340689-den-konstitutsii-ukrainy-28-ijunja-kakie-stati-narushajutsja-silnee-vseho.html
+	set tags 28_jun,cenzura,den_konstitucii.ukr,jazyk,konstitucia,konstitucia.ukr,kuchma_leonid,moroz_aleksandr.politik.ukr,mova,nacionalizm,obrazovanie,obschestvo,prazdnik,shkola,strana,ukraina,ukrainizacia
+page
+	set url https://strana.ua/opinions/340808-bolshaja-heopoliticheskaja-ihra-zelenskoho-zakonchitsja-v-razmerakh-maloj-ukrainy.html
+	set tags bankova,geopolitika,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/340840-iz-161-stati-konstitutsii-ukrainy-sistemno-narushajutsja-125.html
+	set tags analiz,den_konstitucii.ukr,gosudarstvo,konstitucia,konstitucia.ukr,obschestvo,prazdnik,strana,ukraina,zakon
+page
+	set url https://strana.ua/opinions/340835-ranee-chtoby-pridat-svoim-dejstvijam-vidimost-zakonnosti-menjali-konstitutsiju.html
+	set tags konstitucia.orlika,konstitucia.ukr,ukraina,zelenskii_vladimir
 eof
 off
 page

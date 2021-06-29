@@ -14,7 +14,6 @@ page
 	set author_id bilchenko_evgenia
 	set date 18_01_2021
 	set ii mova
-on
 page
 	set url https://www.facebook.com/yevzhik/posts/3601937103174707
 	set tags bilchenko_evgenia
@@ -22,6 +21,21 @@ page
 	set author_id bilchenko_evgenia
 	set date 31_01_2021
 	set ii vzroslenie
+page
+	set url https://www.facebook.com/yevzhik/posts/4017940181574395
+	set tags bilchenko_evgenia
+	set title БЖ. Вакцинация в колонии: мифы и реальность
+	set author_id bilchenko_evgenia
+	set date 28_06_2021
+	set ii vaccinacia_v_kolonii
+on
+page
+	set url https://www.facebook.com/yevzhik/posts/4020119394689807
+	set tags bilchenko_evgenia
+	set title БЖ. Вещи важнее жизни
+	set author_id bilchenko_evgenia
+	set date 29_06_2021
+	set ii veschi_vazhnee_zhizni
 off
 page
 	set url https://www.facebook.com/groups/promovugroup/posts/995944770979384/

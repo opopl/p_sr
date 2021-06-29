@@ -32988,6 +32988,24 @@ page
 page
 	set url https://strana.ua/opinions/340978-olha-sumskaja-javnaja-putinskaja-ahentka.html
 	set tags grjaz',komfort,poezd,sumskaja_olga.ukr.aktrisa,ukraina,ukrzaliznycia,vagon,vozmuschenie,zheleznaja_doroga
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/genii-ukrainskoi-diplomatii-60da2f307403af22afc8bde2
+	set tags analiz,diplomatia,germania,kuleba_dmitrii,melnik_andrei.ukraina.posol,mzs,obezjana,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/strashnaia-taina-demografii-ukrainy-60d89638f47c9a12d7c67b5f
+	set tags demografia,ekonomika,maidan2,naselenie,obschestvo,rabota,statistika,ukraina
+page
+	set url https://strana.ua/news/341033-zelenskij-vnes-v-radu-zakonoproekt-o-bolshom-herbe-eskiz.html
+	set tags gerb,gerb.ukraina,gerb.ukraina.bolshoj,gosudarstvo,simvolika,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/341043-iz-zhizni-sotsiuma-ischezli-takie-ponjatija-kak-smelost-i-volja.html
+	set tags chelovek,obschestvo,psihologia,smelost,ukraina,volja
+page
+	set url https://strana.ua/opinions/341040-u-zelenskoho-uzhe-ponjali-chto-kurs-kieva-i-zapada-sovpadaet-vse-menshe.html
+	set tags geopolitika,rossia,ukraina,zapad
+page
+	set url https://strana.ua/news/341022-kak-vo-lvove-natsionalisty-snova-vzbuntovalis-iz-za-rossijskoho-sponsora-dzhazovoho-festivalja-.html
+	set tags drozdov_ostap,festival,festival.lvov.jazzfest,fridman_mihail.rossia.oligarh,jazz,lvov,muzyka,nacionalizm,radikalizm,radikaly,rossia,skandal,sponsor,ukraina
 eof
 off
 page

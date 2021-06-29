@@ -32964,6 +32964,21 @@ page
 page
 	set url https://strana.ua/opinions/340882-chto-to-mozhet-povlijat-na-ukrainskuju-vlast-prosto-zarodit-somnenija.html
 	set tags den_konstitucii.ukr,golod,konstitucia,konstitucia.ukr,madagaskar,moroz_aleksandr.politik.ukr,razumkov_dmitrii,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/340899-vnesenie-kirkorova-v-uhrozhajushchij-spisok-eto-uzhe-smeshno.html
+	set tags kirkorov_filipp,nacbezopasnost,rossia,sbu,showbiz,smeh,spisok,ukraina
+page
+	set url https://strana.ua/opinions/340910-den-konstitutsii-v-ukraine-napominaet-vudu-obrjad.html
+	set tags den_konstitucii.ukr,konstitucia,konstitucia.ukr,obschestvo,prazdnik,shizofrenia,ukraina,vlast
+page
+	set url https://strana.ua/opinions/340934-patsan-s-rajona-zadal-chetkie-voprosy-budushchemu-kantsleru-hermanii.html
+	set tags blogger,evropa,geopolitika,germania,kancler.germania,naglost,nevezhestvo,politika,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/340936-znaet-li-zelenskij-surovuju-pravdu-o-konstitutsii-pilipa-orlika.html
+	set tags den_konstitucii.ukr,dokument,istoria,konstitucia,konstitucia.orlika,konstitucia.ukr,malorossia,orlik_filip,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/340960-proiskhodjashchee-v-ukraine-napominaet-period-padenija-velikoho-inki.html
+	set tags demografia,inka_velikij,inki,istoria,obschestvo,padenie,ukraina
 eof
 off
 page

@@ -7,6 +7,13 @@ page
 	set tags bilchenko_evgenia
 	set title БЖ. Шариковы
 	set date 31_01_2021
+page
+	set url https://mobile.facebook.com/yevzhik/posts/3566865556681862
+	set tags bilchenko_evgenia
+	set title БЖ. О русском языке без банальности
+	set author_id bilchenko_evgenia
+	set date 18_01_2021
+	set ii mova
 on
 page
 	set url https://www.facebook.com/yevzhik/posts/3601937103174707

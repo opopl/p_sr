@@ -32982,6 +32982,12 @@ page
 page
 	set url https://strana.ua/opinions/340939-neubeditelnyj-vyshel-nemetskij-vidosik-u-nasheho-prezidenta.html
 	set tags evropa,germania,kancler.germania,nato,obeschanie,prezident,ukraina,video,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/340969-zakon-ob-osnovakh-natsionalnoho-soprotivlenija-nechto-unikalnoe.html
+	set tags agressor,armia,prestuplenie.vojennoje,rnbo,teroborona,ukraina,verhovna_rada,vojna,vsu,zakon,zakonoprojekt
+page
+	set url https://strana.ua/opinions/340978-olha-sumskaja-javnaja-putinskaja-ahentka.html
+	set tags grjaz',komfort,poezd,sumskaja_olga.ukr.aktrisa,ukraina,ukrzaliznycia,vagon,vozmuschenie,zheleznaja_doroga
 eof
 off
 page

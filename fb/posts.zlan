@@ -75,7 +75,6 @@ page
 	set author_id nicoj_larisa
 	set date 30_06_2021
 	set ii mova_diskriminacia_policia
-on
 page
 	set url https://www.facebook.com/nitsoi.larysa/posts/941553576411015
 	set tags nicoj_larisa
@@ -83,6 +82,14 @@ page
 	set author_id nicoj_larisa
 	set date 28_06_2021
 	set ii den_konstitucii
+on
+page
+	set url https://www.facebook.com/kate.zharkih.5/posts/4531897370169665
+	set tags zharkih_ekaterina
+	set title МОВА И ЯЗЫК
+	set author_id zharkih_ekaterina
+	set date 18_06_2020
+	set ii mova_jazyk
 eof
 off
 page

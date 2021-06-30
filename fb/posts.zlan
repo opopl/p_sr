@@ -49,7 +49,6 @@ page
 	set author_id bilchenko_evgenia
 	set date 29_06_2021
 	set ii vanechka
-on
 page
 	set url https://www.facebook.com/yevzhik/posts/4016466255055121
 	set tags bilchenko_evgenia
@@ -57,12 +56,19 @@ page
 	set author_id bilchenko_evgenia
 	set date 29_06_2021
 	set ii oblozhka
-off
 page
 	set url https://www.facebook.com/groups/promovugroup/posts/995944770979384/
 	set tags smolij_andrij,zelenskii_vladimir,interview,ukraina
 	set title Яке позорисько - Зеленський - інтерв'ю - Мосійчук
 	set date 24_06_2021
+on
+page
+	set url https://www.facebook.com/yevzhik/posts/4021103051258108
+	set tags bilchenko_evgenia
+	set title БЖ. Оккупанты
+	set author_id bilchenko_evgenia
+	set date 30_06_2021
+	set ii okkupanty
 eof
 off
 page

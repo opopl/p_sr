@@ -33,4 +33,5 @@ scrape/bs/out
 log.txt
 log_*.txt
 *.png
+*.mw
 *.jpg

@@ -61,7 +61,6 @@ page
 	set tags smolij_andrij,zelenskii_vladimir,interview,ukraina
 	set title Яке позорисько - Зеленський - інтерв'ю - Мосійчук
 	set date 24_06_2021
-on
 page
 	set url https://www.facebook.com/yevzhik/posts/4021103051258108
 	set tags bilchenko_evgenia
@@ -69,6 +68,21 @@ page
 	set author_id bilchenko_evgenia
 	set date 30_06_2021
 	set ii okkupanty
+page
+	set url https://www.facebook.com/nitsoi.larysa/posts/942386886327684
+	set tags nicoj_larisa
+	set title БЖ. Оккупанты
+	set author_id nicoj_larisa
+	set date 30_06_2021
+	set ii mova_diskriminacia_policia
+on
+page
+	set url https://www.facebook.com/nitsoi.larysa/posts/941553576411015
+	set tags nicoj_larisa
+	set title День Конституції
+	set author_id nicoj_larisa
+	set date 28_06_2021
+	set ii den_konstitucii
 eof
 off
 page

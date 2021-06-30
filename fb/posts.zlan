@@ -28,7 +28,6 @@ page
 	set author_id bilchenko_evgenia
 	set date 28_06_2021
 	set ii vaccinacia_v_kolonii
-on
 page
 	set url https://www.facebook.com/yevzhik/posts/4020119394689807
 	set tags bilchenko_evgenia
@@ -36,6 +35,28 @@ page
 	set author_id bilchenko_evgenia
 	set date 29_06_2021
 	set ii veschi_vazhnee_zhizni
+page
+	set url https://www.facebook.com/yevzhik/posts/4018664941501919
+	set tags bilchenko_evgenia
+	set title БЖ. Сорняки
+	set author_id bilchenko_evgenia
+	set date 29_06_2021
+	set ii sornjaki
+page
+	set url https://www.facebook.com/yevzhik/posts/4016569821711431
+	set tags bilchenko_evgenia
+	set title БЖ. Ванечка
+	set author_id bilchenko_evgenia
+	set date 29_06_2021
+	set ii vanechka
+on
+page
+	set url https://www.facebook.com/yevzhik/posts/4016466255055121
+	set tags bilchenko_evgenia
+	set title Обложка - Выбор - Вопрос
+	set author_id bilchenko_evgenia
+	set date 29_06_2021
+	set ii oblozhka
 off
 page
 	set url https://www.facebook.com/groups/promovugroup/posts/995944770979384/

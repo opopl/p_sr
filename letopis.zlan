@@ -33015,6 +33015,12 @@ page
 page
 	set url https://strana.ua/opinions/341131-ves-put-nashej-nezavisimosti-put-poter-beskonechnykh-konfliktov-i-dazhe-vojny.html
 	set tags 1990,gosudarstvo,istoria,nezalezhnist,referendum,strana,ukraina
+page
+	set url https://strana.ua/news/341146-na-matche-ukraina-shvetsija-rossijskomu-bolelshchiku-porvali-futbolku.html
+	set tags bolelschik,druzhba,flag,flag.rossia,flag.ukraina,futbol,futbolka,huliganstvo,rossia,trikolor,ukraina,unizhenie
+page
+	set url https://strana.ua/news/341144-fozzi-uvolil-top-menedzhera-iz-za-basty-i-naezda-sternenko.html
+	set tags baranskij_slava.marketolog.ukr.fozzy,basta.rossia.repper,internet,kiev,koncert,rossia,socset,sternenko_sergei,travlja,ukraina,uvolnenie
 eof
 off
 page

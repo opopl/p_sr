@@ -33006,6 +33006,15 @@ page
 page
 	set url https://strana.ua/news/341022-kak-vo-lvove-natsionalisty-snova-vzbuntovalis-iz-za-rossijskoho-sponsora-dzhazovoho-festivalja-.html
 	set tags drozdov_ostap,festival,festival.lvov.jazzfest,fridman_mihail.rossia.oligarh,jazz,lvov,muzyka,nacionalizm,radikalizm,radikaly,rossia,skandal,sponsor,ukraina
+page
+	set url https://strana.ua/opinions/341073-otbor-ukrainskikh-sudej-inostrantsami-eto-realnyj-pozor.html
+	set tags nezalezhnist,obschestvo,ukraina,zapad
+page
+	set url https://strana.ua/opinions/341130-cheho-radi-nezavisimost-hosudarstva-otdaem-na-chto-menjaem-.html
+	set tags nezalezhnist,strana,sudebnaja_sistema,ukraina,zapad
+page
+	set url https://strana.ua/opinions/341131-ves-put-nashej-nezavisimosti-put-poter-beskonechnykh-konfliktov-i-dazhe-vojny.html
+	set tags 1990,gosudarstvo,istoria,nezalezhnist,referendum,strana,ukraina
 eof
 off
 page

@@ -82,7 +82,6 @@ page
 	set author_id nicoj_larisa
 	set date 28_06_2021
 	set ii den_konstitucii
-on
 page
 	set url https://www.facebook.com/kate.zharkih.5/posts/4531897370169665
 	set tags zharkih_ekaterina
@@ -90,6 +89,14 @@ page
 	set author_id zharkih_ekaterina
 	set date 18_06_2020
 	set ii mova_jazyk
+on
+page
+	set url https://www.facebook.com/yevzhik/posts/4024792227555857
+	set tags bilchenko_evgenia
+	set title Бан в ФБ
+	set author_id bilchenko_evgenia
+	set date 01_07_2021
+	set ii ban_facebook
 eof
 off
 page

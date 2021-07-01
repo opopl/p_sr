@@ -33042,6 +33042,9 @@ page
 page
 	set url https://strana.ua/news/341364-zelenskij-prokommentiroval-slova-putina-ob-odnom-narode.html
 	set tags narod.russkij,narod.ukrainskij,odin_narod,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/341328-milliony-na-ukrainskuju-identichnost-zrada-na-evro-2020-plany-putina-po-ukraine.html
+	set tags identichnost',kabmin,nacia,patriotizm,programma,ukraina,vospitanie
 eof
 off
 page

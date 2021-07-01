@@ -33024,6 +33024,9 @@ page
 page
 	set url https://strana.ua/news/341133-larisa-nitsoj-s-kritikoj-obratilas-k-artemu-dovbiku-posle-matcha-ukraina-shvetsija.html
 	set tags futbol,jazyk,mova,nicoi_larisa,sport,ukraina,ukrainizacia
+page
+	set url https://strana.ua/opinions/341250-velikie-pobedy-ne-imejut-znachenija-hlavnoe-na-kakom-jazyke-hovorit-trener.html
+	set tags chelovek,jazyk,mova,sport,ukraina
 eof
 off
 page

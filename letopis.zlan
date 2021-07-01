@@ -33027,6 +33027,12 @@ page
 page
 	set url https://strana.ua/opinions/341250-velikie-pobedy-ne-imejut-znachenija-hlavnoe-na-kakom-jazyke-hovorit-trener.html
 	set tags chelovek,jazyk,mova,sport,ukraina
+page
+	set url https://strana.ua/news/341184-putin-prokommentiroval-vstrechu-s-zelenskim-.html
+	set tags putin_vladimir,rossia,ukraina,usa,vneshnee_upravlenie,vstrecha,zapad,zelenskii_vladimir
+page
+	set url https://strana.ua/news/341182-putin-nazval-ukraintsev-i-rossijan-edinym-narodom.html
+	set tags nacionalizm,narod.russkij,narod.ukrainskij,odin_narod,putin_vladimir,rossia,russkie,ukraina
 eof
 off
 page

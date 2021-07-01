@@ -33033,6 +33033,9 @@ page
 page
 	set url https://strana.ua/news/341182-putin-nazval-ukraintsev-i-rossijan-edinym-narodom.html
 	set tags nacionalizm,narod.russkij,narod.ukrainskij,odin_narod,putin_vladimir,rossia,russkie,ukraina
+page
+	set url https://strana.ua/news/341360-na-evro-2020-izbili-rossijskoho-fanata-denisa-smolenskoho-chto-izvestno-ob-intsidente.html
+	set tags agressia,bolelschik,druzhba,flag.rossia,flag.ukraina,futbol,izbienie,napadenie,pjanstvo,politika,rossia,ukraina
 eof
 off
 page

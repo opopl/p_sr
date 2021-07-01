@@ -33045,6 +33045,36 @@ page
 page
 	set url https://strana.ua/news/341328-milliony-na-ukrainskuju-identichnost-zrada-na-evro-2020-plany-putina-po-ukraine.html
 	set tags identichnost',kabmin,nacia,patriotizm,programma,ukraina,vospitanie
+page
+	set url https://strana.ua/news/341465-zakon-o-korennykh-narodakh-ukrainy-5-hlavnykh-voprosov.html
+	set tags narod.korennoj,oon,russkie,ukraina,verhovna_rada,zakon
+page
+	set url https://strana.ua/opinions/341422-pora-by-sozdat-obshchestvennyj-sovet-natsionalnoj-psikholohicheskoj-bezopasnosti.html
+	set tags obschestvo,psihologia,ukraina
+page
+	set url https://strana.ua/opinions/341418-ukraina-ostajotsja-loskutnym-odejalom-raskolotoj-stranoj.html
+	set tags identichnost',nacia,narod,narod.russkij,narod.ukrainskij,odin_narod,putin_vladimir,raskol,rossia,rossiane,ukraina,ukraincy,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/341353-pochemu-nam-vse-vremja-kazhetsja-chto-nas-kto-to-ispolzoval.html
+	set tags imperia,istoria,obschestvo,rusimperia,ukraina,velichie
+page
+	set url https://zen.yandex.ru/media/id/606f437fc2989610130c1ebc/anekdot-dnia-ob-v-na-za-pro-ukrainu-60dcfebf828fb32711387e20
+	set tags anekdot,gaslo,gaslo.slava_ukraini_gerojam_slava,ukraina,zhkh
+page
+	set url https://zen.yandex.ru/media/id/5bc43992c947d000aa5281d1/prekrasnoe-daleko-v-neobychnom-sovremennom-formate-podnimaet-nastroenie-60cc0c97f9641103ea6554b1
+	set tags kultura,muzyka,pesnja.prekrasnoje_daleko,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/id/60034dcd9b2b224c262c30f4/letopisnye-goroda-severo--vostochnoi-rusi--pozdnie-goroda-dublery-ekspansiia-s-zapada-60cceaed92badd3b0f768e1d
+	set tags istoria,kievrus,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/footlifer/sbornaia-ukrainy-vyhodit-v-14-evro-reakciia-rossiiskih-bolelscikov-bratev-s-pobedoi-60dba5b87a494324294a00bd
+	set tags bolelschik,bratstvo,rossia,sport,ukraina
+page
+	set url https://analytics.hvylya.net/232797-fenomen-mifa-v-ego-neizbezhnosti
+	set tags chelovek,filosofia,mif,mifologia,obschestvo,ukraina,vremja
+page
+	set url https://hvylya.net/interview/232750-sergey-dacyuk-ukraina-segodnya-ne-prosto-poproshayka-ona-na-musornike-istorii
+	set tags dacjuk_sergej.filosof,dostoinstvo,future,mentalitet,nacia,narod,obschestvo,strana,ukraina
 eof
 off
 page

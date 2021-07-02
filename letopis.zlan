@@ -33099,6 +33099,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/ukrayinska-mova-i-konstytutsiya-ukrayiny/31335548.html
 	set tags istoria,jazyk,konstitucia,mova,ukraina,ussr
+page
+	set url https://www.pravda.com.ua/articles/2021/07/2/7299127/
+	set tags gorod,grafiti,isskustvo.ulichnoje,kiev,language,nadpis',pismennost',ukraina,_important,jazyk,risunok,slovo
 eof
 off
 page

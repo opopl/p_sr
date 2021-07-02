@@ -33102,6 +33102,27 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/07/2/7299127/
 	set tags gorod,grafiti,isskustvo.ulichnoje,kiev,language,nadpis',pismennost',ukraina,_important,jazyk,risunok,slovo
+page
+	set url https://strana.ua/news/341513-umerla-pisatelnitsa-ksenija-drahunskaja-u-kotoroj-nachalsja-peritonit.html
+	set tags dragunskaja_ksenia.rossia.dramaturg,dramaturgia,kultura,literatura,rossia,rusmir,smert,teatr
+page
+	set url https://strana.ua/news/341403-v-ukraine-umer-edinstvennyj-rebenok-s-sindromomprezhdevremennoho-starenija-orhanizma.html
+	set tags bolezn,deti,sindrom.prezhdevremennogo_starenija_organizma,smert,ukraina,vinnica
+page
+	set url https://strana.ua/news/341511-chernobylskij-zapovednik-pokazal-foto-kak-priroda-pobezhdaet-tsivilizatsiju.html
+	set tags chernobyl,priroda,razruha,ukraina,zapovednik,zapustenie
+page
+	set url https://strana.ua/opinions/341538-polovinu-hrazhdan-ukrainy-zaklejmili-v-jazykovoj-nepolnotsennosti.html
+	set tags diskriminacia,kabmin,patriotizm,ukraina,unizhenie,vospitanie
+page
+	set url https://odnarodyna.org/article/ukrainskim-nacionalistam-ne-nravitsya-blizost-ukrainskogo-yazyka-k-russkomu
+	set tags jazyk,mova,nacionalizm,obschestvo,politika,ukraina,ukrainizacia
+page
+	set url https://lenta.ru/articles/2021/06/30/souz11/
+	set tags 1971,30_jun,istoria,kosmonavt,kosmonavtika,kosmos,skafandr,smert,sssr,tragedia
+page
+	set url https://lenta.ru/articles/2017/10/04/yura_prosti_nas/
+	set tags istoria,korolev_sergei,kosmonavtika,kosmos,raketa,rossia,sssr
 eof
 off
 page

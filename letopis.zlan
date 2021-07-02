@@ -33078,6 +33078,24 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/voi-kollektivnogo-tabaki-60c97232a0823117c8f21190
 	set tags diplomatia,ekonomika,geopolitika,kiev,rossia,sevpotok2,ukraina
+page
+	set url https://analytics.hvylya.net/232863-ukrajinska-nezalezhnist-sindrom-peredchasnogo-starinnya-abo-chomu-v-ukrajini-zlamaniy-socialniy-poryadok
+	set tags fenomen,gosudarstvo,ukraina
+page
+	set url https://strana.ua/news/337687-v-kitae-slony-pokinuli-zapovednik-i-nachali-mihratsiju.html
+	set tags india,priroda,slon,ukraina,zhivotnoje,zoopark
+page
+	set url https://strana.ua/news/341174-artem-dovbik-chto-izvestno-pro-futbolista-kotoryj-vyvel-ukrainu-v-chetvert-finala-evro-2020.html
+	set tags dovbik_artem.futbolist.ukr,evro2020.futbol.chempionat,futbol,likovanie,pobeda,radost',sport,ukraina
+page
+	set url https://lug-info.com/media/vystavka-rabot-i-ceremoniya-nagrazhdeniya-pobeditelej-konkursa-patrioticheskoj-pesni-i-konkursa-plenera-mesto-sily-lugansk-26-iyunya-2021-goda
+	set tags hudozhnik,isskustvo,konkurs,kultura,lnr,lugansh,pesnja,vystavka
+page
+	set url https://lug-info.com/news/zashitnik-lnr-pogib-pri-obstrele-so-storony-vsu-narodnaya-miliciya
+	set tags donbass,lnr,nm_lnr,smert,ukraina,vojna,vsu
+page
+	set url https://odnarodyna.org/article/kak-borba-s-dezoy-na-ukraine-mnozhit-suschnosti
+	set tags dezinformacia,infvojna,propaganda,rnbo,strategia,ukraina,zelenskii_vladimir
 eof
 off
 page

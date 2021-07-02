@@ -33123,6 +33123,9 @@ page
 page
 	set url https://lenta.ru/articles/2017/10/04/yura_prosti_nas/
 	set tags istoria,korolev_sergei,kosmonavtika,kosmos,raketa,rossia,sssr
+page
+	set url https://strana.ua/news/341637-oleh-seminskij-o-russkikh-v-ukraine-ne-mohut-vladet-pravami-i-svobodami-reaktsija.html
+	set tags narod.korennoj,oskorblenie,russkie,seminskij_oleg.deputat.ukr.sluga_naroda,sluga_naroda,ukraina,verhovna_rada,zakon
 eof
 off
 page

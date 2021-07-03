@@ -33132,6 +33132,12 @@ page
 page
 	set url https://strana.ua/news/341665-zelenskij-o-russkikh-i-russkom-jazyke-chto-budushchij-prezident-hovoril-v-2014-hodu-.html
 	set tags 2014,bezler_igor,donbass,gorlovka,narod,odin_narod,russkie,ukraina,ukraincy,vojna,zelenskii_vladimir
+page
+	set url https://strana.ua/news/341251-rabotnik-kanala-poroshenko-raskritikoval-shevchenko-za-russkij-jazyk.html
+	set tags evro2020.futbol.chempionat,facebook,futbol,jazyk,mova,napadki,press_konferencia,sajchuk_andrej.zhurnalist.ukr,shevchenko_andrej.ukr.futbolist,ukraina,ukrainizacia,vozmuschenie
+page
+	set url https://strana.ua/news/341760-chto-hovorjat-ukraintsy-o-press-konferentsijakh-futbolistov-na-russkom-jazyke-opros-strany.html
+	set tags beloglazova_antonina.kiev.stranaua,jazyk,kiev,kievljane,mova,nacionalizm,nicoj_larisa,opros,shevchenko_andrej.ukr.futbolist,strana_ua,ukraina,ukrainizacia
 eof
 off
 page

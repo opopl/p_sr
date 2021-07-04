@@ -33198,6 +33198,42 @@ page
 page
 	set url https://strana.ua/opinions/341723-nikakoj-edinoj-strany-v-ukraine-ne-obnaruzheno.html
 	set tags donbass,edinstvo,krym,rossia,strana,ukraina,zapad
+page
+	set url https://strana.ua/opinions/341743-diskriminatsionnye-zajavlenija-sluh-ne-trevozhat-zelenskoho.html
+	set tags diskriminacia,narod.korennoj,russkie,seminskij_oleg.deputat.ukr.sluga_naroda,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/341751-upts-tserkov-verujushchikh-i-vernykh-samaja-krupnaja-konfessija-v-ukraine.html
+	set tags cerkov,pcu,pravoslavie,religia,socopros,ukraina,upc,vera
+page
+	set url https://strana.ua/opinions/341748-chto-nuzhno-chtoby-ukraintsam-zhit-kak-amerikantsam.html
+	set tags amerika,amerikanec,new_york,new_york.selo.ukr,pereimenovanija,selo,ukraina,zhizn
+page
+	set url https://strana.ua/opinions/341783-pjatiletnjaja-julija-mendel-perezhila-zhutchajshee-davlenie-sovetskoho-rezhima.html
+	set tags davlenie,ideologia,istoria,kniga,mendel_julia,sssr,ukraina
+page
+	set url https://strana.ua/opinions/341785-seminskij-mozhet-otkryto-prizyvat-k-henotsidu-vse-ravno-ne-nakazhut.html
+	set tags chelovek,genocid,narod.korennoj,prizyv,russkie,seminskij_oleg.deputat.ukr.sluga_naroda,sluga_naroda,ukraina,unizhenie,verhovna_rada
+page
+	set url https://strana.ua/opinions/341787-v-pervuju-ochered-nado-dumat-o-tom-kak-obespechit-naselenie-vnutri-strany.html
+	set tags glupost,naselenie,obschestvo,sovet,ukraina
+page
+	set url https://strana.ua/opinions/341790-evrejskij-pohrom-vo-lvove-krupnejshij-ukrainskij-skelet-v-shkafu.html
+	set tags evrei,istoria,lvov,nacia,nacionalizm,nacizm,pogrom,skelet,ukraina
+page
+	set url https://strana.ua/opinions/341805-v-ukraine-ljubjat-nalomat-drov-a-potom-dumat-kak-razhrebat-etu-kuchu.html
+	set tags oligarhi,ukraina
+page
+	set url https://strana.ua/opinions/341818-russkij-jazyk-v-ukraine-eto-jazyk-mezhnatsionalnoho-obshchenija.html
+	set tags diskriminacia,jazyk,konstitucia,language,ukraina
+page
+	set url https://strana.ua/opinions/341870-kohda-to-v-ukraine-pokorjali-vershiny-nauki-iskusstva-tekhniki.html
+	set tags dno,narod.korennoj,pokorenie,russkie,ukraina,zakon
+page
+	set url https://strana.ua/news/341862-porazhenie-ukrainy-na-evro-2020-reaktsija-sotssetej-i-bolelshchikov-na-match-s-anhliej.html
+	set tags evro2020.futbol.chempionat,futbol,mova,nicoj_larisa,rusmir,sport,ukraina,ukrainizacia
+page
+	set url https://strana.ua/sport/football/341442-ukraina-anhlija-onlajn-prjamaja-transljatsija-futbola-sehodnja.html
+	set tags anglia,evro2020.futbol.chempionat,futbol,sport,ukraina
 eof
 off
 page

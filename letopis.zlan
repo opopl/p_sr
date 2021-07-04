@@ -33165,6 +33165,18 @@ page
 page
 	set url https://lug-info.com/news/komanda-iz-roven-kov-stala-prizerom-voenno-istoricheskogo-foruma-aleksandrovskij-styag
 	set tags donbass,igra,istoria,komanda,lnr,molodezh,nevskii_aleksandr,patriotizm,rossia,rovenjki.lnr,sorevnovanie,st_peterburg
+page
+	set url https://strana.ua/articles/analysis/341279-pojushchij-revansh-v-ukraine-etim-letom-vystupjat-desjatki-rossijskikh-artistov.html
+	set tags koncert,kultura,muzyka,pesnja,rossia,rusmir,showbiz,ukraina,zrada
+page
+	set url https://strana.ua/articles/istorii/340596-kommunisticheskoj-partii-kitaja-sto-let-kak-pojavilas-kpk.html
+	set tags 100_let,1921,istoria,kitaj,kommunizm,kompartia,kompartia.kitaj
+page
+	set url https://strana.ua/opinions/341649-kazhdyj-kto-sdelal-chto-nibud-dlja-ukrainy-dolzhen-izvinitsja-pered-nitsoj.html
+	set tags dissonans.kognitivnyj,izvinenie,mentalitet,nacia,nacidea,narod,nicoj_larisa,obschestvo,ukraina
+page
+	set url https://strana.ua/opinions/341651-samoe-prostoe-dlja-vlasti-perelozhit-otvetstvennost-na-rjadovykh-ljudej.html
+	set tags getmancev_daniil,ludi,nazarov_maks.tv.ukr,obschestvo,otvetstvennost',poroshenko_petr,spor,ukraina,vlast,zelenskii_vladimir
 eof
 off
 page

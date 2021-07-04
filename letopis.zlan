@@ -33177,6 +33177,27 @@ page
 page
 	set url https://strana.ua/opinions/341651-samoe-prostoe-dlja-vlasti-perelozhit-otvetstvennost-na-rjadovykh-ljudej.html
 	set tags getmancev_daniil,ludi,nazarov_maks.tv.ukr,obschestvo,otvetstvennost',poroshenko_petr,spor,ukraina,vlast,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/341677-na-meste-kitaja-mohli-byli-okazatsja-my.html
+	set tags 100_let,gorbachev_mihail,istoria,kitaj,kommunizm,kompartia,kompartia.kitaj,nauka,perestrojka,rusmir,sravnenie,sssr,strategia
+page
+	set url https://strana.ua/opinions/341678-uslovija-dlja-zhizni-v-ukraine-stanovjatsja-vse-bolee-nevynosimymi.html
+	set tags ekonomika,futbol,mova,obschestvo,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/341688-komanda-zelenskoho-bezotvetstvennye-sotsiopaty-i-marodery.html
+	set tags deputat,facebook,maroder,narod.korennoj,russkie,seminskij_oleg.deputat.ukr.sluga_naroda,sociopatia,ukraina,verhovna_rada,zakon,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/341720-mozhet-sozdadim-komissiju-po-proverke-rodoslovnoj-vsekh-korennykh.html
+	set tags narod,narod.korennoj,odessa,slovo,slovo.korennoj,ukraina
+page
+	set url https://strana.ua/opinions/341721-slova-nardepa-seminskoho-vydali-zamysel-avtorov-zakona-o-korennykh-narodakh.html
+	set tags diskriminacia,narod.korennoj,otvetstvennost',russkie,seminskij_oleg.deputat.ukr.sluga_naroda,ukraina,zakon
+page
+	set url https://strana.ua/opinions/341722-za-nashu-sbornuju-bolet-my-mozhem-i-bez-rjazhenoho-kabmina.html
+	set tags bolelschik,ekonomika,futbol,futbolka,kabmin,politika,sport,tarify,ukraina,vyshyvanka
+page
+	set url https://strana.ua/opinions/341723-nikakoj-edinoj-strany-v-ukraine-ne-obnaruzheno.html
+	set tags donbass,edinstvo,krym,rossia,strana,ukraina,zapad
 eof
 off
 page

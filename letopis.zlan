@@ -33150,6 +33150,15 @@ page
 page
 	set url https://gazeta.ua/blog/55315/evropa-spodivayetsya-scho-putin-bude-zadovolenij-vbivstvom-susidiv-i-dali-ne-pide
 	set tags geopolitika,putin_vladimir,rossia,ukraina,zapad
+page
+	set url https://zaxid.net/vbolivalniki_porazki_n1521375
+	set tags bolelschik,obschestvo,politika,porazhenie,rossia,ukraina
+page
+	set url https://gazeta.ua/blog/55322/ukrayina-zavdala-potuzhnogo-udaru-po-kremlyu-zahid-maye-vzyati-priklad
+	set tags aslund_anders,geopolitika,rossia,sankcii,ukraina,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/korinni-narody-v-ukrayini-i-rosiyi-ta-putin/31338949.html
+	set tags gosduma,narod.korennoj,putin_vladimir,rossia,russkie,tatarstan,ukraina
 eof
 off
 page

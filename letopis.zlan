@@ -33138,6 +33138,18 @@ page
 page
 	set url https://strana.ua/news/341760-chto-hovorjat-ukraintsy-o-press-konferentsijakh-futbolistov-na-russkom-jazyke-opros-strany.html
 	set tags beloglazova_antonina.kiev.stranaua,jazyk,kiev,kievljane,mova,nacionalizm,nicoj_larisa,opros,shevchenko_andrej.ukr.futbolist,strana_ua,ukraina,ukrainizacia
+page
+	set url https://strana.ua/news/341740-pfizer-pervaja-smert-v-ukraine-posle-vaktsinatsii-chto-ob-etom-izvestno.html
+	set tags covid,minzdrav,pfizer,pobochka,smert,ukraina,vaccinacia,vaccine,vinnica.oblast,zdorovje
+page
+	set url https://gazeta.ua/blog/55339/postala-zagroza-shirokomasshtabnogo-vtorgnennya-moskovskoyi-ordi-z-rf-i-bilorusi
+	set tags belarus,lukashenko_aleksandr,moskva,rossia,ugroza,ukraina,vojna
+page
+	set url https://gazeta.ua/blog/55337/parad-na-pidborah-mi-sovkom-buli-sovkom-i-lishilis
+	set tags armia,kabluk,nato,parad,ukraina,usa,zapad
+page
+	set url https://gazeta.ua/blog/55315/evropa-spodivayetsya-scho-putin-bude-zadovolenij-vbivstvom-susidiv-i-dali-ne-pide
+	set tags geopolitika,putin_vladimir,rossia,ukraina,zapad
 eof
 off
 page

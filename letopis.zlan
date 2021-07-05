@@ -33264,6 +33264,9 @@ page
 page
 	set url https://strana.ua/opinions/341938-chto-mozhet-predjavit-ukrainskaja-vlast-putinu-na-frazu-o-edinom-narode.html
 	set tags infvojna,isteria,isterika,odin_narod,propaganda,rossia,ukraina
+page
+	set url https://strana.ua/opinions/341958-nastalo-vremja-zelenskoho-trjastis-ot-strakha-pered-narodom.html
+	set tags narod,odessa,ukraina,zelenskii_vladimir
 eof
 off
 page

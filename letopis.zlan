@@ -33240,6 +33240,9 @@ page
 page
 	set url https://analytics.hvylya.net/232948-ne-provalitsya-v-ad-bezderzhavnosti-kto-napishet-novuyu-konstituciyu-ukrainy
 	set tags future,konstitucia,obschestvo,politika,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/mova-politika-i-sbornaia-ukrainy-po-futbolu-60e1daa72dcce634f5902d51
+	set tags dovbik_artem.futbolist.ukr,evro2020.futbol.chempionat,futbol,mova,nicoj_larisa,obschestvo,rossia,skandal,ukraina,ukrainizacia
 eof
 off
 page

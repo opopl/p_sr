@@ -33267,6 +33267,15 @@ page
 page
 	set url https://strana.ua/opinions/341958-nastalo-vremja-zelenskoho-trjastis-ot-strakha-pered-narodom.html
 	set tags narod,odessa,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/342004-raznye-hruppy-ukraintsev-zhivut-v-raznykh-informatsionnykh-i-kulturnykh-realnostjakh.html
+	set tags cennosti,kontekst,kultura,ludi,naselenie,obschenie,obschestvo,ukraina
+page
+	set url https://strana.ua/opinions/341987-nashemu-hosudarstvu-plevat-na-sootechestvennikov-proslavljajushchikh-ukrainu.html
+	set tags pogosov_georgij.sportsmen.ukr,priznanie,rodina,sport,stipendia,ukraina,usa
+page
+	set url https://strana.ua/opinions/341996-v-ukraine-sovershenno-svobodna-ta-nishe-kotoruju-v-armenii-uspeshno-ispolzuet-pashinjan.html
+	set tags armenia,obschestvo,obyvatel,pashinjan_nikol,patriot,politika,sluga_naroda,ukraina,vojna,vybory
 eof
 off
 page

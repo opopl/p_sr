@@ -33276,6 +33276,12 @@ page
 page
 	set url https://strana.ua/opinions/341996-v-ukraine-sovershenno-svobodna-ta-nishe-kotoruju-v-armenii-uspeshno-ispolzuet-pashinjan.html
 	set tags armenia,obschestvo,obyvatel,pashinjan_nikol,patriot,politika,sluga_naroda,ukraina,vojna,vybory
+page
+	set url https://strana.ua/opinions/342067-dlja-rjadovoho-amerikantsa-my-eto-kakoe-to-burundi.html
+	set tags amerika,burundi,ukraina,usa
+page
+	set url https://strana.ua/opinions/342112-interesno-kakovo-vjatrovichu-smotret-na-torzhestvo-kommunizma-v-kitae.html
+	set tags 100_let,dekomunizacia,ivan_telesyk,kitaj,kommunizm,kompartia,kompartia.kitaj,prazdnik,prazdnovanie,ukraina,vjatrovich_vladimir
 eof
 off
 page

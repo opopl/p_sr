@@ -33255,6 +33255,15 @@ page
 page
 	set url https://lug-info.com/news/nedel-ya-glazami-eksperta-peleng-dozvolennogo-shtampy-vneshnego-upravleniya-i-vyhodnoj-bastard
 	set tags black_hole,britania,donbass,kiev,korabl.hms_defender,lnr,marochko_andrej.nm_lnr,putin_vladimir,rossia,ukraina,vneshnee_upravlenie,vojna
+page
+	set url https://news.obozrevatel.com/abroad/rossiya-poluchila-poschechinu-ot-britanskogo-esmintsa-hms-defender.htm
+	set tags __jun_2021.krym.britania.korabl,britania,korabl.hms_defender,krym,rossia
+page
+	set url https://www.istpravda.com.ua/columns/2021/06/28/159748/
+	set tags __jun_2021.krym.britania.korabl,britania,istoria,korabl.hms_defender,krym,rossia,sevastopol
+page
+	set url https://strana.ua/opinions/341938-chto-mozhet-predjavit-ukrainskaja-vlast-putinu-na-frazu-o-edinom-narode.html
+	set tags infvojna,isteria,isterika,odin_narod,propaganda,rossia,ukraina
 eof
 off
 page

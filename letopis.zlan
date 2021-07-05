@@ -33243,6 +33243,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/mova-politika-i-sbornaia-ukrainy-po-futbolu-60e1daa72dcce634f5902d51
 	set tags dovbik_artem.futbolist.ukr,evro2020.futbol.chempionat,futbol,mova,nicoj_larisa,obschestvo,rossia,skandal,ukraina,ukrainizacia
+page
+	set url https://kiev.strana.ua/341984-v-kieve-na-mahazin-puma-napali-iz-za-sotrudnichestva-brenda-s-dornom.html
+	set tags bratstvo,dorn_ivan,gorod,kiev,magazin,magazin.puma.kiev,nacionalist,napadenie,rossia,sternenko_sergei,travlja,ukraina,vandalizm
+page
+	set url https://strana.ua/news/163464-aktivisty-vylili-neskodko-veder-fekalij-na-avtomobili-predstavitelej-rossijskoho-posolstva.html
+	set tags aktivist,diplomatia,fekalii,rossia,rossotrudnichestvo,travlja,ukraina,vandalizm
 eof
 off
 page

@@ -33310,6 +33310,14 @@ page
 	set url https://strana.ua/news/342295-na-solntse-proizoshla-samaja-moshchnaja-vspyshka-za-poslednie-hody.html
 	set tags astronomia,kosmos,nauka,solnce,vspyshka.solnce
 page
+	set url https://strana.ua/news/342052-pojavlenie-nju-jorka-na-donbasse-ukraintsy-nazvali-amerikanizatsiej-opros-strany.html
+	set tags beloglazova_antonina.kiev.stranaua,new_york.selo.ukr,obschestvo,pereimenovanija,selo,socopros,strana_ua,ukraina,zhizn
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
 	set url https://strana.ua/news/342263-poroshenko-poekhal-na-donbass-6-ijulja-chto-izvestno-o-poezdke.html
 	set tags armia,chereshnja,donbass,geraschenko_iryna,poezd,poroshenko_petr,ukraina,vojna,vsu
 eof

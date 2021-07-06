@@ -33297,6 +33297,18 @@ page
 page
 	set url https://strana.ua/opinions/342147-126-let-istorii-1004-postroennykh-sudna-teper-vse-eto-v-proshedshem-vremeni.html
 	set tags nikolaev,proizvodstvo,sudostrojenie,ukraina,zavod,zavod.ukr.chernomorskij_sudostroitelnyj
+page
+	set url https://strana.ua/opinions/342146-dlja-toho-chtoby-byt-schastlivymi-ne-nado-perepisyvat-deklaratsii-o-svobode.html
+	set tags chelovek,schastje,ukraina
+page
+	set url https://strana.ua/news/341994-vladimir-menshov-biohrafija-filmy-otnoshenija-s-ukrainoj.html
+	set tags film.likvidacia,film.moskva_slezam_ne_verit,kino,kultura,menjshov_vladimir.rezhisser.rossia,rossia,smert
+page
+	set url https://strana.ua/showbiz/341990-umer-rezhisser-vladimir-menshov.html
+	set tags covid,kino,menjshov_vladimir.rezhisser.rossia,rezhisser,rossia,smert
+page
+	set url https://strana.ua/news/342295-na-solntse-proizoshla-samaja-moshchnaja-vspyshka-za-poslednie-hody.html
+	set tags astronomia,kosmos,nauka,solnce,vspyshka.solnce
 eof
 off
 page

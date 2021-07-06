@@ -33309,6 +33309,9 @@ page
 page
 	set url https://strana.ua/news/342295-na-solntse-proizoshla-samaja-moshchnaja-vspyshka-za-poslednie-hody.html
 	set tags astronomia,kosmos,nauka,solnce,vspyshka.solnce
+page
+	set url https://strana.ua/news/342263-poroshenko-poekhal-na-donbass-6-ijulja-chto-izvestno-o-poezdke.html
+	set tags armia,chereshnja,donbass,geraschenko_iryna,poezd,poroshenko_petr,ukraina,vojna,vsu
 eof
 off
 page

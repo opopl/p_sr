@@ -33291,6 +33291,12 @@ page
 page
 	set url https://zen.yandex.ru/media/vecher/na-ukraine-intelligenciia-podniala-golovu-zapahlo-peregarom-i-ne-svejimi-mysliami-60e2fbdd7601597c33c7ee8c
 	set tags palamarenko_anatolij_chtec_ukr,ukraina
+page
+	set url https://strana.ua/opinions/342185-obedinjajushchaja-ideja-evropejskoho-raja-v-ukraine-uzhe-ne-rabotaet.html
+	set tags future,idea,ideologia,nacia,narod,objedinenie,obschestvo,stagnacia,ukraina,upadok
+page
+	set url https://strana.ua/opinions/342147-126-let-istorii-1004-postroennykh-sudna-teper-vse-eto-v-proshedshem-vremeni.html
+	set tags nikolaev,proizvodstvo,sudostrojenie,ukraina,zavod,zavod.ukr.chernomorskij_sudostroitelnyj
 eof
 off
 page

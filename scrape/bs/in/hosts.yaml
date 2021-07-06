@@ -10,7 +10,7 @@
 'nv.ua' : { 'site' : 'news.ua.nv' } 
 'kp.ua' : { 'site' : 'news.ua.kpua' } 
 'news2ua.com' : { 'site' : 'news.ua.news24ua' } 
-'umoloda.kyiv.ua' : { 'site' : 'news.ua.umoloda' } 
+'umoloda.kyiv.ua,umoloda.kiev.ua' : { 'site' : 'news.ua.umoloda' } 
 'hromadske.ua' : { 'site' : 'news.ua.hromadske' } 
 'nash.live' : { 'site' : 'news.ua.nash' } 
 'segodnya.ua' : { 'site' : 'news.ua.segodnya' } 

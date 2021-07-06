@@ -33285,6 +33285,12 @@ page
 page
 	set url https://bratstvo-kordon.org.ua/pro-impotenciyu-funkcij-zaxistu-ukraїni/
 	set tags rossia,ukraina
+page
+	set url https://www.umoloda.kiev.ua/number/3745/164/158524/
+	set tags interview,kultura,literatura,mova,nacia,nacidea,narod,palamarenko_anatolij_chtec_ukr,patriotizm,shevchenko_taras,slovo,strana,ukraina
+page
+	set url https://zen.yandex.ru/media/vecher/na-ukraine-intelligenciia-podniala-golovu-zapahlo-peregarom-i-ne-svejimi-mysliami-60e2fbdd7601597c33c7ee8c
+	set tags palamarenko_anatolij_chtec_ukr,ukraina
 eof
 off
 page

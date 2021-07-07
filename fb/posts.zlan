@@ -89,7 +89,6 @@ page
 	set author_id zharkih_ekaterina
 	set date 18_06_2020
 	set ii mova_jazyk
-on
 page
 	set url https://www.facebook.com/yevzhik/posts/4024792227555857
 	set tags bilchenko_evgenia
@@ -97,6 +96,14 @@ page
 	set author_id bilchenko_evgenia
 	set date 01_07_2021
 	set ii ban_facebook
+on
+page
+	set url https://www.facebook.com/yevzhik/posts/4040354575999622
+	set tags bilchenko_evgenia
+	set title БЖ. Монолог Богдана Хмельницкого
+	set author_id bilchenko_evgenia
+	set date 07_07_2021
+	set ii monolog_bogdana_hmelnickogo
 eof
 off
 page

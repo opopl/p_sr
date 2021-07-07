@@ -33326,6 +33326,9 @@ global
 page
 	set url http://voskhodinfo.su/aktualno/67607-revolyuciya-duha-edinstvennyy-put-spaseniya-rossii.html
 	set tags chelovechnost,chelovek,future,geopolitika,humanity,miroporjadok,rossia,russkie,world
+page
+	set url http://voskhodinfo.su/aktualno/67697-nezhelanie-donecka-i-luganska-obedinyatsya-stavit-pod-ugrozu-suschestvovanie-nezavisimogo-donbassa.html
+	set tags carev_oleg.deputat.ukr.nvr,dnr,donbass,kreml,lnr,moskva,novorossia,objedinenie,rossia,ukraina,vojna
 eof
 off
 page

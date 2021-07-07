@@ -33327,6 +33327,21 @@ page
 page
 	set url https://www.pravda.com.ua/columns/2021/07/7/7299725/
 	set tags chelovek,jazyk,kniga,language,mendel_julia,mova,obschenie,obschestvo,ponimanie,ukraina,vzaimoponimanie
+page
+	set url https://www.pravda.com.ua/columns/2021/07/6/7299596/
+	set tags bratstvo,geopolitika,klimkin_pavel.ukr.ministr,kreml,nezalezhnist,odin_narod,rossia,rusmir,ukraina
+page
+	set url https://strana.ua/news/342412-poroshenko-ne-holosoval-za-pereimenovanie-novhorodskoho-v-nju-jork.html
+	set tags golosovanie,new_york.selo.ukr,pereimenovanija,poroshenko_petr,ukraina,verhovna_rada
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/ukrainskaia-palata-nomer-shest-60e47456e34bad584aac569d
+	set tags glupost,istoria,rossia,slovo,slovo.oglupin,ukraina
+page
+	set url https://strana.ua/opinions/342389-v-etoj-ukraine-zhivut-kakie-to-nepravilnye-ukraintsy.html
+	set tags obschestvo,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-pysmennyi-proshchannya/31345711.html
+	set tags donbass,obstrel,pohoron,proschanie,pysmennyj_jurij.medik.ukr,smert,ukraina,vojna
 eof
 off
 page

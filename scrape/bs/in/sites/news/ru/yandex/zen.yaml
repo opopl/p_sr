@@ -2,6 +2,7 @@
 sel:
   clean:
   only:
+    - .publication-sticky-header__content
     - article
   keep:
     - nav

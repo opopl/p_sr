@@ -33339,11 +33339,6 @@ page
 page
 	set url https://strana.ua/opinions/342389-v-etoj-ukraine-zhivut-kakie-to-nepravilnye-ukraintsy.html
 	set tags obschestvo,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://www.radiosvoboda.org/a/news-pysmennyi-proshchannya/31345711.html
 	set tags donbass,obstrel,pohoron,proschanie,pysmennyj_jurij.medik.ukr,smert,ukraina,vojna
@@ -33353,6 +33348,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/to-chto-ot-vas-skryvaiut-prokremlevskie-smi-obzor-ukrainskoi-pressy2-60e3d43021f45644dfa3bfd7
 	set tags odin_narod,putin_vladimir,rossia,smi.ukraina,ukraina
+page
+	set url https://strana.ua/opinions/342468-sovremennaja-ukraina-otkrestilas-ot-svoeho-drevneho-proshloho.html
+	set tags drevrus,istoria,kievrus,molodezh,nevezhestvo,obrazovanie,rekonstrukcia,rossia,rovno,rovno_obl.ukraina,rusmir,ukraina
 eof
 off
 page

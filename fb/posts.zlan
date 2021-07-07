@@ -7,7 +7,6 @@ page
 	set tags bilchenko_evgenia
 	set title БЖ. Шариковы
 	set date 31_01_2021
-on
 page
 	set url https://mobile.facebook.com/yevzhik/posts/3566865556681862
 	set tags bilchenko_evgenia
@@ -15,7 +14,6 @@ page
 	set author_id bilchenko_evgenia
 	set date 18_01_2021
 	set ii mova
-off
 page
 	set url https://www.facebook.com/yevzhik/posts/3601937103174707
 	set tags bilchenko_evgenia
@@ -105,7 +103,6 @@ page
 	set author_id bilchenko_evgenia
 	set date 07_07_2021
 	set ii monolog_bogdana_hmelnickogo
-off
 page
 	set url https://www.facebook.com/akontorovic/posts/4208430769224404
 	set tags kontorovich_aleksandr
@@ -113,6 +110,14 @@ page
 	set author_id kontorovich_aleksandr
 	set date 07_07_2021
 	set ii kniga_napisanie
+on
+page
+	set url https://www.facebook.com/permalink.php?story_fbid=1187655445084556&id=100015203342628
+	set ii ne_verim_vlasti
+	set date 25_06_2021
+	set tags covid,doverie,narod,rossia,vaccinacia,vaccine
+	set title А мы не верим власти!
+	set author_id lukjanenko_sergej
 eof
 off
 page

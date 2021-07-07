@@ -33348,14 +33348,18 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/to-chto-ot-vas-skryvaiut-prokremlevskie-smi-obzor-ukrainskoi-pressy2-60e3d43021f45644dfa3bfd7
 	set tags odin_narod,putin_vladimir,rossia,smi.ukraina,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/opinions/342468-sovremennaja-ukraina-otkrestilas-ot-svoeho-drevneho-proshloho.html
 	set tags drevrus,istoria,kievrus,molodezh,nevezhestvo,obrazovanie,rekonstrukcia,rossia,rovno,rovno_obl.ukraina,rusmir,ukraina
+page
+	set url https://news.obozrevatel.com/society/chto-poluchili-lyudi-srazu-posle-raspada-sssr.htm
+	set tags istoria,sssr,sssr.raspad
+page
+	set url https://strana.ua/news/342209-moet-hennessy-sut-zakona-o-shampanskom-v-rossii-chto-zapretil-putin.html
+	set tags ekonomika,rossia,shampanskoje,torgovaja_marka,torgovlja,ukraina,vino
+page
+	set url https://zen.yandex.ru/media/id/60ad783c359c9c0d534e7e66/russkie-ne-te-kem-ih-vystavliaiut-na-tv-russkie-eto-liudi-s-dushoi-namnogo-shire-nashei-otzyvy-evropeicev-o-filme-brat-60d4ab572cdda746bc4bd644
+	set tags cennosti,chelovek,evropa,film,film.brat,kino,rossia,rusmir,vpechatlenie
 eof
 off
 page

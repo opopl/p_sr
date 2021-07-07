@@ -7,6 +7,7 @@ page
 	set tags bilchenko_evgenia
 	set title БЖ. Шариковы
 	set date 31_01_2021
+on
 page
 	set url https://mobile.facebook.com/yevzhik/posts/3566865556681862
 	set tags bilchenko_evgenia
@@ -14,6 +15,7 @@ page
 	set author_id bilchenko_evgenia
 	set date 18_01_2021
 	set ii mova
+off
 page
 	set url https://www.facebook.com/yevzhik/posts/3601937103174707
 	set tags bilchenko_evgenia
@@ -96,7 +98,6 @@ page
 	set author_id bilchenko_evgenia
 	set date 01_07_2021
 	set ii ban_facebook
-on
 page
 	set url https://www.facebook.com/yevzhik/posts/4040354575999622
 	set tags bilchenko_evgenia
@@ -104,6 +105,14 @@ page
 	set author_id bilchenko_evgenia
 	set date 07_07_2021
 	set ii monolog_bogdana_hmelnickogo
+off
+page
+	set url https://www.facebook.com/akontorovic/posts/4208430769224404
+	set tags kontorovich_aleksandr
+	set title Продолжаем писать книгу
+	set author_id kontorovich_aleksandr
+	set date 07_07_2021
+	set ii kniga_napisanie
 eof
 off
 page

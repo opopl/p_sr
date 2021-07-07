@@ -33350,6 +33350,9 @@ page
 page
 	set url https://opinions.glavred.info/kak-razvedennyy-diktator-otravitel-sobiraetsya-zashchishchat-tradicionnye-cennosti-10285224.html
 	set tags ideologia,kultura,putin_vladimir,rossia,strategia
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/to-chto-ot-vas-skryvaiut-prokremlevskie-smi-obzor-ukrainskoi-pressy2-60e3d43021f45644dfa3bfd7
+	set tags odin_narod,putin_vladimir,rossia,smi.ukraina,ukraina
 eof
 off
 page

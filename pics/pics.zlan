@@ -4,9 +4,19 @@ pic
 	set url_parent https://www.facebook.com/yevzhik/posts/919515381416906
 	set tags bilchenko_evgenia
 on
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
 pic
 	set url https://img.strana.ua/img/article/3384/nasa-obnaruzhili-dve-3_main.jpeg
 	set url_parent https://strana.ua/news/338403-nasa-obnaruzhili-dve-ekzoplanety-chto-vrashchajutsja-vokruh-pokhozhej-na-solntse-zvezdy.html
 	set tags planeta,kosmos,nasa,astronomia,ekzoplaneta
 	set caption Экзопланеты по размерам в разы опережают Землю. Фото: NASA/Scott Wiessinger 
+pic
+	set url https://img.strana.ua/img/article/3424/poroshenko-ne-holosoval-12_main.jpeg
+	set url_parent https://strana.ua/news/342412-poroshenko-ne-holosoval-za-pereimenovanie-novhorodskoho-v-nju-jork.html
+	set tags poroshenko_petr,ukraina,new_york.selo.urk,golosovanie
+	set caption Порошенко вместе с Ириной Геращенко ездили в новоявленный Нью-Йорк. Фото: facebook.com/petroporoshenko 
 eof

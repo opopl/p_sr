@@ -33318,17 +33318,15 @@ page
 page
 	set url https://strana.ua/news/342356-na-kamchatke-hde-samolet-an-26-upal-v-more-nashli-tela-9-chelovek-i-opoznali-rebenka.html
 	set tags avia_katastrofa,aviacia,kamchatka,krushenie.samoleta,petropavlovsk_kamchatskij.rossia,rossia,samolet,smert,tragedia
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url http://voskhodinfo.su/aktualno/67607-revolyuciya-duha-edinstvennyy-put-spaseniya-rossii.html
 	set tags chelovechnost,chelovek,future,geopolitika,humanity,miroporjadok,rossia,russkie,world
 page
 	set url http://voskhodinfo.su/aktualno/67697-nezhelanie-donecka-i-luganska-obedinyatsya-stavit-pod-ugrozu-suschestvovanie-nezavisimogo-donbassa.html
 	set tags carev_oleg.deputat.ukr.nvr,dnr,donbass,kreml,lnr,moskva,novorossia,objedinenie,rossia,ukraina,vojna
+page
+	set url https://www.pravda.com.ua/columns/2021/07/7/7299725/
+	set tags chelovek,jazyk,kniga,language,mendel_julia,mova,obschenie,obschestvo,ponimanie,ukraina,vzaimoponimanie
 eof
 off
 page

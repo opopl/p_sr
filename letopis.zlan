@@ -33312,14 +33312,20 @@ page
 page
 	set url https://strana.ua/news/342052-pojavlenie-nju-jorka-na-donbasse-ukraintsy-nazvali-amerikanizatsiej-opros-strany.html
 	set tags beloglazova_antonina.kiev.stranaua,new_york.selo.ukr,obschestvo,pereimenovanija,selo,socopros,strana_ua,ukraina,zhizn
+page
+	set url https://strana.ua/news/342263-poroshenko-poekhal-na-donbass-6-ijulja-chto-izvestno-o-poezdke.html
+	set tags armia,chereshnja,donbass,geraschenko_iryna,poezd,poroshenko_petr,ukraina,vojna,vsu
+page
+	set url https://strana.ua/news/342356-na-kamchatke-hde-samolet-an-26-upal-v-more-nashli-tela-9-chelovek-i-opoznali-rebenka.html
+	set tags avia_katastrofa,aviacia,kamchatka,krushenie.samoleta,petropavlovsk_kamchatskij.rossia,rossia,samolet,smert,tragedia
 global
 	set redo 1
 	setlist acts
 		db_update
 		auth_update
 page
-	set url https://strana.ua/news/342263-poroshenko-poekhal-na-donbass-6-ijulja-chto-izvestno-o-poezdke.html
-	set tags armia,chereshnja,donbass,geraschenko_iryna,poezd,poroshenko_petr,ukraina,vojna,vsu
+	set url http://voskhodinfo.su/aktualno/67607-revolyuciya-duha-edinstvennyy-put-spaseniya-rossii.html
+	set tags chelovechnost,chelovek,future,geopolitika,humanity,miroporjadok,rossia,russkie,world
 eof
 off
 page

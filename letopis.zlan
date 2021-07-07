@@ -33339,9 +33339,17 @@ page
 page
 	set url https://strana.ua/opinions/342389-v-etoj-ukraine-zhivut-kakie-to-nepravilnye-ukraintsy.html
 	set tags obschestvo,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
 page
 	set url https://www.radiosvoboda.org/a/news-pysmennyi-proshchannya/31345711.html
 	set tags donbass,obstrel,pohoron,proschanie,pysmennyj_jurij.medik.ukr,smert,ukraina,vojna
+page
+	set url https://opinions.glavred.info/kak-razvedennyy-diktator-otravitel-sobiraetsya-zashchishchat-tradicionnye-cennosti-10285224.html
+	set tags ideologia,kultura,putin_vladimir,rossia,strategia
 eof
 off
 page

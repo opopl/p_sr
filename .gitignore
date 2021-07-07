@@ -32,6 +32,8 @@ __pycache__
 scrape/bs/out
 log.txt
 log_*.txt
+fb/out
+fb/cookies.pkl
 *.png
 *.mw
 *.jpg

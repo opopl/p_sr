@@ -33422,6 +33422,9 @@ page
 page
 	set url https://gazeta.ua/articles/sogodennya/_pokarali-zastupnicyu-direktora-gimnaziyi-yaka-govorila-rosijskoyu-z-zhurnalistami/1041571
 	set tags jazyk,mova,narushenie,obrazovanie,odessa,shkola,ukraina,ukrainizacia,zhaloba
+page
+	set url https://ukraina.ru/opinion/20210708/1031800876.html
+	set tags aktivist,devushka,glumlenie,lvov,molodezh,muzyka,nacionalizm,nebesna_sotnja,pamjatnik,patriot,travlja,ukraina
 eof
 off
 page

@@ -33399,11 +33399,6 @@ page
 page
 	set url https://navoprosotveta.net/melenskij-andrej-ivanovich.html
 	set tags arhitektura,biografia,kiev,melenskij_andrej.arhitektor.kiev.1766_1833,rusimperia,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/news/342457-julija-mendel-kniha-ob-ukrainskom-russkom-jazyke-nadpisi-pro-hitlera-tekst-i-analiz.html
 	set tags berlin,chinovnik,istoria,kniga,mendel_julia,mirvojna2,nacizm,rejhstag,rkka,sssr,ukraina,vov
@@ -33425,6 +33420,15 @@ page
 page
 	set url https://ukraina.ru/opinion/20210708/1031800876.html
 	set tags aktivist,devushka,glumlenie,lvov,molodezh,muzyka,nacionalizm,nebesna_sotnja,pamjatnik,patriot,travlja,ukraina
+page
+	set url https://ukraina.ru/interview/20210708/1031800350.html
+	set tags objedinenie,odin_narod,rossia,rusmir,russkie,ukraina,ukraincy
+page
+	set url https://earthweb.com/how-to-scrape-a-facebook-group-with-python/
+	set tags facebook,internet,pc,scraping
+page
+	set url https://ukraina.ru/history/20210708/1031781613.html
+	set tags 1895,fizik,fizika,istoria,kirovograd,nauka,nobel_prize,rusimperia,sssr,tamm_igor,ukraina,vladivostok
 eof
 off
 page

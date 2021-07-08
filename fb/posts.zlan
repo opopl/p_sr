@@ -110,7 +110,6 @@ page
 	set author_id kontorovich_aleksandr
 	set date 07_07_2021
 	set ii kniga_napisanie
-on
 page
 	set url https://www.facebook.com/permalink.php?story_fbid=1187655445084556&id=100015203342628
 	set ii ne_verim_vlasti
@@ -118,6 +117,14 @@ page
 	set tags covid,doverie,narod,rossia,vaccinacia,vaccine
 	set title А мы не верим власти!
 	set author_id lukjanenko_sergej
+on
+page
+	set url https://www.facebook.com/yevzhik/posts/636066939761753
+	set ii samootricanie
+	set date 28_02_2014
+	set tags 2014,bilchenko_evgenia
+	set title БЖ. Самоотрицание.
+	set author_id bilchenko_evgenia
 eof
 off
 page

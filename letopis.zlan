@@ -33367,9 +33367,6 @@ page
 	set url https://zen.yandex.ru/media/id/6061b2ec9d016250e8f0cc32/vstavai-strana-ogromnaia-60d95cd960cf8a72e0ea0ba6
 	set tags antivaccinacia,covid,narod,prizyv,protest,rossia,vaccinacia,vaccine
 page
-	set url https://strana.ua/news/342457-julija-mendel-kniha-ob-ukrainskom-russkom-jazyke-nadpisi-pro-hitlera-tekst-i-analiz.html
-	set tags berlin,chinovnik,istoria,kniga,mendel_julia,mirvojna2,nacizm,rejhstag,rkka,sssr,ukraina,vov
-page
 	set url https://www.pravda.com.ua/columns/2021/07/6/7299533/
 	set tags futbol,jazyk,komanda.sbornaja,mova,obschestvo,pomeranc_grigorij.filosof.rossia,prinuzhdenie,ukraina,ukrainizacia
 page
@@ -33402,6 +33399,29 @@ page
 page
 	set url https://navoprosotveta.net/melenskij-andrej-ivanovich.html
 	set tags arhitektura,biografia,kiev,melenskij_andrej.arhitektor.kiev.1766_1833,rusimperia,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.ua/news/342457-julija-mendel-kniha-ob-ukrainskom-russkom-jazyke-nadpisi-pro-hitlera-tekst-i-analiz.html
+	set tags berlin,chinovnik,istoria,kniga,mendel_julia,mirvojna2,nacizm,rejhstag,rkka,sssr,ukraina,vov
+page
+	set url https://strana.ua/opinions/342508-vsja-postmajdannaja-vlast-neizlechimo-bolna-kult-karho-besiem.html
+	set tags glupost,infantilizm,maidan2,obschestvo,postmaidan,ukraina,vlast
+page
+	set url https://strana.ua/opinions/342582-nashi-rebjata-hibnut-tam-hde-u-vlasti-net-ni-stratehicheskoj-ni-takticheskoj-tseli.html
+	set tags detstvo,donbass,druzhba,semja,smert,ukraina,vojna
+page
+	set url https://strana.ua/opinions/342556-otkuda-u-julii-mendel-stolko-hlubokikh-poznanij-o-sovetskom-sojuze.html
+	set tags istoria,kgb,kniga,mendel_julia,recenzia,sssr,ukraina,vpechatlenie
+page
+	set url https://strana.ua/showbiz/342689-foto-i-video-valerij-meladze-vystupil-na-atlas-weekend-v-kieve.html
+	set tags festival.kiev.atlas_weekend,gorod,kiev,koncert,kultura,meladze_valerij.rossia.pevec,muzyka,rossia,showbiz,ukraina
+page
+	set url https://gazeta.ua/articles/sogodennya/_pokarali-zastupnicyu-direktora-gimnaziyi-yaka-govorila-rosijskoyu-z-zhurnalistami/1041571
+	set tags jazyk,mova,narushenie,obrazovanie,odessa,shkola,ukraina,ukrainizacia,zhaloba
 eof
 off
 page

@@ -33360,6 +33360,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/60ad783c359c9c0d534e7e66/russkie-ne-te-kem-ih-vystavliaiut-na-tv-russkie-eto-liudi-s-dushoi-namnogo-shire-nashei-otzyvy-evropeicev-o-filme-brat-60d4ab572cdda746bc4bd644
 	set tags cennosti,chelovek,evropa,film,film.brat,kino,rossia,rusmir,vpechatlenie
+page
+	set url https://zen.yandex.ru/media/two_wars/kak-opolchency-obmanuli-soldat-vsu-pod-debalcevo-6082899474b5ae3b0b68c70e
+	set tags 2015,debalcevo,donbass,ukraina,vojna
+page
+	set url https://zen.yandex.ru/media/id/6061b2ec9d016250e8f0cc32/vstavai-strana-ogromnaia-60d95cd960cf8a72e0ea0ba6
+	set tags antivaccinacia,covid,narod,prizyv,protest,rossia,vaccinacia,vaccine
 eof
 off
 page

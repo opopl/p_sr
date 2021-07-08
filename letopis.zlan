@@ -33372,6 +33372,30 @@ page
 page
 	set url https://www.pravda.com.ua/columns/2021/07/6/7299533/
 	set tags futbol,jazyk,komanda.sbornaja,mova,obschestvo,pomeranc_grigorij.filosof.rossia,prinuzhdenie,ukraina,ukrainizacia
+page
+	set url https://www.pravda.com.ua/articles/2021/07/8/7299812/
+	set tags bojko_jurij.opzzh,elektorat,medvedchuk_viktor,opzzh,politika,rabinovich_vadim,rossia,sharij_analotij
+page
+	set url https://sharij.net/delegat-ukrainy-v-pase-tolstoj-klinicheskij-idiot-umeyushhij-tolko-pisat-donosy-i-czelovat-putinu-odno-mesto
+	set tags goncharenko_alexei,oskorblenie,pase,rossia,tolstoi_petr,ukraina
+page
+	set url https://analytics.hvylya.net/233010-ukrainskaya-konstituciya-vnebrachnoe-ditya-stalina
+	set tags istoria,konstitucia,konstitucia.ukr,sssr,stalin_jozef,ukraina
+page
+	set url https://gazeta.ua/blog/55355/ukrayinskij-nyujork-rozgromiv-mif-pro-ruskij-donbas
+	set tags moskva,new_york.selo.ukr,obschestvo,pereimenovanija,radost',rossia,rusmir,ukraina
+page
+	set url https://lb.ua/society/2021/07/08/488897_kiivrada_virishila_demontuvati.html
+	set tags demontazh,druzhba,gorod,kiev,moskva,pamjatnik,rossia,ukraina
+page
+	set url https://lb.ua/world/2021/07/06/488639_obrusevshiy_krim_zachem_rossiya.html
+	set tags demografia,krym,naselenie,rossia,rossiane
+page
+	set url https://bigkyiv.com.ua/vydno-z-litakiv-rekordnyj-tryzub-vyrostyly-na-poli-pid-kyyevom-foto/
+	set tags 30_let,gerb.ukraina,kiev_obl.ukraina,nezalezhnist,rekord,trizub,ukraina
+page
+	set url https://bigkyiv.com.ua/bozhe-yak-zabal-czej-sovok-v-nau-studentkam-zaboronyly-nosyty-mini-ta-robyty-smoky-eyes/
+	set tags obrazovanie,odezhda,ogranichenie,pravilo,sarkazm,seksizm,studenty,ucheba,ukraina,universitet.kiev.nau
 eof
 off
 page

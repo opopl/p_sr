@@ -33366,6 +33366,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/6061b2ec9d016250e8f0cc32/vstavai-strana-ogromnaia-60d95cd960cf8a72e0ea0ba6
 	set tags antivaccinacia,covid,narod,prizyv,protest,rossia,vaccinacia,vaccine
+page
+	set url https://strana.ua/news/342457-julija-mendel-kniha-ob-ukrainskom-russkom-jazyke-nadpisi-pro-hitlera-tekst-i-analiz.html
+	set tags berlin,chinovnik,istoria,kniga,mendel_julia,mirvojna2,nacizm,rejhstag,rkka,sssr,ukraina,vov
+page
+	set url https://www.pravda.com.ua/columns/2021/07/6/7299533/
+	set tags futbol,jazyk,komanda.sbornaja,mova,obschestvo,pomeranc_grigorij.filosof.rossia,prinuzhdenie,ukraina,ukrainizacia
 eof
 off
 page

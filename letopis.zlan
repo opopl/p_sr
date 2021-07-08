@@ -33429,6 +33429,9 @@ page
 page
 	set url https://ukraina.ru/history/20210708/1031781613.html
 	set tags 1895,fizik,fizika,istoria,kirovograd,nauka,nobel_prize,rusimperia,sssr,tamm_igor,ukraina,vladivostok
+page
+	set url https://www.radiosvoboda.org/a/druha-svitova-viyna/31343900.html
+	set tags istoria,mirvojna2,pamjat,sssr,timoshenko_semen.marshal.sssr,ukraina,vov
 eof
 off
 page

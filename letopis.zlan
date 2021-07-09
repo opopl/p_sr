@@ -33441,14 +33441,24 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/07/9/7299935/
 	set tags gorod,kiev,kiev.sovskije_prudy,ozero,pensioner,priroda,prud,rybalka,ukraina,voda
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://life.pravda.com.ua/society/2021/07/9/245363/
 	set tags deti,donbass,future,kultura,obrazovanie,obschestvo,shkola,ucheba,uchitel,ukraina,vojna
+page
+	set url https://kiev.strana.ua/342810-v-kieve-na-kreshchatike-svetofor-vo-vremja-krasnoho-sihnala-pokazyval-serdechki.html
+	set tags gorod,huliganstvo,kiev,policia,serdce,svetofor,ukraina
+page
+	set url https://strana.ua/opinions/342731-v-ukraine-narastajut-predposylki-dlja-sotsialnoho-vzryva.html
+	set tags bezrabotica,ekonomika,obschestvo,sluga_naroda,ukraina,vlast,vzryv,vzryv.socialnyj
+page
+	set url https://strana.ua/opinions/342639-ne-bojtes-silnykh-ne-ottalkivajte-slabykh-opasajtes-presmykajushchikhsja.html
+	set tags chelovek,obschestvo,sila,slabost',ukraina
+page
+	set url https://fraza.com/analytics/302916-ukraina-v-krovi-novyj-krestovyj-pohod-katolicheskoj-tserkvi-chast-1-
+	set tags cerkov,katolichestvo,kniga,maidan2,pravoslavie,ukraina,upc
+page
+	set url https://odnarodyna.org/article/babakhnet-li-veteran-maydan
+	set tags ato,dobrobaty,donbass,maidan,narod,nedovolstvo,obschestvo,protest,ukraina,veteran.ato,vlast,vojna,zelenskii_vladimir
 eof
 off
 page

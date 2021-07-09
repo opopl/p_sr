@@ -33432,6 +33432,12 @@ page
 page
 	set url https://www.radiosvoboda.org/a/druha-svitova-viyna/31343900.html
 	set tags istoria,mirvojna2,pamjat,sssr,timoshenko_semen.marshal.sssr,ukraina,vov
+page
+	set url https://ukraina.ru/opinion/20210708/1031797947.html
+	set tags cenzura,donbass,facebook,internet,poezia,revjakina_anna.poet.rus,rossia,rusmir,ukraina,vojna
+page
+	set url https://gazeta.ua/blog/55342/lukashenko-perekriv-bilorusam-ostannyu-dorogu-zhittya
+	set tags belarus,demokratia,diktator,diktatura,granica,lukashenko_aleksandr,oruzhie,rossia,ukraina
 eof
 off
 page

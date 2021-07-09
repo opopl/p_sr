@@ -33459,6 +33459,9 @@ page
 page
 	set url https://odnarodyna.org/article/babakhnet-li-veteran-maydan
 	set tags ato,dobrobaty,donbass,maidan,narod,nedovolstvo,obschestvo,protest,ukraina,veteran.ato,vlast,vojna,zelenskii_vladimir
+page
+	set url http://incognita.day.kyiv.ua/feofan-prokopovich-yaskrava-superechliva-postat-ukrayinskoyi-istoriyi.html
+	set tags istoria,kiev,petr_pervyi,prokopovych_feofan,rossia,ukraina
 eof
 off
 page

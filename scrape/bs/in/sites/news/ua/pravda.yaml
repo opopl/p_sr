@@ -2,7 +2,9 @@
 sel:
   only:
     - .page-head-block
-    - article
+    #- article
+    # life.pravda.com.ua
+    - .article-column
   clean:
     - .article_choice_pic
     - .club_banner_1

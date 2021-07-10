@@ -33462,6 +33462,10 @@ page
 page
 	set url http://incognita.day.kyiv.ua/feofan-prokopovich-yaskrava-superechliva-postat-ukrayinskoyi-istoriyi.html
 	set tags istoria,kiev,petr_pervyi,prokopovych_feofan,rossia,ukraina
+	set date 18_06_2015
+page
+	set url https://nv.ua/ukr/ukraine/events/cherez-meladze-z-teleshou-pishli-solisti-ansamblyu-zsu-novini-ukrajini-50170251.html
+	set tags krym,krymnash,kultura,meladze_valerij.rossia.pevec,muzyka,protest,rossia,showbiz,ukraina,vsu
 eof
 off
 page

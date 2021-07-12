@@ -33466,6 +33466,18 @@ page
 page
 	set url https://nv.ua/ukr/ukraine/events/cherez-meladze-z-teleshou-pishli-solisti-ansamblyu-zsu-novini-ukrajini-50170251.html
 	set tags krym,krymnash,kultura,meladze_valerij.rossia.pevec,muzyka,protest,rossia,showbiz,ukraina,vsu
+page
+	set url https://strana.ua/news/343273-statja-putina-ob-ukraine-tekst-i-analiz-.html
+	set tags edinstvo,odin_narod,putin_vladimir,rossia,statja,ukraina
+page
+	set url https://strana.ua/news/343269-statja-vladimira-putina-ob-ukraine-polnyj-tekst-publikatsii-na-sajte-kremlja.html
+	set tags istoria,kiev,kievrus,mat_gorodam_ruskim,odin_narod,putin_vladimir,rossia,rusmir,statja,ukraina
+page
+	set url https://strana.ua/opinions/343061-pruzhina-obshchestvennoho-terpenija-szhimaetsja-no-ne-beskonechno.html
+	set tags fugure,maidan,maidan2,narod,nedovolstvo,obschestvo,terpenie,ugroza,ukraina
+page
+	set url https://strana.ua/opinions/343006-v-ukraine-pochti-nikto-ne-sposoben-vosprinjat-neizbezhnoe-budushchee.html
+	set tags future,ukraina
 eof
 off
 page

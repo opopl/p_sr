@@ -33478,6 +33478,9 @@ page
 page
 	set url https://strana.ua/opinions/343006-v-ukraine-pochti-nikto-ne-sposoben-vosprinjat-neizbezhnoe-budushchee.html
 	set tags future,ukraina
+page
+	set url https://vz.ru/world/2021/7/1/1106740.html
+	set tags dnr,donbass,lnr,objedinenie,razdroblennost,rossia,ukraina,vojna
 eof
 off
 page

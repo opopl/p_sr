@@ -33493,14 +33493,18 @@ page
 page
 	set url https://strana.ua/opinions/343515-v-odin-moment-nuzhno-reshitsja-i-vybrosit-hnilye-jabloki-iz-svoej-zhizni.html
 	set tags chelovek,deti,detstvo,filosofia,jabloko,rassuzhdenie
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/opinions/343512-patriot-bud-bditelen-vrahi-kovarno-tantsujut.html
 	set tags nebesna_sotnja,patriotizm,policia,tanec,ukraina
+page
+	set url https://strana.ua/opinions/343183-zalipaja-v-sotssetjakh-my-pytaemsja-preodolet-trevohu-depressiju-stress-odinochestvo.html
+	set tags chelovek,depressia,dusha,internet,psihika,psihologia,socset,trevoga
+page
+	set url https://strana.ua/opinions/343126-natsionalnyj-istoricheskij-mif-nuzhno-stroit-na-herojakh-i-pravednikakh.html
+	set tags istoria,pamjat,polsha,ukraina,volynskaja_reznja
+page
+	set url https://strana.ua/opinions/343455-ukraina-okazalas-pered-realnoj-uhrozoj-ljumpen-majdana.html
+	set tags diktatura,future,lumpen,maidan,obschestvo,ugroza,ukraina,zelenskii_vladimir
 eof
 off
 page

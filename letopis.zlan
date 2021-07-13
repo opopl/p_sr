@@ -33481,6 +33481,26 @@ page
 page
 	set url https://vz.ru/world/2021/7/1/1106740.html
 	set tags dnr,donbass,lnr,objedinenie,razdroblennost,rossia,ukraina,vojna
+page
+	set url https://www.pravda.com.ua/news/2021/07/13/7300371/
+	set tags __jul_2021.putin.statja,edinstvo,istoria,odin_narod,rossia,rusmir,ukraina
+page
+	set url https://www.pravda.com.ua/news/2021/07/13/7300387/
+	set tags __jul_2021.putin.statja,facebook,odin_narod,posolstvo.ukrainy.chehia,rossia,ukraina
+page
+	set url http://www.kremlin.ru/events/president/news/66182
+	set tags __jul_2021.putin.statja,odin_narod,putin_vladimir,rossia,rusmir,statja,ukraina
+page
+	set url https://strana.ua/opinions/343515-v-odin-moment-nuzhno-reshitsja-i-vybrosit-hnilye-jabloki-iz-svoej-zhizni.html
+	set tags chelovek,deti,detstvo,filosofia,jabloko,rassuzhdenie
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.ua/opinions/343512-patriot-bud-bditelen-vrahi-kovarno-tantsujut.html
+	set tags nebesna_sotnja,patriotizm,policia,tanec,ukraina
 eof
 off
 page

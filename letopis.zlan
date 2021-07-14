@@ -33526,6 +33526,9 @@ page
 page
 	set url https://strana.ua/news/343631-ukraina-kitaj-pochemu-sluhi-naroda-khvaljat-knr-i-dolho-li-eto-prodlitsja.html
 	set tags diplomatia,geopolitika,kitaj,politika,ukraina,usa,zapad
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/nemnogo-etodrugina-vam-v-lentu17-60ed09d11b39f163f00cb491
+	set tags britania,eto_drugoje,obschestvo,politika,protasevich_roman.belarus.nexta,rossia,zapad
 eof
 off
 page

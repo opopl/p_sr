@@ -33535,6 +33535,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5b325bee69302f00a891a6c8/taras-bulba-60b87cb7872b3c5c4308433b
 	set tags film,kino,kultura,polsha,rossia,rusmir,taras_bulba,ukraina,vpechatlenie
+page
+	set url https://www.radiosvoboda.org/a/putin-stattia-odyn-narod/31354996.html
+	set tags __jul_2021.putin.statja,infvojna,istoria,odin_narod,putin_vladimir,rossia,rusmir,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ukrayinska-mova-i-russkiy-mir/31349956.html
+	set tags ideologia,istoria,mentalitet,mova,narod,obschestvo,sssr,ukraina,ukrainizacia
 eof
 off
 page

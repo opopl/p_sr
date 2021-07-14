@@ -33529,6 +33529,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/nemnogo-etodrugina-vam-v-lentu17-60ed09d11b39f163f00cb491
 	set tags britania,eto_drugoje,obschestvo,politika,protasevich_roman.belarus.nexta,rossia,zapad
+page
+	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/novgorod-vs-kiev-arheologiia-protiv-svidomii-60e81c942c3f194fcba86f7e
+	set tags arheologia,istoria,kiev,kievrus,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/id/5b325bee69302f00a891a6c8/taras-bulba-60b87cb7872b3c5c4308433b
+	set tags film,kino,kultura,polsha,rossia,rusmir,taras_bulba,ukraina,vpechatlenie
 eof
 off
 page

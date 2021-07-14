@@ -33505,6 +33505,27 @@ page
 page
 	set url https://strana.ua/opinions/343455-ukraina-okazalas-pered-realnoj-uhrozoj-ljumpen-majdana.html
 	set tags diktatura,future,lumpen,maidan,obschestvo,ugroza,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/news/343673-zakon-o-totalnoj-ukrainizatsii-priznan-ksu-konstitutsionnym-reaktsija-v-ukraine.html
+	set tags jazyk,konstitucia,ksu,mova,ukraina,ukrainizacia,zakon
+page
+	set url https://strana.ua/news/343653-ks-priznal-konstitutsionnym-jazykovoj-zakon.html
+	set tags jazyk,konstitucia,ksu,mova,ukraina,ukrainizacia,zakon
+page
+	set url https://strana.ua/articles/analysis/343647-otstavka-avakova-prichiny-posledstvija-i-eho-budushchee.html
+	set tags avakov_arsen,mvd_ukraina,ukraina,uvolnenie,zajavlenie
+page
+	set url https://strana.ua/news/343358-statja-putina-pro-ukrainu-reaktsija-politikov-liderov-mnenij-i-prezidenta-vladimira-zelenskoho.html
+	set tags __jul_2021.putin.statja,istoria,kommentarii,narod,obschestvo,odin_narod,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/343548-ukraina-razdelena-na-dva-tipa-myshlenija-kolonialnyj-i-tsivilizatsionnyj.html
+	set tags civilizacia,future,kolonia,myshlenie,obschestvo,proshloje,razdelenie,ukraina
+page
+	set url https://strana.ua/opinions/343688-ukhod-avakova-znamenuet-zavershenie-proshloho-majdana.html
+	set tags avakov_arsen,maidan2,ukraina
+page
+	set url https://strana.ua/news/343631-ukraina-kitaj-pochemu-sluhi-naroda-khvaljat-knr-i-dolho-li-eto-prodlitsja.html
+	set tags diplomatia,geopolitika,kitaj,politika,ukraina,usa,zapad
 eof
 off
 page

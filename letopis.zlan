@@ -33559,6 +33559,24 @@ page
 page
 	set url https://hvylya.net/interview/233788-ukraina-v-plenu-konservativnogo-myshleniya-pochemu-30-let-shli-ne-tuda-i-chto-delat
 	set tags future,gosudarstvo,interview,krizis,nezalezhnist,obschestvo,proshloje,romanenko_jurij,strana,ukraina
+page
+	set url https://strana.ua/news/343791-ukrainizatsija-s-16-ijulja-2021-hoda-chto-vstupaet-v-silu.html
+	set tags jazyk,mova,sluga_naroda,strana,ukraina,ukrainizacia,verhovna_rada,zakon
+page
+	set url https://strana.ua/news/341626-petr-mamonov-umer-biohrafija-muzyka-filmy.html
+	set tags cerkov,covid,dusha,mamonov_petr.muzykant.akter.rossia,pravoslavie,rossia,smert,vera
+page
+	set url https://www.pravda.com.ua/articles/2021/06/18/7297634/
+	set tags foto,gorod,kiev,kiev.puscha_vodica,obschestvo,tramvaj,turizm,ukraina,zhizn
+page
+	set url https://www.mk.ru/politics/2021/07/13/glavred-putin-sobralsya-idti-do-konca-na-ukraine.html
+	set tags __jul_2021.putin.statja,odin_narod,putin_vladimir,rossia,rusmir,ukraina
+page
+	set url https://vz.ru/opinions/2021/7/15/1109169.html
+	set tags future,identichnost',istoria,narod,obschestvo,problemy,rossia,strana,vopros
+page
+	set url https://zen.yandex.ru/media/id/5b7132337ddf1100aaf29923/krestnyi-hod-protiv-kovida-ili-kogda-vosstanet-sviataia-rus-60e9f4ecb56ded7a70747feb
+	set tags cerkov,hristos,narod,pravoslavie,rossia,rusmir,vera
 eof
 off
 page

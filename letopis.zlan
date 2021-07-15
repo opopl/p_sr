@@ -33541,6 +33541,15 @@ page
 page
 	set url https://www.radiosvoboda.org/a/ukrayinska-mova-i-russkiy-mir/31349956.html
 	set tags ideologia,istoria,mentalitet,mova,narod,obschestvo,sssr,ukraina,ukrainizacia
+page
+	set url https://www.radiosvoboda.org/a/putin-statja-ukraina-ordlo/31358656.html
+	set tags __jul_2021.putin.statja,dnr,donbass,lnr,odin_narod,putin_vladimir,rossia,rusmir,ukraina
+page
+	set url https://www.radiosvoboda.org/a/31356945.html
+	set tags gorod,istoria,kiev,ukraina
+page
+	set url https://kiev.strana.ua/343761-pod-kievom-syn-zabil-mat-do-smerti-hantelej-pozvonil-v-politsiju-i-pererezal-sebe-horlo-foto.html
+	set tags kiev,kiev_obl.ukraina,kriminal,mater,murder,policia,semja,ukraina
 eof
 off
 page

@@ -33553,6 +33553,12 @@ page
 page
 	set url https://zn.ua/internal/shah-k-nesvobode.html
 	set tags jazyk,mova,obschestvo,ukraina,ukrainizacia
+page
+	set url https://strana.ua/opinions/343721-ukrainizatory-aktivno-mashut-lopatoj-na-pokhoronakh-svoej-strany.html
+	set tags diskriminacia,jazyk,konstitucia,ksu,mova,strana,ukraina,ukrainizacia,zakon
+page
+	set url https://hvylya.net/interview/233788-ukraina-v-plenu-konservativnogo-myshleniya-pochemu-30-let-shli-ne-tuda-i-chto-delat
+	set tags future,gosudarstvo,interview,krizis,nezalezhnist,obschestvo,proshloje,romanenko_jurij,strana,ukraina
 eof
 off
 page

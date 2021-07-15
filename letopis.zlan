@@ -33550,6 +33550,9 @@ page
 page
 	set url https://kiev.strana.ua/343761-pod-kievom-syn-zabil-mat-do-smerti-hantelej-pozvonil-v-politsiju-i-pererezal-sebe-horlo-foto.html
 	set tags kiev,kiev_obl.ukraina,kriminal,mater,murder,policia,semja,ukraina
+page
+	set url https://zn.ua/internal/shah-k-nesvobode.html
+	set tags jazyk,mova,obschestvo,ukraina,ukrainizacia
 eof
 off
 page

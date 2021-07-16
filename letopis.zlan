@@ -33580,6 +33580,15 @@ page
 page
 	set url https://incident.obozrevatel.com/crime/mechtal-i-hotel-zhit-chto-izvestno-o-pogibshem-na-donbasse-vladimira-yaskive.htm
 	set tags donbass,smert,ukraina,vojna,vsu
+page
+	set url https://sharij.net/strelba-na-kavkazskoj-svadbe-chto-proizoshlo-pod-odessoj-i-kak-s-etim-boryutsya-v-rossii
+	set tags chechenec,odessa,policia,prazdnik,prazdnovanie,semja,strelba,svadba,tradicii,ukraina
+page
+	set url https://strana.ua/news/343996-sotsseti-obsuzhdajut-smert-muzykanta-petra-mamonova.html
+	set tags chelovek,glumlenie,kultura,mamonov_petr.muzykant.akter.rossia,mirotvorec_sajt,muzyka,rossia,smert,socset,ukraina
+page
+	set url https://strana.ua/opinions/343956-viktor-medvedchuk-vyskazalsja-o-state-putina-pro-edinstvo-ukrainskoho-i-russkoho-narodov.html
+	set tags __jul_2021.putin.statja,antirossia,future,gosudarstvo,ideologia,istoria,medvedchuk_viktor,obschestvo,politika,proshloje,rossia,strana,ukraina
 eof
 off
 page

@@ -33601,6 +33601,18 @@ page
 page
 	set url https://strana.ua/opinions/343986-v-ukraine-byla-tolko-odna-nastojashchaja-revoljutsija-v-1991-m.html
 	set tags 1991,ideologia,istoria,obschestvo,revolucia,revolucia.granit,ukraina
+page
+	set url https://news.obozrevatel.com/society/dva-mesyatsa-zhivu-v-ukraine-i-teper-ponimayu-pochemu-rossiyanam-naveshivayut-lapshu.htm
+	set tags infvojna,obschestvo,rossia,svoboda,ukraina
+page
+	set url https://strana.ua/news/344014-draka-proizoshla-v-rade-16-ijulja.html
+	set tags agressia,deputat,draka,sluga_naroda,ukraina,verhovna_rada
+page
+	set url https://strana.ua/opinions/344085-deklaratsija-o-nezavisimosti-obeshchala-komfortnuju-zhizn-vsem-zhivushchim-v-ukraine.html
+	set tags deklaracia.1990.ukr.suverenitet,jazyk,mova,ukraina,ukrainizacia,zakon
+page
+	set url https://www.radiosvoboda.org/a/prapor-u-dnipri/31362687.html
+	set tags deklaracia.1990.ukr.suverenitet,dnepropetrovsk,flag.ukraina,istoria,suverenitet,ukraina
 eof
 off
 page

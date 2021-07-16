@@ -33577,6 +33577,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5b7132337ddf1100aaf29923/krestnyi-hod-protiv-kovida-ili-kogda-vosstanet-sviataia-rus-60e9f4ecb56ded7a70747feb
 	set tags cerkov,hristos,narod,pravoslavie,rossia,rusmir,vera
+page
+	set url https://incident.obozrevatel.com/crime/mechtal-i-hotel-zhit-chto-izvestno-o-pogibshem-na-donbasse-vladimira-yaskive.htm
+	set tags donbass,smert,ukraina,vojna,vsu
 eof
 off
 page

@@ -33616,6 +33616,12 @@ page
 page
 	set url https://zen.yandex.ru/media/ava/parad-v-breste-loj-stavshaia-istoriei-5cb5d89fa4186400b437b838
 	set tags 1939,22.09.1939,22_sep,brest,brest.parad.22_09_1939,germania,istoria,mirvojna2,nacizm,rkka,sssr,vermaht
+page
+	set url https://sharij.net/na-slavyanskij-bazar-ot-ukrainy-poehala-televedushhaya-diana-panchenko
+	set tags belarus,festival.slavjanskij_bazar,kultura,muzyka,panchenko_diana,pesnja,ukraina,zhurnalist
+page
+	set url https://news.obozrevatel.com/show/people/olena-pchilka-rodilas-172-goda-nazad-pyat-udivitelnyih-faktov-o-materi-lesi-ukrainki.htm
+	set tags istoria,kultura,lesja_ukrainka,olena_pchilka,ukraina
 eof
 off
 page

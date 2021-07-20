@@ -33631,6 +33631,9 @@ page
 page
 	set url https://strana.ua/news/343776-holod-v-ukraine-ot-nekhvatki-edy-stradajut-pochti-10-mln-chelovek.html
 	set tags golod,obschestvo,oon,statistika,strana,ukraina
+page
+	set url https://www.dp.ru/a/2016/01/12/Uborshhica_Gazproma_i_Dio
+	set tags bogatstvo,dior,fejk,gazprom,rossia,uborschica
 eof
 off
 page

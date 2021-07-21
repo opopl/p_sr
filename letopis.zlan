@@ -33637,14 +33637,12 @@ page
 page
 	set url https://www.istpravda.com.ua/articles/2021/07/19/159863/
 	set tags istoria,sssr,ukraina,voloshin_avgustin.ukr.istoria.prezident
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/news/344786-kulturoloh-bilchenko-prokommentirovala-strane-uvolnenie-iz-vuza.html
 	set tags bilchenko_evgenia,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/farion/60f2ec6d87698/
+	set tags __jul_2021.putin.statja,edinstvo,istoria,jazyk,kievrus,mova,odin_narod,rossia,rus',rusmir,ukraina
 eof
 off
 page

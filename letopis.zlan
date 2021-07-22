@@ -33643,6 +33643,12 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/farion/60f2ec6d87698/
 	set tags __jul_2021.putin.statja,edinstvo,istoria,jazyk,kievrus,mova,odin_narod,rossia,rus',rusmir,ukraina
+page
+	set url https://strana.ua/news/344771-poetessu-bilchenko-uvolili-iz-universiteta-drahomanova-za-post-o-jazyke.html
+	set tags bilchenko_evgenia,kulturologia,nauka,obrazovanie,presledovanie,travlja,ukraina,universytet_dragomanova
+page
+	set url https://strana.ua/news/114893-evheniju-bilchenko-zaderzhali-i-potom-otpustili-v-moskve-30-dekabrja.html
+	set tags bilchenko_evgenia,moskva,policia,rossia,ukraina,zaderzhanie
 eof
 off
 page

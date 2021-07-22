@@ -33649,6 +33649,9 @@ page
 page
 	set url https://strana.ua/news/114893-evheniju-bilchenko-zaderzhali-i-potom-otpustili-v-moskve-30-dekabrja.html
 	set tags bilchenko_evgenia,moskva,policia,rossia,ukraina,zaderzhanie
+page
+	set url https://blogs.korrespondent.net/blog/world/4377338/
+	set tags humanity,narod,planeta,world,zemlja.planeta
 eof
 off
 page

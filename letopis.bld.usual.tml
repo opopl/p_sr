@@ -19,6 +19,7 @@
         <ind name="names.rus" title="Имена" />
         <ind name="authors.rus" title="Авторы" />
         <ind name="cities.rus" title="Города" />
+        <ind name="people.rus" title="Люди" />
     </index>
   </preamble>
   <sii>

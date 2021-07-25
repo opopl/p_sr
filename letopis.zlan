@@ -33664,6 +33664,18 @@ page
 page
 	set url https://strana.ua/articles/special/247259-kak-poruhalis-radikal-serhej-sternenko-i-zhurnalist-svetlana-krjukova.html
 	set tags krjukova_svetlana,murder,obschestvo,sternenko_sergei,sud,ukraina,video
+page
+	set url https://strana.ua/opinions/345423-kak-sotsialnaja-set-stala-kanalom-dezinformatsii-vrazhdy-i-politicheskoj-propahandy.html
+	set tags facebook,internet,socset,ukraina
+page
+	set url https://strana.ua/news/345478-o-chem-skandalnaja-kniha-razoblachenij-sotsseti-facebook.html
+	set tags facebook,informacia,internet,kniga,socset,usa
+page
+	set url https://ruskline.ru/news_rl/2021/07/14/kartochnyi_domik_ukrainstva_rassypaetsya_na_glazah
+	set tags __jul_2021.putin.statja,ideologia,kievrus,rossia,ukraina,ukrainstvo
+page
+	set url https://regnum.ru/news/polit/2568508.html
+	set tags ideologia,miroporjadok,obschestvo,rossia,usa
 eof
 off
 page

@@ -33655,6 +33655,15 @@ page
 page
 	set url https://jpgazeta.ru/aleksandr-rodzhers-otkuda-berutsya-gosudarstva-i-pochemu-ukraina-k-nim-ne-prinadlezhit/
 	set tags gosudarstvo,istoria,malorossia,rusmir,ukraina
+page
+	set url https://www.novynekran.pp.ua/2021/04/voni-svij-vibir-zrobili-mamo-pozbavlyati-ukranskogo-gromadyanstva-tih-hto-otrimav-rosijskij-pasport--ogrizko.html
+	set tags grazhdanstvo,grazhdanstvo.dvojnoje,grazhdanstvo.rossia,grazhdanstvo.ukraina,ogryzko_vladimir.ukraina.diplomat,rossia,ukraina
+page
+	set url https://www.volyn.com.ua/news/188303-skandalnu-vykladachku-iaka-pidtrymuie-rosiiu-zvilnyly-z-universytetu-drahomanova
+	set tags bilchenko_evgenia,kolonia,kulturologia,nauka,obrazovanie,obschestvo,presledovanie,repressii,svoboda_slova,travlja,ukraina,universytet_dragomanova,uvolnenie
+page
+	set url https://strana.ua/articles/special/247259-kak-poruhalis-radikal-serhej-sternenko-i-zhurnalist-svetlana-krjukova.html
+	set tags krjukova_svetlana,murder,obschestvo,sternenko_sergei,sud,ukraina,video
 eof
 off
 page

@@ -33676,6 +33676,9 @@ page
 page
 	set url https://regnum.ru/news/polit/2568508.html
 	set tags ideologia,miroporjadok,obschestvo,rossia,usa
+page
+	set url https://kharkov.strana.ua/345522-v-kharkove-novyj-jazykovyj-skandal-video.html
+	set tags harkov,jazyk,mova,skandal,ukraina,ukrainizacia,zakon
 eof
 off
 page

@@ -33679,6 +33679,21 @@ page
 page
 	set url https://kharkov.strana.ua/345522-v-kharkove-novyj-jazykovyj-skandal-video.html
 	set tags harkov,jazyk,mova,skandal,ukraina,ukrainizacia,zakon
+page
+	set url https://strana.ua/news/345337-vo-lvove-okonchatelno-snesli-monument-slavy-.html
+	set tags dekomunizacia,demontazh,lvov,mirvojna2,monument_slavy.lvov,pamjatnik,rodina,ukraina,vov
+page
+	set url https://hvylya.net/interview/234363-gosudarstvo-v-hhi-veke-neizbezhna-li-dlya-ukrainy-avtokratiya
+	set tags future,gosudarstvo,ideologia,obschestvo,ukraina
+page
+	set url https://analytics.hvylya.net/233928-yak-zminiti-ukrajinu-na-krashche
+	set tags gosudarstvo,obschestvo,strana,ukraina
+page
+	set url https://zaxid.net/mavpa_z_yadernoyu_granatoyu_n1522961
+	set tags atomic_bomb,oruzhie.jadernoje,rossia,ukraina,usa
+page
+	set url https://zaxid.net/zatrimalisya_v_pochekalni_n1522595
+	set tags geopolitika,gosudarstvo,obschestvo,ozhidanie,ukraina,zapad
 eof
 off
 page

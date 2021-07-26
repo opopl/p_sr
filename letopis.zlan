@@ -33700,6 +33700,27 @@ page
 page
 	set url https://www.radiosvoboda.org/a/ivan-dzyuba-internatsionalizm-chy-rusyfikatsiya/31377798.html
 	set tags dzjuba_ivan,istoria,jazyk,mova,russifikacia,sssr,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-i-rosiya-uroky-nenavysti/31377971.html
+	set tags rossia,tv,ukraina
+page
+	set url https://lenta.ru/news/2021/07/26/russia_olympic/
+	set tags olimpiada.tokio,rossia
+page
+	set url https://ukraina.ru/exclusive/20210726/1031921190.html
+	set tags krym,obschestvo,rossia,ukraina
+page
+	set url https://ukraina.ru/history/20210726/1031898695.html
+	set tags 1885,26_jul,balzamirovanie,istoria,lenin_vladimir,sssr,zbarskij_boris.hranitel_tela_lenina
+page
+	set url https://ukraina.ru/opinion/20210726/1031926133.html
+	set tags dekomunizacia,demontazh,istoria,kommunizm,lvov,mirvojna2,monument_slavy.lvov,pamjat,pamjatnik,sssr,ukraina,vov
+page
+	set url https://www.radiosvoboda.org/a/ukrayinski-koreni-fedora-dostoyevskoho/31360440.html
+	set tags dostojevskii_fedor,jazyk,kultura,literatura,mova,rossia,ukraina
+page
+	set url https://ukraina.ru/sn/20210720/1031874871.html
+	set tags __jul_2021.putin.statja,krjukova_svetlana,ukraina
 eof
 off
 page

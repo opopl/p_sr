@@ -33694,6 +33694,12 @@ page
 page
 	set url https://zaxid.net/zatrimalisya_v_pochekalni_n1522595
 	set tags geopolitika,gosudarstvo,obschestvo,ozhidanie,ukraina,zapad
+page
+	set url https://www.pravda.com.ua/articles/2021/07/23/7301423/
+	set tags gorod,kiev,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ivan-dzyuba-internatsionalizm-chy-rusyfikatsiya/31377798.html
+	set tags dzjuba_ivan,istoria,jazyk,mova,russifikacia,sssr,ukraina
 eof
 off
 page

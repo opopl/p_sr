@@ -33725,11 +33725,16 @@ page
 	set url https://lug-info.com/comments/pomoshnik-florista-rasskazala-ob-osobennostyah-i-etapah-sozdaniya-florariuma-svoimi-rukami
 	set tags cvety,interview,lnr,obschestvo,zhizn
 page
-	set url https://strana.ua/news/343443-1992-hod-v-istorii-ukrainy-hlavnye-sobytija-i-fakty.html
-	set tags 1992,ekonomika,istoria,kultura,nezalezhnist,obschestvo,sssr,strana,ukraina
-page
 	set url https://rubryka.com/2021/07/26/universytet-dragomanova-pro-bilchenko/
 	set tags bilchenko_evgenia,travlja,travlja.bilchenko,ukraina,universytet_dragomanova
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.ua/news/343443-1992-hod-v-istorii-ukrainy-hlavnye-sobytija-i-fakty.html
+	set tags 1992,ekonomika,istoria,kultura,nezalezhnist,obschestvo,sssr,strana,ukraina
 eof
 off
 page

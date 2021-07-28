@@ -33742,6 +33742,15 @@ page
 page
 	set url https://strana.ua/news/346007-ukraintsy-i-russkie-odin-narod-opros-v-ukraine.html
 	set tags __jul_2021.putin.statja,obschestvo,odin_narod,sociologia,socopros,ukraina
+page
+	set url https://strana.ua/news/346089-mer-khorola-sfotohrafirovalsja-s-sovetskoj-simvolikoj-politsija-nachala-rassledovanie.html
+	set tags horol.poltava_obl.ukraina,istoria,prazdnik,prazdnovanie,simvolika,sssr,ukraina
+page
+	set url https://strana.ua/news/346063-na-prikarpate-sehodnja-upal-samolet-razbilsja-letchik-ihor-tabanjuk-vse-novosti.html
+	set tags aviacia,aviakatastrofa,komarov_dmitrij.ukr.tv,samolet,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/bogomolec/60fa806776998/
+	set tags festival,kultura,muzyka,shopen_frederik.muzykant,ukraina
 eof
 off
 page

@@ -33727,14 +33727,21 @@ page
 page
 	set url https://rubryka.com/2021/07/26/universytet-dragomanova-pro-bilchenko/
 	set tags bilchenko_evgenia,travlja,travlja.bilchenko,ukraina,universytet_dragomanova
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/news/343443-1992-hod-v-istorii-ukrainy-hlavnye-sobytija-i-fakty.html
 	set tags 1992,ekonomika,istoria,kultura,nezalezhnist,obschestvo,sssr,strana,ukraina
+page
+	set url https://strana.ua/news/343875-istorija-ukrainy-v-1993-hodu-hlavnye-sobytija-v-politike-i-obshchestve.html
+	set tags 1993,istoria,strana_ua,ukraina
+page
+	set url https://strana.ua/news/345893-krestnyj-khod-upts-hlavnye-vyvody-ot-strany.html
+	set tags cerkov,istoria,kiev,kreschenie.rusi,krestnyj_hod,pravoslavie,ukraina,upc,vera
+page
+	set url https://strana.ua/news/345872-birjukov-nazval-krestnyj-khod-shabashem-s-bubenchikami.html
+	set tags birjukov_jurij,cerkov,oskorblenie,pravoslavie,ukraina,upc,vera
+page
+	set url https://strana.ua/news/346007-ukraintsy-i-russkie-odin-narod-opros-v-ukraine.html
+	set tags __jul_2021.putin.statja,obschestvo,odin_narod,sociologia,socopros,ukraina
 eof
 off
 page

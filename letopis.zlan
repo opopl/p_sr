@@ -33763,6 +33763,27 @@ page
 page
 	set url https://www.radiosvoboda.org/a/2122151.html
 	set tags andruhovych_jurij,donbass,ukraina
+page
+	set url https://strana.ua/news/346139-umer-chlen-hkchp-i-kurator-kosmicheskoj-otrasli-sssr-oleh-baklanov.html
+	set tags baklanov_oleg.sssr.gkchp,kosmonavtika,kosmos,kosmos.programma.energia_buran,rogozin_dmitrii,smert,sssr,ukraina
+page
+	set url https://strana.ua/articles/interview/346127-lider-green-grey-v-intervju-strane-rasskazal-ob-otkaze-ot-kontserta-na-den-nezavisimosti.html
+	set tags grin_grey.gruppa.ukr,jazyk,kultura,mova,muzyka,ukraina
+page
+	set url https://strana.ua/articles/interview/345940-darja-beloded-rasskazala-o-svoem-uchastii-v-olimpijskikh-ihrakh-2020-.html
+	set tags bilodid_darja.sportsmenka.ukraina.dzjudo,jazyk,mova,olimpiada,olimpiada.tokio,sport,ukraina
+page
+	set url https://strana.ua/articles/346202-pochemu-kanaly-ne-perevodjat-filmy-i-serialy-na-ukrainskij-jazyk-.html
+	set tags jazyk,kremin_taras,mova,tv,ukraina,ukrainizacia,zakon
+page
+	set url https://gazeta.ua/blog/55492/ne-prochanki-v-hustkah-mayut-borotisya-z-rpc-a-pravoohoronni-organi
+	set tags cerkov,kiev,krestnyj_hod,pravoslavie,ukraina,upc,vrag
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/yakyy-narod-hrestyv-knyaz-volodymyr
+	set tags istoria,kievrus,kreschenie.rusi,odin_narod,putin_vladimir,rossia,rusmir,ukraina
+page
+	set url https://analytics.hvylya.net/234637-istoricheskoe-edinstvo-russkih-i-ukraincev-i-vneshnepoliticheskie-metaniya-ukrainy
+	set tags __jul_2021.putin.statja,odin_narod,rossia,rusmir,ukraina
 eof
 off
 page

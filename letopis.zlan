@@ -33760,6 +33760,9 @@ page
 page
 	set url https://ukraina.ru/exclusive/20210728/1031949602.html
 	set tags __jul_2021.putin.statja,istoria,kievrus,odin_narod,ukraina,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/2122151.html
+	set tags andruhovych_jurij,donbass,ukraina
 eof
 off
 page

@@ -33757,6 +33757,9 @@ page
 page
 	set url https://strana.ua/news/345800-chem-izvesten-mikhail-korzhenovskij-kozak-mikhajlik-iz-randevu-janiny-sokolovoj.html
 	set tags deti,jazyk,mova,nacionalist,nacionalizm,nenavist,patriotizm,sokolova_janina,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210728/1031949602.html
+	set tags __jul_2021.putin.statja,istoria,kievrus,odin_narod,ukraina,zelenskii_vladimir
 eof
 off
 page

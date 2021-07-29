@@ -33784,6 +33784,12 @@ page
 page
 	set url https://analytics.hvylya.net/234637-istoricheskoe-edinstvo-russkih-i-ukraincev-i-vneshnepoliticheskie-metaniya-ukrainy
 	set tags __jul_2021.putin.statja,odin_narod,rossia,rusmir,ukraina
+page
+	set url https://strana.ua/sport/345819-otets-dari-beloded-otsenil-vystuplenie-docheri-na-olimpiade.html
+	set tags bilodid_darja.sportsmenka.ukraina.dzjudo,dzjudo,interview,olimpiada,olimpiada.tokio,sport,ukraina
+page
+	set url https://analytics.hvylya.net/234631-fiasko-etnichnoji-ukrajinizaciji
+	set tags __jul_2021.putin.statja,ideologia,odin_narod,putin_vladimir,rossia,rusmir,sociologia,socopros,ukraina
 eof
 off
 page

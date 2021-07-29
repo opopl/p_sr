@@ -33790,6 +33790,24 @@ page
 page
 	set url https://analytics.hvylya.net/234631-fiasko-etnichnoji-ukrajinizaciji
 	set tags __jul_2021.putin.statja,ideologia,odin_narod,putin_vladimir,rossia,rusmir,sociologia,socopros,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/skvoz-ukrainu-horosho-vidno-novorossiiu-malorossiiu-i-daje-russkuiu-galiciiu-i-karpatskuiu-rus-610270150479b84845ae2ed8
+	set tags cerkov,galichina,galicia,identichnost',kiev,krestnyj_hod,malorossia,novorossia,pravoslavie,rossia,rusmir,ukraina,vera
+page
+	set url https://zen.yandex.ru/media/politinteres/nadoeli-so-svoei-moskoviei-postavim-tochku-60e32bb8373c493ba0e8c6b0
+	set tags istoria,moskovia,petr_pervyi,rossia,rusmir,slovo
+page
+	set url https://zen.yandex.ru/media/luchik/pochemu-rossiia-ne-mordor-60e9ba7479b59675f165eac0
+	set tags literatura,mordor,rossia,tolkien
+page
+	set url https://zen.yandex.ru/media/pokrymu/kogo-dushit-krymskaia-jaba-609f728646cbf11541d0f1c6
+	set tags krym,rossia
+page
+	set url https://zen.yandex.ru/media/id/60f161a37733e83f6e949f47/chemodan-bez-ruchki-i-kirpich-pochemu-vyhodcy-iz-ukrainy-tak-prenebregaiut-svoim-proshlym-6102f0035fdf8305ffa9e3dc
+	set tags future,istoria,politika,proshloje,rossia,ukraina
+page
+	set url https://regnum.ru/news/polit/3327323.html
+	set tags istoria,kiev,kievrus,knjaz_vladimir,novgorod,olga_knjaginja,rossia,rusmir,ukraina
 eof
 off
 page

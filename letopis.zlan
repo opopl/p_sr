@@ -33751,6 +33751,12 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/bogomolec/60fa806776998/
 	set tags festival,kultura,muzyka,shopen_frederik.muzykant,ukraina
+page
+	set url https://vz.ru/opinions/2021/7/26/1110679.html
+	set tags dekomunizacia,demontazh,istoria,kommunizm,lvov,monument_slavy.lvov,pamjat,sssr,ukraina
+page
+	set url https://strana.ua/news/345800-chem-izvesten-mikhail-korzhenovskij-kozak-mikhajlik-iz-randevu-janiny-sokolovoj.html
+	set tags deti,jazyk,mova,nacionalist,nacionalizm,nenavist,patriotizm,sokolova_janina,ukraina
 eof
 off
 page

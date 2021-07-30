@@ -33823,6 +33823,21 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/07/30/7302165/
 	set tags avtoshina,maidan2,nacidea,narod,ukraina
+page
+	set url https://strana.ua/news/345311-istorija-ukrainy-1995-hoda-hlavnye-sobytija-i-fakty.html
+	set tags 1995,istoria,ukraina,strana_ua
+page
+	set url https://strana.ua/opinions/346349-a-ved-knjaz-vladimir-poluchaetsja-po-suti-mokshanskij-okkupant.html
+	set tags cerkov,istoria,kievrus,knjaz_vladimir,novgorod,pravoslavie,ukraina,upc,vera
+page
+	set url https://strana.ua/news/346364-green-grey-zajavila-chto-ikh-vycherknuli-iz-filma-ko-dnju-nezavisimosti-ukrainy.html
+	set tags grin_grey.gruppa.ukr,jazyk,kultura,mova,muzyka,showbiz,skandal,ukraina
+page
+	set url https://strana.ua/news/345863-hruppa-green-grey-ne-vystupit-na-den-nezavisimosti-iz-za-pesni-na-russkom-jazyke.html
+	set tags grin_grey.gruppa.ukr,jazyk,kultura,mova,muzyka,showbiz,skandal,ukraina,ukrainizacia
+page
+	set url https://strana.ua/news/346387-storonnik-poroshenko-prizval-kontrrazvedku-likvidirovat-zhurnalistov-strany.html
+	set tags gushva_igor,kovtunenko_aleksandr.energoatom.ukraina,nenavist,prizyv,strana_ua,ukraina
 eof
 off
 page

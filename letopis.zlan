@@ -33817,6 +33817,12 @@ page
 page
 	set url https://lenta.ru/articles/2021/07/07/sudoplatov/
 	set tags istoria,kiev,konovalec_evgen.oun,nkvd,razvedchik,rossia,sssr,sudoplatov_pavel.razvedchik.sssr,ukraina
+page
+	set url https://zaxid.net/nam_bi_hotilos_zakrutiti_vsyu_ukrayinu_na_tsiy_osi_n1523278
+	set tags kultura,skovoroda_grigorii,teatr,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/07/30/7302165/
+	set tags avtoshina,maidan2,nacidea,narod,ukraina
 eof
 off
 page

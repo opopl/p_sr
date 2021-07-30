@@ -33808,6 +33808,15 @@ page
 page
 	set url https://regnum.ru/news/polit/3327323.html
 	set tags istoria,kiev,kievrus,knjaz_vladimir,novgorod,olga_knjaginja,rossia,rusmir,ukraina
+page
+	set url https://lug-info.com/news/stat-a-putina-zastala-vrasploh-pravasuu-verhusku-ukrainy-obsestvennik
+	set tags __jul_2021.putin.statja,lnr,odin_narod,rossia,ukraina
+page
+	set url https://lenta.ru/brief/2021/07/12/odin_narod/
+	set tags __jul_2021.putin.statja,rossia,ukraina
+page
+	set url https://lenta.ru/articles/2021/07/07/sudoplatov/
+	set tags istoria,kiev,konovalec_evgen.oun,nkvd,razvedchik,rossia,sssr,sudoplatov_pavel.razvedchik.sssr,ukraina
 eof
 off
 page

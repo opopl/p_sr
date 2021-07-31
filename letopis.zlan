@@ -33838,6 +33838,9 @@ page
 page
 	set url https://strana.ua/news/346387-storonnik-poroshenko-prizval-kontrrazvedku-likvidirovat-zhurnalistov-strany.html
 	set tags gushva_igor,kovtunenko_aleksandr.energoatom.ukraina,nenavist,prizyv,strana_ua,ukraina
+page
+	set url https://strana.ua/news/346575-v-mid-rf-otreahirovali-na-otvet-mida-frantsii-o-neonatsizme-v-ukraine-.html
+	set tags francia,mid_rf,nacizm,rossia,ukraina,zaharova_maria
 eof
 off
 page

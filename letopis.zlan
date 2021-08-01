@@ -33841,6 +33841,18 @@ page
 page
 	set url https://strana.ua/news/346575-v-mid-rf-otreahirovali-na-otvet-mida-frantsii-o-neonatsizme-v-ukraine-.html
 	set tags francia,mid_rf,nacizm,rossia,ukraina,zaharova_maria
+page
+	set url https://strana.ua/news/345357-istorija-ukrainy-v-1997-hodu-hlavnye-fakty-i-sobytija.html
+	set tags 1997,istoria,strana_ua,ukraina
+page
+	set url https://strana.ua/opinions/346632-istorija-s-chausom-eto-prestuplenie-vsekh-eticheskikh-hranits.html
+	set tags ukraina
+page
+	set url https://strana.ua/opinions/346585-v-ukraine-ne-ostalos-ni-deneh-ni-zashchity-ni-dazhe-mechty.html
+	set tags future,gosudarstvo,mechta,politika,ukraina
+page
+	set url https://strana.ua/news/345331-1996-hod-v-istorii-ukrainy-vvedenie-hrivny-i-konstitutsii-chto-eshche-bylo.html
+	set tags 1996,gosudarstvo,istoria,konstitucia,kuchma_leonid,obschestvo,rossia,strana,strana_ua,ukraina
 eof
 off
 page

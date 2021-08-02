@@ -33879,6 +33879,9 @@ page
 page
 	set url https://strana.ua/news/345739-kak-v-ukraine-moshennichajut-s-nedvizhimostju-skhemy-obmana-s-kvartirami.html
 	set tags dengi,ekonomika,kvartira,moshennik,nedvizhimost',ukraina
+page
+	set url https://news.obozrevatel.com/society/golodomor-repressii-vosstaniya-kak-grubo-rusifitsirovali-ukrainskuyu-kuban.htm
+	set tags istoria,kuban',rossia,rusmir,ukraina
 eof
 off
 page

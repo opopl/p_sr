@@ -33848,9 +33848,6 @@ page
 	set url https://strana.ua/opinions/346632-istorija-s-chausom-eto-prestuplenie-vsekh-eticheskikh-hranits.html
 	set tags ukraina
 page
-	set url https://strana.ua/opinions/346585-v-ukraine-ne-ostalos-ni-deneh-ni-zashchity-ni-dazhe-mechty.html
-	set tags future,gosudarstvo,mechta,politika,ukraina
-page
 	set url https://strana.ua/news/345331-1996-hod-v-istorii-ukrainy-vvedenie-hrivny-i-konstitutsii-chto-eshche-bylo.html
 	set tags 1996,gosudarstvo,istoria,konstitucia,kuchma_leonid,obschestvo,rossia,strana,strana_ua,ukraina
 page
@@ -33871,6 +33868,17 @@ page
 page
 	set url https://bigkyiv.com.ua/hreshhennya-rusi-legendy-ta-fakty-pro-pershyh-kyyivskyh-hrystyyan/
 	set tags istoria,kievrus,knjaz_vladimir,kreschenie.rusi
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.ua/opinions/346585-v-ukraine-ne-ostalos-ni-deneh-ni-zashchity-ni-dazhe-mechty.html
+	set tags future,gosudarstvo,mechta,politika,ukraina
+page
+	set url https://strana.ua/news/345739-kak-v-ukraine-moshennichajut-s-nedvizhimostju-skhemy-obmana-s-kvartirami.html
+	set tags dengi,ekonomika,kvartira,moshennik,nedvizhimost',ukraina
 eof
 off
 page

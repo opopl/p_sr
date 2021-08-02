@@ -33882,6 +33882,9 @@ page
 page
 	set url https://news.obozrevatel.com/society/golodomor-repressii-vosstaniya-kak-grubo-rusifitsirovali-ukrainskuyu-kuban.htm
 	set tags istoria,kuban',rossia,rusmir,ukraina
+page
+	set url https://news.obozrevatel.com/politics/poroshenko-rasskazal-chto-na-samom-dele-stoit-za-tezisom-putina-ob-odnom-narode.htm
+	set tags __jul_2021.putin.statja,odin_narod,poroshenko_petr,putin_vladimir,rossia,ukraina
 eof
 off
 page

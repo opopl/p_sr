@@ -33853,6 +33853,24 @@ page
 page
 	set url https://strana.ua/news/345331-1996-hod-v-istorii-ukrainy-vvedenie-hrivny-i-konstitutsii-chto-eshche-bylo.html
 	set tags 1996,gosudarstvo,istoria,konstitucia,kuchma_leonid,obschestvo,rossia,strana,strana_ua,ukraina
+page
+	set url https://glavcom.ua/country/culture/dayte-spokiy-zi-svojeyu-movoyu-i-cheshit-v-lviv-aktrisa-sprovokuvala-ukrajinofobniy-skandal-772000.html
+	set tags jazyk,mova,skandal,teatr,ukraina,ukrainizacia
+page
+	set url https://www.ng.ru/ng_exlibris/2020-11-25/11_1057_petrovsky.html
+	set tags kiev,kniga,kultura,literatura,petrovskij_miron.kiev.pisatel,smert,ukraina
+page
+	set url https://glavcom.ua/kyiv/news/hotiv-kupiti-morozivo-u-centri-kijeva-cholovika-pobili-cherez-ukrajinsku-movu-769116.html
+	set tags draka,gorod,kiev,mova,ukraina
+page
+	set url https://polit.ru/article/2020/11/14/petrovsky/
+	set tags gorod,kiev,kultura,literatura,petrovskij_miron.kiev.pisatel,smert,ukraina
+page
+	set url https://www.svoboda.org/a/30950330.html
+	set tags kultura,literatura,petrovskij_miron.kiev.pisatel,smert,ukraina
+page
+	set url https://bigkyiv.com.ua/hreshhennya-rusi-legendy-ta-fakty-pro-pershyh-kyyivskyh-hrystyyan/
+	set tags istoria,kievrus,knjaz_vladimir,kreschenie.rusi
 eof
 off
 page

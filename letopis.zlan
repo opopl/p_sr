@@ -33885,6 +33885,15 @@ page
 page
 	set url https://news.obozrevatel.com/politics/poroshenko-rasskazal-chto-na-samom-dele-stoit-za-tezisom-putina-ob-odnom-narode.htm
 	set tags __jul_2021.putin.statja,odin_narod,poroshenko_petr,putin_vladimir,rossia,ukraina
+page
+	set url https://analytics.hvylya.net/235008-tradicii-getmanshchiny-ili-koren-edinstva-narodov
+	set tags __jul_2021.putin.statja,istoria,odin_narod,ukraina
+page
+	set url https://analytics.hvylya.net/234552-lozh-v-state-putina-o-istoricheskom-edinstve-russkih-i-ukraincev
+	set tags __jul_2021.putin.statja,rossia,rusmir,ukraina
+page
+	set url http://slovoprosvity.org/2021/07/12/pravda-v-ridnomu-slovi/
+	set tags jazyk,moskovia,mova,rossia,rusmir,ukraina,ukrainizacia
 eof
 off
 page

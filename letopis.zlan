@@ -33868,11 +33868,6 @@ page
 page
 	set url https://bigkyiv.com.ua/hreshhennya-rusi-legendy-ta-fakty-pro-pershyh-kyyivskyh-hrystyyan/
 	set tags istoria,kievrus,knjaz_vladimir,kreschenie.rusi
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/opinions/346585-v-ukraine-ne-ostalos-ni-deneh-ni-zashchity-ni-dazhe-mechty.html
 	set tags future,gosudarstvo,mechta,politika,ukraina
@@ -33903,6 +33898,36 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/suspilstvo/identyfikaciya-pivdnya-za-yungom
 	set tags __jul_2021.putin.statja,chelovek,identichnost',istoria,odin_narod,psihika,psihologia,putin_vladimir,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/dosuznik/v-chem-nas-obviniaiut-na-sei-raz-610853674b38cc2c21b9c4d0
+	set tags grushevskij_mihail.istorik,istoria,kievrus,moskovia,rossia,rusmir,ukraina
+page
+	set url https://strana.ua/news/347004-bajden-nazval-herojami-ofitserov-kotoryj-sovershili-samoubijstvyo.html
+	set tags biden_joe,geroizm,policia,suicid,usa
+page
+	set url https://strana.ua/articles/special/344839-kraska-korablja-vsehda-pakhnet-morem.html
+	set tags degradacia,nikolaev,promyshlennost,razruha,ukraina,zavod.ukr.chernomorskij_sudostroitelnyj
+page
+	set url https://strana.ua/news/346934-sternenko-obvinil-hejmera-simpla-v-posjahatelstve-na-territorialnuju-tselostnost-ukrainy.html
+	set tags internet,kibersport,krym,rossia,sternenko_sergei,travlja,ukraina
+page
+	set url https://strana.ua/news/346966-prizyvy-k-ubijstvam-zhurnalistov-ot-aleksandra-kovtunenko-politsija-nachala-rassledovanie.html
+	set tags kovtunenko_aleksandr.energoatom.ukraina,policia,rasprava,strana_ua,ugolovnoje_delo,ukraina,zhurnalist
+page
+	set url https://strana.ua/opinions/346700-ukraina-postojanno-pytaetsja-najti-lidera-no-kazhdyj-raz-obzhihaetsja.html
+	set tags lider,liderstvo,obschestvo,obsuzhdenie,strana,ukraina
+page
+	set url https://strana.ua/opinions/346546-istorija-sudi-chausa-potrjasajushcha-dazhe-dlja-nyneshnej-ukrainy.html
+	set tags chaus_nikolaj.ukr.sudja,ukraina
+page
+	set url https://strana.ua/opinions/346523-green-grey-poveli-sebja-tak-kak-po-idee-i-polahaetsja-rokeram.html
+	set tags grin_grey.gruppa.ukr,ukraina
+page
+	set url https://ukraina.ru/opinion/20210803/1031983803.html
+	set tags donos,jazyk,mova,nacionalist,travlja,ukraina,ukrainizacia
+page
+	set url https://www.pravmir.ru/nado-dostuchatsya-do-brata-evgeniya-bilchenko-o-russkih-i-ukrainskih-poetah/
+	set tags poet,poezia,rossia,rusmir,ukraina
 eof
 off
 page

@@ -33894,6 +33894,15 @@ page
 page
 	set url http://slovoprosvity.org/2021/07/12/pravda-v-ridnomu-slovi/
 	set tags jazyk,moskovia,mova,rossia,rusmir,ukraina,ukrainizacia
+page
+	set url http://slovoprosvity.org/2021/07/12/filosofiia-v-kyievo-mohylians-kiy-akademii-petro-mohyla-inokentiy-hizel-teofan-prokopovych-ta-inshi/
+	set tags cerkov,filosofia,istoria,kiev,kultura,nauka,petr_pervyi,prokopovych_feofan,religia,rossia,rusimperia,rusmir,ukraina
+page
+	set url http://slovoprosvity.org/2021/07/12/khto-vin-volodar-hromu/
+	set tags grom,istoria,kiev,kievrus,kniga,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/identyfikaciya-pivdnya-za-yungom
+	set tags __jul_2021.putin.statja,chelovek,identichnost',istoria,odin_narod,psihika,psihologia,putin_vladimir,rossia,ukraina
 eof
 off
 page

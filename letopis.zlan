@@ -33928,6 +33928,21 @@ page
 page
 	set url https://www.pravmir.ru/nado-dostuchatsya-do-brata-evgeniya-bilchenko-o-russkih-i-ukrainskih-poetah/
 	set tags poet,poezia,rossia,rusmir,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5e52a45be977e25b8eec5de4/tainy-podmoskovia-zagadochnyi-zver-i-hram-kotoryi-mojet-byt-samym-drevnim-v-moskovskoi-oblasti-60ba5ca33adb654fa5f6f806
+	set tags rossia
+page
+	set url https://zen.yandex.ru/media/id/5fd5db155b198169b6ab97e5/slaviane-gde-vy-est-li-oni-sredi-nas-60d73f73592c8c51d4daa129
+	set tags slavjane
+page
+	set url https://islamnews.ru/news-kak-tatary-pomogli-rusi-stat-rossiey
+	set tags istoria,rossia,tatary
+page
+	set url https://zen.yandex.ru/media/dodo/kyevskaia-gosudarstvennost--i-petr-mamonov-60f2c2b7b89e844dc1c8c0b1
+	set tags kiev,mamonov_petr.muzykant.akter.rossia,ukraina
+page
+	set url https://gazeta.ua/ru/articles/opinions-journal/_novij-kiyiv-bude-ukrayinskij/499688
+	set tags gorod,jazyk,kiev,kievljane,mova,ukraina,ukrainstvo
 eof
 off
 page

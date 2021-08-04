@@ -33970,6 +33970,18 @@ page
 page
 	set url https://gazeta.ua/articles/sport/_ukrayinka-pidkorila-goruvbivcyu-de-gine-kozhen-chetvertij/1044544
 	set tags alpinizm,everest,galaj_irina.alpinist.ukraina,gora,gora.k2.chogori,gory,gory.gimalai,ukraina,vershina
+page
+	set url https://odnarodyna.org/article/attrakcion-nevezhestva-ili-kak-natyanut-istoriyu-na-globus-ukrainy
+	set tags __jul_2021.putin.statja,cerkov,istoria,kievrus,krestnyj_hod,odin_narod,pravoslavie,rossia,rusmir,ukraina,upc,zelenskii_vladimir
+page
+	set url https://odnarodyna.org/article/4-avgusta-den-v-nashey-istorii
+	set tags 4_aug,istoria,rossia,ukraina
+page
+	set url https://strana.ua/news/346343-2000-hod-v-istorii-ukrainy-spetsproekt-strany-na-30-let-nezavisimosti.html
+	set tags 2000,gongadze_georgij,istoria,strana_ua,ukraina
+page
+	set url https://lenta.ru/articles/2021/08/04/pioneer/
+	set tags istoria,pioner,sssr
 eof
 off
 page

@@ -33943,6 +33943,33 @@ page
 page
 	set url https://gazeta.ua/ru/articles/opinions-journal/_novij-kiyiv-bude-ukrayinskij/499688
 	set tags gorod,jazyk,kiev,kievljane,mova,ukraina,ukrainstvo
+page
+	set url https://strana.ua/news/347109-kak-boets-ajdara-s-hranatoj-v-kabmine-zalozhnikov-bral-rekonstruktsija.html
+	set tags __aug_2021.ajdar.popytka.terakt,ajdar.bataljon,ato,kabmin,popytka,terakt,terror,ukraina,veteran
+page
+	set url https://strana.ua/news/347140-antona-herashchenko-uvolili-s-dolzhnosti-zamhlavy-mvd.html
+	set tags geraschenko_anton,kabmin,mvd_ukraina,otstavka,ukraina
+page
+	set url https://strana.ua/news/246982-minirovanie-mosta-metro-v-kieve-s-alekseja-belko-khotjat-vzyskat-70-tysjach-za-sbityj-kopter.html
+	set tags ato,most.kiev.metro,terrorist,ukraina
+page
+	set url https://strana.ua/news/347093-vladimir-prokhnich-chto-izvestno-ob-atoshnike-kotoryj-prishel-v-kabmin-s-hranatoj.html
+	set tags __aug_2021.ajdar.popytka.terakt,ajdar.bataljon,kabmin,poroshenko_petr,terrorist,ukraina
+page
+	set url https://gazeta.ua/blog/55510/ukrayinci-pomirayut-yidut-znikayut-nastane-chas-koli-tut-nikogo-ne-zalishitsya
+	set tags degradacia,demografia,depopulacia,ludi,naselenie,obschestvo,ukraina
+page
+	set url https://gazeta.ua/blog/55480/bazar-i-cvintar-najvazhlivishi-tochki-v-misti-mizh-nimi-j-treba-shukati-jogo-serce
+	set tags bazar,kladbische,obschestvo,ukraina,zhizn
+page
+	set url https://www.radiosvoboda.org/a/vidpovid-putinu/31391212.html
+	set tags __jul_2021.putin.statja,odin_narod,putin_vladimir,rossia,rusmir,russkie,ukraina,ukraincy
+page
+	set url https://www.radiosvoboda.org/a/hetman-ivan-mazepa-voroh-imperiyi/31387388.html
+	set tags istoria,mazepa_ivan,rossia,rusimperia,ukraina
+page
+	set url https://gazeta.ua/articles/sport/_ukrayinka-pidkorila-goruvbivcyu-de-gine-kozhen-chetvertij/1044544
+	set tags alpinizm,everest,galaj_irina.alpinist.ukraina,gora,gora.k2.chogori,gory,gory.gimalai,ukraina,vershina
 eof
 off
 page

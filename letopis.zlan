@@ -33997,6 +33997,18 @@ page
 page
 	set url https://lug-info.com/news/biblioteki-luganska-i-bryanska-priglashayut-prinyat-uchastie-v-setevoj-akcii-ko-dnyu-goroda
 	set tags brjansk,chtenie,deti,kniga,kultura,lnr,lugansk
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/russkih-net-nigde-potomu-chto-oni-vezde-610932c4446b937a543d2876
+	set tags rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/russkii-put-reshenie-nereshaemyh-zadach-60fe7b15d6464c5966da3e99
+	set tags chelovek,rossia,rusmir,russkie,russkij_chelovek,tvorchestvo
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/apokalipsis-ili-razvitie-novogo-mira-60f52b1d9cbaf06f680872ff
+	set tags apokalipsis,civilizacia,miroporjadok,rossia
+page
+	set url https://zen.yandex.ru/media/vestnikviktor/za-chto-ia-liubliu-malorossiiu-ukrainu-60eec13f526e673447f115b2
+	set tags malorossia,rossia,rusmir,ukraina
 eof
 off
 page

@@ -33982,6 +33982,21 @@ page
 page
 	set url https://lenta.ru/articles/2021/08/04/pioneer/
 	set tags istoria,pioner,sssr
+page
+	set url https://strana.ua/articles/analysis/347381-novye-poteri-avakova-po-vlijaniju-eks-ministra-v-kharkove-naneseny-chuvstvitelnye-udary.html
+	set tags avakov_arsen,harkov,ukraina
+page
+	set url https://strana.ua/articles/interview/347343-zhan-belenjuk-v-intervju-stranaua-rasskazal-o-pobede-na-olimpiade-2020-i-pro-khejt-v-seti.html
+	set tags belenjuk_jean,sport,ukraina
+page
+	set url https://strana.ua/sport/news/347401-pryhunja-marina-kilipko-rasskazala-o-situatsii-s-ukrainskoj-delehatsiej-na-olimpiade-.html
+	set tags komanda,olimpiada,olimpiada.tokio,podderzhka,psihologia,sport,ukraina
+page
+	set url https://strana.ua/news/347282-vladimir-zelenskij-zajavil-chto-donbass-rano-ili-pozdno-deokkupirujut.html
+	set tags donbass,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://lug-info.com/news/biblioteki-luganska-i-bryanska-priglashayut-prinyat-uchastie-v-setevoj-akcii-ko-dnyu-goroda
+	set tags brjansk,chtenie,deti,kniga,kultura,lnr,lugansk
 eof
 off
 page

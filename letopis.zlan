@@ -34048,6 +34048,15 @@ page
 page
 	set url https://strana.ua/opinions/347438-nyneshnjaja-dezinformatsionnaja-epokha-kohda-to-prevratitsja-v-informatsionnuju.html
 	set tags dezinformacia,epoha,future,informacia,kakofonia,obschestvo
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/eto-ne-panorama-7-610ceecae8fda83d3f3b2c55
+	set tags arahamia_david,atom_bomb,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5f0c9a482c267a403d2d3b3d/berestianaia-letopis-rusi-chto-i-kak-pisali-v-11-veke-foto-i-perevod-gramot-60fc6c6ed0a97d540000d1bd
+	set tags beresta,istoria,novgorod,onfim,rusmir
+page
+	set url https://zen.yandex.ru/media/hrenvseznaet/nikolai-gogol-o-russkom-edinstve-ukraine-i-ukraincah-60ed0d3253c91d0b8a34ed29
+	set tags gogol_nikolai,kultura,literatura,rusmir
 eof
 off
 page

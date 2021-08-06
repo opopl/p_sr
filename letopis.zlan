@@ -34045,6 +34045,9 @@ page
 page
 	set url https://strana.ua/news/345954-krestnyj-khod-upts-zapreshchennyj-hrin-hrej-falshivaja-pribyl-naftohaza.html
 	set tags grin_grey.gruppa.ukr,itogi,odin_narod,socopros,strana_ua,ukraina
+page
+	set url https://strana.ua/opinions/347438-nyneshnjaja-dezinformatsionnaja-epokha-kohda-to-prevratitsja-v-informatsionnuju.html
+	set tags dezinformacia,epoha,future,informacia,kakofonia,obschestvo
 eof
 off
 page

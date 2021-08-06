@@ -34009,6 +34009,30 @@ page
 page
 	set url https://zen.yandex.ru/media/vestnikviktor/za-chto-ia-liubliu-malorossiiu-ukrainu-60eec13f526e673447f115b2
 	set tags malorossia,rossia,rusmir,ukraina
+page
+	set url https://www.volyn.com.ua/news/189577-ukrainskykh-synkhronistok-na-olimpiadi-2020-predstavyly-iak-rosiiskykh-sportsmenok
+	set tags olimpiada.tokio,plavanie,plavanie.sinhronnoje,rossia,sport,ukraina
+page
+	set url https://strana.ua/news/347437-serhej-shojhu-khochet-postroit-v-sibiri-novye-horoda-i-perenesti-tuda-stolitsu-rossii.html
+	set tags rossia,shojgu_sergej,sibir
+page
+	set url https://strana.ua/news/347314-zelenskij-intervju-kanalu-dom-zajavlenija-o-kryme-i-donbasse.html
+	set tags donbass,rossia,ukraina,vojna,zajavlenie,zelenskii_vladimir
+page
+	set url https://day.kyiv.ua/uk/article/podrobyci-osobystist/koly-pishov-uchytel
+	set tags gosudarstvo,marchuk_evgenij.ukr.sbu.glava,sbu,smert,ukraina
+page
+	set url https://lenta.ru/articles/2021/08/06/zodchestvo/
+	set tags arhitektura,derevo,foto,istoria,rossia,zodchestvo
+page
+	set url https://analytics.hvylya.net/235092-zdatnist-bachite-velike-v-chuzhomu-ta-vorozhomu-yak-oznaka-doroslosti
+	set tags bulgakov_mihail,identichnost',nacidea,pirogov_nikolaj.hirurg,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/odne-z-ostannikh-intervyu-yevhena-marchuka/31394704.html
+	set tags marchuk_evgenij.ukr.sbu.glava,nezalezhnist,rossia,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/08/6/7302898/
+	set tags obschestvo,strana,ukraina,zhizn
 eof
 off
 page

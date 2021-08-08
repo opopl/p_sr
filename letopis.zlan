@@ -34066,6 +34066,14 @@ page
 page
 	set url https://strana.ua/opinions/347776-uzkolobye-patrioty-prizyvajut-otpravit-olimpijskuju-prizerku-na-front.html
 	set tags maguchih_jaroslava,olimpiada.tokio,sport,travlja,ukraina
+off
+page
+	set url https://censor.net/ru/news/3281434/ukrainka_maguchih_sfotografirovalas_so_sportsmenkoi_sbornoi_nedostoinoi_nosheniya_svoego_flaga_foto
+	set tags foto,maguchih_jaroslava,olimpiada.tokio,rossia,ukraina
+on
+page
+	set url https://strana.ua/opinions/347667-v-svoem-intervju-zelenskij-sovershil-tselyj-rjad-prestuplenij.html
+	set tags konstitucia,prestuplenie,ukraina,zelenskii_vladimir
 eof
 off
 page

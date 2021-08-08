@@ -34057,6 +34057,15 @@ page
 page
 	set url https://zen.yandex.ru/media/hrenvseznaet/nikolai-gogol-o-russkom-edinstve-ukraine-i-ukraincah-60ed0d3253c91d0b8a34ed29
 	set tags gogol_nikolai,kultura,literatura,rusmir
+page
+	set url https://strana.ua/news/347461-hod-protestam-v-belarusi-kak-zhivet-nexta-i-pochemu-zatukh-belomajdan.html
+	set tags belarus,lukashenko_aleksandr,nexta,oppozicia,protasevich_roman.belarus.nexta,protest
+page
+	set url https://strana.ua/news/347000-hruppa-dabro-iz-donbassa-kak-ona-stala-samoj-populjarnoj-hruppoj-v-rossii.html
+	set tags dabro.gruppa.muzyka.donbass,kultura,muzyka,rossia,ukraina
+page
+	set url https://strana.ua/opinions/347776-uzkolobye-patrioty-prizyvajut-otpravit-olimpijskuju-prizerku-na-front.html
+	set tags maguchih_jaroslava,olimpiada.tokio,sport,travlja,ukraina
 eof
 off
 page

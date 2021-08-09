@@ -34113,6 +34113,12 @@ page
 page
 	set url https://zaxid.net/ukrayina_tse___n1523485
 	set tags __jul_2021.putin.statja,istoria,obschestvo,odin_narod,peskov_dmitrii,putin_vladimir,rossia,rusmir,ukraina
+page
+	set url https://zaxid.net/derzhavna_pravda_n1523811
+	set tags __jul_2021.putin.statja,istoria,rossia,rusmir,ukraina
+page
+	set url https://zaxid.net/zaduha_tem_i_syuzhetiv_n1522862
+	set tags istoria,ukraina
 eof
 off
 page

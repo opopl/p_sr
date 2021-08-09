@@ -34074,6 +34074,9 @@ on
 page
 	set url https://strana.ua/opinions/347667-v-svoem-intervju-zelenskij-sovershil-tselyj-rjad-prestuplenij.html
 	set tags konstitucia,prestuplenie,ukraina,zelenskii_vladimir
+page
+	set url https://strana.ua/opinions/347802-v-sovremennoj-vojne-mozhno-vyihrat-blahodarja-pravilnoj-kartinke.html
+	set tags informacia,infvojna,usa,vojna,vojna.vjetnam
 eof
 off
 page

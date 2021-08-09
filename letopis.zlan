@@ -34077,6 +34077,12 @@ page
 page
 	set url https://strana.ua/opinions/347802-v-sovremennoj-vojne-mozhno-vyihrat-blahodarja-pravilnoj-kartinke.html
 	set tags informacia,infvojna,usa,vojna,vojna.vjetnam
+page
+	set url https://strana.ua/news/347813-foto-mahuchikh-i-lasitskene-pochemu-na-ukrainskuju-sportsmenku-opolchilis-vlasti.html
+	set tags maguchih_jaroslava,nacionalist,odin_narod,patriotizm,travlja,ukraina
+page
+	set url https://strana.ua/news/347824-v-krivom-rohe-muzhchina-podorval-hranatu-u-mahazina-i-ostalsja-bez-nohi.html
+	set tags granata,krivoj_rog,terror,ukraina
 eof
 off
 page

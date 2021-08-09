@@ -34092,6 +34092,18 @@ page
 page
 	set url https://strana.ua/news/347488-nitsoj-nazvala-nazvanie-russkij-jazyk-styrennym-i-prizvala-eho-izmenit.html
 	set tags jazyk,moskovia,mova,nicoj_larisa,ukraina
+page
+	set url https://strana.ua/news/347833-petukh-v-kosovorotke-pod-ofisom-prezidenta-chto-ob-etom-pishut-v-sotssetjakh.html
+	set tags bankova,ofis_prezidenta,petuh,primachenko_maria.hudozhnica,skandal,ukraina
+page
+	set url https://strana.ua/news/347891-lukashenko-zajavil-chto-mozhet-sdelat-tak-chtoby-zelenskoho-vynesli-na-vilakh.html
+	set tags belarus,lukashenko_aleksandr,putin_vladimir,ukraina,zelenskii_vladimir
+page
+	set url https://day.kyiv.ua/uk/article/istoriya-i-ya/pro-dvoh-hlopciv-z-zhytomyra-korolenka-i-korolova-0
+	set tags istoria,korolenko_vladimir.zhitomir.sudja.literator,korolev_sergei,literatura,rossia,rusimperia,rusmir,ukraina
+page
+	set url https://day.kyiv.ua/uk/article/istoriya-i-ya/pro-dvoh-hlopciv-z-zhytomyra-korolenka-i-korolova
+	set tags istoria,korolenko_vladimir.zhitomir.sudja.literator,korolev_sergei,kosmos,kultura,literatura,ukraina
 eof
 off
 page

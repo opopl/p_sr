@@ -34083,6 +34083,15 @@ page
 page
 	set url https://strana.ua/news/347824-v-krivom-rohe-muzhchina-podorval-hranatu-u-mahazina-i-ostalsja-bez-nohi.html
 	set tags granata,krivoj_rog,terror,ukraina
+page
+	set url https://strana.ua/news/347617-taras-kremin-protiv-filmov-na-russkom-jazyke.html
+	set tags jazyk,kremin_taras,mova,nacbezopasnost,ukraina,ukrainizacia,zakon
+page
+	set url https://strana.ua/news/347519-perehovory-kharkovskoho-natskorpusa-s-biznesmenami-video-opublikovalo-sbu.html
+	set tags nackorpus,sbu,ukraina
+page
+	set url https://strana.ua/news/347488-nitsoj-nazvala-nazvanie-russkij-jazyk-styrennym-i-prizvala-eho-izmenit.html
+	set tags jazyk,moskovia,mova,nicoj_larisa,ukraina
 eof
 off
 page

@@ -34128,6 +34128,21 @@ page
 page
 	set url https://strana.ua/news/348020-irina-farion-nazvala-jaroslavu-mahuchikh-biomusorom-podrobnosti-skandala.html
 	set tags __aug_2021.maguchih.foto.olimpiada.lasickene,farion_irina,foto,maguchih_jaroslava,olimpiada.tokio,rossia,skandal,sport,ukraina
+page
+	set url https://kiev.strana.ua/348051-na-sofievskoj-ploshchadi-klinery-otmyvajut-sledy-posle-drifta-avto-s-loho-rebbull.html
+	set tags __aug_2021.kiev.gonki.sofievskaja_ploschad.red_bull,foto,gorod,kiev,ukraina
+page
+	set url https://strana.ua/opinions/348055-tekh-kto-hotov-travit-devochku-chempiona-ili-lehendarnykh-muzykantov-vsehda-khvataet.html
+	set tags __aug_2021.maguchih.foto.olimpiada.lasickene,foto,lasickene_maria.rossia.sportsmenka,maguchih_jaroslava,nenavist,travlja,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-i-stattya-putina/31401630.html
+	set tags __jul_2021.putin.statja,istoria,kiev,kievrus,odin_narod,rossia,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/lucenko/61117cc9e5de1/
+	set tags obschestvo,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/farion/61102f742bb89/
+	set tags mova,tanec,ukraina
 eof
 off
 page

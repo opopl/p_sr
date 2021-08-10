@@ -34122,11 +34122,6 @@ page
 page
 	set url https://kiev.strana.ua/348018-video-na-kotorom-repersha-alyona-alyona-uchastvuet-v-semke-red-bull.html
 	set tags __aug_2021.kiev.gonki.sofievskaja_ploschad.red_bull,gorod,kiev,skandal,sofia_sobor,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.ua/news/347978-taras-kremin-rabotal-na-viktora-janukovicha-novyj-fakt-biohrafii-ombudsmena-i-reaktsija-sotssetej.html
 	set tags 2010,janukovich_viktor,kremin_taras,mova,partia.regionov.ukraina,politika,ukraina,ukrainizacia,vybory

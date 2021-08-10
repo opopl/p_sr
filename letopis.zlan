@@ -34125,6 +34125,9 @@ page
 page
 	set url https://strana.ua/news/347978-taras-kremin-rabotal-na-viktora-janukovicha-novyj-fakt-biohrafii-ombudsmena-i-reaktsija-sotssetej.html
 	set tags 2010,janukovich_viktor,kremin_taras,mova,partia.regionov.ukraina,politika,ukraina,ukrainizacia,vybory
+page
+	set url https://strana.ua/news/348020-irina-farion-nazvala-jaroslavu-mahuchikh-biomusorom-podrobnosti-skandala.html
+	set tags __aug_2021.maguchih.foto.olimpiada.lasickene,farion_irina,foto,maguchih_jaroslava,olimpiada.tokio,rossia,skandal,sport,ukraina
 eof
 off
 page

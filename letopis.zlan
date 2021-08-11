@@ -34149,6 +34149,9 @@ page
 page
 	set url https://day.kyiv.ua/uk/article/podrobyci/ukrayinci-bilshe-ne-ye-znaryaddyam-chuzhoyi-imperiyi
 	set tags __jul_2021.putin.statja,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/villain_genius/kak-my-rasstraivali-mirovuiu-obscestvennost-na-olimpiade-6106110b75ac2b0843081d71
+	set tags komanda.sbornaja,olimpiada.tokio,rossia,russofobia,sport
 eof
 off
 page

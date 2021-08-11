@@ -34143,6 +34143,12 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/farion/61102f742bb89/
 	set tags mova,tanec,ukraina
+page
+	set url https://strana.ua/news/348019-opros-chto-dumajut-ukraintsy-ob-arestakh-natskorpusa.html
+	set tags beloglazova_antonina.kiev.stranaua,kiev,kievljane,nackorpus,opros,socopros,strana_ua,ukraina
+page
+	set url https://day.kyiv.ua/uk/article/podrobyci/ukrayinci-bilshe-ne-ye-znaryaddyam-chuzhoyi-imperiyi
+	set tags __jul_2021.putin.statja,rossia,ukraina
 eof
 off
 page

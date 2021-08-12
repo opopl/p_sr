@@ -34167,6 +34167,9 @@ page
 page
 	set url https://strana.ua/news/347997-olimpijskij-chempion-belenjuk-zastupilsja-za-19-letnjuju-lehkoatletku-mahuchikh.html
 	set tags __aug_2021.maguchih.foto.olimpiada.lasickene,belenjuk_jean,maguchih_jaroslava,olimpiada.tokio,rossia,sport,ukraina
+page
+	set url https://strana.ua/news/348432-mahuchikh-zajavila-chto-byla-ne-prava-chto-ob-etom-pishut-v-seti.html
+	set tags __aug_2021.maguchih.foto.olimpiada.lasickene,maguchih_jaroslava,olimpiada.tokio,socset,sport,travlja,ukraina
 eof
 off
 page

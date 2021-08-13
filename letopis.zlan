@@ -34170,6 +34170,15 @@ page
 page
 	set url https://strana.ua/news/348432-mahuchikh-zajavila-chto-byla-ne-prava-chto-ob-etom-pishut-v-seti.html
 	set tags __aug_2021.maguchih.foto.olimpiada.lasickene,maguchih_jaroslava,olimpiada.tokio,socset,sport,travlja,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/taras-shevchenko-ia-ot-prirody-vyshel-kakoito-nekonchenyi-6103f79e9bd3fc59f0f77f37
+	set tags chelovek,istoria,literatura,shevchenko_taras,ukraina
+page
+	set url https://zen.yandex.ru/media/antikkuban/kak-vygliadeli-dorogi-v-drevnei-rusi-608731c376dc923e2df99be3
+	set tags doroga,drevrus,istoria,rusmir
+page
+	set url https://strana.ua/news/348560-skandal-s-zhanom-belenjukom-i-skabeevoj-vse-podrobnosti-.html
+	set tags belenjuk_jean,foto,gorod,kiev,napadenie,nenavist,skabeeva_olga.rossia.zhurnalist,skandal,sluga_naroda,ukraina,verhovna_rada
 eof
 off
 page

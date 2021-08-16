@@ -34188,6 +34188,18 @@ page
 page
 	set url https://analytics.hvylya.net/235586-ukraina-v-postmoderne-20-glubinnyy-narod-i-elita
 	set tags future,narod,nezalezhnist,obschestvo,strana,ukraina
+page
+	set url https://strana.ua/news/348425-mahuchikh-povinilas-v-potere-bditelnosti-na-olimpiade-i-objatijakh-s-rossijankoj.html
+	set tags __aug_2021.maguchih.foto.olimpiada.lasickene,foto,lasickene_maria.rossia.sportsmenka,maguchih_jaroslava,olimpiada.tokio,rossia,travlja,ukraina
+page
+	set url https://strana.ua/news/348131-jaroslava-mahuchikh-nok-i-sportsmeny-ukrainy-vystupili-v-ee-zashchitu-posle-napadok-natsionalistov.html
+	set tags __aug_2021.maguchih.foto.olimpiada.lasickene,farion_irina,maguchih_jaroslava,olimpiada.tokio,politika,sport,travlja,ukraina
+page
+	set url https://strana.ua/news/347696-kto-poneset-flah-ukrainy-na-zakrytii-olimpijskij-ihr-nok.html
+	set tags flag.ukraina,luzan_ljudmila.sportsmenka.ukraina,olimpiada.tokio,sport,ukraina
+page
+	set url https://strana.ua/news/348850-kak-ssha-ubehajut-iz-afhanistana-i-chto-budet-dalshe.html
+	set tags __aug_2021.afganistan.usa.taliban,afganistan,taliban,usa
 eof
 off
 page

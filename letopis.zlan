@@ -34182,6 +34182,12 @@ page
 page
 	set url https://strana.ua/news/348487-smert-posle-vaktsiny-moderna-v-kieve-vse-podrobnosti-trahedii.html
 	set tags covid,kiev,smert,ukraina,vaccina.moderna,vaccinacia,vaccine
+page
+	set url https://analytics.hvylya.net/235801-ob-istoricheskom-edinstve-russkih-i-ukraincev-ideologiya-voyny
+	set tags __jul_2021.putin.statja
+page
+	set url https://analytics.hvylya.net/235586-ukraina-v-postmoderne-20-glubinnyy-narod-i-elita
+	set tags future,narod,nezalezhnist,obschestvo,strana,ukraina
 eof
 off
 page

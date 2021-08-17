@@ -34224,6 +34224,12 @@ page
 page
 	set url https://lug-info.com/news/nedel-ya-glazami-eksperta-naznachennye-ubivat-otkroveniya-karamel-ki-i-nesportivnoe-povedenie
 	set tags __aug_2021.maguchih.foto.olimpiada.lasickene,arestovich_aleksei,dnr,film.solncepek.donbass,itogi,lnr,olimpiada.tokio,ukraina
+page
+	set url https://strana.ua/news/349056-natskorpus-hromit-vystavku-o-byte-ukraintsev-v-tsentre-kieva.html
+	set tags gazirovka,nacionalizm,nebesna_sotnja,nostalgia,sssr,ukraina
+page
+	set url https://strana.ua/news/349050-porokhoboty-vozmushcheny-vystavkoj-ob-istorii-byta-ukraintsev-iz-za-stenda-o-sovetskom-periode.html
+	set tags gazirovka,istoria,nacionalist,nostalgia,pogrom,sssr,vystavka
 eof
 off
 page

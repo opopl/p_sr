@@ -34200,6 +34200,9 @@ page
 page
 	set url https://strana.ua/news/348850-kak-ssha-ubehajut-iz-afhanistana-i-chto-budet-dalshe.html
 	set tags __aug_2021.afganistan.usa.taliban,afganistan,taliban,usa
+page
+	set url https://strana.ua/news/348910-sotsseti-pishut-o-situatsii-v-afhanistane-i-prizyvajut-ne-uchastvovat-v-provokatsijakh-protiv-rf.html
+	set tags __aug_2021.afganistan.usa.taliban,afganistan,usa
 eof
 off
 page

@@ -34215,6 +34215,15 @@ page
 page
 	set url https://lenta.ru/news/2021/08/17/manevr/
 	set tags aviakatastrofa,rossia,samolet
+page
+	set url https://analytics.hvylya.net/235829-svit-ta-ukrajina-za-10-rokiv-vibir-maybutnogo-yakiy-mi-robimo-kozhen-den
+	set tags future,ideologia,nacia,obschestvo,strana,strategia,ukraina
+page
+	set url https://analytics.hvylya.net/235866-tridcyat-rokiv-nezalezhnosti-chi-varto-bratisya-za-rozrobku-novoji-redakciji-konstituciji
+	set tags future,konstitucia,obschestvo,strana,ukraina
+page
+	set url https://lug-info.com/news/nedel-ya-glazami-eksperta-naznachennye-ubivat-otkroveniya-karamel-ki-i-nesportivnoe-povedenie
+	set tags __aug_2021.maguchih.foto.olimpiada.lasickene,arestovich_aleksei,dnr,film.solncepek.donbass,itogi,lnr,olimpiada.tokio,ukraina
 eof
 off
 page

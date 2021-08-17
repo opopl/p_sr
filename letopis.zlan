@@ -34203,6 +34203,18 @@ page
 page
 	set url https://strana.ua/news/348910-sotsseti-pishut-o-situatsii-v-afhanistane-i-prizyvajut-ne-uchastvovat-v-provokatsijakh-protiv-rf.html
 	set tags __aug_2021.afganistan.usa.taliban,afganistan,usa
+page
+	set url https://strana.ua/news/349055-vystavku-na-allee-nebesnoj-sotni-poruchili-demontirovat-iz-za-skandala-s-sovetskim-stendom.html
+	set tags gazirovka,gorod,kiev,klichko_vitalij,nebesna_sotnja,sssr,ukraina,vystavka
+page
+	set url https://strana.ua/news/349041-v-afhanistane-na-baze-ssha-ostalis-ukrainskie-voennye-kontraktniki.html
+	set tags __aug_2021.afganistan.usa.taliban,afganistan,ukraina,ukraincy
+page
+	set url https://strana.ua/news/349026-taliby-objavili-v-afhanistane-amnistiju.html
+	set tags __aug_2021.afganistan.usa.taliban,afganistan,ukraina
+page
+	set url https://lenta.ru/news/2021/08/17/manevr/
+	set tags aviakatastrofa,rossia,samolet
 eof
 off
 page

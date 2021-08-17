@@ -34230,6 +34230,9 @@ page
 page
 	set url https://strana.ua/news/349050-porokhoboty-vozmushcheny-vystavkoj-ob-istorii-byta-ukraintsev-iz-za-stenda-o-sovetskom-periode.html
 	set tags gazirovka,istoria,nacionalist,nostalgia,pogrom,sssr,vystavka
+page
+	set url https://strana.ua/news/349057-v-kieve-razhromili-vystavku-posvjashchennuju-istorii-sssr.html
+	set tags demontazh,gazirovka,gorod,kiev,nacionalizm,nenavist
 eof
 off
 page

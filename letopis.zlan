@@ -34245,6 +34245,12 @@ page
 page
 	set url https://inosmi.ru/social/20210817/250328211.html
 	set tags future,gosudarstvo,maidan,strana,ukraina
+page
+	set url https://strana.ua/news/349327-antonina-belohlazova-vpervye-rasskazala-pochemu-ushla-ot-sharija.html
+	set tags beloglazova_antonina.kiev.stranaua,partia_sharija,politika,sharij_analotij,ukraina
+page
+	set url https://strana.ua/news/349274-solntsepek-film-2021-sjuzhet-o-chem-film-hlavnye-heroi-retsenzija-i-analiz.html
+	set tags dnr,donbass,film,film.solncepek.donbass,kino,lnr,lugansk,ukraina,vojna
 eof
 off
 page

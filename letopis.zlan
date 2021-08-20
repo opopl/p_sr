@@ -34251,6 +34251,9 @@ page
 page
 	set url https://strana.ua/news/349274-solntsepek-film-2021-sjuzhet-o-chem-film-hlavnye-heroi-retsenzija-i-analiz.html
 	set tags dnr,donbass,film,film.solncepek.donbass,kino,lnr,lugansk,ukraina,vojna
+page
+	set url https://analytics.hvylya.net/235739-nebesniy-gopak-ta-geopolitichna-gra-ukrajini
+	set tags geopolitika,rossia,strategia,ukraina,usa,zapad
 eof
 off
 page

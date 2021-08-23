@@ -34269,6 +34269,24 @@ page
 page
 	set url https://sharij.net/spasibo-rossiya-spasibo-odessa-britanskij-rezhissyor-nazval-ukrainu-rossiej-na-zakrytii-odesskogo-kinofestivalya-video
 	set tags festival,kino,nagrada,odessa,ukraina,ukraina_ne_rossia
+page
+	set url https://zen.yandex.ru/media/oldkino/oni-chitaiut-riharda-vagnera-i-ispolniaiut-solo-na-trube-po-vrajeskim-tankam-6121fe83d125474159484974
+	set tags film.solncepek.donbass
+page
+	set url https://zen.yandex.ru/media/oldkino/odnako-solncepek-koekogo-silno-pripek-6121f59665102f6d71c19056
+	set tags film.solncepek.donbass
+page
+	set url https://zen.yandex.ru/media/id/5fce8cdc60e9760ab703b1f4/s-banduroi-v-golove-6112ddc2f00eea30a262a380
+	set tags nezalezhnist,ukraina
+page
+	set url https://lenta.ru/articles/2021/08/19/nezalezhnost/
+	set tags nezalezhnist,ukraina
+page
+	set url https://analytics.hvylya.net/236252-trenirovka-mozgov-pochemu-ukraincam-ne-poluchaetsya-postroit-uspeshnoe-gosudarstvo
+	set tags future,gosudarstvo,obschestvo,strategia,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/datsuk/611f2cd4b0c44/
+	set tags future,ideologia,myshlenie,nezalezhnist,obschestvo,patriotizm,strategia,ukraina
 eof
 off
 page

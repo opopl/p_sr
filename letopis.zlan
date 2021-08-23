@@ -34254,6 +34254,21 @@ page
 page
 	set url https://analytics.hvylya.net/235739-nebesniy-gopak-ta-geopolitichna-gra-ukrajini
 	set tags geopolitika,rossia,strategia,ukraina,usa,zapad
+page
+	set url https://zen.yandex.ru/media/dbk/ceniat-li-rossiiu-v-mire-tak-je-kak-cenim-ee-my-s-vami-60e2ee3ff59c1e7997c52a5a
+	set tags future,obschestvo,razvitie,rossia,strana
+page
+	set url http://strana.news/news/349555-muzhdabaev-schitaet-chto-upts-ne-dolzhno-byt-na-territorii-ukrainy.html
+	set tags cerkov,gonenija,muzhdabaev_aider,nenavist,pravoslavie,presledovanie,rusmir,ukraina,upc
+page
+	set url http://strana.news/opinions/349738-dejstvija-vlasti-vse-bolshe-napominajut-beh-obezhlavlennoj-kuritsy.html
+	set tags ukraina,zelenskii_vladimir
+page
+	set url https://strana.news/articles/analysis/349870-sanktsii-protiv-strany-i-ihorja-huzhvy-zelenskij-neset-za-eto-lichnuju-otvetstvennost.html
+	set tags rnbo,sankcii,strana_ua,ukraina
+page
+	set url https://sharij.net/spasibo-rossiya-spasibo-odessa-britanskij-rezhissyor-nazval-ukrainu-rossiej-na-zakrytii-odesskogo-kinofestivalya-video
+	set tags festival,kino,nagrada,odessa,ukraina,ukraina_ne_rossia
 eof
 off
 page

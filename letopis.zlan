@@ -34293,6 +34293,15 @@ page
 page
 	set url https://zagittya.com.ua/ua/news/stati/kakoj_mozhet_byt_ukraina_kakoj_byt_ukraine.html
 	set tags __jul_2021.putin.statja,future,ideologia,medvedchuk_viktor,obschestvo,odin_narod,putin_vladimir,rossia,strana,ukraina,ukraincy
+page
+	set url https://strana.news/news/350227-foto-flaha-ssha-pervaja-olimpijskaja-chempionka-ot-ukrainy-oksana-bajul.html
+	set tags bajul_oksana.olimpic_champion.ukraina,flag.usa,foto,nezalezhnist,ukraina
+page
+	set url https://strana.news/news/350086-den-nezavisimosti-2021-v-kieve-voennyj-parad-marsh-zashchitnikov-i-kontsert-onlajn-transljatsija.html
+	set tags 30_let,nezalezhnist,prazdnik,prazdnovanie,ukraina
+page
+	set url https://ukraina.ru/sn/20191225/1026161575.html
+	set tags krym,rossia,ukraina,ukraina_ne_rossia
 eof
 off
 page

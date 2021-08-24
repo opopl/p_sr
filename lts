@@ -1,0 +1,3 @@
+#!/bin/sh
+
+r_lts.py -y lts.yaml -c run

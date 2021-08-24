@@ -34287,6 +34287,12 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/datsuk/611f2cd4b0c44/
 	set tags future,ideologia,myshlenie,nezalezhnist,obschestvo,patriotizm,strategia,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5df0b5a55ba2b500b1876116/dekonstrukciia-ukrainy-zachem-putin-napisal-statiu-ob-istoricheskom-edinstve-ukrainy-i-rossii-60f4813c9cbaf06f68194a61
+	set tags __jul_2021.putin.statja,istoria,odin_narod,rossia,ukraina
+page
+	set url https://zagittya.com.ua/ua/news/stati/kakoj_mozhet_byt_ukraina_kakoj_byt_ukraine.html
+	set tags __jul_2021.putin.statja,future,ideologia,medvedchuk_viktor,obschestvo,odin_narod,putin_vladimir,rossia,strana,ukraina,ukraincy
 eof
 off
 page

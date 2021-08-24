@@ -34302,6 +34302,18 @@ page
 page
 	set url https://ukraina.ru/sn/20191225/1026161575.html
 	set tags krym,rossia,ukraina,ukraina_ne_rossia
+page
+	set url https://gazeta.ua/articles/reportage/_najbilsha-problema-ukrayini-vijna-z-rosiyeyu-yak-kiyiv-vidznachiv-den-nezalezhnosti/1048713
+	set tags nezalezhnist,prazdnik,ukraina
+page
+	set url https://gazeta.ua/blog/55635/mi-zrozumili-yaku-krayinu-hochemo-buduvati-ale-spershu-treba-zbuduvati-narod
+	set tags nezalezhnist,rossia,ukraina,vojna
+page
+	set url https://analytics.hvylya.net/236318-ukrajina-30-za-yakih-umov-dlya-ukrajinskogo-proektu-vidkriyutsya-perspektivi
+	set tags future,ideologia,nezalezhnist,obschestvo,strana,ukraina
+page
+	set url https://analytics.hvylya.net/236262-hohloma-sostoyalas-li-ukraina
+	set tags nezalezhnist,obschestvo,psihologia,ukraina
 eof
 off
 page

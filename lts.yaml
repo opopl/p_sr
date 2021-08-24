@@ -1,10 +1,13 @@
 
 
 acts: 
+#  - { 
+    #'act'  : 'author_add',
+    #'args' : [{
+        #'sec'       : '19_08_2021.fb.kul_igor.1.upc_protest_varfolomej',
+        #'author_id' : 'bilchenko_evgenia'
+    #}]
+  #}
   - { 
-    'act'  : 'author_add',
-    'args' : [{
-        'sec'       : '19_08_2021.fb.kul_igor.1.upc_protest_varfolomej',
-        'author_id' : 'bilchenko_evgenia'
-    }]
+    'act'  : 'import_auth2db',
   }

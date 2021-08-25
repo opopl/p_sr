@@ -34314,6 +34314,15 @@ page
 page
 	set url https://analytics.hvylya.net/236262-hohloma-sostoyalas-li-ukraina
 	set tags nezalezhnist,obschestvo,psihologia,ukraina
+page
+	set url https://lenta.ru/articles/2021/08/25/krym_plat/
+	set tags krym,krymskaja_platforma,nezalezhnist,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.news/news/350178-kuchma-schitaet-chto-stanovitsja-anti-rossiej-opasno-dlja-ukrainy.html
+	set tags __jul_2021.putin.statja,antirossia,geopolitika,kuchma_leonid,rossia,ukraina
+page
+	set url https://lb.ua/news/2021/08/24/492105_formula_nezalezhnosti.html
+	set tags kuchma_leonid,nezalezhnist,rossia,ukraina,ukraina_ne_rossia
 eof
 off
 page

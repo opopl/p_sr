@@ -34323,6 +34323,18 @@ page
 page
 	set url https://lb.ua/news/2021/08/24/492105_formula_nezalezhnosti.html
 	set tags kuchma_leonid,nezalezhnist,rossia,ukraina,ukraina_ne_rossia
+page
+	set url https://inosmi.ru/politic/20210824/250369079.html
+	set tags geopolitika,polsha,rossia,ukraina,zelenskii_vladimir
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/krymskaia-platforma-vmesto-peremogi-prevratilas-v-zradu-612415390e49f4124ca84e02
+	set tags krymskaja_platforma,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/id/602111159966a838711acd02/odin-iz-samyh-neodnoznachnyh-kniazei-drevnei-rusi-612344074e9a256032c31986
+	set tags istoria,knjaz.danylo_galickij
+page
+	set url https://zen.yandex.ru/media/11ecu/11-faktov-o-kornee-chukovskom-60af6bdf79cf6e2e95d96a7f
+	set tags kornej_chukovskij
 eof
 off
 page

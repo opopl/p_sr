@@ -34341,6 +34341,9 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/polityka/cina-koloriv
 	set tags dnr,donbass,kiev,lnr,lugansk,rossia,ukraina,vojna
+page
+	set url https://strana.news/news/350323-parad-i-kontsert-na-den-nezavisimosti-chto-pishut-v-seti.html
+	set tags kiev,nezalezhnist,parad,ukraina,vpechatlenie
 eof
 off
 page

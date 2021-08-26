@@ -17,6 +17,7 @@ acts:
         'title'     : 'Я не хожу посмотреть на парад',
         #'url'      : 'https://www.facebook.com/permalink.php?story_fbid=3030150680543191&id=100006448650648', 
         'url'       : 'https://www.facebook.com/butusov.yuriy/posts/6220315288008715', 
+        #'url'      : 'https://www.facebook.com/permalink.php?story_fbid=365868045020011&id=100047904543554',
         'author_id' : 'brest_martin',
         'seccmd'    : 'subsection',
         'tags'      : 'armia,kiev,nezalezhnist,parad,ukraina',

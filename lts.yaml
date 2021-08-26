@@ -1,8 +1,7 @@
 
-
 acts: 
 #  - { 
-    #'act'  : 'author_add',
+    #'act'  : 'sec_author_add',
     #'args' : [{
         #'sec'       : '19_08_2021.fb.kul_igor.1.upc_protest_varfolomej',
         #'author_id' : 'bilchenko_evgenia'
@@ -23,6 +22,6 @@ acts:
         'tags'      : 'armia,kiev,nezalezhnist,parad,ukraina',
     }]
   }
-  #- { 
-    #'act'  : 'import_auth2db',
-  #}
+  - { 
+    'act'  : 'import_auth2db',
+  }

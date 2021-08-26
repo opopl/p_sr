@@ -34347,6 +34347,9 @@ page
 page
 	set url https://strana.news/news/350461-evakuatsija-iz-afhanistana-kak-mid-vyvozit-ukraintsev-iz-kabula-chto-izvestno-o-jakoby-zakhvachennom-samolete.html
 	set tags afganistan,aviacia,evakuacia,rossia,ukraina,ukraincy
+page
+	set url https://strana.news/news/350491-amerikanets-v-futbolke-rossija-v-odesse-kak-zaderzhivali-i-vnesti-na-mirotvorets-pochemu-on-ljubit-rf.html
+	set tags amerikanec,futbolka,mirotvorec_sajt,odessa,policia,rossia,skandal,ukraina
 eof
 off
 page

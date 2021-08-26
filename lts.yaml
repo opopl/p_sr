@@ -8,9 +8,6 @@ acts:
         #'author_id' : 'bilchenko_evgenia'
     #}]
   #}
-  #- { 
-    #'act'  : 'import_auth2db',
-  #}
   - { 
     'act'  : 'sec_new_ii_url',
     'args' : [{
@@ -18,9 +15,13 @@ acts:
         'date'      : '24_08_2021',
         'sec'       : '24_08_2021.fb.brest_martin.1.parad_kiev_nezalezhnist',
         'title'     : 'Я не хожу посмотреть на парад',
-        'url'       : 'https://www.facebook.com/permalink.php?story_fbid=3030150680543191&id=100006448650648', 
+        #'url'      : 'https://www.facebook.com/permalink.php?story_fbid=3030150680543191&id=100006448650648', 
+        'url'       : 'https://www.facebook.com/butusov.yuriy/posts/6220315288008715', 
         'author_id' : 'brest_martin',
         'seccmd'    : 'subsection',
         'tags'      : 'armia,kiev,nezalezhnist,parad,ukraina',
     }]
   }
+  #- { 
+    #'act'  : 'import_auth2db',
+  #}

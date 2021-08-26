@@ -34344,6 +34344,9 @@ page
 page
 	set url https://strana.news/news/350323-parad-i-kontsert-na-den-nezavisimosti-chto-pishut-v-seti.html
 	set tags kiev,nezalezhnist,parad,ukraina,vpechatlenie
+page
+	set url https://strana.news/news/350461-evakuatsija-iz-afhanistana-kak-mid-vyvozit-ukraintsev-iz-kabula-chto-izvestno-o-jakoby-zakhvachennom-samolete.html
+	set tags afganistan,aviacia,evakuacia,rossia,ukraina,ukraincy
 eof
 off
 page

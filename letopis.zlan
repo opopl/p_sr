@@ -34350,6 +34350,9 @@ page
 page
 	set url https://strana.news/news/350491-amerikanets-v-futbolke-rossija-v-odesse-kak-zaderzhivali-i-vnesti-na-mirotvorets-pochemu-on-ljubit-rf.html
 	set tags amerikanec,futbolka,mirotvorec_sajt,odessa,policia,rossia,skandal,ukraina
+page
+	set url https://strana.news/news/350514-v-kieve-koktejl-molotova-brosili-v-ofis-ombudsmena-denisovoj.html
+	set tags denisova_ljudmyla.ukr.upoln_s_prav_cheloveka,kiev,koktejl.molotova,podzhog,terrorizm,ukraina
 eof
 off
 page

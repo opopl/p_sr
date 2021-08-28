@@ -1,13 +1,6 @@
 
 acts: 
 #  - { 
-    #'act'  : 'sec_author_add',
-    #'args' : [{
-        #'sec'       : '19_08_2021.fb.kul_igor.1.upc_protest_varfolomej',
-        #'author_id' : 'bilchenko_evgenia'
-    #}]
-  #}
-#  - { 
     #'act'  : 'sec_new_ii_url',
     #'args' : [{
         #'parent'    : '24_08_2021',
@@ -25,46 +18,9 @@ acts:
   #- { 
     #'act'  : 'import_auth2db',
   #}
-#  - { 
-    #'act'  : 'db_sql_do',
-    #'args' : [{
-      #'db_id' : 'img',
-      #'sql_cmds' : [
-        #'ALTER TABLE imgs ADD COLUMN width_tex TEXT',
-        #'ALTER TABLE imgs ADD COLUMN name_uniq TEXT',
-        #'CREATE UNIQUE INDEX name_uniq ON imgs(name_uniq)',
-      #]
-    #}]
-  #}
   - { 
-    'act'  : 'db_update_img',
+    'act'  : 'sec_new',
     'args' : [{
-      'img_data' : [
-#        {
-          #'url'       : 'https://www.facebook.com/images/emoji.php/v9/t11/1.5/32/1f44f.png',
-          #'name'      : 'fbicon.hands.applause.yellow',
-          #'width_tex' : '0.05',
-        #},
-        #{
-          #'url'       : 'https://www.facebook.com/images/emoji.php/v9/t55/1.5/16/1f44d.png',
-          #'name'      : 'fbicon.thumb.up.yellow',
-          #'width_tex' : '0.05',
-        #},
-        #{
-          #'url'       : 'https://www.facebook.com/images/emoji.php/v9/tc5/1.5/32/1f1fa_1f1e6.png',
-          #'name'      : 'fbicon.flag.ukraina',
-          #'width_tex' : '0.05',
-        #},
-        #{
-          #'url'       : 'https://www.facebook.com/images/emoji.php/v9/tbd/1.5/16/1f91d.png',
-          #'name'      : 'fbicon.hands.shake.yellow',
-          #'width_tex' : '0.05',
-        #},
-        {
-          'url'       : 'https://www.facebook.com/images/emoji.php/v9/tc7/1.5/16/261d.png',
-          'name'      : 'fbicon.finger.up.yellow',
-          'width_tex' : '0.05',
-        },
-      ]
+        'sec' : 'aaa',
     }]
   }

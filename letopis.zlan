@@ -34356,6 +34356,12 @@ page
 page
 	set url https://gazeta.ua/blog/55646/poshuk-nacionalnoyi-ideyi-ce-pastka-dlya-ukrayinskih-intelektualiv
 	set tags gogol_nikolai,identichnost',nacidea,obschestvo,strana,ukraina,ukraincy
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/nemnogo-etodrugina-vam-v-lentu25-6127396e7bb0f62dc25adee1
+	set tags eto_drugoje
+page
+	set url https://analytics.hvylya.net/236529-o-svobode-slova-i-demokratii
+	set tags obschestvo,presledovanie,smi.ukraina,svoboda_slova,travlja,ukraina,zapret
 eof
 off
 page

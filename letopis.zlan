@@ -34362,6 +34362,9 @@ page
 page
 	set url https://analytics.hvylya.net/236529-o-svobode-slova-i-demokratii
 	set tags obschestvo,presledovanie,smi.ukraina,svoboda_slova,travlja,ukraina,zapret
+page
+	set url https://analytics.hvylya.net/236530-den-pam-yati-zahisnikiv-ukrajini-zhivi-poki-v-nashih-sercyah
+	set tags donbass,ukraina,vojna,zaschitnik
 eof
 off
 page

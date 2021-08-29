@@ -34365,6 +34365,9 @@ page
 page
 	set url https://analytics.hvylya.net/236530-den-pam-yati-zahisnikiv-ukrajini-zhivi-poki-v-nashih-sercyah
 	set tags donbass,ukraina,vojna,zaschitnik
+page
+	set url https://strana.news/news/350916-ilovajskij-kotel-2014-hoda-kak-sem-let-nazad-izmenilsja-khod-vojny.html
+	set tags donbass,ilovajsk,tragedia,ukraina,vojna
 eof
 off
 page

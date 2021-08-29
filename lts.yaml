@@ -15,12 +15,24 @@ acts:
         #'tags'      : 'armia,kiev,nezalezhnist,parad,ukraina',
     #}]
   #}
-  #- { 
-    #'act'  : 'import_auth2db',
+  - { 
+    'act'  : 'import_auth2db',
+  }
+#  - { 
+    #'act'  : 'sec_new',
+    #'args' : [{
+        #'sec' : 'aaa',
+    #}]
   #}
   - { 
-    'act'  : 'sec_new',
+    'act'  : 'db_update_img',
     'args' : [{
-        'sec' : 'aaa',
+      'img_data' : [
+        {
+          'url'       : 'https://www.facebook.com/images/emoji.php/v9/tf3/1.5/16/2764.png',
+          'name'      : 'fbicon.heart',
+          'width_tex' : '0.05',
+        },
+      ]
     }]
   }

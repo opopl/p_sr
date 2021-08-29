@@ -29,8 +29,8 @@ acts:
     'args' : [{
       'img_data' : [
         {
-          'url'       : 'https://www.facebook.com/images/emoji.php/v9/tf3/1.5/16/2764.png',
-          'name'      : 'fbicon.heart',
+          'url'       : 'https://www.facebook.com/images/emoji.php/v9/t15/1.5/32/1f60d.png',
+          'name'      : 'fbicon.heart.eyes',
           'width_tex' : '0.05',
         },
       ]

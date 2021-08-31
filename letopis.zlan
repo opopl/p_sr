@@ -34368,6 +34368,12 @@ page
 page
 	set url https://strana.news/news/350916-ilovajskij-kotel-2014-hoda-kak-sem-let-nazad-izmenilsja-khod-vojny.html
 	set tags donbass,ilovajsk,tragedia,ukraina,vojna
+page
+	set url https://www.radiosvoboda.org/a/rodnoj-jazik-doneck/31429732.html
+	set tags language.native,obrazovanie,obuchenie,rossia
+page
+	set url https://www.radiosvoboda.org/a/pravda-poseredyni-tse-brekhnya-myroslava-barchuk/31435671.html
+	set tags infvojna,istoria,propaganda,realnost',rossia,sssr,ukraina
 eof
 off
 page

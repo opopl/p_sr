@@ -34374,6 +34374,12 @@ page
 page
 	set url https://www.radiosvoboda.org/a/pravda-poseredyni-tse-brekhnya-myroslava-barchuk/31435671.html
 	set tags infvojna,istoria,propaganda,realnost',rossia,sssr,ukraina
+page
+	set url https://iz.ru/1215187/2021-08-31/v-ofise-zelenskogo-predlozhili-pereimenovat-stranu-v-rus-ukrainu
+	set tags arestovich_aleksei,ideologia,rossia,strana,ukraina
+page
+	set url https://iz.ru/1215200/2021-08-31/zakharova-predlozhila-ofisu-zelenskogo-pereimenovat-ukrainu-v-ukrus
+	set tags arestovich_aleksei,pereimenovanija,rossia,ukraina,zaharova_maria
 eof
 off
 page

@@ -15,8 +15,11 @@ acts:
         #'tags'      : 'armia,kiev,nezalezhnist,parad,ukraina',
     #}]
   #}
+  #- { 
+    #'act'  : 'import_auth2db',
+  #}
   - { 
-    'act'  : 'import_auth2db',
+    'act'  : 'vimtags_update',
   }
 #  - { 
     #'act'  : 'sec_new',
@@ -24,15 +27,15 @@ acts:
         #'sec' : 'aaa',
     #}]
   #}
-  - { 
-    'act'  : 'db_update_img',
-    'args' : [{
-      'img_data' : [
-        {
-          'url'       : 'https://www.facebook.com/images/emoji.php/v9/tab/1.5/16/1f923.png',
-          'name'      : 'fbicon.laugh.cry',
-          'width_tex' : '0.05',
-        },
-      ]
-    }]
-  }
+#  - { 
+    #'act'  : 'db_update_img',
+    #'args' : [{
+      #'img_data' : [
+        #{
+          #'url'       : 'https://www.facebook.com/images/emoji.php/v9/tab/1.5/16/1f923.png',
+          #'name'      : 'fbicon.laugh.cry',
+          #'width_tex' : '0.05',
+        #},
+      #]
+    #}]
+  #}

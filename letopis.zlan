@@ -34389,6 +34389,9 @@ page
 page
 	set url https://strana.news/news/351948-chto-hovorjat-ukraintsy-o-vstreche-zelenskoho-i-bajdena-opros-strany.html
 	set tags __sep_2021.usa.zelenskii.poezdka,beloglazova_antonina.kiev.stranaua,opros,strana_ua,ukraina
+page
+	set url https://strana.news/news/351875-pozhar-v-kostele-kieva-shorel-orhan-smohut-li-eho-vernut.html
+	set tags __sep_2021.kostel.pozhar.kiev,kiev,kostel.kiev.nikolaevskij,kultura,muzyka,pozhar,ukraina
 eof
 off
 page

@@ -1,0 +1,70 @@
+
+acts: 
+#  - { 
+    #'act'  : 'sec_author_add',
+    #'args' : [{
+        #'sec'       : '19_08_2021.fb.kul_igor.1.upc_protest_varfolomej',
+        #'author_id' : 'bilchenko_evgenia'
+    #}]
+  #}
+#  - { 
+    #'act'  : 'sec_new_ii_url',
+    #'args' : [{
+        #'parent'    : '24_08_2021',
+        #'date'      : '24_08_2021',
+        #'sec'       : '24_08_2021.fb.brest_martin.1.parad_kiev_nezalezhnist',
+        #'title'     : 'Я не хожу посмотреть на парад',
+        ##'url'      : 'https://www.facebook.com/permalink.php?story_fbid=3030150680543191&id=100006448650648', 
+        #'url'       : 'https://www.facebook.com/butusov.yuriy/posts/6220315288008715', 
+        ##'url'      : 'https://www.facebook.com/permalink.php?story_fbid=365868045020011&id=100047904543554',
+        #'author_id' : 'brest_martin',
+        #'seccmd'    : 'subsection',
+        #'tags'      : 'armia,kiev,nezalezhnist,parad,ukraina',
+    #}]
+  #}
+  #- { 
+    #'act'  : 'import_auth2db',
+  #}
+#  - { 
+    #'act'  : 'db_sql_do',
+    #'args' : [{
+      #'db_id' : 'img',
+      #'sql_cmds' : [
+        #'ALTER TABLE imgs ADD COLUMN width_tex TEXT',
+        #'ALTER TABLE imgs ADD COLUMN name_uniq TEXT',
+        #'CREATE UNIQUE INDEX name_uniq ON imgs(name_uniq)',
+      #]
+    #}]
+  #}
+  - { 
+    'act'  : 'db_update_img',
+    'args' : [{
+      'img_data' : [
+#        {
+          #'url'       : 'https://www.facebook.com/images/emoji.php/v9/t11/1.5/32/1f44f.png',
+          #'name'      : 'fbicon.hands.applause.yellow',
+          #'width_tex' : '0.05',
+        #},
+        #{
+          #'url'       : 'https://www.facebook.com/images/emoji.php/v9/t55/1.5/16/1f44d.png',
+          #'name'      : 'fbicon.thumb.up.yellow',
+          #'width_tex' : '0.05',
+        #},
+        #{
+          #'url'       : 'https://www.facebook.com/images/emoji.php/v9/tc5/1.5/32/1f1fa_1f1e6.png',
+          #'name'      : 'fbicon.flag.ukraina',
+          #'width_tex' : '0.05',
+        #},
+        #{
+          #'url'       : 'https://www.facebook.com/images/emoji.php/v9/tbd/1.5/16/1f91d.png',
+          #'name'      : 'fbicon.hands.shake.yellow',
+          #'width_tex' : '0.05',
+        #},
+        {
+          'url'       : 'https://www.facebook.com/images/emoji.php/v9/tc7/1.5/16/261d.png',
+          'name'      : 'fbicon.finger.up.yellow',
+          'width_tex' : '0.05',
+        },
+      ]
+    }]
+  }

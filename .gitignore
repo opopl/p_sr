@@ -38,3 +38,5 @@ fb/cookies.pkl
 *.mw
 *.jpg
 letopis.fbauth_join.tex
+lts_fbauth_create.yaml
+lts_vim.yaml

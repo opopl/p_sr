@@ -34386,6 +34386,9 @@ page
 page
 	set url https://kiev.strana.news/333712-v-hschs-pokazali-foto-spasenija-passazhira-kotoryj-upal-pod-poezd-na-arsenalnoj.html
 	set tags kiev,metro,metro.kiev.arsenalnaja
+page
+	set url https://strana.news/news/351948-chto-hovorjat-ukraintsy-o-vstreche-zelenskoho-i-bajdena-opros-strany.html
+	set tags __sep_2021.usa.zelenskii.poezdka,beloglazova_antonina.kiev.stranaua,opros,strana_ua,ukraina
 eof
 off
 page

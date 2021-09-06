@@ -34392,6 +34392,12 @@ page
 page
 	set url https://strana.news/news/351875-pozhar-v-kostele-kieva-shorel-orhan-smohut-li-eho-vernut.html
 	set tags __sep_2021.kostel.pozhar.kiev,kiev,kostel.kiev.nikolaevskij,kultura,muzyka,pozhar,ukraina
+page
+	set url https://www.svarogday.com/ivan-xivrenko-globalnyj-pofigizm-razrushaet-realnost/
+	set tags apokalipsis,hivrenko_ivan.hudozhnik.kiev,isskustvo,kiev,kultura,ukraina
+page
+	set url https://strana.news/news/352126-umer-akter-zhan-pol-belmondo.html
+	set tags akter,belmondo_jean_paul,francia,kino,smert
 eof
 off
 page

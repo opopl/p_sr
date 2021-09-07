@@ -18,9 +18,9 @@ acts:
   #- { 
     #'act'  : 'import_auth2db',
   #}
-  - { 
-    'act'  : 'vimtags_update',
-  }
+  #- { 
+    #'act'  : 'vimtags_update',
+  #}
 #  - { 
     #'act'  : 'sec_new',
     #'args' : [{
@@ -39,3 +39,6 @@ acts:
       #]
     #}]
   #}
+  - { 
+    'act'  : 'db_fbicons',
+  }

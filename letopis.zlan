@@ -34398,6 +34398,23 @@ page
 page
 	set url https://strana.news/news/352126-umer-akter-zhan-pol-belmondo.html
 	set tags akter,belmondo_jean_paul,francia,kino,smert
+page
+	set url https://analytics.hvylya.net/237225-renesans-viri-chi-novi-temni-viki
+	set tags cerkov,obschestvo,religia,strana,ukraina
+page
+	set url https://analytics.hvylya.net/236667-yakiy-etichniy-konsensus-nam-potriben
+	set tags 30_let,etika,gosudarstvo,konsensus,nacia,nezalezhnist,obschestvo,soglasie,strana,ukraina
+page
+	set url https://zaxid.net/ukrayinska_nezalezhnist_layt_versiya_n1525333
+	set tags moskva,nezalezhnist,rossia,rusmir,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://zaxid.net/ukrayina_vilna_tolerantna_i_demokratichna_n1525180
+	set tags 1941,gosudarstvo,istoria,lvov,nezalezhnist,obschestvo,sheptickij_mitropolit.ukr,strana,ukraina
 eof
 off
 page

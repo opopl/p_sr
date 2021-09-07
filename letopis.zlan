@@ -34415,6 +34415,15 @@ global
 page
 	set url https://zaxid.net/ukrayina_vilna_tolerantna_i_demokratichna_n1525180
 	set tags 1941,gosudarstvo,istoria,lvov,nezalezhnist,obschestvo,sheptickij_mitropolit.ukr,strana,ukraina
+page
+	set url https://zaxid.net/lvivskiy_vesluvalnik_stav_chempionom_svitu_sered_molodi_n1525642
+	set tags nagrada,olimpiada,paraolimpics,sorevnovanie,sport,ukraina
+page
+	set url https://ukraina.ru/exclusive/20210907/1032197410.html
+	set tags arestovich_aleksei,galichina,identichnost',istoria,kievrus,malorossia,odin_narod,ukraina,ukraina_rusj
+page
+	set url https://strana.news/news/352250-chto-izvestno-o-tae-devushke-kotorye-vystrelila-v-uchitelej-iz-arbaleta.html
+	set tags __sep_2021.shkola.poltava.strela.huliganstvo,deti,huliganstvo,obrazovanie,pokushenie,poltava,shkola,uchitel,ukraina
 eof
 off
 page

@@ -34424,6 +34424,9 @@ page
 page
 	set url https://strana.news/news/352250-chto-izvestno-o-tae-devushke-kotorye-vystrelila-v-uchitelej-iz-arbaleta.html
 	set tags __sep_2021.shkola.poltava.strela.huliganstvo,deti,huliganstvo,obrazovanie,pokushenie,poltava,shkola,uchitel,ukraina
+page
+	set url https://strana.news/news/351932-podrobnosti-smerti-ukrainskoho-zarobitchanina-v-vytrezvitele-v-polshe-.html
+	set tags __sep_2021.zarobitchanin.polsha.smert.policia,murder,policia,polsha,smert,ukraina,vroclav.polsha,zarobitchane
 eof
 off
 page

@@ -27,23 +27,23 @@ acts:
         #'sec' : 'aaa',
     #}]
   #}
-  - { 
-    'act'  : 'db_update_img',
-    'args' : [{
-      'img_data' : [
-        {
-          'url'       : 'https://www.facebook.com/images/emoji.php/v9/tab/1.5/16/1f923.png',
-          'name'      : 'fbicon.laugh.cry',
-          'width_tex' : '0.05',
-        },
-        {
-          'url'       : 'https://www.facebook.com/images/emoji.php/v9/t2b/1.5/16/1f1f7_1f1fa.png',
-          'name'      : 'fbicon.flag.rossia',
-          'width_tex' : '0.05',
-        },
-      ]
-    }]
-  }
+#  - { 
+    #'act'  : 'db_update_img',
+    #'args' : [{
+      #'img_data' : [
+        #{
+          #'url'       : 'https://www.facebook.com/images/emoji.php/v9/tab/1.5/16/1f923.png',
+          #'name'      : 'fbicon.laugh.cry',
+          #'width_tex' : '0.05',
+        #},
+        #{
+          #'url'       : 'https://www.facebook.com/images/emoji.php/v9/t2b/1.5/16/1f1f7_1f1fa.png',
+          #'name'      : 'fbicon.flag.rossia',
+          #'width_tex' : '0.05',
+        #},
+      #]
+    #}]
+  #}
   #- { 
     #'act'  : 'db_fbicons_update',
   #}
@@ -53,3 +53,10 @@ acts:
   #- { 
     #'act'  : 'db_fbicon_add',
   #}
+  - { 
+    'act'  : 'db_secs_list',
+    'args' : [{ 
+        'pat' : '^topic', 
+        'ext' : 'tex' 
+    }]
+  }

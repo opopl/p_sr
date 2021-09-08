@@ -34427,6 +34427,12 @@ page
 page
 	set url https://strana.news/news/351932-podrobnosti-smerti-ukrainskoho-zarobitchanina-v-vytrezvitele-v-polshe-.html
 	set tags __sep_2021.zarobitchanin.polsha.smert.policia,murder,policia,polsha,smert,ukraina,vroclav.polsha,zarobitchane
+page
+	set url https://strana.news/news/352405-v-rossii-pohib-hlava-mchs-evhenij-zinichev-chto-ob-etom-izvestno.html
+	set tags __sep_2021.mchs.rossia.smert.glava,mchs.rossia,smert,tragedia,zinichev_evgenij.rossia.glava.mchs
+page
+	set url https://strana.news/news/352401-stali-izvestny-obstojatelstva-hibeli-ministr-mchs-rf-evhenija-zincheva.html
+	set tags __sep_2021.mchs.rossia.smert.glava,mchs.rossia,rossia,simonjan_margarita,smert,zinichev_evgenij.rossia.glava.mchs
 eof
 off
 page

@@ -34407,11 +34407,6 @@ page
 page
 	set url https://zaxid.net/ukrayinska_nezalezhnist_layt_versiya_n1525333
 	set tags moskva,nezalezhnist,rossia,rusmir,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://zaxid.net/ukrayina_vilna_tolerantna_i_demokratichna_n1525180
 	set tags 1941,gosudarstvo,istoria,lvov,nezalezhnist,obschestvo,sheptickij_mitropolit.ukr,strana,ukraina
@@ -34433,6 +34428,15 @@ page
 page
 	set url https://strana.news/news/352401-stali-izvestny-obstojatelstva-hibeli-ministr-mchs-rf-evhenija-zincheva.html
 	set tags __sep_2021.mchs.rossia.smert.glava,mchs.rossia,rossia,simonjan_margarita,smert,zinichev_evgenij.rossia.glava.mchs
+page
+	set url https://112ua.tv/mnenie/ukraina-tolko-po-cvetu-flaga-otlichaetsya-ot-sssr-ubedites-na-primere-obrazovaniya-590547.html
+	set tags bilchenko_evgenia,obrazovanie,sssr,ukraina
+page
+	set url https://dnepr.strana.news/352509-v-dnepre-odessit-zastrjal-v-sovremennom-tualete-i-bolee-chasa-ne-moh-ottuda-vyjti.html
+	set tags kurjez,tualet,ukraina
+page
+	set url https://odnarodyna.org/article/volga-sistema-obrazovaniya-na-ukraine-uchit-detey-nenavidet-russkikh
+	set tags antirossia,obschestvo,rossia,russofobia,ukraina
 eof
 off
 page

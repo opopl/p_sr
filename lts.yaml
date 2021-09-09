@@ -44,19 +44,19 @@ acts:
       #]
     #}]
   #}
-  #- { 
-    #'act'  : 'db_fbicons_update',
-  #}
+  - { 
+    'act'  : 'db_fbicons_update',
+  }
   #- { 
     #'act'  : 'db_fbicons_list',
   #}
   #- { 
     #'act'  : 'db_fbicon_add',
   #}
-  - { 
-    'act'  : 'db_secs_list',
-    'args' : [{ 
-        'pat' : '^topic', 
-        'ext' : 'tex' 
-    }]
-  }
+#  - { 
+    #'act'  : 'db_secs_list',
+    #'args' : [{ 
+        #'pat' : '^topic', 
+        #'ext' : 'tex' 
+    #}]
+  #}

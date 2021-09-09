@@ -34440,6 +34440,12 @@ page
 page
 	set url https://strana.news/news/352368-sanktsii-snbo-po-oshibke-vveli-protiv-kievljanki.html
 	set tags kiev,kievljane,kievljanka,krym,rnbo,sankcii,sevastopol,ukraina,zakon,kalinina_olga.kievljanka.sankcii
+page
+	set url https://www.radiosvoboda.org/a/ukrayinska-spadshchyna-i-moskva/31444500.html
+	set tags istoria,moskva,rossia,rozdobudko_igor.istorik.rossia.moskva,ukraina
+page
+	set url https://strana.news/news/352597-ukrainskaja-lehkoatletka-mahuchikh-snova-sfotohrafirovalas-s-rossijankoj.html
+	set tags lasickene_maria.rossia.sportsmenka,maguchih_jaroslava,rossia,sport,ukraina
 eof
 off
 page

@@ -34446,6 +34446,12 @@ page
 page
 	set url https://strana.news/news/352597-ukrainskaja-lehkoatletka-mahuchikh-snova-sfotohrafirovalas-s-rossijankoj.html
 	set tags lasickene_maria.rossia.sportsmenka,maguchih_jaroslava,rossia,sport,ukraina
+page
+	set url https://strana.news/news/352430-vybory-v-dnr-v-hosdumu-2021-kak-prokhodit-ahitatsija-hde-na-sajte-tsik-budut-rezultaty.html
+	set tags agitacia,dnr,donbass,doneck,gosduma,pushilin_denis,rossia,rusmir,vybory
+page
+	set url https://strana.news/news/352620-espch-objazal-vladeltsa-akkaunta-udaljat-kommentarii-khejterov-v-sotssetjakh-chto-eto-znachit.html
+	set tags facebook,internet,nenavist,obschestvo
 eof
 off
 page

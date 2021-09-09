@@ -47,9 +47,9 @@ acts:
   - { 
     'act'  : 'db_fbicons_update',
   }
-  #- { 
-    #'act'  : 'db_fbicons_list',
-  #}
+  - { 
+    'act'  : 'db_fbicons_list',
+  }
   #- { 
     #'act'  : 'db_fbicon_add',
   #}

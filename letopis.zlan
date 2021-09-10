@@ -34452,6 +34452,11 @@ page
 page
 	set url https://strana.news/news/352620-espch-objazal-vladeltsa-akkaunta-udaljat-kommentarii-khejterov-v-sotssetjakh-chto-eto-znachit.html
 	set tags facebook,internet,nenavist,obschestvo
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
 page
 	set url https://strana.news/opinions/352386-sformirovalos-ukrainskoe-natsionalnoe-nichto.html
 	set tags identichnost',nacia,negativ,obschestvo,ukraina

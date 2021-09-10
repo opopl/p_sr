@@ -15,9 +15,9 @@ acts:
         #'tags'      : 'armia,kiev,nezalezhnist,parad,ukraina',
     #}]
   #}
-  #- { 
-    #'act'  : 'import_auth2db',
-  #}
+  - { 
+    'act'  : 'import_auth2db',
+  }
   #- { 
     #'act'  : 'vimtags_update',
   #}

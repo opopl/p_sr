@@ -34460,6 +34460,18 @@ global
 page
 	set url https://strana.news/opinions/352386-sformirovalos-ukrainskoe-natsionalnoe-nichto.html
 	set tags identichnost',nacia,negativ,obschestvo,ukraina
+page
+	set url https://strana.news/news/352799-kto-sorval-operatsiju-po-vahnerovtsam-versija-bezuhloj.html
+	set tags bankova,bezuglaja_marjana.deputat,ofis_prezidenta,samolet,ukraina,vagnerovcy
+page
+	set url https://strana.news/opinions/352685-strana-rabov-strana-hospod-eto-pro-sovremennuju-ukrainu.html
+	set tags policia,rabstvo,strana,strana.rabov.strana.gospod,ukraina
+page
+	set url https://strana.news/news/352798-lavrov-uvidel-v-slovakh-zelenskoho-o-masshtabnoj-vojne-s-rossiej-holos-kvn.html
+	set tags lavrov_sergei,rossia,ukraina,vojna,zelenskii_vladimir
+page
+	set url https://strana.news/news/352747-voennye-uchenija-2021-v-ukraine-provedut-v-otvet-na-sbory-zapad-2021.html
+	set tags belarus,danilov_aleksei,nato,rossia,uchenija,ugroza,ukraina,vojna,vsu,zelenskii_vladimir
 eof
 off
 page

@@ -34472,6 +34472,9 @@ global
 page
 	set url https://strana.news/opinions/352685-strana-rabov-strana-hospod-eto-pro-sovremennuju-ukrainu.html
 	set tags policia,rabstvo,strana,strana.rabov.strana.gospod,ukraina
+page
+	set url https://analytics.hvylya.net/237232-shcho-potribno-zrobiti-pislya-tridcyati-rokiv-nezalezhnosti-abo-yak-podolati-ukrajinske-nishcho
+	set tags future,obschestvo,sistema.sudejskaja,ukraina
 eof
 off
 page

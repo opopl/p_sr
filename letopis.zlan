@@ -34464,11 +34464,6 @@ page
 page
 	set url https://strana.news/news/352747-voennye-uchenija-2021-v-ukraine-provedut-v-otvet-na-sbory-zapad-2021.html
 	set tags belarus,danilov_aleksei,nato,rossia,uchenija,ugroza,ukraina,vojna,vsu,zelenskii_vladimir
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.news/opinions/352685-strana-rabov-strana-hospod-eto-pro-sovremennuju-ukrainu.html
 	set tags policia,rabstvo,strana,strana.rabov.strana.gospod,ukraina
@@ -34490,6 +34485,41 @@ page
 page
 	set url https://lenta.ru/articles/2021/09/11/egorov/
 	set tags beg,chelovek,egorov_maksim.rossia.begun.puteshestvennik,ekstremal,prikljuchenie,puteshestvie,rekord,rossia,sport,zhizn
+page
+	set url https://inosmi.ru/politic/20210903/250435502.html
+	set tags arestovich_aleksei,donij_oles,pereimenovanija,rusj.ukraina,ukraina
+off
+page
+	set url https://www.bragazeta.ru/news/2021/08/04/ix-ostanavlivali-tolko-drugie-russkie-v-ssha-udivilis-pobedam-rossiyan-na-olimpiade/
+	set tags komanda.rossia.roc,olimpiada,olimpiada.tokio,rossia,sport
+on
+page
+	set url https://eadaily.com/ru/news/2021/07/19/nu-chto-brat-pushkin-statya-putina-i-ukrainistika-fantazera-kappelera
+	set tags __jul_2021.putin.statja,istoria,odin_narod,pushkin_aleksandr,putin_vladimir,rossia,rusimperia,russkie,shevchenko_taras,ukraina,ukraincy
+page
+	set url https://voskhodinfo.su/panorama/ideologiya/70016-v-rossii-idet-novaja-grazhdanskaja-vojna-v-kulturnom-pole.html
+	set tags ideologia,infvojna,kultura,rossia,russkie
+page
+	set url https://voskhodinfo.su/aktualno/67054-byt-russkim.html
+	set tags gordost',identichnost',narod,rossia,rusmir,russkie
+page
+	set url https://voskhodinfo.su/aktualno/32444-russkaya-toska-po-imperii.html
+	set tags future,imperia,novorossia,rossia,russkie,toska
+page
+	set url https://voskhodinfo.su/voyna/voyna-na-donbasse/65822-novorossiya-i-fashistskaya-ukraina.html
+	set tags donbass,novorossia,ukraina,vojna
+page
+	set url https://gazeta.ua/blog/55714/nini-ukrayinciv-malo-buti-100-mln-u-nas-serjozni-pitannya-do-ruskih
+	set tags golodomor,istoria,rossia,russkie,ukraina
+page
+	set url https://ua.tribuna.com/football/1101044898-kalinichenko-o-prozhivanii-v-moskve-vsex-zhiznennye-obstoyatelstva-kud.html
+	set tags futbol,patriotizm,rossia,sport,ukraina
+page
+	set url https://regnum.ru/news/polit/3366367.html
+	set tags golodomor,istoria,rossia,ukraina
+page
+	set url https://gazeta.ua/blog/55697/perejmenuvannya-na-rusukrayinu-ce-bezumstvo-i-neviglastvo
+	set tags arestovich_aleksei,pereimenovanija,rusj.ukraina,ukraina
 eof
 off
 page

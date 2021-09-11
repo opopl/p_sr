@@ -34475,6 +34475,21 @@ page
 page
 	set url https://analytics.hvylya.net/237232-shcho-potribno-zrobiti-pislya-tridcyati-rokiv-nezalezhnosti-abo-yak-podolati-ukrajinske-nishcho
 	set tags future,obschestvo,sistema.sudejskaja,ukraina
+page
+	set url https://strana.news/news/352790-terakty-11-sentjabrja-chto-dumajut-amerikantsy-ob-atakakh-i-verjat-li-v-ofitsialnuju-versiju-.html
+	set tags 11_09_2001,2001,terakt,terakt.amerika.2001.11_sep.new_york,terrorizm,usa
+page
+	set url https://strana.news/news/352922-raketa-rechnoj-marshrut-iz-kieva-v-kanev-zapuskajut-po-dnepru.html
+	set tags dnepr,kanev,kiev,raketa.korabl.dnepr,ukraina
+page
+	set url https://lenta.ru/articles/2021/09/07/loko/
+	set tags 07_09_2011,2011,aviakatastrofa,rossia,tragedia
+page
+	set url https://lenta.ru/articles/2021/07/15/adygea/
+	set tags chelovek,gory,pohody,rossia,turizm
+page
+	set url https://lenta.ru/articles/2021/09/11/egorov/
+	set tags beg,chelovek,egorov_maksim.rossia.begun.puteshestvennik,ekstremal,prikljuchenie,puteshestvie,rekord,rossia,sport,zhizn
 eof
 off
 page

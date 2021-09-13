@@ -34520,6 +34520,12 @@ page
 page
 	set url https://gazeta.ua/blog/55697/perejmenuvannya-na-rusukrayinu-ce-bezumstvo-i-neviglastvo
 	set tags arestovich_aleksei,pereimenovanija,rusj.ukraina,ukraina
+page
+	set url https://strana.news/news/352701-latinitsa-v-ukraine-reaktsija-sotssetej.html
+	set tags alfavit,danilov_aleksei,jazyk,kirillica,kultura,latinica,mova,pismennost',rnbo,rossia,ukraina
+page
+	set url https://strana.news/news/352956-vyvody-iz-jaltinskoj-stratehii-k-chemu-privedet-ssora-zapada-i-ukrainy-.html
+	set tags diplomatia,geopolitika,politika,rossia,ukraina,zapad
 eof
 off
 page

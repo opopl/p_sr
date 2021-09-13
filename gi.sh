@@ -6,8 +6,7 @@ export script="$PLG/projs/scripts/bufact/tex/get_img.pl"
 #perl $script -f $file -d
 #perl $script -p "letopis" -r "$P_SR" --reset
 
-#perl $script -p "letopis"
+perl -d $script -p "letopis"
 
-export file="$P_SR/letopis.12_09_2021.fb.semesjuk_ivan.1.chelovek_prividenie.tex"
-
-perl -d $script -p "letopis" -f $file
+#export file="$P_SR/letopis.12_09_2021.fb.semesjuk_ivan.1.chelovek_prividenie.tex"
+#perl -d $script -f $file

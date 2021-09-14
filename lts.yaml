@@ -15,9 +15,6 @@ acts:
         #'tags'      : 'armia,kiev,nezalezhnist,parad,ukraina',
     #}]
   #}
-  - { 
-    'act'  : 'import_auth2db',
-  }
   #- { 
     #'act'  : 'vimtags_update',
   #}
@@ -27,24 +24,24 @@ acts:
         #'sec' : 'aaa',
     #}]
   #}
-  - { 
-    'act'  : 'db_update_img',
-    'args' : [{
-      'img_data' : [
-        {
-  'url' : 'https://scontent-frt3-1.xx.fbcdn.net/v/t39.1997-6/s180x540/133745114_261866255361986_798671961717448195_n.png?_nc_cat=108&ccb=1-5&_nc_sid=ac3552&_nc_ohc=qzPjRnmARLwAX-3F0aB&_nc_ht=scontent-frt3-1.xx&oh=ba10dd206408e19506af822ebe34004a&oe=6141EE87',
-  'name' : 'fbpic.thank.you.girl.hands.sparkles',
-  'width_tex' : 0.2,
-        },
-      ]
-    }]
-  }
-  - { 
-    'act'  : 'db_fbicons_update',
-  }
-  - { 
-    'act'  : 'db_fbicons_list',
-  }
+#  - { 
+    #'act'  : 'db_update_img',
+    #'args' : [{
+      #'img_data' : [
+        #{
+  #'url' : 'https://scontent-frt3-1.xx.fbcdn.net/v/t39.1997-6/s180x540/133745114_261866255361986_798671961717448195_n.png?_nc_cat=108&ccb=1-5&_nc_sid=ac3552&_nc_ohc=qzPjRnmARLwAX-3F0aB&_nc_ht=scontent-frt3-1.xx&oh=ba10dd206408e19506af822ebe34004a&oe=6141EE87',
+  #'name' : 'fbpic.thank.you.girl.hands.sparkles',
+  #'width_tex' : 0.2,
+        #},
+      #]
+    #}]
+  #}
+  #- { 'act'  : 'import_auth2db' }
+  #- { 'act'  : 'db_fbicons_update' }
+  #
+  #- import_auth2db
+  - db_fbicons_update
+  - db_fbicons_list
   #- { 
     #'act'  : 'db_fbicon_add',
   #}

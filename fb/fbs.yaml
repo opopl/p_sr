@@ -1,0 +1,8 @@
+
+config:
+  driver:
+    click:
+      limit: 1
+  
+  FbPost:
+  FBS:

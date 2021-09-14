@@ -117,7 +117,6 @@ page
 	set tags covid,doverie,narod,rossia,vaccinacia,vaccine
 	set title А мы не верим власти!
 	set author_id lukjanenko_sergej
-on
 page
 	set url https://www.facebook.com/yevzhik/posts/636066939761753
 	set ii samootricanie
@@ -125,6 +124,14 @@ page
 	set tags 2014,bilchenko_evgenia
 	set title БЖ. Самоотрицание.
 	set author_id bilchenko_evgenia
+on
+page
+	set url https://www.facebook.com/bogatyriov.daniil/posts/1032068984274115
+	set ii latinica_danilov
+	set date 13_09_2021
+	set tags danilov_aleksei,kultura,latinica,rnbo,ukraina
+	set title Если власти введут латинский алфавит для украинского языка, Украина окончательно превратится в НЕРусь
+	set author_id bogatyrev_daniil
 eof
 off
 page

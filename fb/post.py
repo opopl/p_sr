@@ -13,6 +13,15 @@ root = etree.getroot()
 links = list(root.iterlinks())
 #links = list(root.xpath('.//a'))
 
+#x import lxml.html; shell.tree = lxml.html.document_fromstring(drv.page_source)
+#x print(dir(shell.tree))
+#x print(type(shell.tree))
+#x print(type(shell.tree.getroot()))
+
+# x from io import StringIO, BytesIO; import lxml.html; shell.tree = lxml.html.parse(StringIO(drv.page_source))
+# x import lxml.html as html; print(html.tostring(shell.tree))
+#  x import lxml.html as html; print(html.tostring(shell.tree,getroot(),encoding='unicode',pretty_print=True))
+
 j = 0
 for link in links:
   l = link[0]

@@ -1,8 +1,29 @@
 
 config:
+  files:
+    cookies: cookies.pkl
+
+  host2site:
+    - [ 'facebook', { pat: '^(www|m)\.facebook\.com$' } ]
+  
+  url:
+    site:
+      'facebook': 
+         login: 'https://mobile.facebook.com/login.php'
+    host:
+  
   driver:
     click:
       limit: 1
   
+    firefox:
+      profile:
+        preferences: {
+          "dom.webnotifications.enabled" : false,
+          "geo.enabled" : false,
+        }
+    
   FbPost:
   FBS:
+    cmds:
+      run:

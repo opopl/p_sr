@@ -124,7 +124,6 @@ page
 	set tags 2014,bilchenko_evgenia
 	set title БЖ. Самоотрицание.
 	set author_id bilchenko_evgenia
-on
 page
 	set url https://www.facebook.com/bogatyriov.daniil/posts/1032068984274115
 	set ii latinica_danilov
@@ -132,6 +131,10 @@ page
 	set tags danilov_aleksei,kultura,latinica,rnbo,ukraina
 	set title Если власти введут латинский алфавит для украинского языка, Украина окончательно превратится в НЕРусь
 	set author_id bogatyrev_daniil
+on
+page
+	set url https://strana.news/opinions/353331-pobratimy-dolzhny-obmenjatsja-krestami-i-potselujami-iskupavshis-v-odnoj-vode.html
+	set tags ukraina,verhovna_rada,bratstvo,jumor
 eof
 off
 page

@@ -135,6 +135,27 @@ on
 page
 	set url https://strana.news/opinions/353331-pobratimy-dolzhny-obmenjatsja-krestami-i-potselujami-iskupavshis-v-odnoj-vode.html
 	set tags ukraina,verhovna_rada,bratstvo,jumor
+page
+	set url https://www.facebook.com/permalink.php
+	set ii mova_pryslivnyky
+	set date 25_01_2019
+	set tags filologia,kultura,mova,slovo,ukraina,znachenie
+	set title МІСТКІ ПРИСЛІВНИКИ
+	set author_id brodeckij_aleksandr
+page
+	set url https://www.facebook.com/groups/367613903441695/posts/1925605694309167
+	set ii odessa_transport_jazyk
+	set date 15_09_2021
+	set tags hamstvo,jazyk,mova,odessa,plata_za_proezd,proezd_v_transporte,tramvaj,transport,ukraina,ukrainizacia
+	set title Пасажир відмовився оплачувати проїзд у трамваї - Одеса
+	set author_id shubart_pavel
+page
+	set url https://www.facebook.com/groups/367613903441695/posts/1923030034566733/
+	set ii mova_tatevosov_citata
+	set date 11_09_2021
+	set tags jazyk,kultura,mova,poezia,rossia,ukraina
+	set title Мова про мову - стихи - Сергей Татевосов - цитата
+	set author_id shubart_pavel
 eof
 off
 page

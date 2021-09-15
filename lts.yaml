@@ -36,12 +36,6 @@ acts:
       #]
     #}]
   #}
-  #- { 'act'  : 'import_auth2db' }
-  #- { 'act'  : 'db_fbicons_update' }
-  #
-  #- import_auth2db
-  - db_fbicons_update
-  - db_fbicons_list
   #- { 
     #'act'  : 'db_fbicon_add',
   #}

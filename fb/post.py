@@ -13,6 +13,8 @@ root = etree.getroot()
 links = list(root.iterlinks())
 #links = list(root.xpath('.//a'))
 
+x [ fbs.etree.tostring(a,encoding='unicode',pretty_print=True) for a in fbs.xtree.xpath('//a') ]
+
 #x import lxml.html; shell.tree = lxml.html.document_fromstring(drv.page_source)
 #x print(dir(shell.tree))
 #x print(type(shell.tree))

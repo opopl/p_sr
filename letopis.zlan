@@ -34532,6 +34532,9 @@ page
 page
 	set url https://zen.yandex.ru/media/kalgin/coi-shevchuk-i-bashlachev-v-kieve-razvenchaia-legendy-60dae3287a49432429b324ca
 	set tags istoria,kiev,kultura,muzyka,sssr
+page
+	set url https://strana.news/news/353333-nuzhno-li-ukraine-perekhodit-na-latinitsu-opros-strany.html
+	set tags beloglazova_antonina.kiev.stranaua,kievljane,kirillica,kultura,latinica,opros,strana_ua,ukraina
 eof
 off
 page

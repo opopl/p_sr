@@ -34547,6 +34547,12 @@ page
 page
 	set url https://strana.news/news/353567-kremin-prizval-zakryt-krupnejshie-kanaly-i-vvesti-protiv-nikh-sanktsii-snbo.html
 	set tags jazyk,kremin_taras,mova,obmudsmen.mova,rnbo,telekanaly,tv,ukraina,ukrainizacia,zakon
+page
+	set url https://zaxid.net/kirilichna_skryepa_n1526296
+	set tags danilov_aleksei,kirillica,kultura,latinica,mova,rnbo,rossia,ukraina
+page
+	set url https://zaxid.net/vorog_mogo_voroga_n1525936
+	set tags politika,poroshenko_petr,putin_vladimir,rossia,ukraina,vrag
 eof
 off
 page

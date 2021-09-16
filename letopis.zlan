@@ -34535,6 +34535,18 @@ page
 page
 	set url https://strana.news/news/353333-nuzhno-li-ukraine-perekhodit-na-latinitsu-opros-strany.html
 	set tags beloglazova_antonina.kiev.stranaua,kievljane,kirillica,kultura,latinica,opros,strana_ua,ukraina
+page
+	set url https://analytics.hvylya.net/237706-pro-krizu-svitskoji-derzhavi-desekulyarizaciyu-viru-moral-ta-inshe
+	set tags idea,identichnost',ideologia,moral,obschestvo,strana,ukraina,ukraincy,vera
+page
+	set url https://strana.news/news/353611-est-takoe-mahuchikh-rasskazala-ob-instruktsijakh-kotorye-poluchajut-sportsmeny.html
+	set tags interview,maguchih_jaroslava,politika,sport,ukraina
+page
+	set url https://strana.news/news/353528-post-chinovnitsy-fidanjan-ob-sssr-nadelal-mnoho-shumu-anatomija-skandala.html
+	set tags finadjan_elena.kmda.chinovnik.ukraina,gazirovka,nacionalizm,nenavist,nostalgia,sssr,travlja,ukraina,zrada
+page
+	set url https://strana.news/news/353567-kremin-prizval-zakryt-krupnejshie-kanaly-i-vvesti-protiv-nikh-sanktsii-snbo.html
+	set tags jazyk,kremin_taras,mova,obmudsmen.mova,rnbo,telekanaly,tv,ukraina,ukrainizacia,zakon
 eof
 off
 page

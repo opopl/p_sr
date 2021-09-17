@@ -34559,6 +34559,21 @@ page
 page
 	set url https://zen.yandex.ru/media/vladimirsvetlana/kto-my-izbirateli-vybirateligolosovateli-elektorat-a-mojet-my-vsetaki-narod-narod-imeiuscii-pravo-vybora-613636a10d368d33ec3ac9d7
 	set tags narod,obschestvo,politika,rossia,vybory
+page
+	set url https://strana.news/news/353435-sootechestvenniki-2021-dlja-dnr-lnr-ukraintsev-prohramma-pereselenija-v-rossiju-podemnye.html
+	set tags grazhdanstvo,grazhdanstvo.rossia,rossia,ukraina,ukraincy
+page
+	set url https://strana.news/news/353718-pod-odessoj-reshili-pereimenovat-tri-ulitsy-imeni-pervoj-zhenshchiny-kosmonavta-tereshkovoj.html
+	set tags kosmonavtika,kosmos,pereimenovanija,tereshkova_valentina,ukraina
+page
+	set url https://strana.news/news/352517-arestovich-obidelsja-na-kritiku-idei-pereimenovanija-ukrainy-v-rus-ukrainu.html
+	set tags arestovich_aleksei,obida,obschestvo,pereimenovanija,rusj.ukraina,seljane,strana
+page
+	set url https://strana.news/opinions/353704-ponjatija-patriotov-o-politkorrektnosti-tak-uzki-chto-ni-odin-zhivoj-chelovek-v-nikh-ne-vlazit.html
+	set tags bezumie,finadjan_elena.kmda.chinovnik.ukraina,nenavist,obschestvo,patriotizm,poceluj,politkorrektnost,travlja,ukraina,zadnica
+page
+	set url https://strana.news/opinions/353645-v-nyneshnej-ukraine-tekh-kto-nostalhiruet-po-sssr-nikto-i-slushat-budet.html
+	set tags finadjan_elena.kmda.chinovnik.ukraina,nostalgia,obschestvo,sssr,travlja,ukraina
 eof
 off
 page

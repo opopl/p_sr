@@ -34580,6 +34580,9 @@ page
 page
 	set url https://hvylya.net/interview/231415-krah-vtoroy-ukrainskoy-respubliki-kogda-ukraina-svernula-ne-tuda
 	set tags obschestvo,respublika,strana,ukraina
+page
+	set url https://hvylya.net/news/237943-danilov-napryagayus-kogda-slushayu-russkiy-yazyk
+	set tags danilov_aleksei,jazyk,lugansk,mova,rnbo,ukraina,zhurnalist
 eof
 off
 page

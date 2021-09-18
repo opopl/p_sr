@@ -34574,6 +34574,12 @@ page
 page
 	set url https://strana.news/opinions/353645-v-nyneshnej-ukraine-tekh-kto-nostalhiruet-po-sssr-nikto-i-slushat-budet.html
 	set tags finadjan_elena.kmda.chinovnik.ukraina,nostalgia,obschestvo,sssr,travlja,ukraina
+page
+	set url https://hvylya.net/interview/237621-sergey-dacyuk-kak-vernut-ukrainu-v-istoriyu
+	set tags arestovich,beseda,dacjuk_sergej.filosof,future,obschestvo,rusj.ukraina,strana,ukraina
+page
+	set url https://hvylya.net/interview/231415-krah-vtoroy-ukrainskoy-respubliki-kogda-ukraina-svernula-ne-tuda
+	set tags obschestvo,respublika,strana,ukraina
 eof
 off
 page

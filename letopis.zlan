@@ -34592,6 +34592,21 @@ page
 page
 	set url https://strana.news/news/353818-snbo-17-sentjabrja-2021-chto-tam-prinjali-video-i-vyvody.html
 	set tags danilov_aleksei,jazyk,lugansk,mova,rnbo,ukraina
+page
+	set url https://www.radiosvoboda.org/a/konsulstvo-ukrayinskoyi-derzhavy-v-moskvi-1918-rik/31456695.html
+	set tags istoria,moskva,rossia,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/sovok-povertayetsya-ne-yduchy
+	set tags istoria,mentalnost,obschestvo,rossia,sovok,sssr,strana,ukraina
+page
+	set url https://zen.yandex.ru/media/id/60b2c12d5dfc027318749610/drevniaia-i-sovsem-nekievskaia-rus-614454c34252eb44042b3ffa
+	set tags istoria,kiev,kievrus,mat_gorodam_ruskim,novgorod,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5f79e70cc9931e58ecf30e40/nashla-staryi-ukrainskii-iumoristicheskii-jurnal-pomogite-perevesti-6144c4d79d150d61206c8433
+	set tags jazyk,mova,rossia,sevastopol,sssr,ukraina,ussr
+page
+	set url https://zen.yandex.ru/media/id/5f79e70cc9931e58ecf30e40/o-chem-pisali-gazety-kryma-vo-vremena-ukrainy-pochitaem-pressu-i-kakimi-produktami-ia-by-poluchala-zarplatu-614066f1199c4d2e890f2117
+	set tags gazeta,krym,rossia,ukraina,zhurnal
 eof
 off
 page

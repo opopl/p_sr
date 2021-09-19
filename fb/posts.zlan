@@ -131,7 +131,6 @@ page
 	set tags danilov_aleksei,kultura,latinica,rnbo,ukraina
 	set title Если власти введут латинский алфавит для украинского языка, Украина окончательно превратится в НЕРусь
 	set author_id bogatyrev_daniil
-on
 page
 	set url https://strana.news/opinions/353331-pobratimy-dolzhny-obmenjatsja-krestami-i-potselujami-iskupavshis-v-odnoj-vode.html
 	set tags ukraina,verhovna_rada,bratstvo,jumor
@@ -149,6 +148,7 @@ page
 	set tags hamstvo,jazyk,mova,odessa,plata_za_proezd,proezd_v_transporte,tramvaj,transport,ukraina,ukrainizacia
 	set title Пасажир відмовився оплачувати проїзд у трамваї - Одеса
 	set author_id shubart_pavel
+on
 page
 	set url https://www.facebook.com/groups/367613903441695/posts/1923030034566733/
 	set ii mova_tatevosov_citata

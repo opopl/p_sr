@@ -34586,6 +34586,12 @@ page
 page
 	set url https://strana.news/news/321209-vo-lvove-natsionalisty-izbili-muzykantov-i-ikh-apparaturu-za-pesni-na-russkom-jazyke.html
 	set tags __mar_2021.lvov.izbienie.muzykanty.jazyk,bezumie,izbienie,lvov,mova,mrakobesie,muzyka,muzykant,napadenie,nenavist,ukraina,ukrainizacia
+page
+	set url https://strana.news/news/354018-podrobnosti-ubijstva-iranskoho-uchenoho-izrailskim-mossadom.html
+	set tags atomic_bomb,iran,izrael,ubijstvo,uchenyj,usa
+page
+	set url https://strana.news/news/353818-snbo-17-sentjabrja-2021-chto-tam-prinjali-video-i-vyvody.html
+	set tags danilov_aleksei,jazyk,lugansk,mova,rnbo,ukraina
 eof
 off
 page

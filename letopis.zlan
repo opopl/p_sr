@@ -34583,6 +34583,9 @@ page
 page
 	set url https://hvylya.net/news/237943-danilov-napryagayus-kogda-slushayu-russkiy-yazyk
 	set tags danilov_aleksei,jazyk,lugansk,mova,rnbo,ukraina,zhurnalist
+page
+	set url https://strana.news/news/321209-vo-lvove-natsionalisty-izbili-muzykantov-i-ikh-apparaturu-za-pesni-na-russkom-jazyke.html
+	set tags __mar_2021.lvov.izbienie.muzykanty.jazyk,bezumie,izbienie,lvov,mova,mrakobesie,muzyka,muzykant,napadenie,nenavist,ukraina,ukrainizacia
 eof
 off
 page

@@ -12,8 +12,10 @@ config:
          login: 'https://mobile.facebook.com/login.php'
     host:
   
+###cfg.driver
   driver:
     click:
+      do: 0
       limit: 1
   
     firefox:
@@ -23,7 +25,12 @@ config:
           "geo.enabled" : false,
         }
     
+###cfg.FbPost
   FbPost:
+    funcs:
+      loop_prev:
+        imax: 10
+
   FBS:
     cmds:
       run:

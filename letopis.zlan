@@ -34607,6 +34607,15 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5f79e70cc9931e58ecf30e40/o-chem-pisali-gazety-kryma-vo-vremena-ukrainy-pochitaem-pressu-i-kakimi-produktami-ia-by-poluchala-zarplatu-614066f1199c4d2e890f2117
 	set tags gazeta,krym,rossia,ukraina,zhurnal
+page
+	set url https://strana.news/news/354097-strelba-v-permi-hlavnoe-khronolohija-sobytij-chto-izvestno-o-strelke-timure-bekmansurove.html
+	set tags __sep_2021.terakt.rossia.permj.universitet,permj.rossia,rossia,strelba,terakt
+page
+	set url https://strana.news/news/354102-ranenyj-permskij-strelok-umer-po-dorohe-v-bolnitsu-smi.html
+	set tags __sep_2021.terakt.rossia.permj.universitet,permj,rossia,shooting,strelba,studenty,terakt,ubijstvo,universitet
+page
+	set url https://strana.news/news/354100-chto-izvestno-o-terakte-v-permi-k-etomu-chasu.html
+	set tags __sep_2021.terakt.rossia.permj.universitet,permj.rossia,rossia,smert,strelba,studenty,terakt,universitet
 eof
 off
 page

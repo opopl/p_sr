@@ -155,7 +155,6 @@ page
 	set tags jazyk,kultura,mova,poezia,rossia,ukraina
 	set title Мова про мову - стихи - Сергей Татевосов - цитата
 	set author_id shubart_pavel
-on
 page
 	set url https://www.facebook.com/100053013288829/posts/400808658362907
 	set tags mova,jazyk,nenavist,ukraina,kultura,chelovechnost
@@ -163,6 +162,14 @@ page
 	set ii mova_uvazhenie_vrazhda
 	set title Когда я учился в школе, украинский язык был языком уважения и любви
 	set author_id dobkin_mihail
+on
+page
+	set url https://www.facebook.com/groups/326328151119372/posts/1368370746915102
+	set ii latinica
+	set date 20_09_2021
+	set tags danilov_aleksei,istoria,jazyk,kievrus,kultura,latinica,moskovia,mova,novgorod,pismennost',rnbo,rossia,ukraina
+	set title Ідея переходу на латиницю не лише абсурдна, але й антинаціональна
+	set author_id redchenko_aleksej
 eof
 off
 page

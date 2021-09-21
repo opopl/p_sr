@@ -34616,6 +34616,12 @@ page
 page
 	set url https://strana.news/news/354100-chto-izvestno-o-terakte-v-permi-k-etomu-chasu.html
 	set tags __sep_2021.terakt.rossia.permj.universitet,permj.rossia,rossia,smert,strelba,studenty,terakt,universitet
+page
+	set url https://strana.news/news/354214-bojnja-v-permi-opoznany-vse-zhertvy-timura-bekmansurova-spisok-ubitykh-i-ranenykh.html
+	set tags __sep_2021.terakt.rossia.permj.universitet,permj.rossia,rossia,smert,strelba,studenty,universitet
+page
+	set url https://strana.news/news/354108-o-strelbe-v-permskom-hosudarstvennom-universitete-rasskazali-studenty-vuza.html
+	set tags __sep_2021.terakt.rossia.permj.universitet,permj.rossia,rossia,shooting,strelba
 eof
 off
 page

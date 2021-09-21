@@ -34649,6 +34649,9 @@ page
 page
 	set url https://ukraina.ru/opinion/20210906/1032197246.html
 	set tags gorod,kiev,kievljane,metro,ukraina
+page
+	set url https://strana.news/opinions/354261-k-chemu-uholovnoe-delo-protiv-uchastnikov-krymskoho-holosovanija-s-hosdumu-rf.html
+	set tags golosovanie,gosduma,krym,rossia,sbu,ukraina
 eof
 off
 page

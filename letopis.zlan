@@ -34622,6 +34622,33 @@ page
 page
 	set url https://strana.news/news/354108-o-strelbe-v-permskom-hosudarstvennom-universitete-rasskazali-studenty-vuza.html
 	set tags __sep_2021.terakt.rossia.permj.universitet,permj.rossia,rossia,shooting,strelba
+page
+	set url https://strana.news/opinions/354222-ne-pora-li-zamenit-majdany-na-normalnye-narodnye-sbory.html
+	set tags maidan,narod,narodnyje_sbory,obschestvo,ukraina
+page
+	set url https://strana.news/opinions/354220-est-ljudi-orientirovannye-na-vchera-na-sehodnja-ili-na-zavtra.html
+	set tags chelovek,obschestvo,psihologia
+page
+	set url https://strana.news/news/354239-sestra-sentsova-uezzhaet-iz-ukrainy-v-rossiju-chto-proizoshlo.html
+	set tags kaplan_natalia.sestra.sencova,razocharovanie,rossia,sencov_oleg,ukraina
+page
+	set url https://strana.news/news/148708-oleh-sentsov-voennyj-v-kieve-zajavil-chto-perevozil-vzryvchatku-v-krym.html
+	set tags ato,priznanie,rossia,sencov_oleg,ukraina,zajavlenie
+page
+	set url https://strana.news/opinions/354155-mir-ne-vzdrohnul-ot-novosti-o-tom-chto-tramp-sanktsioniroval-ubijstvo-fizika.html
+	set tags fizik,infvojna,iran,trump_donald,ubijstvo,usa
+page
+	set url https://ukraina.ru/exclusive/20210921/1032286784.html
+	set tags fidanjan_elena,mrakobesie,nenavist,nezalezhnist,obschestvo,paranoia,strana,ukraina
+page
+	set url https://ukraina.ru/opinion/20210920/1032276259.html
+	set tags alternativa,future,geopolitika,ideologia,miroporjadok,rossia,rusmir,sssr,ukraina
+page
+	set url https://ukraina.ru/news/20210921/1032289724.html
+	set tags deti,dnr,donbass,jasinovataja,obstrel,shkola,ukraina,vojna
+page
+	set url https://ukraina.ru/opinion/20210906/1032197246.html
+	set tags gorod,kiev,kievljane,metro,ukraina
 eof
 off
 page

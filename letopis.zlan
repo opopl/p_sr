@@ -34652,6 +34652,21 @@ page
 page
 	set url https://strana.news/opinions/354261-k-chemu-uholovnoe-delo-protiv-uchastnikov-krymskoho-holosovanija-s-hosdumu-rf.html
 	set tags golosovanie,gosduma,krym,rossia,sbu,ukraina
+page
+	set url https://strana.news/news/354232-anatolij-vasserman-stanet-deputatom-hosdumy-chem-on-izvesten-i-vyskazyvanija-ob-ukraine-.html
+	set tags gosduma,rossia,ukraina,vasserman_anatolij.rossia,vybory
+page
+	set url https://zen.yandex.ru/media/npplotn/prichiny-nerusskosti-614746ccb8bc0046d6329738
+	set tags belarus,identichnost',nacionalnost,rossia,rusmir,russkie,russkij_chelovek,slavjane,ukraina
+page
+	set url https://strana.news/news/354301-minobrazovanija-vydelit-akademicheskie-stipendii-im-heroev-nebesnoj-sotni-38-studentam.html
+	set tags dostoinstvo,maidan,obrazovanie,revgidnosti,revolucia,stipendia,studenty,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5f79e70cc9931e58ecf30e40/v-jaru-oni-esce-slojnee-ob-ukrainskom-trezubce-i-prodavcah-sevastopolia-61097553d7b4683cfcdeb739
+	set tags chelovek,krym,psihologia,rodina,rossia,sevastopol,trizub,ukraina,vpechatlenie,zhizn
+page
+	set url https://zen.yandex.ru/media/id/5f79e70cc9931e58ecf30e40/pogovorili-s-belorusami-v-krymu-strahov-naslushalis-60eb5469563f125115a07ded
+	set tags belarus,krym,obschestvo,rossia
 eof
 off
 page

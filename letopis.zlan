@@ -34670,6 +34670,9 @@ page
 page
 	set url https://strana.news/news/354470-pokushenie-na-shefira-hlavnye-nestykovki-ofitsialnoj-versii.html
 	set tags __sep_2021.shefir.pokushenie,pokushenie,shefir_sergej.ukr.kvartal95,ukraina,zelenskii_vladimir
+page
+	set url https://gazeta.ua/articles/regions/_ne-dumala-chto-rossy-i-malorossy-mogut-prijti-k-takomu-yak-rosiyani-skupili-hati-na-poltavschini-ta-yizdyat-vidpochivati/1052845
+	set tags dacha,moskvichi,poltava_oblast,rossia,rossiane,selo,shyshaky.selo.ukr.poltava_obl,ukraina,zhizn
 eof
 off
 page

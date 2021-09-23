@@ -34673,6 +34673,9 @@ page
 page
 	set url https://gazeta.ua/articles/regions/_ne-dumala-chto-rossy-i-malorossy-mogut-prijti-k-takomu-yak-rosiyani-skupili-hati-na-poltavschini-ta-yizdyat-vidpochivati/1052845
 	set tags dacha,moskvichi,poltava_oblast,rossia,rossiane,selo,shyshaky.selo.ukr.poltava_obl,ukraina,zhizn
+page
+	set url https://www.bbc.com/ukrainian/features-58663554
+	set tags gorod,istoria,kiev,kreschatik.kiev,mirvojna2,nacizm,nkvd,rkka,sssr,ukraina,vov
 eof
 off
 page

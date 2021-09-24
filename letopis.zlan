@@ -34676,6 +34676,57 @@ page
 page
 	set url https://www.bbc.com/ukrainian/features-58663554
 	set tags gorod,istoria,kiev,kreschatik.kiev,mirvojna2,nacizm,nkvd,rkka,sssr,ukraina,vov
+page
+	set url https://www.bbc.com/ukrainian/blogs/2016/01/160129_tsalyk_blog_historian_vs
+	set tags 1946,kazn,kazn.smertnaja,kiev,mirvojna2,nacizm,prestupnik,sssr,ukraina,vov
+page
+	set url https://strana.news/news/354534-zelenskij-v-rechi-v-oon-protsitiroval-putina-na-russkom-jazyke.html
+	set tags citata,oon,oon.genassambleja,putin_vladimir,rossia,ukraina,vystuplenie,world,zelenskii_vladimir
+page
+	set url https://blogs.pravda.com.ua/authors/ogrysko/614c87d67ac7d/
+	set tags ideologia,istoria,rossia,rusmir
+page
+	set url https://zen.yandex.ru/media/gramotnost/nadybat-smeiatsia-s-kogoto-ukrainizmy-v-russkom-iazyke-umestny-li-oni-v-gramotnoi-rechi-6103f7e7906df03da9f8b738
+	set tags filologia,jazyk,language,mova,slovo,ukrainizm
+page
+	set url https://zen.yandex.ru/media/id/5f79e70cc9931e58ecf30e40/ukrainka-pod-moim-oknom-uchila-dochku-pravilno-stoiat-60d740f479bc581e23501e06
+	set tags krym,obschestvo,ukraina,zhizn
+page
+	set url https://zen.yandex.ru/media/kavkazplaneta/kto-po-nacionalnosti-olimpiiskaia-chempionka-mariia-lasickene-pochemu-ona-otkazalas-vstrechatsia-s-putinym-6141bff4b44bb37b5145a1fe
+	set tags kreml,lasickene_maria.rossia.sportsmenka,olimpiada.tokio,putin_vladimir,rossia,sport
+page
+	set url https://zen.yandex.ru/media/kavkazplaneta/pochemu-zaporojskie-kazaki-ne-schitali-sebia-ukraincami-obiasniaiu-614adc8bf020b4131ff97f57
+	set tags istoria,kazaki,malorossia,vojsko_zaporozhskoje
+page
+	set url https://zen.yandex.ru/media/kavkazplaneta/postupila-v-universitet-skachet-na-loshadi-puteshestvuet-po-vsemu-miru-kem-vyrosla-devochka-ozvuchivshaia-mashu-i-medvedia-61481b13b8bc0046d60e866f
+	set tags kukushkina_alina.masha_i_medved.ozvuchka,kultura,masha_i_medved'.multik,multfilm,rossia
+page
+	set url https://zen.yandex.ru/media/kavkazplaneta/imi-gorditsia-vsia-rossiia-kem-vyrosli-shkolniki-iz-beslana-6139d98bc318ab247e76672d
+	set tags deti,rossia,terakt,terakt.2004.rossia.beslan
+page
+	set url https://zen.yandex.ru/media/slavmir/vesta-i-nevesta-614aab0bf659e23edf9e86a0
+	set tags rusmir,slavjane
+page
+	set url https://zaxid.net/vihid_z_nevoli_i_pokloninnya_zolotomu_tiltsyu_n1525101
+	set tags moisej,obschestvo,politika,ukraina
+page
+	set url https://lenta.ru/articles/2021/09/24/referendumy_sssr/
+	set tags 1990,1991,armenia,golosovanie,gorbachev_mihail,istoria,litva,narod,raspad,referendum,referendum.sssr.1991,sssr,sssr.raspad
+page
+	set url https://lenta.ru/articles/2021/09/15/zaradicala/
+	set tags avakov_arsen,nacionalist,patriotizm,radikalizm,ukraina
+page
+	set url https://strana.news/news/354598-oon-doklad-po-pravam-cheloveka-v-ukraine-2021-hlavnoe.html
+	set tags doklad,donbass,oon,ukraina,vojna
+page
+	set url https://day.kyiv.ua/uk/blog/kultura/pochatok-movy
+	set tags kultura
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-i-moskva/31471394.html
+	set tags moskva,rossia,rozdobudko_igor.istorik.rossia.moskva,shevchenko_taras,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/nova-stara-derzhavna-duma
+	set tags gosduma,politika,rossia,vybory
 eof
 off
 page

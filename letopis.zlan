@@ -34727,6 +34727,9 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/polityka/nova-stara-derzhavna-duma
 	set tags gosduma,politika,rossia,vybory
+page
+	set url https://strana.news/news/354935-usik-dzhoshua-video-boja-obzor-poedinka-i-reaktsija-v-ukraine.html
+	set tags boks,patriotizm,pobeda,sport,ukraina,usik_aleksandr
 eof
 off
 page

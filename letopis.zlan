@@ -34730,6 +34730,15 @@ page
 page
 	set url https://strana.news/news/354935-usik-dzhoshua-video-boja-obzor-poedinka-i-reaktsija-v-ukraine.html
 	set tags boks,patriotizm,pobeda,sport,ukraina,usik_aleksandr
+page
+	set url https://sharij.net/policzejskij-v-ssha-zastrelil-prosivshuyu-o-pomoshhi-15-letnyuyu-temnokozhuyu-devochku-video
+	set tags murder,oruzhie,policia,shooting,smert,usa
+page
+	set url https://sharij.net/v-kalifornii-policzejskie-rasstrelyali-na-plyazhe-muzhchinu-vo-vremya-turnira-po-syorfingu-video-18
+	set tags kalifornia,murder,policia,usa
+page
+	set url https://sharij.net/vatnyj-h-j-zavernutyj-v-nash-flag-kak-patrioty-oskorblyali-usika-posle-pobedy-nad-dzhoshua
+	set tags __sep_2021.usik.pobeda.dzhoshua,nacionalizm,oskorblenie,patriotizm,ukraina,usik_aleksandr
 eof
 off
 page

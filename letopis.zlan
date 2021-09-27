@@ -34739,6 +34739,15 @@ page
 page
 	set url https://sharij.net/vatnyj-h-j-zavernutyj-v-nash-flag-kak-patrioty-oskorblyali-usika-posle-pobedy-nad-dzhoshua
 	set tags __sep_2021.usik.pobeda.dzhoshua,nacionalizm,oskorblenie,patriotizm,ukraina,usik_aleksandr
+page
+	set url https://strana.news/news/355089-svetlana-krjukova-vystavila-na-prodazhu-prorocheskuju-kartinu.html
+	set tags afganistan,amerika,isskustvo,kartina,krjukova_svetlana,prodazha,ukraina,usa,vlast
+page
+	set url https://strana.news/news/350907-zelenskij-v-tjurme-pod-sanktsijami-na-auktsion-vystavili-kartinu-bumeranh.html
+	set tags gazeta,kartina,krjukova_svetlana,sankcii,strana_ua,tjurma,ukraina,zelenskii_vladimir
+page
+	set url https://strana.news/articles/rassledovania/354335-nenavist-v-facebook-i-depressija-v-instagram-novye-fakty-o-zakulise-sotsialnykh-setej.html
+	set tags chelovek,depressia,facebook,instagram,internet,nenavist,podrostki,psihika,psihologia,rassledovanie,socset
 eof
 off
 page

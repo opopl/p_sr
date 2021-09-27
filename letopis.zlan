@@ -34748,6 +34748,30 @@ page
 page
 	set url https://strana.news/articles/rassledovania/354335-nenavist-v-facebook-i-depressija-v-instagram-novye-fakty-o-zakulise-sotsialnykh-setej.html
 	set tags chelovek,depressia,facebook,instagram,internet,nenavist,podrostki,psihika,psihologia,rassledovanie,socset
+page
+	set url https://strana.news/opinions/354978-sehodnja-blahodarja-aleksandru-usiku-slovo-ukraine-zvuchit-po-vsej-planete.html
+	set tags __sep_2021.usik.pobeda.dzhoshua,boks,obschestvo,patriotizm,pobeda,politika,sport,ukraina,usik_aleksandr
+page
+	set url https://strana.news/opinions/354951-kakim-to-udivitelnym-obrazom-usik-vpital-v-sebja-luchshie-cherty-ukrainskoho-naroda-ottorhnuv-durnoe.html
+	set tags __sep_2021.usik.pobeda.dzhoshua,pozdravlenie,usik_aleksandr
+page
+	set url https://strana.news/opinions/354974-dlja-sovremennyj-ukraintsev-heroj-novoho-vremeni-eto-usik.html
+	set tags __sep_2021.usik.pobeda.dzhoshua,boks,nadezhda,obschestvo,politika,sport,ukraina,usik_aleksandr
+page
+	set url https://strana.news/opinions/354932-milliony-mozhno-derzhat-v-strakhe-i-podchinenii-dav-ponjukhat-balandy-pare-tysjach.html
+	set tags buzina_oles,diktatura,istoria,mirotvorec_sajt,nacionalizm,obschestvo,portugalia,repressii,salazar_antoniu.diktator.portugalia,strah,ukraina,vlast,zapugivanie
+page
+	set url https://strana.news/opinions/354889-evropa-vyrashchivaet-v-ukraine-chudovishche-ultrapravoho-natsionalizma.html
+	set tags borjba,evropa,ideologia,nacionalizm,obschestvo,strana,ukraina,ultrapravyje
+page
+	set url https://strana.news/news/354992-sternenko-dohnal-i-zarezal-kuznetsova-a-potom-porezal-sebja-dlja-imitatsii-napadenija.html
+	set tags ekspertiza,murder,sternenko_sergei,sud,ubijstvo,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/09/25/7308133/
+	set tags antisemitizm,babij_jar,evrei,istoria,nacionalizm,nacizm,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/08/12/7303536/
+	set tags interview,kondratjuk_igor,muzyka,politika,ukraina
 eof
 off
 page

@@ -34772,6 +34772,12 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/08/12/7303536/
 	set tags interview,kondratjuk_igor,muzyka,politika,ukraina
+page
+	set url https://strana.news/news/354873-sbu-pytalas-vruchit-podozrenie-spetskoru-strany-antonine-belohlazovoj.html
+	set tags beloglazova_antonina.kiev.stranaua,pidozra,presledovanie,sbu,stranaua,ukraina,zhurnalist
+page
+	set url https://www.radiosvoboda.org/a/usyk-boks-krym-rosiya-viyna/31479018.html
+	set tags __sep_2021.usik.pobeda.dzhoshua,boks,maloros,pobeda,politika,sport,ukraina,usik_aleksandr
 eof
 off
 page

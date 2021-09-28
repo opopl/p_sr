@@ -34781,6 +34781,12 @@ page
 page
 	set url https://strana.news/opinions/355161-ljudi-zhelajushchie-perevospitat-usika-eto-otdelnyj-sluchaj.html
 	set tags __sep_2021.usik.pobeda.dzhoshua,boks,patriotizm,politika,sport,ukraina,usik_aleksandr,vospitanie
+page
+	set url https://strana.news/news/355264-ajder-muzhdabaev-predlozhil-szhech-dva-kontsertnykh-operatora-concertua-i-karabascom.html
+	set tags bezumie,kiev,koncert,kultura,muzhdabaev_aider,muzyka,prizyv,rossia,ukraina
+page
+	set url https://strana.news/news/355183-bilet-v-odin-konets-svetlana-krjukova-prodala-novuju-kartinu-s-zelenskim-i-ermakom.html
+	set tags afganistan,begstvo,isskustvo,kartina,krjukova_svetlana,nasmeshka,politika,prodazha,ukraina
 eof
 off
 page

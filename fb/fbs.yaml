@@ -1,4 +1,5 @@
 
+
 config:
   files:
     cookies: cookies.pkl
@@ -25,12 +26,47 @@ config:
           "geo.enabled" : false,
         }
     
-###cfg.FbPost
-  FbPost:
+###cfg.fbpost
+  fbpost:
     funcs:
       loop_prev:
         imax: 10
 
-  FBS:
+###cfg.fbpost.logging
+    logging:
+      formatter: '@app{config/fbs/logging/formatter}' 
+      file: '@app{config/fbs/logging/file}'
+
+      loggers:
+      - name: fbpost
+        level: DEBUG
+        handlers:
+        - handler: StreamHandler
+          level: INFO
+          args: []
+        - handler: FileHandler
+          level: DEBUG
+          args: [ '@app{config/logging/fbpost/file}' ]
+
+###cfg.fbs
+  fbs:
     cmds:
       run:
+
+###cfg.fbs.logging
+    logging:
+      #formatter: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+      formatter: '%(levelname)s.%(name)s %(message)s'
+  
+      file: 'fbs.log' 
+  
+      loggers:
+      - name: fbs
+        level: DEBUG
+        handlers:
+        - handler: StreamHandler
+          level: INFO
+          args: []
+        - handler: FileHandler
+          level: DEBUG
+          args: [ '@app{config/fbs/logging/file}' ]

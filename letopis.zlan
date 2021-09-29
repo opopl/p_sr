@@ -34787,6 +34787,21 @@ page
 page
 	set url https://strana.news/news/355183-bilet-v-odin-konets-svetlana-krjukova-prodala-novuju-kartinu-s-zelenskim-i-ermakom.html
 	set tags afganistan,begstvo,isskustvo,kartina,krjukova_svetlana,nasmeshka,politika,prodazha,ukraina
+page
+	set url https://strana.news/news/355286-ukraina-v-zone-oos-otmenila-zapret-na-obstrely-chto-eto-znachit.html
+	set tags donbass,peremirie,ukraina,vojna
+page
+	set url https://strana.news/opinions/355343-zapad-hotovit-v-ukraine-sily-na-svjashchennuju-vojnu-s-moskvoj.html
+	set tags rossia,ukraina,vojna,vsu,zapad
+page
+	set url https://strana.news/opinions/355276-postroennoe-na-lzhi-ne-mozhet-ustojat-dolho.html
+	set tags cenzura,kievrus,obschestvo,sssr,ukraina,vranje
+page
+	set url https://lenta.ru/articles/2021/09/29/kayak/
+	set tags chelovek,kajak,lodka,otvaga,plavanie,puteshestvie,rossia
+page
+	set url https://lug-info.com/news/bolee-30-sportsmenov-iz-lnr-i-dnr-prinyali-uchastie-v-turnire-po-bodibildingu-v-luganske
+	set tags bodibilding,donbass,lnr,lugansk,obschestvo,sorevnovanie
 eof
 off
 page

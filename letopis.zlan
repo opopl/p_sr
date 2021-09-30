@@ -34802,6 +34802,27 @@ page
 page
 	set url https://lug-info.com/news/bolee-30-sportsmenov-iz-lnr-i-dnr-prinyali-uchastie-v-turnire-po-bodibildingu-v-luganske
 	set tags bodibilding,donbass,lnr,lugansk,obschestvo,sorevnovanie
+page
+	set url https://strana.news/news/355410-babij-jar-80-let-henotsidu-evreev-i-massovym-rasstrelam-chto-hovorjat-ob-etom-sehodnja.html
+	set tags 80_let,babij_jar,bagazij_vladimir.kiev.burgomistr.oun,evrei,genocid,holokost,istoria,kiev,nacionalizm,nacizm,oun,pamjat,pamjatnik,shostakovich_dmitrij.kompozitor,ss_galichina,sssr,ukraina,vjatrovich_vladimir
+page
+	set url https://ukraina.ru/exclusive/20210929/1032350037.html
+	set tags lavra,turizm,ukraina
+page
+	set url https://ukraina.ru/history/20210929/1032353374.html
+	set tags 1941,babij_jar,evrei,genocid,holokost,istoria,kiev,mirvojna2,nacizm,okupacia,rasstrel,ukraina,vov
+page
+	set url https://ukraina.ru/history/20190221/1022773097.html
+	set tags 1942,babij_jar,istoria,kiev,nacizm,oun,rasstrel,smert,teliga_olena
+page
+	set url https://zen.yandex.ru/media/istoriko/kak-otstalyi-ulus-zolotoi-ordy-moskoviia-spas-ot-pogibeli-moscnuiu-evropeiskuiu-derjavu-ukrainu-6150f072f8c7465618188dfc
+	set tags istoria,moskovia,orda.zolotaja,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/istoriko/edinstvennaia-prichina-po-kotoroi-ukraina-snova-vossoedinitsia-s-rossiei-ekonomicheskaia-614e39ced142f311b7aff220
+	set tags ekonomika,geopolitika,rossia,ukraina,vossoedinenie
+page
+	set url https://zen.yandex.ru/media/id/5ea5eb8b65a8ef41509bb7c1/kajetsia-petr-tolstoi-uje-ne-vyderjivaet-spory-s-iakubom-ianinoi-nikulinym-kogo-hochesh-vyvedut-iz-terpeniia-61541eeb8765891a75e346db
+	set tags rossia
 eof
 off
 page

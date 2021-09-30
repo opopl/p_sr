@@ -34823,6 +34823,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ea5eb8b65a8ef41509bb7c1/kajetsia-petr-tolstoi-uje-ne-vyderjivaet-spory-s-iakubom-ianinoi-nikulinym-kogo-hochesh-vyvedut-iz-terpeniia-61541eeb8765891a75e346db
 	set tags rossia
+page
+	set url https://strana.news/opinions/355470-ukraine-predstoit-ochen-boleznennyj-etap-lomki-i-otrezvlenija.html
+	set tags narkomania,obschestvo,strana,ukraina,vengria
+page
+	set url https://analytics.hvylya.net/238370-trehkopeechnyy-stalinizm
+	set tags cenzura,fidanjan_elena,inakomyslie,istoria,nostalgia,presledovanie,sssr,stalin_jozef,stalinizm,ukraina
 eof
 off
 page

@@ -1,0 +1,14 @@
+on
+video
+	set url https://www.youtube.com/watch?v=IZ60D4Fj3uk
+	set title Быстряков: Русские жалеют нас, что мы скатились в такое дно и превращаемся в страну - бомжа. НАШ
+	set date 09_10_2020
+eof
+off
+page
+	set url 
+	set tags 
+
+	#set redo 1
+	#setlist acts
+		db_update

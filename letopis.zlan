@@ -34829,6 +34829,51 @@ page
 page
 	set url https://analytics.hvylya.net/238370-trehkopeechnyy-stalinizm
 	set tags cenzura,fidanjan_elena,inakomyslie,istoria,nostalgia,presledovanie,sssr,stalin_jozef,stalinizm,ukraina
+page
+	set url https://fraza.com/news/305781-v-upts-objasnili-otkuda-vozniklo-slovo-bog
+	set tags bog,cerkov,pravoslavie,slovo,ukraina,upc,vera
+page
+	set url https://zaxid.net/pamyatnik_z_radyanskoyu_simvolikoyu_demontuvali_u_kolomiyi_n1527248
+	set tags demontazh,istoria,kolomyja.ukraina,mirvojna2,pamjat,pamjatnik,soldat,sssr,ukraina,vov
+page
+	set url https://lug-info.com/news/lgaki-v-ramkah-proekta-estet-ob-avila-oktabr-mesacem-vladimira-dala
+	set tags dal'_vladimir,donbass,jazyk,kultura,lgaki,literatura,lnr
+page
+	set url https://lgaki.info/dostizheniya/gran-pri-mezhdunarodnogo-mnogozhanrovogo-konkursa-zavoevali-studencheskie-kollektivy-akademii-matusovskogo/
+	set tags donbass,kultura,lgaki,lnr,lugansk,pesnja,priz,studenty
+page
+	set url https://voskhodinfo.su/aktualno/68577-oni-tam-est-proschenie-ili-vozmezdie.html
+	set tags ajdar.bataljon,chelovechnost,chelovek,donbass,proschenije,ukraina,vojna,vozmezdie
+page
+	set url https://strana.news/news/355557-natssovet-po-tv-vynes-preduprezhdenie-telekanalu-dom-shcha-pokaz-v-efire-karty-rf-s-krymom.html
+	set tags krym,nacsovet,preduprezhdenie,telekanal_dom,ukraina
+page
+	set url https://strana.news/news/355454-plan-transformatsii-ukrainy-sushchestvuet-li-on-na-chto-zelenskij-khochet-potratit-227-mlrd-dollarov.html
+	set tags plan,transformacia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.news/opinions/355474-otnoshenie-k-pamjatnikam-ochen-mnohoe-hovorit-o-natsii.html
+	set tags bern.shvejcaria,demokratia,moisej,pamjatnik,shvejcaria
+page
+	set url https://www.radiosvoboda.org/a/photo-babyn-yar-vshanuvannya-pamyati/31484676.html
+	set tags babij_jar,kiev,nacizm,pamjat,ukraina
+page
+	set url https://www.radiosvoboda.org/a/slovo-o-polku-ihorevim-i-ukrayina-rus/31481960.html
+	set tags drevrus,istoria,jazyk,kievrus,literatura,mova,rossia,rusj,rusmir,slovo_o_polku_igoreve,ukraina
+page
+	set url https://www.radiosvoboda.org/a/pamyatnyk-tarasu-shevchenku-v-moskvi-1918-rik/31480253.html
+	set tags 1918,moskva,pamjatnik,rossia,shevchenko_taras
+page
+	set url https://ukraina.ru/exclusive/20210930/1032357015.html
+	set tags analitika,donbass,rossia,ukraina,vojna
+page
+	set url https://ukraina.ru/opinion/20210923/1032303523.html
+	set tags infvojna,novosti,obschestvo,rossia,ukraina
+page
+	set url https://ukraina.ru/news/20210930/1032359366.html
+	set tags gastroli,koncert,kultura,muzyka,pirozhkov_artur,rossia,sternenko_sergei,ukraina,zapret
+page
+	set url https://zen.yandex.ru/media/mamavsporte/nelzia-vystupat-bez-flaga-svoei-strany-stydno-ktoto-do-sih-por-tak-schitaet-60f02073723f61220dcacd2e
+	set tags flag.rossia,olimpiada,olimpiada.tokio,patriotizm,rossia,sport
 eof
 off
 page

@@ -34874,6 +34874,9 @@ page
 page
 	set url https://zen.yandex.ru/media/mamavsporte/nelzia-vystupat-bez-flaga-svoei-strany-stydno-ktoto-do-sih-por-tak-schitaet-60f02073723f61220dcacd2e
 	set tags flag.rossia,olimpiada,olimpiada.tokio,patriotizm,rossia,sport
+page
+	set url https://lb.ua/blog/evgen_karas/227414_sportsmeni_ukraini_naymantsi_vladi.html
+	set tags boks,patriotizm,politika,sport,titushki,ukraina,vyzov
 eof
 off
 page

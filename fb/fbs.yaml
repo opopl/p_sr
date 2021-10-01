@@ -34,8 +34,13 @@ config:
 
 ###cfg.fbpost.logging
     logging:
-      formatter: '@app{config/fbs/logging/formatter}' 
-      file: '@app{config/fbs/logging/file}'
+      formatter: '%(levelname)s.%(name)s %(message)s'
+
+      default:
+        logger: 'fbpost'
+
+      formatter: '@app{config/logging/formatter}' 
+      file: '@app{config/logging/file}'
 
       loggers:
       - name: fbpost
@@ -46,27 +51,46 @@ config:
           args: []
         - handler: FileHandler
           level: DEBUG
-          args: [ '@app{config/logging/fbpost/file}' ]
-
-###cfg.fbs
-  fbs:
-    cmds:
-      run:
-
-###cfg.fbs.logging
-    logging:
-      #formatter: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-      formatter: '%(levelname)s.%(name)s %(message)s'
-  
-      file: 'fbs.log' 
-  
-      loggers:
-      - name: fbs
+          args: [ '@app{config/fbpost/logging/file}' ]
+      - name: driver
         level: DEBUG
         handlers:
         - handler: StreamHandler
-          level: INFO
+          level: DEBUG
           args: []
         - handler: FileHandler
           level: DEBUG
-          args: [ '@app{config/fbs/logging/file}' ]
+          args: [ '@app{config/logging/file}' ]
+
+  cmds:
+    run:
+
+###cfg.logging
+  logging:
+    default:
+      logger: 'fbs'
+
+    #formatter: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    formatter: '%(levelname)s.%(name)s %(message)s'
+  
+    file: 'fbs.log' 
+  
+    loggers:
+    - name: fbs
+      level: DEBUG
+      handlers:
+      - handler: StreamHandler
+        level: INFO
+        args: []
+      - handler: FileHandler
+        level: DEBUG
+        args: [ '@app{config/logging/file}' ]
+    - name: driver
+      level: DEBUG
+      handlers:
+      - handler: StreamHandler
+        level: DEBUG
+        args: []
+      - handler: FileHandler
+        level: DEBUG
+        args: [ '@app{config/logging/file}' ]

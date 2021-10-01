@@ -1,5 +1,8 @@
 
 
+cmds:
+  run:
+
 config:
   files:
     cookies: cookies.pkl
@@ -25,45 +28,6 @@ config:
           "dom.webnotifications.enabled" : false,
           "geo.enabled" : false,
         }
-    
-###cfg.fbpost
-  fbpost:
-    funcs:
-      loop_prev:
-        imax: 10
-
-###cfg.fbpost.logging
-    logging:
-      formatter: '%(levelname)s.%(name)s %(message)s'
-
-      default:
-        logger: 'fbpost'
-
-      formatter: '@app{config/logging/formatter}' 
-      file: '@app{config/logging/file}'
-
-      loggers:
-      - name: fbpost
-        level: DEBUG
-        handlers:
-        - handler: StreamHandler
-          level: INFO
-          args: []
-        - handler: FileHandler
-          level: DEBUG
-          args: [ '@app{config/fbpost/logging/file}' ]
-      - name: driver
-        level: DEBUG
-        handlers:
-        - handler: StreamHandler
-          level: DEBUG
-          args: []
-        - handler: FileHandler
-          level: DEBUG
-          args: [ '@app{config/logging/file}' ]
-
-  cmds:
-    run:
 
 ###cfg.logging
   logging:
@@ -94,3 +58,50 @@ config:
       - handler: FileHandler
         level: DEBUG
         args: [ '@app{config/logging/file}' ]
+
+class:
+  fbpost:
+###class.fbpost
+    config:
+###class.fbpost.config
+      funcs:
+        loop_prev:
+          imax: 10
+  
+      selenium:
+        use_wire: 0
+        WebDriverWait:
+          timeout: 200
+
+###class.fbpost.config.logging
+      logging:
+        formatter: '%(levelname)s.%(name)s %(message)s'
+  
+        default:
+          logger: 'fbpost'
+  
+        formatter: '@app{config/logging/formatter}' 
+        file: '@app{config/logging/file}'
+  
+        loggers:
+        - name: fbpost
+          level: DEBUG
+          handlers:
+          - handler: StreamHandler
+            level: INFO
+            args: []
+          - handler: FileHandler
+            level: DEBUG
+            args: [ '@app{config/fbpost/logging/file}' ]
+        - name: driver
+          level: DEBUG
+          handlers:
+          - handler: StreamHandler
+            level: DEBUG
+            args: []
+          - handler: FileHandler
+            level: DEBUG
+            args: [ '@app{config/logging/file}' ]
+
+
+

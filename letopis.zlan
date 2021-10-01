@@ -34877,6 +34877,19 @@ page
 page
 	set url https://lb.ua/blog/evgen_karas/227414_sportsmeni_ukraini_naymantsi_vladi.html
 	set tags boks,patriotizm,politika,sport,titushki,ukraina,vyzov
+page
+	set url https://strana.news/news/355532-nehrazhdane-v-ukraine-chto-oznachaet-etot-status-i-kto-eho-predlahaet-vvesti.html
+	set tags grazhdanstvo,negrazhdane,nicoi_larisa,obschestvo,raskol,ravnopravie,ukraina,ukraincy
+page
+	set url https://strana.news/news/355637-v-kharkove-patrulnye-prinudili-uhrozami-zaplatit-im-vzjatku-priezzheho-iz-rossii.html
+	set tags harkov,policia,rossia,ukraina,vymogatelstvo,vzjatka
+page
+	set url https://www.pravda.com.ua/cdn/graphics/2021/losyk_fridi_ta_babyn_jar/
+	set tags babij_jar,evrei,genocid,holokost,istoria,kiev,mirvojna2,pravednik,spasenie,ukraina,vov,semja
+	set date 29_09_2021
+page
+	set url https://lug-info.com/news/vystavka-rabot-luganskih-masterov-otkrylas-v-lcnt-v-ramkah-kazach-ego-festivalya
+	set tags kazaki,kultura,lnr,lugansh,vystavka
 eof
 off
 page

@@ -34890,6 +34890,18 @@ page
 page
 	set url https://lug-info.com/news/vystavka-rabot-luganskih-masterov-otkrylas-v-lcnt-v-ramkah-kazach-ego-festivalya
 	set tags kazaki,kultura,lnr,lugansh,vystavka
+page
+	set url https://strana.news/news/355790-tysjachi-foto-i-materialy-njurnberhskoho-protsessa-k-eho-75-letnej-hodovshchine-stenford.html
+	set tags 75_let,arhiv,germania,internet,mirvojna2,nacizm,njurnberg,ocifrovka,stenogramma,tribunal,tribunal.njurnberg,universitet.usa.stenford,usa
+page
+	set url https://strana.news/news/355661-kak-v-seriale-kontakt-pokazali-bezhentsev-iz-dnr.html
+	set tags dnr,donbass,doneck,film,kultura,oskorblenie,rossia,unizhenie
+page
+	set url https://strana.news/news/355681-bloher-iz-lvova-s-nikom-khristina505-v-tiktok-nazvala-krym-rossijskim-.html
+	set tags blogger,devushka,izvinenie,krym,lvov,rossia,travlja,ukraina,video
+page
+	set url https://strana.news/opinions/355778-sozdaj-problemu-a-potom-skazhi-chto-reshish-ee-i-bud-heroem.html
+	set tags ekonomika,tarify,ukraina,vlada
 eof
 off
 page

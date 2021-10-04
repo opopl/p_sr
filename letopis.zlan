@@ -34902,6 +34902,24 @@ page
 page
 	set url https://strana.news/opinions/355778-sozdaj-problemu-a-potom-skazhi-chto-reshish-ee-i-bud-heroem.html
 	set tags ekonomika,tarify,ukraina,vlada
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/rossii-nujna-ukraina-vot-moi-argumenty-2-61500a78a1aaeb3f77a1d179
+	set tags rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5e3abbc4c1b4d37f3b3c9acb/pandemiia-nenavisti-elena-semenova-60e871e4b7171a3b1e66068e
+	set tags obschestvo,rossia,vaccinacia
+page
+	set url https://zen.yandex.ru/media/id/5e3abbc4c1b4d37f3b3c9acb/zabesovlenie-obscestva-chto-delat-elena-semenova-60a0b38fcd17c611d4de0c89
+	set tags __may_2021.rossia.kazan.shkola.tragedia,chelovek,dusha,obschestvo,psihika,rossia
+page
+	set url https://zen.yandex.ru/media/id/5e3abbc4c1b4d37f3b3c9acb/sem-let-o-neliudiah-i-nevoine-elsemenova-chastnoe-mnenie-60754bf2808c492bad9290f8
+	set tags donbass,mozgovoj_aleksei,ukraina,vojna
+page
+	set url https://zen.yandex.ru/media/id/5e72243a70e1fb013646b2f2/bokser-usik-i-krym-61537acffd357f732f813d1e
+	set tags __sep_2021.usik.pobeda.dzhoshua,boks,russkie,ukraincy,usik_aleksandr
+page
+	set url https://strana.news/opinions/355940-uchitelja-v-ukraine-nuzhno-pozhalet-za-bredovye-prohrammy-kotorye-oni-objazany-vbivat-v-holovu-detjam.html
+	set tags deti,istoria,maidan,obrazovanie,shkola,ukraina
 eof
 off
 page

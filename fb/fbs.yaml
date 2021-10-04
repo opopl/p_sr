@@ -4,17 +4,9 @@ cmds:
   run:
 
 config:
-  files:
-    cookies: cookies.pkl
 
   host2site:
     - [ 'facebook', { pat: '^(www|m)\.facebook\.com$' } ]
-  
-  url:
-    site:
-      'facebook': 
-         login: 'https://mobile.facebook.com/login.php'
-    host:
   
 ###cfg.driver
   driver:
@@ -61,6 +53,11 @@ config:
 
 class:
   fbpost:
+    files:
+      cookies: cookies.pkl
+
+    login: 'https://mobile.facebook.com/login.php'
+
 ###class.fbpost
     config:
 ###class.fbpost.config
@@ -92,7 +89,7 @@ class:
             args: []
           - handler: FileHandler
             level: DEBUG
-            args: [ '@app{config/fbpost/logging/file}' ]
+            args: [ '@app{config/logging/file}' ]
         - name: driver
           level: DEBUG
           handlers:

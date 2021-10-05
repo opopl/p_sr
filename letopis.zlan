@@ -34920,6 +34920,12 @@ page
 page
 	set url https://strana.news/opinions/355940-uchitelja-v-ukraine-nuzhno-pozhalet-za-bredovye-prohrammy-kotorye-oni-objazany-vbivat-v-holovu-detjam.html
 	set tags deti,istoria,maidan,obrazovanie,shkola,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5e3abbc4c1b4d37f3b3c9acb/kievskomu-bomondu-no-kto-vam-pravo-dal-ne-byt-liudmi-6156d8def96fe14126c2e811
+	set tags donbass,ukraina,vojna
+page
+	set url https://zen.yandex.ru/media/id/5e3abbc4c1b4d37f3b3c9acb/rossiia--eto-v-gorle-kost-u-plotoiadnyh-6136165173cb3821f6d3e7ab
+	set tags rossia
 eof
 off
 page

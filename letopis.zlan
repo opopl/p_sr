@@ -34929,6 +34929,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5e3abbc4c1b4d37f3b3c9acb/na-turbaze-v-karpatah-cikl-tak-my-jili-v-sssr-613c3b6e013c623482ce85fb
 	set tags chelovek,karpaty,otdyh,sssr,ukraina,zhizn
+page
+	set url https://strana.news/news/356124-chto-oznachajut-obvinenija-byvshej-sotrudnitsy-facebook-v-razzhihanii-nenavisti-sotssetju.html
+	set tags facebook,internet
+page
+	set url https://strana.news/news/356129-facebook-instagram-i-whatsapp-pochemu-ne-rabotajut-hlavnoe-o-sboe.html
+	set tags facebook,internet
 eof
 off
 page

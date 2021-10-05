@@ -1,10 +1,8 @@
 
-
 cmds:
   run:
 
 config:
-
   host2site:
     - [ 'facebook', { pat: '^(www|m)\.facebook\.com$' } ]
   
@@ -16,10 +14,9 @@ config:
   
     firefox:
       profile:
-        preferences: {
-          "dom.webnotifications.enabled" : false,
-          "geo.enabled" : false,
-        }
+        preferences: 
+          "dom.webnotifications.enabled" : false
+          "geo.enabled" : false
 
 ###cfg.logging
   logging:
@@ -56,12 +53,13 @@ class:
     files:
       cookies: cookies.pkl
 
-    login: 'https://mobile.facebook.com/login.php'
-
 ###class.fbpost
     config:
 ###class.fbpost.config
       funcs:
+        login: 
+          url: 'https://mobile.facebook.com/login.php'
+
         loop_prev:
           imax: 10
   

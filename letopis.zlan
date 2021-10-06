@@ -34941,6 +34941,9 @@ page
 page
 	set url https://strana.news/news/356349-sluha-naroda-kornienko-hrozitsja-zakryt-vse-domeny-na-kotorykh-pojavljaetsja-strana.html
 	set tags cenzura,internet,kornienko_aleksandr.ukr.deputat.sluga_naroda,presledovanie,rnbo,smi.ukraina,stranaua,svoboda_slova,ukraina,verhovna_rada,vlast
+page
+	set url https://www.radiosvoboda.org/a/rpts-i-oleksandr-nevskyy/31487886.html
+	set tags cerkov,istoria,nevskii_aleksandr,pravoslavie,ukraina,upc
 eof
 off
 page

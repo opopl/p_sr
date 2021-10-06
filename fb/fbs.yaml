@@ -91,9 +91,9 @@ class:
         - name: driver
           level: DEBUG
           handlers:
-          - handler: StreamHandler
-            level: DEBUG
-            args: []
+          #- handler: StreamHandler
+            #level: DEBUG
+            #args: []
           - handler: FileHandler
             level: DEBUG
             args: [ '@app{config/logging/file}' ]

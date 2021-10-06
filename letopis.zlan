@@ -34944,6 +34944,12 @@ page
 page
 	set url https://www.radiosvoboda.org/a/rpts-i-oleksandr-nevskyy/31487886.html
 	set tags cerkov,istoria,nevskii_aleksandr,pravoslavie,ukraina,upc
+page
+	set url https://zen.yandex.ru/media/schoolattestation/o-bezrazlichii-krik-dushi-611ca0baf37b8c7f6ac1cd33
+	set tags bezrazlichie,chelovechnost,deti,rossia
+page
+	set url https://strana.news/news/356450-umerla-odna-iz-babushek-vykhodivshaja-v-kieve-s-portretom-zhukova.html
+	set tags 9_may,kiev,mirvojna2,stariki,ukraina,veteran.vov,vov,zhukov_georgii
 eof
 off
 page

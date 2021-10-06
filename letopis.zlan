@@ -34938,6 +34938,9 @@ page
 page
 	set url https://strana.news/news/356228-chto-proiskhodit-s-bolnymi-koronavirusom-v-bolnitsakh-v-oktjabre-2021.html
 	set tags bolezn,covid,ukraina,zabolevajemost'
+page
+	set url https://strana.news/news/356349-sluha-naroda-kornienko-hrozitsja-zakryt-vse-domeny-na-kotorykh-pojavljaetsja-strana.html
+	set tags cenzura,internet,kornienko_aleksandr.ukr.deputat.sluga_naroda,presledovanie,rnbo,smi.ukraina,stranaua,svoboda_slova,ukraina,verhovna_rada,vlast
 eof
 off
 page

@@ -34935,6 +34935,9 @@ page
 page
 	set url https://strana.news/news/356129-facebook-instagram-i-whatsapp-pochemu-ne-rabotajut-hlavnoe-o-sboe.html
 	set tags facebook,internet
+page
+	set url https://strana.news/news/356228-chto-proiskhodit-s-bolnymi-koronavirusom-v-bolnitsakh-v-oktjabre-2021.html
+	set tags bolezn,covid,ukraina,zabolevajemost'
 eof
 off
 page

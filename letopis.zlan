@@ -34950,6 +34950,18 @@ page
 page
 	set url https://strana.news/news/356450-umerla-odna-iz-babushek-vykhodivshaja-v-kieve-s-portretom-zhukova.html
 	set tags 9_may,kiev,mirvojna2,stariki,ukraina,veteran.vov,vov,zhukov_georgii
+page
+	set url https://strana.news/news/356371-vstrecha-zelenskoho-i-putina-chto-predlahaet-rossija-12-punktov.html
+	set tags donbass,kreml,peregovory,politika,putin_vladimir,rossia,ukraina,vojna,vstrecha,zelenskii_vladimir
+page
+	set url https://lug-info.com/news/luganskij-teatr-v-ramkah-proekta-kul-turnaa-sreda-predstavil-tvorcestvo-poetov-xx-veka
+	set tags donbass,kultura,lardt,lnr,lugansh,poezia
+page
+	set url https://lug-info.com/news/sistema-obrazovaniya-lnr-v-otlichie-ot-ukrainy-privivaet-navyki-chelovechnosti-uchenyj
+	set tags chelovechnost,lnr,obrazovanie,ukraina
+page
+	set url https://blogs.pravda.com.ua/authors/popov/615dd36b127ac/
+	set tags identichnost',nacia,socopros,ukraina
 eof
 off
 page

@@ -34962,6 +34962,12 @@ page
 page
 	set url https://blogs.pravda.com.ua/authors/popov/615dd36b127ac/
 	set tags identichnost',nacia,socopros,ukraina
+page
+	set url https://zen.yandex.ru/media/recononline/gorod-pro-kotoryi-my-zabyli-kak-chernigov-perestal-byt-russkim-60ad23e654881146f41424e9
+	set tags chernigov,istoria,rossia,rusmir,ukraina,vkl
+page
+	set url https://ukraina.ru/news/20211007/1032405077.html
+	set tags rossia,ukraina,varum_anzhelika.pevica
 eof
 off
 page

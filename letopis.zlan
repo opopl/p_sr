@@ -34974,6 +34974,9 @@ page
 page
 	set url https://lug-info.com/news/voennyj-ansambl-narodnoj-milicii-lnr-prezentoval-klip-na-pesnu-donbass-za-nami
 	set tags donbass,lnr,lugansk,pesnja,vojna
+page
+	set url https://zen.yandex.ru/media/h4gen/dve-pobedy-i-odno-porajenie-chto-meshaet-rossii-razvivatsia-60e3dbad21f45644dfae597c
+	set tags istoria,narod,rossia
 eof
 off
 page

@@ -34971,6 +34971,9 @@ page
 page
 	set url https://strana.news/news/356536-honcharenko-vystupil-v-rade-i-napomnil-o-dne-rozhdenija-vladimira-putina.html
 	set tags birthday,goncharenko_alexei,oskorblenie,pesnja,putin_vladimir,rossia,ukraina,verhovna_rada
+page
+	set url https://lug-info.com/news/voennyj-ansambl-narodnoj-milicii-lnr-prezentoval-klip-na-pesnu-donbass-za-nami
+	set tags donbass,lnr,lugansk,pesnja,vojna
 eof
 off
 page

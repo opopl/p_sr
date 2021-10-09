@@ -34983,6 +34983,18 @@ page
 page
 	set url https://analytics.hvylya.net/239068-zamysel-ukrainskogo-gosudarstva-socialnost-samodostatochnost-nezavisimost-chetvertaya-chast
 	set tags future,gosudarstvo,identichnost',ideologia,obschestvo,strategia,ukraina
+page
+	set url https://strana.news/news/356752-v-moskve-sotrudniki-posolstva-ssha-ukrali-rjukzak-u-psikholoha-video.html
+	set tags krazha,kriminal,morpeh,moskva,rossia,usa
+page
+	set url https://zen.yandex.ru/media/zapiskiputeshestvennika/u-rossii-tri-stolicy-vecherniaia-riazan-60fc6a5ab58324630f82f866
+	set tags istoria,rjazan.gorod,rossia
+page
+	set url https://zen.yandex.ru/media/id/60b2c12d5dfc027318749610/pochemu-rus-nazyvaiut-kievskoi-ili-drevnei-6144b1db5326d77baf4abf2e
+	set tags drevrus,istoria,kievrus,rossia,rus',rusj,rusmir
+page
+	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/razmyshleniia-o-polete-v-kosmos-iulii-peresild-615f183decd01d5f474177e2
+	set tags film,kosmos,kultura,rossia
 eof
 off
 page

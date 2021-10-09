@@ -34995,6 +34995,15 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/razmyshleniia-o-polete-v-kosmos-iulii-peresild-615f183decd01d5f474177e2
 	set tags film,kosmos,kultura,rossia
+page
+	set url https://studrespublika.com/buty-razom/
+	set tags future,myshlenie,obschestvo,strana,ukraina
+page
+	set url https://lug-info.com/news/molodezhnyj-parlament-provel-v-luganske-trenirovku-v-ramkah-proekta-zdorovaya-naciya
+	set tags donbass,lnr,lugansh,molodezh,molodezh_parlament.lnr,sport,zdorovje
+page
+	set url https://lug-info.com/comments/uchastniki-festivalya-zvezdy-nad-donbassom-eto-fantasticheski-yarko
+	set tags dnr,donbass,doneck,fantastika,festival,kniga,kultura,literatura
 eof
 off
 page

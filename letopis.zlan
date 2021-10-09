@@ -34977,6 +34977,12 @@ page
 page
 	set url https://zen.yandex.ru/media/h4gen/dve-pobedy-i-odno-porajenie-chto-meshaet-rossii-razvivatsia-60e3dbad21f45644dfae597c
 	set tags istoria,narod,rossia
+page
+	set url https://strana.news/news/356609-nardep-anton-poljakov-najden-mertvym.html
+	set tags __oct_2021.smert.poljakov_anton.deputat
+page
+	set url https://analytics.hvylya.net/239068-zamysel-ukrainskogo-gosudarstva-socialnost-samodostatochnost-nezavisimost-chetvertaya-chast
+	set tags future,gosudarstvo,identichnost',ideologia,obschestvo,strategia,ukraina
 eof
 off
 page

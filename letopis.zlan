@@ -35007,6 +35007,9 @@ page
 page
 	set url https://lenta.ru/articles/2021/10/11/algorithm_1/
 	set tags algoritm,facebook,internet,socset
+page
+	set url https://www.kommersant.ru/doc/5028300
+	set tags __oct_2021.statja.medvedev.ukraina,diplomatia,geopolitika,medvedev_dmitrij,nato,rossia,statja,ukraina,usa
 eof
 off
 page

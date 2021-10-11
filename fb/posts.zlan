@@ -162,7 +162,6 @@ page
 	set ii mova_uvazhenie_vrazhda
 	set title Когда я учился в школе, украинский язык был языком уважения и любви
 	set author_id dobkin_mihail
-on
 page
 	set url https://www.facebook.com/groups/326328151119372/posts/1368370746915102
 	set ii latinica
@@ -170,6 +169,14 @@ page
 	set tags danilov_aleksei,istoria,jazyk,kievrus,kultura,latinica,moskovia,mova,novgorod,pismennost',rnbo,rossia,ukraina
 	set title Ідея переходу на латиницю не лише абсурдна, але й антинаціональна
 	set author_id redchenko_aleksej
+on
+page
+	set url https://www.facebook.com/groups/story.kiev.ua/posts/1771609139702546
+	set ii gruppa
+	set date 10_10_2021
+	set tags chelovek,facebook,gorod,kiev,obschestvo,ukraina,zhizn
+	set title Сегодня, спустя почти 4 года, мы приняли в ряды нашего сообщества 100 000 участника!
+	set author_id koval_oleg
 eof
 off
 page

@@ -35010,6 +35010,33 @@ page
 page
 	set url https://www.kommersant.ru/doc/5028300
 	set tags __oct_2021.statja.medvedev.ukraina,diplomatia,geopolitika,medvedev_dmitrij,nato,rossia,statja,ukraina,usa
+page
+	set url https://blogs.pravda.com.ua/authors/shkrum/61603526a87d4/
+	set tags __oct_2021.smert.poljakov_anton.deputat,obschestvo,razdelenie,smert,ukraina,verhovna_rada,vrazhda
+page
+	set url https://lug-info.com/news/lgaki-priglasaet-na-vystavku-rabot-zasluzennogo-hudoznika-lnr-pavla-borisenko
+	set tags borisenko_pavel.lnr.hudozhnik,hudozhnik,lgaki,lnr,lugansh,vystavka
+page
+	set url https://lug-info.com/news/aktivisty-blagoustroili-detskuyu-sportivnuyu-ploshadku-luganskogo-uvo-vostok
+	set tags aktivist,blagoustrojstvo,lnr,mir_luganschine,sport
+page
+	set url https://strana.news/news/356918-v-rossii-srazu-34-cheloveka-umerli-posle-otravlenija-surrohatnym-alkoholem.html
+	set tags alkogol,otravlenie,rossia,smert,tragedia
+page
+	set url https://strana.news/news/357011-v-ukraine-mezhoblastnye-perevozki-razreshili-tolko-vaktsinirovannym-passazhiram.html
+	set tags covid,transport,ukraina
+page
+	set url https://strana.news/news/357019-taksis-poljakova-iznachalno-dal-lozhnye-pokazanija-no-eho-za-eto-ne-bili.html
+	set tags __oct_2021.smert.poljakov_anton.deputat,ukraina
+page
+	set url https://strana.news/news/356951-v-chernihove-11-oktjabrja-proshchajutsja-s-nardepom-antonom-poljakovym.html
+	set tags __oct_2021.smert.poljakov_anton.deputat,pohoron,poljakov_anton.ukr.deputat,ukraina
+page
+	set url https://strana.news/news/356948-ksenija-sobchak-vyzhila-v-smertelnom-dtp-vinu-poneset-voditel-vyekhavshij-na-vstrechku.html
+	set tags __oct_2021.sobchak_ksenia.dtp.rossia,rossia,sobchak_ksenia
+page
+	set url https://strana.news/news/356949-statja-medvedeva-ob-ukraine-chto-ona-oznachaet.html
+	set tags __oct_2021.medvedev.statja,medvedev_dmitrij,rossia,statja,ukraina
 eof
 off
 page

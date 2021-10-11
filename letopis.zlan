@@ -35004,6 +35004,9 @@ page
 page
 	set url https://lug-info.com/comments/uchastniki-festivalya-zvezdy-nad-donbassom-eto-fantasticheski-yarko
 	set tags dnr,donbass,doneck,fantastika,festival,kniga,kultura,literatura
+page
+	set url https://lenta.ru/articles/2021/10/11/algorithm_1/
+	set tags algoritm,facebook,internet,socset
 eof
 off
 page

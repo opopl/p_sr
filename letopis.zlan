@@ -35079,6 +35079,9 @@ page
 page
 	set url https://strana.news/news/357095-anton-poljakov-novye-vazhnye-podrobnosti-smerti-narodnoho-deputata.html
 	set tags __oct_2021.smert.poljakov_anton.deputat,poljakov_anton.ukr.deputat
+page
+	set url https://ukraina.ru/opinion/20211012/1032446207.html
+	set tags maidan,obschestvo,ukraina
 eof
 off
 page

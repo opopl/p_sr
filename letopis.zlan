@@ -35061,6 +35061,24 @@ page
 page
 	set url https://analytics.hvylya.net/239454-bezrodnye-kosmopolity-medvedev-i-antisemitizm
 	set tags __oct_2021.medvedev.statja,medvedev_dmitrij,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/politinteres/novgorod-vystavil-ogromnoe-voisko-protiv-moskvy-no-poterpel-razgrom-kak-eto-obiasniaet-gumilev-612289f779caa304e0122ae0
+	set tags 1471,istoria,moskva,novgorod,rossia
+page
+	set url https://zen.yandex.ru/media/id/6131c6936831e3619ffd0ab0/prorochestva-drevnih-slavian-ob-unichtojenii-sobstvennoi-very-prihode-messii-i-sudbe-rusi-6150763fbd8bbb2972ce948a
+	set tags slavjane
+page
+	set url https://zen.yandex.ru/media/id/60aa58bc214d452cb22d9f80/versii-proishojdeniia-nazvaniia-moskvy-616146aaa493184ae1773231
+	set tags moskva
+page
+	set url https://zen.yandex.ru/media/id/6068c789b207860379f72bee/mir-ognennyi-615c0a375a4edb15f46e0add
+	set tags chelovek
+page
+	set url https://zen.yandex.ru/media/mem/loj-ukraincev-pro-sovetskii-penicillin-613dfd437dc92c2a424f2b58
+	set tags antibiotik,istoria,medicina,nauka,penicillin,sssr,vov
+page
+	set url https://strana.news/news/357095-anton-poljakov-novye-vazhnye-podrobnosti-smerti-narodnoho-deputata.html
+	set tags __oct_2021.smert.poljakov_anton.deputat,poljakov_anton.ukr.deputat
 eof
 off
 page

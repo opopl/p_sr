@@ -35037,6 +35037,9 @@ page
 page
 	set url https://strana.news/news/356949-statja-medvedeva-ob-ukraine-chto-ona-oznachaet.html
 	set tags __oct_2021.medvedev.statja,medvedev_dmitrij,rossia,statja,ukraina
+page
+	set url https://strana.news/news/357070-epidemija-v-ukraine-statistika-zarazhenij-na-12-oktjabrja-2021-hoda.html
+	set tags bolezn,covid,pandemia,statistika,ukraina,vaccinacia,vaccine
 eof
 off
 page

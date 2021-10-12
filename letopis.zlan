@@ -35082,6 +35082,9 @@ page
 page
 	set url https://ukraina.ru/opinion/20211012/1032446207.html
 	set tags maidan,obschestvo,ukraina
+page
+	set url https://strana.news/news/357098--kak-budut-rabotat-novye-karantinnye-pravila-na-transporte.html
+	set tags covid,karantin,transport,ukraina
 eof
 off
 page

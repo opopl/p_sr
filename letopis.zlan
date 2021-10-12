@@ -35040,6 +35040,21 @@ page
 page
 	set url https://strana.news/news/357070-epidemija-v-ukraine-statistika-zarazhenij-na-12-oktjabrja-2021-hoda.html
 	set tags bolezn,covid,pandemia,statistika,ukraina,vaccinacia,vaccine
+page
+	set url https://strana.news/news/357071-komarovskij-schitaet-chto-poljakova-khoteli-ne-ubit-a-napuhat.html
+	set tags __oct_2021.smert.poljakov_anton.deputat,alkogol,komarovskii_evgenii,metadon.preparat.medicina,poljakov_anton.ukr.deputat,ukraina
+page
+	set url https://strana.news/news/356864-karantin-v-ukraine-oranzhevoj-zone-karantina-sootvetstvujut-16-oblastej.html
+	set tags covid,karantin,pandemia,ukraina,zabolevajemost'
+page
+	set url https://zen.yandex.ru/media/russos/cerkov-pokrova-na-nerli-dva-fakta-kotorye-menia-udivili-6127767734904f0a2ebf6e8c
+	set tags arhitektura,hram,istoria,pokrov_na_nerli,rossia,zodchestvo
+page
+	set url https://lenta.ru/articles/2021/10/11/torture/
+	set tags fsin.rossia,pytka,rossia,tjurma
+page
+	set url https://lenta.ru/articles/2021/10/10/semipalatinskii_poligon/
+	set tags 1961,bomba.jadernaja,fizika,istoria,kurchatov.gorod,kurchatov_igor.fizik.sssr,semipalatinsk,sssr,vzryv.jadernyj
 eof
 off
 page

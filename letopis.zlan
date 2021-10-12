@@ -35055,6 +35055,9 @@ page
 page
 	set url https://lenta.ru/articles/2021/10/10/semipalatinskii_poligon/
 	set tags 1961,bomba.jadernaja,fizika,istoria,kurchatov.gorod,kurchatov_igor.fizik.sssr,semipalatinsk,sssr,vzryv.jadernyj
+page
+	set url https://odnarodyna.org/article/zhiteley-ukrainy-dushat-movoy
+	set tags jazyk,mova,ukraina,ukrainizacia
 eof
 off
 page

@@ -35088,6 +35088,9 @@ page
 page
 	set url https://analytics.hvylya.net/239458-dmitriy-medvedev-podvodit-kiev-k-mysli-pochemu-bessmyslenny-peregovory-s-moskvoy
 	set tags __oct_2021.medvedev.statja,medvedev_dmitrij,rossia,ukraina
+page
+	set url https://lug-info.com/news/mirotvorec-vnes-yunuyu-luganchanku-v-bazu-tak-kak-ona-smeet-tvorit-v-donbasse-pisatel
+	set tags donbass,kultura,literatura,lnr,mirotvorec_sajt,presledovanie,savenkova_faina,travlja,ukraina
 eof
 off
 page

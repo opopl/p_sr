@@ -35124,6 +35124,15 @@ page
 page
 	set url https://inosmi.ru/social/20210927/250582229.html
 	set tags __sep_2021.usik.pobeda.dzhoshua
+page
+	set url https://voskhodinfo.su/aktualno/71136-tragedija-donbassa.html
+	set tags 2014,donbass,lugansk,vojna
+page
+	set url https://voskhodinfo.su/panorama/ideologiya/71141-oni-tam-est-obrechennye-na-vosstanie.html
+	set tags donbass,ukraina,vojna
+page
+	set url https://voskhodinfo.su/panorama/ideologiya/70409-pochemu-vse-verjat-v-fejki-pro-ukrainu.html
+	set tags bezumie,fejk,nezalezhnist,obschestvo,strana,svidomia,ukraina
 eof
 off
 page

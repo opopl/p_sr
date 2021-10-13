@@ -35112,6 +35112,18 @@ page
 page
 	set url https://strana.today/news/354468-rossijskij-futbolnyj-trener-khokhlov-budet-suditsja-s-facebook.html
 	set tags facebook,hohlov_dmitrij.rossia.futbolist,internet,sud
+page
+	set url https://strana.news/news/357282-batko-nash-bandera-kak-v-ukrainskikh-shkolakh-nachali-pet-khity-ultrapravykh.html
+	set tags bandera_stepan,deti,nacionalizm,pesnja,shkola,tualet,ukraina
+page
+	set url https://strana.news/news/357326-skonchalsja-84-letnij-eks-direktor-chaes-brjukhanov-pri-kotorom-proizoshla-katastrofa.html
+	set tags 1986,brjuhanov_viktor.direktor.chaes,chaes,chernobyl,smert,sssr,ukraina
+page
+	set url https://strana.news/news/357176-v-poltavskoj-oblasti-politsejskie-iznasilovali-beremennuju-zhenshchinu.html
+	set tags iznasilovanie,policia,poltava_oblast,ukraina
+page
+	set url https://inosmi.ru/social/20210927/250582229.html
+	set tags __sep_2021.usik.pobeda.dzhoshua
 eof
 off
 page

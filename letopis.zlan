@@ -35109,6 +35109,9 @@ page
 page
 	set url https://strana.news/news/357308-v-ssha-vedut-rassledovanie-v-otnoshenii-amerikantsev-za-voennye-prestuplenija-na-donbasse.html
 	set tags pravyj_sektor,rassledovanie,ukraina,usa
+page
+	set url https://strana.today/news/354468-rossijskij-futbolnyj-trener-khokhlov-budet-suditsja-s-facebook.html
+	set tags facebook,hohlov_dmitrij.rossia.futbolist,internet,sud
 eof
 off
 page

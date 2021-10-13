@@ -35091,6 +35091,9 @@ page
 page
 	set url https://lug-info.com/news/mirotvorec-vnes-yunuyu-luganchanku-v-bazu-tak-kak-ona-smeet-tvorit-v-donbasse-pisatel
 	set tags donbass,kultura,literatura,lnr,mirotvorec_sajt,presledovanie,savenkova_faina,travlja,ukraina
+page
+	set url https://strana.news/news/357256-ukrainskie-shkolniki-perevospityvajut-uchitelej-pesnej-batko-nash-bandera.html
+	set tags bandera,deti,pesnja,shkola,tiktok,ukraina
 eof
 off
 page

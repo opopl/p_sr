@@ -35094,6 +35094,21 @@ page
 page
 	set url https://strana.news/news/357256-ukrainskie-shkolniki-perevospityvajut-uchitelej-pesnej-batko-nash-bandera.html
 	set tags bandera,deti,pesnja,shkola,tiktok,ukraina
+page
+	set url http://slovoprosvity.org/2021/10/04/mykola-kul-chyns-kyy-spadaiut-dukhovni-puta-z-ukraintsiv/
+	set tags nezalezhnist,ukraina
+page
+	set url https://strana.news/news/357259-studenty-v-ivano-frankovske-zanjalis-seksom-vo-vremja-lektsii-video.html
+	set tags ivano_frankivsk,lekcia,molodezh,seks,ukraina
+page
+	set url https://strana.news/news/357141-marsh-veteranov-14-oktjabrja-v-kieve-cheho-ot-neho-zhdat-v-2021-hodu.html
+	set tags 14_oct,kiev,marsh,nacionalizm,nackorpus,patriotizm,prazdnik.pokrova,ukraina,upa
+page
+	set url https://zen.yandex.ru/media/id/5ece4e6f4ee7871db02386df/razmyshleniia-o-polete-peresild-61654384aa245b3197149cbc
+	set tags film,kosmos,peresild_julia.rossia.aktrisa,rossia
+page
+	set url https://strana.news/news/357308-v-ssha-vedut-rassledovanie-v-otnoshenii-amerikantsev-za-voennye-prestuplenija-na-donbasse.html
+	set tags pravyj_sektor,rassledovanie,ukraina,usa
 eof
 off
 page

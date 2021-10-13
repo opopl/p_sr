@@ -35085,6 +35085,9 @@ page
 page
 	set url https://strana.news/news/357098--kak-budut-rabotat-novye-karantinnye-pravila-na-transporte.html
 	set tags covid,karantin,transport,ukraina
+page
+	set url https://analytics.hvylya.net/239458-dmitriy-medvedev-podvodit-kiev-k-mysli-pochemu-bessmyslenny-peregovory-s-moskvoy
+	set tags __oct_2021.medvedev.statja,medvedev_dmitrij,rossia,ukraina
 eof
 off
 page

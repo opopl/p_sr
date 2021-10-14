@@ -35169,6 +35169,9 @@ page
 page
 	set url https://strana.news/news/357365-marsh-natsionalistov-na-den-zashchitnika-ukrainy-obnovljaetsja.html
 	set tags 14_oct,marsh,nacionalizm,ukraina,upa
+page
+	set url https://www.44.ua/news/3229587/monumentalnoe-barokko-istoria-andreevskoj-cerkvi-v-kieve-foto
+	set tags cerkov.kiev.andreevskaja,gorod,istoria,kiev
 eof
 off
 page

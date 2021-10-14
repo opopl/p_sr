@@ -35172,6 +35172,18 @@ page
 page
 	set url https://www.44.ua/news/3229587/monumentalnoe-barokko-istoria-andreevskoj-cerkvi-v-kieve-foto
 	set tags cerkov.kiev.andreevskaja,gorod,istoria,kiev
+page
+	set url https://zaxid.net/u_tenetah_postpravdi_n1528191
+	set tags obschestvo,postpravda,pravda,ukraina
+page
+	set url https://zaxid.net/u_psihologiyi_zyavivsya_noviy_termin__maniyaki_sotsmerezh_n1528017
+	set tags chelovek,facebook,internet,manjak,psihika,psihologia,socset
+page
+	set url https://lug-info.com/media/otkrytie-vystavki-luchiki-dobra-lugansk-12-oktyabrya-2021-goda
+	set tags deti,dobro,donbass,lnr,lugansk,vystavka
+page
+	set url https://zaxid.net/za_zakonami_virtualnogo_chasu_n1526856
+	set tags internet
 eof
 off
 page

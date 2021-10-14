@@ -35133,6 +35133,27 @@ page
 page
 	set url https://voskhodinfo.su/panorama/ideologiya/70409-pochemu-vse-verjat-v-fejki-pro-ukrainu.html
 	set tags bezumie,fejk,nezalezhnist,obschestvo,strana,svidomia,ukraina
+page
+	set url https://voskhodinfo.su/panorama/ideologiya/68840-sredstvom-ot-mrakobesiya-mozhet-byt-tolko-vnyatnaya-ideologiya.html
+	set tags chelovek,chtenie,ideologia,mrakobesie,obrazovanie,obschestvo
+page
+	set url https://strana.news/news/357342-faina-savenkova-12-letnjuju-pisatelnitsu-iz-luhanska-vnesli-na-mirotvorets.html
+	set tags donbass,lnr,lugansk,mirotvorec_sajt,oon,savenkova_faina,ukraina,vojna,vsu
+page
+	set url https://strana.news/news/345299-maksima-nazarova-vnesli-na-mirotvorets.html
+	set tags mirotvorec_sajt,nazarov_maks.tv.ukr,ukraina
+page
+	set url https://strana.news/news/345072-v-baze-mirotvortsa-uzhe-pochti-chetvert-milliona-chelovek.html
+	set tags mirotvorec_sajt,ukraina
+page
+	set url https://strana.news/opinions/339974-po-evropejskim-merkam-sajt-mirotvorets-srednevekovaja-zhut.html
+	set tags evropa,mirotvorec_sajt,srednevekovie,ukraina
+page
+	set url https://strana.news/news/357349-mezhkontinentalnoe-hiperzvukovoe-oruzhie-rossii-uzhe-nakhoditsja-na-boevom-dezhurstve.html
+	set tags oruzhie,oruzhie.giperzvuk,putin_vladimir,rossia
+page
+	set url https://www.radiosvoboda.org/a/ukrayinski-kozatski-tserkvy-rosiya/31502150.html
+	set tags arhitektura,istoria,kazaki,ukraina
 eof
 off
 page

@@ -35157,6 +35157,18 @@ page
 page
 	set url https://strana.news/news/357348-pik-smertnosti-ot-koronavirusa-opravdannyj-maksim-stepanov-ukrainskie-tajny-nuland.html
 	set tags mid.ukraina,mzs,poklonskaja_natalia,rossia,ukraina,vozmuschenie
+page
+	set url https://strana.news/news/357434-hlavnye-vyvody-iz-shestvija-natsionalistov-v-kieve-14-oktjabrja.html
+	set tags 14_oct,kiev,marsh,nacionalizm,ukraina,upa
+page
+	set url https://strana.news/news/357428-uchastnik-marsha-natsionalistov-vykriknul-antisemitskij-lozunh.html
+	set tags antisemitizm,kiev,marsh,nacionalizm,ukraina,upa
+page
+	set url https://strana.news/news/262422-v-kalushe-nahradili-veterana-divizii-ss-poluchaja-nahradu-tot-zihanul.html
+	set tags kalush.ukraina,nacionalizm,nagrazhdenie,ss_galichina,ukraina
+page
+	set url https://strana.news/news/357365-marsh-natsionalistov-na-den-zashchitnika-ukrainy-obnovljaetsja.html
+	set tags 14_oct,marsh,nacionalizm,ukraina,upa
 eof
 off
 page

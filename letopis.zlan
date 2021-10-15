@@ -35208,9 +35208,14 @@ page
 page
 	set url https://www.radiosvoboda.org/a/okupovanyy-krym-propahanda/31509702.html
 	set tags 2014,krym,rossia,ukraina,vezhlivost',vezhlivyje_ljudi
+off
 page
 	set url https://censor.net/ua/resonance/379570/yak_rosiyiski_viyiska_zahopyly_krym_27_lyutogo_2014_roku_tsytaty_rosiyiskyh_viyiskovyh_i_mistsevyh_zradnykiv
 	set tags girkin_igor,krym,krym.2014.hronika,rossia,ukraina
+on
+page
+	set url https://strana.news/news/357469-vladimir-zelenskij-vystupil-s-rechju-ko-dnju-zashchitnika-ukrainy-v-mariupole.html
+	set tags den.zaschitnika.ukrainy,prazdnik,ukraina,zelenskii_vladimir
 eof
 off
 page

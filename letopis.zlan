@@ -35216,6 +35216,15 @@ on
 page
 	set url https://strana.news/news/357469-vladimir-zelenskij-vystupil-s-rechju-ko-dnju-zashchitnika-ukrainy-v-mariupole.html
 	set tags den.zaschitnika.ukrainy,prazdnik,ukraina,zelenskii_vladimir
+page
+	set url https://strana.news/news/357356-frantsuzskaja-senator-hule-zajavila-o-vnesudebnykh-raspravakh-s-smi-v-ukraine.html
+	set tags francia,guzhva_igor,stranaua,svoboda_slova
+page
+	set url https://strana.news/news/357086-v-kieve-oborvali-bilbordy-popavshikh-pod-sanktsii-snbo-ukrainskikh-smi-.html
+	set tags cenzura,es,kiev,protest,smi.ukraina,svoboda_slova,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/10/15/7310504/
+	set tags obschestvo,raskol,ukraina,zelenskii_vladimir
 eof
 off
 page

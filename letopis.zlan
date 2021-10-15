@@ -35196,6 +35196,21 @@ page
 page
 	set url https://strana.news/news/357455-pevitse-pelahee-zapretili-vezd-v-ukrainu.html
 	set tags kultura,pelageja.pevica.rossia,rossia,ukraina,zapret
+page
+	set url https://strana.news/news/357494-ukraina-otreahirovala-na-vkljuchenie-kryma-vo-vserossijskuju-perepis-naselenija.html
+	set tags krym,perepis,protest,rossia,ukraina
+page
+	set url https://ukraina.ru/exclusive/20211014/1032463681.html
+	set tags galan_jaroslav,istoria,nacionalizm,ukraina,upa
+page
+	set url https://zen.yandex.ru/media/cyrillitsa.ru/kak-na-samom-dele-nazyvali-sebia-russkie-do-serediny-xix-veka-610390b6b320db6f2047b0c4
+	set tags russkie
+page
+	set url https://www.radiosvoboda.org/a/okupovanyy-krym-propahanda/31509702.html
+	set tags 2014,krym,rossia,ukraina,vezhlivost',vezhlivyje_ljudi
+page
+	set url https://censor.net/ua/resonance/379570/yak_rosiyiski_viyiska_zahopyly_krym_27_lyutogo_2014_roku_tsytaty_rosiyiskyh_viyiskovyh_i_mistsevyh_zradnykiv
+	set tags girkin_igor,krym,krym.2014.hronika,rossia,ukraina
 eof
 off
 page

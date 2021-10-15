@@ -35225,6 +35225,9 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/10/15/7310504/
 	set tags obschestvo,raskol,ukraina,zelenskii_vladimir
+page
+	set url https://strana.news/news/357552--v-mid-kabo-verde-otreahirovali-na-vozmozhnost-kieva-dobitsja-ekstraditsii-poklonskoj.html
+	set tags kabo_verde,poklonskaja_natalia,rossia,ukraina
 eof
 off
 page

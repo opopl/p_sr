@@ -35228,6 +35228,9 @@ page
 page
 	set url https://strana.news/news/357552--v-mid-kabo-verde-otreahirovali-na-vozmozhnost-kieva-dobitsja-ekstraditsii-poklonskoj.html
 	set tags kabo_verde,poklonskaja_natalia,rossia,ukraina
+page
+	set url https://news-front.info/2017/02/20/kak-ekstremisty-ubivali-krymchan-antimajdanovtsev/
+	set tags 20.02.2014,2014,__feb_2014.korsunj.ukraina.napadenie.avtobus,antimaidan,krym,maidan2,simferopol,ukraina
 eof
 off
 page

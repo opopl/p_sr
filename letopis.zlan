@@ -35231,6 +35231,18 @@ page
 page
 	set url https://news-front.info/2017/02/20/kak-ekstremisty-ubivali-krymchan-antimajdanovtsev/
 	set tags 20.02.2014,2014,__feb_2014.korsunj.ukraina.napadenie.avtobus,antimaidan,krym,maidan2,simferopol,ukraina
+page
+	set url https://strana.news/news/357698-za-iskljuchenie-iz-sanktsionnykh-spiskov-snbo-prosjat-ohromnye-denhi.html
+	set tags danilov_aleksei,krjukova_svetlana,rnbo,sankcii,ukraina,vor_v_zakone
+page
+	set url https://strana.news/news/356251-na-kyiv-global-summit-2021-svetlana-krjukova-rasskazala-o-raspravakh-snbo-nad-smi.html
+	set tags cenzura,kiev,krjukova_svetlana,rnbo,sankcii,ukraina,vystuplenie
+page
+	set url https://strana.news/articles/357717-kak-ukrainskij-sud-vzbuntovalsja-protiv-posolstva-ssha.html
+	set tags inostrancy,kiev,oask,sud,ukraina
+page
+	set url https://strana.news/news/357725-missija-obse-na-donbasse-priostanavlivaet-rabotu-iz-za-protestov.html
+	set tags doneck,obse,protest,sckk,ukraina,vojna
 eof
 off
 page

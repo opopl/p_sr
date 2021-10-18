@@ -35243,6 +35243,12 @@ page
 page
 	set url https://strana.news/news/357725-missija-obse-na-donbasse-priostanavlivaet-rabotu-iz-za-protestov.html
 	set tags doneck,obse,protest,sckk,ukraina,vojna
+page
+	set url https://strana.news/news/357762-vozle-posolstva-ssha-vysadili-alleju-svobody-slova-imeni-tarasa-protsjuka.html
+	set tags akcia,cenzura,derevo,kiev,posolstvo_usa.kiev,protest,stranaua,svoboda_slova,ukraina
+page
+	set url https://analytics.hvylya.net/239760-ne-bud-kak-narciss-a-bud-kak-sokrat
+	set tags chelovek,narciss,narcissizm,obschestvo,sokrat
 eof
 off
 page

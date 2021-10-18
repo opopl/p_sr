@@ -35249,6 +35249,15 @@ page
 page
 	set url https://analytics.hvylya.net/239760-ne-bud-kak-narciss-a-bud-kak-sokrat
 	set tags chelovek,narciss,narcissizm,obschestvo,sokrat
+page
+	set url https://analytics.hvylya.net/239847-zamysel-ukrainskogo-gosudarstva-socialnost-samodostatochnost-nezavisimost-pyataya-chast
+	set tags gosudarstvo,nezalezhnist,psihologia,ukraina,ukraincy
+page
+	set url https://strana.news/opinions/357797-hlava-ukrainskoho-mid-nerovno-dyshit-k-natale-poklonskoj.html
+	set tags afrika,diplomatia,kabo_verde,kuleba_dmitrii,mid.ukraina,poklonskaja_natalia,rossia,ukraina,vozmuschenie
+page
+	set url https://gazeta.ua/blog/55903/stattya-medvedyeva-trivozhnij-signal-dlya-svitu-rosiya-ne-maye-namiru-zhiti-mirno
+	set tags __oct_2021.medvedev.statja,medvedev_dmitrij,rossia,statja,ukraina
 eof
 off
 page

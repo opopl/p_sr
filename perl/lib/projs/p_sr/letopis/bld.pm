@@ -26,6 +26,10 @@ sub init {
     my $h = {
         trg_list => [qw(usual)],
         tex_exe  => 'pdflatex',
+        callbacks => {
+          maker => {
+          }
+        },
     };
 
     hash_inject($self, $h);

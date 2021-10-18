@@ -35258,6 +35258,9 @@ page
 page
 	set url https://gazeta.ua/blog/55903/stattya-medvedyeva-trivozhnij-signal-dlya-svitu-rosiya-ne-maye-namiru-zhiti-mirno
 	set tags __oct_2021.medvedev.statja,medvedev_dmitrij,rossia,statja,ukraina
+page
+	set url https://strana.news/news/357779-blokada-missii-obse-na-donbasse-i-zakhvat-andreja-kosjaka-chto-eto-oznachaet.html
+	set tags __oct_2021.kosjak_andrej.lnr.plenenie,dnr,donbass,doneck,kosjak_andrej.lnr.sckk.oficer,linia_soprikosnovenia,lnr,obse,plen,protest,sbu,skandal,ukraina,vojna,zona.razvedenia
 eof
 off
 page

@@ -35295,6 +35295,12 @@ page
 page
 	set url https://zen.yandex.ru/media/pensioneri/kak-vse-bylo-v-krymu-v-2014-godu-kogda-on-snova-stal-nash-6131b18b0c9dfe24eac6461c
 	set tags krym,obschestvo,rossia,vpechatlenie,zhizn
+page
+	set url https://strana.news/news/358061-pod-kharkovom-muzhchina-razbil-dver-v-kovidnoj-bolnitse.html
+	set tags covid,mater,semja,smert,ukraina
+page
+	set url https://zaxid.net/uchen_lvivskogo_litseyu_peremig_na_mizhnarodnomu_konkursi_naukovih_vinahodiv_n1528486
+	set tags deti,izobretenie,lvov,malaja_akademia_nauk.ukraina,nagrada,nauka,shkola,ukraina
 eof
 off
 page

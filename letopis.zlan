@@ -35301,6 +35301,15 @@ page
 page
 	set url https://zaxid.net/uchen_lvivskogo_litseyu_peremig_na_mizhnarodnomu_konkursi_naukovih_vinahodiv_n1528486
 	set tags deti,izobretenie,lvov,malaja_akademia_nauk.ukraina,nagrada,nauka,shkola,ukraina
+page
+	set url https://voskhodinfo.su/panorama/ideologiya/71661-oni-tam-est-da-my-odin-narod.html
+	set tags __jul_2021.putin.statja,ideologia,nikolaev,odin_narod,rossia,ukraina
+page
+	set url https://voskhodinfo.su/panorama/socium/71668-potrollit-russkih-kak-vy-ukrainu-nazovete-tak-ono-i-poplyvet.html
+	set tags korabl,mural,nikolaev,ukraina
+page
+	set url https://sharij.net/nenavidit-ukrainu-kak-osnovatelniczu-brenda-yaro-yuliyu-privalovu-zatravili-za-anekdot-pro-banderovczev
+	set tags nacionalizm,privalova_julia.yaro,travlja,ukraina
 eof
 off
 page

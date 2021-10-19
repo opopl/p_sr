@@ -35283,6 +35283,18 @@ page
 page
 	set url https://strana.news/news/357978-miss-ukraina-2021-nepljakh-iz-kholostjaka-stolknulas-s-khejtom-so-storony-natsionalistov.html
 	set tags __oct_2021.nepljah_anna.travlja.miss_ukraina_vselennaja,jazyk,mova,nepljah_anna.miss_ukraina_vselennaja,travlja,ukraina
+page
+	set url https://strana.news/news/357980-u-ukrainki-zablokirovali-scheta-iz-za-odinakovoj-familii-s-popavshej-pod-sanktsii-moskvichkoj.html
+	set tags odessa,rnbo,rossia,sankcii,ukraina,zapret
+page
+	set url https://zen.yandex.ru/media/id/5eeaf725a3dca453cfdd4b58/kak-anna-iaroslavna-spasala-rus-ot-igo-krestovogo-pohoda-61070bbe292f72531f41b921
+	set tags anna_jaroslavna,francia,istoria,kievrus,krestovyj_pohod
+page
+	set url https://zen.yandex.ru/media/rodopi84/iuliia-peresild-poluchila-titul-pervyi-estonskii-kosmonavt-soglasno-estonskoi-presse-616d621bb167fc4ead8820a2
+	set tags kosmonavt,kosmos,peresild_julia.rossia.aktrisa
+page
+	set url https://zen.yandex.ru/media/pensioneri/kak-vse-bylo-v-krymu-v-2014-godu-kogda-on-snova-stal-nash-6131b18b0c9dfe24eac6461c
+	set tags krym,obschestvo,rossia,vpechatlenie,zhizn
 eof
 off
 page

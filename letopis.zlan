@@ -35277,6 +35277,12 @@ page
 page
 	set url https://ukraina.ru/exclusive/20211018/1032487233.html
 	set tags bandera_stepan,kiev,pamjatnik,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5dd1147728fbfa14e83a4224/est-liudi-postupki-kotoryh-nadolgo-zapominaiutsia-a-est-takie-strany-moi-vospominaniia-615405e7a7587c2b9c5ae213
+	set tags rossia,ukraina,ukraina_russia_relations,zhizn
+page
+	set url https://strana.news/news/357978-miss-ukraina-2021-nepljakh-iz-kholostjaka-stolknulas-s-khejtom-so-storony-natsionalistov.html
+	set tags __oct_2021.nepljah_anna.travlja.miss_ukraina_vselennaja,jazyk,mova,nepljah_anna.miss_ukraina_vselennaja,travlja,ukraina
 eof
 off
 page

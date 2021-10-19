@@ -35271,6 +35271,12 @@ page
 	set url https://gorlovka.ua/Blog/Blog/283
 	set tags donbass,gorlovka,gorod,ukraina,vojna
 	set date 09_11_2014
+page
+	set url https://hvylya.net/interview/239884-soedinennye-shtaty-ukrainy-chto-nuzhno-sdelat-chtoby-ukraina-obrela-budushchee
+	set tags beseda,future,granovskij_vladimir.ukraina,obschestvo,romanenko_jurij,strana,ukraina,dacjuk_sergej
+page
+	set url https://ukraina.ru/exclusive/20211018/1032487233.html
+	set tags bandera_stepan,kiev,pamjatnik,ukraina
 eof
 off
 page

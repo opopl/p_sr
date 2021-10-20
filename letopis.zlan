@@ -35313,6 +35313,24 @@ page
 page
 	set url https://strana.news/news/358068-skandal-s-brendom-yaro-pochemu-eho-ubrali-iz-rozetki-silpo-allo.html
 	set tags __oct_2021.privalova_julia.travlja.yaro,obschestvo,presledovanie,privalova_julia.yaro,sternenko_sergei,travlja,ukraina
+page
+	set url https://sharij.net/vicze-spiker-gosdumy-rf-ne-budet-nikakoj-ukrainy-ona-stanet-chastyu-rossii-i-vy-v-etom-skoro-ubedites
+	set tags future,gosudarstvo,rossia,tolstoi_petr,ukraina
+page
+	set url https://strana.news/news/357947-team-spirit-vyihrala-the-international-2021-v-dota-2-hlavnoe-o-pobede-ob-uchastnikakh-ukraintsakh-mira-i-yatoro.html
+	set tags __oct_2021.kibersport.pobeda.team_spirit.ukraina.rossia,federacia.kibersporta.ukraina,kibersport,pobeda,rossia,ukraina
+page
+	set url https://strana.news/opinions/357935-pomilovanie-atoshnikov-zakrepljaet-prevoskhodstvo-odnikh-ukraintsev-nad-druhimi.html
+	set tags ato,kriminal,pomilovanie,prestuplenie,ukraina,veteran.ato
+page
+	set url https://hvylya.net/news/239999-ochered-iz-katafalkov-v-kievskiy-krematoriy-sostavlyaet-okolo-2-chasov-raduckiy
+	set tags covid,katafalk,kiev,kiev.krematorij,krematorij,pandemia,smert,ukraina
+page
+	set url http://slovoprosvity.org/2021/10/19/slovo-pro-slovo-3/
+	set tags poezia,slovo,ukraina
+page
+	set url http://slovoprosvity.org/2021/10/19/rus-ka-besida-zerentse-shcho-riasno-zarodylo/
+	set tags kultura,ukraina
 eof
 off
 page

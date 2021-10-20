@@ -6,7 +6,7 @@ config:
   host2site:
     - [ 'facebook', { pat: '^(www|m)\.facebook\.com$' } ]
   
-###cfg.driver
+###config.driver
   driver:
     click:
       do: 0
@@ -18,7 +18,7 @@ config:
           "dom.webnotifications.enabled" : false
           "geo.enabled" : false
 
-###cfg.logging
+###config.logging
   logging:
     default:
       logger: 'fbs'

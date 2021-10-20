@@ -35356,6 +35356,33 @@ page
 page
 	set url https://ukraina.ru/history/20210327/1030960164.html
 	set tags bratstvo.lvovskoje,cerkov,istoria,lvov,pravoslavie,vera
+page
+	set url https://www.kp.ru/daily/28345/4491907/
+	set tags konstitucia,nato,ukraina,usa
+page
+	set url https://blogs.pravda.com.ua/authors/grytsenko/5ecf6380e37e3/
+	set tags donbass,minsk_dogovor,rossia,ukraina,vojna
+page
+	set url https://gazeta.ua/articles/poglyad/_14-zhovtnya-peretvoryuyemo-na-23-lyutogo-v-novij-zhovtosinij-obgortci/1055652
+	set tags 14_oct,23_feb,den.zaschitnika.ukrainy,prazdnik,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/news-rnbo-hlosariy/31520871.html
+	set tags civil_war,glossarij,krym,rossia,ukraina
+page
+	set url https://day.kyiv.ua/uk/news/201021-boyovyky-prodovzhuyut-blokuvaty-sposterigachiv-misiyi-obsye-v-okupovanomu-donecku
+	set tags __oct_2021.kosjak_andrej.lnr.plenenie,donbass,doneck,lnr,obse,plen,protest,vojna
+page
+	set url https://strana.news/news/358260-v-kievskom-krematorii-podtverdili-slova-radutskoho-ob-ocheredi-iz-katafalkov.html
+	set tags covid,kiev,kiev.krematorij,krematorij,ochered',pandemia,raduckii_mihail,smertnost',ukraina
+page
+	set url https://lug-info.com/news/kiev-izvrashaet-real-nost-svyazyvaya-grazhdanstvo-nablyudatelya-sckk-i-vs-rf-mid-lnr
+	set tags __oct_2021.kosjak_andrej.lnr.plenenie,donbass,lnr,ukraina,vojna
+page
+	set url https://strana.news/news/358188-hlossarij-o-kryme-donbasse-i-politike-ot-tsentra-protivodejstvija-dezinformatsii-soderzhanie-i-analiz.html
+	set tags glossarij,rnbo,ukraina
+page
+	set url https://strana.news/opinions/358226-ohromnoe-kolichestvo-ljudej-v-ukraine-eto-passivnye-ubijtsy.html
+	set tags covid,obschestvo,pandemia,ukraina
 eof
 off
 page

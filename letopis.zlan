@@ -35338,6 +35338,24 @@ page
 page
 	set url https://zen.yandex.ru/media/history_russian/universalnyi-iazyk-drevnei-rusi-byl-li-on-russkim-60e30ad75a6af30ab21e99c2
 	set tags jazyk,kievrus,language,lvov,mova,rossia,ukraina
+page
+	set url https://strana.news/news/358140-faina-savenkova-na-mirotvortse-kak-devochku-iz-lnr-travjat-v-kieve.html
+	set tags __oct_2021.savenkova.mirotvorec,fantastika,literatura,lnr,mirotvorec_sajt,rossia,savenkova_faina,ukraina
+page
+	set url https://strana.news/opinions/358163-kievskomu-terroristu-hranatometchiku-dali-tri-hoda-uslovno.html
+	set tags 112ua,ato,granatomet,semenchenko_semen,terrorizm,ukraina
+page
+	set url https://www.radiosvoboda.org/a/zhyteli-donbasu-shturmuyut-punkty-vaktsynatsiyi/31520443.html
+	set tags covid,donbass,pandemia,ukraina,vaccinacia
+page
+	set url https://www.radiosvoboda.org/a/sternenko-pro-boykot-torhovoyi-marky-nevistky-kernesa/31519530.html
+	set tags __oct_2021.privalova_julia.travlja.yaro,sternenko_sergei,travlja,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-i-reymske-yevanheliye/31506475.html
+	set tags anna_jaroslavna,evangelie,evangelie.rejmskoje,francia,istoria,kievrus,kniga,rossia,ukraina
+page
+	set url https://ukraina.ru/history/20210327/1030960164.html
+	set tags bratstvo.lvovskoje,cerkov,istoria,lvov,pravoslavie,vera
 eof
 off
 page

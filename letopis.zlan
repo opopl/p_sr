@@ -35331,6 +35331,13 @@ page
 page
 	set url http://slovoprosvity.org/2021/10/19/rus-ka-besida-zerentse-shcho-riasno-zarodylo/
 	set tags kultura,ukraina
+page
+	set url https://www.gazeta.ru/social/news/2021/10/19/n_16711201.shtml
+	set tags __jul_2021.putin.statja,banner,odin_narod,rossia,ukraina
+	set date 19_10_2021
+page
+	set url https://zen.yandex.ru/media/history_russian/universalnyi-iazyk-drevnei-rusi-byl-li-on-russkim-60e30ad75a6af30ab21e99c2
+	set tags jazyk,kievrus,language,lvov,mova,rossia,ukraina
 eof
 off
 page

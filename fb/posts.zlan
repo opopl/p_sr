@@ -183,7 +183,6 @@ page
 	set tags __oct_2021.medvedev.statja,medvedchuk_viktor,medvedev_dmitrij,rossia,statja,ukraina,ukraina_russia_relations,vlast
 	set title Статья Дмитрия Медведева
 	set author_id bronickaja_elena
-on
 page
 	set url https://www.facebook.com/RRKuzmin/posts/4389688687774056
 	set ii obman_pravda
@@ -191,6 +190,14 @@ page
 	set tags cenzura,obschestvo,politika,pravda,ukraina,vranje
 	set title Пора заканчивать этот обман. Пора уже говорить людям правду
 	set author_id kuzmin_renat
+on
+page
+	set url https://www.facebook.com/Per.aspera.ad.astra.A.N/posts/1499717490415158
+	set ii o_ljudjah
+	set date 18_10_2021
+	set tags chelovek,mudrost,sovest'
+	set title О ЛЮДЯХ...
+	set author_id vselennaja_mudrosti
 eof
 off
 page

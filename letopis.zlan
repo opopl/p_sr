@@ -35404,6 +35404,42 @@ page
 page
 	set url https://zen.yandex.ru/media/id/6161659eb3a9854e779df586/trebuem-otdat-krym-ukraina-v-v-panike-i-ne-znaet-chto-delat-s-rossiei-otvet-rossii-na-eto-udivil-vsiu-ukrainu-i-daje-mir-617124007f7f3d524d537303
 	set tags krym,rossia,socopros,ukraina
+page
+	set url https://topwar.ru/188157-rus-edinoe-gosudarstvo-pskov.html
+	set tags istoria,pskov,rossia,rusj
+page
+	set url https://topwar.ru/187684-rus-ili-moskovija.html
+	set tags istoria,moskovia,nazvanie,rossia,rusj,slovo.moskovia
+page
+	set url https://zen.yandex.ru/media/historythema/kak-rus-stala-rossiei-616d1a02b167fc4ead1f7836
+	set tags istoria,moskva,rossia,rusj
+page
+	set url https://inosmi.ru/social/20210803/250239624.html
+	set tags olimpiada,rossia,sport
+page
+	set url https://strana.news/news/358397-na-kontserte-v-poltave-serhej-mikhalok-udarom-v-holovu-povalil-odnoho-iz-fanatov.html
+	set tags draka,hamstvo,izbienie,mihalok_sergej.by.muzykant,muzyka,poltava,ukraina
+page
+	set url https://strana.news/news/358305-virtualnyj-muzej-rossijskoho-ahressii-chto-eto-takoe.html
+	set tags kiev,krym,krymvesna,muzei,rossia,ukraina
+page
+	set url https://lug-info.com/news/shkol-niki-iz-luganska-prinyali-uchastie-v-xvi-mezhdunarodnom-slete-yu-id-v-krasnodarskom-krae
+	set tags deti,donbass,festival,krasnodar,lnr,rossia
+page
+	set url https://lgaki.info/novosti/rabotu-studentki-akademii-matusovskogo-pokazali-v-belgrade/
+	set tags donbass,isskustvo,kartina,kultura,lgaki,lnr,rossia,serbia,studenty,vstrecha
+page
+	set url http://www.artdonbass.ru/ru/project/vystavka-risunkov-detey-donbassa-kaplya-zhizni-otkrylas-v-samare.html
+	set tags deti,donbass,isskustvo,kartina,rossia,turgenev_ivan,vystavka
+page
+	set url https://lgaki.info/novosti/otkryvaem-nash-osennij-vernisazh/
+	set tags isskustvo,kartina,krasota,lgaki,lnr,osenj,vystavka
+page
+	set url https://strana.news/news/358325-obstrel-donetska-sehodnja-chto-izvestno-reaktsija-dnr-i-mestnykh-zhitelej.html
+	set tags deti,dnr,donbass,doneck,nm_dnr,obstrel,ukraina,vojna
+page
+	set url https://strana.news/news/358420-ukrainoj-upravljaet-ne-prezident-a-narodu-ne-dajut-sformirovat-vlast-putin.html
+	set tags antirossia,putin_vladimir,rossia,ukraina
 eof
 off
 page

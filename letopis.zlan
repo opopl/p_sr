@@ -35440,6 +35440,9 @@ page
 page
 	set url https://strana.news/news/358420-ukrainoj-upravljaet-ne-prezident-a-narodu-ne-dajut-sformirovat-vlast-putin.html
 	set tags antirossia,putin_vladimir,rossia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-rus-i-moskoviya/31521000.html
+	set tags drach_ivan.ukr.poet,grushevskij_mihail.istorik,istoria,kievrus,moskovia,rossia,rusimperia,rusj.ukraina,ukraina
 eof
 off
 page

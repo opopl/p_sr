@@ -35386,6 +35386,21 @@ page
 page
 	set url https://www.radiosvoboda.org/a/bandera-tiktok-mem-fleshmob/31520946.html
 	set tags bandera_stepan,deti,patriotizm,pesnja,shkola,ukraina
+page
+	set url https://strana.news/news/358287-epidemija-v-ukraine-statistika-zarazhenij-na-21-oktjabrja-2021-hoda.html
+	set tags bolezn,covid,pandemia,smertnost',ukraina,zabolevajemost'
+page
+	set url https://strana.news/news/358281-na-olx-pojavilis-usluha-dlja-neprivitykh-ot-koronavirusa.html
+	set tags ekonomika,magazin,obschestvo,pokupka,supermarket,ukraina,vaccinacia
+page
+	set url https://strana.news/news/358352-11-letnjaja-devochka-rasskazala-kak-chudom-vyzhila-pri-sehodnjashnem-obstrele-donetska.html
+	set tags deti,devochka,donbass,obstrel,ukraina,vojna
+page
+	set url https://strana.news/news/358270-zhurnalista-skachko-obvinili-v-hosizmene-i-sobirajutsja-zaochno-sudit.html
+	set tags skachko_vladimir.zhurnalist,ukraina,zhurnalist
+page
+	set url https://www.pravda.com.ua/articles/2021/10/21/7311106/
+	set tags deti,jazyk,mova,shkola,ukraina,ukrainizacia
 eof
 off
 page

@@ -176,7 +176,6 @@ page
 	set tags chelovek,facebook,gorod,kiev,obschestvo,ukraina,zhizn
 	set title Сегодня, спустя почти 4 года, мы приняли в ряды нашего сообщества 100 000 участника!
 	set author_id koval_oleg
-on
 page
 	set url https://www.facebook.com/permalink.php?story_fbid=1278700789248532&id=100013258691250
 	set ii statja_medvedev
@@ -184,6 +183,7 @@ page
 	set tags __oct_2021.medvedev.statja,medvedchuk_viktor,medvedev_dmitrij,rossia,statja,ukraina,ukraina_russia_relations,vlast
 	set title Статья Дмитрия Медведева
 	set author_id bronickaja_elena
+on
 page
 	set url https://www.facebook.com/RRKuzmin/posts/4389688687774056
 	set ii obman_pravda

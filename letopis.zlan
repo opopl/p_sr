@@ -35383,6 +35383,9 @@ page
 page
 	set url https://strana.news/opinions/358226-ohromnoe-kolichestvo-ljudej-v-ukraine-eto-passivnye-ubijtsy.html
 	set tags covid,obschestvo,pandemia,ukraina
+page
+	set url https://www.radiosvoboda.org/a/bandera-tiktok-mem-fleshmob/31520946.html
+	set tags bandera_stepan,deti,patriotizm,pesnja,shkola,ukraina
 eof
 off
 page

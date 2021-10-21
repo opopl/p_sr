@@ -35401,6 +35401,9 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/10/21/7311106/
 	set tags deti,jazyk,mova,shkola,ukraina,ukrainizacia
+page
+	set url https://zen.yandex.ru/media/id/6161659eb3a9854e779df586/trebuem-otdat-krym-ukraina-v-v-panike-i-ne-znaet-chto-delat-s-rossiei-otvet-rossii-na-eto-udivil-vsiu-ukrainu-i-daje-mir-617124007f7f3d524d537303
+	set tags krym,rossia,socopros,ukraina
 eof
 off
 page

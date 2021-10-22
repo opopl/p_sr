@@ -35443,6 +35443,12 @@ page
 page
 	set url https://www.radiosvoboda.org/a/ukrayina-rus-i-moskoviya/31521000.html
 	set tags drach_ivan.ukr.poet,grushevskij_mihail.istorik,istoria,kievrus,moskovia,rossia,rusimperia,rusj.ukraina,ukraina
+page
+	set url https://strana.news/news/358405-kak-ezdil-transport-po-novym-pravilam.html
+	set tags kollaps,transport,ukraina
+page
+	set url https://www.radiosvoboda.org/a/30140414.html
+	set tags istoria,kiev,kievrus,kreml,obrazovanie,rossia,rusj.ukraina,shkola,ukraina,ukraina_rusj
 eof
 off
 page

@@ -35449,6 +35449,18 @@ page
 page
 	set url https://www.radiosvoboda.org/a/30140414.html
 	set tags istoria,kiev,kievrus,kreml,obrazovanie,rossia,rusj.ukraina,shkola,ukraina,ukraina_rusj
+page
+	set url https://fraza.com/analytics/254181-otkrovenija-proroka-fedora-k-195-letiju-dostoevskogo-
+	set tags 195_let,biografia,chelovek,dostojevskii_fedor,kultura,literatura,rossia,rusmir,ukraina
+page
+	set url https://fraza.com/analytics/208276-o_chem_govoril_zaratustra_k_170_letiju_fridriha_nitsshe
+	set tags 15_oct,170_let,1844,filosofia,nicshe_fridrih.filosof
+page
+	set url https://fraza.com/analytics/268772-karl-marks-psihoanalitik-i-religioznyj-ekzistentsialist
+	set tags 200_let,5_may,berdjaev_nikolaj.filosof,filosofia,fromm_erih.filosof.psiholog,marks_karl,psihologia,religia
+page
+	set url https://ru.krymr.com/a/news/28959531.html
+	set tags krym,muzyka,pesnja,rossia,schedryk,sevastopol,tradicii
 eof
 off
 page

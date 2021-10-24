@@ -35467,6 +35467,21 @@ page
 page
 	set url https://strana.news/opinions/358494-nelzja-obmanyvat-ves-narod-beskonechno-dolho.html
 	set tags narod,obman,obschestvo,strana,ukraina,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/istoriya-nezalezhnosti-ukrayiny/31521035.html
+	set tags foto,istoria,nezalezhnist,ukraina
+page
+	set url https://www.pravda.com.ua/articles/2021/10/24/7311399/
+	set tags obschestvo,prezident,ukraina,vlast,zelenskii_vladimir
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/ta-zabudte-vy-vzhe-pro-rosiyu
+	set tags politika,rossia,ukraina,ukraina_russia_relations
+page
+	set url https://lug-info.com/news/kievskie-siloviki-primenyayut-pytki-k-zaderzhannomu-pensioneru-iz-lnr-narodnaya-miliciya
+	set tags donbass,lnr,pensioner,pytka,ukraina,vojna
+page
+	set url https://strana.news/news/358809-ukraina-i-rossija-na-hranitse-obmenjalis-ostankami-soldat-krasnoj-armii.html
+	set tags obmen,rkka,rossia,ukraina
 eof
 off
 page

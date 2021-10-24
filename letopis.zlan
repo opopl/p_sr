@@ -35461,6 +35461,12 @@ page
 page
 	set url https://ru.krymr.com/a/news/28959531.html
 	set tags krym,muzyka,pesnja,rossia,schedryk,sevastopol,tradicii
+page
+	set url https://strana.news/opinions/358719-nastojashchij-lider-natsii-ne-razhlaholstvuet-o-velichii-natsii-a-ukrepljaet-eho.html
+	set tags nezalezhnist,turcia,ukraina
+page
+	set url https://strana.news/opinions/358494-nelzja-obmanyvat-ves-narod-beskonechno-dolho.html
+	set tags narod,obman,obschestvo,strana,ukraina,zelenskii_vladimir
 eof
 off
 page

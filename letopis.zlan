@@ -35482,6 +35482,9 @@ page
 page
 	set url https://strana.news/news/358809-ukraina-i-rossija-na-hranitse-obmenjalis-ostankami-soldat-krasnoj-armii.html
 	set tags obmen,rkka,rossia,ukraina
+page
+	set url https://zaxid.net/zahist_chi_diskreditatsiya_n1528760
+	set tags ideologia,illjuzia,istoria,obschestvo,ukraina
 eof
 off
 page

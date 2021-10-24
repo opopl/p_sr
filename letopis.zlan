@@ -35485,6 +35485,23 @@ page
 page
 	set url https://zaxid.net/zahist_chi_diskreditatsiya_n1528760
 	set tags ideologia,illjuzia,istoria,obschestvo,ukraina
+page
+	set url https://sharij.net/absurd-glossariya-ot-snbo-kak-v-ukraine-hotyat-sozdat-svoj-novoyaz-bez-velikoj-otechestvennoj-i-donbassa
+	set tags danilov_aleksei,glossarij,revgidnosti,rnbo,ukraina
+page
+	set url https://zen.yandex.ru/media/id/60fac205eadb0a6917f8fc1d/skate-america-2021-devushki-kp-rossiiskie-devchonki-pokoriaiut-ameriku-obnovliaia-lichnye-rekordy--trusova-na-pervom-meste-617406a8b7c7c643b5abfb05
+	set tags amerika,figurist,figurnoje_katanie,rossia,sorevnovanie,usa
+page
+	set url https://fraza.com/analytics/306346-za-lunu-ili-za-solntse
+	set tags chelovek,obschestvo
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://zen.yandex.ru/media/id/5f3027f1ef025b2695aadd6b/kak-ekaterina-razognala-zaporojskuiu-sech-nas-by-tak-razgoniali-6155d7ad9e09340914f67c12
+	set tags ekaterina_II,istoria,katerina_vtoraja,kazaki,rossia,ukraina,vojsko_zaporozhskoje
 eof
 off
 page

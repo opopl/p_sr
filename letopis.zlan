@@ -35515,6 +35515,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/lesha-goncharenko-buduscii-prezident-ukrainy-6175013a26b7c2579e73f5f9
 	set tags goncharenko_alexei,prezident,ukraina
+page
+	set url https://zen.yandex.ru/media/lovely_fk/obeskurajivaiuscaia-novost-nashi-luchshie-figuristy-mogut-ostatsia-bez-etapa-gran-6172e5d46bb5a46713572e63
+	set tags figurist,figurnoje_katanie,kanada,rossia,sport
+page
+	set url https://zen.yandex.ru/media/lovely_fk/ee-ne-pobedit-kamila-valieva-daje-s-padeniem-zabrala-mirovye-rekordy-trusovoi-i-kostornoi-6163c5c94449432c00826645
+	set tags figurist,figurnoje_katanie,rossia,sport
 eof
 off
 page

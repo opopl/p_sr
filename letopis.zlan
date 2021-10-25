@@ -35521,6 +35521,12 @@ page
 page
 	set url https://zen.yandex.ru/media/lovely_fk/ee-ne-pobedit-kamila-valieva-daje-s-padeniem-zabrala-mirovye-rekordy-trusovoi-i-kostornoi-6163c5c94449432c00826645
 	set tags figurist,figurnoje_katanie,rossia,sport
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/agent-sbu-veter-podaril-ukraine-prazdnik-61733ce5642f5d6a440b0001
+	set tags kreml,moskva,priroda,rossia,ukraina,veter,zloradstvo
+page
+	set url https://strana.news/news/358899-sud-v-odesse-prihovoril-avtovorishek-k-chteniju-dzheka-londona-marka-tvena-i-tarasa-shevchenko.html
+	set tags kultura,literatura,london_jack,odessa,poezia,prigovor,shevchenko_taras,sud,tven_mark.usa.pisatel,ukraina
 eof
 off
 page

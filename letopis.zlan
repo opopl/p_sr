@@ -35533,6 +35533,9 @@ page
 page
 	set url https://strana.news/news/358896-v-zhitomire-na-meste-fabriki-vizitki-horoda-ostalis-razvaliny.html
 	set tags fabrika,fabrika.noski.zhitomir,ukraina
+page
+	set url https://strana.news/articles/357882-kak-zhivet-donetsk-osenju-2021-hoda.html
+	set tags dnr,donbass,doneck,gorod,vojna,zhizn
 eof
 off
 page

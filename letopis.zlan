@@ -35536,6 +35536,12 @@ page
 page
 	set url https://strana.news/articles/357882-kak-zhivet-donetsk-osenju-2021-hoda.html
 	set tags dnr,donbass,doneck,gorod,vojna,zhizn
+page
+	set url https://www.radiosvoboda.org/a/navishcho-rosiyi-prakh-rozvidnyka-nkvs-mykoly-kuznetsova/31527186.html
+	set tags kurkov_andrej,kuznecov_nikolaj.sssr.razvedchik,lvov,politika,rossia,sadovoj_andrej.lvov.mer,ukraina
+page
+	set url https://www.radiosvoboda.org/a/palaty-ivana-mazepy/31526249.html
+	set tags istoria,mazepa_ivan,rossia,ukraina
 eof
 off
 page

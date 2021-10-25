@@ -35502,6 +35502,9 @@ global
 page
 	set url https://zen.yandex.ru/media/id/5f3027f1ef025b2695aadd6b/kak-ekaterina-razognala-zaporojskuiu-sech-nas-by-tak-razgoniali-6155d7ad9e09340914f67c12
 	set tags ekaterina_II,istoria,katerina_vtoraja,kazaki,rossia,ukraina,vojsko_zaporozhskoje
+page
+	set url https://strana.news/opinions/358759-dazhe-taksisty-zhivut-ozhidanijami-hosudarstvennoho-perevorota.html
+	set tags gosperevorot,nedovolstvo,obschestvo,ozhidanie,revolucia,strana,taksi,ukraina,vlast
 eof
 off
 page

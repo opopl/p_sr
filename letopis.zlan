@@ -35505,6 +35505,9 @@ page
 page
 	set url https://strana.news/opinions/358759-dazhe-taksisty-zhivut-ozhidanijami-hosudarstvennoho-perevorota.html
 	set tags gosperevorot,nedovolstvo,obschestvo,ozhidanie,revolucia,strana,taksi,ukraina,vlast
+page
+	set url https://strana.news/opinions/358756-rukovodstvo-ukrainy-publichno-nazyvaet-putina-hazovym-ahressorom.html
+	set tags agressor,ekonomika,gaz,rossia,ukraina
 eof
 off
 page

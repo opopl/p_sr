@@ -35542,6 +35542,15 @@ page
 page
 	set url https://www.radiosvoboda.org/a/palaty-ivana-mazepy/31526249.html
 	set tags istoria,mazepa_ivan,rossia,ukraina
+page
+	set url https://hvylya.net/news/240357-snbo-obnarodoval-spisok-prorossiyskih-telegram-kanalov-i-akkauntov
+	set tags glossarij,infvojna,rnbo,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/ili-normalnoe-detstvo-ili-sait-mirotvorec-61732213917354359870146a
+	set tags donbass,kiev,kultura,literatura,mirotvorec_sajt,oon,prestuplenie.vojennoje,savenkova_faina,ukraina,vojna
+page
+	set url https://zen.yandex.ru/media/istoriko/pereimenuem-ukrainu-iz-okrainy-snova-v-rus-i-zajivem-gordo-i-bogato-6175a20e8d1082576364ef76
+	set tags istoria,pereimenovanija,rusj,ukraina
 eof
 off
 page

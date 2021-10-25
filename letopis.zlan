@@ -35508,6 +35508,15 @@ page
 page
 	set url https://strana.news/opinions/358756-rukovodstvo-ukrainy-publichno-nazyvaet-putina-hazovym-ahressorom.html
 	set tags agressor,ekonomika,gaz,rossia,ukraina
+page
+	set url https://voskhodinfo.su/panorama/ideologiya/71753-nastojaschij-geroj.html
+	set tags geroizm,kosmonavtika,kosmos,sssr
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/pochti-pravdivye-novosti-13-6175179a3d6038135fa0b62f
+	set tags novosti
+page
+	set url https://zen.yandex.ru/media/id/60b2c12d5dfc027318749610/velikaia-rus-kotoruiu-my-poteriali-617456e330e66f5c99e2c647
+	set tags istoria,kievrus,rossia,rusj
 eof
 off
 page

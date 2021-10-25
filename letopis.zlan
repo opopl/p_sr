@@ -35530,6 +35530,9 @@ page
 page
 	set url https://lug-info.com/news/komanda-profsoyuznyh-aktivistov-iz-luganska-proshla-v-superfinal-igry-chto-gde-kogda
 	set tags donbass,igra,igra.chto_gde_kogda,lnr,mir_luganschine,zhizn
+page
+	set url https://strana.news/news/358896-v-zhitomire-na-meste-fabriki-vizitki-horoda-ostalis-razvaliny.html
+	set tags fabrika,fabrika.noski.zhitomir,ukraina
 eof
 off
 page

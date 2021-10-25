@@ -35551,6 +35551,9 @@ page
 page
 	set url https://zen.yandex.ru/media/istoriko/pereimenuem-ukrainu-iz-okrainy-snova-v-rus-i-zajivem-gordo-i-bogato-6175a20e8d1082576364ef76
 	set tags istoria,pereimenovanija,rusj,ukraina
+page
+	set url https://strana.news/news/358992-eksperty-raskritikovali-hlossarij-snbo-po-borbe-s-rossijskoj-propahandoj.html
+	set tags glossarij,infvojna,rnbo,ukraina
 eof
 off
 page

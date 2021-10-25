@@ -35554,6 +35554,9 @@ page
 page
 	set url https://strana.news/news/358992-eksperty-raskritikovali-hlossarij-snbo-po-borbe-s-rossijskoj-propahandoj.html
 	set tags glossarij,infvojna,rnbo,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/polityka/chy-vynykne-v-ukrayini-moralna-bilshist
+	set tags moralnost,obschestvo,politika,ukraina
 eof
 off
 page

@@ -35494,11 +35494,6 @@ page
 page
 	set url https://fraza.com/analytics/306346-za-lunu-ili-za-solntse
 	set tags chelovek,obschestvo
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://zen.yandex.ru/media/id/5f3027f1ef025b2695aadd6b/kak-ekaterina-razognala-zaporojskuiu-sech-nas-by-tak-razgoniali-6155d7ad9e09340914f67c12
 	set tags ekaterina_II,istoria,katerina_vtoraja,kazaki,rossia,ukraina,vojsko_zaporozhskoje
@@ -35517,6 +35512,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/60b2c12d5dfc027318749610/velikaia-rus-kotoruiu-my-poteriali-617456e330e66f5c99e2c647
 	set tags istoria,kievrus,rossia,rusj
+page
+	set url https://zen.yandex.ru/media/id/5ff75d03bb14d54ffbf96891/lesha-goncharenko-buduscii-prezident-ukrainy-6175013a26b7c2579e73f5f9
+	set tags goncharenko_alexei,prezident,ukraina
 eof
 off
 page

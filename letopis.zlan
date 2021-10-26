@@ -35572,6 +35572,12 @@ page
 page
 	set url https://strana.news/news/359069-nekhvatka-kisloroda-v-bolnitsakh-ukrainy-chto-proiskhodit.html
 	set tags bolnica,covid,kislorod,smert,strana,ukraina
+page
+	set url https://sharij.net/v-harkove-pensionera-v-vetrovke-s-nadpisyu-sssr-zalili-perczovym-ballonchikom-video
+	set tags gaslo.slava_ukraini_gerojam_slava,harkov,huliganstvo,nacionalizm,napadenie,ukraina
+page
+	set url https://strana.news/news/359153-iz-donetska-soobshchajut-ob-obstrelakh-horlovki-foto.html
+	set tags donbass,doneck,obstrel,ukraina,vojna
 eof
 off
 page

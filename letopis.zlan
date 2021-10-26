@@ -35563,6 +35563,12 @@ page
 page
 	set url https://strana.news/news/358904-moskva-otreahirovala-na-uhrozy-arestovicha-o-zapuske-raket.html
 	set tags arestovich_aleksei,moskva,oruzhie,raketa,rossia,ugroza,ukraina,ukraina_russia_relations
+page
+	set url https://strana.news/opinions/359012-ukrainskaja-hosudarstvennaja-tsenzura-zanjalas-monitorinhom-telehrama.html
+	set tags cenzura,infvojna,internet,rnbo,telegram,ukraina
+page
+	set url https://zen.yandex.ru/media/id/602111159966a838711acd02/gospodin-velikii-novgorod-61695c9b8ac46f6d0f2f558c
+	set tags istoria,kievrus,novgorod,rossia
 eof
 off
 page

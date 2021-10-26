@@ -35569,6 +35569,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/602111159966a838711acd02/gospodin-velikii-novgorod-61695c9b8ac46f6d0f2f558c
 	set tags istoria,kievrus,novgorod,rossia
+page
+	set url https://strana.news/news/359069-nekhvatka-kisloroda-v-bolnitsakh-ukrainy-chto-proiskhodit.html
+	set tags bolnica,covid,kislorod,smert,strana,ukraina
 eof
 off
 page

@@ -35557,6 +35557,9 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/polityka/chy-vynykne-v-ukrayini-moralna-bilshist
 	set tags moralnost,obschestvo,politika,ukraina
+page
+	set url https://strana.news/news/358961-facebook-papers-novyj-skandal-s-sotsialnoj-setju-1.html
+	set tags facebook,internet,nenavist,usa
 eof
 off
 page

@@ -35587,6 +35587,9 @@ page
 page
 	set url https://life.pravda.com.ua/culture/2021/10/27/246302/
 	set tags kultura,literatura,mova,shevchenko_taras,ukraina
+page
+	set url https://strana.news/news/359232-dtp-na-haharina-pojavilis-podrobnosti-strashnoj-avarii.html
+	set tags dtp,harkov,mazhor,ukraina
 eof
 off
 page

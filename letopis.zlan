@@ -35584,6 +35584,9 @@ page
 page
 	set url https://strana.news/opinions/359186-tsenzory-schitajut-prorossijskoj-propahandoj-ljubuju-kritiku-ukrainskikh-realij.html
 	set tags bankova,cenzura,infvojna,internet,propaganda,smi.ukraina,telegram,ukraina,vlast
+page
+	set url https://life.pravda.com.ua/culture/2021/10/27/246302/
+	set tags kultura,literatura,mova,shevchenko_taras,ukraina
 eof
 off
 page

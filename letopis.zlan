@@ -35578,6 +35578,12 @@ page
 page
 	set url https://strana.news/news/359153-iz-donetska-soobshchajut-ob-obstrelakh-horlovki-foto.html
 	set tags donbass,doneck,obstrel,ukraina,vojna
+page
+	set url https://strana.news/news/359099-skifskoe-zoloto-vernuli-ukraine-chto-ob-eto-izvestno.html
+	set tags amsterdam,gollandia,krym,muzej,rossia,ukraina,zoloto.skifskoje
+page
+	set url https://strana.news/opinions/359186-tsenzory-schitajut-prorossijskoj-propahandoj-ljubuju-kritiku-ukrainskikh-realij.html
+	set tags bankova,cenzura,infvojna,internet,propaganda,smi.ukraina,telegram,ukraina,vlast
 eof
 off
 page

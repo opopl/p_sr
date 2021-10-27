@@ -35590,6 +35590,9 @@ page
 page
 	set url https://strana.news/news/359232-dtp-na-haharina-pojavilis-podrobnosti-strashnoj-avarii.html
 	set tags dtp,harkov,mazhor,ukraina
+page
+	set url https://zen.yandex.ru/media/tsargrad.tv/nordost-zapad-taino-sochuvstvoval-terroristam-zahvativshim-zalojnikov-6177f0e86281b37b87425aab
+	set tags rossia,terakt,terakt.rossia.nord_ost
 eof
 off
 page

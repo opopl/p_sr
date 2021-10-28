@@ -35611,6 +35611,9 @@ page
 page
 	set url https://lenta.ru/articles/2021/10/28/faddoul/
 	set tags algoritm,chelovek,internet,manipuljacia,mozg,psihika,psihologia,socset,soznanie
+page
+	set url https://strana.news/news/359337-v-sumakh-byl-ubit-radikal-iz-pravoho-sektora.html
+	set tags murder,pravyj_sektor,radikalizm,radikaly,smert,sumy,ukraina
 eof
 off
 page

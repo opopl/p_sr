@@ -35593,6 +35593,9 @@ page
 page
 	set url https://zen.yandex.ru/media/tsargrad.tv/nordost-zapad-taino-sochuvstvoval-terroristam-zahvativshim-zalojnikov-6177f0e86281b37b87425aab
 	set tags rossia,terakt,terakt.rossia.nord_ost
+page
+	set url https://strana.news/opinions/359155-kratkij-slovar-hrantoedov-pod-redaktsiej-snbo.html
+	set tags cenzura,fejk,glossarij,grantoed,infvojna,rnbo,ukraina,vov
 eof
 off
 page

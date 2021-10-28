@@ -35596,6 +35596,21 @@ page
 page
 	set url https://strana.news/opinions/359155-kratkij-slovar-hrantoedov-pod-redaktsiej-snbo.html
 	set tags cenzura,fejk,glossarij,grantoed,infvojna,rnbo,ukraina,vov
+page
+	set url https://zen.yandex.ru/media/historyandweapon/futbolnyi-match-dnr-ukraina-predpolagaemaia-model-igry-komand-60c2465064ebaf6bae7cdf92
+	set tags dnr,fantazia,futbol,jumor,sorevnovanie,sport,ukraina
+page
+	set url https://zen.yandex.ru/media/parfenov/kakoe-eto-bogatstvo-rossii--eto-dvustolichie-6165b92cef594d2441c3acc1
+	set tags parfenov_leonid,rossia,st_peterburg,stolica
+page
+	set url https://strana.news/opinions/359209-ssha-vstupili-v-zakljuchitelnuju-fazu-imperskoj-ustalosti.html
+	set tags demokratia,geopolitika,kitaj,oruzhie,usa
+page
+	set url https://strana.news/news/359217-defitsit-v-britanii-i-ssha-pochemu-na-zapade-voznikla-nekhvatka-tovarov-i-k-chemu-eto-privedet-.html
+	set tags britania,deficit,ekonomika,evropa,karantin,lockdown,pandemia,sssr,zapad
+page
+	set url https://lenta.ru/articles/2021/10/28/faddoul/
+	set tags algoritm,chelovek,internet,manipuljacia,mozg,psihika,psihologia,socset,soznanie
 eof
 off
 page

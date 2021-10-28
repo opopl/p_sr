@@ -35617,6 +35617,18 @@ page
 page
 	set url https://zen.yandex.ru/media/53news.ru/amerikancy-sovershili-krasivyi-postupok-na-ceremonii-nagrajdeniia-rossiiskih-figuristok-6178722df7983d03e292daa4
 	set tags amerika,bolelschik,figurist,figurnoje_katanie,rossia,sport,usa
+page
+	set url https://www.radiosvoboda.org/a/ukrayina-rus-terminolohiya/31530763.html
+	set tags drevrus,istoria,kievrus,rusj,rusj_ukraina,ukraina,ukraina_rusj
+page
+	set url https://strana.news/news/359447-den-osvobozhdenija-ukrainy-ot-nemetskikh-zakhvatchikov.html
+	set tags 1944,28_oct,istoria,mirvojna2,shmygal'_denis.ministr,ukraina,uzhgorod,vlast,vov,zelenskii_vladimir
+page
+	set url https://strana.news/opinions/359396-vlast-panicheski-boitsja-upotrebit-slova-sovetskaja-armija.html
+	set tags 1944,28_oct,mirvojna2,ukraina,vlast,vov
+page
+	set url https://strana.news/opinions/359400-v-ukrainskom-feodalnom-obshchestve-sushchestvuet-tolko-pravo-sily.html
+	set tags __oct_2021.dtp.harkov.mazhor,dtp,feodalizm,harkov,obschestvo,smert,tragedia,ukraina
 eof
 off
 page

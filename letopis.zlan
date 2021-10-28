@@ -35614,6 +35614,9 @@ page
 page
 	set url https://strana.news/news/359337-v-sumakh-byl-ubit-radikal-iz-pravoho-sektora.html
 	set tags murder,pravyj_sektor,radikalizm,radikaly,smert,sumy,ukraina
+page
+	set url https://zen.yandex.ru/media/53news.ru/amerikancy-sovershili-krasivyi-postupok-na-ceremonii-nagrajdeniia-rossiiskih-figuristok-6178722df7983d03e292daa4
+	set tags amerika,bolelschik,figurist,figurnoje_katanie,rossia,sport,usa
 eof
 off
 page

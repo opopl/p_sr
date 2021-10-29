@@ -35632,14 +35632,14 @@ page
 page
 	set url https://strana.news/news/359522-kiev-voshel-v-krasnuju-zonu-vlasti-po-svoemu-pozdravili-s-dnem-osvobozhdenija-ot-natsizma.html
 	set tags 1944.ukraina.osvobozhdenie.vov.28_oct,77_let,covid,epidemia,itogi,kiev,mirvojna2,pandemia,ukraina,vlast,vov,zabolevajemost'
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://life.pravda.com.ua/culture/2021/10/27/246311/
 	set tags chtenie,kniga,kultura,literatura,nezalezhnist,spisok,ukraina
+off
+page
+	set url https://censor.net/ru/blogs/3296293/i_kakaya_strana_teper_404
+	set tags rossia,rusmir,strana_404,ukraina
+on
 eof
 off
 page

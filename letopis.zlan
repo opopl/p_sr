@@ -35640,6 +35640,9 @@ page
 	set url https://censor.net/ru/blogs/3296293/i_kakaya_strana_teper_404
 	set tags rossia,rusmir,strana_404,ukraina
 on
+page
+	set url https://strana.news/opinions/359535-esli-prinjat-ritoriku-vlasti-po-osvobozhdeniju-ukrainy-mozhno-sojti-s-uma.html
+	set tags 1944.ukraina.osvobozhdenie.vov.28_oct,institut_nacpamjati,istoria,okupacia,pamjat,sssr,ukraina
 eof
 off
 page

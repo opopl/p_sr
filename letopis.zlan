@@ -35688,6 +35688,12 @@ page
 page
 	set url https://odnarodyna.org/article/amerikanskie-bazy-na-ukraine-mogut-zakonchit-po-kabulski
 	set tags geopolitika,nato,politika,rossia,strana,ukraina,usa
+page
+	set url https://mir-lug.info/novosti-proektov/v-luganske-perezahoronili-ostanki-mirnyh-zhitelej-zhertv-ukrainskoj-agressii/
+	set tags agressia,donbass,lnr,lugansk,mir_luganschine,perezahoronenie,smert,ukraina,vojna
+page
+	set url https://mir-lug.info/novosti-terotdelenij/akcziya-protyani-ruku-zhizni-proshla-v-bryanke/
+	set tags aktivist,donbass,krov',krov'.perelivanie,lnr,mir_luganschine,pomosch,volonter
 eof
 off
 page

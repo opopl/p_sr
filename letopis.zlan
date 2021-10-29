@@ -35673,6 +35673,12 @@ page
 page
 	set url https://strana.news/news/241166-izbili-nohami-i-oblili-mochoj-na-sude-po-delu-sheremeta-izbili-zhurnalista-sharijnet.html
 	set tags izbienie,sharij_net,sheremet_pavel,strana_ua,sud,ukraina,zhurnalist
+page
+	set url https://strana.news/opinions/359618-nyneshnie-ljudi-ochen-lehko-prevrashchajutsja-v-zombi.html
+	set tags chelovek,obschestvo,raskol,ukraina,zombi
+page
+	set url https://strana.news/opinions/359616-kovid-pasporta-stanovjatsja-lakmusom-ukrainskoho-pozora.html
+	set tags covid,covid_passport,obman,obschestvo,pandemia,pozor,strana,ukraina
 eof
 off
 page

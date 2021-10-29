@@ -35679,6 +35679,15 @@ page
 page
 	set url https://strana.news/opinions/359616-kovid-pasporta-stanovjatsja-lakmusom-ukrainskoho-pozora.html
 	set tags covid,covid_passport,obman,obschestvo,pandemia,pozor,strana,ukraina
+page
+	set url https://lgaki.info/novosti/priz-za-reanimatsiyu-zhizni/
+	set tags donbass,film,kino,kultura,lgaki,lnr,nagrada,priz,zhizn
+page
+	set url https://voskhodinfo.su/novosti-sobytiya/novosti-donbassa/69630-doneck-otmetit-den-goroda-kulturnymi-sobytijami.html
+	set tags den.shahtera,den_goroda,dnr,donbass,doneck,gorod,kultura
+page
+	set url https://odnarodyna.org/article/amerikanskie-bazy-na-ukraine-mogut-zakonchit-po-kabulski
+	set tags geopolitika,nato,politika,rossia,strana,ukraina,usa
 eof
 off
 page

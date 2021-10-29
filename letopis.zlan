@@ -35649,6 +35649,12 @@ page
 page
 	set url https://voskhodinfo.su/panorama/geopolitika/72035-ukraina-donbass-jeto-ne-konec-istorii-jeto-ee-nachalo.html
 	set tags dnr,donbass,geopolitika,lnr,ukraina,vojna
+page
+	set url https://regnum.ru/news/society/3410889.html
+	set tags moskva,rossia,volonter
+page
+	set url https://regnum.ru/news/society/3404850.html
+	set tags korabl,korabl.kruzenshtern,krugosvetka,more,moreplavanie,moskva,muzej,rossia,vystavka
 eof
 off
 page

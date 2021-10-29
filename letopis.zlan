@@ -35664,6 +35664,15 @@ page
 page
 	set url https://zen.yandex.ru/media/lovely_fk/namechaetsia-bitva-trikselei-u-jenscin-na-skate-canada-kto-smojet-prizemlit-3a-na-starte-617b93979dd9190a8bab6935
 	set tags figurist,figurnoje_katanie,kanada,rossia,sorevnovanie,sport
+page
+	set url https://strana.news/news/359378-dtp-v-kharkove-na-odesskoj-sud-izbiraet-meru-presechenija-nikolaju-kharkovskomu.html
+	set tags __oct_2021.dtp.harkov.mazhor
+page
+	set url https://strana.news/articles/reconstruction/241238-zhurnalistka-stranaua-julija-korzun-rasskazala-ob-uhrozakh-ot-radikalov.html
+	set tags izbienie,sharij_net,sheremet_pavel,sud,ukraina,zhurnalist
+page
+	set url https://strana.news/news/241166-izbili-nohami-i-oblili-mochoj-na-sude-po-delu-sheremeta-izbili-zhurnalista-sharijnet.html
+	set tags izbienie,sharij_net,sheremet_pavel,strana_ua,sud,ukraina,zhurnalist
 eof
 off
 page

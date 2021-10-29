@@ -35652,14 +35652,12 @@ page
 page
 	set url https://regnum.ru/news/society/3410889.html
 	set tags moskva,rossia,volonter
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://regnum.ru/news/society/3404850.html
 	set tags korabl,korabl.kruzenshtern,krugosvetka,more,moreplavanie,moskva,muzej,rossia,vystavka
+page
+	set url https://regnum.ru/news/society/3386874.html
+	set tags leto.babje,moskva,podmoskovje,pogoda,priroda,rossia
 eof
 off
 page

@@ -35643,6 +35643,12 @@ on
 page
 	set url https://strana.news/opinions/359535-esli-prinjat-ritoriku-vlasti-po-osvobozhdeniju-ukrainy-mozhno-sojti-s-uma.html
 	set tags 1944.ukraina.osvobozhdenie.vov.28_oct,institut_nacpamjati,istoria,okupacia,pamjat,sssr,ukraina
+page
+	set url https://lgaki.info/novosti/studenty-akademii-matusovskogo-v-spiske-pobeditelej-mezhdunarodnogo-konkursa-risunkov-posvyashhennogo-200-letiyu-so-dnya-rozhdeniya-dostoevskogo/
+	set tags 200_let,donbass,dostojevskii_fedor,konkurs,kultura,lgaki,lnr,risunok,rossia,studenty
+page
+	set url https://voskhodinfo.su/panorama/geopolitika/72035-ukraina-donbass-jeto-ne-konec-istorii-jeto-ee-nachalo.html
+	set tags dnr,donbass,geopolitika,lnr,ukraina,vojna
 eof
 off
 page

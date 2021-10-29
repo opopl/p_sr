@@ -35658,6 +35658,12 @@ page
 page
 	set url https://regnum.ru/news/society/3386874.html
 	set tags leto.babje,moskva,podmoskovje,pogoda,priroda,rossia
+page
+	set url https://regnum.ru/news/innovatio/3409285.html
+	set tags cvety,hrizantema,krasota,krym,rossia,sad,vystavka
+page
+	set url https://zen.yandex.ru/media/lovely_fk/namechaetsia-bitva-trikselei-u-jenscin-na-skate-canada-kto-smojet-prizemlit-3a-na-starte-617b93979dd9190a8bab6935
+	set tags figurist,figurnoje_katanie,kanada,rossia,sorevnovanie,sport
 eof
 off
 page

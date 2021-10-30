@@ -35720,6 +35720,9 @@ global
 page
 	set url https://lug-info.com/news/ucitela-iz-stahanova-obsudili-izmenenia-v-ramkah-programmy-2024
 	set tags aktivist,lnr,mir_luganschine,obrazovanie,shkola,uchitel
+page
+	set url https://news.obozrevatel.com/russia/rossiya-berezki-fashizm.htm
+	set tags bandera_stepan,imperia,narod.russkij,rossia,russkie
 eof
 off
 page

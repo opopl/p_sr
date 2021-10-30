@@ -35710,6 +35710,14 @@ page
 	set url https://news.obozrevatel.com/society/ukraina-bolshe-ne-vernetsya-v-russkij-kontslager.htm
 	set tags geopolitika,rossia,rusmir,ukraina
 page
+	set url https://strana.news/opinions/359710-snbo-objavil-antiprivivochnuju-propahandu-v-ukraine-rossijskoj-spetsoperatsiej.html
+	set tags antivaccinacia,infvojna,propaganda,rnbo,rossia,telegram,ukraina,vaccinacia
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
 	set url https://lug-info.com/news/ucitela-iz-stahanova-obsudili-izmenenia-v-ramkah-programmy-2024
 	set tags aktivist,lnr,mir_luganschine,obrazovanie,shkola,uchitel
 eof

@@ -35750,6 +35750,12 @@ page
 	set url https://pikabu.ru/story/4_taras_shevchenko_poyema_katerina_mnenie_obyivatelya_8169210
 	set tags kultura,literatura,mentalitet,poema.katerina.shevchenko,shevchenko_taras,ukraina
 on
+page
+	set url https://zen.yandex.ru/media/haydamak/ukraina-kiev-artzavod-platforma-flagman-nesvobody-ili-kak-ia-vnezapno-nashel-ostrovok-rossii-v-ukrainskoi-stolice-615f6b3f88d7d5437bfac53f
+	set tags foto,kiev,rossia,svoboda,ukraina,vpechatlenie
+page
+	set url https://zen.yandex.ru/media/haydamak/ukraina-kiev-gorod-govoriascih-sten-617abe1a7110736fc2b38eab
+	set tags gorod,kiev,nadpis',puteshestvie,rossia,ukraina,vpechatlenie
 eof
 off
 page

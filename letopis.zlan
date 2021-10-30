@@ -35694,6 +35694,12 @@ page
 page
 	set url https://mir-lug.info/novosti-terotdelenij/akcziya-protyani-ruku-zhizni-proshla-v-bryanke/
 	set tags aktivist,donbass,krov',krov'.perelivanie,lnr,mir_luganschine,pomosch,volonter
+page
+	set url https://www.volyn.com.ua/news/196721-iuna-horokhivchanka-pryvezla-nahorodu-zi-sportyvnykh-zmahan
+	set tags nagrada,sport,turizm,ukraina
+page
+	set url https://zaxid.net/mertvi_geroyi_proti_zhivih_lyudey_n1529255
+	set tags geroizacia,geroj,ideologia,infvojna,istoria,obschestvo,propaganda,psihologia,ukraina
 eof
 off
 page

@@ -35709,6 +35709,9 @@ page
 page
 	set url https://news.obozrevatel.com/society/ukraina-bolshe-ne-vernetsya-v-russkij-kontslager.htm
 	set tags geopolitika,rossia,rusmir,ukraina
+page
+	set url https://lug-info.com/news/ucitela-iz-stahanova-obsudili-izmenenia-v-ramkah-programmy-2024
+	set tags aktivist,lnr,mir_luganschine,obrazovanie,shkola,uchitel
 eof
 off
 page

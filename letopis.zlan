@@ -35723,6 +35723,9 @@ page
 page
 	set url https://news.obozrevatel.com/russia/rossiya-berezki-fashizm.htm
 	set tags bandera_stepan,imperia,narod.russkij,rossia,russkie
+page
+	set url https://lenta.ru/articles/2021/10/30/tsar-bomba/
+	set tags 1961,atomic_bomb,hruschov_nikita,istoria,kreml,sssr,tsar.bomba
 eof
 off
 page

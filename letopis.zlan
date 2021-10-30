@@ -35703,6 +35703,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/takie-smeshnye-ukrainskaia-politika-cherez-prizmu-tvorchestva-gogolia-617a5f15aa83b66f09805d56
 	set tags chelovek,gogol_nikolai,jumor,literatura,malorossia,rossia,satira,ukraina
+page
+	set url https://gazeta.ua/blog/55991/rosiya-otrimala-dva-schiglya-po-nosi-vid-ukrayini
+	set tags geopolitika,oruzhie,rossia,turcia,ukraina,zoloto.skifskoje
+page
+	set url https://news.obozrevatel.com/society/ukraina-bolshe-ne-vernetsya-v-russkij-kontslager.htm
+	set tags geopolitika,rossia,rusmir,ukraina
 eof
 off
 page

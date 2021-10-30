@@ -35730,6 +35730,9 @@ page
 page
 	set url https://fraza.com/analytics/306587-pro-ukrainskij-russkij-jazyk-i-kulishovskij-mif
 	set tags filologia,istoria,jazyk,kiev,kulish_pantelejmon,mova,rossia,ukraina
+page
+	set url https://strana.news/news/359774-v-summakh-na-ploshchadi-napali-na-semochnuju-hruppu-telekanala-nash.html
+	set tags napadenie,pravyj_sektor,sumy,telekanal_nash,ukraina,zhurnalist
 eof
 off
 page

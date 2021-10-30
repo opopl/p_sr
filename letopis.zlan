@@ -35712,11 +35712,6 @@ page
 page
 	set url https://strana.news/opinions/359710-snbo-objavil-antiprivivochnuju-propahandu-v-ukraine-rossijskoj-spetsoperatsiej.html
 	set tags antivaccinacia,infvojna,propaganda,rnbo,rossia,telegram,ukraina,vaccinacia
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://lug-info.com/news/ucitela-iz-stahanova-obsudili-izmenenia-v-ramkah-programmy-2024
 	set tags aktivist,lnr,mir_luganschine,obrazovanie,shkola,uchitel
@@ -35726,6 +35721,15 @@ page
 page
 	set url https://lenta.ru/articles/2021/10/30/tsar-bomba/
 	set tags 1961,atomic_bomb,hruschov_nikita,istoria,kreml,sssr,tsar.bomba
+page
+	set url https://day.kyiv.ua/uk/article/cuspilstvo/knyga-sylnyh-sensiv
+	set tags ideologia,imperia,infvojna,kniga,kultura,literatura,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/id/602111159966a838711acd02/voennyi-genii-rusi-617b9a60573dac467e48f13a
+	set tags istoria,rossia
+page
+	set url https://fraza.com/analytics/306587-pro-ukrainskij-russkij-jazyk-i-kulishovskij-mif
+	set tags filologia,istoria,jazyk,kiev,kulish_pantelejmon,mova,rossia,ukraina
 eof
 off
 page

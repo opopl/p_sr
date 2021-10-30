@@ -35733,6 +35733,23 @@ page
 page
 	set url https://strana.news/news/359774-v-summakh-na-ploshchadi-napali-na-semochnuju-hruppu-telekanala-nash.html
 	set tags napadenie,pravyj_sektor,sumy,telekanal_nash,ukraina,zhurnalist
+page
+	set url https://pravyysektor.info/oriyentyry-novyny/zapovit-shevchenka
+	set tags nacionalizm,nenavist,pravyj_sektor,shevchenko_taras,ukraina
+page
+	set url https://zen.yandex.ru/media/history_russian/tragicheskaia-sudba-tarasa-shevchenko-5cc8061ceb28ac00aea47658
+	set tags shevchenko_taras
+page
+	set url https://zen.yandex.ru/media/id/5d498e0735ca3100ac149bd0/obektivno-o-tarase-shevchenko-5ed4ad88125fcf03b498e28c
+	set tags rossia,shevchenko_taras,ukraina
+page
+	set url https://topwar.ru/155187-nastojaschij-shevchenko-bez-ukrainizma.html
+	set tags shevchenko_taras,ukraina,ukrainstvo
+off
+page
+	set url https://pikabu.ru/story/4_taras_shevchenko_poyema_katerina_mnenie_obyivatelya_8169210
+	set tags kultura,literatura,mentalitet,poema.katerina.shevchenko,shevchenko_taras,ukraina
+on
 eof
 off
 page

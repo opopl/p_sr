@@ -84,6 +84,7 @@
 'odnarodyna.org' : { 'site' : 'news.ru.odnarodyna' }
 
 'gazeta.ru': { 'site' : 'news.ru.gzt' } 
+'topwar.ru': { 'site' : 'news.ru.topwar' } 
 
 # vashi novosti
 'vnnews.ru' : { 'site' : 'news.ru.vashi_novosti' }

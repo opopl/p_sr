@@ -35783,6 +35783,12 @@ page
 page
 	set url https://analytics.hvylya.net/240749-mova-ce-zbroya-chomu-ya-rozmovlyayu-ukrajinskoyu-ale-proti-movnoji-diktaturi
 	set tags jazyk,mova,obschestvo,strana,ukraina,ukrainizacia
+page
+	set url https://analytics.hvylya.net/240689-opyat-ob-ideologii-dlya-ukrainy
+	set tags future,ideologia,nacidea,obschestvo,strana,ukraina
+page
+	set url https://analytics.hvylya.net/240657-v-yaku-gru-kalmara-grayut-z-ukrajinoyu
+	set tags igra_v_kalmara,rossia,ukraina
 eof
 off
 page

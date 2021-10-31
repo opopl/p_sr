@@ -35756,6 +35756,12 @@ page
 page
 	set url https://zen.yandex.ru/media/haydamak/ukraina-kiev-gorod-govoriascih-sten-617abe1a7110736fc2b38eab
 	set tags gorod,kiev,nadpis',puteshestvie,rossia,ukraina,vpechatlenie
+page
+	set url https://ukraina.ru/interview/20190309/1022927500.html
+	set tags idol,kult,poklonenie,shevchenko_taras,ukraina
+page
+	set url https://ukraina.ru/exclusive/20211030/1032524741.html
+	set tags jazyk,mova,nacia,obschestvo,strana,ukraina,ukrainizacia
 eof
 off
 page

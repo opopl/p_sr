@@ -35771,6 +35771,12 @@ page
 page
 	set url https://strana.news/opinions/359759-kohda-svjashchennik-nachinaet-bit-za-russkij-jazyk-eto-uzhe-predel.html
 	set tags cerkov,izbienie,jazyk,kiev,napadenie,nasilie,pcu,ukraina,woman
+page
+	set url https://strana.news/news/359833-mitinh-pod-op-ljudi-trebujut-snizhenija-tarifov.html
+	set tags akcia,gogol_nikolai,ofis_prezidenta,protest,tarify,ukraina
+page
+	set url https://strana.news/news/359802-episkop-adrian-iz-ptsu-izbil-zhenshchinu-v-kieve-video-chem-on-eshche-izvesten.html
+	set tags cerkov,izbienie,jazyk,kiev,napadenie,pcu,ukraina,woman
 eof
 off
 page

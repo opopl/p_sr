@@ -35795,6 +35795,9 @@ page
 page
 	set url https://sharij.net/govyadina-po-20-na-rynke-v-kieve-nachali-prodavat-myaso-dlya-tishhenko
 	set tags bazar,foto,kiev,mjaso,prodazha,produkty,tischenko_nikolai.deputat,ukraina
+page
+	set url https://ukraina.ru/exclusive/20211031/1032524860.html
+	set tags narod,nenavist,obschestvo,rossia,sssr,ukraina
 eof
 off
 page

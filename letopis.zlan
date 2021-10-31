@@ -35789,6 +35789,9 @@ page
 page
 	set url https://analytics.hvylya.net/240657-v-yaku-gru-kalmara-grayut-z-ukrajinoyu
 	set tags igra_v_kalmara,rossia,ukraina
+page
+	set url https://ukraina.ru/opinion/20211030/1032564515.html
+	set tags biblia,evangelie,slovo
 eof
 off
 page

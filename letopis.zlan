@@ -35792,6 +35792,9 @@ page
 page
 	set url https://ukraina.ru/opinion/20211030/1032564515.html
 	set tags biblia,evangelie,slovo
+page
+	set url https://sharij.net/govyadina-po-20-na-rynke-v-kieve-nachali-prodavat-myaso-dlya-tishhenko
+	set tags bazar,foto,kiev,mjaso,prodazha,produkty,tischenko_nikolai.deputat,ukraina
 eof
 off
 page

@@ -35762,6 +35762,12 @@ page
 page
 	set url https://ukraina.ru/exclusive/20211030/1032524741.html
 	set tags jazyk,mova,nacia,obschestvo,strana,ukraina,ukrainizacia
+page
+	set url https://gazeta.ua/blog/55992/ukrayinsku-kulturu-dovelosya-vityagati-z-dna-i-perestvoryuvati-z-ulamkiv
+	set tags andruhovych_jurij,kultura,sssr,ukraina,ussr
+page
+	set url https://www.radiosvoboda.org/a/31535660.html
+	set tags istoria,katerina_vtoraja,kiev,medicina,rossia,ukraina,vaccinacia
 eof
 off
 page

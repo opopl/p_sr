@@ -35777,6 +35777,12 @@ page
 page
 	set url https://strana.news/news/359802-episkop-adrian-iz-ptsu-izbil-zhenshchinu-v-kieve-video-chem-on-eshche-izvesten.html
 	set tags cerkov,izbienie,jazyk,kiev,napadenie,pcu,ukraina,woman
+page
+	set url https://strana.news/news/359200-ukraintsy-raskritikovali-ideju-danilova-o-prezidentskoj-respublike-opros-strany-.html
+	set tags beloglazova_antonina.kiev.stranaua,kiev,kievljane,socopros,ukraina,zelenskii_vladimir
+page
+	set url https://analytics.hvylya.net/240749-mova-ce-zbroya-chomu-ya-rozmovlyayu-ukrajinskoyu-ale-proti-movnoji-diktaturi
+	set tags jazyk,mova,obschestvo,strana,ukraina,ukrainizacia
 eof
 off
 page

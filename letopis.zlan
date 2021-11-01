@@ -35849,6 +35849,15 @@ page
 page
 	set url https://strana.news/news/359958-po-tsentru-kieva-proshli-rasisty-v-kostjumakh-ku-kluks-klana.html
 	set tags akcia,gorod,kiev,ku_kluks_klan
+page
+	set url https://zen.yandex.ru/media/id/5f391cb0f6a63b19987984c7/prokaty-rossiiskih-devushek-na-skeit-kanada-otzyvy-inostrannyh-bolelscikov-617ec161fc4ba2579f66efa1
+	set tags bolelschik,devushka,figurist,figurnoje_katanie,kanada,krasota,rossia,sport
+page
+	set url https://zen.yandex.ru/media/id/617aa727f177652c837cf949/poslushal-ukrainskie-novosti-o-rf-daje-ne-ukladyvaetsia-v-golove-kak-v-takoe-mojno-verit-sever-golodaet-617f98a5090cfe5e638f1bb6
+	set tags covid,rossia,smi.ukraina,ukraina,vranje
+page
+	set url https://www.championat.com/figureskating/news-4500077-chempionskij-pokazatelnyj-prokat-kamily-valievoj-na-skate-canada-video.html
+	set tags figurist,figurnoje_katanie,pobeda,rekord,rossia,sport,valieva_kamila.rossia.figuristka
 eof
 off
 page

@@ -35807,6 +35807,9 @@ page
 page
 	set url https://strana.news/opinions/359851-chtoby-ne-nastupat-na-hrabli-ukraintsam-nuzhno-izuchat-istoriju.html
 	set tags francia,germania,istoria,nacionalizm,ukraina
+page
+	set url https://strana.news/opinions/359831-uporotye-tovarishchi-radi-svoikh-idej-hotovy-zamorozit-stranu.html
+	set tags energetika,nacionalist,rossia,ukraina,uporotyje
 eof
 off
 page

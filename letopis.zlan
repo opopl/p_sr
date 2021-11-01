@@ -35825,6 +35825,18 @@ page
 page
 	set url https://zz.te.ua/kraieznavchyy-muzey-otrymav-unikal-nu-istoriiu-ternopolia-foto/
 	set tags istoria,kniga,muzei,rukopisj,ternopil,ukraina
+page
+	set url https://zz.te.ua/v-pershyj-den-novoho-roku-ternopil-svyatkuje-den-narodzhennya-bandery/
+	set tags bandera_stepan,birthday,prazdnik,prazdnovanie,ternopil,ukraina
+page
+	set url https://zen.yandex.ru/media/nepredvzyatiysport/skate-canada-devushki-proizvolnaia-programma-kamila-valieva-obnovila-mirovoi-rekord-617da6d6eaf6465490b6ebfe
+	set tags devushka,figurist,figurnoje_katanie,rossia,sport
+page
+	set url https://zen.yandex.ru/media/lovely_fk/rossiianki-lidiruiut-po-itogam-kp-na-skate-america-luchshii-rezultat-trusovoi-v-karere-6174f5e11547861a46a8f2d2
+	set tags devushka,figurist,figurnoje_katanie,rossia,sorevnovanie,sport,trusova_aleksandra
+page
+	set url https://zen.yandex.ru/media/id/5fe34b9cdcecf902ebdb0911/malaia-rus-istok-stavshii-bolotom-611410ae1bb82e33ef3621ed
+	set tags istoria,malaja_rus,malorossia,ukraina
 eof
 off
 page

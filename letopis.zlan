@@ -35846,6 +35846,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/602111159966a838711acd02/300letiiu-moskovii-posviascaetsia-60f29964cf9db26dda7a8641
 	set tags istoria,mify,moskovia,rossia
+page
+	set url https://strana.news/news/359958-po-tsentru-kieva-proshli-rasisty-v-kostjumakh-ku-kluks-klana.html
+	set tags akcia,gorod,kiev,ku_kluks_klan
 eof
 off
 page

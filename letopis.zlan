@@ -35858,6 +35858,12 @@ page
 page
 	set url https://www.championat.com/figureskating/news-4500077-chempionskij-pokazatelnyj-prokat-kamily-valievoj-na-skate-canada-video.html
 	set tags figurist,figurnoje_katanie,pobeda,rekord,rossia,sport,valieva_kamila.rossia.figuristka
+page
+	set url https://fraza.com/analytics/305337-kirillichnye-stradanija-
+	set tags jazyk,kirillica,latinica,mova,rusmir,ukraina
+page
+	set url https://zen.yandex.ru/media/53news.ru/perenervnichala-vo-vremia-nagrajdeniia-rossiiskih-figuristok-proizoshel-kureznyi-incident-617f0c9834f9a03edcc0877b
+	set tags figurist,figurnoje_katanie,krasota,rekord,rossia,sport,valieva_kamila.rossia.figuristka
 eof
 off
 page

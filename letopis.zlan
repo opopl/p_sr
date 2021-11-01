@@ -35810,6 +35810,21 @@ page
 page
 	set url https://strana.news/opinions/359831-uporotye-tovarishchi-radi-svoikh-idej-hotovy-zamorozit-stranu.html
 	set tags energetika,nacionalist,rossia,ukraina,uporotyje
+page
+	set url https://day.kyiv.ua/uk/news/011121-doba-v-oos-14-porushen-travmovanyy-voyin
+	set tags donbass,ukraina,vojna
+page
+	set url https://zaxid.net/pishov_z_zhittya_ukrayinskiy_pismennik_volodimir_rutkivskiy_n1529316
+	set tags covid,kultura,literatura,rutkivskij_vladimir.ukr.pisatel,smert,ukraina
+page
+	set url https://www.volyn.com.ua/news/196990-odynadtsiatyrichna-volynianka-vydala-zbirku-vlasnykh-virshiv
+	set tags deti,literatura,poezia,rebenok,stihi,ukraina,vaschuk_solomija.ukr.poet.rebenok
+page
+	set url https://zz.te.ua/u-ternopoli-prokhodyt-vseukrains-kyy-turnir-z-vil-noi-borot-by-sered-cholovikiv-ternove-pole/
+	set tags borjba.voljnaja.sport,deti,sorevnovanie,sport,ternopil,turnir,ukraina
+page
+	set url https://zz.te.ua/kraieznavchyy-muzey-otrymav-unikal-nu-istoriiu-ternopolia-foto/
+	set tags istoria,kniga,muzei,rukopisj,ternopil,ukraina
 eof
 off
 page

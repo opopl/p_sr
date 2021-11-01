@@ -35837,6 +35837,15 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5fe34b9cdcecf902ebdb0911/malaia-rus-istok-stavshii-bolotom-611410ae1bb82e33ef3621ed
 	set tags istoria,malaja_rus,malorossia,ukraina
+page
+	set url https://zen.yandex.ru/media/id/6107dbbc8f76ec69c04ea1d5/kto-jil-na-zemliah-buduscei-moskvy-slaviane-poiavilis-namnogo-pozje-kto-je-vy-predki-korennyh-moskvichei-612a3ba09f19a00797a78d20
+	set tags finno_ugry,istoria,krivichi,moskva,rossia,rusj,slavjane
+page
+	set url https://zen.yandex.ru/media/id/602111159966a838711acd02/kak-rossiia-s-ukrainoi-voevala-60e42e2ffc247b0058ba99a4
+	set tags istoria,rossia,ukraina,vojna
+page
+	set url https://zen.yandex.ru/media/id/602111159966a838711acd02/300letiiu-moskovii-posviascaetsia-60f29964cf9db26dda7a8641
+	set tags istoria,mify,moskovia,rossia
 eof
 off
 page

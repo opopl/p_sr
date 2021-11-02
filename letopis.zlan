@@ -35879,6 +35879,9 @@ page
 page
 	set url https://strana.news/news/360192-ukraina-ekstrenno-zaprosila-pomoshch-u-belarusi-po-elektroenerhii-minsk-nachal-postavki.html
 	set tags belarus,elektroenergia,energetika,pomosch,ukraina
+page
+	set url https://strana.news/opinions/360199-po-kazhdoj-probleme-ukrainskij-narod-vpadaet-v-isteriku-i-poljarizuetsja.html
+	set tags myshlenie,obschestvo,ukraina
 eof
 off
 page

@@ -35873,6 +35873,12 @@ page
 page
 	set url https://zen.yandex.ru/media/mlozha/kak-karamzin-navsegda-izmenil-russkii-iazyk-612a62b1538b705fd6669995
 	set tags filologia,jazyk,karamzin_nikolaj.istorik,kultura,language,slovo
+page
+	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/otdalivshaiasia-ot-nas-ukraina-615b2494797d4c00c8a68913
+	set tags gorod,kiev,politika,rossia,sravnenie,ukraina,ukraina_russia_relations,zhizn
+page
+	set url https://strana.news/news/360192-ukraina-ekstrenno-zaprosila-pomoshch-u-belarusi-po-elektroenerhii-minsk-nachal-postavki.html
+	set tags belarus,elektroenergia,energetika,pomosch,ukraina
 eof
 off
 page

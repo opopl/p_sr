@@ -35867,6 +35867,9 @@ page
 page
 	set url https://zen.yandex.ru/media/dosuznik/istoriia-zaparallelennogo-mira-ukrainy-618004c5d7c9b83c8df51d8c
 	set tags istoria,ukraina
+page
+	set url https://strana.news/opinions/359917-vrachi-uzhe-hovorjat-o-neokazanii-meditsinskoj-pomoshchi-nevaktsinirovannym.html
+	set tags chelovechnost,golubovskaja_olga.ukr.vrach,ukraina
 eof
 off
 page

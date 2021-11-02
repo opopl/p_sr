@@ -35870,6 +35870,9 @@ page
 page
 	set url https://strana.news/opinions/359917-vrachi-uzhe-hovorjat-o-neokazanii-meditsinskoj-pomoshchi-nevaktsinirovannym.html
 	set tags chelovechnost,golubovskaja_olga.ukr.vrach,ukraina
+page
+	set url https://zen.yandex.ru/media/mlozha/kak-karamzin-navsegda-izmenil-russkii-iazyk-612a62b1538b705fd6669995
+	set tags filologia,jazyk,karamzin_nikolaj.istorik,kultura,language,slovo
 eof
 off
 page

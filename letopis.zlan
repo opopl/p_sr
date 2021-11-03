@@ -35915,6 +35915,9 @@ page
 page
 	set url https://lug-info.com/news/unye-ziteli-lnr-v-videorolike-pozdravili-sootecestvennikov-s-dnem-narodnogo-edinstva
 	set tags den.narodnogo_edinstva.rossia,deti,donbass,lnr,pozdravlenie,prazdnik,rossia
+page
+	set url https://strana.news/opinions/360391-ombudsmena-ne-volnuet-to-chto-mirotvorets-publikuet-lichnye-dannye-hrazhdan.html
+	set tags denisova_ljudmyla.ukr.upoln_s_prav_cheloveka,mirotvorec_sajt,oon,savenkova_faina,ukraina
 eof
 off
 page

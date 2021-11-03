@@ -35906,6 +35906,9 @@ page
 page
 	set url https://strana.news/opinions/360197-chem-niveliruetsja-bezumie-zakonov-i-norm-nasheho-hosudarstva.html
 	set tags doroga,gorod,kiev,skorostj,ukraina,zakon
+page
+	set url https://zen.yandex.ru/media/tsargrad.tv/kuarkody-ne-srabotali-russkie-liudi-oboshli-sistemu-61826d4edcd434620d7cd4ee
+	set tags karantin,rossia,russkie
 eof
 off
 page

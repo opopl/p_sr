@@ -35888,6 +35888,21 @@ page
 page
 	set url http://slovoprosvity.org/2021/11/01/yak-vyhraty-informatsiynu-viynu/
 	set tags informacia,infvojna,obschestvo,rossia,ukraina
+page
+	set url http://slovoprosvity.org/2021/11/01/informatsiia-shliakhy-do-pravdy-i-peremohy/
+	set tags infvojna,moskva,rossia,ukraina,vojna
+page
+	set url https://bigkyiv.com.ua/svyata-paraskeva-i-vsesvit-bilya-kyyeva-ye-unikalnyj-muzej-kosmosu-u-starovynnij-czerkvi-foto/
+	set tags cerkov,istoria,kosmos,muzei,ukraina
+page
+	set url https://bigkyiv.com.ua/rozbyte-sercze-u-sofiyi-kyyivskij-arheology-znajshly-dyvovyzhnyj-fragment-fresky/
+	set tags freska,kiev,kievrus,serdce,sofia_sobor,ukraina
+page
+	set url https://zen.yandex.ru/media/dosuznik/skazka-o-velikom-i-moguchem-ukrainskom-iazyke-61818498719e0119c79ee46d
+	set tags istoria,jazyk,mova,ukraina
+page
+	set url https://bigkyiv.com.ua/misto-na-styli-ukrayinske-baroko-neogotyka-stalinskyj-ampir-i-ne-tilky/
+	set tags arhitektura,gorod,istoria,kiev,ukraina
 eof
 off
 page

@@ -35909,6 +35909,12 @@ page
 page
 	set url https://zen.yandex.ru/media/tsargrad.tv/kuarkody-ne-srabotali-russkie-liudi-oboshli-sistemu-61826d4edcd434620d7cd4ee
 	set tags karantin,rossia,russkie
+page
+	set url https://lug-info.com/news/ziteli-kirovska-proveli-miting-v-pamat-o-zemlakah-pogibsih-pri-obstrelah-so-storony-vsu
+	set tags donbass,kirovsk.lnr,lnr,miting,pamjat,ukraina,vojna,vsu
+page
+	set url https://lug-info.com/news/unye-ziteli-lnr-v-videorolike-pozdravili-sootecestvennikov-s-dnem-narodnogo-edinstva
+	set tags den.narodnogo_edinstva.rossia,deti,donbass,lnr,pozdravlenie,prazdnik,rossia
 eof
 off
 page

@@ -35924,6 +35924,9 @@ page
 page
 	set url https://fraza.com/analytics/306844-mir-rozovyh-poni
 	set tags kontrolj,obschestvo,zabota
+page
+	set url https://lug-info.com/news/proekt-molodaya-gvardiya-obuyavil-konkurs-tvorchestva-v-kul-ture-naroda-edinstvo-strany
+	set tags den.narodnogo_edinstva.rossia,donbass,kultura,lnr,mir_luganschine,molodezh,narod,rusmir
 eof
 off
 page

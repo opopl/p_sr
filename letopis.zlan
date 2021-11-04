@@ -35927,6 +35927,9 @@ page
 page
 	set url https://lug-info.com/news/proekt-molodaya-gvardiya-obuyavil-konkurs-tvorchestva-v-kul-ture-naroda-edinstvo-strany
 	set tags den.narodnogo_edinstva.rossia,donbass,kultura,lnr,mir_luganschine,molodezh,narod,rusmir
+page
+	set url https://strana.news/opinions/360542-naselenie-ukrainy-po-faktu-podverzheno-idee-hetmanata.html
+	set tags getman,liderstvo,obschestvo,psihologia,ukraina,vlast
 eof
 off
 page

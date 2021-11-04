@@ -35930,6 +35930,12 @@ page
 page
 	set url https://strana.news/opinions/360542-naselenie-ukrainy-po-faktu-podverzheno-idee-hetmanata.html
 	set tags getman,liderstvo,obschestvo,psihologia,ukraina,vlast
+page
+	set url https://strana.news/news/360601-verkhovnyj-sud-rassmotrit-nezakonnost-sanktsij-protiv-ihorja-huzhvy.html
+	set tags cenzura,gushva_igor,rnbo,sankcii,strana_ua,sud,ukraina,verhovnyy_sud
+page
+	set url https://zen.yandex.ru/media/nataliiaefimova_2905/liubliu-svoiu-stranu-6183704f17cb4e669a6e14c1
+	set tags druzhba,foto,ljubov,rodina,rossia,semja,strana
 eof
 off
 page

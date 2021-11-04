@@ -35918,6 +35918,9 @@ page
 page
 	set url https://strana.news/opinions/360391-ombudsmena-ne-volnuet-to-chto-mirotvorets-publikuet-lichnye-dannye-hrazhdan.html
 	set tags denisova_ljudmyla.ukr.upoln_s_prav_cheloveka,mirotvorec_sajt,oon,savenkova_faina,ukraina
+page
+	set url https://strana.news/news/360344-kak-chleny-munitsipalnoj-varty-kieva-izbili-dubinkoj-kievljanina.html
+	set tags gorod,izbienie,kiev,munvarta.kiev,nasilie,ukraina
 eof
 off
 page

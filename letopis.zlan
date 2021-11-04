@@ -35921,6 +35921,9 @@ page
 page
 	set url https://strana.news/news/360344-kak-chleny-munitsipalnoj-varty-kieva-izbili-dubinkoj-kievljanina.html
 	set tags gorod,izbienie,kiev,munvarta.kiev,nasilie,ukraina
+page
+	set url https://fraza.com/analytics/306844-mir-rozovyh-poni
+	set tags kontrolj,obschestvo,zabota
 eof
 off
 page

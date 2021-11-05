@@ -35957,6 +35957,12 @@ page
 page
 	set url https://zaxid.net/chervono_chorna_vata_n1529539
 	set tags bandera_stepan,deti,ideologia,nacionalizm,obschestvo,pesnja,ukraina,vatnik
+page
+	set url https://bigkyiv.com.ua/deputatka-kyyivrady-lyudmyla-kovalevska-nazvala-kilka-prychyn-chomu-dekomunizacziyu-u-kyyevi-bude-prodovzheno/
+	set tags dekomunizacia,gorod,kiev,kievrada,ukraina
+page
+	set url https://bigkyiv.com.ua/vyzvolennya-kyyeva-ochyma-ochevydcziv-nas-suprovodzhuvaly-pozhezhi-i-vid-czogo-niby-bulo-teplishe/
+	set tags gorod,istoria,kiev,okkupacia,ukraina,vov
 eof
 off
 page

@@ -35963,6 +35963,9 @@ page
 page
 	set url https://bigkyiv.com.ua/vyzvolennya-kyyeva-ochyma-ochevydcziv-nas-suprovodzhuvaly-pozhezhi-i-vid-czogo-niby-bulo-teplishe/
 	set tags gorod,istoria,kiev,okkupacia,ukraina,vov
+page
+	set url https://strana.news/opinions/360683-eto-neudobnoe-slovo-pravda.html
+	set tags 2014,janukovich_viktor,maidan2,rassledovanie,ukraina
 eof
 off
 page

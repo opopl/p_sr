@@ -35951,6 +35951,9 @@ page
 page
 	set url https://zen.yandex.ru/media/julija/dva-pasporta-dva-grajdanstva-6179af5d6d36b528731c49de
 	set tags grazhdanstvo,passport,rossia,ukraina
+page
+	set url https://lug-info.com/news/zhiteli-iz-21-strany-obmenyalis-virtual-nymi-rukopozhatiyami-v-hode-akcii-druzhba-narodov
+	set tags akcia,donbass,druzhba,druzhba_narodov,internet,lnr,narod
 eof
 off
 page

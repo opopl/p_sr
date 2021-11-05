@@ -35939,6 +35939,18 @@ page
 page
 	set url https://strana.news/news/360646-sbu-na-sluzhbe-u-aktivista-rada-razhromila-zst-s-es-kievrada-unichtozhila-molodohvardejtsev.html
 	set tags gorod,itogi,kiev,kievrada,kremin_taras,leros_geo.ukr.deputat,pereimenovanija,ukraina,ukrainizacia
+page
+	set url https://zen.yandex.ru/media/ukrru/ukrainskie-pisatelibratia-618312bce8eeee6665ae858c
+	set tags kapranov_vitalii,kapranovy.bratja.pisateli,kollaborant,literatura,nacionalizm,ukraina,ukrainstvo
+page
+	set url https://zen.yandex.ru/media/julija/tamojnia-ne-daet-dobro-6182e0ea7b739e003bd576af
+	set tags granica,passport,rossia,tamozhnja,ukraina
+page
+	set url https://zen.yandex.ru/media/julija/policeiskoe-gosudarstvo-618428eaa205653cbea4948e
+	set tags granica,passport,pogranichnik,rossia,ukraina,vrag,zhizn
+page
+	set url https://zen.yandex.ru/media/julija/dva-pasporta-dva-grajdanstva-6179af5d6d36b528731c49de
+	set tags grazhdanstvo,passport,rossia,ukraina
 eof
 off
 page

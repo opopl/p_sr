@@ -35966,6 +35966,9 @@ page
 page
 	set url https://strana.news/opinions/360683-eto-neudobnoe-slovo-pravda.html
 	set tags 2014,janukovich_viktor,maidan2,rassledovanie,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5ef8896c0d13dd78e21972de/nachalo-russkogo-mira-est-obscii-prazdnik-dlia-rossii-ukrainy-i-belorussii-613f571f199c4d2e89cea60a
+	set tags istoria,kiev,kievrus,konstantinopol,rossia,rusj,ukraina,vizantia
 eof
 off
 page

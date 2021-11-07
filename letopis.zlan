@@ -35990,6 +35990,9 @@ page
 page
 	set url https://strana.news/news/360992-blablacar-zapustil-reklamu-s-kartoj-ukrainy-bez-kryma-.html
 	set tags blablacar,facebook,izvinenie,karta,krym,ukraina
+page
+	set url https://day.kyiv.ua/uk/article/den-ukrayiny/chomu-istoriyu-potribno-perepysuvaty-i-pereosmyslyuvaty
+	set tags istoria,katerina_vtoraja,kievrus,moskovia,rossia,ukraina
 eof
 off
 page

@@ -35975,6 +35975,9 @@ page
 page
 	set url https://lug-info.com/news/nedel-ya-glazami-eksperta-rotaciya-blokiratorov-ekobombist-i-komediya-gajdaya
 	set tags donbass,lnr,marochko_andrej.nm_lnr,nm_lnr,ukraina,vojna
+page
+	set url https://vrn.aif.ru/society/persona/hoperskiy_zapovednik_pod_voronezhem_obyavil_konkurs_kormushek
+	set tags fotografia,konkurs,kormushka,ptica,rossia,voronezh,zapovednik
 eof
 off
 page

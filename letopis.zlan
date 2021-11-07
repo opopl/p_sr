@@ -35999,6 +35999,9 @@ page
 page
 	set url https://gazeta.ua/blog/56029/rosiya-prirechena-fundamentom-yiyi-derzhavnosti-ye-brehnya-i-nenavist
 	set tags den.narodnogo_edinstva.rossia,prazdnik,rossia
+page
+	set url https://www.radiosvoboda.org/a/30707046.html
+	set tags istoria,jazyk,mova,russifikacia,sssr,ukraina,ukrainizacia
 eof
 off
 page

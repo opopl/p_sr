@@ -35978,6 +35978,9 @@ page
 page
 	set url https://vrn.aif.ru/society/persona/hoperskiy_zapovednik_pod_voronezhem_obyavil_konkurs_kormushek
 	set tags fotografia,konkurs,kormushka,ptica,rossia,voronezh,zapovednik
+page
+	set url https://www.radiosvoboda.org/a/30934082.html
+	set tags istoria,jazyk,kievrus,kultura,literatura,mova,nestor_letopisec,ukraina
 eof
 off
 page

@@ -35996,6 +35996,9 @@ page
 page
 	set url https://strana.news/news/360908--hlavred-strany-rasskazal-o-perspektivakh-zelenskoho-.html
 	set tags guzhva_igor,oligarhi,politika,rejting,ukraina,vybory,zelenskii_vladimir
+page
+	set url https://gazeta.ua/blog/56029/rosiya-prirechena-fundamentom-yiyi-derzhavnosti-ye-brehnya-i-nenavist
+	set tags den.narodnogo_edinstva.rossia,prazdnik,rossia
 eof
 off
 page

@@ -35993,6 +35993,9 @@ page
 page
 	set url https://day.kyiv.ua/uk/article/den-ukrayiny/chomu-istoriyu-potribno-perepysuvaty-i-pereosmyslyuvaty
 	set tags istoria,katerina_vtoraja,kievrus,moskovia,rossia,ukraina
+page
+	set url https://strana.news/news/360908--hlavred-strany-rasskazal-o-perspektivakh-zelenskoho-.html
+	set tags guzhva_igor,oligarhi,politika,rejting,ukraina,vybory,zelenskii_vladimir
 eof
 off
 page

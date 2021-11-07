@@ -74,6 +74,7 @@
 'rweek.ru' : { 'site' : 'news.ru.rweek' }
 'voicesevas.ru' : { 'site' : 'news.ru.voicesevas' }
 'teleskop.media' : { 'site' : 'news.ru.teleskop_media' }
+'syktyvkar.1istochnik.ru' : { 'site' : 'news.ru.syktyvkar.pervoistochnik' }
 
 # pravda rossii
 'news24ru.net' : { 'site' : 'news.ru.news24ru' }

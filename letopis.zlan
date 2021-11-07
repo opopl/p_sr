@@ -35984,6 +35984,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5e52a45be977e25b8eec5de4/murom-progulka-po-odnomu-iz-stareishih-gorodov-rossii-61485ea2800cd44002069062
 	set tags murom,rossia
+page
+	set url https://syktyvkar.1istochnik.ru/news/98537
+	set tags identichnost',issledovanie,kultura,nacia,narod,nauka,rossia,rusmir
 eof
 off
 page

@@ -35972,6 +35972,9 @@ page
 page
 	set url https://strana.news/articles/analysis/360812-kak-chinovnikov-i-uchitelej-s-ponedelnika-ostavjat-bez-raboty-i-zarplat-.html
 	set tags covid,karantin,prinuzhdenie,rabota,ukraina,vaccinacia
+page
+	set url https://lug-info.com/news/nedel-ya-glazami-eksperta-rotaciya-blokiratorov-ekobombist-i-komediya-gajdaya
+	set tags donbass,lnr,marochko_andrej.nm_lnr,nm_lnr,ukraina,vojna
 eof
 off
 page

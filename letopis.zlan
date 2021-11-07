@@ -36002,6 +36002,12 @@ page
 page
 	set url https://www.radiosvoboda.org/a/30707046.html
 	set tags istoria,jazyk,mova,russifikacia,sssr,ukraina,ukrainizacia
+page
+	set url https://gazeta.ua/blog/56033/radiodiktant-obyednuye-nas-navkolo-movi-yak-cinnosti-doluchajtesya-do-naciyi
+	set tags diktant,edinstvo,mova,nacia,obschestvo,radio,strana,ukraina
+page
+	set url https://zen.yandex.ru/media/ourhistory/den-narodnogo-edinstva-chto-voobsce-my-prazdnuem-4-noiabria--nemnogo-likbeza-5bdc178e40910900aab9c609
+	set tags den.narodnogo_edinstva.rossia,istoria,prazdnik,rossia
 eof
 off
 page

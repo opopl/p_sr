@@ -35987,6 +35987,9 @@ page
 page
 	set url https://syktyvkar.1istochnik.ru/news/98537
 	set tags identichnost',issledovanie,kultura,nacia,narod,nauka,rossia,rusmir
+page
+	set url https://strana.news/news/360992-blablacar-zapustil-reklamu-s-kartoj-ukrainy-bez-kryma-.html
+	set tags blablacar,facebook,izvinenie,karta,krym,ukraina
 eof
 off
 page

@@ -198,6 +198,13 @@ page
 	set tags chelovek,mudrost,sovest'
 	set title О ЛЮДЯХ...
 	set author_id vselennaja_mudrosti
+page
+	set url https://www.facebook.com/groups/story.kiev.ua/posts/1792451550951638/
+	set ii skver_chkalova
+	set date 07_11_2021
+	set tags chkalov_valerij,gorod,kiev,pereimenovanija,skver.kiev.chkalova,stupka_bogdan.ukr.akter,ukraina
+	set title ПЕРЕИМЕНОВАЛИ все-таки - Сквер имени Чкалова
+	set author_id fb_group.story_kiev_ua,batrak_svetlana.kiev
 eof
 off
 page

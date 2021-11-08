@@ -36047,6 +36047,9 @@ page
 page
 	set url https://strana.news/news/361123-chrome-sledit-za-polzovateljami-chto-delat.html
 	set tags browser.chrome,google,internet,slezhka
+page
+	set url https://strana.news/news/361147-krasnaja-zona-v-kieve-kak-proshla-nedelja-lokdauna-shtrafy-i-rost-zhelajushchikh-vaktsinirovatsja.html
+	set tags covid,deti,karantin,kiev,obschestvo,shkola,ukraina
 eof
 off
 page

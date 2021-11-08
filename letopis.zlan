@@ -36020,17 +36020,24 @@ page
 page
 	set url https://strana.news/news/361015-v-rovno-zmeja-pronikla-v-kvartiru-k-ljudjam-cherez-slivnuju-trubu-v-vannoj-komnate.html
 	set tags kvartira,rovno,ukraina,zmeja
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://zbruc.eu/node/108577
 	set tags cennosti,ideologia,maidan,nenavist,obschestvo,putin_vladimir,ukraina,ukrainstvo
 page
 	set url https://strana.news/opinions/361068-pochemu-v-kieve-ne-dolzhna-byt-ulitsa-v-chest-kuznetsova.html
 	set tags istoria,kiev,kievljane,kievrada,kuznecov_nikolaj.sssr.razvedchik,pereimenovanija,sssr,ukraina,ussr,vov
+page
+	set url https://strana.news/opinions/361041-kovid-mohilshchik-sotsialnykh-otnoshenij-postroennykh-na-lzhi.html
+	set tags covid,lozh',obschestvo,ukraina,vaccinacia
+page
+	set url https://lug-info.com/news/sverdlovskie-spasateli-vytasili-iz-kolodca-upavsuu-tuda-bezdomnuu-sobaku-mcs
+	set tags lnr,sobaka,spasenie,sverdlovsk.lnr,zhivotnoje
+page
+	set url https://odnarodyna.org/article/pochemu-ukraine-prikhoditsya-byt-okkupantom
+	set tags identichnost',ideologia,istoria,obschestvo,ukraina
+page
+	set url https://strana.news/articles/istorii/360974-efim-zvjahilskij-zhiznennyj-put-i-chem-zapolnilsja-ukraintsam.html
+	set tags donbass,doneck,proschanie,smert,ukraina,zvjagilskij_efim
 eof
 off
 page

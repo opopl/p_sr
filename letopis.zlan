@@ -36050,6 +36050,9 @@ page
 page
 	set url https://strana.news/news/361147-krasnaja-zona-v-kieve-kak-proshla-nedelja-lokdauna-shtrafy-i-rost-zhelajushchikh-vaktsinirovatsja.html
 	set tags covid,deti,karantin,kiev,obschestvo,shkola,ukraina
+page
+	set url https://zen.yandex.ru/media/rasskazdvova/shumerskoukrainskie-strasti-vokrug-gogolia-617c92ab93121f356cd92b06
+	set tags farion_irina,gogol_nikolai,literatura,nicoi_larisa,rossia,ukraina
 eof
 off
 page

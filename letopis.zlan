@@ -36056,6 +36056,15 @@ page
 page
 	set url https://zen.yandex.ru/media/rasskazdvova/u-kuleby-ocherednoi-pristup-kuleby-golovnogo-mozga-617a5568b03ad74ad996744f
 	set tags kloun,kuleba_dmitrii,rossia,ukraina
+page
+	set url https://zen.yandex.ru/media/rasskazdvova/noveishii-ukrainskii-slovar-pravilnyh-terminov-6170ebda7b59135d01655ef6
+	set tags glossarij,infvojna,propaganda,rnbo,rossia,ukraina
+page
+	set url https://bigkyiv.com.ua/yakymy-mogly-buty-i-yakymy-staly-pershi-p-yat-stantsij-kyyivskoyi-pidzemky/
+	set tags gorod,istoria,kiev,metro,sssr,ukraina
+page
+	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/istoricheskie-karty-evropy-i-kak-tam-izobrajali-rossiiu-61854afbee117612a305bdb5
+	set tags geografia,istoria,karta,rossia,rusimperia
 eof
 off
 page

@@ -36038,6 +36038,9 @@ page
 page
 	set url https://strana.news/articles/istorii/360974-efim-zvjahilskij-zhiznennyj-put-i-chem-zapolnilsja-ukraintsam.html
 	set tags donbass,doneck,proschanie,smert,ukraina,zvjagilskij_efim
+page
+	set url https://analytics.hvylya.net/241238-revolyuciya-1917-v-rossii-i-ee-uroki-dlya-ukrainy-2021
+	set tags 1917,bolsheviki,istoria,kommunizm,lenin_vladimir,revolucia.oktober,rossia,rusimperia
 eof
 off
 page

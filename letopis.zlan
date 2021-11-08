@@ -36014,6 +36014,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5fce8cdc60e9760ab703b1f4/liudi-pi-61765bdfb5e72065df124fa2
 	set tags geopolitika,partnerstvo,rossia,zapad
+page
+	set url https://strana.news/news/360953-kak-v-youtube-piarjat-marksa-lenina-i-stalina-7-nojabrja-2021.html
+	set tags ideologia,internet,kommunizm,marks_karl,marksizm,obschestvo,youtube,zapad
+page
+	set url https://strana.news/news/361015-v-rovno-zmeja-pronikla-v-kvartiru-k-ljudjam-cherez-slivnuju-trubu-v-vannoj-komnate.html
+	set tags kvartira,rovno,ukraina,zmeja
 eof
 off
 page

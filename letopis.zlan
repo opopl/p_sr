@@ -36083,6 +36083,15 @@ page
 page
 	set url https://strana.news/opinions/361245-otnoshenija-ssha-i-ukrainy-partnerstvom-nikak-ne-nazovesh.html
 	set tags geopolitika,partnerstvo,rossia,ukraina,ukraina_usa_relations,usa
+page
+	set url https://strana.news/news/361300-aleksej-danilov-otkazalsja-otvechat-na-vopros-ob-obvinenijakh-avakova-po-povodu-sanktsij-snbo.html
+	set tags danilov_aleksei,rnbo,sankcii,strana_ua,ukraina,vopros,zhurnalist
+page
+	set url https://strana.news/news/361257-radiodiktant-natsionalnoho-edinstva-chital-9-nojabrja-jurij-andrukhovich.html
+	set tags andruhovych_jurij,diktant,edinstvo,mova,obrazovanie,radio,radiodiktant,shkola,ukraina
+page
+	set url https://strana.news/news/361348-strana-zadala-10-voprosov-sekretarju-snbo-danilovu.html
+	set tags danilov_aleksei,rnbo,spisok,strana_ua,ukraina,vopros
 eof
 off
 page

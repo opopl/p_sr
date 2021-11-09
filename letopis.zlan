@@ -36077,6 +36077,9 @@ page
 page
 	set url https://strana.news/opinions/361215-interesno-a-kohda-razrabotajut-vaktsinu-ot-zhazhdy-nazhivy-.html
 	set tags 1917,chelovek,grabezh,mentalitet,obschestvo,revolucia.oktober,ukraina,vaccine
+page
+	set url https://zen.yandex.ru/media/id/5a86b0e9a815f1cda564c5fe/nebratia-obokrali-russkogo-hudojnika-6184f5d149c7c41b209fdc08
+	set tags hudozhnik,isskustvo,kartina,knjaz_svjatoslav_igorevich.rus',rossia,ukraina
 eof
 off
 page

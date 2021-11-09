@@ -36071,6 +36071,12 @@ page
 page
 	set url https://ukraina.ru/opinion/20211108/1032612570.html
 	set tags obschestvo,ukraina
+page
+	set url https://strana.news/news/361143-moj-junyj-prints-ukraina-snimet-pervyj-film-ob-lhbt.html
+	set tags film,kino,kultura,lbgt,obschestvo,ukraina
+page
+	set url https://strana.news/opinions/361215-interesno-a-kohda-razrabotajut-vaktsinu-ot-zhazhdy-nazhivy-.html
+	set tags 1917,chelovek,grabezh,mentalitet,obschestvo,revolucia.oktober,ukraina,vaccine
 eof
 off
 page

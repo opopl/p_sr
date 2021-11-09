@@ -36065,6 +36065,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/istoricheskie-karty-evropy-i-kak-tam-izobrajali-rossiiu-61854afbee117612a305bdb5
 	set tags geografia,istoria,karta,rossia,rusimperia
+page
+	set url https://ukraina.ru/exclusive/20211108/1032612396.html
+	set tags infvojna,istoria,kreml.stena,pamjat,rossia,sssr,ukraina
+page
+	set url https://ukraina.ru/opinion/20211108/1032612570.html
+	set tags obschestvo,ukraina
 eof
 off
 page

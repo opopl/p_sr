@@ -36092,6 +36092,9 @@ page
 page
 	set url https://strana.news/news/361348-strana-zadala-10-voprosov-sekretarju-snbo-danilovu.html
 	set tags danilov_aleksei,rnbo,spisok,strana_ua,ukraina,vopros
+page
+	set url https://www.pravda.com.ua/articles/2021/11/9/7313280/
+	set tags grafiti,ukraina,uran,zheltyje_vody.ukraina,zhizn
 eof
 off
 page

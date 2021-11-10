@@ -36095,6 +36095,15 @@ page
 page
 	set url https://www.pravda.com.ua/articles/2021/11/9/7313280/
 	set tags grafiti,ukraina,uran,zheltyje_vody.ukraina,zhizn
+page
+	set url https://strana.news/news/361397-antirekord-smertnosti-ot-kovida-73-protsenta-lokhov-hibridnaja-vojna-batski-s-evropoj.html
+	set tags gordon_dmitrii,interview,komarovskii_evgenii,muhomor,politika,razocharovanie,ukraina,vybory,zelenskii_vladimir
+page
+	set url https://zen.yandex.ru/media/id/5f79e70cc9931e58ecf30e40/po-ulice-gogolia-do-ploscadi-ushakova-6183dc07afa6a85265123204
+	set tags krym,rossia,sevastopol,vpechatlenie
+page
+	set url https://strana.news/news/361342-novye-pravila-russkoho-jazyka-chto-izmenitsja.html
+	set tags jazyk,language,pismennost',pravilo,pravopisanie,rossia
 eof
 off
 page

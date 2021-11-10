@@ -36104,11 +36104,6 @@ page
 page
 	set url https://strana.news/news/361526-danilov-prokommentiroval-slova-avakova-o-tom-kak-prokhodit-prinjatie-reshenij-na-snbo.html
 	set tags danilov_aleksei,golosovanie,rnbo,sankcii,sekretnost,ukraina
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://www.pravda.com.ua/articles/2020/05/29/7253616/
 	set tags _important,foto,istoria,kashtan,kashtan.kiev,kiev,sssr,ukraina

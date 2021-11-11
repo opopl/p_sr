@@ -36125,6 +36125,9 @@ page
 page
 	set url https://lug-info.com/news/aktivisty-priveli-v-poryadok-mogily-pogibshih-zashitnikov-donbassa-v-pervomajske
 	set tags aktivist,donbass,lnr,mir_luganschine,mogila,pervomajsk,vojna,zahoronenie
+page
+	set url https://ukraina.ru/opinion/20211111/1032635906.html
+	set tags donos,nacionalizm,obschestvo,razum,sovest',ukraina,ukrainizacia,vojna
 eof
 off
 page

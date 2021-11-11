@@ -36119,6 +36119,12 @@ page
 page
 	set url https://umoloda.kyiv.ua/number/0/180/147878/
 	set tags jazyk,konstitucia,ksu,mova,ukraina,ukrainizacia
+page
+	set url https://lug-info.com/news/stahanovskie-aktivisty-od-mir-luganshine-proveli-subbotnik-v-skvere-irmino
+	set tags aktivist,lnr,mir_luganschine,priroda,stahanov.lnr,subbotnik,volonter
+page
+	set url https://lug-info.com/news/aktivisty-priveli-v-poryadok-mogily-pogibshih-zashitnikov-donbassa-v-pervomajske
+	set tags aktivist,donbass,lnr,mir_luganschine,mogila,pervomajsk,vojna,zahoronenie
 eof
 off
 page

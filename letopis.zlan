@@ -36134,6 +36134,12 @@ page
 page
 	set url https://strana.news/news/361630-fedor-dostoevskij-200-let-so-dnja-rozhdenija-biohrafija-i-tvorchestvo-tsitaty.html
 	set tags 200_let,dostojevskii_fedor,kultura,literatura,rossia,rusmir,ukraina
+page
+	set url https://strana.news/opinions/361649-nasha-epokha-eto-vremja-vzbesivshehosja-slovarja.html
+	set tags epoha,informacia,internet,kultura,obschestvo,sistema.solnechnaja,slovnyk,slovo,solnce
+page
+	set url https://strana.news/opinions/361764-ukrainu-khotjat-okonchatelno-prevratit-v-patrioticheskij-zoopark.html
+	set tags cenzura,obschestvo,patriotizm,strana,svoboda_slova,ukraina,verhovna_rada,zoopark
 eof
 off
 page

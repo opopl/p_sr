@@ -36128,6 +36128,12 @@ page
 page
 	set url https://ukraina.ru/opinion/20211111/1032635906.html
 	set tags donos,nacionalizm,obschestvo,razum,sovest',ukraina,ukrainizacia,vojna
+page
+	set url https://strana.news/news/361660-napoleon-protiv-rzhevskoho-zapretili-v-ukraine-hlavnoe-o-filme-i-roli-zelenskoho.html
+	set tags film,kino,napoleon,ukraina,zelenskii_vladimir
+page
+	set url https://strana.news/news/361630-fedor-dostoevskij-200-let-so-dnja-rozhdenija-biohrafija-i-tvorchestvo-tsitaty.html
+	set tags 200_let,dostojevskii_fedor,kultura,literatura,rossia,rusmir,ukraina
 eof
 off
 page

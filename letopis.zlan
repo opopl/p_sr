@@ -36140,6 +36140,9 @@ page
 page
 	set url https://strana.news/opinions/361764-ukrainu-khotjat-okonchatelno-prevratit-v-patrioticheskij-zoopark.html
 	set tags cenzura,obschestvo,patriotizm,strana,svoboda_slova,ukraina,verhovna_rada,zoopark
+page
+	set url https://strana.news/articles/361733-kak-vlast-sabotiruet-sudy-po-sanktsijam-snbo-protiv-trekh-zakrytykh-kanalov.html
+	set tags cenzura,rnbo,sankcii,smi.ukraina,ukraina,verhovnyy_sud
 eof
 off
 page

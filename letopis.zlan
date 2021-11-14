@@ -36143,6 +36143,15 @@ page
 page
 	set url https://strana.news/articles/361733-kak-vlast-sabotiruet-sudy-po-sanktsijam-snbo-protiv-trekh-zakrytykh-kanalov.html
 	set tags cenzura,rnbo,sankcii,smi.ukraina,ukraina,verhovnyy_sud
+page
+	set url https://strana.news/articles/analysis/361910-restorany-poluchili-novye-platezhki-za-elektrichestvo-tarif-vyros-pochti-v-tri-raza.html
+	set tags biznes,ekonomika,strana,tarify,ukraina
+page
+	set url https://strana.news/opinions/362055-vrjad-li-amerikanskie-ideolohi-osoznanno-nasazhdajut-hitlerizm-v-ukraine.html
+	set tags ideologia,nacizm,ukraina
+page
+	set url https://strana.news/opinions/361959-natsistskie-simvoly-i-ideolohemy-prevratilis-dlja-ukrainy-v-novuju-normalnost.html
+	set tags nacizm,obrazovanie,shkola,ukraina
 eof
 off
 page

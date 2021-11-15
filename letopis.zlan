@@ -36152,6 +36152,9 @@ page
 page
 	set url https://strana.news/opinions/361959-natsistskie-simvoly-i-ideolohemy-prevratilis-dlja-ukrainy-v-novuju-normalnost.html
 	set tags nacizm,obrazovanie,shkola,ukraina
+page
+	set url https://lug-info.com/news/teatr-na-oboronnoj-prodolzil-proekt-iskusstvo-doma-zapis-u-televersij-muzykal-nyh-skazok
+	set tags donbass,kultura,laumdt.lnr,lnr,lugansk,skazka,teatr
 eof
 off
 page

@@ -36158,6 +36158,9 @@ page
 page
 	set url https://strana.news/news/362352-k-ile-kive-prishli-s-obyskami-16-nojabrja.html
 	set tags deputat,kiva_ilja,obysk,opzzh,policia,ukraina
+page
+	set url https://strana.news/news/362181-zamhlavreda-strany-krjukova-zajavila-chto-zelenskij-ekspluatiruet-svobodu-slova-v-ukraine.html
+	set tags cenzura,krjukova_svetlana,rnbo,svoboda_slova,ukraina,zhurnalist
 eof
 off
 page

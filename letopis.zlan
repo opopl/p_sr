@@ -36161,6 +36161,12 @@ page
 page
 	set url https://strana.news/news/362181-zamhlavreda-strany-krjukova-zajavila-chto-zelenskij-ekspluatiruet-svobodu-slova-v-ukraine.html
 	set tags cenzura,krjukova_svetlana,rnbo,svoboda_slova,ukraina,zhurnalist
+page
+	set url https://lug-info.com/news/sotrudniki-minprirody-i-aktivisty-sobrali-20-kg-seman-asena-dla-vosstanovlenia-lesov-lnr
+	set tags donbass,ekologia,lnr,mir_luganschine,priroda
+page
+	set url https://lug-info.com/news/shkol-niki-predstavili-pochti-1-tys-rabot-na-konkurs-risunka-moj-gorod-v-raduge-professij
+	set tags deti,hudozhnik,konkurs,lnr,risunok,shkola
 eof
 off
 page

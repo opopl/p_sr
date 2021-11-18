@@ -36176,6 +36176,9 @@ page
 page
 	set url https://day.kyiv.ua/uk/article/podrobyci/chym-nebezpechnyy-rosiyskyy-perepys-naselennya-v-krymu
 	set tags krym,naselenie,okupacia,perepis,rossia
+page
+	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/upadok-obscestvennogo-transporta-rossii-61928f6703e600440635f1a8
+	set tags rossia,transport
 eof
 off
 page

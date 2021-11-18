@@ -36170,6 +36170,12 @@ page
 page
 	set url https://analytics.hvylya.net/241917-vrag
 	set tags chelovek,dacjuk_sergej,filosofia,myshlenie,obschestvo,vrag,vrazhda
+page
+	set url https://gazeta.ua/blog/56107/sovkovu-tishu-nemozhlivo-zabuti-ak-i-nenavisne-zhittya-u-chergah
+	set tags obschestvo,ochered',sovok,sssr,zhizn
+page
+	set url https://day.kyiv.ua/uk/article/podrobyci/chym-nebezpechnyy-rosiyskyy-perepys-naselennya-v-krymu
+	set tags krym,naselenie,okupacia,perepis,rossia
 eof
 off
 page

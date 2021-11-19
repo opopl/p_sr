@@ -36179,6 +36179,12 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5dbc544f2f1e4400aff32830/upadok-obscestvennogo-transporta-rossii-61928f6703e600440635f1a8
 	set tags rossia,transport
+page
+	set url https://strana.news/opinions/362951-tolko-tlen-bandery-mozhet-obedinit-ukraintsev.html
+	set tags bandera_stepan,mavzolej,nacionalizm,panteon,ukraina
+page
+	set url https://gazeta.ua/blog/56114/lyudi-samotni-yak-nikoli-socialna-nerivnist-zrostaye
+	set tags chelovek,dusha,obschestvo,odinochestvo,psihika,psihologia
 eof
 off
 page

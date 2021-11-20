@@ -36185,6 +36185,15 @@ page
 page
 	set url https://gazeta.ua/blog/56114/lyudi-samotni-yak-nikoli-socialna-nerivnist-zrostaye
 	set tags chelovek,dusha,obschestvo,odinochestvo,psihika,psihologia
+page
+	set url https://strana.news/opinions/363149-esli-uzh-chto-i-prazdnovat-v-sovremennoj-ukraine-tak-eto-den-bessmyslennosti.html
+	set tags bessmyslennost,obschestvo,prazdnik,prazdnovanie,revgidnosti,smysl,strana,ukraina
+page
+	set url https://strana.news/opinions/363144-putin-napadet-na-katolicheskoe-rozhdestvo-arestovich-skazal.html
+	set tags arestovich_aleksei,katolichestvo,napadenie,otpusk,putin_vladimir,rozhdestvo,ukraina,rossia
+page
+	set url https://strana.news/opinions/363051-nam-usilenno-sozdajut-alternativnuju-realnost-v-seti.html
+	set tags chelovek,informacia,internet,mozgi,obschestvo,psihika,psihologia,realnost'
 eof
 off
 page

@@ -36209,6 +36209,9 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/suspilstvo/300-rokiv-grygoriyu-skovorodi
 	set tags 300_let,filosof,filosofia,kultura,narod,skovoroda_grigorii,ukraina
+page
+	set url http://slovoprosvity.org/2021/11/08/istorychna-ekspedytsiia-oleksandra-koshytsia-1000-ukrains-kykh-pisen-kubani/
+	set tags kiev,koshic_aleksandr,kultura,leontovych_mykola,muzyka,pamjat,schedryk,ukraina
 eof
 off
 page

@@ -36195,11 +36195,16 @@ page
 	set url https://strana.news/opinions/363051-nam-usilenno-sozdajut-alternativnuju-realnost-v-seti.html
 	set tags chelovek,informacia,internet,mozgi,obschestvo,psihika,psihologia,realnost'
 page
-	set url https://strana.news/news/363177-evromajdanu-8-let-chto-vspominajut-uchastniki-tekh-sobytij-film-strany.html
-	set tags maidan2,pamjat,ukraina,vospominanie
-page
 	set url https://www.ritmeurasia.org/news--2017-07-02--predannye-nenkoj-i-otcom-bratja-luzheckie-ot-svoih-ubezhdenij-ne-otstupajut-31074
 	set tags bratja.luzheckije,donbass,presledovanie,repressii,ukraina,vojna
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://strana.news/news/363177-evromajdanu-8-let-chto-vspominajut-uchastniki-tekh-sobytij-film-strany.html
+	set tags maidan2,pamjat,ukraina,vospominanie
 eof
 off
 page

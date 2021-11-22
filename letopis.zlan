@@ -36206,6 +36206,9 @@ page
 page
 	set url https://zen.yandex.ru/media/id/5ea5eb8b65a8ef41509bb7c1/dvoe-iz-larca-odinakovyh-s-lica-dva-ukrainskih-alekseia-odin-umnee-drugogo-priamo-ne-znaiu-komu-otdat-predpochtenie-61979be849e23721dd197b6f
 	set tags arestovich_aleksei,goncharenko_alexei,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/300-rokiv-grygoriyu-skovorodi
+	set tags 300_let,filosof,filosofia,kultura,narod,skovoroda_grigorii,ukraina
 eof
 off
 page

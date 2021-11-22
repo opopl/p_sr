@@ -36197,14 +36197,15 @@ page
 page
 	set url https://www.ritmeurasia.org/news--2017-07-02--predannye-nenkoj-i-otcom-bratja-luzheckie-ot-svoih-ubezhdenij-ne-otstupajut-31074
 	set tags bratja.luzheckije,donbass,presledovanie,repressii,ukraina,vojna
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://strana.news/news/363177-evromajdanu-8-let-chto-vspominajut-uchastniki-tekh-sobytij-film-strany.html
 	set tags maidan2,pamjat,ukraina,vospominanie
+page
+	set url https://zen.yandex.ru/media/dosuznik/strannosti-i-prichudy-udivitelnogo-russkogo-iazyka-6198dae7bc2e532a0ac99182
+	set tags jazyk,language,slovo,strannost'
+page
+	set url https://zen.yandex.ru/media/id/5ea5eb8b65a8ef41509bb7c1/dvoe-iz-larca-odinakovyh-s-lica-dva-ukrainskih-alekseia-odin-umnee-drugogo-priamo-ne-znaiu-komu-otdat-predpochtenie-61979be849e23721dd197b6f
+	set tags arestovich_aleksei,goncharenko_alexei,ukraina
 eof
 off
 page

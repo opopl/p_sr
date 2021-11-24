@@ -36221,6 +36221,10 @@ page
 page
 	set url https://zen.yandex.ru/media/istorikus/kak-mladshie-bratia-vynesli-iz-otchego-doma-mat-gorodov-russkih-kiev-i-popytalis-sbyt-ego-snachala-nemcam-a-potom-amerikancam-619823199283e93a8e58bd75
 	set tags istoria,kiev,mat_gorodam_ruskim,rossia,rusmir,ukraina
+page
+	set url https://les.media/articles/939407-khlam-khram-granitsa-i-mertvye-dushi-for-landing
+	set tags begstvo,bilchenko_evgenia,kultura,kulturologia,presledovanie,rossia,rusmir,sbu,ukraina
+	set date 24_11_2021
 eof
 off
 page

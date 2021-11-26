@@ -36231,6 +36231,9 @@ page
 page
 	set url https://strana.news/opinions/364053-vmesto-staroj-rzhavoj-kolymahi-novaja-tesla.html
 	set tags druzenko_gennadij.ukr.volonter,gosudarstvo,konstitucia,obschestvo,politika,strana,ukraina
+page
+	set url https://strana.news/opinions/363857-hosudarstvennyj-perevorot-vverh-ukrainu-v-chernuju-dyru.html
+	set tags gosperevorot,maidan2,obschestvo,strana,ukraina,vojna
 eof
 off
 page

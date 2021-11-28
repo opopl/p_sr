@@ -36234,6 +36234,9 @@ page
 page
 	set url https://strana.news/opinions/363857-hosudarstvennyj-perevorot-vverh-ukrainu-v-chernuju-dyru.html
 	set tags gosperevorot,maidan2,obschestvo,strana,ukraina,vojna
+page
+	set url https://analytics.hvylya.net/242447-zelenskiy-psihologicheski-polnostyu-razrushilsya-glavnyy-itog-press-konferencii-ekvatora-prezidenta
+	set tags __nov_2021.zelenskii.press_konferencia,butusov_jurij,press_konferencia,ukraina,zelenskii_vladimir
 eof
 off
 page

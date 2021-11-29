@@ -36246,6 +36246,12 @@ page
 page
 	set url https://strana.news/opinions/364301-shirma-patriotizma-daet-dobro-proizvolu-v-tsentre-kieva.html
 	set tags fashizm,kiev,patriotizm,radikalizm,radikaly,ukraina,ultrapravyje
+page
+	set url https://strana.news/opinions/364596-ljudi-ne-dolzhny-ni-v-koem-sluchae-poluchit-nadezhdu-i-alternativu.html
+	set tags alternativa,cenzura,nadezhda,obschestvo,strana,ukraina
+page
+	set url https://gazeta.ua/blog/56160/skazhimo-zelenskomu-proschavaj-druzhno-golosno-na-majdani
+	set tags politika,ukraina,zelenskii_vladimir
 eof
 off
 page

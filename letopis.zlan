@@ -36237,6 +36237,12 @@ page
 page
 	set url https://analytics.hvylya.net/242447-zelenskiy-psihologicheski-polnostyu-razrushilsya-glavnyy-itog-press-konferencii-ekvatora-prezidenta
 	set tags __nov_2021.zelenskii.press_konferencia,butusov_jurij,press_konferencia,ukraina,zelenskii_vladimir
+page
+	set url https://strana.news/opinions/364556-prishlu-konets-staromu-teplomu-ukrainskomu-miru-nachinaetsja-chto-to-druhoe.html
+	set tags strana,ukraina
+page
+	set url https://strana.news/opinions/364564-prizrak-kretinizma-brodit-po-evrope.html
+	set tags bezumie,evropa,kretinizm,prizrak
 eof
 off
 page

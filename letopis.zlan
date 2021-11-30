@@ -36252,6 +36252,15 @@ page
 page
 	set url https://gazeta.ua/blog/56160/skazhimo-zelenskomu-proschavaj-druzhno-golosno-na-majdani
 	set tags politika,ukraina,zelenskii_vladimir
+page
+	set url https://strana.news/news/364683-barbados-osvobodilsja-ot-korolevy-i-sdelal-riannu-natsionalnym-heroem.html
+	set tags barbados,britania,elizaveta_II_koroleva,nezalezhnist,respublika,trizub
+page
+	set url https://strana.news/opinions/364672-rodnaja-vlast-sdelala-bezdomnoj-sbornuju-ukrainy-po-shakhmatam.html
+	set tags chess,komanda,ukraina
+page
+	set url https://strana.news/opinions/364602-zelenskij-ne-tjanet-na-rol-diktatora-kak-i-butusov-na-rol-muchenika.html
+	set tags diktatura,myshlenie,obschestvo,politika,strana,ukraina,zelenskii_vladimir
 eof
 off
 page

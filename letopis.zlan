@@ -36264,6 +36264,9 @@ page
 page
 	set url https://www.pravda.com.ua/columns/2021/12/1/7315829/
 	set tags cennosti,obschestvo,rossia,strana,ukraina
+page
+	set url https://lb.ua/blog/mykhaylo_pozhyvanov/499452_ves_sens_nashoi_borotbi.html
+	set tags obschestvo,strana,ukraina
 eof
 off
 page

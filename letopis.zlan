@@ -36273,6 +36273,9 @@ page
 page
 	set url https://zen.yandex.ru/media/redbook/istoriia-nacionalnogo-bespamiatstva-617cca397971f70793587c30
 	set tags 1944.ukraina.osvobozhdenie.vov.28_oct,istoria,nacizm,rkka,sssr,ukraina,vov
+page
+	set url https://strana.news/opinions/364976-rech-zelenskoho-vyzov-umstvennym-silam-ukraintsev.html
+	set tags obschestvo,politika,razum,zelenskii_vladimir
 eof
 off
 page

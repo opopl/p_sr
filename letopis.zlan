@@ -36267,6 +36267,12 @@ page
 page
 	set url https://lb.ua/blog/mykhaylo_pozhyvanov/499452_ves_sens_nashoi_borotbi.html
 	set tags obschestvo,strana,ukraina
+page
+	set url https://zen.yandex.ru/media/redbook/o-russkom-ukrainskom-iazykah-i-o-smyslah-614ab5d9273ff9416da149e7
+	set tags jazyk,mentalnost,mova,nacia,narod,ukraina
+page
+	set url https://zen.yandex.ru/media/redbook/istoriia-nacionalnogo-bespamiatstva-617cca397971f70793587c30
+	set tags 1944.ukraina.osvobozhdenie.vov.28_oct,istoria,nacizm,rkka,sssr,ukraina,vov
 eof
 off
 page

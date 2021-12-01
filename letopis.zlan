@@ -36261,6 +36261,9 @@ page
 page
 	set url https://strana.news/opinions/364602-zelenskij-ne-tjanet-na-rol-diktatora-kak-i-butusov-na-rol-muchenika.html
 	set tags diktatura,myshlenie,obschestvo,politika,strana,ukraina,zelenskii_vladimir
+page
+	set url https://www.pravda.com.ua/columns/2021/12/1/7315829/
+	set tags cennosti,obschestvo,rossia,strana,ukraina
 eof
 off
 page

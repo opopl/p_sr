@@ -36279,6 +36279,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/komunizm-totalitarnyy-rezhym-symvoilka/31573870.html
 	set tags ato,kommunizm,oskorblenie,simvolika,sssr,ukraina,veteran
+page
+	set url https://strana.news/opinions/365165-mir-pohruzhaetsja-v-tsifrovuju-mahiju-i-mistiku.html
+	set tags chelovek,humanity,internet,magia,obschestvo,psihologia
 eof
 off
 page

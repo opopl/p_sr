@@ -36276,6 +36276,9 @@ page
 page
 	set url https://strana.news/opinions/364976-rech-zelenskoho-vyzov-umstvennym-silam-ukraintsev.html
 	set tags obschestvo,politika,razum,zelenskii_vladimir
+page
+	set url https://www.radiosvoboda.org/a/komunizm-totalitarnyy-rezhym-symvoilka/31573870.html
+	set tags ato,kommunizm,oskorblenie,simvolika,sssr,ukraina,veteran
 eof
 off
 page

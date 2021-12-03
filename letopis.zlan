@@ -36285,6 +36285,9 @@ page
 page
 	set url https://strana.news/news/355751-vladimir-volynskij-pereimenujut-kohda-i-kak.html
 	set tags gorod,istoria,pereimenovanija,rossia,ukraina,vladimir.gorod.rossia,vladimir_volynskij
+page
+	set url https://strana.news/news/365315-17-letnjaja-kievljanka-v-sotsseti-zajavila-o-podderzhke-ldnr.html
+	set tags donbass,kiev,kievljane,student,tiktok,ukraina,vojna
 eof
 off
 page

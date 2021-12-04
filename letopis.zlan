@@ -36291,6 +36291,15 @@ page
 page
 	set url https://strana.news/opinions/365443-alternativy-vlasti-takaja-zhe-kromeshnaja-bezyskhodnost-kak-i-ona-sama.html
 	set tags obschestvo,politika,strana,ukraina
+page
+	set url https://strana.news/opinions/365396-revoljutsii-i-hosperevoroty-po-anonsu-nikohda-ne-nachinajutsja.html
+	set tags gosperevorot,ukraina
+page
+	set url https://strana.news/opinions/365439-teorija-zahovora-ot-zelenskoho-eto-bylo-eshche-ne-samoe-smeshnoe.html
+	set tags gosperevorot,smeh,ukraina
+page
+	set url https://strana.news/news/365432-kievljanin-s-dtsp-ustanovil-rekord-sozdav-krupnejshuju-v-ukraine-ekspozitsiju-iz-spichek.html
+	set tags rekord,ukraina
 eof
 off
 page

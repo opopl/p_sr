@@ -36288,6 +36288,9 @@ page
 page
 	set url https://strana.news/news/365315-17-letnjaja-kievljanka-v-sotsseti-zajavila-o-podderzhke-ldnr.html
 	set tags donbass,kiev,kievljane,student,tiktok,ukraina,vojna
+page
+	set url https://strana.news/opinions/365443-alternativy-vlasti-takaja-zhe-kromeshnaja-bezyskhodnost-kak-i-ona-sama.html
+	set tags obschestvo,politika,strana,ukraina
 eof
 off
 page

@@ -36300,6 +36300,9 @@ page
 page
 	set url https://strana.news/news/365432-kievljanin-s-dtsp-ustanovil-rekord-sozdav-krupnejshuju-v-ukraine-ekspozitsiju-iz-spichek.html
 	set tags rekord,ukraina
+page
+	set url https://day.kyiv.ua/uk/blog/suspilstvo/yaroslav-grycak-i-dolannya-mynulogo
+	set tags grycak_jaroslav,istoria,kniga,ukraina
 eof
 off
 page

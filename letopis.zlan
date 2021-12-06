@@ -36303,6 +36303,15 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/suspilstvo/yaroslav-grycak-i-dolannya-mynulogo
 	set tags grycak_jaroslav,istoria,kniga,ukraina
+page
+	set url https://strana.news/opinions/365575-staryj-mir-rushitsja-vmeste-s-eho-mifami-i-nashimi-planami.html
+	set tags infvojna,propaganda
+page
+	set url https://strana.news/opinions/365623-za-neljubov-k-bandere-von-za-predely-ukrainy.html
+	set tags bandera_stepan,geroizm,nacionalizm,neterpimost,oun,ukraina,upa
+page
+	set url https://strana.news/opinions/365636-chuvstvujut-li-hrazhdane-ukrainy-etu-stranu-svoej.html
+	set tags nacionalizm,okkupacia,patriotizm,strana,ukraina
 eof
 off
 page

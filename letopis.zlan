@@ -36318,6 +36318,12 @@ page
 page
 	set url https://zen.yandex.ru/media/lokk_demosfen/zarazno-li-bezumie-61abce1e84b4641179199952
 	set tags bezumie,ukraina
+page
+	set url https://lug-info.com/news/pochti-polsotni-aktivistov-poluchili-nagrady-ot-vlastej-lnr-ko-dnyu-volontera
+	set tags aktivist,donbass,lnr,mir_luganschine,volonter
+page
+	set url https://lgaki.info/novosti/vpervye-uchastvovali-vo-vserossijskom-izobrazitelnom-diktante/
+	set tags diktant,istoria,konkurs,lgaki,lnr,risunok,strana,student
 eof
 off
 page

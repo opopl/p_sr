@@ -36312,6 +36312,9 @@ page
 page
 	set url https://strana.news/opinions/365636-chuvstvujut-li-hrazhdane-ukrainy-etu-stranu-svoej.html
 	set tags nacionalizm,okkupacia,patriotizm,strana,ukraina
+page
+	set url https://strana.news/opinions/365703-takoe-vpechatlenie-chto-i-na-nebesakh-zapravljaet-svoj-95-j-kvartal.html
+	set tags kvartal95,nebesa,novyj_god,obschestvo,ukraina
 eof
 off
 page

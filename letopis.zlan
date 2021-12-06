@@ -36315,6 +36315,9 @@ page
 page
 	set url https://strana.news/opinions/365703-takoe-vpechatlenie-chto-i-na-nebesakh-zapravljaet-svoj-95-j-kvartal.html
 	set tags kvartal95,nebesa,novyj_god,obschestvo,ukraina
+page
+	set url https://zen.yandex.ru/media/lokk_demosfen/zarazno-li-bezumie-61abce1e84b4641179199952
+	set tags bezumie,ukraina
 eof
 off
 page

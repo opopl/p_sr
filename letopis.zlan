@@ -36324,6 +36324,12 @@ page
 page
 	set url https://lgaki.info/novosti/vpervye-uchastvovali-vo-vserossijskom-izobrazitelnom-diktante/
 	set tags diktant,istoria,konkurs,lgaki,lnr,risunok,strana,student
+page
+	set url https://strana.news/opinions/365811-ukrainskoe-obshchestvo-sdelali-zalozhnikami-kompleksov-kuchki-neprimirimykh.html
+	set tags donbass,ukraina,vojna
+page
+	set url https://strana.news/opinions/365881-karpatskie-molfary-hordony-i-kashpirovskie-vsehda-nakhodjat-sebe-blahodarnuju-auditoriju.html
+	set tags moljfar.karpatskij,nevezhestvo,obschestvo,predskazanie,prorochestvo,ukraina
 eof
 off
 page

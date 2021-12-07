@@ -36330,6 +36330,14 @@ page
 page
 	set url https://strana.news/opinions/365881-karpatskie-molfary-hordony-i-kashpirovskie-vsehda-nakhodjat-sebe-blahodarnuju-auditoriju.html
 	set tags moljfar.karpatskij,nevezhestvo,obschestvo,predskazanie,prorochestvo,ukraina
+global
+	set redo 1
+	setlist acts
+		db_update
+		auth_update
+page
+	set url https://www.radiosvoboda.org/a/bilokur-сhudozhnytsya-10-faktiv/30988342.html
+	set tags bilokur_katerina,chelovek,hudozhnik,isskustvo,kartina,kultura,ukraina
 eof
 off
 page

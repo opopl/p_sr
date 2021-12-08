@@ -36339,6 +36339,10 @@ page
 page
 	set url https://strana.news/opinions/366081-dlja-obychnoho-ukraintsa-spravedlivost-vazhnee-chem-zakon.html
 	set tags obschestvo,ukraina
+page
+	set url http://alternatio.org/articles/articles/item/84071-10-osobennostey-zagadochnogo-ukrainskogo-mentaliteta
+	set tags identichnost',mentalitet,ukraina,ukrainstvo
+	set date 18_09_2020
 eof
 off
 page

@@ -159,6 +159,7 @@
 ###ru
 'kulturologia.ru' : { 'site' : 'ru.kulturologia' }
 'cyrillitsa.ru' : { 'site' : 'ru.kultura.cyrillitsa' }
+'alternatio.org' : { 'site' : 'ru.alternatio_org' }
 
 ###ludi
 'buzina.org' : { 'site' : 'ludi.ua.buzina' }

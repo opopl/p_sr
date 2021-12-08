@@ -112,6 +112,7 @@ include:
 ###ru
     - ru.kulturologia
     - ru.kultura.cyrillitsa
+    - ru.alternatio_org
 
 ###news_brit
     - news.anglia.sun

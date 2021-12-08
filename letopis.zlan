@@ -36336,6 +36336,9 @@ page
 page
 	set url https://lug-info.com/news/pocta-lnr-priglasaet-na-filatelisticeskuu-vystavku-k-220-letiu-vladimira-dala
 	set tags 220_let,dal'_vladimir,donbass,filatelia,lnr,pochta,vystavka,zhizn
+page
+	set url https://strana.news/opinions/366081-dlja-obychnoho-ukraintsa-spravedlivost-vazhnee-chem-zakon.html
+	set tags obschestvo,ukraina
 eof
 off
 page

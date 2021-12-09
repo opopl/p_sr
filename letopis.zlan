@@ -36343,6 +36343,9 @@ page
 	set url http://alternatio.org/articles/articles/item/84071-10-osobennostey-zagadochnogo-ukrainskogo-mentaliteta
 	set tags identichnost',mentalitet,ukraina,ukrainstvo
 	set date 18_09_2020
+page
+	set url https://hvylya.net/analytics/243091-ukraina-posle-zelenskogo
+	set tags idea,identichnost',ideologia,obschestvo,strana,ukraina
 eof
 off
 page

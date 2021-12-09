@@ -36352,6 +36352,9 @@ page
 page
 	set url https://bigkyiv.com.ua/20-hvylyn-shhob-shovatysya-yaki-shovyshha-ta-ukryttya-gotovi-pryjmaty-kyyan-u-razi-povitryanoyi-ataky/
 	set tags bomboubezhische,kiev,napadenie,rossia,ugroza,ukraina
+page
+	set url https://regnum.ru/news/polit/3446520.html
+	set tags napadenie,rossia,ugroza,ukraina,vojna
 eof
 off
 page

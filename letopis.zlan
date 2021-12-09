@@ -36349,6 +36349,9 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/polityka/gumor-yak-politychna-tehnologiya-ta-zbroya
 	set tags jumor,ukraina
+page
+	set url https://bigkyiv.com.ua/20-hvylyn-shhob-shovatysya-yaki-shovyshha-ta-ukryttya-gotovi-pryjmaty-kyyan-u-razi-povitryanoyi-ataky/
+	set tags bomboubezhische,kiev,napadenie,rossia,ugroza,ukraina
 eof
 off
 page

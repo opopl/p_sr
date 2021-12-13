@@ -36355,6 +36355,9 @@ page
 page
 	set url https://regnum.ru/news/polit/3446520.html
 	set tags napadenie,rossia,ugroza,ukraina,vojna
+page
+	set url https://rg.ru/2021/08/11/dnevnik-doneckogo-voenkora-aleksandra-gricenko-o-rasstreliannom-i-voskresshem-pamiatnike.html
+	set tags donbass,pamjat,pamjatnik
 eof
 off
 page

@@ -36361,6 +36361,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/reportazh-iz-peredovoyi-na-donbasi/31608451.html
 	set tags donbass,peredovaja,ukraina,vojna
+page
+	set url https://strana.news/opinions/367041-my-boremsja-za-chistotu-natsii-i-svjatost-oliharkhicheskikh-idej.html
+	set tags galaktika,kosmos,nauka,obschestvo,ukraina
 eof
 off
 page

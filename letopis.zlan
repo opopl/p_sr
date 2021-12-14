@@ -36358,6 +36358,9 @@ page
 page
 	set url https://rg.ru/2021/08/11/dnevnik-doneckogo-voenkora-aleksandra-gricenko-o-rasstreliannom-i-voskresshem-pamiatnike.html
 	set tags donbass,pamjat,pamjatnik
+page
+	set url https://www.radiosvoboda.org/a/reportazh-iz-peredovoyi-na-donbasi/31608451.html
+	set tags donbass,peredovaja,ukraina,vojna
 eof
 off
 page

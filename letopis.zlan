@@ -36364,6 +36364,9 @@ page
 page
 	set url https://strana.news/opinions/367041-my-boremsja-za-chistotu-natsii-i-svjatost-oliharkhicheskikh-idej.html
 	set tags galaktika,kosmos,nauka,obschestvo,ukraina
+page
+	set url https://lug-info.com/news/ceremoniya-nagrazhdeniya-zhyuri-mezhdunarodnogo-konkursa-grenadery-vpered-proshla-v-luganske
+	set tags donbass,kultura,lnr,lugansk,nagrazhdenie
 eof
 off
 page

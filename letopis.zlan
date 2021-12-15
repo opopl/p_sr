@@ -36367,6 +36367,9 @@ page
 page
 	set url https://lug-info.com/news/ceremoniya-nagrazhdeniya-zhyuri-mezhdunarodnogo-konkursa-grenadery-vpered-proshla-v-luganske
 	set tags donbass,kultura,lnr,lugansk,nagrazhdenie
+page
+	set url https://strana.news/opinions/367088-epokha-zelenskoho-eto-vsplesk-vsedozvolennosti-i-beznakazannosti.html
+	set tags epoha,obschestvo,strana,ukraina,zelenskii_vladimir
 eof
 off
 page

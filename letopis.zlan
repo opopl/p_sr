@@ -36379,6 +36379,9 @@ page
 page
 	set url https://day.kyiv.ua/uk/blog/polityka/nam-nuzhen-novyy-lenyn
 	set tags identichnost',lenin_vladimir,mentalitet,obschestvo,poezd,strana,ukraina,ukraincy
+page
+	set url https://lug-info.com/news/aktivisty-proveli-trenirovku-i-peredali-sladosti-podopechnym-luganskogo-tehnikuma-internata
+	set tags ajkido,donbass,lnr,lugansk,molodezh_parlament.lnr,sport
 eof
 off
 page

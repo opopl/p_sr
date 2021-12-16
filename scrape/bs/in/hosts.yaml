@@ -57,6 +57,7 @@
 'molbuk.ua' : { 'site' : 'news.ua.molbuk' }
 'zn.ua' : { 'site' : 'news.ua.zn' }
 'texty.org.ua' : { 'site' : 'news.ua.texty' }
+'vovka.com.ua' : { 'site' : 'news.ua.vovka' }
 
 ###news.by
 'tut.by' : { 'site' : 'news.by.tut' }

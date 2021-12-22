@@ -36382,6 +36382,9 @@ page
 page
 	set url https://lug-info.com/news/aktivisty-proveli-trenirovku-i-peredali-sladosti-podopechnym-luganskogo-tehnikuma-internata
 	set tags ajkido,donbass,lnr,lugansk,molodezh_parlament.lnr,sport
+page
+	set url https://strana.news/opinions/368254-konets-sveta-nastupaet-postepenno-obvolakivaja-vsekh-nas.html
+	set tags chelovek,konec_sveta,obschestvo
 eof
 off
 page

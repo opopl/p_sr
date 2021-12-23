@@ -36385,6 +36385,12 @@ page
 page
 	set url https://strana.news/opinions/368254-konets-sveta-nastupaet-postepenno-obvolakivaja-vsekh-nas.html
 	set tags chelovek,konec_sveta,obschestvo
+page
+	set url https://strana.news/opinions/368459-eshche-odin-zazhravshijsja-kham-vozomnivshij-sebja-bohoizbrannym.html
+	set tags hamstvo,politika,ukraina
+page
+	set url https://strana.news/opinions/368485-holodomor-i-pravda-fundamentalnaja-problema-sovremennoj-ukrainy.html
+	set tags golodomor,stefanchuk_ruslan.deputat.ukr,ukraina
 eof
 off
 page

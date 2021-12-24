@@ -130,6 +130,7 @@
 
 ###news.dnr
 'dnr-hotline.ru' : { 'site' : 'news.dnr.hotline' }
+'artdonbass.ru' : { 'site' : 'news.dnr.artdonbass' }
 
 ###news.lnr
 'lug-info.com' : { 'site' : 'news.lnr.lug_info' }

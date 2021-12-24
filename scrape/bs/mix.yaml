@@ -26,6 +26,7 @@ include:
 
 ###news_dnr
     - news.dnr.hotline
+    - news.dnr.artdonbass
 
 ###news_nvr
     - news.nvr.voshod_info

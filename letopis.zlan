@@ -36394,6 +36394,12 @@ page
 page
 	set url http://www.artdonbass.ru/ru/news/v-hm-art-donbass-sostoyalos-torzhestvennoe-gashenie-i-vvoda-v-obrashchenie-hudozhestvennyh
 	set tags andersen_gans_kristian,dnr,donbass,doneck,pochta,pochta.dnr,skazka,zhizn
+page
+	set url https://strana.news/opinions/368610-ukrainskaja-vlast-slovno-nashchupyvaet-poroh-terpenija-naselenija.html
+	set tags molchanie,obschestvo,ukraina,vlast,voennoobjazannyj,woman
+page
+	set url https://strana.news/opinions/368623-nash-verkhovnyj-hlavnokomandujushchij-reshil-ispuhat-putina-zhenshchinami.html
+	set tags rossia,ukraina,voennoobjazannyj,woman,zelenskii_vladimir
 eof
 off
 page

@@ -36391,6 +36391,9 @@ page
 page
 	set url https://strana.news/opinions/368485-holodomor-i-pravda-fundamentalnaja-problema-sovremennoj-ukrainy.html
 	set tags golodomor,stefanchuk_ruslan.deputat.ukr,ukraina
+page
+	set url http://www.artdonbass.ru/ru/news/v-hm-art-donbass-sostoyalos-torzhestvennoe-gashenie-i-vvoda-v-obrashchenie-hudozhestvennyh
+	set tags andersen_gans_kristian,dnr,donbass,doneck,pochta,pochta.dnr,skazka,zhizn
 eof
 off
 page

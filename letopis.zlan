@@ -36403,6 +36403,9 @@ page
 page
 	set url https://www.donetsk.kp.ru/daily/28374.5/4524263/
 	set tags dnr,donbass,doneck,jolka,novyj_god,zhizn
+page
+	set url https://zz.te.ua/volontery-buchachahrokhlibpromu-do-dnia-sviatoho-mykolaia-podaruvaly-20-tysiach-sviatkovykh-podarunkiv-foto/
+	set tags deti,nikolaj_chudotvorec,ternopil,ukraina,volonter
 eof
 off
 page

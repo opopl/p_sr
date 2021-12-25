@@ -36400,6 +36400,9 @@ page
 page
 	set url https://strana.news/opinions/368623-nash-verkhovnyj-hlavnokomandujushchij-reshil-ispuhat-putina-zhenshchinami.html
 	set tags rossia,ukraina,voennoobjazannyj,woman,zelenskii_vladimir
+page
+	set url https://www.donetsk.kp.ru/daily/28374.5/4524263/
+	set tags dnr,donbass,doneck,jolka,novyj_god,zhizn
 eof
 off
 page

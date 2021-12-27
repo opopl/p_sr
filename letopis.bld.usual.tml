@@ -23,7 +23,7 @@
     </index>
   </preamble>
   <sii>
-    <insert titletoc="1" hyperlinks="1" />
+    <insert titletoc="1" hyperlinks="1" story="1" />
   </sii>
   <opts_maker>
     <skip get_opt="1" />

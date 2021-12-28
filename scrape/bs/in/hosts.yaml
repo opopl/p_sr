@@ -197,9 +197,14 @@
 'youtube.com'    : { 'site' : 'video.youtube' }
 
 ###edu
+
+###edu.lnr
 'lgaki.info'    : { 'site' : 'edu.lnr.lgaki' }
 'lgpu.org'      : { 'site' : 'edu.lnr.lgpu' }
 'lnau.su'       : { 'site' : 'edu.lnr.lgau' }
+
+###edu.dnr
+'donnu.ru'       : { 'site' : 'edu.dnr.donnu' }
 
 ###pc
 

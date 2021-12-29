@@ -36409,6 +36409,9 @@ page
 page
 	set url https://www.radiosvoboda.org/a/foto-terytorialna-oborona-ukrainy/31631686.html
 	set tags armia,kiev,napadenie,oborona,rossia,teroborona,ugroza
+page
+	set url https://news.novgorod.ru/articles/read/1154.html
+	set tags igrushka,igrushka.jolka,novyj_god,ukrashenie
 eof
 off
 page

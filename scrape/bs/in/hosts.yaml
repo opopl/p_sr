@@ -188,6 +188,7 @@
 ###kultura.lnr
 'theaterluspekaev.com' : { 'site' : 'kultura.lnr.lardt' }
 'filarmonia64.com' : { 'site' : 'kultura.lnr.filarmonia' }
+'teatrnaoboronny.ru' : { 'site' : 'kultura.lnr.laymdt'} 
 
 ###vera
 'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }

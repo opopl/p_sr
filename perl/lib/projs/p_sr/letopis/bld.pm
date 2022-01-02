@@ -35,7 +35,6 @@ sub init {
     hash_inject($self, $h);
 
     $self->SUPER::init();
-	$DB::single = 1;
 
     return $self;
 }

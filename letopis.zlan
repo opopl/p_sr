@@ -36418,6 +36418,9 @@ page
 	set url https://news.novgorod.ru/articles/read/1154.html
 	set tags igrushka,igrushka.jolka,novyj_god,ukrashenie
 	set date 24_12_2021
+page
+	set url https://strana.news/opinions/370202-cheho-ne-khvataet-ukraine-dlja-nastojashcheho-proryva-v-svoem-razvitii.html
+	set tags gosudarstvo,myshlenie,strategia,ukraina
 eof
 off
 page

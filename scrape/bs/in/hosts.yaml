@@ -59,6 +59,10 @@
 'texty.org.ua' : { 'site' : 'news.ua.texty' }
 'vovka.com.ua' : { 'site' : 'news.ua.vovka' }
 
+
+###news.de
+'berliner-telegraph.de' : { 'site' : 'news.de.berliner_telegraph' }
+
 ###news.by
 'tut.by' : { 'site' : 'news.by.tut' }
 

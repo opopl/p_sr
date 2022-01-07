@@ -36409,11 +36409,6 @@ page
 page
 	set url https://www.radiosvoboda.org/a/foto-terytorialna-oborona-ukrainy/31631686.html
 	set tags armia,kiev,napadenie,oborona,rossia,teroborona,ugroza
-global
-	set redo 1
-	setlist acts
-		db_update
-		auth_update
 page
 	set url https://news.novgorod.ru/articles/read/1154.html
 	set tags igrushka,igrushka.jolka,novyj_god,ukrashenie
@@ -36421,6 +36416,9 @@ page
 page
 	set url https://strana.news/opinions/370202-cheho-ne-khvataet-ukraine-dlja-nastojashcheho-proryva-v-svoem-razvitii.html
 	set tags gosudarstvo,myshlenie,strategia,ukraina
+page
+	set url https://strana.news/opinions/370586-mozhet-byt-iz-treshchin-nyneshneho-mira-voznikaet-novoe-rodzhestvo.html
+	set tags hristos,miroporjadok,rozhdestvo
 eof
 off
 page

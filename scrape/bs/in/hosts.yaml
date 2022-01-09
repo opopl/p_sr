@@ -187,6 +187,9 @@
 'championat.com' : { 'site' : 'sport.ru.championat' }
 'sport.ru' : { 'site' : 'sport.ru.sportru' }
 
+###sport.ua
+'dynamo.kiev.ua' : { 'site' : 'sport.ua.dynamokiev' }
+
 ###travel.ru
 'travelask.ru' : { 'site' : 'travel.ru.travelask' }
 

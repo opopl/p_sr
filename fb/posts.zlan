@@ -149,7 +149,7 @@ page
 	set title Пасажир відмовився оплачувати проїзд у трамваї - Одеса
 	set author_id shubart_pavel
 page
-	set url https://www.facebook.com/groups/367613903441695/posts/1923030034566733/
+	set url https://www.facebook.com/groups/367613903441695/posts/1923030034566733
 	set ii mova_tatevosov_citata
 	set date 11_09_2021
 	set tags jazyk,kultura,mova,poezia,rossia,ukraina
@@ -190,7 +190,6 @@ page
 	set tags cenzura,obschestvo,politika,pravda,ukraina,vranje
 	set title Пора заканчивать этот обман. Пора уже говорить людям правду
 	set author_id kuzmin_renat
-on
 page
 	set url https://www.facebook.com/Per.aspera.ad.astra.A.N/posts/1499717490415158
 	set ii o_ljudjah
@@ -199,12 +198,20 @@ page
 	set title О ЛЮДЯХ...
 	set author_id vselennaja_mudrosti
 page
-	set url https://www.facebook.com/groups/story.kiev.ua/posts/1792451550951638/
+	set url https://www.facebook.com/groups/story.kiev.ua/posts/1792451550951638
 	set ii skver_chkalova
 	set date 07_11_2021
 	set tags chkalov_valerij,gorod,kiev,pereimenovanija,skver.kiev.chkalova,stupka_bogdan.ukr.akter,ukraina
 	set title ПЕРЕИМЕНОВАЛИ все-таки - Сквер имени Чкалова
 	set author_id fb_group.story_kiev_ua,batrak_svetlana.kiev
+on
+page
+	set url https://www.facebook.com/groups/story.kiev.ua/posts/1579162412280554
+	set tags kiev,bulgakov_mihail,foto,gorod
+	set date 30_01_2021
+	set title  Днепр... Нет красивее города на свете, чем Киев!
+	set ii dnepr_net_goroda_krasivee_kiev
+	set author_id fb_group.story_kiev_ua,novikova_natalia.kiev
 eof
 off
 page

@@ -36419,6 +36419,9 @@ page
 page
 	set url https://strana.news/opinions/370586-mozhet-byt-iz-treshchin-nyneshneho-mira-voznikaet-novoe-rodzhestvo.html
 	set tags hristos,miroporjadok,rozhdestvo
+page
+	set url https://strana.news/opinions/371786-slovo-ukraina-sejchas-zvuchit-vezde-no-v-nashe-otsutstvie.html
+	set tags diplomatia,donbass,geopolitika,rossia,ukraina,vojna
 eof
 off
 page

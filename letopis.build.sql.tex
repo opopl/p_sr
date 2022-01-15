@@ -1,0 +1,43 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file build.sql
+%%parent build
+ 
+%%url 
+ 
+%%author_id 
+%%date 
+ 
+%%tags 
+%%title 
+ 
+%%endhead 
+
+\begin{verbatim}
+  projs.sqlite 
+  $PLG/data/sql/create_table_projs.sql
+
+  CREATE TABLE IF NOT EXISTS projs (
+      -- project id
+      pid INTEGER,
+      -- file id
+      fid INTEGER PRIMARY KEY,
+      -- project name
+      proj TEXT NOT NULL, 
+      file TEXT NOT NULL UNIQUE,
+      sec TEXT, 
+      tags TEXT, 
+      -- parent section name
+      parent TEXT,
+      projtype TEXT,
+      author_id TEXT,
+      -- section id
+      id TEXT,
+      pic TEXT,
+      rootid TEXT,
+      url TEXT,
+      title TEXT,
+      date TEXT
+  );
+\end{verbatim}

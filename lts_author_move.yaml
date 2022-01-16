@@ -1,0 +1,11 @@
+acts:
+- act: author_move
+  args:
+  #- new: goncharova_tatjana.kiev
+    #old: goncharova_tatjana
+  #- old: goncharova_tatjana.kiev
+    #new: goncharova_tatjana
+  #- old: ekaterina_terehova
+    #new: terehova_ekaterina 
+  - old: andrej_protoierej_tkachev
+    new: tkachev_andrej.protoierej

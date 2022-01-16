@@ -11,3 +11,5 @@ acts:
     #new: tkachev_andrej.protoierej
    #- old: losєv_іgor
      #new: losev_іgor
+    - old: _trikster_filosofija_religija
+      new: trikster_filosofija_religija

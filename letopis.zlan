@@ -36422,6 +36422,9 @@ page
 page
 	set url https://strana.news/opinions/371786-slovo-ukraina-sejchas-zvuchit-vezde-no-v-nashe-otsutstvie.html
 	set tags diplomatia,donbass,geopolitika,rossia,ukraina,vojna
+page
+	set url https://zaxid.net/ukrayintsi_na_chempionati_yevropi_z_figurnogo_katannya_n1533960
+	set tags figurnoje_katanie,sport,ukraina
 eof
 off
 page

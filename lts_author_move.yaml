@@ -9,5 +9,5 @@ acts:
     #new: terehova_ekaterina 
   #- old: andrej_protoierej_tkachev
     #new: tkachev_andrej.protoierej
-   - old: losєv_іgor
-     new: losev_іgor
+   #- old: losєv_іgor
+     #new: losev_іgor

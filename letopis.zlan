@@ -36425,6 +36425,9 @@ page
 page
 	set url https://zaxid.net/ukrayintsi_na_chempionati_yevropi_z_figurnogo_katannya_n1533960
 	set tags figurnoje_katanie,sport,ukraina
+page
+	set url https://strana.digital/news/372265-rossija-mozhet-zakhotet-atakovat-ukrainu-v-ljuboj-moment-belyj-dom.html
+	set tags napadenie,psaki_dzhen,rossia,ugroza,ukraina
 eof
 off
 page

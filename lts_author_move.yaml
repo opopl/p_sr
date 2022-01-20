@@ -15,5 +15,7 @@ acts:
       #new: yz.trikster_filosofija_religija
     #- old: trikster_filosofija_religija
       #new: yz.trikster_filosofija_religija
-  - old: slіpchenko_ekaterina
-    new: slipchenko_katerina
+  #- old: slіpchenko_ekaterina
+    #new: slipchenko_katerina
+  - old: dacjuk_sergіj
+    new: dacjuk_sergij

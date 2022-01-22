@@ -126,7 +126,7 @@
 'ukraina.ru' : { 'site' : 'news.ru.ukraina' }
 'vesti.ru' : { 'site' : 'news.ru.vesti_ru' }
 'vz.ru' : { 'site' : 'news.ru.vzgljad' }
-'zen.yandex.ru' : { 'site' : 'news.ru.yandex.zen' }
+'zen.yandex.ru' : { 'site' : 'news.ru.yandex.zen', 'prefii' : 'yz' }
 'riakursk.ru' : { 'site' : 'news.ru.ria_kursk' }
 'iz.ru' : { 'site' : 'news.ru.izvestia' }
 'regnum.ru' : { 'site' : 'news.ru.regnum' }
@@ -243,7 +243,7 @@
 ###com
 #
 'apple.com' : { 'site' : 'com.us.apple' }
-'facebook.com' : { 'site' : 'com.us.facebook' }
+'facebook.com' : { 'site' : 'com.us.facebook', 'prefii' : 'fb' }
 
-'livejournal.com' : { 'site' : 'socset.livejournal' }
+'livejournal.com' : { 'site' : 'socset.livejournal', 'prefii' : 'lj' }
 

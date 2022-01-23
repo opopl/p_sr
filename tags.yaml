@@ -1,0 +1,11 @@
+
+ukraina:
+  name:
+    rus: Украина
+    ukr: Україна
+    eng: Ukraine
+
+  texind:
+    rus: 'Украина'
+    eng: 'Ukraine'
+    'names.rus': 'Украина'

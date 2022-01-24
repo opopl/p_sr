@@ -247,4 +247,5 @@
 'facebook.com' : { 'site' : 'com.us.facebook', 'prefii' : 'fb' }
 
 'livejournal.com' : { 'site' : 'socset.livejournal', 'prefii' : 'lj' }
+'t.me' : { 'site' : 'telegram', 'prefii' : 'tg' }
 

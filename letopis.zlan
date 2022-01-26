@@ -36428,6 +36428,9 @@ page
 page
 	set url https://strana.digital/news/372265-rossija-mozhet-zakhotet-atakovat-ukrainu-v-ljuboj-moment-belyj-dom.html
 	set tags napadenie,psaki_dzhen,rossia,ugroza,ukraina
+page
+	set url https://bigkyiv.com.ua/kyyiv-zymovyj-ochyma-hudozhnykiv/
+	set tags hudozhnik,isskustvo,istoria,kartina,kiev
 eof
 off
 page

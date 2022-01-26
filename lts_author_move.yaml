@@ -1,21 +1,5 @@
 acts:
 - act: author_move
   args:
-  #- new: goncharova_tatjana.kiev
-    #old: goncharova_tatjana
-  #- old: goncharova_tatjana.kiev
-    #new: goncharova_tatjana
-  #- old: ekaterina_terehova
-    #new: terehova_ekaterina 
-  #- old: andrej_protoierej_tkachev
-    #new: tkachev_andrej.protoierej
-   #- old: losєv_іgor
-     #new: losev_іgor
-    #- old: trikster_filosofija_religija
-      #new: yz.trikster_filosofija_religija
-    #- old: trikster_filosofija_religija
-      #new: yz.trikster_filosofija_religija
-  #- old: slіpchenko_ekaterina
-    #new: slipchenko_katerina
-  - old: dacjuk_sergіj
-    new: dacjuk_sergij
+  - new: smolina_miroslava
+    old: smolіna_miroslava

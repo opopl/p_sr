@@ -156,6 +156,8 @@
 'child-lib.com' : { 'site' : 'bib.lnr.child_lib' }
 'www.lib-dpr.ru' : { 'site' : 'bib.dnr.doneck.nauchnaja_krupskoj' }
 
+###comp
+
 ###nauka
 
 # Nauka i Zhizn
@@ -229,6 +231,7 @@
 
 ###pc
 
+'dou.ua' : { 'site' : 'pc.ua.dou' }
 'dev.to' : { 'site' : 'pc.articles.devto' }
 'habr.com' : { 'site' : 'pc.articles.habr' }
 'linuxize.com' : { 'site' : 'pc.articles.linuxize' }

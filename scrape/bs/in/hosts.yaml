@@ -252,4 +252,5 @@
 
 'livejournal.com' : { 'site' : 'socset.livejournal', 'prefii' : 'lj' }
 't.me' : { 'site' : 'telegram', 'prefii' : 'tg' }
+'vk.com' : { 'site' : 'vkontakte', 'prefii' : 'vk' }
 

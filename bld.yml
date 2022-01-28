@@ -1,0 +1,8 @@
+
+
+preamble:
+  index:
+    enable:
+    - authors.rus
+    #- names.rus
+    #- rus

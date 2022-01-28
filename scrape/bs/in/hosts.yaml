@@ -177,6 +177,7 @@
 ###ludi
 'buzina.org' : { 'site' : 'ludi.ua.buzina' }
 'romankuxaruk.com.ua' : { 'site' : 'ludi.ua.kuharuk_roman' }
+'denis-pushilin.ru' : { 'site' : 'ludi.dnr.pushilin_denis' }
 
 ###anglia
 'bbc.com' : { 'site' : 'news.anglia.bbc' }

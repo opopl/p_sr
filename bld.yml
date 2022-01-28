@@ -2,7 +2,7 @@
 
 preamble:
   index:
-    enable:
+    'enable':
     - authors.rus
     #- names.rus
     #- rus

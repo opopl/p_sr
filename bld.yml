@@ -32,6 +32,58 @@ sii:
     - preamble.index
     - preamble.filecontents
 
+opts_maker:
+  skip:
+    get_opt: 1
+  join_lines:
+    include_below: 'section'
+  load_dat:
+    ii_exclude : 1
+    ii_include : 0
+    sections :
+      include : '_base_'
+      include_with_children : 'preamble'
+      ins_order:
+      - hyperlinks
+      - titletoc
+      - story
+    append:
+      only:
+      each:
+    prepend:
+      only:
+        '_main_' :
+        - '\newif\ifDEBUG\DEBUGfalse'
+        - ''
+        - '\newif\ifcmt\cmtfalse'
+
+#'sections' => HASH(0x7fe2cd1dd6e8)
+      #'append' => HASH(0x7fe2cd1dc778)
+         #'each' => CODE(0x7fe2ccbfe4b8)
+            #-> &Plg::Projs::Prj::Builder::Trg::core::__ANON__[/Users/oleksandrpoplavskiy/vrt/plg/projs/perl/lib/Plg/Projs/Prj/Builder/Trg/core.pm:29] in /Users/oleksandrpoplavskiy/vrt/plg/projs/perl/lib/Plg/Projs/Prj/Builder/Trg/core.pm:29-29
+         #'only' => HASH(0x7fe2cd1e3b78)
+              #empty hash
+      #'ins_order' => 'hyperlinks
+         #titletoc
+         #story'
+      #'insert' => HASH(0x7fe2cd1dfbc0)
+         #'hyperlinks' => CODE(0x7fe2ccc02398)
+            #-> &Plg::Projs::Prj::Builder::Trg::core::__ANON__[/Users/oleksandrpoplavskiy/vrt/plg/projs/perl/lib/Plg/Projs/Prj/Builder/Trg/core.pm:25] in /Users/oleksandrpoplavskiy/vrt/plg/projs/perl/lib/Plg/Projs/Prj/Builder/Trg/core.pm:25-25
+         #'story' => CODE(0x7fe2ca300750)
+            #-> &Plg::Projs::Prj::Builder::Trg::core::__ANON__[/Users/oleksandrpoplavskiy/vrt/plg/projs/perl/lib/Plg/Projs/Prj/Builder/Trg/core.pm:26] in /Users/oleksandrpoplavskiy/vrt/plg/projs/perl/lib/Plg/Projs/Prj/Builder/Trg/core.pm:26-26
+         #'titletoc' => CODE(0x7fe2cd1765f0)
+            #-> &Plg::Projs::Prj::Builder::Trg::core::__ANON__[/Users/oleksandrpoplavskiy/vrt/plg/projs/perl/lib/Plg/Projs/Prj/Builder/Trg/core.pm:24] in /Users/oleksandrpoplavskiy/vrt/plg/projs/perl/lib/Plg/Projs/Prj/Builder/Trg/core.pm:24-24
+      #'line_sub' => CODE(0x7fe2cd149fe8)
+         #-> &Plg::Projs::Prj::Builder::Trg::core::__ANON__[/Users/oleksandrpoplavskiy/vrt/plg/projs/perl/lib/Plg/Projs/Prj/Builder/Trg/core.pm:22] in /Users/oleksandrpoplavskiy/vrt/plg/projs/perl/lib/Plg/Projs/Prj/Builder/Trg/core.pm:16-22
+      #'prepend' => HASH(0x7fe2cd1dcbc0)
+         #'only' => HASH(0x7fe2cd1d83a0)
+            #'_main_' => '\\newif\\ifDEBUG\\DEBUGfalse
+            
+            #\\newif\\ifcmt\\cmtfalse'
+   #'skip' => HASH(0x7fe2cd1dc950)
+      #'get_opt' => 1
+
+
 preamble:
   index:
     'enable' :

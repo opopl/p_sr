@@ -1,8 +1,40 @@
 
+vars:
+  pagestyle: fancy
+  ii_base:
+  - body 
+  - preamble 
+  - index 
+  - bib
+  - titlepage
+  - defs
+  - listfigs 
+  - listtabs
+  - tabcont
+  - preamble.index 
+  - preamble.packages 
+  - preamble.acrobat_menu 
+  - preamble.filecontents
+
+sii:
+  insert:
+    hyperlinks: 0
+    story: 1
+    titletoc: 1
+
+  generate:
+    'on':
+    - index
+    - listfigs
+    - listtabs
+    - preamble
+    - preamble.packages
+    - preamble.index
+    - preamble.filecontents
 
 preamble:
   index:
     'enable' :
        - authors.rus
-       - names.rus
-       - rus
+       #- names.rus
+       #- rus

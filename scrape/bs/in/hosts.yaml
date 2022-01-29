@@ -28,7 +28,12 @@
 'lb.ua' : { 'site' : 'news.ua.lb' }
 'imi.org.ua' : { 'site' : 'news.ua.imi' }
 'fakty.ua' : { 'site' : 'news.ua.fakty' }
-'day.kiev.ua,day.kyiv.ua' : { 'site' : 'news.ua.den' }
+
+'day.kiev.ua,day.kyiv.ua' : { 
+    'site' : 'news.ua.den', 
+    'author' : { 'name' : 'Газета День (Україна)' } 
+}
+
 'zaxid.net' : { 'site' : 'news.ua.zaxid' }
 '112.ua,112ua.tv' : { 'site' : 'news.ua.112ua' }
 'newsoneua.tv' : { 'site' : 'news.ua.newsone' }

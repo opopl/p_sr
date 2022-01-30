@@ -1,8 +1,14 @@
 
-tex_exe: xelatex
+#tex_exe: xelatex
 
-vars:
-  pagestyle: 
-  ii_base:
+#vars:
+  #pagestyle: 
+  #ii_base:
 
-decs:
+#decs:
+#opts_maker:
+
+preamble:
+  index:
+    'enable @push@uniq':
+       - names.rus

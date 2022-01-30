@@ -1,4 +1,6 @@
 
+tex_exe: pdflatex
+
 vars:
   pagestyle: fancy
   ii_base:

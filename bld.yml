@@ -16,7 +16,8 @@ vars:
   - preamble.acrobat_menu 
   - preamble.filecontents
 
-
+decs:
+- do_ind_titletoc
 
 opts_maker:
   skip:
@@ -43,6 +44,12 @@ opts_maker:
         - ''
         - '\newif\ifcmt\cmtfalse'
 
+# _join_lines                  Plg::Projs::Build::Maker::Join
+#   _gen_sec                   Plg::Projs::Prj::Builder::Gen
+#     _sct_lines               Plg::Projs::Prj::Builder::Sct - match @printindex
+#      _bld_ind_printindex         same
+#         _bld_ind_lines           same
+#            _bld_ind         =>  /preamble/index/ind values
 preamble:
   index:
     'enable' :
@@ -66,6 +73,8 @@ sii:
     - preamble.index
     - preamble.filecontents
 
+
+# Plg::Projs::Prj::Builder::Sct
   scts:
 ###sct_preamble
     preamble:

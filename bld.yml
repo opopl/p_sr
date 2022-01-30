@@ -1,14 +1,16 @@
 
-#tex_exe: xelatex
+tex_exe: xelatex
 
-#vars:
-  #pagestyle: 
-  #ii_base:
+vars:
+  pagestyle: 
+  ii_base:
 
-#decs:
-#opts_maker:
+decs:
+opts_maker:
 
 preamble:
   index:
-    'enable @push@uniq':
+    'enable @push,uniq':
+       - names.rus
+       - names.rus
        - names.rus

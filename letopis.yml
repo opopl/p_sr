@@ -1,0 +1,10 @@
+
+targets:
+  include:
+    usual:
+    - nov_2020
+    - dec_2020
+    - poetry
+    - writers
+    - leontovych_mykola
+    - titlepage

@@ -89,7 +89,10 @@
 'syktyvkar.1istochnik.ru' : { 'site' : 'news.ru.syktyvkar.pervoistochnik' }
 'les.media' : { 'site' : 'news.ru.lesmedia' }
 'rg.ru' : { 'site' : 'news.ru.rg' }
-'echo.msk.ru' : { 'site' : 'news.ru.eho_moskvy' } 
+'echo.msk.ru' : { 
+  'site' : 'news.ru.eho_moskvy',
+  'author' : { 'name' : 'Эхо Москвы' } 
+ } 
 
 # pravda rossii
 'news24ru.net' : { 'site' : 'news.ru.news24ru' }

@@ -25,11 +25,15 @@ sii:
           body:
           #- '25_12_2020.news.ua.obozrevatel.vjatrovich_volodymyr.1.leontovych_nkvd'
           #- '16_12_2017.news.ua.argumentua.1.leontovych_mykola_chekist_smert'
-          - 'sql' :
-              'query' : 'SELECT sec FROM projs INNER JOIN _info_projs_tags ON projs.file = _info_projs_tags.file WHERE _info_projs_tags.tag = ?'
-              'params' :
+          - sql:
+              query: 'SELECT sec FROM projs INNER JOIN _info_projs_tags ON projs.file = _info_projs_tags.file WHERE _info_projs_tags.tag = ?'
+              params:
               - 'leontovych_mykola'
-
+          - select:
+             #'tags' : 
+             'author_id':
+             #- 'fb_group.story_kiev_ua'
+             - 'vjatrovich_volodymyr'
       txt:
         cmt:
 
@@ -40,14 +44,7 @@ sii:
 
 opt:
   ii_updown:
-  #- '25_12_2020'
-  #- '16_12_2017'
-  #- '25_12_2020.news.ua.obozrevatel.vjatrovich_volodymyr.1.leontovych_nkvd'
-  - '16_12_2017.news.ua.argumentua.1.leontovych_mykola_chekist_smert'
 
 opts_maker:
+  ii_include_all: 1
   sections :
-    'include_with_children @push': 
-    - '25_12_2020.news.ua.obozrevatel.vjatrovich_volodymyr.1.leontovych_nkvd'
-    - '16_12_2017.news.ua.argumentua.1.leontovych_mykola_chekist_smert'
-

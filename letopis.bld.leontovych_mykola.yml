@@ -7,6 +7,15 @@ vars:
 decs:
   - do_ind_titletoc
 
+sii:
+  insert:
+    story: 1
+    titletoc: 1
+
+  generate:
+    'on @push':
+    - '_main_'
+
 opt:
   ii_updown:
   #- '25_12_2020'

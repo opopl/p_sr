@@ -16,6 +16,8 @@ sii:
     'on @push':
     - '_main_'
 
+  scts:
+
 opt:
   ii_updown:
   #- '25_12_2020'

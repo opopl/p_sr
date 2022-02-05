@@ -8,7 +8,8 @@ vars:
 decs:
   - do_ind_titletoc
 
-use_secs:
+patch:
+  'sii.scts._main_.ii.inner.body':
   - select:
     author_id:
       and:

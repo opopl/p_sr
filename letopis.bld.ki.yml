@@ -6,8 +6,7 @@ vars:
   toc_depth: 3
 
 decs:
-  - do_ind_titletoc
-  - om_iall
+  om_iall : 1
 
 patch:
   'sii.scts._main_.ii.inner.body':

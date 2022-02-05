@@ -11,10 +11,11 @@ decs:
 patch:
   'sii.scts._main_.ii.inner.body':
   - select:
-    author_id:
-      and:
-      - 'fb_group.story_kiev_ua'
-      - 'denisova_oksana.kiev.ukraina.gid'
+      '@op' : 'or' 
+      author_id:
+        and:
+        - 'fb_group.story_kiev_ua'
+        - 'denisova_oksana.kiev.ukraina.gid'
 
 sii:
   insert:
@@ -25,22 +26,22 @@ sii:
     'on @push,uniq':
     - '_main_'
 
-  scts:
-###sct__main_
-    '_main_':
-      ii:
-        inner:
-          body:
-          - select:
-             '@op' : 'OR'
-             tags:
-               and:
-             author_id:
-               and:
-               - 'fb_group.story_kiev_ua'
-               - 'denisova_oksana.kiev.ukraina.gid'
-      txt:
-        cmt:
+#  scts:
+####sct__main_
+    #'_main_':
+      #ii:
+        #inner:
+          #body:
+          #- select:
+             #'@op' : 'OR'
+             #tags:
+               #and:
+             #author_id:
+               #and:
+               #- 'fb_group.story_kiev_ua'
+               #- 'denisova_oksana.kiev.ukraina.gid'
+      #txt:
+        #cmt:
 
 ###sct_preamble
     preamble:

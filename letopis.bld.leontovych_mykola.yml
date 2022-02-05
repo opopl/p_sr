@@ -23,17 +23,12 @@ sii:
       ii:
         inner:
           body:
-          - '25_12_2020.news.ua.obozrevatel.vjatrovich_volodymyr.1.leontovych_nkvd'
-          - '16_12_2017.news.ua.argumentua.1.leontovych_mykola_chekist_smert'
-#          - select:
-             #'tags':
-                #'and' : 
-                 #- 'leontovych_mykola'
-                 #- 'death'
-                 ##- 'ukraina'
-             #'author_id':
+          - select:
+             tags:
+               and:
+               - 'leontovych_mykola'
+             author_id:
              ##- 'fb_group.story_kiev_ua'
-             ##- 'vjatrovich_volodymyr'
       txt:
         cmt:
 

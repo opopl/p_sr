@@ -1,0 +1,54 @@
+
+# leontovych_mykola
+tex_exe: pdflatex
+vars:
+  pagestyle: fancy
+  toc_depth: 3
+
+decs:
+  - do_ind_titletoc
+
+use_secs:
+  - select:
+    author_id:
+      and:
+      - 'fb_group.story_kiev_ua'
+      - 'denisova_oksana.kiev.ukraina.gid'
+
+sii:
+  insert:
+    story: 1
+    titletoc: 1
+
+  generate:
+    'on @push,uniq':
+    - '_main_'
+
+  scts:
+###sct__main_
+    '_main_':
+      ii:
+        inner:
+          body:
+          - select:
+             '@op' : 'OR'
+             tags:
+               and:
+             author_id:
+               and:
+               - 'fb_group.story_kiev_ua'
+               - 'denisova_oksana.kiev.ukraina.gid'
+      txt:
+        cmt:
+
+###sct_preamble
+    preamble:
+      setcounter:
+        secnumdepth: 0
+
+opt:
+  ii_updown:
+
+opts_maker:
+  ii_include_all: 1
+  sections :

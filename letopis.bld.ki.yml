@@ -10,7 +10,6 @@ decs:
   - om_iall
 
 patch:
-  #'opts_maker.ii_include_all' : 1
   'sii.scts._main_.ii.inner.body':
   - select:
       '@op' : 'or' 

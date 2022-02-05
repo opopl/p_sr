@@ -13,19 +13,19 @@ patch:
   'sii.scts._main_.ii.inner.body':
   - select:
       '@op' : 'or' 
-      limit: 5
+      limit: 50
       author_id:
         and:
         - 'fb_group.story_kiev_ua'
-        - 'denisova_oksana.kiev.ukraina.gid'
-  - select:
-      dbg: 1
-      limit: 10
-      tags:
-        and:
-        - 'kiev'
-        - 'kievljane'
-        - 'istoria'
+        #- 'denisova_oksana.kiev.ukraina.gid'
+#  - select:
+      #dbg: 1
+      #limit: 10
+      #tags:
+        #and:
+        #- 'kiev'
+        #- 'kievljane'
+        #- 'istoria'
 
   'sii.scts.preamble.setcounter.secnumdepth' : 0
 

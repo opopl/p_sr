@@ -12,5 +12,3 @@ preamble:
   index:
     'enable @push,uniq':
        - names.rus
-       - names.rus
-       - names.rus

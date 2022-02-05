@@ -7,50 +7,26 @@ vars:
 
 decs:
   - do_ind_titletoc
+  - om_iall
 
 patch:
+  #'opts_maker.ii_include_all' : 1
   'sii.scts._main_.ii.inner.body':
   - select:
       '@op' : 'or' 
+      limit: 5
       author_id:
         and:
         - 'fb_group.story_kiev_ua'
         - 'denisova_oksana.kiev.ukraina.gid'
+  - select:
+      dbg: 1
+      limit: 10
+      tags:
+        and:
+        - 'kiev'
+        - 'kievljane'
+        - 'istoria'
 
-sii:
-  insert:
-    story: 1
-    titletoc: 1
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
 
-  generate:
-    'on @push,uniq':
-    - '_main_'
-
-#  scts:
-####sct__main_
-    #'_main_':
-      #ii:
-        #inner:
-          #body:
-          #- select:
-             #'@op' : 'OR'
-             #tags:
-               #and:
-             #author_id:
-               #and:
-               #- 'fb_group.story_kiev_ua'
-               #- 'denisova_oksana.kiev.ukraina.gid'
-      #txt:
-        #cmt:
-
-###sct_preamble
-    preamble:
-      setcounter:
-        secnumdepth: 0
-
-opt:
-  ii_updown:
-
-opts_maker:
-  ii_include_all: 1
-  sections :

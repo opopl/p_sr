@@ -13,6 +13,9 @@ patch:
   - select:
       '@op' : 'or' 
       limit: 50
+      where:
+        '@regex':
+           sec: '^fbauth\.'
       author_id:
         and:
         - 'fb_group.story_kiev_ua'

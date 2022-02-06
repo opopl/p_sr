@@ -36434,6 +36434,9 @@ page
 page
 	set url https://strana.news/opinions/375195-natsionalisty-na-tribunakh-obespechili-ukraine-natsionalnyj-pozor.html
 	set tags bolelschik,futbol,nacionalizm,pozor,rossia,sport,ukraina
+page
+	set url https://strana.news/news/375235-rossija-zakanchivaet-podhotovku-vtorzhenija-v-ukrainu-the-new-york-times.html
+	set tags rossia,ugroza,ukraina,vtorzhenie,vtorzhenie.ru2uk
 eof
 off
 page

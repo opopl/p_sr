@@ -12,7 +12,7 @@ patch:
   'sii.scts._main_.ii.inner.body':
   - select:
       '@op' : 'or' 
-      limit: 50
+      #limit: 50
       dbg: 1
       where:
         '@regexp':

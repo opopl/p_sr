@@ -13,7 +13,10 @@ opts_maker:
 
 patch:
   'sii.scts._main_.ii.inner.body':
-  - 'topics.donbass.zhizn.2022'
+  - 'topics.donbass.zhizn.sport'
+  #- 'topics.donbass.zhizn.2022'
+  #- 'topics.donbass.zhizn.obrazovanie'
+  #- 'topics.donbass.zhizn.kultura'
 #  - select:
       #'@op' : 'or' 
       #limit: 50

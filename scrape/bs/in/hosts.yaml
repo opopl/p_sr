@@ -267,3 +267,9 @@
 't.me' : { 'site' : 'telegram', 'prefii' : 'tg' }
 'vk.com' : { 'site' : 'vkontakte', 'prefii' : 'vk' }
 
+###news.us
+'apnews.com' : { 
+  'site' : 'news.us.ap',
+  'author' : { 'name' : 'The Associated Press (United States)' } 
+}
+

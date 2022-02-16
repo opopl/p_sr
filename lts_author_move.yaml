@@ -1,5 +1,5 @@
 acts:
 - act: author_move
   args:
-  - new: smolina_miroslava
-    old: smolіna_miroslava
+  - new: romanova_kristina
+    old: kristina_romanova

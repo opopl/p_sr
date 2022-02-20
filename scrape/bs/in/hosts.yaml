@@ -207,6 +207,7 @@
 ###sport.ru
 'championat.com' : { 'site' : 'sport.ru.championat' }
 'sport.ru' : { 'site' : 'sport.ru.sportru' }
+'matchtv.ru' : { 'site' : 'sport.ru.matchtv' }
 
 ###sport.lnr
 'turizm.lugasport.info' : { 'site' : 'sport.lnr.turizm_lugasport_info' }

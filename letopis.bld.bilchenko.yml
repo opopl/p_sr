@@ -1,0 +1,29 @@
+
+# kievskie istorii
+#tex_exe: pdflatex
+vars:
+  pagestyle: fancy
+  toc_depth: 3
+
+decs:
+  om_iall : 1
+
+patch:
+  'sii.scts._main_.ii.inner.body':
+  - select:
+      '@op' : 'or' 
+      limit: 30
+      author_id:
+        and:
+        - 'bilchenko_evgenia'
+#  - select:
+      #dbg: 1
+      #limit: 10
+      #tags:
+        #and:
+        ##- 'kiev'
+        ##- 'kievljane'
+        ##- 'istoria'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+

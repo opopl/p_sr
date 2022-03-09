@@ -20,7 +20,10 @@
 'www.citynews.net.ua' : { 'site' : 'news.ua.citynews' } 
 'zbruc.eu' : { 'site' : 'news.ua.zbruc' }
 'golospravdy.eu' : { 'site' : 'news.ua.golospravdy' }
-'ctrana.online,strana.ua,strana.news,strana.digital,strana.today' : { 'site' : 'news.ua.strana' }
+'ctrana.online,strana.ua,strana.news,strana.digital,strana.today' : { 
+  'site' : 'news.ua.strana',
+  'author' : { 'name' : 'Страна УА (Україна)' } 
+}
 'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
 'obozrevatel.com' : { 'site' : 'news.ua.oboz' }
 'www.radiosvoboda.org,ru.krymr.com' : { 'site' : 'news.ua.radiosvoboda' }

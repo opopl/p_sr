@@ -1,0 +1,31 @@
+
+# vojna
+#tex_exe: pdflatex
+vars:
+  pagestyle: fancy
+  toc_depth: 3
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+patch:
+  'sii.scts._main_.ii.inner.start':
+  - topics.vojna.titlepage
+  - listfigs
+  - listtabs
+  - tabcont
+  'sii.scts._main_.ii.inner.body':
+  - 'topics.vojna'
+  #- 'topics.donbass.zhizn.2022'
+#  - select:
+      #'@op' : 'or' 
+      #limit: 50
+      #author_id:
+        #and:
+        #- 'fb_group.story_kiev_ua'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+

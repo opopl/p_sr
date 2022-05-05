@@ -14,8 +14,8 @@ opts_maker:
 patch:
   'sii.scts._main_.ii.inner.start':
   #- topics.vojna.titlepage
-  - listfigs
-  - listtabs
+  #- listfigs
+  #- listtabs
   - tabcont
   'sii.scts._main_.ii.inner.body':
   - 'topics.vojna.harkov.titlepage'

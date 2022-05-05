@@ -18,8 +18,8 @@ patch:
   - listtabs
   - tabcont
   'sii.scts._main_.ii.inner.body':
-  - 'topics.vojna.poezia'
-  - 'shell' : 'prj-hyp2ii -p letopis -s topics.vojna.poezia'
+  - 'topics.vojna.harkov'
+  - 'shell' : 'prj-hyp2ii -p letopis -s topics.vojna.harkov.posts'
 
   'sii.scts.preamble.setcounter.secnumdepth' : 0
 

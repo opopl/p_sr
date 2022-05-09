@@ -1,0 +1,25 @@
+
+# vojna
+#tex_exe: pdflatex
+vars:
+  pagestyle: fancy
+  toc_depth: 3
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+patch:
+  'sii.scts._main_.ii.inner.start':
+  #- topics.vojna.titlepage
+  #- listfigs
+  #- listtabs
+  - tabcont
+  'sii.scts._main_.ii.inner.body':
+  - 'topics.vojna.cities.herson'
+  - 'shell' : 'prj-hyp2ii -p letopis -s topics.vojna.cities.herson'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+

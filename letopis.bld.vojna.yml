@@ -13,7 +13,7 @@ opts_maker:
 
 patch:
   'sii.scts._main_.ii.inner.start':
-  - topics.vojna.titlepage
+  #- topics.vojna.titlepage
   - listfigs
   - listtabs
   - tabcont

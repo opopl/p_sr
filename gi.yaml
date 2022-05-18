@@ -1,0 +1,8 @@
+
+cmd: add_images
+add:
+  dirs:
+  - ~/Documents/lts/rashizm/ok_ru/special
+  exts:
+  - png
+  - jpg

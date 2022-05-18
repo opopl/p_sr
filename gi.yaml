@@ -1,12 +1,17 @@
 
 cmd: add_images
 add:
-  dirs:
-  - ~/Documents/lts/rashizm/ok_ru/special
-  max_files: 1
-  tags:
-  - rashizm
-  - ok_ru
+  paths:
+  #- ~/Documents/lts/rashizm/ok_ru/special
+  #- ~/Documents/lts/rashizm/ok_ru
+  - ~/Documents/lts/rashizm/official
+  max_files: 100
+  mv: 1
+  tags: 'rashizm,official'
+  #tags: 'rashizm,ok_ru'
+  #- rashizm
+  #- official
+  #- ok_ru
   exts:
   - png
   - jpg

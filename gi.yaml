@@ -3,6 +3,10 @@ cmd: add_images
 add:
   dirs:
   - ~/Documents/lts/rashizm/ok_ru/special
+  max_files: 1
+  tags:
+  - rashizm
+  - ok_ru
   exts:
   - png
   - jpg

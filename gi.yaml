@@ -1,17 +1,24 @@
 
 cmd: add_images
-add:
-  paths:
-  #- ~/Documents/lts/rashizm/ok_ru/special
-  - ~/Documents/lts/rashizm/ok_ru
-  #- ~/Documents/lts/rashizm/official
-  max_files: 10
-  mv: 1
-  #tags: 'rashizm,official'
-  tags: 'rashizm,ok_ru'
-  #- rashizm
-  #- official
-  #- ok_ru
-  exts:
-  - png
-  - jpg
+
+cmds:
+- add_images
+
+data:
+  add_images:
+    paths:
+    #- ~/Documents/lts/rashizm/ok_ru/special
+    - ~/Documents/lts/rashizm/ok_ru
+    #- ~/Documents/lts/rashizm/official
+    max_files: 10
+    mv: 1
+    #tags: 'rashizm,official'
+    tags: 'rashizm,ok_ru'
+    #- rashizm
+    #- official
+    #- ok_ru
+    exts:
+    - png
+    - jpg
+
+select:

@@ -1,13 +1,22 @@
 
+###cmds
 cmds:
-- 'add_images @vars'
+#- 'add_images @vars'
 #- 'add_images rashizm ok_ru'
-- 'add_images rashizm kritika'
+#- 'add_images rashizm kritika'
+#- 'add_images poisk'
+- 'add_images mariupol'
 
+###vars
+vars:
+  add_images:
+    #max_files: 0
+    mv: 0
+
+###data
 data:
   'add_images @vars':
     max_files: 10
-    mv: 1
     exts:
     - png
     - jpg
@@ -25,5 +34,19 @@ data:
     tags:
     - rashizm
     - kritika
+
+  'add_images poisk':
+    paths:
+    - ~/Documents/lts/poisk
+    tags:
+    - poisk
+    - vojna.2022
+
+  'add_images mariupol':
+    paths:
+    - ~/Documents/lts/cities/mariupol
+    tags:
+    - mariupol
+    - vojna.2022
 
 select:

@@ -1,24 +1,29 @@
 
-cmd: add_images
-
 cmds:
-- add_images
+- 'add_images @vars'
+#- 'add_images rashizm ok_ru'
+- 'add_images rashizm kritika'
 
 data:
-  add_images:
-    paths:
-    #- ~/Documents/lts/rashizm/ok_ru/special
-    - ~/Documents/lts/rashizm/ok_ru
-    #- ~/Documents/lts/rashizm/official
+  'add_images @vars':
     max_files: 10
     mv: 1
-    #tags: 'rashizm,official'
-    tags: 'rashizm,ok_ru'
-    #- rashizm
-    #- official
-    #- ok_ru
     exts:
     - png
     - jpg
+
+  'add_images rashizm ok_ru':
+    paths:
+    - ~/Documents/lts/rashizm/ok_ru
+    tags:
+    - rashizm
+    - ok_ru
+
+  'add_images rashizm kritika':
+    paths:
+    - ~/Documents/lts/rashizm/kritika
+    tags:
+    - rashizm
+    - kritika
 
 select:

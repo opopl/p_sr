@@ -2,19 +2,23 @@
 ###cmds
 cmds:
 #- 'add_images @vars'
-#- 'add_images rashizm ok_ru'
+- 'add_images rashizm ok_ru'
 #- 'add_images rashizm kritika'
 #- 'add_images poisk'
 #- 'add_images mariupol'
-- 'load_file @sec{22_05_2022.fb.fb_group.ohtyrka_operatyvna.1.pozyvnyj_italiec.pic.1}'
+#- 'load_file @sec{22_05_2022.fb.fb_group.ohtyrka_operatyvna.1.pozyvnyj_italiec.pic.1}'
+- 'load_sec @sec{22_05_2022.fb.fb_group.ohtyrka_operatyvna.1.pozyvnyj_italiec}'
 
 ###vars
 vars:
+  load_sec:
+    proj: letopis
+
   load_file:
     proj: letopis
 
   add_images:
-    max_files: 2
+    max_files: 1
     mv: 1
     find:
       max_depth: 1

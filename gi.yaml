@@ -6,6 +6,7 @@ cmds:
 #- 'add_images rashizm kritika'
 #- 'add_images poisk'
 - 'add_images mariupol'
+#- 'load_file @sec{}'
 
 ###vars
 vars:

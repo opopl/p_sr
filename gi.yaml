@@ -2,7 +2,7 @@
 ###cmds
 cmds:
 #- 'add_images @vars'
-- 'add_images rashizm ok_ru'
+#- 'add_images rashizm ok_ru'
 #- 'add_images rashizm kritika'
 #- 'add_images poisk'
 #- 'add_images mariupol'

@@ -5,22 +5,28 @@ cmds:
 #- 'add_images rashizm ok_ru'
 #- 'add_images rashizm kritika'
 #- 'add_images poisk'
-- 'add_images mariupol'
-#- 'load_file @sec{}'
+#- 'add_images mariupol'
+- 'load_file @sec{22_05_2022.fb.fb_group.ohtyrka_operatyvna.1.pozyvnyj_italiec.pic.1}'
 
 ###vars
 vars:
+  load_file:
+    proj: letopis
+
   add_images:
-    #max_files: 0
-    mv: 0
+    max_files: 2
+    mv: 1
+    find:
+      max_depth: 1
+    exts:
+    - png
+    - jpg
+    - jpeg
 
 ###data
 data:
   'add_images @vars':
     max_files: 10
-    exts:
-    - png
-    - jpg
 
   'add_images rashizm ok_ru':
     paths:

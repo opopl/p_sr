@@ -9,7 +9,8 @@ cmds:
 #- 'load_file @sec{22_05_2022.fb.fb_group.ohtyrka_operatyvna.1.pozyvnyj_italiec.pic.1}'
 #- 'load_sec @sec{22_05_2022.fb.fb_group.ohtyrka_operatyvna.1.pozyvnyj_italiec}'
 #- 'load_sec @sec{17_05_2022.fb.ljubka_andrii.1.zirky_geroi_rosiane}'
-- 'load_sec @sec{11_05_2022.fb.kolky.rada.org.ua.1.smert_mosijchuk_ivan_ivanovich}'
+#- 'load_sec @sec{11_05_2022.fb.kolky.rada.org.ua.1.smert_mosijchuk_ivan_ivanovich}'
+- 'load_sec @sec{23_05_2022.fb.2bat.ps.ua.1.oblycchja_duk}'
 
 ###vars
 vars:

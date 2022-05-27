@@ -11,9 +11,14 @@ cmds:
 #- 'load_sec @sec{17_05_2022.fb.ljubka_andrii.1.zirky_geroi_rosiane}'
 #- 'load_sec @sec{11_05_2022.fb.kolky.rada.org.ua.1.smert_mosijchuk_ivan_ivanovich}'
 - 'load_sec @sec{23_05_2022.fb.2bat.ps.ua.1.oblycchja_duk}'
+#- 'db_fk_check'
+#- 'db_fk_create'
 
 ###vars
 vars:
+  db_foreign_key_check:
+    proj: letopis
+
   load_sec:
     proj: letopis
 

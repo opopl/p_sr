@@ -23,6 +23,10 @@ vars:
 
   load_sec:
     proj: letopis
+    keys:
+    #- orig
+    #- cmtx
+    - video
 
   load_file:
     proj: letopis

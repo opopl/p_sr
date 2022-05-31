@@ -11,6 +11,7 @@ decs:
 patch:
   'sii.scts._main_.ii.inner.body':
   - select:
+      dbg: 1
       '@op' : 'or' 
       limit: 50
       author_id:

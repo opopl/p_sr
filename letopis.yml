@@ -1,8 +1,11 @@
 
+vars:
+  img_root: '@env{IMG_ROOT}'
+
 targets:
   exclude:
   include:
-    - '_all_'
+  - '_all_'
 #    - usual
     #- nov_2020
     #- dec_2020

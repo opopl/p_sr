@@ -9,7 +9,9 @@
 #perl letopis.bld.pl compile -t poetry
 #perl letopis.bld.pl compile -t ki
 
+perl -d letopis.bld.pl compile -t topics.vojna.my.9.gruppa
+
 #prj-get-img -a ~/Documents/lts/rashizm/ok_ru/special
 #prj-get-img -c db_add_md5
 #prj-lts -a db_img_md5 -c run
-prj-lts -c run -a author_db_pages_util
+#prj-lts -c run -a author_db_pages_util

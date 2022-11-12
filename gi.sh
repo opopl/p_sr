@@ -14,5 +14,4 @@ export script="$PLG/projs/scripts/bufact/tex/get_img.pl"
 #export file="letopis.24_12_2021.stz.news.ru.kp.1.doneck_jolka.pic.1.tex"
 export sec="29_01_2022.fb.druzenko_gennadiy.1.chy_bude_vijna"
 export file="letopis.$sec.tex"
-#perl -d $script -f $file
-perl $script -f $file
+perl -d $script -f $file --img_root aa

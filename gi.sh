@@ -15,6 +15,8 @@ export script="$PLG/projs/scripts/bufact/tex/get_img.pl"
 #export sec="29_01_2022.fb.druzenko_gennadiy.1.chy_bude_vijna"
 #export sec="29_01_2022.fb.druzenko_gennadiy.1.chy_bude_vijna"
 
-export sec="topics.vojna.my.12.profil.friends.tetjana_rudenko.chat"
+#export sec="topics.vojna.my.12.profil.friends.tetjana_rudenko.chat"
+#export sec="topics.vojna.my.12.profil.friends.tetjana_rudenko"
+export sec="topics.vojna.my.12.profil.friends.petr_petrov.chat"
 export file="letopis.$sec.tex"
-perl $script -f $file --img_root img_root
+prj-get-img -f $file --img_root img_root

@@ -1,6 +1,7 @@
 
 package projs::p_sr::letopis::bld;
 
+use utf8;
 use strict;
 use warnings;
 
@@ -60,45 +61,75 @@ sub act_scr {
     $rule->directory;
     $rule->relative;
     $rule->maxdepth(1);
+
+    my @keys = qw( entry chat chat_public );
+    my $s_lines = {
+       'entry' => sub {
+           my ($friend, $fdir) = @_;
+           return [
+              '','\ifcmt',' import',
+              ' @path ' . $fdir,
+              ' @match p.png',
+              ' @tags scrn,profil,demidov,ok_ru,profil_img',
+              sprintf(' @tags ok.user.%s', $friend),
+              '\fi'
+           ];
+        },
+    };
+
+    my $map_key_secs = {
+       'chat' => 'Чат',
+       'chat_public' => 'Чат - Публичное',
+    };
+    foreach my $key (@keys) {
+       next if $key eq 'entry';
+
+       my $sec_key = $map_key_secs->{$key};
+
+       $s_lines->{$key} = sub {
+           my ($friend, $fdir) = @_;
+           return [
+              '',sprintf('\subsubsection{%s}',$sec_key),
+              '','\ifcmt',' import',
+              ' @path ' . $fdir,
+              ' @match Screenshot*.png',
+              ' @tab cols=2,no_fig,center',
+              sprintf(' @tags scrn,profil,demidov,ok_ru,%s', $key),
+              sprintf(' @tags ok.user.%s', $friend),
+              '\fi'
+           ];
+       };
+    }
     
     my @friends = $rule->in($root_dir);
     foreach my $friend (@friends) {
-        my $fsec = sprintf(q{%s.%s}, $root_sec, $friend);
-        my $fdir = catfile($root_dir, $friend);
-        my $flines = [];
-        push @$flines,
-            '','\ifcmt',' import',
-            ' @path ' . $fdir,
-            ' @match p.png',
-            sprintf(' @tags scrn,profil,demidov,ok_ru,%s,profil_img',$friend),
-            '\fi';
+        foreach my $key (@keys) {
+            my @a_key = $key eq 'entry' ? () : $key;
+            my $fsec  = join('.' => $root_sec, $friend, @a_key );
+            my $fdir  = catfile($root_dir, $friend, @a_key);
 
-        my $sd = $bld->_sec_data({ 
-           proj => $proj,
-           sec  => $fsec,
-        });
+            next unless -d $fdir;
 
-        unless($sd && $bld->_sec_exist({ sd => $sd })){
-            print qq{creating child section: $fsec} . "\n";
-            $DB::single = 1;
+            my $parent = @a_key ? join('.' => $root_sec, $friend) : $root_sec;
 
-            $bld->sec_new({
-               proj  => $proj,
-               parent => $root_sec,
-               sec => $fsec,
+            my $sd = $bld->_sec_data({
+               proj => $proj,
+               sec  => $fsec,
             });
  
-            $bld->sec_insert_child({
-               proj  => $proj,
-               sec   => $root_sec,
-               child => $fsec,
-            });
+            unless($sd && $bld->_sec_exist({ sd => $sd })){
+                my $flines = $s_lines->{$key}->($friend, $fdir);
 
-            $bld->sec_insert({
-               proj  => $proj,
-               sec => $fsec,
-               lines => $flines,
-            });
+                print qq{creating child section: $fsec} . "\n";
+                $DB::single = 1;
+    
+                $bld->sec_new_child({
+                   proj  => $proj,
+                   sec   => $parent,
+                   child => $fsec,
+                   lines => $flines
+                });
+            }
         }
     }
 

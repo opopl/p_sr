@@ -10,6 +10,9 @@ use Data::Dumper qw(Dumper);
 use File::Spec::Functions qw(catfile);
 use Getopt::Long qw(GetOptions);
 
+use File::Spec::Functions qw(catfile);
+use Data::Dumper qw(Dumper);
+
 use Base::Arg qw(
     hash_update
 );
@@ -19,7 +22,6 @@ use base qw(
 );
 
 use Base::Arg qw( hash_inject );
-
 
 sub init {
     my ($bld) = @_;
@@ -40,7 +42,6 @@ sub init {
 
     hash_inject($bld, $h);
 
-    $DB::single = 1;
     $bld->SUPER::init();
 
     return $bld;
@@ -48,8 +49,46 @@ sub init {
 
 sub act_scr {
     my ($bld) = @_;
+    
+    my ($proj, $root, $rootid) = @{$bld}{qw( proj root root_id )};
+    my $imgman = $bld->{imgman};
 
-    print qq{scr} . "\n";
+    my $sec = 'topics.vojna.my.12.profil';
+    my $root_dir = catfile($ENV{HOME},qw( Documents lts secs ), $sec, qw(friends) );
+    my $root_sec = "$sec.friends";
+    my $rule = File::Find::Rule->new;
+    $rule->directory;
+    $rule->relative;
+    $rule->maxdepth(1);
+    
+    my @friends = $rule->in($root_dir);
+    foreach my $friend (@friends) {
+        my $fsec = sprintf(q{%s.%s}, $root_sec, $friend);
+        my $fdir = catfile($root_dir, $friend);
+
+        my $sd = $bld->_sec_data({ 
+           proj => $proj,
+           sec  => $fsec,
+        });
+        next if !$sd || $bld->_sec_exist({ sd => $sd });
+        $DB::single = 1;
+        1;
+        $bld->sec_insert_child({
+           sec   => $root_sec,
+           proj  => $proj,
+           child => $fsec,
+        });
+    }
+
+    my @tags_a = qw( ok_ru chat );
+    my $imgs = $imgman->_db_imgs({
+        tags => { and => \@tags_a },
+        fields => [qw( url name_orig )],
+        mode => 'rows',
+        where => {},
+        limit => 10
+    });
+    $DB::single = 1;
 
     return $bld;
 }

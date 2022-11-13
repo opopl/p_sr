@@ -12,7 +12,8 @@ cmds:
 #- 'load_sec @sec{11_05_2022.fb.kolky.rada.org.ua.1.smert_mosijchuk_ivan_ivanovich}'
 #- 'load_sec @sec{23_05_2022.fb.2bat.ps.ua.1.oblycchja_duk}'
 #- 'load_sec @sec{27_05_2022.fb.ua.minoborony.1.znaty_geroiv}'
-- 'load_sec @sec{24_05_2022.fb.papush_fedina_inna.1.my_drugie}'
+#- 'load_sec @sec{24_05_2022.fb.papush_fedina_inna.1.my_drugie}'
+#- 'load_sec @sec{topics.vojna.my.12.profil.friends.tetjana_rudenko}'
 #- 'db_fk_check'
 #- 'db_fk_create'
 
@@ -73,5 +74,7 @@ data:
     tags:
     - mariupol
     - vojna.2022
+
+  'load_sec @sec{topics.vojna.my.12.profil.friends.tetjana_rudenko}':
 
 select:

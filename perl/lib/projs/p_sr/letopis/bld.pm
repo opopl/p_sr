@@ -20,8 +20,9 @@ use base qw(
 
 use Base::Arg qw( hash_inject );
 
+
 sub init {
-    my ($self) = @_;
+    my ($bld) = @_;
     
     my $h = {
         trg_list => [qw(usual)],
@@ -30,13 +31,27 @@ sub init {
           maker => {
           }
         },
+        custom => {
+           maps_act => {
+              'scr' => sub { $bld->act_scr; },
+           }
+        },
     };
 
-    hash_inject($self, $h);
+    hash_inject($bld, $h);
 
-    $self->SUPER::init();
+    $DB::single = 1;
+    $bld->SUPER::init();
 
-    return $self;
+    return $bld;
+}
+
+sub act_scr {
+    my ($bld) = @_;
+
+    print qq{scr} . "\n";
+
+    return $bld;
 }
 
 1;

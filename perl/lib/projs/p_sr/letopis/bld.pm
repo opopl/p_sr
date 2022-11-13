@@ -130,6 +130,7 @@ sub act_scr {
                    lines => $flines
                 });
             }
+            $imgman->load_file({ sec => $fsec });
         }
     }
 

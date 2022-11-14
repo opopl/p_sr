@@ -37,6 +37,7 @@ sub init {
         custom => {
            maps_act => {
               'scr_profil' => sub { $bld->act_scr_profil; },
+              'img' => sub { $bld->act_img; },
            }
         },
     };
@@ -44,6 +45,30 @@ sub init {
     hash_inject($bld, $h);
 
     $bld->SUPER::init();
+
+    return $bld;
+}
+
+sub act_img {
+    my ($bld) = @_;
+
+    my ($proj, $root, $rootid) = @{$bld}{qw( proj root root_id )};
+    my $imgman = $bld->{imgman};
+
+    my $sec = '12_11_2022.fb.kokotjuha_andrij.1.donbass_zvilnemo_nam_radi';
+
+    my @tags_a = qw(scrn);
+    my $imgs = $imgman->_db_imgs({
+        tags => { and => \@tags_a },
+        fields => [qw( url name_orig tags )],
+        mode => 'rows',
+        where => {
+            sec => $sec,
+            proj => $proj,
+        },
+        limit => 10
+    });
+    $DB::single = 1;
 
     return $bld;
 }

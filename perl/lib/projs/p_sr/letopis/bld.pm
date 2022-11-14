@@ -36,7 +36,7 @@ sub init {
         },
         custom => {
            maps_act => {
-              'scr' => sub { $bld->act_scr; },
+              'scr_profil' => sub { $bld->act_scr_profil; },
            }
         },
     };
@@ -48,7 +48,7 @@ sub init {
     return $bld;
 }
 
-sub act_scr {
+sub act_scr_profil {
     my ($bld) = @_;
     
     my ($proj, $root, $rootid) = @{$bld}{qw( proj root root_id )};

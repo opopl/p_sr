@@ -57,7 +57,7 @@ sub act_img {
 
     my $sec = '12_11_2022.fb.kokotjuha_andrij.1.donbass_zvilnemo_nam_radi';
 
-    my @tags_a = qw(scrn);
+    my @tags_a = qw( scrn );
     my $imgs = $imgman->_db_imgs({
         tags => { and => \@tags_a },
         fields => [qw( url name_orig tags )],

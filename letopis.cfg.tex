@@ -37,7 +37,6 @@
   }
 } 
 
-
 \ifOption{frames}{%
     \Configure{frames}%
              {\HorFrames[
@@ -63,9 +62,9 @@
 \Configure{graphics*}  
 {pdf}  
 {%
-	\Needs{"imconvert \csname Gin@base\endcsname.pdf \csname Gin@base\endcsname.png"}%  
-	\Picture[pict]{\csname Gin@base\endcsname.png}%  
-	\special{t4ht+@File: \csname Gin@base\endcsname.png}
+  \Needs{"imconvert \csname Gin@base\endcsname.pdf \csname Gin@base\endcsname.png"}%  
+  \Picture[pict]{\csname Gin@base\endcsname.png}%  
+  \special{t4ht+@File: \csname Gin@base\endcsname.png}
 }%  
 
 \begin{document}

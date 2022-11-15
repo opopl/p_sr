@@ -15,7 +15,8 @@ cmds:
 #- 'load_sec @sec{24_05_2022.fb.papush_fedina_inna.1.my_drugie}'
 #- 'load_sec @sec{topics.vojna.my.12.profil.friends.tetjana_rudenko}'
 #- 'load_sec @sec{12_11_2022.fb.kokotjuha_andrij.1.donbass_zvilnemo_nam_radi}'
-- 'load_sec @sec{04_11_2022.fb.ua.edu.snu.1.andrij_zhidkov}'
+#- 'load_sec @sec{04_11_2022.fb.ua.edu.snu.1.andrij_zhidkov}'
+- 'load_sec @sec{12_11_2022.fb.ryzhenko_sergij.ua.likar.dnepr.1.zhyttja_jakogo_b_ne_bulo}'
 #- 'db_fk_check'
 #- 'db_fk_create'
 

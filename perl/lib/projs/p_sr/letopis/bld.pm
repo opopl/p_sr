@@ -63,17 +63,20 @@ sub sec_create_topics_vojna_date {
     my ( $dt ) = @{$dict}{qw( dt )};
 
     # count data
-    my ( $day, $week, $day_w ) = @{$dict}{ qw( day week day_w )};
+    my ( $c_day, $c_week, $c_day_w ) = @{$dict}{ qw( day week day_w )};
 
-    #my $title = join("-", map { $dt-> });
+    #my ($day, $month, $year) = ($dt->day, $dt->month, $dt->year);
+
+    (my $title = $sec_date ) =~ s/_/-/g;
+    my $seccmd = 'section';
 
     my @prepend;
     push @prepend,
         '',
         '% topics.vojna',
-        sprintf('% topics.vojna.day.%s',$day ),
-        sprintf('% topics.vojna.week.%s', $week ),
-        sprintf('% week.%s.%s', $week, $day_w ),
+        sprintf('%% topics.vojna.day.%s',$c_day ),
+        sprintf('%% topics.vojna.week.%s', $c_week ),
+        sprintf('%% week.%s.%s', $c_week, $c_day_w ),
         '',
         ;
 
@@ -134,7 +137,7 @@ sub act_fill_vojna {
     while ($dt->epoch < $now->epoch) {
         $j++;
 
-        last if $j == 10;
+        last if $j == 100;
 
         # duration in days from the start
         my $du = $dt->delta_days($dt_start);
@@ -171,11 +174,13 @@ sub act_fill_vojna {
             unless ($ex) {
                if ($k eq 'date') {
                   $bld->sec_create_topics_vojna_date($dict);
-               }
-               elsif ($k eq 'week') {
+
+                  print Dumper({ %$dict, dt => undef }) . "\n";
+
+               } elsif ($k eq 'day') {
                   #$bld->sec_create_topics_vojna_week({ week => $count->{week} })
+               } elsif ($k eq 'week') {
                }
-               print Dumper([ $sec_key, $sec ]) . "\n";
             }
         }
 

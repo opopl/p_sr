@@ -93,7 +93,6 @@ sub sec_create_topics_vojna_date {
         sprintf('%% topics.vojna.day.%s',$c_day ),
         sprintf('%% topics.vojna.week.%s', $c_week ),
         sprintf('%% week.%s.%s', $c_week, $c_day_w ),
-        '',
         ;
     my $cm = $bld->_sec_children({ sec => $sec_month });
     $DB::single = 1;
@@ -109,7 +108,6 @@ sub sec_create_topics_vojna_date {
 
     return $bld;
 }
-
 
 sub sec_create_topics_vojna_week {
     my ($bld, $ref) = @_;
@@ -164,7 +162,7 @@ sub act_fill_vojna {
     while ($dt->epoch < $now->epoch) {
         $j++;
 
-        last if $j == 100;
+        #last if $j == 200;
 
         # duration in days from the start
         my $du = $dt->delta_days($dt_start);

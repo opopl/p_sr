@@ -52,6 +52,14 @@ sub init {
     return $bld;
 }
 
+sub sec_create_topics_vojna_month {
+    my ($bld, $month_s) = @_;
+
+    # month_s = jan, feb ...
+
+    return $bld;
+}
+
 sub sec_create_topics_vojna_date {
     my ($bld, $dict) = @_;
     $dict ||= {};
@@ -65,10 +73,18 @@ sub sec_create_topics_vojna_date {
     # count data
     my ( $c_day, $c_week, $c_day_w ) = @{$dict}{ qw( day week day_w )};
 
-    #my ($day, $month, $year) = ($dt->day, $dt->month, $dt->year);
+    my ($day, $month, $month_s, $year) = ($dt->day, $dt->month, lc $dt->month_abbr, $dt->year);
+    my $sec_month = join("_", $month_s, $year);
 
     (my $title = $sec_date ) =~ s/_/-/g;
     my $seccmd = 'section';
+
+    #my @m = ( 1 .. 12 );
+    #my %ma;
+    #foreach my $m (@m) {
+        #my $dd = DateTime->new( month => $m, year => $year );
+        #$ma{$m} = lc $dd->month_abbr;
+    #}
 
     my @prepend;
     push @prepend,
@@ -79,6 +95,17 @@ sub sec_create_topics_vojna_date {
         sprintf('%% week.%s.%s', $c_week, $c_day_w ),
         '',
         ;
+    my $cm = $bld->_sec_children({ sec => $sec_month });
+    $DB::single = 1;
+    $bld->sec_new({
+        sec => $sec_date,
+        parent => $sec_month,
+
+        seccmd => $seccmd,
+        title => $title,
+
+        prepend => [@prepend],
+    });
 
     return $bld;
 }

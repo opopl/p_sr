@@ -189,6 +189,12 @@ sub act_fill_vojna {
            %$count
         };
         push @secs, $dict;
+###sec_date
+        #if ($sec_date eq '11_08_2022') {
+        #if ($sec_date eq '19_11_2022') {
+            #print Dumper({ %$dict, dt => undef }) . "\n";
+        #}
+
         foreach my $k (qw( date day week )) {
             my $sec_key = 'sec_' . $k;
             my $sec = $dict->{$sec_key};
@@ -210,7 +216,6 @@ sub act_fill_vojna {
         }
 
         #sec_day should be a child of sec_week
-
 
         $dt->add(days => 1);
     }

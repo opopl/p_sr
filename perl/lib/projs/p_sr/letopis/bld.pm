@@ -52,6 +52,60 @@ sub init {
     return $bld;
 }
 
+sub sec_create_topics_vojna_date {
+    my ($bld, $dict) = @_;
+    $dict ||= {};
+
+    # sections
+    my ( $sec_date, $sec_day, $sec_week) = @{$dict}{qw( sec_date sec_day sec_week )};
+
+    # DateTime instance
+    my ( $dt ) = @{$dict}{qw( dt )};
+
+    # count data
+    my ( $day, $week, $day_w ) = @{$dict}{ qw( day week day_w )};
+
+    #my $title = join("-", map { $dt-> });
+
+    my @prepend;
+    push @prepend,
+        '',
+        '% topics.vojna',
+        sprintf('% topics.vojna.day.%s',$day ),
+        sprintf('% topics.vojna.week.%s', $week ),
+        sprintf('% week.%s.%s', $week, $day_w ),
+        '',
+        ;
+
+    return $bld;
+}
+
+
+sub sec_create_topics_vojna_week {
+    my ($bld, $ref) = @_;
+    $ref ||= {};
+
+    my ($week, $append) = @{$ref}{qw( week append )};
+
+    my $parent = 'topics.vojna.weeks';
+
+    my $sec = sprintf('topics.vojna.week.%d', $week);
+    my $sd = $bld->_sec_data({ sec => $sec });
+    my $ex = $bld->_sec_exist({ sec => $sec, sd => $sd });
+    return $bld unless $ex;
+
+    $bld->sec_new({
+        sec    => $sec,
+        parent => $parent,
+
+        seccmd => '',
+        title => '',
+        append => $append,
+    });
+
+    return $bld;
+}
+
 sub act_fill_vojna {
     my ($bld) = @_;
 
@@ -103,6 +157,7 @@ sub act_fill_vojna {
            sec_date => $sec_date,
            sec_day  => sprintf('topics.vojna.day.%d' , $count->{day}),
            sec_week => sprintf('topics.vojna.week.%d', $count->{week}),
+           dt => $dt,
            %$count
         };
         push @secs, $dict;
@@ -114,6 +169,12 @@ sub act_fill_vojna {
             my $ex = $bld->_sec_exist({ sec => $sec, sd => $sd });
 
             unless ($ex) {
+               if ($k eq 'date') {
+                  $bld->sec_create_topics_vojna_date($dict);
+               }
+               elsif ($k eq 'week') {
+                  #$bld->sec_create_topics_vojna_week({ week => $count->{week} })
+               }
                print Dumper([ $sec_key, $sec ]) . "\n";
             }
         }

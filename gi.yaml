@@ -19,7 +19,8 @@ cmds:
 #- 'load_sec @sec{12_11_2022.fb.ryzhenko_sergij.ua.likar.dnepr.1.zhyttja_jakogo_b_ne_bulo}'
 #- 'load_sec @sec{09_05_2022.fb.suetova_olena.kiev.1.krosivky_na_front}'
 #- 'load_sec @sec{16_11_2022.fb.suetova_olena.kiev.1.kompania}'
-- 'load_sec @sec{29_09_2022.fb.filatov_boris.1.s_chego_nachat}'
+#- 'load_sec @sec{29_09_2022.fb.filatov_boris.1.s_chego_nachat}'
+- 'load_sec @sec{09_11_2022.fb.skytalinska_oksana.kiev.volonter.dietolog.1.den_ukrmovy}'
 #- 'db_fk_check'
 #- 'db_fk_create'
 

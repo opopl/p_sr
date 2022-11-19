@@ -14,6 +14,7 @@ use Getopt::Long qw(GetOptions);
 use File::Spec::Functions qw(catfile);
 use Data::Dumper qw(Dumper);
 use DateTime;
+use Clone qw(clone);
 
 use Base::Arg qw(
     hash_update
@@ -66,31 +67,63 @@ sub act_fill_vojna {
     }
     return $bld unless $dt_start;
 
-    print Dumper([ $now->day, $now->month, $now->year ]) . "\n";
-
     my $j = 0;
 
-    my $dt = $dt_start;
+    # week number, full day, day of week
+    my $count;
+    for(qw( week day day_w )){
+       $count->{$_} = 1;
+    }
+    my @secs;
+
+    my $dt = clone($dt_start);
     while ($dt->epoch < $now->epoch) {
         $j++;
 
-        last if $j == 300;
+        last if $j == 10;
 
         # duration in days from the start
         my $du = $dt->delta_days($dt_start);
 
-        printf(q{days elapsed: %d} . "\n",$du->in_units('days'));
+        my $elapsed = {
+            days => $du->in_units('days'),
+            weeks => $du->in_units('weeks'),
+            days_week => $du->days,
+        };
 
-        my $sec = $dt->strftime('%d_%m_%Y');
+        $count = {
+            week  => $elapsed->{weeks} + 1,
+            day   => $elapsed->{days} + 1,
+            day_w => $elapsed->{days_week} + 1,
+        };
 
-        my $sd = $bld->_sec_data({ sec => $sec });
-        my $ex = $bld->_sec_exist({ sec => $sec, sd => $sd });
-        unless ($ex) {
-           print Dumper([ $sec ]) . "\n";
+        my $sec_date = $dt->strftime('%d_%m_%Y');
+
+        my $dict = {
+           sec_date => $sec_date,
+           sec_day  => sprintf('topics.vojna.day.%d' , $count->{day}),
+           sec_week => sprintf('topics.vojna.week.%d', $count->{week}),
+           %$count
+        };
+        push @secs, $dict;
+        foreach my $k (qw( date day week )) {
+            my $sec_key = 'sec_' . $k;
+            my $sec = $dict->{$sec_key};
+
+            my $sd = $bld->_sec_data({ sec => $sec });
+            my $ex = $bld->_sec_exist({ sec => $sec, sd => $sd });
+
+            unless ($ex) {
+               print Dumper([ $sec_key, $sec ]) . "\n";
+            }
         }
+
+        #sec_day should be a child of sec_week
+
 
         $dt->add(days => 1);
     }
+    #print Dumper([@secs]) . "\n";
 
     return $bld;
 }

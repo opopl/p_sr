@@ -13,6 +13,7 @@ use Getopt::Long qw(GetOptions);
 
 use File::Spec::Functions qw(catfile);
 use Data::Dumper qw(Dumper);
+use DateTime;
 
 use Base::Arg qw(
     hash_update
@@ -38,6 +39,7 @@ sub init {
            maps_act => {
               'scr_profil' => sub { $bld->act_scr_profil; },
               'img' => sub { $bld->act_img; },
+              'fill_vojna' => sub { $bld->act_fill_vojna; },
            }
         },
     };
@@ -45,6 +47,50 @@ sub init {
     hash_inject($bld, $h);
 
     $bld->SUPER::init();
+
+    return $bld;
+}
+
+sub act_fill_vojna {
+    my ($bld) = @_;
+
+    my ($proj, $root, $rootid) = @{$bld}{qw( proj root root_id )};
+    my $start = '24.02.2022';
+
+    ( $start =~ /^(?<day>\d+)\.(?<month>\d+)\.(?<year>\d+)$/ );
+
+    my $now = DateTime->now;
+    my ($dt_start);
+    if (keys %+) {
+       $dt_start = DateTime->new(map { $_ => $+{$_} } keys %+ );
+    }
+    return $bld unless $dt_start;
+
+    print Dumper([ $now->day, $now->month, $now->year ]) . "\n";
+
+    my $j = 0;
+
+    my $dt = $dt_start;
+    while ($dt->epoch < $now->epoch) {
+        $j++;
+
+        last if $j == 300;
+
+        # duration in days from the start
+        my $du = $dt->delta_days($dt_start);
+
+        printf(q{days elapsed: %d} . "\n",$du->in_units('days'));
+
+        my $sec = $dt->strftime('%d_%m_%Y');
+
+        my $sd = $bld->_sec_data({ sec => $sec });
+        my $ex = $bld->_sec_exist({ sec => $sec, sd => $sd });
+        unless ($ex) {
+           print Dumper([ $sec ]) . "\n";
+        }
+
+        $dt->add(days => 1);
+    }
 
     return $bld;
 }

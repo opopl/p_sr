@@ -25,6 +25,8 @@ export script="$PLG/projs/scripts/bufact/tex/get_img.pl"
 #export sec="topics.vojna.my.12.profil.friends.guculka_ksenja.chat"
 #export sec="topics.vojna.my.12.profil.friends.reverso_context.chat"
 #export sec="topics.vojna.my.12.profil.friends.kalina.chat"
-export sec="topics.vojna.my.12.profil.friends.ukraina_najkrascha_kraina.chat"
+#export sec="topics.vojna.my.12.profil.friends.ukraina_najkrascha_kraina.chat"
+export sec="18_11_2022.fb.golovanj_andrij.ua.mariupol.muzykant.1.koncert_herson"
 export file="letopis.$sec.tex"
-prj-get-img -f $file --img_root img_root
+on-perl-db
+prj-get-img -f $file --img_root img_root --with_children

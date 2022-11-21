@@ -39,7 +39,7 @@ sub init {
         custom => {
            maps_act => {
               'scr_profil' => sub { $bld->act_scr_profil; },
-              'img' => sub { $bld->act_img; },
+              'img'        => sub { $bld->act_img; },
               'fill_vojna' => sub { $bld->act_fill_vojna; },
            }
         },

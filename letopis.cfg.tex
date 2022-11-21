@@ -51,7 +51,7 @@
 }{}
 
 \newcommand{\thealt}{No alt test was set.}
-\renewcommand{\nextalt}[1]{\renewcommand{\thealt}{#1}}
+\newcommand{\nextalt}[1]{\renewcommand{\thealt}{#1}}
 
 \Configure{graphics*}{jpg}{
 \Picture[\HCode{\thealt}]{\csname Gin@base\endcsname.jpg}}

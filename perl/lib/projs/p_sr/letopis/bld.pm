@@ -60,6 +60,23 @@ sub sec_create_topics_vojna_month {
     return $bld;
 }
 
+sub sec_create_topics_vojna_day {
+    my ($bld, $dict) = @_;
+    $dict ||= {};
+
+    # sections
+    my ( $sec_date, $sec_day, $sec_week) = @{$dict}{qw( sec_date sec_day sec_week )};
+
+    # DateTime instance
+    my ( $dt ) = @{$dict}{qw( dt )};
+
+    # count data
+    my ( $c_day, $c_week, $c_day_w ) = @{$dict}{ qw( day week day_w )};
+
+    return $bld;
+
+}
+
 sub sec_create_topics_vojna_date {
     my ($bld, $dict) = @_;
     $dict ||= {};
@@ -209,8 +226,10 @@ sub act_fill_vojna {
                   print Dumper({ %$dict, dt => undef }) . "\n";
 
                } elsif ($k eq 'day') {
-                  #$bld->sec_create_topics_vojna_week({ week => $count->{week} })
+                  $bld->sec_create_topics_vojna_day($dict);
+
                } elsif ($k eq 'week') {
+                  #$bld->sec_create_topics_vojna_week({ week => $count->{week} })
                }
             }
         }

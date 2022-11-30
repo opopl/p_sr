@@ -17,5 +17,8 @@
 #prj-lts -c run -a author_db_pages_util
 
 sec="24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode"
+sec="24_11_2022"
 t="_buf.$sec"
-prj-bld letopis compile -c htx,box -t $t
+#t="vojna.volonter"
+#prj-bld letopis compile -c htx,box -t $t
+prj-bld letopis compile -c htx -t $t

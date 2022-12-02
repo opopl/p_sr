@@ -21,4 +21,5 @@ sec="24_11_2022"
 t="_buf.$sec"
 #t="vojna.volonter"
 #prj-bld letopis compile -c htx,box -t $t
-prj-bld letopis compile -c htx -t $t
+#prj-bld letopis compile -c htx,srv -t $t
+prj-bld letopis join -c htx,srv -t $t

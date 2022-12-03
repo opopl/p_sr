@@ -14,3 +14,20 @@ targets:
     #- leontovych_mykola
     #- titlepage
     #- ki
+    #
+
+tex4ht:
+  run: htlatex
+  #run: make4ht
+
+plans:
+  seq:
+  - 'htx.buf.24_11_2022'
+  - 'htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
+
+  define:
+  - '^htx\.buf\.(\S+)$':
+      'argv' : 'compile -c htx -t _buf.$1'
+
+  - '^htx\.buf\.(\d+)_(\d+)_(\d+)$':
+      'do_children' : 1

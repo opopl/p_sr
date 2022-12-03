@@ -21,13 +21,20 @@ tex4ht:
   #run: make4ht
 
 plans:
+  dry: 1
   seq:
-  - 'htx.buf.24_11_2022'
+  #- 'htx.buf.24_11_2022'
+  #- 'htx.auth.filatov_boris'
+  - 'htx.auth.shablivska_viktoria'
   #- 'htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
 
   define:
   - '^htx\.buf\.(?<sec>\S+)$':
       'argv' : 'compile -c htx -t _buf.$+{sec}'
+
+  - '^htx\.auth\.(?<author_id>\S+)$':
+      'argv' : 'compile -c htx -t _auth.$+{author_id}'
+      'do_children' : 1
 
   - '^htx\.buf\.(?<sec>(\d+)_(\d+)_(\d+))$':
       'do_children' : 1

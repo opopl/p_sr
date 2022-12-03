@@ -23,11 +23,18 @@ tex4ht:
 plans:
   seq:
   - 'htx.buf.24_11_2022'
-  - 'htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
+  #- 'htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
 
   define:
-  - '^htx\.buf\.(\S+)$':
-      'argv' : 'compile -c htx -t _buf.$1'
+  - '^htx\.buf\.(?<sec>\S+)$':
+      'argv' : 'compile -c htx -t _buf.$+{sec}'
 
-  - '^htx\.buf\.(\d+)_(\d+)_(\d+)$':
+  - '^htx\.buf\.(?<sec>(\d+)_(\d+)_(\d+))$':
       'do_children' : 1
+
+#  define:
+   #'^htx\.buf\.(\S+)$':
+      #'argv' : 'compile -c htx -t _buf.$1'
+
+   #'^htx\.buf\.(\d+)_(\d+)_(\d+)$':
+      #'do_children' : 1

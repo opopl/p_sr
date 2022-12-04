@@ -35,6 +35,7 @@ plans:
   - '^htx\.auth\.(?<author_id>\S+)$':
       'argv' : 'compile -c htx -t _auth.$+{author_id}'
       'do_children' : 1
+      'pref_ci' : 'htx.buf.'
 
   - '^htx\.buf\.(?<sec>(\d+)_(\d+)_(\d+))$':
       'do_children' : 1

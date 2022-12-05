@@ -17,7 +17,12 @@ targets:
     #
 
 run_tex:
-  #shell: capture
+  shell: capture
+  #
+ 
+patch:
+  'tex4ht.cfg.vars.graphics.png.link' : 1
+  'tex4ht.cfg.vars.graphics.jpg.link' : 1
 
 tex4ht:
   run:
@@ -31,10 +36,11 @@ tex4ht:
 plans:
   vars:
      #sec: '29_09_2022'
-     sec: '23_07_2021.fb.fb_group.story_kiev_ua.1.uslyshano_v_kieve_4'
+     #sec: '23_07_2021.fb.fb_group.story_kiev_ua.1.uslyshano_v_kieve_4'
+     sec: '09_08_2021.fb.filatov_boris.1.devochka_maguchih'
      #date: '24_11_2022'
      #auth: 'filatov_boris'
-     auth: 'fb_group.story_kiev_ua'
+     #auth: 'fb_group.story_kiev_ua'
      out: 'htx'
      #out: 'pdf'
      seq:
@@ -43,8 +49,8 @@ plans:
   rw: 1
   #dmp: 1
   seq:
-  - 'act.fill_vojna'
-  #- 'compile.$var{out}.buf.$var{sec}'
+  #- 'act.fill_vojna'
+  - 'compile.$var{out}.buf.$var{sec}'
   #- 'compile.htx.auth.$var{auth}'
 
   #- { 'vars.out' : 'htx' }

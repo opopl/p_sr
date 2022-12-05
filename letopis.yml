@@ -30,20 +30,21 @@ tex4ht:
 
 plans:
   vars:
-     sec: '23_04_2022.fb.filatov_boris.1.tjazheloje'
-     date: '24_11_2022'
-     auth: 'filatov_boris'
+     sec: '29_11_2022'
+     #date: '24_11_2022'
+     #auth: 'filatov_boris'
      #out: 'htx'
      out: 'pdf'
      seq:
        limit: 2
-  #dry: 1
+  dry: 1
   rw: 1
   #dmp: 1
   seq:
-  - 'compile.htx.auth.$var{auth}'
+  - 'compile.$var{out}.buf.$var{sec}'
+
+  #- 'compile.htx.auth.$var{auth}'
   #- { 'vars.out' : 'htx' }
-  #- 'compile.$var{out}.buf.$var{sec}'
 
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
   #- 'compile.htx.buf.$var{date}'

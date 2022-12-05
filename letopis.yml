@@ -17,7 +17,7 @@ targets:
     #
 
 run_tex:
-  shell: capture
+  #shell: capture
 
 tex4ht:
   run:
@@ -30,20 +30,23 @@ tex4ht:
 
 plans:
   vars:
-     sec: '29_11_2022'
+     #sec: '29_09_2022'
+     sec: '23_07_2021.fb.fb_group.story_kiev_ua.1.uslyshano_v_kieve_4'
      #date: '24_11_2022'
      #auth: 'filatov_boris'
-     #out: 'htx'
-     out: 'pdf'
+     auth: 'fb_group.story_kiev_ua'
+     out: 'htx'
+     #out: 'pdf'
      seq:
-       limit: 2
-  dry: 1
+       limit: 4
+  #dry: 1
   rw: 1
   #dmp: 1
   seq:
-  - 'compile.$var{out}.buf.$var{sec}'
-
+  - 'act.fill_vojna'
+  #- 'compile.$var{out}.buf.$var{sec}'
   #- 'compile.htx.auth.$var{auth}'
+
   #- { 'vars.out' : 'htx' }
 
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
@@ -55,9 +58,12 @@ plans:
     #'compile.htx.buf.': 
 
   define:
-  - 'compile.htx.buf.24_11_2022':
-      'do_children' : 0
+  #- 'compile.htx.buf.24_11_2022':
+      #'do_children' : 0
+      #
+  - 'act.fill_vojna':
 
+###plans_define_regex --------------------------------
   - '^compile\.pdf\.':
       'target_ext' : 'pdf'
 
@@ -73,12 +79,14 @@ plans:
 
   - '^compile\.htx\.auth\.(?<author_id>\S+)$':
       'argv' : 'compile -c htx -t _auth.$+{author_id}'
-      'target_ext' : 'pdf'
       'do_children' : 1
       'pref_ci' : 'compile.htx.buf.'
 
   - '^compile.htx\.buf\.(?<sec>(\d+)_(\d+)_(\d+))$':
       'do_children' : 1
+
+  - '^act\.(?<act>\w+)$':
+      'argv' : '$+{act}'
 
 
 #  define:

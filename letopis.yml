@@ -40,6 +40,7 @@ plans:
   #dmp: 1
   seq:
   #- 'compile.htx.auth.$var{auth}'
+  #- { 'vars.out' : 'htx' }
   - 'compile.$var{out}.buf.$var{sec}'
 
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'

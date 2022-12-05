@@ -30,31 +30,25 @@ tex4ht:
 
 plans:
   vars:
-     #sec: '24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
-     sec: '09_08_2021.fb.filatov_boris.1.devochka_maguchih'
+     sec: '23_04_2022.fb.filatov_boris.1.tjazheloje'
      date: '24_11_2022'
+     auth: 'filatov_boris'
+     #out: 'htx'
+     out: 'pdf'
   #dry: 1
   rw: 1
   #dmp: 1
   seq:
+  #- 'compile.htx.auth.$var{auth}'
+  - 'compile.$var{out}.buf.$var{sec}'
+
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
   #- 'compile.htx.buf.$var{date}'
-  - 'compile.htx.buf.$var{sec}'
-  
-  #- 'compile.htx.auth.filatov_boris'
   #- 'compile.htx.auth.shablivska_viktoria'
-  
   #- 'compile.pdf.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
-
   #- 'compile.pdf.buf.+':
     #- 09_08_2021.fb.filatov_boris.1.devochka_maguchih
     #'compile.htx.buf.': 
-    #- 06_11_2021.fb.filatov_boris.1.strana_sovetov
-    #- 04_11_2021.fb.filatov_boris.1.post_pro_sobak
-    #- 23_04_2022.fb.filatov_boris.1.tjazheloje
-    #- 29_09_2022.fb.filatov_boris.1.s_chego_nachat
-    #- 24_11_2022.fb.filatov_boris.1.situacia_dnepr
-    #- 24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode
 
   define:
   - 'compile.htx.buf.24_11_2022':

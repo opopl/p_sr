@@ -16,14 +16,20 @@
 #prj-lts -a db_img_md5 -c run
 #prj-lts -c run -a author_db_pages_util
 
-auth="filatov_boris"
-auth="fb_group.story_kiev_ua"
-sec="24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode"
-#sec="24_11_2022"
-t="_buf.$sec"
-t="_auth.$auth"
-#t="vojna.volonter"
-#prj-bld letopis compile -c htx,box -t $t
-#prj-bld letopis compile -c htx -t $t
-#prj-bld letopis join -c htx -t $t
-prj-bld letopis compile -c htx -t $t
+#prj-bld letopis print_ii_body -t _auth.filatov_boris
+
+function auth(){
+    #auth="filatov_boris"
+    #auth="fb_group.story_kiev_ua"
+    auth="shablivska_viktoria"
+    t="_auth.$auth"
+    prj-bld letopis compile -c htx -t $t
+}
+
+function buf(){
+    sec="24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode"
+    t="_buf.$sec"
+    prj-bld letopis compile -c htx -t $t
+}
+
+prj-bld letopis plan

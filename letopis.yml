@@ -16,29 +16,72 @@ targets:
     #- ki
     #
 
+run_tex:
+  #shell: capture
+
 tex4ht:
-  run: htlatex
-  #run: make4ht
+  run:
+    #exe: make4ht
+    exe : htlatex
+    argc:
+      tex4ht:
+      t4ht:
+      latex: '-file-line-error'
 
 plans:
-  dry: 1
+  vars:
+     #sec: '24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
+     sec: '09_08_2021.fb.filatov_boris.1.devochka_maguchih'
+     date: '24_11_2022'
+  #dry: 1
+  rw: 1
+  #dmp: 1
   seq:
-  #- 'htx.buf.24_11_2022'
-  #- 'htx.auth.filatov_boris'
-  - 'htx.auth.shablivska_viktoria'
-  #- 'htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
+  #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
+  #- 'compile.htx.buf.$var{date}'
+  - 'compile.htx.buf.$var{sec}'
+  
+  #- 'compile.htx.auth.filatov_boris'
+  #- 'compile.htx.auth.shablivska_viktoria'
+  
+  #- 'compile.pdf.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
+
+  #- 'compile.pdf.buf.+':
+    #- 09_08_2021.fb.filatov_boris.1.devochka_maguchih
+    #'compile.htx.buf.': 
+    #- 06_11_2021.fb.filatov_boris.1.strana_sovetov
+    #- 04_11_2021.fb.filatov_boris.1.post_pro_sobak
+    #- 23_04_2022.fb.filatov_boris.1.tjazheloje
+    #- 29_09_2022.fb.filatov_boris.1.s_chego_nachat
+    #- 24_11_2022.fb.filatov_boris.1.situacia_dnepr
+    #- 24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode
 
   define:
-  - '^htx\.buf\.(?<sec>\S+)$':
+  - 'compile.htx.buf.24_11_2022':
+      'do_children' : 0
+
+  - '^compile\.pdf\.':
+      'target_ext' : 'pdf'
+
+  - '^compile\.htx\.':
+      'target_ext' : 'html'
+      'do_htlatex' : 1
+
+  - '^compile\.pdf\.buf\.(?<sec>\S+)$':
+      'argv' : 'compile -t _buf.$+{sec}'
+
+  - '^compile\.htx\.buf\.(?<sec>\S+)$':
       'argv' : 'compile -c htx -t _buf.$+{sec}'
 
-  - '^htx\.auth\.(?<author_id>\S+)$':
+  - '^compile\.htx\.auth\.(?<author_id>\S+)$':
       'argv' : 'compile -c htx -t _auth.$+{author_id}'
+      'target_ext' : 'pdf'
       'do_children' : 1
       'pref_ci' : 'htx.buf.'
 
-  - '^htx\.buf\.(?<sec>(\d+)_(\d+)_(\d+))$':
+  - '^compile.htx\.buf\.(?<sec>(\d+)_(\d+)_(\d+))$':
       'do_children' : 1
+
 
 #  define:
    #'^htx\.buf\.(\S+)$':

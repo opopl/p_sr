@@ -41,6 +41,10 @@ tex4ht:
       t4ht:
       latex: '-file-line-error'
 
+  run_after:
+    pretty: 1
+    js: 1
+
 plans:
   vars:
      #sec: '29_09_2022'
@@ -61,8 +65,11 @@ plans:
 ###plans.seq
   seq:
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
+  - 'compile.htx.auth.filatov_boris'
   #- 'act.print_ii_body.trg.ki'
-  - 'act.print_ii_body_raw.trg.ki'
+  #- 'act.print_ii_body.trg.vojna.poetry'
+  #- 'act.print_ii_body_raw.trg.vojna.harkov'
+  #- 'act.print_ii_body_raw.trg.ki'
   
 ###plans.define
   'define @prepend':

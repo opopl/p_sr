@@ -20,16 +20,24 @@ run_tex:
   shell: capture
   #
  
+###patch
 patch:
-  'tex4ht.cfg.vars.graphics.png.link' : 1
-  'tex4ht.cfg.vars.graphics.jpg.link' : 1
+  'tex4ht.cfg.vars.graphics.jpg.l3' : 1
+
+  'tex4ht.cfg.vars.graphics.png.base' : 0
+  'tex4ht.cfg.vars.graphics.jpg.base' : 0
+
+  'tex4ht.cfg.vars.graphics.png.link' : 0
+  'tex4ht.cfg.vars.graphics.jpg.link' : 0
+  'tex4ht.cfg.vars.graphics.jpg.width' : 0
+  'tex4ht.cfg.vars.graphics.gin_dim_empty' : 0
 
 tex4ht:
   run:
     #exe: make4ht
     exe : htlatex
     argc:
-      tex4ht:
+      tex4ht: ' -cunihtf -utf8'
       t4ht:
       latex: '-file-line-error'
 
@@ -38,20 +46,29 @@ plans:
      #sec: '29_09_2022'
      #sec: '23_07_2021.fb.fb_group.story_kiev_ua.1.uslyshano_v_kieve_4'
      sec: '09_08_2021.fb.filatov_boris.1.devochka_maguchih'
-     #date: '24_11_2022'
+     date: '24_11_2022'
      #auth: 'filatov_boris'
-     #auth: 'fb_group.story_kiev_ua'
+     auth: 'fb_group.story_kiev_ua'
+     trg: 'vojna.poetry'
      out: 'htx'
      #out: 'pdf'
-     seq:
-       limit: 4
-  #dry: 1
+     #seq:
+       #limit: 4
+  dry: 1
   rw: 1
-  #dmp: 1
+  dmp: 1
+
+###plans.seq
   seq:
-  #- 'act.fill_vojna'
-  - 'compile.$var{out}.buf.$var{sec}'
+  - 'compile.$var{out}.trg.$var{trg}'
+  #- 'compile.$var{out}.buf.$var{date}'
   #- 'compile.htx.auth.$var{auth}'
+  #
+  #- 'join.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
+  #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
+
+  #- 'act.fill_vojna'
+  #- 'compile.$var{out}.buf.$var{sec}'
 
   #- { 'vars.out' : 'htx' }
 
@@ -63,6 +80,7 @@ plans:
     #- 09_08_2021.fb.filatov_boris.1.devochka_maguchih
     #'compile.htx.buf.': 
 
+###plans.define
   define:
   #- 'compile.htx.buf.24_11_2022':
       #'do_children' : 0
@@ -77,11 +95,20 @@ plans:
       'target_ext' : 'html'
       'do_htlatex' : 1
 
+  - '^compile\.pdf\.trg\.(?<trg>\S+)$':
+      'argv' : 'compile -t $+{trg}'
+
+  - '^compile\.htx\.trg\.(?<trg>\S+)$':
+      'argv' : 'compile -c htx -t $+{trg}'
+
   - '^compile\.pdf\.buf\.(?<sec>\S+)$':
       'argv' : 'compile -t _buf.$+{sec}'
 
   - '^compile\.htx\.buf\.(?<sec>\S+)$':
       'argv' : 'compile -c htx -t _buf.$+{sec}'
+
+  - '^join\.htx\.buf\.(?<sec>\S+)$':
+      'argv' : 'join -c htx -t _buf.$+{sec}'
 
   - '^compile\.htx\.auth\.(?<author_id>\S+)$':
       'argv' : 'compile -c htx -t _auth.$+{author_id}'
@@ -90,6 +117,9 @@ plans:
 
   - '^compile.htx\.buf\.(?<sec>(\d+)_(\d+)_(\d+))$':
       'do_children' : 1
+
+  - '^compile.htx\.trg\.(?<trg>\S+)$':
+      #'do_children' : 1
 
   - '^act\.(?<act>\w+)$':
       'argv' : '$+{act}'

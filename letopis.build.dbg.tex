@@ -1,49 +1,52 @@
 % vim: keymap=russian-jcukenwin
-%%beginhead 
- 
+%%beginhead
+
 %%file build.dbg
 %%parent build
- 
-%%url 
- 
-%%author_id 
-%%date 
- 
-%%tags 
-%%title 
- 
-%%endhead 
 
-\begin{verbatim}
-	Plg::Projs::Prj::Builder
+%%url
 
-	sub init {
-	    my ($bld) = @_;
-	
-	    $bld->Plg::Projs::Prj::init();
-	
-	    return $bld if $bld->{bld_skip_init};
-	
-	    $bld
-	        ->inj_base
-	        ->prj_load_xml          # process PROJ.xml file, set trg_list
-	        ->inj_targets
-	        ->get_act
-	        ->get_opt
-	        ->set_target                            # set $bld->{target} from --target switch
-	        ->trg_load_xml({ 'target' => 'core' })  # load into targets/core 
-	        ->trg_load_xml                          # load into targets/$target
-	        ->trg_apply('core')                     # apply 'core' target data into $bld instance
-	        ->trg_apply                             # apply $target data into $bld instance
-	        ->read_in_file                 # process -i --in_file switch
-	        ->process_ii_updown               
-	        ->process_config
-	        ->act_exe
-	        ->init_maker
-	        ;
-		$DB::single = 1;
-	
-	    return $bld;
-	
-	}
-\end{verbatim}
+%%author_id
+%%date
+
+%%tags
+%%title
+
+%%endhead
+
+\subsection{Debugging}
+\label{sec:build.dbg}
+
+\begin{Verbatim}
+  Plg::Projs::Prj::Builder
+
+  sub init {
+      my ($bld) = @_;
+
+      $bld->Plg::Projs::Prj::init();
+
+      return $bld if $bld->{bld_skip_init};
+
+      $bld
+          ->inj_base
+          ->prj_load_xml          # process PROJ.xml file, set trg_list
+          ->inj_targets
+          ->get_act
+          ->get_opt
+          ->set_target                            # set $bld->{target} from --target switch
+          ->trg_load_xml({ 'target' => 'core' })  # load into targets/core
+          ->trg_load_xml                          # load into targets/$target
+          ->trg_apply('core')                     # apply 'core' target data into $bld instance
+          ->trg_apply                             # apply $target data into $bld instance
+          ->read_in_file                 # process -i --in_file switch
+          ->process_ii_updown
+          ->process_config
+          ->act_exe
+          ->init_maker
+          ;
+    $DB::single = 1;
+
+      return $bld;
+
+  }
+\end{Verbatim}

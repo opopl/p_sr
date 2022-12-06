@@ -14,42 +14,44 @@
  
 %%endhead 
 
-\begin{verbatim}
+\subsection{Files}
+
+\begin{Verbatim}
   Plg::Projs::Build::Maker::Jnd
     cmd_jnd_build
       cmd_jnd_compose
 
     call _run_tex.sh -x LATEX_EXE
       call run_tex.sh jnd
-	
-		  $HOME/vrt/plg/projs/scripts/run_tex.sh
-		  $HOME/vrt/plg/projs/scripts/run_tex.pl
-		    Plg::Projs::Scripts::RunTex
-		      run()
-		        $mkx Plg::Projs::Build::Maker
-		        $mkx->_cmds_texindy
+  
+      $HOME/vrt/plg/projs/scripts/run_tex.sh
+      $HOME/vrt/plg/projs/scripts/run_tex.pl
+        Plg::Projs::Scripts::RunTex
+          run()
+            $mkx Plg::Projs::Build::Maker
+            $mkx->_cmds_texindy
 
   $HOME/vrt/plg/projs/scripts/ind_ins_bmk.sh
   $HOME/vrt/plg/projs/scripts/ind_ins_bmk.pl
     Plg::Projs::Scripts::IndInsBmk
       isa Plg::Projs::Build::Maker::IndFile
         ind_ins_bmk()
-\end{verbatim}
+\end{Verbatim}
 
-empty print_index.tex
+empty print\_index.tex
 
 empty jnd.lof
 
-\begin{verbatim}
+\begin{Verbatim}
   \selectlanguage *{russian}
   \addvspace {10\p@ }
   \contentsfinish
-\end{verbatim}
+\end{Verbatim}
 
 empty jnd.lot
 
-\begin{verbatim}
+\begin{Verbatim}
   \selectlanguage *{russian}
   \addvspace {10\p@ }
   \contentsfinish
-\end{verbatim}
+\end{Verbatim}

@@ -17,7 +17,7 @@ targets:
     #
 
 run_tex:
-  shell: capture
+  #shell: capture
   #
  
 ###patch
@@ -64,8 +64,10 @@ plans:
 
 ###plans.seq
   seq:
+  - 'compile.htx.auth.$var{auth}'
+
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
-  - 'compile.htx.auth.filatov_boris'
+  #- 'compile.htx.auth.filatov_boris'
   #- 'act.print_ii_body.trg.ki'
   #- 'act.print_ii_body.trg.vojna.poetry'
   #- 'act.print_ii_body_raw.trg.vojna.harkov'

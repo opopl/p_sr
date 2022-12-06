@@ -13,6 +13,11 @@
 %%title 
  
 %%endhead 
-texindy -C utf8 -M rus.xdy authors.rus.idx
 
-texindy -C utf8 -L russian -M rus.xdy rus.idx
+\subsection{Xindy}
+\label{sec:build.xindy}
+
+\begin{Verbatim}
+	texindy -C utf8 -M rus.xdy authors.rus.idx
+	texindy -C utf8 -L russian -M rus.xdy rus.idx
+\end{Verbatim}

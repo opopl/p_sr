@@ -68,7 +68,8 @@ plans:
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
 
   #- 'compile.$var{out}.buf.$var{sec}'
-  - 'compile.htx.buf.06_02_2021.fb.fb_group.story_kiev_ua.1.pokazhu_vam_gorod'
+  - 'compile.htx.buf.13_04_2022.fb.fb_group.story_kiev_ua.1.geroi_oborony_kieva'
+  #- { 'file' : 'fail.ki.txt' }
 
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
   #- 'compile.htx.auth.filatov_boris'

@@ -50,7 +50,7 @@ plans:
      #sec: '29_09_2022'
      #sec: '23_07_2021.fb.fb_group.story_kiev_ua.1.uslyshano_v_kieve_4'
      #sec: '09_08_2021.fb.filatov_boris.1.devochka_maguchih'
-     sec: 'compile.htx.buf.27_11_2020.fb.fb_group.story_kiev_ua.1.nakipelo'
+     sec: '08_11_2021.fb.fb_group.story_kiev_ua.1.kiev_19_vek_karaim_kupec_kogen'
      date: '24_11_2022'
      #auth: 'filatov_boris'
      auth: 'fb_group.story_kiev_ua'
@@ -67,7 +67,8 @@ plans:
   seq:
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
 
-  - 'compile.$var{out}.buf.$var{sec}'
+  #- 'compile.$var{out}.buf.$var{sec}'
+  - 'compile.htx.buf.06_02_2021.fb.fb_group.story_kiev_ua.1.pokazhu_vam_gorod'
 
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
   #- 'compile.htx.auth.filatov_boris'

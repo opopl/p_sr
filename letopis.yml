@@ -54,21 +54,41 @@ plans:
      #out: 'pdf'
      #seq:
        #limit: 4
-  dry: 1
+  #dry: 1
   rw: 1
-  dmp: 1
+  #dmp: 1
 
 ###plans.seq
   seq:
-  - 'compile.$var{out}.trg.$var{trg}'
+  #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
+  - 'act.print_ii_body.trg.ki'
+  
+###plans.define
+  'define @prepend':
+  - 'act.fill_vojna':
+
+  - '^compile.htx\.buf\.(?<sec>(\d+)_(\d+)_(\d+))$':
+      'do_children' : 1
+
+###plans_define_regex --------------------------------
+#
+  #- 'compile.htx.buf.24_11_2022':
+      #'do_children' : 0
+      #
+
+  #- '^compile.htx\.trg\.(?<trg>\S+)$':
+      #'do_children' : 1
+      #
+      #
+      #
+  #- 'compile.$var{out}.buf.$var{sec}'
+  #- 'compile.$var{out}.trg.$var{trg}'
   #- 'compile.$var{out}.buf.$var{date}'
   #- 'compile.htx.auth.$var{auth}'
   #
   #- 'join.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
-  #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
 
   #- 'act.fill_vojna'
-  #- 'compile.$var{out}.buf.$var{sec}'
 
   #- { 'vars.out' : 'htx' }
 
@@ -80,54 +100,5 @@ plans:
     #- 09_08_2021.fb.filatov_boris.1.devochka_maguchih
     #'compile.htx.buf.': 
 
-###plans.define
-  define:
-  #- 'compile.htx.buf.24_11_2022':
-      #'do_children' : 0
-      #
-  - 'act.fill_vojna':
-
-###plans_define_regex --------------------------------
-  - '^compile\.pdf\.':
-      'target_ext' : 'pdf'
-
-  - '^compile\.htx\.':
-      'target_ext' : 'html'
-      'do_htlatex' : 1
-
-  - '^compile\.pdf\.trg\.(?<trg>\S+)$':
-      'argv' : 'compile -t $+{trg}'
-
-  - '^compile\.htx\.trg\.(?<trg>\S+)$':
-      'argv' : 'compile -c htx -t $+{trg}'
-
-  - '^compile\.pdf\.buf\.(?<sec>\S+)$':
-      'argv' : 'compile -t _buf.$+{sec}'
-
-  - '^compile\.htx\.buf\.(?<sec>\S+)$':
-      'argv' : 'compile -c htx -t _buf.$+{sec}'
-
-  - '^join\.htx\.buf\.(?<sec>\S+)$':
-      'argv' : 'join -c htx -t _buf.$+{sec}'
-
-  - '^compile\.htx\.auth\.(?<author_id>\S+)$':
-      'argv' : 'compile -c htx -t _auth.$+{author_id}'
-      'do_children' : 1
-      'pref_ci' : 'compile.htx.buf.'
-
-  - '^compile.htx\.buf\.(?<sec>(\d+)_(\d+)_(\d+))$':
-      'do_children' : 1
-
-  - '^compile.htx\.trg\.(?<trg>\S+)$':
-      #'do_children' : 1
-
-  - '^act\.(?<act>\w+)$':
-      'argv' : '$+{act}'
 
 
-#  define:
-   #'^htx\.buf\.(\S+)$':
-      #'argv' : 'compile -c htx -t _buf.$1'
-
-   #'^htx\.buf\.(\d+)_(\d+)_(\d+)$':
-      #'do_children' : 1

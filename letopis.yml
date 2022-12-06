@@ -17,9 +17,9 @@ targets:
     #
 
 run_tex:
-  #shell: capture
+  shell: capture
   #
- 
+
 ###patch
 patch:
   'tex4ht.cfg.vars.graphics.jpg.l3' : 1
@@ -49,7 +49,8 @@ plans:
   vars:
      #sec: '29_09_2022'
      #sec: '23_07_2021.fb.fb_group.story_kiev_ua.1.uslyshano_v_kieve_4'
-     sec: '09_08_2021.fb.filatov_boris.1.devochka_maguchih'
+     #sec: '09_08_2021.fb.filatov_boris.1.devochka_maguchih'
+     sec: 'compile.htx.buf.27_11_2020.fb.fb_group.story_kiev_ua.1.nakipelo'
      date: '24_11_2022'
      #auth: 'filatov_boris'
      auth: 'fb_group.story_kiev_ua'
@@ -64,7 +65,9 @@ plans:
 
 ###plans.seq
   seq:
-  - 'compile.htx.auth.$var{auth}'
+  #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
+
+  - 'compile.$var{out}.buf.$var{sec}'
 
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
   #- 'compile.htx.auth.filatov_boris'
@@ -72,7 +75,7 @@ plans:
   #- 'act.print_ii_body.trg.vojna.poetry'
   #- 'act.print_ii_body_raw.trg.vojna.harkov'
   #- 'act.print_ii_body_raw.trg.ki'
-  
+
 ###plans.define
   'define @prepend':
   - 'act.fill_vojna':
@@ -108,7 +111,7 @@ plans:
   #- 'compile.pdf.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
   #- 'compile.pdf.buf.+':
     #- 09_08_2021.fb.filatov_boris.1.devochka_maguchih
-    #'compile.htx.buf.': 
+    #'compile.htx.buf.':
 
 
 

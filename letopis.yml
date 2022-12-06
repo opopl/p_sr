@@ -59,7 +59,7 @@ plans:
      #out: 'pdf'
      #seq:
        #limit: 4
-  #dry: 1
+  dry: 1
   rw: 1
   #dmp: 1
 
@@ -68,8 +68,7 @@ plans:
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
 
   #- 'compile.$var{out}.buf.$var{sec}'
-  - 'compile.htx.buf.13_04_2022.fb.fb_group.story_kiev_ua.1.geroi_oborony_kieva'
-  #- { 'file' : 'letopis.plan.fail.ki.i.dat' }
+  - { 'file' : 'letopis.plan.fail.i.dat' }
 
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
   #- 'compile.htx.auth.filatov_boris'

@@ -61,7 +61,8 @@ plans:
 ###plans.seq
   seq:
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
-  - 'act.print_ii_body.trg.ki'
+  #- 'act.print_ii_body.trg.ki'
+  - 'act.print_ii_body_raw.trg.ki'
   
 ###plans.define
   'define @prepend':

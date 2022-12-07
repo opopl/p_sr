@@ -1,3 +1,6 @@
+err.tex
+err.sec.tex
+plan.err.yaml
 *.sqlite
 *.vim
 *.tags

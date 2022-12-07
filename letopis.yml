@@ -40,6 +40,8 @@ tex4ht:
       tex4ht: ' -cunihtf -utf8'
       t4ht:
       latex: '-file-line-error'
+    err:
+      #die: 1
 
   run_after:
     pretty: 1
@@ -56,19 +58,23 @@ plans:
      auth: 'fb_group.story_kiev_ua'
      trg: 'vojna.poetry'
      out: 'htx'
+     fail_file: 'letopis.plan.fail.i.dat'
      #out: 'pdf'
-     #seq:
-       #limit: 4
-  dry: 1
+     seq:
+       limit: 1
+  #dry: 1
   rw: 1
   #dmp: 1
+  exec:
+    onfail:
+      die: 1
 
 ###plans.seq
   seq:
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
 
   #- 'compile.$var{out}.buf.$var{sec}'
-  - { 'file' : 'letopis.plan.fail.i.dat' }
+  - { 'file' : '$var{fail_file}' }
 
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
   #- 'compile.htx.auth.filatov_boris'

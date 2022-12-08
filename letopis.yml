@@ -56,7 +56,7 @@ plans:
      date: '24_11_2022'
      #auth: 'filatov_boris'
      #auth: 'fb_group.story_kiev_ua'
-     auth: 'vjatrovich_vladimir'
+     auth: 'solovjov_mikita'
      trg: 'vojna.poetry'
      out: 'htx'
      fail_file: 'letopis.plan.fail.i.dat'

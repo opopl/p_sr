@@ -75,8 +75,8 @@ plans:
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
 
   #- 'compile.$var{out}.buf.$var{sec}'
-  #- { 'file' : '$var{fail_file}' }
-  - 'compile.htx.auth.$var{auth}'
+  - { 'file' : '$var{fail_file}' }
+  #- 'compile.htx.auth.$var{auth}'
 
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
   #- 'act.print_ii_body.trg.ki'

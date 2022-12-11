@@ -19,7 +19,12 @@ targets:
 target_conf:
   '^_buf\.(?<day>\d+)_(?<month>\d+)_(?<year>\d+)\.(\S+)$':
     patch:
-       'run_tex.cmd.tex.interaction' : 'errorstopmode'
+       #'run_tex.cmd.tex.interaction' : 'errorstopmode'
+       'vars.layout.tabcont' : 0
+       'vars.layout.indexing' : 0
+
+       'opts_maker.join_lines.ii.exclude' : 
+          index : 1
     run_tex:
       #shell: system
       sequence:

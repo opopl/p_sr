@@ -91,9 +91,11 @@ plans:
 ###plans.seq
   seq:
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'
+  #- 'compile.htx.buf.01_12_2022.fb.rojz_svitlana.kyiv.1.veselka'
+  - 'compile.pdf.buf.01_12_2022.fb.rojz_svitlana.kyiv.1.veselka'
 
   #- 'compile.$var{out}.buf.$var{sec}'
-  - { 'file' : '$var{fail_file}' }
+  #- { 'file' : '$var{fail_file}' }
   #- 'compile.htx.auth.$var{auth}'
 
   #- 'compile.htx.buf.24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode'

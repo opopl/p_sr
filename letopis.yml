@@ -16,6 +16,19 @@ targets:
     #- ki
     #
 
+target_conf:
+  '^_buf\.(?<day>\d+)_(?<month>\d+)_(?<year>\d+)\.(\S+)$':
+    patch:
+       'run_tex.cmd.tex.interaction' : 'errorstopmode'
+    run_tex:
+      #shell: system
+      sequence:
+        pdf:
+        - '@clean'
+        - '@tex'
+      cmd:
+        texindy: 0
+
 run_tex:
   shell: capture
   #
@@ -61,8 +74,8 @@ plans:
      out: 'htx'
      fail_file: 'letopis.plan.fail.i.dat'
      #out: 'pdf'
-     seq:
-       limit: 1
+     #seq:
+       #limit: 1
   #dry: 1
   rw: 1
   #dmp: 1

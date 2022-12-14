@@ -1,0 +1,14 @@
+
+proj: letopis
+#sec: 01_12_2022.fb.rojz_svitlana.kyiv.1.veselka
+#sec: 24_11_2022.fb.filatov_boris.1.situacia_dnepr
+#sec: 11_12_2022.fb.rojz_svitlana.kyiv.1.metafory
+#sec: 13_12_2022.fb.rojz_svitlana.kyiv.1.masshtab_osobystosti 
+#sec: 12_12_2022.fb.rojz_svitlana.kyiv.1.kalendar 
+sec: 10_12_2022.fb.rojz_svitlana.kyiv.1.sjuzhety
+
+db_upd: 1
+order:
+- do_clean
+- do_css
+- do_img

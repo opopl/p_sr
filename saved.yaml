@@ -17,7 +17,8 @@ secs:
 #- 24_11_2022.fb.fb_group.ukrainska_poezia_i_proza.1.ukraina_nezlamna
 #- 09_06_2022.fb.rojz_svitlana.kyiv.1.kalendar_svjat
 #- 14_12_2022.fb.rojz_svitlana.kyiv.1.svjato_chasy
-- 09_12_2022.fb.rojz_svitlana.kyiv.1.limony
+#- 09_12_2022.fb.rojz_svitlana.kyiv.1.limony
+- 29_03_2022.fb.rojz_svitlana.kyiv.1.sirena
 
 db_upd: 1
 order:

@@ -159,7 +159,8 @@ sub act_fill_vojna {
 
     ( $start =~ /^(?<day>\d+)\.(?<month>\d+)\.(?<year>\d+)$/ );
 
-    my $now = DateTime->now;
+    #my $now = DateTime->now;
+    my $now = DateTime->new(day => 20, month => 12, year => 2022 );
     my ($dt_start);
     if (keys %+) {
        $dt_start = DateTime->new(map { $_ => $+{$_} } keys %+ );

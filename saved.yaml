@@ -18,7 +18,8 @@ secs:
 #- 09_06_2022.fb.rojz_svitlana.kyiv.1.kalendar_svjat
 #- 14_12_2022.fb.rojz_svitlana.kyiv.1.svjato_chasy
 #- 09_12_2022.fb.rojz_svitlana.kyiv.1.limony
-- 29_03_2022.fb.rojz_svitlana.kyiv.1.sirena
+#- 29_03_2022.fb.rojz_svitlana.kyiv.1.sirena
+- 28_02_2022.fb.rojz_svitlana.kyiv.1.my_vytrymajemo
 
 db_upd: 1
 order:

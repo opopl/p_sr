@@ -1,12 +1,15 @@
 
 proj: letopis
 
+cmd: run
+
 secs:
 - 01_12_2022.fb.rojz_svitlana.kyiv.1.veselka
 - 24_11_2022.fb.filatov_boris.1.situacia_dnepr
+- 25_11_2022.fb.rojz_svitlana.kyiv.1.jak_ty_svitlo_davaly
 - 11_12_2022.fb.rojz_svitlana.kyiv.1.metafory
-- 13_12_2022.fb.rojz_svitlana.kyiv.1.masshtab_osobystosti 
-- 12_12_2022.fb.rojz_svitlana.kyiv.1.kalendar 
+- 13_12_2022.fb.rojz_svitlana.kyiv.1.masshtab_osobystosti
+- 12_12_2022.fb.rojz_svitlana.kyiv.1.kalendar
 - 10_12_2022.fb.rojz_svitlana.kyiv.1.sjuzhety
 
 db_upd: 1
@@ -14,3 +17,23 @@ order:
 - do_clean
 - do_css
 - do_img
+
+config:
+  dom:
+    remove:
+      node:
+      - 'svg, form'
+      - 'a[aria-label="Friends"]'
+      - 'a[aria-label="Home"]'
+      - 'a[aria-label="Watch"]'
+      - 'a[aria-label="Groups"]'
+      - 'a[aria-label="More"]'
+      - 'div[role="navigation"]'
+      - 'div[role="banner"]'
+      #- 'div[aria-labelledby]'
+      class:
+      - 'div, a, span, li, label, blockquote'
+
+    match:
+      post:
+      - 'div[data-ad-preview="message"]'

@@ -20,7 +20,8 @@ secs:
 #- 09_12_2022.fb.rojz_svitlana.kyiv.1.limony
 #- 29_03_2022.fb.rojz_svitlana.kyiv.1.sirena
 #- 28_02_2022.fb.rojz_svitlana.kyiv.1.my_vytrymajemo
-- 27_02_2022.fb.rojz_svitlana.kyiv.2.pyshajusja
+#- 27_02_2022.fb.rojz_svitlana.kyiv.2.pyshajusja
+#- 26_02_2022.fb.rojz_svitlana.kyiv.1.igry
 
 db_upd: 1
 order:

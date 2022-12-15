@@ -4,13 +4,18 @@ proj: letopis
 cmd: run
 
 secs:
-- 01_12_2022.fb.rojz_svitlana.kyiv.1.veselka
-- 24_11_2022.fb.filatov_boris.1.situacia_dnepr
-- 25_11_2022.fb.rojz_svitlana.kyiv.1.jak_ty_svitlo_davaly
-- 11_12_2022.fb.rojz_svitlana.kyiv.1.metafory
-- 13_12_2022.fb.rojz_svitlana.kyiv.1.masshtab_osobystosti
-- 12_12_2022.fb.rojz_svitlana.kyiv.1.kalendar
-- 10_12_2022.fb.rojz_svitlana.kyiv.1.sjuzhety
+#- 01_12_2022.fb.rojz_svitlana.kyiv.1.veselka
+#- 24_11_2022.fb.filatov_boris.1.situacia_dnepr
+#- 25_11_2022.fb.rojz_svitlana.kyiv.1.jak_ty_svitlo_davaly
+#- 11_12_2022.fb.rojz_svitlana.kyiv.1.metafory
+#- 13_12_2022.fb.rojz_svitlana.kyiv.1.masshtab_osobystosti
+#- 12_12_2022.fb.rojz_svitlana.kyiv.1.kalendar
+#- 10_12_2022.fb.rojz_svitlana.kyiv.1.sjuzhety
+#- 29_09_2022.fb.filatov_boris.1.s_chego_nachat
+#- 24_11_2022.fb.filatov_boris.2.nastroenia_v_gorode
+#- 24_11_2022.fb.fb_group.story_kiev_ua.1.my_zalyshaemost
+#- 24_11_2022.fb.fb_group.ukrainska_poezia_i_proza.1.ukraina_nezlamna
+- 09_06_2022.fb.rojz_svitlana.kyiv.1.kalendar_svjat
 
 db_upd: 1
 order:

@@ -23,7 +23,7 @@ target_conf:
        'vars.layout.tabcont' : 0
        'vars.layout.indexing' : 0
 
-       'opts_maker.join_lines.ii.exclude' : 
+       'opts_maker.join_lines.ii.exclude' :
           index : 1
     run_tex:
       #shell: system
@@ -63,7 +63,11 @@ tex4ht:
 
   run_after:
     pretty: 1
-    js: 1
+    js:
+      do:
+      - act: 'body_append_script'
+        data:
+          src: '../../../ctl/js/dist/bundle.js'
 
 plans:
   vars:

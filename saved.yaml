@@ -27,7 +27,8 @@ secs:
 #- 16_12_2022.fb.tymchenko_mykola.kyiv.fotograf.1.metro
 #- 28_02_2022.fb.rojz_svitlana.kyiv.2.donjka_son_smih
 #- 12_10_2022.fb.butusov_jurij.1.shtanko
-- 15_12_2022.fb.ohmatdet.bolnica.1.deformacii
+#- 15_12_2022.fb.ohmatdet.bolnica.1.deformacii !!!
+- 13_12_2022.fb.ohmatdet.bolnica.1.vyizdy
 
 #db_upd: 1
 

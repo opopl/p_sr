@@ -38,7 +38,8 @@ target_conf:
             contents:
             - type: sql
               db: 'img'
-              cmt: 1
+              cmt:
+                tab: 'cols=3,no_fig,center'
               output: 'pic @@{url}'
               query: 'SELECT imgs.url FROM imgs
                       INNER JOIN _info_imgs_tags AS inf

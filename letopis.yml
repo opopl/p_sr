@@ -25,6 +25,8 @@ target_conf:
 
        'opts_maker.join_lines.ii.exclude' :
           index : 1
+
+       #'sii.scts._main_.ii.inner.body':
     run_tex:
       #shell: system
       sequence:

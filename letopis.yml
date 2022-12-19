@@ -17,7 +17,8 @@ targets:
     #
 
 target_conf:
-  '^_buf\.(?<day>\d+)_(?<month>\d+)_(?<year>\d+)\.(\S+)$':
+
+  '^_buf\.(?<section>(?<day>\d+)_(?<month>\d+)_(?<year>\d+)\.(\S+))$':
     patch:
        #'run_tex.cmd.tex.interaction' : 'errorstopmode'
        'vars.layout.tabcont' : 0
@@ -26,7 +27,26 @@ target_conf:
        'opts_maker.join_lines.ii.exclude' :
           index : 1
 
-       #'sii.scts._main_.ii.inner.body':
+       'sii.scts._main_.ii.inner.body @push':
+       - '$matched{section}.pic.ui_import'
+
+       'sii.generate.on':
+         '$matched{section}.pic.ui_import' : 1
+
+       'sii.scts':
+         '$matched{section}.pic.ui_import' :
+            contents:
+            - type: sql
+              db: 'img'
+              cmt: 1
+              output: 'pic @@{url}'
+              query: 'SELECT imgs.url FROM imgs
+                      INNER JOIN _info_imgs_tags AS inf
+                      ON imgs.url = inf.url
+                      WHERE inf.tag IN ("ui.import")
+                      AND imgs.sec = "$matched{section}"
+                      '
+
     run_tex:
       #shell: system
       sequence:

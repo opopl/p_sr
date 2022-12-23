@@ -17,6 +17,7 @@ config:
         preferences: 
           "dom.webnotifications.enabled" : false
           "geo.enabled" : false
+          "geo.provider.network.url" : ''
 
 ###config.logging
   logging:
@@ -51,7 +52,8 @@ config:
 class:
   fbpost:
     files:
-      cookies: cookies.pkl
+      #cookies: cookies.pkl
+      cookies: cookies.json
 
 ###class.fbpost
     config:

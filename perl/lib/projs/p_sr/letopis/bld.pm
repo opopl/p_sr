@@ -24,6 +24,10 @@ use base qw(
     Plg::Projs::Prj::Builder
 );
 
+use Base::DB qw(
+    dbh_do
+);
+
 use Base::Arg qw( hash_inject );
 
 sub init {
@@ -41,6 +45,7 @@ sub init {
               'scr_profil' => sub { $bld->act_scr_profil; },
               'img'        => sub { $bld->act_img; },
               'fill_vojna' => sub { $bld->act_fill_vojna; },
+              'db_dates'   => sub { $bld->act_db_dates; },
            }
         },
     };
@@ -264,6 +269,23 @@ sub act_img {
         limit => 10
     });
     $DB::single = 1;
+
+    return $bld;
+}
+
+sub act_db_dates {
+    my ($bld) = @_;
+
+    my $pat = '^(\d+_\d+_\d+)\.';
+    my $q = qq{
+        UPDATE projs SET date = RGX("$pat", sec, 'g', 1) WHERE RGX("$pat",sec)
+    };
+
+    my $ref = {
+        dbh    => $bld->{dbh},
+        q      => $q,
+    };
+    my $ok = dbh_do($ref);
 
     return $bld;
 }

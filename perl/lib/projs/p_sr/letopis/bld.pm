@@ -26,13 +26,14 @@ use base qw(
 
 use Base::DB qw(
     dbh_do
+    dbh_select_as_list
 );
 
 use Base::Arg qw( hash_inject );
 
 sub init {
     my ($bld) = @_;
-    
+
     my $h = {
         trg_list => [qw(usual)],
         tex_exe  => 'pdflatex',
@@ -275,7 +276,31 @@ sub act_img {
 }
 
 sub act_update_html {
-    my ($bld) = @_;
+    my ($bld, $ref) = @_;
+    $ref ||= {};
+
+    my $proj  = $ref->{proj} || $bld->{proj};
+
+    my $secs = $bld->_secs;
+    my $r = {
+        dbh => $bld->{dbh},
+        q => q{ SELECT sec FROM projs WHERE proj = ? AND LENGTH(url) > 0 },
+        p => [ $proj ],
+    };
+    my $out_dir_html = $bld->{out_dir_html};
+    my $data = {};
+
+    $secs = dbh_select_as_list($r);
+    foreach my $sec (@$secs) {
+        my $target = qq{_buf.$sec};
+        my $html_dir = catfile($out_dir_html,$target);
+        my $html_file = catfile($html_dir,'jnd_ht.html');
+        next unless -f $html_file;
+        $data->{$sec} = $html_file;
+    }
+
+    $DB::single = 1;
+
     return $bld;
 }
 
@@ -298,7 +323,7 @@ sub act_db_dates {
 
 sub act_scr_profil {
     my ($bld) = @_;
-    
+
     my ($proj, $root, $rootid) = @{$bld}{qw( proj root root_id )};
     my $imgman = $bld->{imgman};
 
@@ -348,7 +373,7 @@ sub act_scr_profil {
            ];
        };
     }
-    
+
     my @friends = $rule->in($root_dir);
     foreach my $friend (@friends) {
         foreach my $key (@keys) {
@@ -364,13 +389,13 @@ sub act_scr_profil {
                proj => $proj,
                sec  => $fsec,
             });
- 
+
             unless($sd && $bld->_sec_exist({ sd => $sd })){
                 my $flines = $s_lines->{$key}->($friend, $fdir);
 
                 print qq{creating child section: $fsec} . "\n";
                 $DB::single = 1;
-    
+
                 $bld->sec_new_child({
                    proj  => $proj,
                    sec   => $parent,

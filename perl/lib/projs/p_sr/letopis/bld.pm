@@ -42,10 +42,11 @@ sub init {
         },
         custom => {
            maps_act => {
-              'scr_profil' => sub { $bld->act_scr_profil; },
-              'img'        => sub { $bld->act_img; },
-              'fill_vojna' => sub { $bld->act_fill_vojna; },
-              'db_dates'   => sub { $bld->act_db_dates; },
+              'scr_profil'  => sub { $bld->act_scr_profil; },
+              'img'         => sub { $bld->act_img; },
+              'fill_vojna'  => sub { $bld->act_fill_vojna; },
+              'db_dates'    => sub { $bld->act_db_dates; },
+              'update_html' => sub { $bld->act_update_html; },
            }
         },
     };
@@ -270,6 +271,11 @@ sub act_img {
     });
     $DB::single = 1;
 
+    return $bld;
+}
+
+sub act_update_html {
+    my ($bld) = @_;
     return $bld;
 }
 

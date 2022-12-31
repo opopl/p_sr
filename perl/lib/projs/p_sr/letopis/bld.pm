@@ -27,6 +27,8 @@ use base qw(
 use Base::DB qw(
     dbh_do
     dbh_select_as_list
+    dbh_select
+    dbh_select_fetchone
 );
 
 use Base::Arg qw( hash_inject );
@@ -252,6 +254,49 @@ sub act_fill_vojna {
 }
 
 sub act_img {
+    my ($bld) = @_;
+
+    my $imgman = $bld->{imgman};
+    my $dbh_img = $imgman->{dbh};
+    my $q = q{
+        SELECT inum FROM imgs
+        GROUP BY inum
+        HAVING COUNT(*) > 1;
+    };
+    my $ref = {
+        dbh => $dbh_img,
+        q => $q,
+        p => [],
+    };
+
+    my ($rows) = dbh_select($ref);
+
+    foreach my $rw (@$rows) {
+        my $inum = $rw->{inum};
+
+        my ($rr) = dbh_select({
+           dbh => $dbh_img,
+           q => q{ SELECT * FROM imgs WHERE inum = ? },
+           p => [ $inum ],
+        });
+        next unless $rr && @$rr;
+        my $first = shift @$rr;
+
+        foreach my $mv (@$rr) {
+            my $inum_free = dbh_select_fetchone({
+                dbh => $dbh_img,
+                q => q{ SELECT MAX(inum) FROM imgs },
+            });
+            $inum_free++;
+        }
+
+        $DB::single = 1;1;
+    }
+
+    return $bld;
+}
+
+sub act_img_0 {
     my ($bld) = @_;
 
     my ($proj, $root, $rootid) = @{$bld}{qw( proj root root_id )};

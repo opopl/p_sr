@@ -296,7 +296,25 @@ sub act_img {
     my ($bld) = @_;
 
     #$bld->act_img_url2md5;
-    $bld->act_img_dpl;
+    #$bld->act_img_dpl;
+    $bld->act_img_fk;
+
+    return $bld;
+}
+
+sub act_img_fk {
+    my ($bld) = @_;
+
+    my $imgman = $bld->{imgman};
+    my $dbh_img = $imgman->{dbh};
+
+    dbh_do({
+        dbh => $dbh_img,
+        q => q{
+            PRAGMA foreign_keys = ON;
+            PRAGMA foreign_key_check;
+        },
+    });
 
     return $bld;
 }

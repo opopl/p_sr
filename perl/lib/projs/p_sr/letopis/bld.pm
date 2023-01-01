@@ -272,7 +272,7 @@ sub act_img {
     my ($duplicates) = dbh_select($ref);
     return $bld unless $duplicates && @$duplicates;
 
-    my @lines_duplicate;
+    my (@lines_duplicate, @secs_duplicate);
     foreach my $duplicate (@$duplicates) {
         my $inum_dpl = $duplicate->{inum};
 
@@ -283,13 +283,19 @@ sub act_img {
         });
         next unless $rr && @$rr;
 
-        my $first = shift @$rr;
+        #my $first = shift @$rr;
 
         while(@$rr) {
             my $rx = shift @$rr;
             my $url = $rx->{url};
+            my $sec_dpl = $rx->{sec};
+
+            push @secs_duplicate, $sec_dpl 
+                unless grep { /^$sec_dpl$/ } @secs_duplicate;
+
             push @lines_duplicate, 
                 '% duplicate inum = ' . $inum_dpl,
+                '% duplicate sec = ' . $sec_dpl,
                 ' pic ' . $url,
                 ' @reload 1',
                 ' ',
@@ -314,7 +320,8 @@ sub act_img {
     my $sec = 'pics.util.duplicates';
     $bld->sec_insert({ 
         sec   => $sec,
-        lines => [ '\ifcmt', @lines_duplicate, '\fi' ]
+        #lines => [ '\ifcmt', @lines_duplicate, '\fi' ]
+        lines => [ @secs_duplicate ]
     });
 
     return $bld;

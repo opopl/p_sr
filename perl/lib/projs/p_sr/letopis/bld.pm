@@ -269,38 +269,53 @@ sub act_img {
         p => [],
     };
 
-    my ($rows) = dbh_select($ref);
+    my ($duplicates) = dbh_select($ref);
+    return $bld unless $duplicates && @$duplicates;
 
-    foreach my $rw (@$rows) {
-        my $inum = $rw->{inum};
+    my @lines_duplicate;
+    foreach my $duplicate (@$duplicates) {
+        my $inum_dpl = $duplicate->{inum};
 
         my ($rr) = dbh_select({
            dbh => $dbh_img,
            q => q{ SELECT * FROM imgs WHERE inum = ? },
-           p => [ $inum ],
+           p => [ $inum_dpl ],
         });
         next unless $rr && @$rr;
 
-#        my $first = shift @$rr;
+        my $first = shift @$rr;
 
-        #while(@$rr) {
-            #my $rx = shift @$rr;
-            #my $inum_free = dbh_select_fetchone({
+        while(@$rr) {
+            my $rx = shift @$rr;
+            my $url = $rx->{url};
+            push @lines_duplicate, 
+                '% duplicate inum = ' . $inum_dpl,
+                ' pic ' . $url,
+                ' @reload 1',
+                ' ',
+                ;
+
+#            my $inum_free = dbh_select_fetchone({
                 #dbh => $dbh_img,
                 #q => q{ SELECT MAX(inum) FROM imgs },
             #});
             #$inum_free++;
 
-            #if ($rx->{md5} eq $first->{md5}) {
+#            if ($rx->{md5} eq $first->{md5}) {
                 #dbh_do({
                     #dbh => $dbh_img,
                     #q => q{ DELETE FROM imgs WHERE url = ? },
                 #}); 
             #}
-        #}
+        }
 
         $DB::single = 1;1;
     }
+    my $sec = 'pics.util.duplicates';
+    $bld->sec_insert({ 
+        sec   => $sec,
+        lines => [ '\ifcmt', @lines_duplicate, '\fi' ]
+    });
 
     return $bld;
 }

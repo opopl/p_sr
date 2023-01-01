@@ -260,7 +260,7 @@ sub act_img {
     my $dbh_img = $imgman->{dbh};
     my $q = q{
         SELECT inum FROM imgs
-        GROUP BY inum
+        GROUP BY inum, md5
         HAVING COUNT(*) > 1;
     };
     my $ref = {

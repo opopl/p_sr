@@ -280,15 +280,24 @@ sub act_img {
            p => [ $inum ],
         });
         next unless $rr && @$rr;
-        my $first = shift @$rr;
 
-        foreach my $mv (@$rr) {
-            my $inum_free = dbh_select_fetchone({
-                dbh => $dbh_img,
-                q => q{ SELECT MAX(inum) FROM imgs },
-            });
-            $inum_free++;
-        }
+#        my $first = shift @$rr;
+
+        #while(@$rr) {
+            #my $rx = shift @$rr;
+            #my $inum_free = dbh_select_fetchone({
+                #dbh => $dbh_img,
+                #q => q{ SELECT MAX(inum) FROM imgs },
+            #});
+            #$inum_free++;
+
+            #if ($rx->{md5} eq $first->{md5}) {
+                #dbh_do({
+                    #dbh => $dbh_img,
+                    #q => q{ DELETE FROM imgs WHERE url = ? },
+                #}); 
+            #}
+        #}
 
         $DB::single = 1;1;
     }

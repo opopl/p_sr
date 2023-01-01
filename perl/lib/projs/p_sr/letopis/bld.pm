@@ -12,9 +12,14 @@ use File::Spec::Functions qw(catfile);
 use Getopt::Long qw(GetOptions);
 
 use File::Spec::Functions qw(catfile);
+use File::Path qw(mkpath);
+use File::Copy qw(copy);
+
 use Data::Dumper qw(Dumper);
 use DateTime;
 use Clone qw(clone);
+
+use YAML::XS qw();
 
 use Base::Arg qw(
     hash_update
@@ -253,14 +258,62 @@ sub act_fill_vojna {
     return $bld;
 }
 
-sub act_img {
+
+sub act_img_url2md5 {
     my ($bld) = @_;
 
     my $imgman = $bld->{imgman};
     my $dbh_img = $imgman->{dbh};
+
     my $q = q{
-        SELECT inum FROM imgs
-        GROUP BY inum, md5
+         CREATE TABLE IF NOT EXISTS url2md5 (
+             url TEXT NOT NULL UNIQUE,
+             md5 TEXT NOT NULL,
+             FOREIGN KEY(md5) REFERENCES imgs(md5) ON DELETE CASCADE ON UPDATE CASCADE
+         );
+
+         PRAGMA foreign_keys=OFF;
+         INSERT INTO url2md5
+         SELECT url, md5 FROM imgs WHERE url IS NOT NULL AND md5 IS NOT NULL;
+    };
+
+    #$q = q{
+         #DROP TABLE url2md5;
+         #PRAGMA foreign_keys=ON;
+         #PRAGMA foreign_key_check;
+    #};
+
+    dbh_do({
+        dbh => $dbh_img,
+        q => $q,
+        p => [],
+    });
+
+    return $bld;
+}
+
+sub act_img {
+    my ($bld) = @_;
+
+    #$bld->act_img_url2md5;
+    $bld->act_img_dpl;
+
+    return $bld;
+}
+
+sub act_img_dpl {
+    my ($bld) = @_;
+
+    my $imgman = $bld->{imgman};
+    my $dbh_img = $imgman->{dbh};
+    my $img_root = $imgman->{img_root};
+    my $img_dir_dpl = catfile($img_root, qw(duplicates inum));
+    mkpath $img_dir_dpl unless -d $img_dir_dpl;
+    my $yml_dpl = catfile($img_dir_dpl,qw(dpl.yaml));
+
+    my $q = q{
+        SELECT * FROM imgs
+        GROUP BY md5
         HAVING COUNT(*) > 1;
     };
     my $ref = {
@@ -272,34 +325,59 @@ sub act_img {
     my ($duplicates) = dbh_select($ref);
     return $bld unless $duplicates && @$duplicates;
 
+    my @rows_dpl;
+
+    dbh_do({
+        dbh => $dbh_img,
+        q => q{ PRAGMA foreign_keys = OFF; },
+    });
+
     my (@lines_duplicate, @secs_duplicate);
     foreach my $duplicate (@$duplicates) {
-        my $inum_dpl = $duplicate->{inum};
+        my ($inum_dpl, $md5_dpl, $img) = @{$duplicate}{qw(inum md5 img)};
 
         my ($rr) = dbh_select({
            dbh => $dbh_img,
-           q => q{ SELECT * FROM imgs WHERE inum = ? },
-           p => [ $inum_dpl ],
+           q => q{ SELECT * FROM imgs WHERE md5 = ? },
+           #p => [ $inum_dpl ],
+           p => [ $md5_dpl ],
         });
         next unless $rr && @$rr;
 
-        #my $first = shift @$rr;
+#        my $img_file = catfile($img_root, $img);
+        #my $img_file_dpl = catfile($img_dir_dpl, $img);
+        ##copy($img_file, $img_file_dpl);
+
+        #push @rows_dpl, @$rr;
+        my $first = shift @$rr;
 
         while(@$rr) {
             my $rx = shift @$rr;
             my $url = $rx->{url};
-            my $sec_dpl = $rx->{sec};
+            next unless $url;
+            dbh_do({
+                dbh => $dbh_img,
+                q => q{ DELETE FROM imgs WHERE url = ? },
+                fk => 0,
+                p => [$url],
+            });
+        }
 
-            push @secs_duplicate, $sec_dpl 
-                unless grep { /^$sec_dpl$/ } @secs_duplicate;
+#        while(@$rr) {
+            #my $rx = shift @$rr;
+            #my $url = $rx->{url};
+            #my $sec_dpl = $rx->{sec} || '';
 
-            push @lines_duplicate, 
-                '% duplicate inum = ' . $inum_dpl,
-                '% duplicate sec = ' . $sec_dpl,
-                ' pic ' . $url,
-                ' @reload 1',
-                ' ',
-                ;
+            #push @secs_duplicate, $sec_dpl
+                #unless grep { /^$sec_dpl$/ } @secs_duplicate;
+
+            #push @lines_duplicate,
+                #'% duplicate inum = ' . $inum_dpl,
+                #'% duplicate sec = ' . $sec_dpl,
+                #' pic ' . $url,
+                #' @reload 1',
+                #' ',
+                #;
 
 #            my $inum_free = dbh_select_fetchone({
                 #dbh => $dbh_img,
@@ -311,18 +389,21 @@ sub act_img {
                 #dbh_do({
                     #dbh => $dbh_img,
                     #q => q{ DELETE FROM imgs WHERE url = ? },
-                #}); 
+                #});
             #}
-        }
-
-        $DB::single = 1;1;
+        #}
     }
-    my $sec = 'pics.util.duplicates';
-    $bld->sec_insert({ 
-        sec   => $sec,
-        #lines => [ '\ifcmt', @lines_duplicate, '\fi' ]
-        lines => [ @secs_duplicate ]
-    });
+
+    #YAML::XS::DumpFile($yml_dpl => {
+        #rows => \@rows_dpl,
+    #});
+        $DB::single = 1;1;
+#    my $sec = 'pics.util.duplicates';
+    #$bld->sec_insert({
+        #sec   => $sec,
+        ##lines => [ '\ifcmt', @lines_duplicate, '\fi' ]
+        #lines => [ @secs_duplicate ]
+    #});
 
     return $bld;
 }

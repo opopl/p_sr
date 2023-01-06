@@ -1,3 +1,5 @@
+*.bk
+bld.db
 err.tex
 err.sec.tex
 plan.err.yaml

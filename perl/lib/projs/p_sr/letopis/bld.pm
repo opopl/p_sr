@@ -54,6 +54,7 @@ sub init {
               'img'         => sub { $bld->act_img; },
               'fill_vojna'  => sub { $bld->act_fill_vojna; },
               'db_dates'    => sub { $bld->act_db_dates; },
+              'db_sql'      => sub { $bld->act_db_sql; },
               'update_html' => sub { $bld->act_update_html; },
            }
         },
@@ -475,6 +476,16 @@ sub act_update_html {
     }
 
     $DB::single = 1;
+
+    return $bld;
+}
+
+sub act_db_sql {
+    my ($bld) = @_;
+
+	my ($date, $sec, $author_id, $q, $p);
+
+
 
     return $bld;
 }

@@ -486,7 +486,6 @@ sub act_db_sql {
 	my ($date, $sec, $author_id, $q, $p);
 
 
-
     return $bld;
 }
 

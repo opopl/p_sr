@@ -29,9 +29,14 @@ target_conf:
 
        'sii.scts._main_.ii.inner.body @push':
        - '$matched{section}.pic.ui_import'
+       - '$matched{section}.cmt'
+       #- '$matched{section}.orig'
+       #- '$matched{section}.cmtx'
 
        'sii.generate.on':
          '$matched{section}.pic.ui_import' : 1
+         '$matched{section}.orig' : 1
+         '$matched{section}.cmtx' : 1
 
        'sii.scts':
          '$matched{section}.pic.ui_import' :
@@ -46,6 +51,50 @@ target_conf:
                       ON imgs.url = inf.url
                       WHERE inf.tag IN ("ui.import")
                       AND imgs.sec = "$matched{section}"
+                      '
+         '$matched{section}.orig' :
+            txt:
+              header:
+                - '\qqSecOrig'
+            contents:
+            - '@txt.header'
+            - type: sql
+              db: 'img'
+              cmt:
+                tab: 'cols=3,no_fig,center,separate'
+              output: 'pic @@{url}'
+              query: 'SELECT DISTINCT imgs.url FROM imgs
+                      INNER JOIN _info_imgs_tags AS inf1
+                      ON imgs.url = inf1.url
+                      INNER JOIN _info_imgs_tags AS inf2
+                      ON imgs.url = inf2.url
+                      WHERE 
+                        inf1.tag = "scrn"
+                        AND inf2.tag = "orig.post"
+                        AND imgs.sec = "$matched{section}"
+                      ORDER BY imgs.mtime
+                      '
+         '$matched{section}.cmtx' :
+            txt:
+              header:
+                - '\qqSecCmtScr'
+            contents:
+            - '@txt.header'
+            - type: sql
+              db: 'img'
+              cmt:
+                tab: 'cols=3,no_fig,center,separate'
+              output: 'pic @@{url}'
+              query: 'SELECT DISTINCT imgs.url FROM imgs
+                      INNER JOIN _info_imgs_tags AS inf1
+                      ON imgs.url = inf1.url
+                      INNER JOIN _info_imgs_tags AS inf2
+                      ON imgs.url = inf2.url
+                      WHERE 
+                        inf1.tag = "scrn"
+                        AND inf2.tag = "orig.cmt"
+                        AND imgs.sec = "$matched{section}"
+                      ORDER BY imgs.mtime
                       '
 
     run_tex:

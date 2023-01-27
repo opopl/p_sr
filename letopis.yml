@@ -30,8 +30,8 @@ target_conf:
        'sii.scts._main_.ii.inner.body @push':
        - '$matched{section}.pic.ui_import'
        - '$matched{section}.cmt'
-       #- '$matched{section}.orig'
-       #- '$matched{section}.cmtx'
+       - '$matched{section}.orig'
+       - '$matched{section}.cmtx'
 
        'sii.generate.on':
          '$matched{section}.pic.ui_import' : 1

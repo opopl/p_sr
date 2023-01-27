@@ -31,6 +31,8 @@ use base qw(
 
 use Base::DB qw(
     dbh_do
+    dbi_connect
+    dbh_create_tables
     dbh_select_as_list
     dbh_select
     dbh_select_fetchone
@@ -55,6 +57,7 @@ sub init {
               'fill_vojna'  => sub { $bld->act_fill_vojna; },
               'db_dates'    => sub { $bld->act_db_dates; },
               'db_sql'      => sub { $bld->act_db_sql; },
+              'db_auth'     => sub { $bld->act_db_auth; },
               'update_html' => sub { $bld->act_update_html; },
            }
         },
@@ -480,10 +483,61 @@ sub act_update_html {
     return $bld;
 }
 
+sub act_db_auth {
+    my ($bld) = @_;
+
+    my ($date, $sec, $author_id, $q, $p);
+
+    my $dbh = $bld->{dbh};
+    my $sql_dir = catfile($ENV{PLG},qw( projs data sql ));
+
+    dbh_do({
+        dbh    => $dbh,
+        q => q{
+            DROP TABLE auth_details;
+            DROP TABLE authors;
+        }
+    });
+
+    dbh_create_tables({
+       dbh         => $dbh,
+       sql_dir     => $sql_dir,
+       table_order => [qw( authors auth_details )],
+    });
+
+    my $dbfile_auth = catfile($ENV{HTML_ROOT},qw(h.db));
+    #my $dbh_auth = dbi_connect({ dbfile => $dbfile_auth });
+
+    dbh_do({
+        dbh    => $dbh,
+        q => qq{
+            ATTACH DATABASE "$dbfile_auth" AS auth;
+            DELETE FROM auth.authors WHERE id = 'kazarin_pavel';
+            DELETE FROM auth.auth_details WHERE id = 'kazarin_pavel';
+            INSERT INTO authors SELECT * FROM auth.authors;
+            INSERT INTO auth_details SELECT * FROM auth.auth_details;
+        }
+    });
+#    my $ref = {
+        #dbh    => $dbh,
+        #t => qq{auth.authors},
+        #q => q{ SELECT * FROM auth.authors },
+        #p => [  ],
+        #limit => 10,
+        ##cond => q{ WHERE  },
+    #};
+
+    #my ($rows, $cols, $q, $p) = dbh_select($ref);
+    #print Dumper($rows) . "\n";
+
+
+    return $bld;
+}
+
 sub act_db_sql {
     my ($bld) = @_;
 
-	my ($date, $sec, $author_id, $q, $p);
+    my ($date, $sec, $author_id, $q, $p);
 
 
     return $bld;

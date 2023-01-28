@@ -178,7 +178,7 @@ sub act_fill_vojna {
     ( $start =~ /^(?<day>\d+)\.(?<month>\d+)\.(?<year>\d+)$/ );
 
     #my $now = DateTime->now;
-    my $now = DateTime->new(day => 30, month => 1, year => 2023 );
+    my $now = DateTime->new(day => 10, month => 2, year => 2023 );
     my ($dt_start);
     if (keys %+) {
        $dt_start = DateTime->new(map { $_ => $+{$_} } keys %+ );

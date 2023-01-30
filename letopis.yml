@@ -122,6 +122,14 @@ patch:
   'tex4ht.cfg.vars.graphics.jpg.width' : 0
   'tex4ht.cfg.vars.graphics.gin_dim_empty' : 0
 
+  'tex4ht.cfg.vars.url.blank' : 0
+
+  #'tex4ht.cfg.vars.preamble' :
+     #frames : 1
+     #next : 'next'
+     #sectioning : 4
+     #index : 'index=2'
+
 tex4ht:
   run:
     #exe: make4ht

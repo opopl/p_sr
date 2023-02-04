@@ -28,6 +28,7 @@ use Text::Template;
 
 use Base::Arg qw(
     hash_update
+    varval
 );
 
 use base qw(
@@ -288,9 +289,8 @@ sub act_img_url2md5_select {
     my $limit_s = $limit ? qq{ LIMIT $limit } : '';
     my ($md5_cond, @md5_cond_and);
 
-    my @md5_exclude = @{$y_data->{md5_exclude} || []};
-    my @md5_include = @{$y_data->{md5_include} || []};
-    #todo
+    my @md5_exclude = @{varval('md5.exclude',$y_data) || []};
+    my @md5_include = @{varval('md5.include',$y_data) || []};
 
     push @md5_cond_and, sprintf('I.md5 NOT IN (%s)',join("," => map { qq{'$_'} } @md5_exclude) )
         if @md5_exclude;
@@ -371,9 +371,9 @@ sub act_img_url2md5_insert {
              FOREIGN KEY(md5) REFERENCES imgs(md5) ON DELETE CASCADE ON UPDATE CASCADE
          );
 
-         PRAGMA foreign_keys=OFF;
-         INSERT INTO url2md5
-         SELECT url, md5 FROM imgs WHERE url IS NOT NULL AND md5 IS NOT NULL;
+         PRAGMA foreign_keys=ON;
+         INSERT OR IGNORE INTO url2md5
+         SELECT url, md5, sec, proj FROM imgs WHERE url IS NOT NULL AND md5 IS NOT NULL;
     };
 
     #$q = q{
@@ -396,10 +396,10 @@ sub act_img {
     $ref ||= {};
 
     $bld
-        #->act_img_url2md5_insert
+        ->act_img_url2md5_insert
         #->act_img_dpl
-        ->act_img_fk($ref)
-        ->act_img_url2md5_select($ref)
+        #->act_img_fk($ref)
+        #->act_img_url2md5_select($ref)
         ;
 
     return $bld;

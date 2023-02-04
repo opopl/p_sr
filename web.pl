@@ -40,7 +40,7 @@ get '/' => sub {
 get '/img/raw/:inum' => sub {
     my $inum = route_parameters->get('inum');
 
-    my $img_db = $imgman->_db_img_one({ 
+    my $img_db = $imgman->_db_img_one({
         where => { inum => $inum },
         fields => [qw(*)],
     });
@@ -65,7 +65,7 @@ get '/img/raw/:inum' => sub {
 get '/img/data/:inum' => sub {
     my $inum = route_parameters->get('inum');
 
-    my $img_db = $imgman->_db_img_one({ 
+    my $img_db = $imgman->_db_img_one({
         where => { inum => $inum },
         fields => [qw(*)],
     });

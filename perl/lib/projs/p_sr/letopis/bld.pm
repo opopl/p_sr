@@ -286,7 +286,7 @@ sub act_img_url2md5_select {
     my ($md5_cond, @md5_m);
 
     push @md5_m,
-        '00dd5a944ab7d34de01b48602c9c9848'
+        #'00dd5a944ab7d34de01b48602c9c9848'
         ;
     $md5_cond = @md5_m ? sprintf('WHERE I.md5 IN (%s)',join("," => map { qq{'$_'} } @md5_m) ) : '';
 

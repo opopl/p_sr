@@ -14,12 +14,16 @@ use Getopt::Long qw(GetOptions);
 use File::Spec::Functions qw(catfile);
 use File::Path qw(mkpath);
 use File::Copy qw(copy);
+use File::Slurp::Unicode qw(
+  write_file
+);
 
 use Data::Dumper qw(Dumper);
 use DateTime;
 use Clone qw(clone);
 
 use YAML::XS qw();
+use Text::Template;
 
 use Base::Arg qw(
     hash_update
@@ -263,7 +267,90 @@ sub act_fill_vojna {
 }
 
 
-sub act_img_url2md5 {
+sub act_img_url2md5_select {
+    my ($bld) = @_;
+
+    my $imgman = $bld->{imgman};
+    my $dbh_img = $imgman->{dbh};
+    my $img_root = $imgman->{img_root};
+
+    #my $dlm = "@" x 10;
+    #my $q = sprintf(q{
+                #SELECT md5, group_concat(url, "%s") urls
+                #FROM url2md5 GROUP BY md5 HAVING COUNT(md5) > 1
+            #},$dlm);
+            #
+    my ($limit, $q);
+
+    my $limit_s = $limit ? qq{ LIMIT $limit } : '';
+    my ($md5_cond, @md5_m);
+
+    push @md5_m,
+        '00dd5a944ab7d34de01b48602c9c9848'
+        ;
+    $md5_cond = @md5_m ? sprintf('WHERE I.md5 IN (%s)',join("," => map { qq{'$_'} } @md5_m) ) : '';
+
+    $q = qq{
+            SELECT I.md5 AS md5, I.url AS url, I.img AS img FROM
+                ( SELECT md5
+                     FROM url2md5 GROUP BY md5 HAVING COUNT(md5) > 1
+                     $limit_s
+                ) AS D
+            INNER JOIN url2md5 AS R
+            ON R.md5 = D.md5
+            INNER JOIN imgs AS I
+            ON I.md5 = D.md5
+            -- GROUP BY I.url
+            $md5_cond
+            ORDER BY I.md5
+            };
+
+    my $ref = {
+        dbh => $dbh_img,
+        q => $q,
+        p => [],
+    };
+
+    my ($rows) = dbh_select($ref);
+
+    my $js_root   = catfile($ENV{REPOSGIT}, qw( js_root ));
+    my $tm_dir    = catfile($ENV{PLG}, qw( projs templates perl));
+    my $tm_file   = catfile($tm_dir, qw( imgs.tmpl ));
+    my $tm = Text::Template->new(TYPE => 'FILE', SOURCE => $tm_file);
+    my $vars = {
+        rows => $rows,
+        #dlm => $dlm,
+        cols => [qw( md5 url img )],
+        img_root => $img_root,
+    };
+    my $html_imgs = $tm->fill_in(HASH => $vars);
+
+    my $tm_file_page =  catfile($tm_dir, qw( page.tmpl ));
+
+    my $page_vars = {
+       body => $html_imgs,
+       js_root => $js_root,
+    };
+    my $html = Text::Template
+                ->new(SOURCE => $tm_file_page)
+                ->fill_in(HASH => $page_vars)
+                ;
+    #todo
+    #$imgman->_db_img_one({ where => { md5 => $md5 }});
+
+    $DB::single = 1;
+    my $html_dir = catfile(@{$bld}{qw( htmlout rootid proj )}, qw(tmp));
+    mkpath $html_dir unless -d $html_dir;
+    my $html_file = catfile($html_dir, qw( img.html ));
+
+    write_file($html_file, $html);
+    #my $html_dir = catfile($ENV{HTMLOUT},$);
+
+    return $bld;
+}
+
+
+sub act_img_url2md5_insert {
     my ($bld) = @_;
 
     my $imgman = $bld->{imgman};
@@ -299,9 +386,12 @@ sub act_img_url2md5 {
 sub act_img {
     my ($bld) = @_;
 
-    #$bld->act_img_url2md5;
-    #$bld->act_img_dpl;
-    $bld->act_img_fk;
+    $bld
+        #->act_img_url2md5_insert
+        #->act_img_dpl
+        ->act_img_fk
+        ->act_img_url2md5_select
+        ;
 
     return $bld;
 }
@@ -312,6 +402,7 @@ sub act_img_fk {
     my $imgman = $bld->{imgman};
     my $dbh_img = $imgman->{dbh};
 
+    print 'check foreign keys for img database' . "\n";
     dbh_do({
         dbh => $dbh_img,
         q => q{

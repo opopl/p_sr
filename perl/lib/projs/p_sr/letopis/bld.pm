@@ -276,6 +276,8 @@ sub act_img_url2md5_select {
     my $dbh_img = $imgman->{dbh};
     my $img_root = $imgman->{img_root};
 
+    my $tm_dir    = catfile($ENV{PLG}, qw( projs templates perl ));
+
     #my $dlm = "@" x 10;
     #my $q = sprintf(q{
                 #SELECT md5, group_concat(url, "%s") urls
@@ -294,23 +296,12 @@ sub act_img_url2md5_select {
     $md5_cond = @md5_m ? sprintf('WHERE I.md5 IN (%s)',join("," => map { qq{'$_'} } @md5_m) ) : '';
 
     #todo
-    $q = qq{
-            SELECT R.md5 AS md5, R.url AS url,
-                R.rowid,
-                md5_hex_utf(R.url) AS url_md5,
-                I.img AS img FROM
-                ( SELECT md5
-                     FROM url2md5 GROUP BY md5 HAVING COUNT(md5) > 1
-                     $limit_s
-                ) AS D
-            INNER JOIN url2md5 AS R
-            ON R.md5 = D.md5
-            INNER JOIN imgs AS I
-            ON I.md5 = D.md5
-            -- GROUP BY I.url
-            $md5_cond
-            ORDER BY I.md5
-            };
+    $q = Text::Template
+                ->new(SOURCE => catfile($tm_dir,qw( sql imgs.psql )))
+                ->fill_in(HASH => {
+                        md5_cond => $md5_cond,
+                        limit_s => $limit_s
+                 });
 
     my $ref_db = {
         dbh => $dbh_img,
@@ -327,8 +318,7 @@ sub act_img_url2md5_select {
     #$DB::single = 1;
 
     my $js_root   = catfile($ENV{REPOSGIT}, qw( js_root ));
-    my $tm_dir    = catfile($ENV{PLG}, qw( projs templates perl));
-    my $tm_file   = catfile($tm_dir, qw( imgs.tmpl ));
+    my $tm_file   = catfile($tm_dir, qw( html imgs.phtml ));
     my $tm = Text::Template->new(TYPE => 'FILE', SOURCE => $tm_file);
     my $vars = {
         rows => $rows,
@@ -338,7 +328,7 @@ sub act_img_url2md5_select {
     };
     my $html_imgs = $tm->fill_in(HASH => $vars);
 
-    my $tm_file_page =  catfile($tm_dir, qw( page.tmpl ));
+    my $tm_file_page =  catfile($tm_dir, qw( html page.phtml ));
 
     my $page_vars = {
        body => $html_imgs,
@@ -399,13 +389,14 @@ sub act_img_url2md5_insert {
 }
 
 sub act_img {
-    my ($bld) = @_;
+    my ($bld,$ref) = @_;
+    $ref ||= {};
 
     $bld
         #->act_img_url2md5_insert
         #->act_img_dpl
-        ->act_img_fk
-        ->act_img_url2md5_select
+        ->act_img_fk($ref)
+        ->act_img_url2md5_select($ref)
         ;
 
     return $bld;

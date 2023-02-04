@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-script="$P_SR/perl/web.pl"
+script="$P_SR/web.pl"
 
 if [[ $PERLDB ]]; then
   perl -d $script $*

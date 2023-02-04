@@ -24,6 +24,7 @@ my $jsn = JSON::XS->new->utf8->pretty->allow_nonref;
 my %n = (
    skip_get_opt => 1,
    act => 'web',
+   #root => $ENV{P_SR},
 );
 my $bld = projs::p_sr::letopis::bld->new(%n);
 
@@ -32,7 +33,7 @@ my $img_root = $imgman->{img_root};
 
 ### GET /
 get '/' => sub {
-    redirect '/act/img';
+    redirect '/act/img/html';
 };
 
 ### GET /img/raw/:inum
@@ -45,14 +46,10 @@ get '/img/raw/:inum' => sub {
     });
     my $img = $img_db->{img};
     my $img_file = catfile($img_root, $img);
-    print Dumper($img_file) . "\n";
-    print Dumper($img_db) . "\n";
     if (-f $img_file) {
         my $if = image_info($img_file);
         my $ct = sprintf($if->{file_media_type});
         response->content_type($ct) if $ct;
-        #print Dumper() . "\n";
-        $DB::single = 1;
         open( my $fh, $img_file ) || die "Can't Open $img_file\n";
         binmode($fh);
         my $buffer = "";
@@ -61,7 +58,6 @@ get '/img/raw/:inum' => sub {
             $out .= $buffer;
         }
         return $out;
-        #send_file($img_file);
     }
 };
 
@@ -78,7 +74,7 @@ get '/img/data/:inum' => sub {
 };
 
 ### GET /act/:act
-get '/act/:act' => sub {
+get '/act/:act/html' => sub {
     my $act = route_parameters->get('act');
     my $sub = sprintf(q{act_%s},$act);
     my $ref = {};

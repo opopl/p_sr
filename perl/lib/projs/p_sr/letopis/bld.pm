@@ -278,24 +278,27 @@ sub act_img_url2md5_select {
 
     my $tm_dir    = catfile($ENV{PLG}, qw( projs templates perl ));
 
-    #my $dlm = "@" x 10;
-    #my $q = sprintf(q{
-                #SELECT md5, group_concat(url, "%s") urls
-                #FROM url2md5 GROUP BY md5 HAVING COUNT(md5) > 1
-            #},$dlm);
-            #
+    my $y_file = catfile($bld->{root},qw(in img_url2md5_select.yaml ));
+    return $bld unless -f $y_file;
+
+    my $y_data = YAML::XS::LoadFile($y_file);
+
     my ($limit, $q);
 
     my $limit_s = $limit ? qq{ LIMIT $limit } : '';
-    my ($md5_cond, @md5_m);
+    my ($md5_cond, @md5_cond_and);
 
-    push @md5_m,
-        '00dd5a944ab7d34de01b48602c9c9848',
-        '01119fc00151fef54e8d1eb802e48791',
-        ;
-    $md5_cond = @md5_m ? sprintf('WHERE I.md5 IN (%s)',join("," => map { qq{'$_'} } @md5_m) ) : '';
-
+    my @md5_exclude = @{$y_data->{md5_exclude} || []};
+    my @md5_include = @{$y_data->{md5_include} || []};
     #todo
+
+    push @md5_cond_and, sprintf('I.md5 NOT IN (%s)',join("," => map { qq{'$_'} } @md5_exclude) )
+        if @md5_exclude;
+    push @md5_cond_and, sprintf('I.md5 IN (%s)',join("," => map { qq{'$_'} } @md5_include) )
+        if @md5_include;
+    $md5_cond = join(" AND ", map { qq{( $_ )} } @md5_cond_and) if @md5_cond_and;
+    $md5_cond = 'WHERE ' . $md5_cond if $md5_cond;
+
     $q = Text::Template
                 ->new(SOURCE => catfile($tm_dir,qw( sql imgs.psql )))
                 ->fill_in(HASH => {
@@ -323,7 +326,7 @@ sub act_img_url2md5_select {
     my $vars = {
         rows => $rows,
         #dlm => $dlm,
-        cols => [qw( rowid md5 url img )],
+        cols => [qw( rowid inum md5 url img )],
         img_root => $img_root,
     };
     my $html_imgs = $tm->fill_in(HASH => $vars);

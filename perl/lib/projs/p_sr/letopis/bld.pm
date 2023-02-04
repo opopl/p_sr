@@ -17,6 +17,7 @@ use File::Copy qw(copy);
 use File::Slurp::Unicode qw(
   write_file
 );
+use Encode qw(encode);
 
 use Data::Dumper qw(Dumper);
 use DateTime;
@@ -268,7 +269,8 @@ sub act_fill_vojna {
 
 
 sub act_img_url2md5_select {
-    my ($bld) = @_;
+    my ($bld, $ref) = @_;
+    $ref ||= {};
 
     my $imgman = $bld->{imgman};
     my $dbh_img = $imgman->{dbh};
@@ -286,12 +288,17 @@ sub act_img_url2md5_select {
     my ($md5_cond, @md5_m);
 
     push @md5_m,
-        #'00dd5a944ab7d34de01b48602c9c9848'
+        '00dd5a944ab7d34de01b48602c9c9848',
+        '01119fc00151fef54e8d1eb802e48791',
         ;
     $md5_cond = @md5_m ? sprintf('WHERE I.md5 IN (%s)',join("," => map { qq{'$_'} } @md5_m) ) : '';
 
+    #todo
     $q = qq{
-            SELECT I.md5 AS md5, I.url AS url, I.img AS img FROM
+            SELECT R.md5 AS md5, R.url AS url,
+                R.rowid,
+                md5_hex_utf(R.url) AS url_md5,
+                I.img AS img FROM
                 ( SELECT md5
                      FROM url2md5 GROUP BY md5 HAVING COUNT(md5) > 1
                      $limit_s
@@ -305,13 +312,19 @@ sub act_img_url2md5_select {
             ORDER BY I.md5
             };
 
-    my $ref = {
+    my $ref_db = {
         dbh => $dbh_img,
         q => $q,
         p => [],
     };
 
-    my ($rows) = dbh_select($ref);
+    my ($rows) = eval { dbh_select($ref_db); };
+    if ($@) {
+        warn $@;
+        return $bld;
+    }
+    #print Dumper($rows) . "\n";
+    #$DB::single = 1;
 
     my $js_root   = catfile($ENV{REPOSGIT}, qw( js_root ));
     my $tm_dir    = catfile($ENV{PLG}, qw( projs templates perl));
@@ -320,7 +333,7 @@ sub act_img_url2md5_select {
     my $vars = {
         rows => $rows,
         #dlm => $dlm,
-        cols => [qw( md5 url img )],
+        cols => [qw( rowid md5 url img )],
         img_root => $img_root,
     };
     my $html_imgs = $tm->fill_in(HASH => $vars);
@@ -335,13 +348,15 @@ sub act_img_url2md5_select {
                 ->new(SOURCE => $tm_file_page)
                 ->fill_in(HASH => $page_vars)
                 ;
-    #todo
     #$imgman->_db_img_one({ where => { md5 => $md5 }});
 
     $DB::single = 1;
     my $html_dir = catfile(@{$bld}{qw( htmlout rootid proj )}, qw(tmp));
     mkpath $html_dir unless -d $html_dir;
     my $html_file = catfile($html_dir, qw( img.html ));
+
+    $ref->{res} ||= $html;
+    $ref->{status} = 200;
 
     write_file($html_file, $html);
     #my $html_dir = catfile($ENV{HTMLOUT},$);

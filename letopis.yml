@@ -47,11 +47,9 @@ target_conf:
                 tab: 'cols=3,no_fig,center,separate'
               output: 'pic @@{url}'
               query: '
-                      SELECT i.url FROM url2md5 um
-                      INNER JOIN imgs AS i
-                      ON um.md5 = i.md5
+                      SELECT um.url FROM url2md5 um
                       INNER JOIN _info_imgs_tags AS inf
-                      ON i.url = inf.url
+                      ON um.url = inf.url
                       WHERE inf.tag IN ("ui.import")
                       AND um.sec = "$matched{section}"
                       '

@@ -46,11 +46,14 @@ target_conf:
               cmt:
                 tab: 'cols=3,no_fig,center,separate'
               output: 'pic @@{url}'
-              query: 'SELECT imgs.url FROM imgs
+              query: '
+                      SELECT i.url FROM url2md5 um
+                      INNER JOIN imgs AS i
+                      ON um.md5 = i.md5
                       INNER JOIN _info_imgs_tags AS inf
-                      ON imgs.url = inf.url
+                      ON i.url = inf.url
                       WHERE inf.tag IN ("ui.import")
-                      AND imgs.sec = "$matched{section}"
+                      AND um.sec = "$matched{section}"
                       '
          '$matched{section}.orig' :
             txt:

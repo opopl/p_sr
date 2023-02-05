@@ -14,6 +14,7 @@ use Image::Info qw(
     image_type
 );
 use Image::ExifTool qw(ImageInfo);
+use Text::Template;
 
 #set serializer => 'JSON';
 set 'logger'       => 'console';
@@ -30,6 +31,29 @@ my $bld = projs::p_sr::letopis::bld->new(%n);
 
 my $imgman = $bld->{imgman};
 my $img_root = $imgman->{img_root};
+
+my $tm_dir         = catfile($ENV{PLG}, qw( projs templates perl ));
+my $tm_file_page   = catfile($tm_dir, qw( html page.phtml ));
+
+sub tmpl_render { 
+    my ($tmpl, $data) = @_;
+
+    my $tfile = catfile($tm_dir, qw(html), $tmpl);
+
+    my $body = Text::Template
+        ->new(SOURCE => $tfile)
+        ->fill_in(HASH => $data);
+
+	my $page_vars = {
+	    body => $body,
+	};
+
+    my $html_full = Text::Template
+        ->new(SOURCE => $tm_file_page)
+        ->fill_in(HASH => $page_vars);
+
+    return $html_full;
+}
 
 ### GET /
 get '/' => sub {

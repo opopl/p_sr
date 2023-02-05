@@ -372,7 +372,8 @@ sub act_img_url2md5_insert {
          );
 
          PRAGMA foreign_keys=ON;
-         INSERT OR IGNORE INTO url2md5
+         -- INSERT OR IGNORE INTO url2md5
+         INSERT OR REPLACE INTO url2md5
          SELECT url, md5, sec, proj FROM imgs WHERE url IS NOT NULL AND md5 IS NOT NULL;
     };
 

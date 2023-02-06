@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+off-perl-db
+prj-bld letopis bld_delrun
+on-perl-db
+prj-bld letopis join -t $t

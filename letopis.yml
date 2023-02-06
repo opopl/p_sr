@@ -19,6 +19,10 @@ targets:
 target_conf:
 
   '^_buf\.(?<section>(?<day>\d+)_(?<month>\d+)_(?<year>\d+)\.(\S+))$':
+    patch@:
+       'sii@generate@on@$matched{section}.pic.ui_import' : 1
+       'sii@generate@on@$matched{section}.orig' : 1
+       'sii@generate@on@$matched{section}.cmtx' : 1
     patch:
        #'run_tex.cmd.tex.interaction' : 'errorstopmode'
        'vars.layout.tabcont' : 0
@@ -32,11 +36,6 @@ target_conf:
        - '$matched{section}.cmt'
        - '$matched{section}.orig'
        - '$matched{section}.cmtx'
-
-       'sii.generate.on':
-         '$matched{section}.pic.ui_import' : 1
-         '$matched{section}.orig' : 1
-         '$matched{section}.cmtx' : 1
 
        'sii.scts':
          '$matched{section}.pic.ui_import' :

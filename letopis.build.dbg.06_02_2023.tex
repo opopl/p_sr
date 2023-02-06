@@ -1,0 +1,50 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file build.dbg.06_02_2023
+%%parent build.dbg
+ 
+%%url 
+ 
+%%author_id 
+%%date 
+ 
+%%tags 
+%%title 
+ 
+%%endhead 
+
+20:02:30 06-02-23
+
+x varval('sii.generate.on',$bld)
+
+0  HASH(0x55595c9734d8)
+   '01_01_2023.fb.hazhilenko_ksenia.kyiv.1.z_novim.pic.cmtx' => 1
+   '01_01_2023.fb.hazhilenko_ksenia.kyiv.1.z_novim.pic.orig' => 1
+   '01_01_2023.fb.hazhilenko_ksenia.kyiv.1.z_novim.pic.ui_import' => 1
+   '_main_' => 1
+   'index' => 1
+   'listfigs' => 1
+   'listtabs' => 1
+   'preamble' => 1
+   'preamble.fancyhdr' => 1
+   'preamble.filecontents' => 1
+   'preamble.index' => 1
+   'preamble.packages' => 1
+   'tabcont' => 1
+
+  DB<2> x varval('sii.scts._main_.ii.inner.body', $bld)
+0  ARRAY(0x55595c978380)
+   0  '01_01_2023.fb.hazhilenko_ksenia.kyiv.1.z_novim'
+   1  '01_01_2023.fb.hazhilenko_ksenia.kyiv.1.z_novim.pic.ui_import'
+   2  '01_01_2023.fb.hazhilenko_ksenia.kyiv.1.z_novim.cmt'
+   3  '01_01_2023.fb.hazhilenko_ksenia.kyiv.1.z_novim.orig'
+   4  '01_01_2023.fb.hazhilenko_ksenia.kyiv.1.z_novim.cmtx'
+
+
+	 ??
+DB<2> x varval('sii.scts', $bld)
+
+  DB<8> x varval('sii@scts@01_01_2023.fb.hazhilenko_ksenia.kyiv.1.z_novim.ui_import', $bld, '', '@')
+0  ''
+  DB<9> x varval('sii@scts@01_01_2023.fb.hazhilenko_ksenia.kyiv.1.z_novim.pic.ui_import', $bld, '', '@')

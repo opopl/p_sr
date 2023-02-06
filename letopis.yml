@@ -29,6 +29,10 @@ target_conf:
        'opts_maker@join_lines@ii@exclude@$matched{section}.pic.ui_import' : 0
 
     patch:
+       'vars.img.gen.ui_import.tab.cols' : 2
+       'vars.img.gen.orig.tab.cols' : 2
+       'vars.img.gen.cmtx.tab.cols' : 3
+
        #'run_tex.cmd.tex.interaction' : 'errorstopmode'
        'vars.layout.tabcont' : 0
        'vars.layout.indexing' : 0
@@ -48,7 +52,7 @@ target_conf:
             - type: sql
               db: 'img'
               cmt:
-                tab: 'cols=3,no_fig,center,separate'
+                tab: 'cols=@var{img.gen.ui_import.tab.cols},no_fig,center,separate'
               output: 'pic @@{url}'
               query: '
                       SELECT um.url FROM url2md5 um
@@ -66,7 +70,7 @@ target_conf:
             - type: sql
               db: 'img'
               cmt:
-                tab: 'cols=3,no_fig,center,separate'
+                tab: 'cols=@var{img.gen.orig.tab.cols},no_fig,center,separate'
               output: 'pic @@{url}'
               query: 'SELECT DISTINCT imgs.url FROM imgs
                       INNER JOIN _info_imgs_tags AS inf1
@@ -88,7 +92,7 @@ target_conf:
             - type: sql
               db: 'img'
               cmt:
-                tab: 'cols=3,no_fig,center,separate'
+                tab: 'cols=@var{img.gen.cmtx.tab.cols},no_fig,center,separate'
               output: 'pic @@{url}'
               query: 'SELECT DISTINCT imgs.url FROM imgs
                       INNER JOIN _info_imgs_tags AS inf1

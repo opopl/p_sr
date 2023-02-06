@@ -23,6 +23,11 @@ target_conf:
        'sii@generate@on@$matched{section}.pic.ui_import' : 1
        'sii@generate@on@$matched{section}.orig' : 1
        'sii@generate@on@$matched{section}.cmtx' : 1
+
+       'opts_maker@join_lines@ii@exclude@$matched{section}.cmtx' : 0
+       'opts_maker@join_lines@ii@exclude@$matched{section}.orig' : 0
+       'opts_maker@join_lines@ii@exclude@$matched{section}.pic.ui_import' : 0
+
     patch:
        #'run_tex.cmd.tex.interaction' : 'errorstopmode'
        'vars.layout.tabcont' : 0

@@ -28,6 +28,8 @@ target_conf:
        'opts_maker/join_lines/ii/exclude/$matched{section}.orig' : 0
        'opts_maker/join_lines/ii/exclude/$matched{section}.pic.ui_import' : 0
 
+       'opts_maker/processor/_d2tex/caption/numbering' : 0
+
     patch:
        'vars.img.gen.ui_import.tab.cols' : 3
        'vars.img.gen.orig.tab.cols' : 3
@@ -35,6 +37,8 @@ target_conf:
 
        'vars.img.gen.sql.ui_import.limit' : 2
        'vars.img.gen.sql.ui_import.offset' : 10
+
+       'vars.img.gen.ui_import.tab.layout' : '3.2'
 
        #'run_tex.cmd.tex.interaction' : 'errorstopmode'
        'vars.layout.tabcont' : 0
@@ -60,7 +64,7 @@ target_conf:
                 - 'no_fig'
                 - 'center'
                 - 'separate'
-                - 'layout=3.2'
+                - 'layout=@var{img.gen.ui_import.tab.layout}'
               output: 'pic @@{url}'
               query: '
                       SELECT um.url FROM url2md5 um

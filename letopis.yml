@@ -59,6 +59,10 @@ target_conf:
             - type: sql
               db: 'img'
               cmt:
+                single:
+                  opts:
+                    '@wrap' : center
+                    '@width' : 0.8
                 tab:
                 - 'cols=@var{img.gen.ui_import.tab.cols}'
                 - 'no_fig'
@@ -84,6 +88,10 @@ target_conf:
             - type: sql
               db: 'img'
               cmt:
+                single:
+                  opts:
+                    '@wrap' : center
+                    '@width' : 0.8
                 tab: 'cols=@var{img.gen.orig.tab.cols},no_fig,center,separate'
               output: 'pic @@{url}'
               query: 'SELECT DISTINCT imgs.url FROM imgs
@@ -106,6 +114,10 @@ target_conf:
             - type: sql
               db: 'img'
               cmt:
+                single:
+                  opts:
+                    '@wrap' : center
+                    '@width' : 0.8
                 tab: 'cols=@var{img.gen.cmtx.tab.cols},no_fig,center,separate'
               output: 'pic @@{url}'
               query: 'SELECT DISTINCT imgs.url FROM imgs

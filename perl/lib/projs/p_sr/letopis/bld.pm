@@ -357,6 +357,43 @@ sub act_img_url2md5_select {
     return $bld;
 }
 
+sub act_img_url2md5_mtime {
+    my ($bld) = @_;
+
+    my $imgman = $bld->{imgman};
+    my $dbh_img = $imgman->{dbh};
+
+    #my $q = q{
+        #INSERT INTO url2md5 
+        #SELECT umo.url, umo.md5, umo.sec, umo.proj, i.mtime FROM url2md5_old umo
+        #INNER JOIN imgs i
+        #ON umo.md5 = i.md5
+    #};
+#    my $q = q{
+        #INSERT INTO url2md5 
+        #SELECT umo.url, umo.md5, umo.sec, umo.proj, i.mtime FROM url2md5_old umo
+        #INNER JOIN imgs i
+        #ON umo.md5 = i.md5
+    #};
+
+    #dbh_do({
+        #dbh => $dbh_img,
+        #q => $q,
+        #p => [],
+    #});
+    
+    my ($rows) = dbh_select({ 
+        dbh => $dbh_img,
+        #q => q{ SELECT COUNT(*) FROM imgs WHERE mtime IS NULL },
+        #q => q{ SELECT COUNT(*) FROM imgs WHERE mtime IS NULL },
+        q => q{ SELECT catfile(env('IMG_ROOT'),img) from imgs limit 1},
+        p => [],
+    });
+    print Dumper($rows) . "\n";
+
+    return $bld;
+}
+
 
 sub act_img_url2md5_insert {
     my ($bld) = @_;
@@ -397,7 +434,8 @@ sub act_img {
     $ref ||= {};
 
     $bld
-        ->act_img_url2md5_insert
+        ->act_img_url2md5_mtime
+        #->act_img_url2md5_insert
         #->act_img_dpl
         #->act_img_fk($ref)
         #->act_img_url2md5_select($ref)

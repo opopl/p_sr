@@ -35,10 +35,9 @@ target_conf:
        'vars.img.gen.orig.tab.cols' : 3
        'vars.img.gen.cmtx.tab.cols' : 3
 
-       'vars.img.gen.sql.ui_import.limit' : 2
-       'vars.img.gen.sql.ui_import.offset' : 10
-
-       'vars.img.gen.ui_import.tab.layout' : '3.2'
+       'vars.img.gen.sql.ui_import.limit' : 0
+       'vars.img.gen.sql.ui_import.offset' : 0
+       #'vars.img.gen.ui_import.tab.layout' : '3.2'
 
        #'run_tex.cmd.tex.interaction' : 'errorstopmode'
        'vars.layout.tabcont' : 0
@@ -64,11 +63,11 @@ target_conf:
                     '@wrap' : center
                     '@width' : 0.8
                 tab:
-                - 'cols=@var{img.gen.ui_import.tab.cols}'
+                - cols : '@var{img.gen.ui_import.tab.cols}'
                 - 'no_fig'
                 - 'center'
                 - 'separate'
-                - 'layout=@var{img.gen.ui_import.tab.layout}'
+                - layout : '@var{img.gen.ui_import.tab.layout}'
               output: 'pic @@{url}'
               query: '
                       SELECT um.url FROM url2md5 um

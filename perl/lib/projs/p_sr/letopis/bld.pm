@@ -364,13 +364,13 @@ sub act_img_url2md5_mtime {
     my $dbh_img = $imgman->{dbh};
 
     #my $q = q{
-        #INSERT INTO url2md5 
+        #INSERT INTO url2md5
         #SELECT umo.url, umo.md5, umo.sec, umo.proj, i.mtime FROM url2md5_old umo
         #INNER JOIN imgs i
         #ON umo.md5 = i.md5
     #};
 #    my $q = q{
-        #INSERT INTO url2md5 
+        #INSERT INTO url2md5
         #SELECT umo.url, umo.md5, umo.sec, umo.proj, i.mtime FROM url2md5_old umo
         #INNER JOIN imgs i
         #ON umo.md5 = i.md5
@@ -381,15 +381,84 @@ sub act_img_url2md5_mtime {
         #q => $q,
         #p => [],
     #});
-    
-    my ($rows) = dbh_select({ 
-        dbh => $dbh_img,
+    #
+#    dbh_do({
+        #dbh => $dbh_img,
+        #q => q{
+                #-- DROP VIEW IF EXISTS ii;
+                #-- CREATE VIEW IF NOT EXISTS vfs AS
+                   #-- SELECT catfile(env('IMG_ROOT'),img) img_file, md5, url FROM imgs;
+
+                #update imgs
+                #set mtime = file_mtime(catfile(env('IMG_ROOT'),img))
+                #where mtime is null
+        #},
+        #p => [],
+    #});
+    #
+#    dbh_do({
+        #dbh => $dbh_img,
+        #q => q{
+            #-- insert into url2md5
+            #-- select url, md5, mtime, sec, proj
+            #-- from imgs;
+
+            #insert into url2md5
+            #select
+                #umo.url url,
+                #umo.md5 md5,
+                #i.mtime mtime,
+                #umo.sec sec,
+                #umo.proj proj
+              #from url2md5_old
+                   #umo
+              #inner join imgs
+                         #i
+              #on umo.md5 = i.md5
+            #on conflict(url) do update set mtime=excluded.mtime
+        #},
+        #p => [],
+    #});
+
+#todo
+    #my ($rows) = dbh_select({
+        #dbh => $dbh_img,
         #q => q{ SELECT COUNT(*) FROM imgs WHERE mtime IS NULL },
+#        q => q{
+            #select
+                #umo.url url,
+                #umo.md5 md5,
+                #i.mtime mtime,
+                #umo.sec sec,
+                #umo.proj proj
+              #from url2md5_old AS umo
+              #inner join imgs AS i
+              #on umo.md5 = i.md5
+              #limit 10
+        #}
         #q => q{ SELECT COUNT(*) FROM imgs WHERE mtime IS NULL },
-        q => q{ SELECT catfile(env('IMG_ROOT'),img) from imgs limit 1},
-        p => [],
-    });
-    print Dumper($rows) . "\n";
+   #     q => q{
+                #SELECT
+                    #vfs.md5,
+                    #file_mtime(img_file) mtime_fs,
+                    #file_stat(img_file,'ctime') ctime_fs,
+                    #i.mtime mtime_db
+                #FROM vfs
+                #INNER JOIN imgs i
+                #ON i.md5 = vfs.md5
+                #-- WHERE i.mtime is not mtime_fs and i.mtime is not null
+                #WHERE ctime_fs > mtime_fs
+                #LIMIT 10
+
+                #-- SELECT catfile(env('IMG_ROOT'),img) img_file FROM imgs
+                #-- LIMIT 1
+                #-- from imgs
+                #-- where not is_file(img_file)
+
+                #},
+        #p => [],
+    #});
+    #print Dumper($rows) . "\n";
 
     return $bld;
 }

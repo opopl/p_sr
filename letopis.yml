@@ -75,6 +75,7 @@ target_conf:
                       ON um.url = inf.url
                       WHERE inf.tag IN ("ui.import")
                       AND um.sec = "$matched{section}"
+                      ORDER BY um.mtime
                       @ifvar{img.gen.sql.ui_import.limit}{ LIMIT @val }
                       @ifvar{img.gen.sql.ui_import.offset}{ OFFSET @val }
                       '

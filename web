@@ -1,9 +1,3 @@
 #!/usr/bin/env bash
 
-script="$P_SR/web.pl"
-
-if [[ $PERLDB ]]; then
-  perl -d $script $*
-else
-  perl $script $*
-fi
+prj-bld letopis web

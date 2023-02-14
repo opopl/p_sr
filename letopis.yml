@@ -159,6 +159,9 @@ patch:
 
   'tex4ht.cfg.vars.url.blank' : 0
 
+  'vars.layout.tabcont' : 0
+  'vars.layout.indexing' : 0
+
   #'tex4ht.cfg.vars.preamble' :
      #frames : 1
      #next : 'next'

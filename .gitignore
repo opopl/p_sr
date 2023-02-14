@@ -1,3 +1,5 @@
+public/js/dist
+public/node_modules
 *.bk
 bld.db
 err.tex

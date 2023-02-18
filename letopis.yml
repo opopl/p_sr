@@ -21,17 +21,21 @@ target_conf:
   '^_buf\.(?<section>(?<day>\d+)_(?<month>\d+)_(?<year>\d+)\.(\S+))$':
     patch/:
        'sii/generate/on/$matched{section}.pic.ui_import' : 1
+       'sii/generate/on/$matched{section}.video' : 1
        'sii/generate/on/$matched{section}.orig' : 1
        'sii/generate/on/$matched{section}.cmtx' : 1
 
        'opts_maker/join_lines/ii/exclude/$matched{section}.cmtx' : 0
        'opts_maker/join_lines/ii/exclude/$matched{section}.orig' : 0
+
        'opts_maker/join_lines/ii/exclude/$matched{section}.pic.ui_import' : 0
+       'opts_maker/join_lines/ii/exclude/$matched{section}.video' : 0
 
        'opts_maker/processor/_d2tex/caption/numbering' : 0
 
     patch:
        'vars.img.gen.ui_import.tab.cols' : 3
+       'vars.img.gen.video.tab.cols' : 3
        'vars.img.gen.orig.tab.cols' : 3
        'vars.img.gen.cmtx.tab.cols' : 3
 
@@ -48,6 +52,7 @@ target_conf:
 
        'sii.scts._main_.ii.inner.body @push':
        - '$matched{section}.pic.ui_import'
+       - '$matched{section}.video'
        - '$matched{section}.cmt'
        - '$matched{section}.orig'
        - '$matched{section}.cmtx'
@@ -79,6 +84,33 @@ target_conf:
                       @ifvar{img.gen.sql.ui_import.limit}{ LIMIT @val }
                       @ifvar{img.gen.sql.ui_import.offset}{ OFFSET @val }
                       '
+         '$matched{section}.video' :
+            txt:
+              header:
+                - '\qqSecVideo'
+            contents:
+            - '@txt.header'
+            - type: sql
+              db: 'img'
+              cmt:
+                single:
+                  opts:
+                    '@wrap' : center
+                    '@width' : 0.8
+                tab: 'cols=@var{img.gen.video.tab.cols},no_fig,center,separate'
+              output: 'pic @@{url}'
+              query: 'SELECT DISTINCT imgs.url FROM imgs
+                      INNER JOIN _info_imgs_tags AS inf1
+                      ON imgs.url = inf1.url
+                      INNER JOIN _info_imgs_tags AS inf2
+                      ON imgs.url = inf2.url
+                      WHERE
+                        inf1.tag = "scrn"
+                        AND inf2.tag = "orig.video"
+                        AND imgs.sec = "$matched{section}"
+                      ORDER BY imgs.mtime
+                      '
+
          '$matched{section}.orig' :
             txt:
               header:

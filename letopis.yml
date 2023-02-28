@@ -29,7 +29,7 @@ target_conf:
        'opts_maker/join_lines/ii/exclude/$matched{section}.orig' : 0
 
        'opts_maker/join_lines/ii/exclude/$matched{section}.pic.ui_import' : 0
-       'opts_maker/join_lines/ii/exclude/$matched{section}.video' : 1
+       'opts_maker/join_lines/ii/exclude/$matched{section}.video' : 0
 
        'opts_maker/processor/_d2tex/caption/numbering' : 0
 

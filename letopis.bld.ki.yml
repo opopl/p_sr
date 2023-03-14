@@ -13,14 +13,14 @@ patch:
   - select:
       dbg: 1
       '@op' : 'or' 
-      limit: 50
+      limit: 2
       author_id:
         and:
         - 'fb_group.story_kiev_ua'
-        - 'denisova_oksana.kiev.ukraina.gid'
+        #- 'denisova_oksana.kiev.ukraina.gid'
   - select:
       dbg: 1
-      limit: 10
+      limit: 2
       tags:
         and:
         - 'kiev'

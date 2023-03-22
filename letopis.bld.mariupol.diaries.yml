@@ -1,0 +1,16 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 3
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+patch:
+  'sii.scts._main_.ii.inner.body':
+  - 'mariupol.diaries'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0

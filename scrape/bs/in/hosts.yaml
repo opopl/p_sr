@@ -1,6 +1,11 @@
 
 ###news.ua
 #
+#
+'mrpl.city' : { 
+    'site' : 'news.ua.mrpl_city',
+    'author' : { 'name' : 'MRPL.CITY' } 
+}
 
 'visnyk.lutsk.ua' : { 'site' : 'news.ua.luck.visnyk' }
 'focus.ua' : { 'site' : 'news.ua.focus' }

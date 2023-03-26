@@ -9,6 +9,11 @@ decs:
   om_iall : 1
 
 patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 1
+  'opts_maker.join_lines.ii.exclude' :
+      index : 0
+
   'sii.scts._main_.ii.inner.body':
   - select:
       dbg: 1

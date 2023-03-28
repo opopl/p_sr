@@ -2,47 +2,52 @@
 ###news.ua
 #
 #
-'mrpl.city' : { 
+'mrpl.city' : {
     'site' : 'news.ua.mrpl_city',
-    'author' : { 'name' : 'MRPL.CITY' } 
+    'author' : { 'name' : 'MRPL.CITY' }
+}
+
+'0629.com.ua' : {
+    'site' : 'news.ua.mrpl.0629',
+    'author' : { 'name' : '0629.com.ua - Сайт Міста Маріуполь' }
 }
 
 'visnyk.lutsk.ua' : { 'site' : 'news.ua.luck.visnyk' }
 'focus.ua' : { 'site' : 'news.ua.focus' }
 'gorlovka.ua' : { 'site' : 'news.ua.gorlovka' }
 'pravyysektor.info' : { 'site' : 'news.ua.pravyj_sektor' }
-'slovoprosvity.org' : { 'site' : 'news.ua.slovoprosvity' } 
-'zrada.org' : { 'site' : 'news.ua.zrada' } 
-'nv.ua' : { 'site' : 'news.ua.nv' } 
-'kp.ua' : { 'site' : 'news.ua.kpua' } 
-'news2ua.com' : { 'site' : 'news.ua.news24ua' } 
-'umoloda.kyiv.ua,umoloda.kiev.ua' : { 'site' : 'news.ua.umoloda' } 
-'hromadske.ua' : { 'site' : 'news.ua.hromadske' } 
-'nash.live' : { 'site' : 'news.ua.nash' } 
-'segodnya.ua' : { 'site' : 'news.ua.segodnya' } 
-'vesti.ua' : { 'site' : 'news.ua.vesti_ua' } 
-'ukrmir.info' : { 'site' : 'news.ua.ukrmir' } 
-'www.citynews.net.ua' : { 'site' : 'news.ua.citynews' } 
+'slovoprosvity.org' : { 'site' : 'news.ua.slovoprosvity' }
+'zrada.org' : { 'site' : 'news.ua.zrada' }
+'nv.ua' : { 'site' : 'news.ua.nv' }
+'kp.ua' : { 'site' : 'news.ua.kpua' }
+'news2ua.com' : { 'site' : 'news.ua.news24ua' }
+'umoloda.kyiv.ua,umoloda.kiev.ua' : { 'site' : 'news.ua.umoloda' }
+'hromadske.ua' : { 'site' : 'news.ua.hromadske' }
+'nash.live' : { 'site' : 'news.ua.nash' }
+'segodnya.ua' : { 'site' : 'news.ua.segodnya' }
+'vesti.ua' : { 'site' : 'news.ua.vesti_ua' }
+'ukrmir.info' : { 'site' : 'news.ua.ukrmir' }
+'www.citynews.net.ua' : { 'site' : 'news.ua.citynews' }
 'zbruc.eu' : { 'site' : 'news.ua.zbruc' }
 'golospravdy.eu' : { 'site' : 'news.ua.golospravdy' }
-'ctrana.online,strana.ua,strana.news,strana.digital,strana.today' : { 
+'ctrana.online,strana.ua,strana.news,strana.digital,strana.today' : {
   'site' : 'news.ua.strana',
-  'author' : { 'name' : 'Страна УА (Україна)' } 
+  'author' : { 'name' : 'Страна УА (Україна)' }
 }
-'gazeta.ua': { 'site' : 'news.ua.gazeta' } 
+'gazeta.ua': { 'site' : 'news.ua.gazeta' }
 'obozrevatel.com' : { 'site' : 'news.ua.oboz' }
 'www.radiosvoboda.org,ru.krymr.com' : { 'site' : 'news.ua.radiosvoboda' }
-'pravda.com.ua,eurointegration.com.ua' : { 
+'pravda.com.ua,eurointegration.com.ua' : {
   'site' : 'news.ua.pravda',
-  'author' : { 'name' : 'Українська Правда' } 
+  'author' : { 'name' : 'Українська Правда' }
 }
 'lb.ua' : { 'site' : 'news.ua.lb' }
 'imi.org.ua' : { 'site' : 'news.ua.imi' }
 'fakty.ua' : { 'site' : 'news.ua.fakty' }
 
-'day.kiev.ua,day.kyiv.ua' : { 
-    'site' : 'news.ua.den', 
-    'author' : { 'name' : 'Газета День (Україна)' } 
+'day.kiev.ua,day.kyiv.ua' : {
+    'site' : 'news.ua.den',
+    'author' : { 'name' : 'Газета День (Україна)' }
 }
 
 'zaxid.net' : { 'site' : 'news.ua.zaxid' }
@@ -84,7 +89,7 @@
 'tut.by' : { 'site' : 'news.by.tut' }
 
 ###kiev
-'bigkyiv.com.ua' : { 
+'bigkyiv.com.ua' : {
   'site' : 'kiev.bigkyiv',
   'author' : { 'name' : 'Великий Київ' }
 }
@@ -103,10 +108,10 @@
 'syktyvkar.1istochnik.ru' : { 'site' : 'news.ru.syktyvkar.pervoistochnik' }
 'les.media' : { 'site' : 'news.ru.lesmedia' }
 'rg.ru' : { 'site' : 'news.ru.rg' }
-'echo.msk.ru' : { 
+'echo.msk.ru' : {
   'site' : 'news.ru.eho_moskvy',
-  'author' : { 'name' : 'Эхо Москвы' } 
- } 
+  'author' : { 'name' : 'Эхо Москвы' }
+ }
 
 # pravda rossii
 'news24ru.net' : { 'site' : 'news.ru.news24ru' }
@@ -116,8 +121,8 @@
 'tochka.press' : { 'site' : 'news.ru.tochka_press' }
 'odnarodyna.org' : { 'site' : 'news.ru.odnarodyna' }
 
-'gazeta.ru': { 'site' : 'news.ru.gzt' } 
-'topwar.ru': { 'site' : 'news.ru.topwar' } 
+'gazeta.ru': { 'site' : 'news.ru.gzt' }
+'topwar.ru': { 'site' : 'news.ru.topwar' }
 
 # vashi novosti
 'vnnews.ru' : { 'site' : 'news.ru.vashi_novosti' }
@@ -232,7 +237,7 @@
 ###kultura.lnr
 'theaterluspekaev.com' : { 'site' : 'kultura.lnr.lardt' }
 'filarmonia64.com' : { 'site' : 'kultura.lnr.filarmonia' }
-'teatrnaoboronny.ru' : { 'site' : 'kultura.lnr.laymdt'} 
+'teatrnaoboronny.ru' : { 'site' : 'kultura.lnr.laymdt'}
 
 ###vera
 'pravoslavie.ru' : { 'site' : 'vera.ru.pravoslavie' }
@@ -256,7 +261,7 @@
 
 ###pc
 
-'dou.ua' : { 
+'dou.ua' : {
    'site' : 'pc.ua.dou',
    'author' : { 'name' : 'Спільнота програмістів DOU.ua' },
 }
@@ -283,8 +288,8 @@
 'vk.com' : { 'site' : 'vkontakte', 'prefii' : 'vk' }
 
 ###news.us
-'apnews.com' : { 
+'apnews.com' : {
   'site' : 'news.us.ap',
-  'author' : { 'name' : 'The Associated Press (United States)' } 
+  'author' : { 'name' : 'The Associated Press (United States)' }
 }
 

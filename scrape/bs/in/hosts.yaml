@@ -12,6 +12,11 @@
     'author' : { 'name' : '0629.com.ua - Сайт Міста Маріуполь' }
 }
 
+'svoi.city' : {
+    'site' : 'news.ua.svoi_city',
+    'author' : { 'name' : 'СВОЇ.CITY - онлайн-журнал' }
+}
+
 'visnyk.lutsk.ua' : { 'site' : 'news.ua.luck.visnyk' }
 'focus.ua' : { 'site' : 'news.ua.focus' }
 'gorlovka.ua' : { 'site' : 'news.ua.gorlovka' }

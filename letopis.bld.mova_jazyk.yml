@@ -11,6 +11,9 @@ decs:
 opts_maker:
   join_lines:
 
+run_tex:
+  shell: system
+
 patch:
   'sii.scts._main_.ii.inner.body':
   - 'topics.mova_jazyk.2021'

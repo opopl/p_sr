@@ -1,0 +1,10 @@
+
+
+vars:
+  img_root: '@env{IMG_ROOT}'
+
+targets:
+  exclude:
+  include:
+  - '_all_'
+

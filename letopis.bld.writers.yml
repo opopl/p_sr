@@ -1,0 +1,18 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 3
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+    include_below: 'section'
+
+patch:
+  'sii.scts._main_.ii.inner.body':
+  - 'writers'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+

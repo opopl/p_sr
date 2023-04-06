@@ -197,6 +197,7 @@ patch:
   'sii.ctl.Sct._sct_lines.loop.ii' :
       foreach_ii_sec:
         match: '^(?<section>(?<day>\d+)_(?<month>\d+)_(?<year>\d+)\.(\S+))$'
+        target_not_buf: 1
         insert:
           after:
           - 'pic.ui_import'

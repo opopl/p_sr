@@ -1,7 +1,7 @@
 
 vars:
   pagestyle: fancy
-  toc_depth: 3
+  toc_depth: 2
 
 decs:
   om_iall : 1
@@ -44,7 +44,6 @@ patch:
 
   - '16_03_2023.fb.kotelnikova_ganna.mariupol.1.r_k_bez_domu__r_k_be'
   - '27_01_2023.fb.peres_olga.1.svidetelstva__mariup'
-  - '27_02_2023.fb.miroshnichenko_mihail.mariupol.1.27_02_22_4_den__vosk'
 
   - '27_02_2023.fb.krutenko_maryna.mariupol.1.chetvyortii_den_voin'
   - '15_03_2023.fb.krutenko_maryna.mariupol.1.15_03_22_dvadtsatii_'

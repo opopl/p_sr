@@ -18,17 +18,6 @@ patch:
   'opts_maker.join_lines.ii.exclude' :
       index : 0
 
-  'sii.ctl.Sct._sct_lines.loop.ii' :
-      foreach_ii_sec:
-        match: '^(?<section>(?<day>\d+)_(?<month>\d+)_(?<year>\d+)\.(\S+))$'
-        insert:
-          after:
-          - 'pic.ui_import'
-          - 'video'
-          - 'cmt'
-          - 'orig'
-          - 'cmtx'
-
   'sii.scts._main_.ii.inner.body':
   #- 'mariupol.diaries'
 

@@ -194,6 +194,17 @@ patch:
   'vars.layout.tabcont' : 0
   'vars.layout.indexing' : 0
 
+  'sii.ctl.Sct._sct_lines.loop.ii' :
+      foreach_ii_sec:
+        match: '^(?<section>(?<day>\d+)_(?<month>\d+)_(?<year>\d+)\.(\S+))$'
+        insert:
+          after:
+          - 'pic.ui_import'
+          - 'video'
+          - 'cmt'
+          - 'orig'
+          - 'cmtx'
+
   #'tex4ht.cfg.vars.preamble' :
      #frames : 1
      #next : 'next'

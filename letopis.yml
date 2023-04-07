@@ -84,59 +84,29 @@ target_conf:
                       @ifvar{img.gen.sql.ui_import.limit}{ LIMIT @val }
                       @ifvar{img.gen.sql.ui_import.offset}{ OFFSET @val }
                       '
+
          '$matched{section}.video' :
-            txt:
-              header:
-                - '\qqSecVideo'
             contents:
-            - '@txt.header'
-            - type: sql
-              db: 'img'
-              cmt:
-                single:
-                  opts:
-                    '@wrap' : center
-                    '@width' : 0.8
-                tab: 'cols=@var{img.gen.video.tab.cols},no_fig,center,separate'
-              output: 'pic @@{url}'
-              query: 'SELECT DISTINCT imgs.url FROM imgs
-                      INNER JOIN _info_imgs_tags AS inf1
-                      ON imgs.url = inf1.url
-                      INNER JOIN _info_imgs_tags AS inf2
-                      ON imgs.url = inf2.url
-                      WHERE
-                        inf1.tag = "scrn"
-                        AND inf2.tag = "orig.video"
-                        AND imgs.sec = "$matched{section}"
-                      ORDER BY imgs.mtime
-                      '
+            - type: sql_img
+              tmpl_file: select.orig_video.sql
+              tmpl_data:
+                parent_section : "$matched{section}"
+                tab_cols: '@var{img.gen.video.tab.cols}'
+              tex_header:
+              - '\qqSecVideo'
+              - ''
 
          '$matched{section}.orig' :
-            txt:
-              header:
-                - '\qqSecOrig'
             contents:
-            - '@txt.header'
-            - type: sql
-              db: 'img'
-              cmt:
-                single:
-                  opts:
-                    '@wrap' : center
-                    '@width' : 0.8
-                tab: 'cols=@var{img.gen.orig.tab.cols},no_fig,center,separate'
-              output: 'pic @@{url}'
-              query: 'SELECT DISTINCT imgs.url FROM imgs
-                      INNER JOIN _info_imgs_tags AS inf1
-                      ON imgs.url = inf1.url
-                      INNER JOIN _info_imgs_tags AS inf2
-                      ON imgs.url = inf2.url
-                      WHERE
-                        inf1.tag = "scrn"
-                        AND inf2.tag = "orig.post"
-                        AND imgs.sec = "$matched{section}"
-                      ORDER BY imgs.mtime
-                      '
+            - type: sql_img
+              tmpl_file: select.orig_post.sql
+              tmpl_data:
+                parent_section : "$matched{section}"
+                tab_cols: '@var{img.gen.orig.tab.cols}'
+              tex_header:
+              - '\qqSecOrig'
+              - ''
+
          '$matched{section}.cmtx' :
             contents:
 ###cmtx

@@ -138,31 +138,16 @@ target_conf:
                       ORDER BY imgs.mtime
                       '
          '$matched{section}.cmtx' :
-            txt:
-              header:
-                - '\qqSecCmtScr'
             contents:
-            - '@txt.header'
-            - type: sql
-              db: 'img'
-              cmt:
-                single:
-                  opts:
-                    '@wrap' : center
-                    '@width' : 0.8
-                tab: 'cols=@var{img.gen.cmtx.tab.cols},no_fig,center,separate'
-              output: 'pic @@{url}'
-              query: 'SELECT DISTINCT imgs.url FROM imgs
-                      INNER JOIN _info_imgs_tags AS inf1
-                      ON imgs.url = inf1.url
-                      INNER JOIN _info_imgs_tags AS inf2
-                      ON imgs.url = inf2.url
-                      WHERE
-                        inf1.tag = "scrn"
-                        AND inf2.tag = "orig.cmt"
-                        AND imgs.sec = "$matched{section}"
-                      ORDER BY imgs.mtime
-                      '
+###cmtx
+            - type: sql_img
+              tmpl_file: select.cmtx.sql
+              tmpl_data:
+                parent_section : "$matched{section}"
+                tab_cols: '@var{img.gen.cmtx.tab.cols}'
+              tex_header:
+              - '\qqSecCmtScr'
+              - ''
 
     run_tex:
       #shell: system

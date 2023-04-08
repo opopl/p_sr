@@ -1,0 +1,50 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+#run_tex:
+  #shell: system
+
+patch/:
+  'opts_maker/processor/_d2tex/caption/texify': 1
+  'opts_maker/processor/_d2tex/caption/escape_latex': 1
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 0
+  'opts_maker.join_lines.ii.exclude' :
+      index : 1
+
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol.diaries'
+
+  - '19_01_2023.fb.korovanenkova_natalia.mariupol.1.19_marta_2022___mors'
+
+  # 23.02.22
+  - '23_02_2023.fb.korovanenkova_natalia.mariupol.1.cilyj_den_DO'
+  # 24.02.22
+  - '24_02_2023.fb.korovanenkova_natalia.mariupol.1.khronika__24_02_2022'
+
+  # 27.02.22
+  - '27_02_2023.fb.korovanenkova_natalia.mariupol.1.27_02_2022_arkh_vne_'
+
+  - '01_03_2023.fb.korovanenkova_natalia.mariupol.1.01_03_2022_ukr_vesna_pic'
+  - '02_03_2023.fb.korovanenkova_natalia.mariupol.1.02_bereznya_2022___o'
+  - '08_03_2023.fb.korovanenkova_natalia.mariupol.1.jak_ce_bulo_8_marta.pic.1'
+  - '12_03_2023.fb.korovanenkova_natalia.mariupol.1.12_03_2022___u_nas_n'
+  - '15_03_2023.fb.korovanenkova_natalia.mariupol.1.gumanitarnyj_koridor_zaporozhie'
+
+  # 19.03.22
+
+  # 31.03.22
+  - '03_04_2023.fb.korovanenkova_natalia.mariupol.1.31_03_2022_blok_post'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+

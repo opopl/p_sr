@@ -18,7 +18,7 @@ patch/:
 
 patch:
   'vars.layout.tabcont' : 1
-  'vars.layout.indexing' : 0
+  'vars.layout.indexing' : 1
   'opts_maker.join_lines.ii.exclude' :
       index : 1
 
@@ -28,7 +28,7 @@ patch:
   - '20_03_2023.fb.vitko_olena.mariupol.1.m_i___mamin_drugii_d'
   - '20_03_2023.fb.stinberg_kateryna.mariupol.1.rozmovi_pro_te__shch'
   - '16_03_2023.fb.karpenko_sergij.mariupol.1.segodnya_rovno_god_k'
-  - '16_03_2023.fb.klimov_artem.mariupol.1.16_bereznya_2022_r__'
+  #- '16_03_2023.fb.klimov_artem.mariupol.1.16_bereznya_2022_r__'
   - '16_03_2023.fb.vitko_olena.mariupol.1.nas_proneslo___mi_ne'
   - '16_03_2023.fb.vitko_olena.mariupol.2.des_18_bereznya_vi_k'
   - '15_03_2023.fb.vitko_olena.mariupol.1.r_k_tomu__vs__spogad'

@@ -1,0 +1,83 @@
+% vim: keymap=russian-jcukenwin
+%%beginhead 
+ 
+%%file trg.mks.titlepage
+%%parent trg.mks
+ 
+%%url 
+ 
+%%author_id 
+%%date 
+ 
+%%tags 
+%%title 
+ 
+%%endhead 
+
+\begingroup
+	\Huge
+Mariupol Cultura Title Page
+\endgroup
+
+\begin{tikzpicture}[remember picture,overlay]
+
+\coordinate [below=2.5cm] (midpoint) at (current page.north);
+
+\node [name=colourbar,
+anchor=base,
+fill=blue!40,
+text = white,
+minimum width=\paperwidth,
+minimum height=1cm] at (midpoint) {\huge{\textsc{School Name}}};
+
+% Define the point where the logo will go
+\coordinate [right=4cm] (logo) at (colourbar.west);
+
+% Set coordinate system origin
+\begin{scope}[shift=(logo)]
+% Draw the outline
+\filldraw [white,draw=red] (2.3,0.85) -- (-2,0.85) -- (-2.8,-0.85) -- (2.3,-0.85) --cycle;
+% Include the logo
+%\node {\includegraphics[width=4cm]{logo}};
+\end{scope}
+
+\end{tikzpicture}
+
+%\section{Normal stuff starts here}
+%\lipsum
+
+\newcommand*{\titleFT}{\begingroup% John Fell Types
+\ifxetex
+%\fontspec[Alternate=0]{IM_FELL_Double_Pica_PRO_Roman}
+\else
+%\FSfont{fxlj}% Libertine
+\fi
+\begin{center}
+\vfill
+{\HUGE \textcolor{Red}{THE DONOR} \\}
+\vfill
+{\Huge THE UNIVERSITY AND
+THE 'DONOR' CONUNDRUMS \\}
+\vfill
+{\Large THE PUZZLES \& ENIGMAS \\ PRESENTED IN 1768 TO \\}
+%\vfill
+{\LARGE THE UNIVERSITY OF CITY \\
+BY THE DONOR\\}
+%\vfill
+{\footnotesize WHO HAS ACHIEVED A VARIETY OF ACADEMIC \\
+AND OTHER DISTINCTIONS \\}
+\vfill
+{\large BY\\}
+{\LARGE THE AUTHOR \\}
+{\footnotesize WITH THE ASSISTANCE OF\\}
+{\large THE ASSISTANT\\}
+\vfill
+\plogo
+\vfill
+{\LARGE THE PUBLISHER \\}
+{\large YEAR}
+\vfill
+\end{center}
+\endgroup}
+
+\titleFT

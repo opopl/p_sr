@@ -9,8 +9,8 @@ decs:
 opts_maker:
   join_lines:
 
-#run_tex:
-  #shell: system
+run_tex:
+  shell: system
 
 patch:
   'vars.layout.tabcont' : 1
@@ -21,6 +21,7 @@ patch:
   'sii.scts.preamble.setcounter.secnumdepth' : 0
 
   'sii.scts._main_.ii.inner.start':
+  - 'trg.mks.titlepage'
   - 'tabcont'
 
   'sii.scts._main_.ii.inner.body':

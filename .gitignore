@@ -1,6 +1,7 @@
 public/js/dist
 public/node_modules
 *.bk
+*.bk.*
 bld.db
 err.tex
 err.sec.tex

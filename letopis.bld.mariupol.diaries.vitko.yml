@@ -1,0 +1,45 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+#run_tex:
+  #shell: system
+
+patch/:
+  'opts_maker/processor/_d2tex/caption/texify': 1
+  'opts_maker/processor/_d2tex/caption/escape_latex': 1
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 0
+  'opts_maker.join_lines.ii.exclude' :
+      index : 1
+
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol.diaries'
+
+  - '20_03_2023.fb.vitko_olena.mariupol.1.m_i___mamin_drugii_d'
+  - '20_03_2023.fb.stinberg_kateryna.mariupol.1.rozmovi_pro_te__shch'
+  - '16_03_2023.fb.karpenko_sergij.mariupol.1.segodnya_rovno_god_k'
+  - '16_03_2023.fb.klimov_artem.mariupol.1.16_bereznya_2022_r__'
+  - '16_03_2023.fb.vitko_olena.mariupol.1.nas_proneslo___mi_ne'
+  - '16_03_2023.fb.vitko_olena.mariupol.2.des_18_bereznya_vi_k'
+  - '15_03_2023.fb.vitko_olena.mariupol.1.r_k_tomu__vs__spogad'
+  - '11_03_2023.fb.krutenko_maryna.mariupol.1.shestnadtsatii_den_v'
+  - '13_03_2023.fb.vitko_olena.mariupol.1.tse_stalosya_r_k_tom'
+  - '26_11_2022.fb.vitko_olena.mariupol.1.svyaz_kievstar_vo_vr'
+  - '17_03_2023.fb.vitko_olena.mariupol.1.ruslan_rozbudiv_mene'
+  - '19_01_2023.fb.korovanenkova_natalia.mariupol.1.19_marta_2022___mors'
+
+  #
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+

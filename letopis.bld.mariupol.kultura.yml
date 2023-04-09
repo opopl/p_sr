@@ -9,8 +9,8 @@ decs:
 opts_maker:
   join_lines:
 
-#run_tex:
-  #shell: system
+run_tex:
+  shell: system
 
 patch:
   'vars.layout.tabcont' : 1

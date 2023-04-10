@@ -12,6 +12,11 @@
     'author' : { 'name' : '0629.com.ua - Сайт Міста Маріуполь' }
 }
 
+'zaborona.com' : {
+    'site' : 'news.ua.zaborona',
+    'author' : { 'name' : 'Заборона Медіа' }
+}
+
 'svoi.city' : {
     'site' : 'news.ua.svoi_city',
     'author' : { 'name' : 'СВОЇ.CITY - онлайн-журнал' }

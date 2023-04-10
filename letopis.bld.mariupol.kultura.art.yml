@@ -18,17 +18,28 @@ patch:
   'opts_maker.join_lines.ii.exclude' :
       index : 0
 
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+
   'sii.scts.preamble.setcounter.secnumdepth' : 0
 
   'sii.scts._main_.ii.inner.start':
   - 'tabcont'
 
+  #'sii.scts._main_.ii.inner.bodyx':
+  #- '18_02_2023.fb.fb_group.mariupol.pre_war.2.mo__mar_upolsk__robo'
+
+  #
   'sii.scts._main_.ii.inner.body':
   #- 'mariupol.kultura'
   - '21_11_2016.fb.malahovskyj_oleksandr.mariupol.1.ars_altera_na_bolsho'
 
   - '28_12_2017.fb.harakoz_volodymyr.hudozhnyk.mariupol.1.vystavka_muzej_30_rokiv_nazva'
   - '27_02_2020.fb.fb_group.mariupol.biblioteka.korolenka.1.grattazh_voskografia'
+
+  - '30_04_2020.fb.prisjazhnjuk_oleg.mariupol.dnipro.1.shedevry_pivo_mozaika'
 
   - '12_09_2022.fb.pozhyvanov_myhajlo.mariupol.1.vystavka_harbarbond_znak_mariupolja'
 
@@ -39,7 +50,7 @@ patch:
 
   - '07_12_2021.fb.vyshedska_masha.bahmut.hudozhnyk.illjustrator.1.mariupol__chast_2__v'
 
-  #->>>>>>>>>>>>>> '18_02_2023.fb.fb_group.mariupol.pre_war.2.mo__mar_upolsk__robo'
+  - '20_01_2023.fb.fb_group.mariupol.pre_war.4.mar_upol___murali__g'
 
 #Парк «Веселка» навесні. Закінчена робота і чорнильний начерк
   - '09_01_2023.fb.fb_group.mariupol.pre_war.4.park__veselka__naves'
@@ -51,20 +62,24 @@ patch:
   - '20_01_2023.fb.fb_group.mariupol.pre_war.1.mo__mar_upolsk__robo'
 #Мої марiупольськi роботи. Частина четверта 
   - '23_01_2023.fb.fb_group.mariupol.pre_war.5.mo__mar_upolsk__robo'
-    #Мої марiупольськi роботи. Частина 5
-    # !!!
+#Мої марiупольськi роботи. Частина 5
   - '31_01_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__robo'
 #Мої маріупольські роботи. Частина шоста і найменша
   - '04_02_2023.fb.fb_group.mariupol.pre_war.8.mo__mar_upolsk__robo'
 #Мої марiупольськi роботи. Частина сьома 
   - '12_02_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__robo'
+#Мої марiупольськi роботи. Частина восьма. Iнтер'єри. Усi пiдписанi
+  - '18_02_2023.fb.fb_group.mariupol.pre_war.2.mo__mar_upolsk__robo'
 
   - '28_12_2021.fb.pehotskaja_gnatyshyn_oksana.mariupol.hudozhnyk.1.pyshajusja_vykladachamy'
+
+  - '31_03_2023.fb.mahovska_iryna.hudozhnik.mariupol.1.tetjana_tkachenko_galak_knizhka'
 
   - '31_01_2023.fb.fb_group.mariupol.pre_war.3.mar_upolska_khudozhn'
   - '06_04_2023.fb.pehotskaja_gnatyshyn_oksana.mariupol.hudozhnyk.1.lestnica_mrija'
 
   #- '16_03_2023.fb.eu4business_sme_ukraine.1.mystectvo_tancju_mariupol_vijna'
+  #
 
 #https://www.facebook.com/permalink.php?story_fbid=pfbid0224HfbkMwaDoDQkF1kw4Qb8ncXD2rLSuf66meHREE3ezKQpNCLb221MMBtDm1foPSl&id=100006825902516
 #https://www.facebook.com/Mariupolartschool/posts/pfbid027UA7nDUDhzUKYFapcBTSDbW127Qt29tEgEPdSUvpZFtU62z7KVM46rpvoJSVEWLKl

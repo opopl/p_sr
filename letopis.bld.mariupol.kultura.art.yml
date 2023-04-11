@@ -34,10 +34,13 @@ patch:
   #
   'sii.scts._main_.ii.inner.body':
   #- 'mariupol.kultura'
+  - 'trg.mka.foto'
+  
   - '21_11_2016.fb.malahovskyj_oleksandr.mariupol.1.ars_altera_na_bolsho'
 
   - '28_12_2017.fb.harakoz_volodymyr.hudozhnyk.mariupol.1.vystavka_muzej_30_rokiv_nazva'
 
+  - '12_12_2019.fb.mariupol.centr.kuindzhi.1.vystavka_alla_gorska_geroinja'
   - '14_12_2019.fb.mariupol.centr.kuindzhi.1.vystavka_vidkryttja_varto_pobachyty'
 
   - '27_02_2020.fb.fb_group.mariupol.biblioteka.korolenka.1.grattazh_voskografia'
@@ -45,8 +48,6 @@ patch:
   - '30_04_2020.fb.prisjazhnjuk_oleg.mariupol.dnipro.1.shedevry_pivo_mozaika'
   - '30_03_2020.fb.prisjazhnjuk_oleg.mariupol.dnipro.1.chytalnyj_zal_karantin'
   - '25_04_2020.fb.prisjazhnjuk_oleg.mariupol.dnipro.1.rankovi_ptashky'
-
-  - '12_09_2022.fb.pozhyvanov_myhajlo.mariupol.1.vystavka_harbarbond_znak_mariupolja'
 
   - '26_03_2022.fb.harakoz_volodymyr.hudozhnyk.mariupol.1.roboty_pro_mariupol'
   - '26_03_2023.fb.ponomareva_anastasia.mariupol.1.zrobila_st_keri_dlya'
@@ -80,6 +81,7 @@ patch:
 
   - '31_03_2023.fb.mahovska_iryna.hudozhnik.mariupol.1.tetjana_tkachenko_galak_knizhka'
 
+#Маріупольська художня школа ім А. І. Куїнджі. за адресою вул. Куїнджі 82
   - '31_01_2023.fb.fb_group.mariupol.pre_war.3.mar_upolska_khudozhn'
   - '06_04_2023.fb.pehotskaja_gnatyshyn_oksana.mariupol.hudozhnyk.1.lestnica_mrija'
 

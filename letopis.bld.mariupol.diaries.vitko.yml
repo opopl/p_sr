@@ -20,7 +20,12 @@ patch:
   'vars.layout.tabcont' : 1
   'vars.layout.indexing' : 1
   'opts_maker.join_lines.ii.exclude' :
-      index : 1
+      index : 0
+
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
 
   'sii.scts._main_.ii.inner.body':
   #- 'mariupol.diaries'
@@ -40,6 +45,7 @@ patch:
 
   # other
   - '22_06_2022.fb.leuckij_mykyta.mariupol.1.istoria'
+  - '19_03_2022.fb.pinchuk_olena.mariupol.1.kusochek_belogo_balkona_kvartira'
 
   'sii.scts.preamble.setcounter.secnumdepth' : 0
 

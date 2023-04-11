@@ -25,6 +25,7 @@ patch:
   'sii.scts._main_.ii.inner.body':
   #- 'mariupol.diaries'
 
+  - '14_03_2022.fb.vitko_olena.mariupol.1.blokada_proryv'
   - '20_03_2023.fb.vitko_olena.mariupol.1.m_i___mamin_drugii_d'
   - '20_03_2023.fb.stinberg_kateryna.mariupol.1.rozmovi_pro_te__shch'
   - '16_03_2023.fb.karpenko_sergij.mariupol.1.segodnya_rovno_god_k'
@@ -37,10 +38,14 @@ patch:
   - '26_11_2022.fb.vitko_olena.mariupol.1.svyaz_kievstar_vo_vr'
   - '17_03_2023.fb.vitko_olena.mariupol.1.ruslan_rozbudiv_mene'
   - '19_01_2023.fb.korovanenkova_natalia.mariupol.1.19_marta_2022___mors'
+  - '24_03_2023.fb.korovanenkova_natalia.mariupol.1.podval_24_03_2022'
+  - '10_01_2023.fb.lafazan_natalia.mariupol.1.miroslava'
 
   # other
+  - 'mariupol.diaries.bespalova_natalia'
   - '22_06_2022.fb.leuckij_mykyta.mariupol.1.istoria'
   - '19_03_2022.fb.pinchuk_olena.mariupol.1.kusochek_belogo_balkona_kvartira'
+  - '17_04_2022.fb.shubenko_kateryna.mariupol.1.13_marta_13_mikrorajon'
 
   'sii.scts.preamble.setcounter.secnumdepth' : 0
 

@@ -9,8 +9,8 @@ decs:
 opts_maker:
   join_lines:
 
-#run_tex:
-  #shell: system
+run_tex:
+  shell: system
 
 patch/:
   'opts_maker/processor/_d2tex/caption/texify': 1
@@ -21,11 +21,6 @@ patch:
   'vars.layout.indexing' : 1
   'opts_maker.join_lines.ii.exclude' :
       index : 0
-
-  'opts_maker.processor._d2tex.caption.texify' : 1
-  'opts_maker.processor._d2tex.caption.escape_latex' : 1
-  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
-  'opts_maker.processor._d2tex.caption.numbering' : 0
 
   'sii.scts._main_.ii.inner.body':
   #- 'mariupol.diaries'

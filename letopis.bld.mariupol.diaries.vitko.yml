@@ -38,7 +38,8 @@ patch:
   - '17_03_2023.fb.vitko_olena.mariupol.1.ruslan_rozbudiv_mene'
   - '19_01_2023.fb.korovanenkova_natalia.mariupol.1.19_marta_2022___mors'
 
-  #
+  # other
+  - '22_06_2022.fb.leuckij_mykyta.mariupol.1.istoria'
 
   'sii.scts.preamble.setcounter.secnumdepth' : 0
 

@@ -1,0 +1,85 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+#run_tex:
+  #shell: system
+
+patch/:
+  'opts_maker/processor/_d2tex/caption/texify': 1
+  'opts_maker/processor/_d2tex/caption/escape_latex': 1
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 0
+  'opts_maker.join_lines.ii.exclude' :
+      index : 1
+
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol.diaries'
+
+  # before
+  # https://www.facebook.com/marinakrytenko/posts/pfbid033gySmBNnPtob458NswEwvtqAMwfmrmnHZCUwRrWtiLQFQjGiFhFd2o6uTxcMyaAwl
+  # 1
+  - '24_02_2023.fb.krutenko_maryna.mariupol.1.pervii_den_voini_24_'
+  # 2
+  # https://www.facebook.com/marinakrytenko/posts/pfbid0oGCwkKrepaJUrpNhdXjfLwZQvTT4fgQF7geZpwNpckD8YBPCcVb883hWy8828ooTl
+  # 3
+  - '26_02_2023.fb.krutenko_maryna.mariupol.1.tretii_den_voini_26_'
+  # 4
+  - '27_02_2023.fb.krutenko_maryna.mariupol.1.chetvyortii_den_voin'
+  # 5
+  - '28_02_2023.fb.krutenko_maryna.mariupol.1.pyatii_den_voini_28_'
+  # 6
+  - '01_03_2023.fb.krutenko_maryna.mariupol.1.shestoi_den_voini_01'
+  # 7
+  - '02_03_2023.fb.krutenko_maryna.mariupol.1.sedmoi_den_voini__02'
+  # 8
+  # https://www.facebook.com/marinakrytenko/posts/pfbid02ETsie4sMxXvigJxo1c1dFe9UHc9s9byuhRGGzYTD51AzBtDowUFcACzzkPen748fl
+  # 9
+  # https://www.facebook.com/marinakrytenko/posts/pfbid02fynFbBeETExhRDEQb34N9KS34XcE6goqWmHUBRXGvWREy9omxFviPjTdF2ZdkpEGl
+  # 10
+  # https://www.facebook.com/marinakrytenko/posts/pfbid02AzvpHAA3kqPo87x1Xdsb43GdYUG39BG57FHdNP5NWTBSHSH7Eja6R5LecKM9pULZl
+  # 11
+  # https://www.facebook.com/marinakrytenko/posts/pfbid036quBXQvBaNMT5mNJuJqoy3Uk3oAENny4aqXPJbHy5UFBk5dt7md6TE4Hn1jMctD6l
+  # 12
+  # https://www.facebook.com/marinakrytenko/posts/pfbid0Lsr1waPuRDN8ZzUMb6HCnhokPkHnsNLHKtiX8YVxvicSLhGHEEDC8mHhayB4k3kFl
+  # 13
+  # https://www.facebook.com/marinakrytenko/posts/pfbid0jCy7BnA77WStTaVgzSEdMgVhyRtoWYWVHDYmccPb8EssRUCw7JSn2rXFTWZh7mC7l
+  # 14
+  # https://www.facebook.com/marinakrytenko/posts/pfbid02WsCpFWN8z7rmH23WDgpenMT5TuMQKsWyPf1NWwbwHvdeM9b2mwdCqmTb2H6gRjAgl
+  # 15
+  # https://www.facebook.com/marinakrytenko/posts/pfbid0SHVoMdzdh8jvRsABD9XgvmRLN2gNPHedCz789DDbH5HXT3DG7SYQnMUeMvy9YmEhl
+  # 16
+  - '11_03_2023.fb.krutenko_maryna.mariupol.1.shestnadtsatii_den_v'
+  # 17
+  # https://www.facebook.com/marinakrytenko/posts/pfbid02cev6zWRLo6ciKKMu3e9TQt9Jeez75XYrCLruCufSDmF759xWb9j2AC1Se2X6PTRGl
+  # 18
+  # https://www.facebook.com/marinakrytenko/posts/pfbid0bwRAziX9SsaCg9MosMNa9LqWGYKh8xeLCr7DumoPxaMSR77kCAB2ZeMU4v1WRfMxl
+  # 19
+  # https://www.facebook.com/marinakrytenko/posts/pfbid03oCb5wZALYPmtZJqqVAzh9oWwtd8GsVSqdKqE2TRRwWSe9wa8m9PBxVeMfFw5gewl
+  # 20
+  - '15_03_2023.fb.krutenko_maryna.mariupol.1.15_03_22_dvadtsatii_'
+  # 21
+  # https://www.facebook.com/marinakrytenko/posts/pfbid02DYMwdXQhDd6HcBwti6Qs9msZNKb281kshhCSKrWond4x3wn7oYsy1o9HS8SqiaB1l
+  # 22
+  - '17_03_2023.fb.krutenko_maryna.mariupol.1.17_03_22_dvadtsat_vt'
+
+  # Война это действительно страшно и стирается грань добра и зла....
+  - '18_03_2023.fb.krutenko_maryna.mariupol.1.voina_eto_deistvitel'
+
+  # 2,8,9,10-15,17-19,21
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+# https://www.facebook.com/marinakrytenko/posts/pfbid0YJXqN8VEvbKBQwyiXwok9bpgyMBrShqiXoW7aPHm1WrEsSyNJ6rqQAVLMdMDyASql
+# https://www.facebook.com/permalink.php?story_fbid=pfbid036ZQiioxDPekPGDA6HXS4ja1w81Hb8RM4wb4tbq869REdGqhnELMSbDqVSfbztYMol&id=100015734700402
+# tiktok
+# https://www.facebook.com/marinakrytenko/posts/pfbid02oGKF6YMN9yhsR6XpWQajgt7YgY1zjPTdoAisKgg93Dv749uJYrzFrngipQh3q5BLl

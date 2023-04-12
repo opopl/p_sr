@@ -9,8 +9,8 @@ decs:
 opts_maker:
   join_lines:
 
-#run_tex:
-  #shell: system
+run_tex:
+  shell: system
 
 patch/:
   'opts_maker/processor/_d2tex/caption/texify': 1
@@ -26,11 +26,11 @@ patch:
   #- 'mariupol.diaries'
 
   # before
-  # https://www.facebook.com/marinakrytenko/posts/pfbid033gySmBNnPtob458NswEwvtqAMwfmrmnHZCUwRrWtiLQFQjGiFhFd2o6uTxcMyaAwl
+  - '23_02_2023.fb.krutenko_maryna.mariupol.1.den_do_vojny'
   # 1
   - '24_02_2023.fb.krutenko_maryna.mariupol.1.pervii_den_voini_24_'
   # 2
-  # https://www.facebook.com/marinakrytenko/posts/pfbid0oGCwkKrepaJUrpNhdXjfLwZQvTT4fgQF7geZpwNpckD8YBPCcVb883hWy8828ooTl
+  - '25_02_2023.fb.krutenko_maryna.mariupol.1.vtoroj_den'
   # 3
   - '26_02_2023.fb.krutenko_maryna.mariupol.1.tretii_den_voini_26_'
   # 4
@@ -42,7 +42,7 @@ patch:
   # 7
   - '02_03_2023.fb.krutenko_maryna.mariupol.1.sedmoi_den_voini__02'
   # 8
-  # https://www.facebook.com/marinakrytenko/posts/pfbid02ETsie4sMxXvigJxo1c1dFe9UHc9s9byuhRGGzYTD51AzBtDowUFcACzzkPen748fl
+  - '03_03_2023.fb.krutenko_maryna.mariupol.1.vosmoj_den_03_03_vystrel_tanka_prilet_v_stenu'
   # 9
   # https://www.facebook.com/marinakrytenko/posts/pfbid02fynFbBeETExhRDEQb34N9KS34XcE6goqWmHUBRXGvWREy9omxFviPjTdF2ZdkpEGl
   # 10

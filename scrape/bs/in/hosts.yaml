@@ -12,6 +12,11 @@
     'author' : { 'name' : '0629.com.ua - Сайт Міста Маріуполь' }
 }
 
+'www.victims.memorial' : {
+    'site' : 'ua.victims_memorial',
+    'author' : { 'name' : "Платформа пам'яті Меморіал" }
+}
+
 'zaborona.com' : {
     'site' : 'news.ua.zaborona',
     'author' : { 'name' : 'Заборона Медіа' }

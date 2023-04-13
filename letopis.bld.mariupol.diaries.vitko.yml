@@ -29,7 +29,7 @@ patch:
   - '20_03_2023.fb.vitko_olena.mariupol.1.m_i___mamin_drugii_d'
   - '20_03_2023.fb.stinberg_kateryna.mariupol.1.rozmovi_pro_te__shch'
   - '16_03_2023.fb.karpenko_sergij.mariupol.1.segodnya_rovno_god_k'
-  #- '16_03_2023.fb.klimov_artem.mariupol.1.16_bereznya_2022_r__'
+  - '16_03_2023.fb.klimov_artem.mariupol.1.16_bereznya_2022_r__'
   - '16_03_2023.fb.vitko_olena.mariupol.1.nas_proneslo___mi_ne'
   - '16_03_2023.fb.vitko_olena.mariupol.2.des_18_bereznya_vi_k'
   - '15_03_2023.fb.vitko_olena.mariupol.1.r_k_tomu__vs__spogad'
@@ -48,6 +48,8 @@ patch:
   - '17_04_2022.fb.shubenko_kateryna.mariupol.1.13_marta_13_mikrorajon'
   - '27_04_2022.fb.odnorog_galyna_gennadiivna.mariupol.1.muzhchina_sobaka_shel_5_sutok'
   - '17_03_2023.fb.kocherga_zhenja.mariupol.warsaw.1.popadania_v_dom_moego_brata_artema_146'
+  - '17_04_2022.fb.grebenjuk_viktoria.mariupol.1.otaka_yekskurs_ya_mo'
+  - '21_04_2022.fb.slivchenko_galyna.mariupol.1.babusja_valentyna_grigorivna'
 
   'sii.scts.preamble.setcounter.secnumdepth' : 0
 

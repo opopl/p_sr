@@ -1,0 +1,33 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 1
+  'opts_maker.join_lines.ii.exclude' :
+      index : 0
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol'
+  - '28_03_2019.fb.timakova_maryna.mariupol.1.lodka'
+  - '17_01_2021.fb.timakova_maryna.mariupol.1.pust_udachnym_budet_den'
+
+#https://www.facebook.com/permalink.php?story_fbid=pfbid0vNuufuvGed6FWHvLHpiBauxuccpCqatqNwCqxD3xKqkME3mH2JU7qYVLex56ZQ9Dl&id=100008627310833
+#https://www.facebook.com/permalink.php?story_fbid=pfbid02TDED6bhnhRL8VVTbcXoDh8SiPS9uMc91cs9FWk5VSZKfkVKH7Cd1ucQSkqkDQwMxl&id=100008627310833
+

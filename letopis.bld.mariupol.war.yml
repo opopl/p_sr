@@ -1,0 +1,42 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch/:
+  'opts_maker/processor/_d2tex/caption/texify': 1
+  'opts_maker/processor/_d2tex/caption/escape_latex': 1
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 1
+  'opts_maker.join_lines.ii.exclude' :
+      index : 0
+
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol.diaries'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+# volyna
+# https://www.facebook.com/serjvlk/posts/pfbid03j3wQi9vjiXDs2zzZchU341rQrgMTiZgDmxbQwsV7v2NjameFc5xyV2QqkrhdEmFl
+
+# https://www.facebook.com/vicatto/posts/pfbid0fNcn6rSGUGkZJJ45TxTFoVqqmsoF1ZEJzUTxpzy9ftw4QSXVxSu4jpKnc5Afc9qMl
+
+# https://vot-tak.tv/novosti/23-03-2022-mariupol-life-death
+
+# igumen savatij large
+#https://www.facebook.com/savvatiy/posts/pfbid02NddPp1GbPMdxTZ7kQnCrHss8PxvoFrau6fTPbivCRAaryMp2nC3oYfznT1YdgBqHl
+#https://www.facebook.com/permalink.php?story_fbid=pfbid02UfKTYwvx2LYc4NmX5YiSYwB4kyvnYS2aKpGQ1AR1AFMM9hPWZj4fPvX7pYoiq7kBl&id=100015860043357
+#https://www.facebook.com/permalink.php?story_fbid=pfbid02retn9LshDiZsQtR63vTazVZRWXCaqD3fZrQYdTLW83aPBmWx4EAqfiCSERcDcPXVl&id=100017803231696
+#https://www.facebook.com/permalink.php?story_fbid=pfbid0geYwxMUPTXkmQqnJvH2AM5JuFW6Ho58to3URzBVsEXUA7dX5sNNGbGBtNghaQVmil&id=100015860043357
+#https://www.facebook.com/permalink.php?story_fbid=pfbid036ZQiioxDPekPGDA6HXS4ja1w81Hb8RM4wb4tbq869REdGqhnELMSbDqVSfbztYMol&id=100015734700402

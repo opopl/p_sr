@@ -42,7 +42,7 @@ patch:
   - '10_01_2023.fb.lafazan_natalia.mariupol.1.miroslava'
 
   # other
-  - 'mariupol.diaries.bespalova_natalia'
+  #- 'mariupol.diaries.bespalova_natalia'
   - '22_06_2022.fb.leuckij_mykyta.mariupol.1.istoria'
   - '19_03_2022.fb.pinchuk_olena.mariupol.1.kusochek_belogo_balkona_kvartira'
   - '17_04_2022.fb.shubenko_kateryna.mariupol.1.13_marta_13_mikrorajon'
@@ -53,6 +53,10 @@ patch:
   - '16_09_2022.fb.ivanchenko_evgenia.mariupol.1.p_vroku_nazad_mene_z'
   - '16_09_2022.fb.kutnjakova_maria.zhurnalist.vilnjus.mariupol.1.6_misjaciv_tragedia_dramteatr'
   - '16_03_2023.fb.perederij_tetjana.mariupol.1.mashyny_gorod_16_chelovek'
+  - '17_03_2023.fb.frushicheva_evdokia.mariupol.1.segodnja_rovno_god_kak_my_vyehali_iz_ada'
+  - '10_03_2023.fb.frushicheva_evdokia.mariupol.1.10_marta_2022_tjazhelyj_den'
+  # !! move => 20.03.2022
+  - '20_03_2023.fb.jakovenko_borys.mariupol.1.chernyj_den'
 
   'sii.scts.preamble.setcounter.secnumdepth' : 0
 

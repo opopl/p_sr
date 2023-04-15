@@ -1,0 +1,31 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch/:
+  'opts_maker/processor/_d2tex/caption/texify': 1
+  'opts_maker/processor/_d2tex/caption/escape_latex': 1
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 1
+  'opts_maker.join_lines.ii.exclude' :
+      index : 0
+
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol.diaries'
+  - '23_02_2023.fb.korovanenkova_natalia.mariupol.1.cilyj_den_DO'
+  - '23_02_2023.fb.korovanenkova_natalia.mariupol.2.23_02_fokstrot_eldorado_zakryty'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+

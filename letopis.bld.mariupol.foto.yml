@@ -25,7 +25,8 @@ patch:
 
   'sii.scts._main_.ii.inner.body':
   #- 'mariupol'
-  - 'auth.mariupol.kachalova_anna.fotos'
+  #- 'auth.mariupol.kachalova_anna.fotos'
+  - 'mariupol.foto.gm.teatralna_ploscha'
 
 #  - '28_03_2019.fb.timakova_maryna.mariupol.1.lodka'
   #- '17_01_2021.fb.timakova_maryna.mariupol.1.pust_udachnym_budet_den'
@@ -35,6 +36,7 @@ patch:
   #- '06_05_2020.fb.stanislavskyj_ivan.mariupol.fotograf.zhurnalist.1.optimizm_rjadom'
   #- '09_01_2020.fb.stanislavskyj_ivan.mariupol.fotograf.zhurnalist.1.garazh_neispravimogo_optimista'
   #- '21_06_2020.fb.stanislavskyj_ivan.mariupol.fotograf.zhurnalist.1.madam_sojka'
+  #- '16_04_2023.fb.fb_group.mariupol.pre_war.1.pysanky_teatr_30_04_2019'
 
 #https://www.facebook.com/permalink.php?story_fbid=pfbid0vNuufuvGed6FWHvLHpiBauxuccpCqatqNwCqxD3xKqkME3mH2JU7qYVLex56ZQ9Dl&id=100008627310833
 #https://www.facebook.com/permalink.php?story_fbid=pfbid02TDED6bhnhRL8VVTbcXoDh8SiPS9uMc91cs9FWk5VSZKfkVKH7Cd1ucQSkqkDQwMxl&id=100008627310833

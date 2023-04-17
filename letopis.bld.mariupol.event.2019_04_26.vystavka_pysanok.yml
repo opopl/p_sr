@@ -1,0 +1,53 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 1
+  'opts_maker.join_lines.ii.exclude' :
+      index : 0
+
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+
+  #'sii.scts._main_.ii.inner.bodyx':
+  #- '18_02_2023.fb.fb_group.mariupol.pre_war.2.mo__mar_upolsk__robo'
+
+  #
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol.kultura'
+  - '16_04_2023.fb.fb_group.mariupol.pre_war.1.pysanky_teatr_30_04_2019'
+  - '16_04_2023.fb.fb_group.mariupol.pre_war.2.pysanka_velykden'
+  - '26_04_2019.fb.mariupol.jarmarok.1.30_pysanok_30_zajchenjat'
+  - '26_04_2019.fb.mariupol.turystychne_misto.1.arrival_pysanky_zajchiki'
+  - '26_04_2019.fb.fb_group.750_hudozhnykiv.1.avtory_pysanky_zajci'
+
+#https://www.facebook.com/tv7mariupol/posts/pfbid02bQd2Bkd9FbbwxRoST8ucc7Te48mWUgPeYAXtkCBXBjUT1Sc6VDWexWd6Aj8xrE7dl
+#https://www.facebook.com/m.kutnyakova/posts/pfbid0gfKTgREWqFJvTKCRLfuURBcELTSWcodQynBEHT9GTUzZwt4SFvpovJcm2nShao35l 
+#https://www.facebook.com/molodmrpl/posts/pfbid028T4T8vShwj64mwd53jXhGjfUZSSYhxybu6Fs8KBTyM4kYZmwGY7ejh2D9efcS6kEl
+#https://www.facebook.com/events/314876775851203?ref=newsfeed
+
+#https://mrpl.city/news/view/gigantskie-pisanki-iz-mariupolya-ukrasili-kiev-foto
+#https://www.facebook.com/groups/mkultura/posts/1916023191960203
+#https://www.facebook.com/cwetlana.ptica/posts/pfbid0cUDZZHCCHJ1EtDRTrpUCKxbtH8rWfjxebRMWyyEC63smCTksHjnsND6w4wc6PNyMl
+#https://www.facebook.com/cwetlana.ptica/posts/pfbid0LeR4U4QEGPAXQB7TcC6fYnGD3AzoBB3kSwe17yYSyNiupBto3KFQYwkp2NRmh6VMl
+#https://www.facebook.com/cwetlana.ptica/posts/pfbid025Q96RqQupqLK7BKkpWNatHV34QoNaq7A1WigH6SFAHMF95Vjfp67JVRWYohBCF3kl
+#https://www.facebook.com/cwetlana.ptica/posts/pfbid02A9EuiMbCPU74dtxiNNTBDwqPPPnbeMGGsJZCbySxgCq4MDCks54uiX5SXS2NJJEel

@@ -1,0 +1,48 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 1
+  'opts_maker.join_lines.ii.exclude' :
+      index : 0
+
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+
+  #'sii.scts._main_.ii.inner.bodyx':
+  #- '18_02_2023.fb.fb_group.mariupol.pre_war.2.mo__mar_upolsk__robo'
+
+  #
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol.kultura'
+  #
+У Центрi Марiуполя з'явилися гiгантськi писанки та розмальованi кролики!, Телеканал Сігма, 26.04.2019.
+
+У Центрi Марiуполя з'явилися гiгантськi писанки та розмальованi кролики!
+Обов'язково побачте все самi! Тiльки розписаних яєць там аж 30 i всi вони рiзнi. Виставка просто неба буде у Марiуполi до 5 травня. 
+
+#https://www.facebook.com/hashtag/фестивальписанок
+#https://www.facebook.com/hashtag/374художника
+#https://www.facebook.com/groups/1013559558679300/posts/1279194902115763
+
+# https://www.facebook.com/hashtag/pysankaartfest2018
+# https://www.facebook.com/media/set/?set=a.2044720835783534&type=3

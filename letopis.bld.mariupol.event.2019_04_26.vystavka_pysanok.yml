@@ -48,11 +48,12 @@ patch:
   - '28_04_2019.fb.kutnjakova_maria.zhurnalist.vilnjus.mariupol.1.ljubimye_zajcy'
   - '26_04_2019.fb.mariupol.turystychne_misto.2.event_vystavka_teatr_skver'
 
+  - '14_03_2017.stz.kiev.vecherka.1.stolycja_golovna_mariupol_pysanka'
+  - '10_04_2017.stz.news.ua.mrpl_city.1.gigantskie_pysanki_iz_mariupolja_ukrasili_kiev'
+
 # https://www.0629.com.ua/news/2378249/v-mariupole-na-teatralnoj-plosadi-poavilis-ogromnye-kroliki-i-polutorametrovye-pisanki-fotoreportaz
 # https://mariupolrada.gov.ua/media/velichezni-pisanki-ta-horovi-spivi-mariupol-porinuv-u-velikodnju-atmosferu
 # https://dn.depo.ua/ukr/mariupol/u-mariupoli-vidkrili-vistavku-metrovikh-pisanok-20190426955582
-
-# https://vechirniy.kyiv.ua/news/12670
 
 #https://www.facebook.com/groups/1476321979131170/posts/2199204503509577
 #https://www.facebook.com/mistoMarii/posts/pfbid0UdggKmzCQmGfk6UpCTtA5HN5tTRzTXtD2dscTjpWNKix6Po2RWUN9QKhhHw9ysD7l
@@ -61,7 +62,6 @@ patch:
 #https://www.facebook.com/molodmrpl/posts/pfbid028T4T8vShwj64mwd53jXhGjfUZSSYhxybu6Fs8KBTyM4kYZmwGY7ejh2D9efcS6kEl
 #https://www.facebook.com/events/314876775851203?ref=newsfeed
 
-#https://mrpl.city/news/view/gigantskie-pisanki-iz-mariupolya-ukrasili-kiev-foto
 #https://www.facebook.com/groups/mkultura/posts/1916023191960203
 #https://www.facebook.com/cwetlana.ptica/posts/pfbid0cUDZZHCCHJ1EtDRTrpUCKxbtH8rWfjxebRMWyyEC63smCTksHjnsND6w4wc6PNyMl
 #https://www.facebook.com/cwetlana.ptica/posts/pfbid0LeR4U4QEGPAXQB7TcC6fYnGD3AzoBB3kSwe17yYSyNiupBto3KFQYwkp2NRmh6VMl

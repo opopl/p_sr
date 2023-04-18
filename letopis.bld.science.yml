@@ -1,0 +1,35 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch/:
+  'opts_maker/processor/_d2tex/caption/texify': 1
+  'opts_maker/processor/_d2tex/caption/escape_latex': 1
+
+patch:
+  'vars.layout.tabcont' : 0
+  'vars.layout.indexing' : 0
+  'opts_maker.join_lines.ii.exclude' :
+      index : 1
+
+  'vars.layout.doc.class' : 'extreport'
+  'vars.layout.doc.font.size' : '17pt'
+  'vars.layout.doc.orientation' : 'landscape'
+
+  'sii.scts._main_.ii.inner.body':
+  - 'albums.mix'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+#https://www.facebook.com/groups/314070194112/posts/10161546670519113
+#%https://www.facebook.com/permalink.php?story_fbid=pfbid02SWc3JcnEPGjGdbKDjUJeL25Kjfk9TvgaHJe9sAM7JXy5p5hayantijJAAprgzpowl&id=100000638150556

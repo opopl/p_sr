@@ -7,6 +7,11 @@
     'author' : { 'name' : 'MRPL.CITY' }
 }
 
+'vidsebe.media' : {
+    'site' : 'news.ua.mrpl.vidsebe',
+    'author' : { 'name' : 'vidsebe.media' }
+}
+
 '0629.com.ua' : {
     'site' : 'news.ua.mrpl.0629',
     'author' : { 'name' : '0629.com.ua - Сайт Міста Маріуполь' }

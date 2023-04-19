@@ -46,6 +46,9 @@ patch:
   - '16_04_2023.fb.fb_group.mariupol.pre_war.3.kviten_2019_svjatkovyj_mariupol'
   - '30_04_2019.fb.sosnovskij_evgenij.mariupol.1.pystankovyj_mariupol'
 
+  - '30_04_2019.fb.mariupol.turystychne_misto.1.zajchik_dvolikij'
+  - '29_04_2019.fb.tkachenko_myhajlo.mariupol.mvt6888.1.velykden_2019'
+
   - '28_04_2019.fb.kutnjakova_maria.zhurnalist.vilnjus.mariupol.1.ljubimye_zajcy'
   - '26_04_2019.fb.mariupol.turystychne_misto.2.event_vystavka_teatr_skver'
 
@@ -53,8 +56,51 @@ patch:
   - '10_04_2017.stz.news.ua.mrpl_city.1.gigantskie_pysanki_iz_mariupolja_ukrasili_kiev'
 
   - '26_04_2019.fb.mariupol.telekanal_sigma.1.centr_gigantski_pysanky_krolyky'
+  - '01_05_2019.stz.news.ua.mrpl.vidsebe.1.chomu_v_mariupol_pryvezly_krolykiv'
+  - '26_04_2019.fb.drovorub_sergij.mariupol.1.video_1_velykden_2019'
+
+# Ось так минає наш Великдень!  Впроваджую отриманні знання в життя😁🎥
+#https://www.facebook.com/permalink.php?story_fbid=pfbid0nNt8BRXat2t7J9DKUxb2QhmdU2RS4sPqWiqnx9iburgB94TWfG1CUhkgsrfw2mfQl&id=100009128368971
+#
+# https://www.facebook.com/permalink.php?story_fbid=pfbid027C7KAUqf9i919Efmq5C6SUBHjXBeUCueDNb58k7NWCutHhmYnXTiJtQgXE4EY8Gxl&id=100005858685059
+
+# drovorub 
+# https://www.facebook.com/100000308144994/videos/2340795185940730 26.04.2019
+# https://www.facebook.com/100000308144994/videos/2340797815940467
+# https://www.facebook.com/photo/?fbid=2340795119274070&set=a.1033788346641427
+# https://www.facebook.com/photo/?fbid=2341170539236528&set=a.1033788346641427
 
 #https://www.youtube.com/watch?v=CFTt5RMXVqs
+#https://www.facebook.com/watch/?v=379779929538280
+#
+# ponomareva
+# https://www.facebook.com/permalink.php?story_fbid=pfbid02d1n8b6h6q1CD2Vn8Etu7qNU7TpkC7weRXD1ybT5DP3Yh7FLSBcgW5CkX6LB1TVyjl&id=100000576599040
+# https://www.facebook.com/permalink.php?story_fbid=pfbid0QevbL1WcSgZXM4beBfh9A1YFV2tCUKRbWRzh7x5qiEho4FpvBhE9xYKiEjqSMV8Rl&id=100000576599040
+# https://www.facebook.com/photo/?fbid=2594856253876902&set=a.1341050839257456
+# https://www.facebook.com/permalink.php?story_fbid=pfbid02d1n8b6h6q1CD2Vn8Etu7qNU7TpkC7weRXD1ybT5DP3Yh7FLSBcgW5CkX6LB1TVyjl&id=100000576599040
+
+# Михайло Ткаченко
+#https://www.facebook.com/photo/?fbid=1280739002076761&set=a.1280738325410162
+#https://www.facebook.com/media/set/?set=a.1280738325410162&type=3
+
+# Пасха 2019 рік Маріуполь
+# https://www.facebook.com/andrey.kharenko/posts/pfbid0tsf1zA5r5X1w2rH6nAPae3NhMdacLEZJhR4vrA8nJ7ZdgVopdW3zKTqvoU3BLXd3l
+
+# Irina Boldyreva
+# https://www.facebook.com/photo?fbid=1270554189769429&set=a.1268348003323381
+# https://www.facebook.com/miss.nickolae
+# https://www.facebook.com/media/set/?set=a.1268348003323381&type=3
+
+# #Пасха2019 #мариуполь
+# Inna Kopteva
+# https://www.facebook.com/photo?fbid=2028213434151915&set=a.1740028132970448
+
+# https://www.facebook.com/photo/?fbid=871327526549015&set=pb.100010153266294.-2207520000.
+# https://mrpl.city/news/view/v-tsentre-mariupolya-ustanavlivayut-ogromnye-pisanki-privezennye-iz-kieva-fotofakt
+
+# http://mrpl.city.tilda.ws
+
+# https://www.facebook.com/groups/news.mariupol/posts/3577414162546160/
 
 # https://www.0629.com.ua/news/2378249/v-mariupole-na-teatralnoj-plosadi-poavilis-ogromnye-kroliki-i-polutorametrovye-pisanki-fotoreportaz
 # https://mariupolrada.gov.ua/media/velichezni-pisanki-ta-horovi-spivi-mariupol-porinuv-u-velikodnju-atmosferu
@@ -84,3 +130,29 @@ patch:
 # Подивитися на пасхальні фігури та запустити головний фонтан міста. З такою місією у театральний сквер приїхав мер. І ми теж 😉 Долучайся до нас у прямому ефірі 😊
 # https://www.facebook.com/watch/live/?ref=watch_permalink&v=1811798365588912
 # https://www.facebook.com/watch/tv7mariupol/
+
+# https://www.facebook.com/vlad.serg.3/posts/pfbid0wydnHPXXsMvkeiDFWJZvX54jJzvh11HrZjJyZ5jmpomffQVsbcBsWHTZbYk1gaJMl
+# https://www.facebook.com/vlad.serg.3/posts/pfbid0kz4oUDPG3nmLJ6zSrS4NHbQ3zweUNjRPPy9qw26J96T4TrnHCdLecDtSVT25ZJrfl
+
+# tanov
+# https://www.facebook.com/permalink.php?story_fbid=pfbid0ukskXD49UyHTK9bQHsnxZSrfu2XuXFN9tdxTh9zgB1JfqhJErqbHiytdU88UceFTl&id=100004258411625
+
+# https://www.facebook.com/events/314876775851203/
+
+# 27.04.2019 Народознавча година "О, Писанка! Ти - символ України!" Дитяча бібліотека ім.В.Нестайка (м.Маріуполь)
+# https://www.facebook.com/permalink.php?story_fbid=pfbid02fVcFk1gHVNRfEMjRQ5RgRhowkG6KYuV4eUmka8NSyBhVc1VZMj4kR9MXaChiSiX9l&id=100011654186662
+# https://www.facebook.com/caritasmariupol/
+# https://www.facebook.com/caritasmariupol/posts/pfbid02NqRi51YACpHBq9WKT2q7AXJMALvnbE9Ah44KWZJkUNjy54fJmet71isKBjZkvU5Xl
+#
+# https://www.facebook.com/pages/Театральная площадь/273333636623697
+# https://www.facebook.com/pages/Драматический Театр/426864834063347/
+# 
+# https://www.facebook.com/molodmrpl/posts/pfbid028GuSqnAy8EfPgygjKtP4NzDPuS5EVogSBWgZ6ffcEamzuA7byzP1Lr8t8HjgCNUWl
+# https://www.facebook.com/groups/1109870082489160/posts/1417441131732052/
+# https://www.facebook.com/permalink.php?story_fbid=pfbid0tXfrw4y6BpofgPNpLfBmcZLumFhCGQ4ABUQrxMwnG6PpQBYSSgtLPGtSMtn569VEl&id=100011183255721
+# https://www.facebook.com/groups/206794349841781/posts/575458216308724/
+# https://www.facebook.com/libgrushevka/posts/pfbid0z9Kk6FsoVMn3sWiTS9eLokKHXeQ9nj3Wt5griS5RU7UjWbdSS8h4mG3YNfQTM67l
+# https://www.facebook.com/permalink.php?story_fbid=pfbid0LAMCXD5FWmEVxDRPPic3GwtCo6UW3MkU2EyVYxMErGV7z81SsSrdv2QdWKy8iCPMl&id=100025814593423
+# 2021 pysankarstvo https://www.facebook.com/media/set/?set=a.10158898438969799&type=3
+# https://www.facebook.com/events/2326025127683402/?ref=newsfeed
+# https://www.facebook.com/psi.art.ua

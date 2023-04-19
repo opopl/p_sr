@@ -1,0 +1,43 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 1
+  'opts_maker.join_lines.ii.exclude' :
+      index : 0
+
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+
+  #'sii.scts._main_.ii.inner.bodyx':
+  #
+  'sii.scts._main_.ii.inner.body':
+  - '01_05_2019.stz.news.ua.mrpl.vidsebe.1.chomu_v_mariupol_pryvezly_krolykiv'
+
+  # todo
+  - '10_06_2019.stz.news.ua.mrpl.vidsebe.1.atmosferni_kutochky_mariupolja'
+
+#https://web.archive.org/web/20200707035348/https://vidsebe.media/read/blogs
+#https://web.archive.org/web/20220902144319/https://vidsebe.media/blogs/32984/5-knig-za-kotorymi-stoilo-proehat-18-chasov-na-arsenal
+#https://web.archive.org/web/20220902163253/https://vidsebe.media/articles/88969/5-populyarnyh-kurortov-pod-mariupolem-kakie-usloviya-i-ceny-v-etom-sezone
+#https://web.archive.org/web/20210904182358/https://vidsebe.media/articles/151855/fotoarhivy-mariupolcev-mogut-stat-chastyu-art-proekta-
+#https://web.archive.org/web/20220902160540/https://vidsebe.media/articles/68953/adaptaciyarealnosti-mashi-vyshedskoj

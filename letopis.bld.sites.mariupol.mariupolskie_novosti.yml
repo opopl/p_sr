@@ -1,0 +1,56 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 1
+  'opts_maker.join_lines.ii.exclude' :
+      index : 0
+
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+
+  #'sii.scts._main_.ii.inner.bodyx':
+  #
+  'sii.scts._main_.ii.inner.body':
+#http://mariupolnews.com.ua/news/view/mariupolskie-bajkery-otkryli-motosezon-2019
+#http://mariupolnews.com.ua/news/view/mariupoltsev-priglashayut-issledovat-okrainy-goroda
+#http://mariupolnews.com.ua/news/view/novaya-zhizn-parka-veselka
+#http://mariupolnews.com.ua/news/view/k-festivalyu-gogolfest-v-mariupole-poyavitsya-20-novyh-installyatsij
+#http://mariupolnews.com.ua/news/view/novye-attraktsiony-i-besplatnyj-vhod-v-vyhodnye-v-mariupole-otkroetsya-e-kstrim-park
+#http://mariupolnews.com.ua/news/view/balet-kranov-inostrannye-spektakli-i-mnogo-muzyki-chto-gotovit-startup-gogolfest-dlya-mariupolya
+#http://mariupolnews.com.ua/news/view/mariupoltsy-nashli-golubya-kotorogo-poteryal-nilsen
+#http://mariupolnews.com.ua/news/view/fontan-vodopad-zelenyj-labirint-i-tysyachi-tsvetov-kakim-budet-park-veselka
+#http://mariupolnews.com.ua/news/view/na-kievskom-vokzale-poyavilas-3-metrovaya-golova-gogolya26-aprelya-ona-otpravitsya-v-mariupol
+#http://mariupolnews.com.ua/news/view/vyhodnye-v-aprele-mariupoltsev-ozhidaet-chetyrehdnevnyj-uik-e-nd
+#http://mariupolnews.com.ua/news/view/mariupolskie-angely-nikogo-ne-ostavili-ravnodushnym
+#http://mariupolnews.com.ua/news/view/na-levoberezhe-vyrastaet-sovremennyj-multitsentr-za-95-millionov
+#http://mariupolnews.com.ua/news/view/tut-vse-hodyat-na-golovah-smotrovuyu-ploshhadku-mariupolskoj-vezhi-prevratili-v-kameru-obskura
+#http://mariupolnews.com.ua/news/view/pasha-v-donetskoj-oblasti-proshla-bez-proisshestvijpolitsiya
+#http://mariupolnews.com.ua/news/view/v-mariupole-ya-chuvstvuyu-sebya-kak-domadzhamala
+#http://mariupolnews.com.ua/news/view/v-ramkah-gogol-fest-pokazali-film-anya-i-serezha-v-glavnyh-rolyahmariupoltsy
+#http://mariupolnews.com.ua/news/view/v-mariupole-otkryli-sezon-ulichnyh-avtogonok-drag-racing
+#http://mariupolnews.com.ua/news/view/mariupolskij-passazhirskij-poezd-voshel-v-desyatku-samyh-zagruzhennyh-v-ukraine
+#http://mariupolnews.com.ua/news/view/v-mariupole-proshli-vseukrainskaya-i-mezhdunarodnaya-vystavki-sobak
+#http://mariupolnews.com.ua/news/view/vozle-ofisa-politsii-v-mariupole-vysadili-100-kustov-roz-i-bolee-100-derevev
+#http://mariupolnews.com.ua/news/view/na-mariupolskih-plyazhah-uzhe-ustanovili-pochti-vse-oborudovanie
+#http://mariupolnews.com.ua/news/view/mariupolskie-skify-pokorili-gimalai
+#http://mariupolnews.com.ua/news/view/v-gorodskom-sadu-chistota-i-poryadok-posle-festivalya-fotoreportazh

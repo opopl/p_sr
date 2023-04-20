@@ -1,0 +1,36 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch/:
+  'opts_maker/processor/_d2tex/caption/texify': 1
+  'opts_maker/processor/_d2tex/caption/escape_latex': 1
+  #'opts_maker/processor/_d2tex/caption/href/childof': 1
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 1
+  'opts_maker.join_lines.ii.exclude' :
+      index : 0
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+
+  'sii.scts._main_.ii.inner.body':
+#https://www.facebook.com/media/set/?set=a.1279051705609563&type=3
+#https://www.facebook.com/ihor.yarmolenko/posts/pfbid0ejP23dBvcbJVgz5kX4928562mRNnnW6aWc4PRzfNCFBLiNNAMhh97bFws9zhGpMkl
+#https://www.facebook.com/dbraintec
+#https://it8bit.club/blog/muzeya-kompqyuterov-v-mariupole-bolqswe-net?fbclid=IwAR0eyEH5SQF36R90xjmf7G05wDCnsxuB432MjwB6_0qGnER-RNYVVHvwYgI
+#https://www.facebook.com/groups/club8bit

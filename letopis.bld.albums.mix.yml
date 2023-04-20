@@ -15,6 +15,7 @@ run_tex:
 patch/:
   'opts_maker/processor/_d2tex/caption/texify': 1
   'opts_maker/processor/_d2tex/caption/escape_latex': 1
+  #'opts_maker/processor/_d2tex/caption/href/childof': 1
 
 patch:
   'vars.layout.tabcont' : 0
@@ -28,5 +29,6 @@ patch:
 
   'sii.scts._main_.ii.inner.body':
   - 'albums.mix'
+  #- 'albums.mix.1'
 
   'sii.scts.preamble.setcounter.secnumdepth' : 0

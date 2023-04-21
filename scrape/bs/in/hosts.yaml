@@ -12,6 +12,11 @@
     'author' : { 'name' : 'vidsebe.media' }
 }
 
+'ukrinform.ua' : {
+    'site' : 'news.ua.ukrinform',
+    'author' : { 'name' : 'УкрІнформ' }
+}
+
 'mariupolnews.com.ua' : {
     'site' : 'news.ua.mrpl.mariupolnews_com_ua',
     'author' : { 'name' : 'Мариупольские Новости' }

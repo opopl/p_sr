@@ -1,0 +1,73 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch:
+  'vars.layout.tabcont' : 0
+  'vars.layout.indexing' : 0
+  'opts_maker.join_lines.ii.exclude' :
+      index : 1
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'trg.people.galushko_denis.atbegin.pryjshov_minus'
+  - 'tabcont'
+
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol'
+  - '12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko'
+
+  #- '20_03_2022.fb.galushko_denis.1.nash__lyudi_prekrasn'
+  #- '29_04_2022.fb.galushko_denis.1.kolis__tse_vse_zak_n'
+
+  #- '29_09_2022.fb.galushko_denis.1.suka_nenavidzhu_rank'
+  #- '30_09_2022.fb.galushko_denis.1.mi_vs__razom__yak_ge'
+
+  #- '08_10_2022.fb.galushko_denis.1.p_r_p_s_z_nas_l_n_m'
+  #- '11_10_2022.fb.galushko_denis.1.nu_shcho___nov__vik'
+  #- '12_10_2022.fb.galushko_denis.1._prosto_chitav_sogod'
+  #- '13_10_2022.fb.galushko_denis.1.koroche__mav_chest_p'
+  #- '14_10_2022.fb.galushko_denis.1.zakhisnits__ta_zakhi'
+  #- '17_10_2022.fb.galushko_denis.1.znayu_shcho_u_vr_lez'
+  #- '17_10_2022.fb.galushko_denis.2.tak_fe_richno___pask'
+  #- '19_10_2022.fb.galushko_denis.1.zlo_yake_ne_pokarano'
+  #- '23_10_2022.fb.galushko_denis.1.tak_a_shcho_v_nas_na'
+  #- '24_10_2022.fb.galushko_denis.1.upd___druz__vs_m_dya'
+  #- '28_10_2022.fb.galushko_denis.1.mi__dine_do_chogo_ne'
+
+  #- '27_11_2022.fb.galushko_denis.1.vi_nash__stalev__pta'
+  #- '27_11_2022.fb.galushko_denis.2.koroche_bliskavka__t'
+  #- '29_11_2022.fb.galushko_denis.1._kozaki_dyakuyut___p'
+  #- '13_11_2022.fb.galushko_denis.1.v_iskova_kampan_ya_2'
+  #- '18_11_2022.fb.galushko_denis.1.zaboboni'
+  #- '20_11_2022.fb.galushko_denis.1.v_sam__temn__chasi__'
+
+  #- '01_12_2022.fb.galushko_denis.1.druz___pobratimi_z_7'
+  #- '02_12_2022.fb.galushko_denis.1.ta_yakii_vikh_d__pri'
+  #- '03_12_2022.fb.galushko_denis.1.dyadko__dyakuyu_tob_'
+  #- '05_12_2022.fb.galushko_denis.1.poki___trokhi__ntern'
+  #- '06_12_2022.fb.galushko_denis.1.z_svyatom_vas_posest'
+  #- '08_12_2022.fb.galushko_denis.1.mi_dyaku_mo_vam__mi_'
+  #- '09_12_2022.fb.galushko_denis.1.davno_n_chogo_ne_pis'
+  #- '10_12_2022.fb.galushko_denis.1.bakhmut__za__godinu_'
+  #- '14_12_2022.fb.galushko_denis.1.upd__pitannya_zakrit'
+  #- '20_12_2022.fb.galushko_denis.1.koroche_salaboni__vu'
+  #- '22_12_2022.fb.galushko_denis.1.druz__dyakuyu_vam_vs'
+  #- '24_12_2022.fb.galushko_denis.1.peremogu__roblyat_ly'
+  #- '31_12_2022.fb.galushko_denis.1.zima_bude_vkrai_vazh'
+  #- '31_12_2022.fb.galushko_denis.2.a_khto_takii_molodet'
+
+  #- '01_01_2023.fb.galushko_denis.1.mi__khali_bakhmutom'
+  #- '03_01_2023.fb.galushko_denis.1.dumi_mo___dumi_mo___'
+  #- '08_01_2023.fb.galushko_denis.1.bahmut_prijshov_minus'

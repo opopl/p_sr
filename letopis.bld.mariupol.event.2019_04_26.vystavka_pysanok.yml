@@ -12,6 +12,20 @@ opts_maker:
 run_tex:
   shell: system
 
+tex4ht:
+  # options: htlatex, make4ht
+  run:
+    exe : htlatex
+
+  cfg:
+    vars:
+       'preamble':
+         'frames' : 1
+         #'next' : 'next'
+         #'sectioning' : 4
+         #'index' : 'index=2'
+       javascript: 0
+
 patch:
   'vars.layout.tabcont' : 1
   'vars.layout.indexing' : 1
@@ -39,33 +53,36 @@ patch:
   - '26_04_2019.fb.mariupol.jarmarok.1.30_pysanok_30_zajchenjat'
   - '26_04_2019.fb.mariupol.turystychne_misto.1.arrival_pysanky_zajchiki'
 # avtory
-  - '26_04_2019.fb.fb_group.750_hudozhnykiv.1.avtory_pysanky_zajci'
-  - '28_04_2019.fb.fb_group.750_hudozhnykiv.1.foto_z_mariupolja_pysanky'
+#  - '26_04_2019.fb.fb_group.750_hudozhnykiv.1.avtory_pysanky_zajci'
+  #- '28_04_2019.fb.fb_group.750_hudozhnykiv.1.foto_z_mariupolja_pysanky'
 
-  - '17_06_2018.fb.fb_group.folk_ukraine_mysteckii_prostir.1.festival_pysanky_kyiv_pidtrymka_folk_ukraine'
-  - '16_04_2023.fb.fb_group.mariupol.pre_war.3.kviten_2019_svjatkovyj_mariupol'
-  - '30_04_2019.fb.sosnovskij_evgenij.mariupol.1.pystankovyj_mariupol'
+  #- '17_06_2018.fb.fb_group.folk_ukraine_mysteckii_prostir.1.festival_pysanky_kyiv_pidtrymka_folk_ukraine'
+  #- '16_04_2023.fb.fb_group.mariupol.pre_war.3.kviten_2019_svjatkovyj_mariupol'
+  #- '30_04_2019.fb.sosnovskij_evgenij.mariupol.1.pystankovyj_mariupol'
 
-  - '30_04_2019.fb.mariupol.turystychne_misto.1.zajchik_dvolikij'
-  - '29_04_2019.fb.tkachenko_myhajlo.mariupol.mvt6888.1.velykden_2019'
+  #- '30_04_2019.fb.mariupol.turystychne_misto.1.zajchik_dvolikij'
+  #- '29_04_2019.fb.tkachenko_myhajlo.mariupol.mvt6888.1.velykden_2019'
 
-  - '28_04_2019.fb.kutnjakova_maria.zhurnalist.vilnjus.mariupol.1.ljubimye_zajcy'
-  - '26_04_2019.fb.mariupol.turystychne_misto.2.event_vystavka_teatr_skver'
+  #- '28_04_2019.fb.kutnjakova_maria.zhurnalist.vilnjus.mariupol.1.ljubimye_zajcy'
+  #- '26_04_2019.fb.mariupol.turystychne_misto.2.event_vystavka_teatr_skver'
 
-  - '14_03_2017.stz.kiev.vecherka.1.stolycja_golovna_mariupol_pysanka'
-  - '10_04_2017.stz.news.ua.mrpl_city.1.gigantskie_pysanki_iz_mariupolja_ukrasili_kiev'
+  #- '14_03_2017.stz.kiev.vecherka.1.stolycja_golovna_mariupol_pysanka'
+  #- '10_04_2017.stz.news.ua.mrpl_city.1.gigantskie_pysanki_iz_mariupolja_ukrasili_kiev'
 
-  - '26_04_2019.fb.mariupol.telekanal_sigma.1.centr_gigantski_pysanky_krolyky'
-  - '01_05_2019.stz.news.ua.mrpl.vidsebe.1.chomu_v_mariupol_pryvezly_krolykiv'
-  - '26_04_2019.fb.drovorub_sergij.mariupol.1.video_1_velykden_2019'
+  #- '26_04_2019.fb.mariupol.telekanal_sigma.1.centr_gigantski_pysanky_krolyky'
+  #- '01_05_2019.stz.news.ua.mrpl.vidsebe.1.chomu_v_mariupol_pryvezly_krolykiv'
+  #- '26_04_2019.fb.drovorub_sergij.mariupol.1.video_1_velykden_2019'
 
-  - '06_05_2019.fb.boldyreva_iryna.mariupol.1.easter_2019'
-  - '30_04_2019.fb.dubinina_tatjana.mariupol.1.rjadom_s_vami_prekrasnenkoje_na_sosednjej_ulice'
+  #- '06_05_2019.fb.boldyreva_iryna.mariupol.1.easter_2019'
+  #- '30_04_2019.fb.dubinina_tatjana.mariupol.1.rjadom_s_vami_prekrasnenkoje_na_sosednjej_ulice'
 
-  - '21_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.master_klassy_roboty_pysanky'
-  - '22_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.centr_mariupolja_ukrasjat_k_pashe'
-  - '26_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_teatralnom_skvere_poselilis_pysanki'
-  - '29_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_centre_prazdnujut_pashu_fotoreportazh'
+  #- '21_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.master_klassy_roboty_pysanky'
+  #- '22_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.centr_mariupolja_ukrasjat_k_pashe'
+  #- '26_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_teatralnom_skvere_poselilis_pysanki'
+  #- '29_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_centre_prazdnujut_pashu_fotoreportazh'
+
+# /964x620/EOyUQYLi.jpg
+#EOyUQYLi.jpg
 
 # https://t.me/mistoMarii/1030
 # https://t.me/mistoMarii/1031
@@ -184,7 +201,6 @@ patch:
 # https://www.facebook.com/photo?fbid=2028213434151915&set=a.1740028132970448
 
 # https://www.facebook.com/photo/?fbid=871327526549015&set=pb.100010153266294.-2207520000.
-# https://mrpl.city/news/view/v-tsentre-mariupolya-ustanavlivayut-ogromnye-pisanki-privezennye-iz-kieva-fotofakt
 
 # http://mrpl.city.tilda.ws
 
@@ -252,3 +268,6 @@ patch:
 # inna dunay
 # https://www.facebook.com/photo/?fbid=2280855982162117&set=a.1833237483590638
 # https://www.facebook.com/photo/?fbid=2280856252162090&set=a.1833237483590638
+
+# https://little.com.ru/action/901107.html
+# https://www.ostro.org/ru/news/art-fleshmob-y-vystavku-gygantskyh-pysanok-provedut-na-pashalnye-vyhodnye-v-maryupole-i282912

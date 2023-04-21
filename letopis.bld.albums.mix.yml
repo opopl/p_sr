@@ -24,10 +24,12 @@ patch:
       index : 1
 
   'vars.layout.doc.class' : 'extreport'
-  'vars.layout.doc.font.size' : '17pt'
-  'vars.layout.doc.orientation' : 'landscape'
+  'vars.layout.doc.font.size' : '20pt'
+  #'vars.layout.doc.orientation' : 'landscape'
+  'vars.layout.doc.orientation' : 'portrait'
 
   'sii.scts._main_.ii.inner.body':
+  - 'albums.rabbit.alice'
   - 'albums.mix'
   #- 'albums.mix.1'
 

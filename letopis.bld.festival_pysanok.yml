@@ -28,12 +28,11 @@ patch:
   'sii.scts._main_.ii.inner.start':
   - 'tabcont'
 
-  #'sii.scts._main_.ii.inner.bodyx':
-  #- '18_02_2023.fb.fb_group.mariupol.pre_war.2.mo__mar_upolsk__robo'
-
   #
   'sii.scts._main_.ii.inner.body':
   - '17_04_2017.fb.fb_group.750_hudozhnykiv.1.pysanochky_proshlogo_goda'
+
+  - '30_03_2018.fb.fb_group.750_hudozhnykiv.1.zakinchyla_kapsulu_chasu'
 
   #- 'mariupol.kultura'
   #

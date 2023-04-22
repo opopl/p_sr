@@ -12,23 +12,51 @@ opts_maker:
 run_tex:
   shell: system
 
+patch/:
+  #'sii/generate/on/$matched{section}.pic.ui_import' : 1
+  #'sii/generate/on/$matched{section}.video' : 1
+  #'sii/generate/on/$matched{section}.orig' : 1
+  #'sii/generate/on/$matched{section}.cmtx' : 1
+
+  'opts_maker/join_lines/ii/exclude/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 1
+  'sii/generate/on/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 0
+
 patch:
   'vars.layout.tabcont' : 0
   'vars.layout.indexing' : 0
   'opts_maker.join_lines.ii.exclude' :
       index : 1
 
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+  'opts_maker.processor._d2tex.caption.wrap.sprintf' : '\textbf{%s}'
+
   'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.ctl.Sct._sct_lines.loop.ii' :
+      foreach_ii_sec:
+        if_or:
+        - 'ii_sec' : '12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.orig' : 0
+             #'patch/':
+                #'opts_maker/join_lines/ii/exclude/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 1
 
   'sii.scts._main_.ii.inner.start':
   - 'trg.people.galushko_denis.atbegin.pryjshov_minus'
+  - 'trg.people.galushko_denis.atbegin.pogoda'
   - 'tabcont'
+
 
   'sii.scts._main_.ii.inner.body':
   #- 'mariupol'
   - '12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko'
 
-  #- '20_03_2022.fb.galushko_denis.1.nash__lyudi_prekrasn'
+  - '20_03_2022.fb.galushko_denis.1.nash__lyudi_prekrasn'
   #- '29_04_2022.fb.galushko_denis.1.kolis__tse_vse_zak_n'
 
   #- '29_09_2022.fb.galushko_denis.1.suka_nenavidzhu_rank'

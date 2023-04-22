@@ -47,16 +47,15 @@ patch:
                 #'opts_maker/join_lines/ii/exclude/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 1
 
   'sii.scts._main_.ii.inner.start':
-  - 'trg.people.galushko_denis.atbegin.pryjshov_minus'
+  #- 'trg.people.galushko_denis.atbegin.pryjshov_minus'
   - 'trg.people.galushko_denis.atbegin.pogoda'
   - 'tabcont'
-
 
   'sii.scts._main_.ii.inner.body':
   #- 'mariupol'
   - '12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko'
 
-  - '20_03_2022.fb.galushko_denis.1.nash__lyudi_prekrasn'
+  #- '20_03_2022.fb.galushko_denis.1.nash__lyudi_prekrasn'
   #- '29_04_2022.fb.galushko_denis.1.kolis__tse_vse_zak_n'
 
   #- '29_09_2022.fb.galushko_denis.1.suka_nenavidzhu_rank'

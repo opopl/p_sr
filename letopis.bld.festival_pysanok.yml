@@ -40,6 +40,9 @@ patch:
   - '28_02_2019.fb.folk_ukraine.1.festival_taking_timeout_this_year'
 
   # zajsja
+  #
+  - '06_04_2018.stz.news.ua.mrpl_city.1.pashalnyj_krolik_mariupol_mastericy_ukrasil'
+
   - '09_04_2018.fb.fb_group.750_hudozhnykiv.1.esli_kto_nibud_uvidit_moju_zaju'
   - '31_03_2018.fb.meshkova_davydenko_svitlana.mariupol.pysanky.1.u_nashej_zajsi_cvetochnyj_maj_kap_i_kruzheva'
   - '02_04_2018.fb.meshkova_davydenko_svitlana.mariupol.pysanky.1.zajsja_uehal_v_kiev_veselaja_fotosessia'
@@ -49,6 +52,8 @@ patch:
   - '17_04_2018.fb.meshkova_davydenko_svitlana.mariupol.pysanky.1.projshlo_dva_roky_a_moja_pysanka_sche_zhyva'
 
   - '27_04_2018.fb.fb_group.750_hudozhnykiv.1.folk_ua_uzhe_nachinajet_podgotovku_k_sledujuschemu_festivalju'
+
+#https://mrpl.city/news/view/pashalnyj-krolik-ot-mariupolskih-masterits-ukrasil-ploshhad-v-stolitse-foto
 
 #https://www.facebook.com/groups/1013559558679300/posts/1602940326407884
 

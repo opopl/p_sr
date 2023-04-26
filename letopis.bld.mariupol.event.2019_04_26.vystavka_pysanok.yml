@@ -81,7 +81,27 @@ patch:
   #- '26_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_teatralnom_skvere_poselilis_pysanki'
   #- '29_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_centre_prazdnujut_pashu_fotoreportazh'
   #
+  # -------- ??
   - '03_05_2019.fb.vaschuk_svitlana.mariupol.1.pashalnaja_vystavka'
+  - '29_04_2019.fb.dunaj_inna.mariupol.1.instaljacia_pashalnoje_jajco'
+  - '28_04_2019.fb.karakulov_volodymyr.mariupol.1.hristos_voskres'
+  # -------- ?dead
+  - '27_04_2019.fb.morozov_oleksandr.mariupol.likar_endoskopist.1.foto_velykden_2019_without_title'
+  # -----------------
+
+  - '26_04_2019.fb.osipova_inna.mariupol.1.prijatnyj_sjurpriz_pysanky_kroliki'
+  - '28_04_2019.fb.osipova_inna.mariupol.1.pozdravljaju_vseh_druzej_s_prazdnikom'
+  - '24_04_2022.fb.harenko_andrij.mariupol.1.pasha_2019_rik_mariupol'
+
+  - '05_05_2019.fb.ponomareva_anastasia.mariupol.1.dijshla_do_trendiv_zajchyky_ta_jajcja'
+  - '05_05_2019.fb.ponomareva_anastasia.mariupol.2.zajchykovi_dupky'
+
+# https://www.facebook.com/story.php?story_fbid=pfbid0wPtjut55ZQ1av2fr5JLk9P6UQKYLagTbAGjjfA34HJoKjkEkMR5hYjEQfpPmqTqMl&id=100001771432511
+#
+# https://mrpl.city/news/view/holst-iz-polutorametrovogo-yajtsa-i-pashalnyj-boj-mariupoltsev-priglashayut-na-prazdnik
+
+# Пасха 2019 рік Маріуполь
+# 
 
 # /964x620/EOyUQYLi.jpg
 #EOyUQYLi.jpg
@@ -122,31 +142,14 @@ patch:
 # http://mariupolnews.com.ua/news/view/gigantskie-pisanki-v-teatralnom-skvere-ne-ustoyali-pered-vetrom-fotofakt
 # http://mariupolnews.com.ua/news/view/s-pashalnoj-arki-v-teatralnom-skvere-nachali-ischezat-pisanki-fotofakt
 # http://mariupolnews.com.ua/news/view/mariupoltsy-prazdnuyut-svetloe-hristovo-voskresenie-fotoreportazh
+##
 #
-# https://www.facebook.com/lady.dunay/posts/pfbid02xW71VBUh8aG8uWUebfuYeCQXmBpBKQ28Q1j7b8ieQ1EG4EkubhwNbhG1qvaVhTkPl#
-#
-# Нашёл симпатичную подругу, расписанную в экостиле), Олег Дончев, 27.04.2019
-# https://www.facebook.com/permalink.php?story_fbid=pfbid0X7QZqRn1W926HRsCC7YymUbkejmPqxy72uRPMZg5FKEmgL7NMi8dexZJkaDKwHCvl&id=100009409788883
-# Маріуполь сьогодні. Пасхальні фігури у театральному сквері, Телеканал TV7 Маріуполь, 26.04.2023
+# 
+# Маріуполь сьогодні. Пасхальні фігури у театральному сквері, Телеканал TV7 Маріуполь, 26.04.2019
 # https://www.facebook.com/watch/?v=418054732356720
 # 30 пасхальных кроликов + 30 яиц.= множество счастливых лиц), Олег Дончев, 27.04.2019
 # https://www.facebook.com/100009409788883/videos/2318841611772809
 
-# https://www.facebook.com/innik.osipova/posts/pfbid02LWE32aTNZhXV55LjRG89t9eCmZTB8hc8n33MCkSRdGgVAGQ4qe3PNiohoxAMdLCAl
-# https://www.facebook.com/innik.osipova/posts/pfbid0wJkqSUUsD7xakYpgy4PRx17twakxusEK5ooisUZn4KEqw18MxVVUietpXPzgodWnl
-#
-# Elizaveta Nozdrina
-# https://www.facebook.com/photo/?fbid=1458478447624798&set=p.1458478447624798
-#
-# aleksandr morozov
-# https://www.facebook.com/permalink.php?story_fbid=pfbid02nZN9Tf5naLT2F9P78xeosQKgUhhHPBnPgJ9RUGZDrZJDRoihvMuUBMjLmnnupD9rl&id=100022215452980
-# https://www.facebook.com/permalink.php?story_fbid=pfbid02gCEbae5YgadjPje7vCjtCngLx8z2naZuFqrRtG8TPg12D2SqA3E8pXThHLK6bcecl&id=100022215452980
-#
-# vaschuk svetlana ?? 
-# https://www.facebook.com/media/set/?set=a.2229427730720101&type=3
-
-# Христос Воскрес!
-# https://www.facebook.com/permalink.php?story_fbid=pfbid07YXteqWn2fVSVSVGBa1wk6v7QAo7i7De4K49DKZgsQSsHinLRUojccbtrbsKoDrUl&id=100002940835338
 # https://www.facebook.com/larisa.g.petrova/posts/pfbid0YAg3b8BaKGYKdqRViDSCD8WW45mSTTSBMp6hPmVQ2T42jL5fjLZJvVRJZDLJRtfpl
 # https://www.facebook.com/larisa.g.petrova/posts/pfbid02dNXgC5NUu2wb2WjEyFC6XLvUc7NNPYptwe6JG4YzZ6MkkDDZP3nox1HDYWHk2GXXl
 # https://www.facebook.com/permalink.php?story_fbid=pfbid02gCEbae5YgadjPje7vCjtCngLx8z2naZuFqrRtG8TPg12D2SqA3E8pXThHLK6bcecl&id=100022215452980
@@ -179,30 +182,12 @@ patch:
 
 #https://www.youtube.com/watch?v=CFTt5RMXVqs
 #https://www.facebook.com/watch/?v=379779929538280
-#
-# ponomareva
-# https://www.facebook.com/permalink.php?story_fbid=pfbid02d1n8b6h6q1CD2Vn8Etu7qNU7TpkC7weRXD1ybT5DP3Yh7FLSBcgW5CkX6LB1TVyjl&id=100000576599040
-# https://www.facebook.com/permalink.php?story_fbid=pfbid0QevbL1WcSgZXM4beBfh9A1YFV2tCUKRbWRzh7x5qiEho4FpvBhE9xYKiEjqSMV8Rl&id=100000576599040
-# https://www.facebook.com/photo/?fbid=2594856253876902&set=a.1341050839257456
-# https://www.facebook.com/permalink.php?story_fbid=pfbid02d1n8b6h6q1CD2Vn8Etu7qNU7TpkC7weRXD1ybT5DP3Yh7FLSBcgW5CkX6LB1TVyjl&id=100000576599040
-
-# Михайло Ткаченко
-#https://www.facebook.com/photo/?fbid=1280739002076761&set=a.1280738325410162
-#https://www.facebook.com/media/set/?set=a.1280738325410162&type=3
-
-# Пасха 2019 рік Маріуполь
-# https://www.facebook.com/andrey.kharenko/posts/pfbid0tsf1zA5r5X1w2rH6nAPae3NhMdacLEZJhR4vrA8nJ7ZdgVopdW3zKTqvoU3BLXd3l
-
-# Irina Boldyreva
-# https://www.facebook.com/photo?fbid=1270554189769429&set=a.1268348003323381
-# https://www.facebook.com/miss.nickolae
-# https://www.facebook.com/media/set/?set=a.1268348003323381&type=3
 
 # #Пасха2019 #мариуполь
 # Inna Kopteva
 # https://www.facebook.com/photo?fbid=2028213434151915&set=a.1740028132970448
+# https://www.facebook.com/inna.kopteva.77/posts/pfbid02YCeCVRzAK6uJPnNL2N9pjZ1Z7eNsbJzzniMCj3QEQY1gj7LLBJKhf1ohMMW2P36vl
 
-# https://www.facebook.com/photo/?fbid=871327526549015&set=pb.100010153266294.-2207520000.
 
 # http://mrpl.city.tilda.ws
 
@@ -267,9 +252,6 @@ patch:
 #
 # https://www.facebook.com/events/421786488597137/?ref=newsfeed
 #
-# inna dunay
-# https://www.facebook.com/photo/?fbid=2280855982162117&set=a.1833237483590638
-# https://www.facebook.com/photo/?fbid=2280856252162090&set=a.1833237483590638
 
 # https://little.com.ru/action/901107.html
 # https://www.ostro.org/ru/news/art-fleshmob-y-vystavku-gygantskyh-pysanok-provedut-na-pashalnye-vyhodnye-v-maryupole-i282912

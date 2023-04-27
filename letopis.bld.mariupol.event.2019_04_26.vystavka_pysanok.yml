@@ -91,10 +91,16 @@ patch:
 
   - '26_04_2019.fb.osipova_inna.mariupol.1.prijatnyj_sjurpriz_pysanky_kroliki'
   - '28_04_2019.fb.osipova_inna.mariupol.1.pozdravljaju_vseh_druzej_s_prazdnikom'
+  - '27_04_2019.fb.petrova_larysa.mariupol.1.vechirnij_mariupol_velykden'
   - '24_04_2022.fb.harenko_andrij.mariupol.1.pasha_2019_rik_mariupol'
+  - '02_05_2019.fb.fb_group.mkultura.1.velykodnja_pysanka_fotosvit'
+  - '29_04_2019.fb.kopteva_inna.mariupol.1.pasha_2019_mariupol'
 
   - '05_05_2019.fb.ponomareva_anastasia.mariupol.1.dijshla_do_trendiv_zajchyky_ta_jajcja'
   - '05_05_2019.fb.ponomareva_anastasia.mariupol.2.zajchykovi_dupky'
+
+  - '19_03_2017.fb.meshkova_davydenko_svitlana.mariupol.pysanky.1.katalog'
+  - '25_03_2017.fb.meshkova_davydenko_svitlana.mariupol.pysanky.1.utro_v_prjamom_efire_kluby_makosh_jaroslava'
 
 # https://www.facebook.com/story.php?story_fbid=pfbid0wPtjut55ZQ1av2fr5JLk9P6UQKYLagTbAGjjfA34HJoKjkEkMR5hYjEQfpPmqTqMl&id=100001771432511
 #
@@ -150,7 +156,7 @@ patch:
 # 30 пасхальных кроликов + 30 яиц.= множество счастливых лиц), Олег Дончев, 27.04.2019
 # https://www.facebook.com/100009409788883/videos/2318841611772809
 
-# https://www.facebook.com/larisa.g.petrova/posts/pfbid0YAg3b8BaKGYKdqRViDSCD8WW45mSTTSBMp6hPmVQ2T42jL5fjLZJvVRJZDLJRtfpl
+# 
 # https://www.facebook.com/larisa.g.petrova/posts/pfbid02dNXgC5NUu2wb2WjEyFC6XLvUc7NNPYptwe6JG4YzZ6MkkDDZP3nox1HDYWHk2GXXl
 # https://www.facebook.com/permalink.php?story_fbid=pfbid02gCEbae5YgadjPje7vCjtCngLx8z2naZuFqrRtG8TPg12D2SqA3E8pXThHLK6bcecl&id=100022215452980
 # https://www.facebook.com/permalink.php?story_fbid=pfbid02Jz6Kfnk9Xn2MuSsSMoaQ86LLwjMcosPneuTAQRLjrxAKG4yZbzV1KHLAR1KsVpXil&id=100022215452980
@@ -161,9 +167,6 @@ patch:
 
 #https://www.facebook.com/events/314876775851203/?ref=newsfeed
 #https://www.facebook.com/events/314876775851203/?post_id=316249175713963&view=permalink
-
-# sudarenko alena fotozvit velykden 2019 02.05.2019
-# https://www.facebook.com/media/set/?set=oa.2358369287725589&type=3
 
 # https://www.facebook.com/watch/?ref=search&v=351846245447121&external_log_id=fe3c2dec-948f-4f43-a6c5-343f3dba649f&q=%23%D0%BF%D0%B0%D1%81%D1%85%D0%B02019%20%23%D0%BC%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C
 # https://www.facebook.com/watch/?ref=search&v=2573816685984626&external_log_id=73940709-56fc-4c40-b832-488bf2c39092&q=%23%D0%BF%D0%B0%D1%81%D1%85%D0%B02019%20%23%D0%BC%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C
@@ -177,17 +180,9 @@ patch:
 # drovorub 
 # https://www.facebook.com/100000308144994/videos/2340795185940730 26.04.2019
 # https://www.facebook.com/100000308144994/videos/2340797815940467
-# https://www.facebook.com/photo/?fbid=2340795119274070&set=a.1033788346641427
-# https://www.facebook.com/photo/?fbid=2341170539236528&set=a.1033788346641427
 
 #https://www.youtube.com/watch?v=CFTt5RMXVqs
 #https://www.facebook.com/watch/?v=379779929538280
-
-# #Пасха2019 #мариуполь
-# Inna Kopteva
-# https://www.facebook.com/photo?fbid=2028213434151915&set=a.1740028132970448
-# https://www.facebook.com/inna.kopteva.77/posts/pfbid02YCeCVRzAK6uJPnNL2N9pjZ1Z7eNsbJzzniMCj3QEQY1gj7LLBJKhf1ohMMW2P36vl
-
 
 # http://mrpl.city.tilda.ws
 
@@ -197,8 +192,6 @@ patch:
 # https://mariupolrada.gov.ua/media/velichezni-pisanki-ta-horovi-spivi-mariupol-porinuv-u-velikodnju-atmosferu
 # https://dn.depo.ua/ukr/mariupol/u-mariupoli-vidkrili-vistavku-metrovikh-pisanok-20190426955582
 #
-# https://mrpl.city/news/view/pashalnyj-krolik-ot-mariupolskih-masterits-ukrasil-ploshhad-v-stolitse-foto
-
 #https://www.facebook.com/groups/1476321979131170/posts/2199204503509577
 #https://www.facebook.com/mistoMarii/posts/pfbid0UdggKmzCQmGfk6UpCTtA5HN5tTRzTXtD2dscTjpWNKix6Po2RWUN9QKhhHw9ysD7l
 
@@ -206,11 +199,9 @@ patch:
 #https://www.facebook.com/molodmrpl/posts/pfbid028T4T8vShwj64mwd53jXhGjfUZSSYhxybu6Fs8KBTyM4kYZmwGY7ejh2D9efcS6kEl
 #https://www.facebook.com/events/314876775851203?ref=newsfeed
 
-#https://www.facebook.com/groups/mkultura/posts/1916023191960203
-#https://www.facebook.com/cwetlana.ptica/posts/pfbid0cUDZZHCCHJ1EtDRTrpUCKxbtH8rWfjxebRMWyyEC63smCTksHjnsND6w4wc6PNyMl
-#https://www.facebook.com/cwetlana.ptica/posts/pfbid0LeR4U4QEGPAXQB7TcC6fYnGD3AzoBB3kSwe17yYSyNiupBto3KFQYwkp2NRmh6VMl
-#https://www.facebook.com/cwetlana.ptica/posts/pfbid025Q96RqQupqLK7BKkpWNatHV34QoNaq7A1WigH6SFAHMF95Vjfp67JVRWYohBCF3kl
-#https://www.facebook.com/cwetlana.ptica/posts/pfbid02A9EuiMbCPU74dtxiNNTBDwqPPPnbeMGGsJZCbySxgCq4MDCks54uiX5SXS2NJJEel
+#
+#
+#
 #https://portal.lviv.ua/news/2015/04/07/091700
 #https://rubryka.com/photo/pysankovyj-raj-prosto-neba
 #https://vchasnoua.com/news/foto-u-tsentri-mariupolia-vstanovliuiut-velychezni-pysanky-z-kyieva

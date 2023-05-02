@@ -60,50 +60,50 @@ patch:
   #- '16_04_2023.fb.fb_group.mariupol.pre_war.3.kviten_2019_svjatkovyj_mariupol'
   #- '30_04_2019.fb.sosnovskij_evgenij.mariupol.1.pystankovyj_mariupol'
 
-  #- '30_04_2019.fb.mariupol.turystychne_misto.1.zajchik_dvolikij'
-  #- '29_04_2019.fb.tkachenko_myhajlo.mariupol.mvt6888.1.velykden_2019'
+  - '30_04_2019.fb.mariupol.turystychne_misto.1.zajchik_dvolikij'
+  - '29_04_2019.fb.tkachenko_myhajlo.mariupol.mvt6888.1.velykden_2019'
 
   #- '28_04_2019.fb.kutnjakova_maria.zhurnalist.vilnjus.mariupol.1.ljubimye_zajcy'
-  #- '26_04_2019.fb.mariupol.turystychne_misto.2.event_vystavka_teatr_skver'
+  - '26_04_2019.fb.mariupol.turystychne_misto.2.event_vystavka_teatr_skver'
 
   #- '14_03_2017.stz.kiev.vecherka.1.stolycja_golovna_mariupol_pysanka'
   #- '10_04_2017.stz.news.ua.mrpl_city.1.gigantskie_pysanki_iz_mariupolja_ukrasili_kiev'
 
-  #- '26_04_2019.fb.mariupol.telekanal_sigma.1.centr_gigantski_pysanky_krolyky'
-  #- '01_05_2019.stz.news.ua.mrpl.vidsebe.1.chomu_v_mariupol_pryvezly_krolykiv'
+  - '26_04_2019.fb.mariupol.telekanal_sigma.1.centr_gigantski_pysanky_krolyky'
+  - '01_05_2019.stz.news.ua.mrpl.vidsebe.1.chomu_v_mariupol_pryvezly_krolykiv'
   #- '26_04_2019.fb.drovorub_sergij.mariupol.1.video_1_velykden_2019'
 
   #- '06_05_2019.fb.boldyreva_iryna.mariupol.1.easter_2019'
   #- '30_04_2019.fb.dubinina_tatjana.mariupol.1.rjadom_s_vami_prekrasnenkoje_na_sosednjej_ulice'
 
-  #- '21_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.master_klassy_roboty_pysanky'
-  #- '22_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.centr_mariupolja_ukrasjat_k_pashe'
-  #- '26_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_teatralnom_skvere_poselilis_pysanki'
-  #- '29_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_centre_prazdnujut_pashu_fotoreportazh'
+  - '21_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.master_klassy_roboty_pysanky'
+  - '22_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.centr_mariupolja_ukrasjat_k_pashe'
+  - '26_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_teatralnom_skvere_poselilis_pysanki'
+  - '29_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_centre_prazdnujut_pashu_fotoreportazh'
   #
   # -------- ??
-  - '03_05_2019.fb.vaschuk_svitlana.mariupol.1.pashalnaja_vystavka'
-  - '29_04_2019.fb.dunaj_inna.mariupol.1.instaljacia_pashalnoje_jajco'
-  - '28_04_2019.fb.karakulov_volodymyr.mariupol.1.hristos_voskres'
+  #- '03_05_2019.fb.vaschuk_svitlana.mariupol.1.pashalnaja_vystavka'
+  #- '29_04_2019.fb.dunaj_inna.mariupol.1.instaljacia_pashalnoje_jajco'
+  #- '28_04_2019.fb.karakulov_volodymyr.mariupol.1.hristos_voskres'
   # -------- ?dead
-  - '27_04_2019.fb.morozov_oleksandr.mariupol.likar_endoskopist.1.foto_velykden_2019_without_title'
+  #- '27_04_2019.fb.morozov_oleksandr.mariupol.likar_endoskopist.1.foto_velykden_2019_without_title'
   # -----------------
 
-  - '26_04_2019.fb.osipova_inna.mariupol.1.prijatnyj_sjurpriz_pysanky_kroliki'
-  - '28_04_2019.fb.osipova_inna.mariupol.1.pozdravljaju_vseh_druzej_s_prazdnikom'
-  - '27_04_2019.fb.petrova_larysa.mariupol.1.vechirnij_mariupol_velykden'
-  - '27_04_2019.fb.petrova_larysa.mariupol.2.teatralna_ploscha_vystavka_pysanok_ta_zajciv'
-  - '24_04_2022.fb.harenko_andrij.mariupol.1.pasha_2019_rik_mariupol'
+#  - '26_04_2019.fb.osipova_inna.mariupol.1.prijatnyj_sjurpriz_pysanky_kroliki'
+  #- '28_04_2019.fb.osipova_inna.mariupol.1.pozdravljaju_vseh_druzej_s_prazdnikom'
+  #- '27_04_2019.fb.petrova_larysa.mariupol.1.vechirnij_mariupol_velykden'
+  #- '27_04_2019.fb.petrova_larysa.mariupol.2.teatralna_ploscha_vystavka_pysanok_ta_zajciv'
+  #- '24_04_2022.fb.harenko_andrij.mariupol.1.pasha_2019_rik_mariupol'
   - '02_05_2019.fb.fb_group.mkultura.1.velykodnja_pysanka_fotosvit'
-  - '29_04_2019.fb.kopteva_inna.mariupol.1.pasha_2019_mariupol'
+  #- '29_04_2019.fb.kopteva_inna.mariupol.1.pasha_2019_mariupol'
 
-  - '05_05_2019.fb.ponomareva_anastasia.mariupol.1.dijshla_do_trendiv_zajchyky_ta_jajcja'
-  - '05_05_2019.fb.ponomareva_anastasia.mariupol.2.zajchykovi_dupky'
+  #- '05_05_2019.fb.ponomareva_anastasia.mariupol.1.dijshla_do_trendiv_zajchyky_ta_jajcja'
+  #- '05_05_2019.fb.ponomareva_anastasia.mariupol.2.zajchykovi_dupky'
 
-  - '19_03_2017.fb.meshkova_davydenko_svitlana.mariupol.pysanky.1.katalog'
-  - '25_03_2017.fb.meshkova_davydenko_svitlana.mariupol.pysanky.1.utro_v_prjamom_efire_kluby_makosh_jaroslava'
+  #- '19_03_2017.fb.meshkova_davydenko_svitlana.mariupol.pysanky.1.katalog'
+  #- '25_03_2017.fb.meshkova_davydenko_svitlana.mariupol.pysanky.1.utro_v_prjamom_efire_kluby_makosh_jaroslava'
 
-  - '26_04_2019.fb.fb_group.750_hudozhnykiv.2.foto_z_mariupolja'
+  #- '26_04_2019.fb.fb_group.750_hudozhnykiv.2.foto_z_mariupolja'
 
 # Molly Route
 # 

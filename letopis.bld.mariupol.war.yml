@@ -24,6 +24,7 @@ patch:
 
   'sii.scts._main_.ii.inner.body':
   #- 'mariupol.diaries'
+  - '25_04_2022.fb.larissa_schastlivaia.mariupol.1.zhizn_obnulilas'
 
   'sii.scts.preamble.setcounter.secnumdepth' : 0
 

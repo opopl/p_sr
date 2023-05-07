@@ -1,0 +1,43 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 1
+  'opts_maker.join_lines.ii.exclude' :
+      index : 0
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol'
+  #
+  #37  рокивина Чорнобильської  катастрофи💔
+# https://www.facebook.com/permalink.php?story_fbid=pfbid0gH3aotwhX4g75SWMYDaM8F7RnNMWbq8D4CpHn8otFPjD8hQPFQ3GTt6tTDp7cGWCl&id=100091784377675
+# https://www.facebook.com/groups/story.kiev.ua/posts/2184025275127595
+# https://www.facebook.com/groups/story.kiev.ua/posts/2184057575124365
+#
+# https://dzen.ru/a/YC-Yw2zj2ngEq7b6
+#
+#
+# https://www.olx.ua/d/uk/obyavlenie/kniga-ldya-vrina-t-vognyano-noch-chornobilska-opovd-1989-r-IDRJxOe.html
+# https://violity.com/111954741-chornobil-30-rokiv-chornobilskoyi-katastrofi-oglyadi-2016-naklad-1000
+# https://www.olx.ua/d/uk/obyavlenie/chornobilska-kniga-pamyat-mvs-ukrani-IDR2Sfb.html
+# https://www.facebook.com/groups/story.kiev.ua/posts/2184345048428951
+# https://www.facebook.com/groups/story.kiev.ua/posts/2184107371786052
+#
+# https://www.facebook.com/watch?v=1883528895352143

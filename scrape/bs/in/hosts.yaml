@@ -12,6 +12,11 @@
     'author' : { 'name' : 'vidsebe.media' }
 }
 
+'suspilne.media' : {
+  'site' : 'news.ua.suspilne',
+  'author' : { 'name' : 'Суспільне Новини' }
+}
+
 'funtime.kiev.ua' : {
   'site' : 'kiev.funtime',
   'author' : { 'name' : 'FunTime Київ' }

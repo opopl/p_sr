@@ -18,7 +18,7 @@
 }
 
 'funtime.kiev.ua' : {
-  'site' : 'kiev.funtime',
+  'site' : 'kiev.funtime.www',
   'author' : { 'name' : 'FunTime Київ' }
 }
 

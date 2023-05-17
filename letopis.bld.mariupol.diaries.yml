@@ -45,5 +45,8 @@ patch:
   - '17_03_2023.fb.kipcharskij_viktor.mariupol.1.r_k_tomu__den_22__17'
   - '19_03_2023.fb.kipcharskij_viktor.mariupol.1.p_slyamova'
   #
+  #
+  - '31_03_2022.fb.lafazan_natalia.mariupol.1.malchik_vladlen'
+  - '31_03_2022.fb.lafazan_natalia.mariupol.2.moja_vtoraja_isterika'
 
   'sii.scts.preamble.setcounter.secnumdepth' : 0

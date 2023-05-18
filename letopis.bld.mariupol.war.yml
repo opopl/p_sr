@@ -23,13 +23,14 @@ patch:
       index : 0
 
   'sii.scts._main_.ii.inner.body':
-  #- 'mariupol.diaries'
+#- 'mariupol.diaries'
   - '25_04_2022.fb.larissa_schastlivaia.mariupol.1.zhizn_obnulilas'
   - '07_05_2022.fb.bilous_olena.mariupol.1.pochemu_fraza_glavnoe_sami_zhivy_ne_rabotaet'
   - '24_04_2023.fb.kaljuzhnaja_kateryna.mariupol.1.kazhut_scho_orky_pochaly_sjogodni_znosyty_nash_budynok'
+  - '17_03_2023.fb.stomina_oksana.mariupol.1.daty_pamjatatymu_vichno'
+  - '15_03_2023.fb.kiva_oleksandr.mariupol.1.paru_slov_mariupolcam'
 
   'sii.scts.preamble.setcounter.secnumdepth' : 0
-  - '17_03_2023.fb.stomina_oksana.mariupol.1.daty_pamjatatymu_vichno'
 
 # https://www.victims.memorial/post/це-був-наче-конвеєр-40-днів-роботи-у-блокадному-маріуполі-лікарні-4-що-неподалік-азовсталі
 # https://www.facebook.com/media/set/?set=a.2613888778744536&type=3

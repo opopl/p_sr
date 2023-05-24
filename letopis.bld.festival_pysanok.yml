@@ -55,7 +55,9 @@ patch:
 
   - '30_03_2018.fb.fb_group.750_hudozhnykiv.2.moj_pochti_gotov_vesna_prosypajsja'
 
+  # tetjana zhitchenko
   - '30_03_2018.fb.zhitchenko_tetjana.kyiv.hudozhnyk.1.mij_vesnjanyj_zajchyk_gotuetsja_do_podorozhi'
+  - '19_03_2018.fb.zhitchenko_tetjana.kyiv.hudozhnyk.1.obyraj_kazhut_zajchyky'
 
   # ljalina
   - '26_03_2018.fb.fb_group.750_hudozhnykiv.1.moj_zajka_so_vseh_storon'
@@ -274,10 +276,6 @@ patch:
 
 # https://www.facebook.com/groups/kyiv.in.photo/posts/6032678816827876
 #
-# https://www.facebook.com/media/set/?set=a.2213627175370663&type=3
-# https://www.facebook.com/media/set/?set=a.2212529645480416&type=3
-# https://www.facebook.com/media/set/?set=a.2219212631478784&type=3
-#
 # https://web.archive.org/web/20180621231016/http://folkukraine.com/news/project/vzhe-vidomi-pershi-imena-hudozhnikiv-jaki-vizmut-uchast-u-festivali-2018-1106/
 
 # https://nashkiev.ua/news/veter-povalili-vse-pisanki-na-sofiyskoy-ploschadi-video
@@ -289,4 +287,4 @@ patch:
 # https://www.depo.ua/rus/life/yak-pisanki-na-sofiyskiy-ploschi-zaminili-zaycyami-20180405754826
 
 # https://www.facebook.com/photo/?fbid=969092639906983&set=pcb.1650405331661383
-# https://www.facebook.com/tata.zhitchenko/posts/pfbid02zqRK8dzTn6sQFVcGi3UAu5L7FNS71xqN2XPu7TceQtnpT3bAnunYBxZxqAgPM9Q6l
+# 

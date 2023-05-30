@@ -1,0 +1,48 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch:
+  'vars.layout.tabcont' : 1
+  'vars.layout.indexing' : 1
+  'opts_maker.join_lines.ii.exclude' :
+      index : 0
+
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+
+  #
+  'sii.scts._main_.ii.inner.body':
+
+#https://www.facebook.com/groups/1611706932276577/posts/6118312661615959
+#https://www.facebook.com/groups/1611706932276577/posts/6117641838349708 
+#https://www.facebook.com/groups/1611706932276577/posts/6117925401654685
+#
+# 27 травня 1753 року було закінчене будівництво Андріївської церкви у Києві
+# https://www.facebook.com/groups/997959693561038/posts/6590718630951755
+#
+#З днем Києва!!! Так, сьогодні вночі бахало і вила сирена! Але я позакривав усі
+#вікна, надягнув навушники і заснув врешті решт... А зараз в цю хвилину вже
+#нічого не бахає, світить Сонце, я пішов собі каву робити. Слава Силам Київської
+#Протиповітряної Оборони!
+
+# https://www.facebook.com/groups/1611706932276577/posts/6142918529155372
+#
+# Щедрик яким ви його ще не чули

@@ -13,17 +13,18 @@ run_tex:
   shell: system
 
 patch:
-  'vars.layout.tabcont' : 1
-  'vars.layout.indexing' : 1
+  'vars.layout.tabcont' : 0
+  'vars.layout.indexing' : 0
   'opts_maker.join_lines.ii.exclude' :
-      index : 0
+      index : 1
 
-  'vars.layout.doc.font.size' : '14pt'
+  'vars.layout.doc.font.size' : '17pt'
+  'vars.layout.doc.orientation' : 'landscape'
 
   'sii.scts.preamble.setcounter.secnumdepth' : 0
 
   'sii.scts._main_.ii.inner.start':
-  - 'tabcont'
+  #- 'tabcont'
 
   'sii.scts._main_.ii.inner.body':
   - 'topics.vojna.my.11.filmy.2.beautiful_mind'

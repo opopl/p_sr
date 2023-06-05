@@ -1,0 +1,36 @@
+
+# vojna
+#tex_exe: pdflatex
+vars:
+  pagestyle: fancy
+  toc_depth: 3
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+patch:
+  'sii.scts._main_.ii.inner.start':
+  #- topics.vojna.titlepage
+  - listfigs
+  - listtabs
+  - tabcont
+  'sii.scts._main_.ii.inner.body':
+  - 'topics.vojna'
+  #- 'topics.donbass.zhizn.2022'
+#  - select:
+      #'@op' : 'or' 
+      #limit: 50
+      #author_id:
+        #and:
+        #- 'fb_group.story_kiev_ua'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+#https://www.facebook.com/permalink.php?story_fbid=pfbid0NYCNrcefowEHit6UL1q314kaCnUGiNNUexi29ydiwJxC2Uxh6MqJu8AHuMC7Sqevl&id=100091784377675
+#https://www.pravda.com.ua/news/2023/06/1/7404762
+#https://bigkyiv.com.ua/persha-litnya-ataka-na-kyyiv-zrujnovana-poliklinika-j-budynky-ye-zagybli-foto
+#https://www.facebook.com/permalink.php?story_fbid=pfbid035tEP1aDmWwJHsdvTJMp7bkzVxAzwYNqEzG9jc7RdNKaXWJmjieDeMBryjDMjJ7ibl&id=100000378167953
+#https://www.facebook.com/permalink.php?story_fbid=pfbid0pvn2JEuAkSHiGivirKUhwKF3vxod49F414dBLfKHLZW7GKg8qKt3bN9QAx7KMXrQl&id=100000943996304
+#https://www.facebook.com/krilevets.grigoriy/posts/pfbid02TRbZCYvmLVb2jDXYNkgYseEuMTW7Xbhs5ghgy48LsdFS8NPby5oY6S9tCdSM8Rx6l

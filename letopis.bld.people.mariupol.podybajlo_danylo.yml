@@ -1,0 +1,59 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch/:
+  #'sii/generate/on/$matched{section}.pic.ui_import' : 1
+  #'sii/generate/on/$matched{section}.video' : 1
+  #'sii/generate/on/$matched{section}.orig' : 1
+  #'sii/generate/on/$matched{section}.cmtx' : 1
+
+  #'opts_maker/join_lines/ii/exclude/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 1
+  #'sii/generate/on/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 0
+
+patch:
+  'vars.layout.tabcont' : 0
+  'vars.layout.indexing' : 0
+  'opts_maker.join_lines.ii.exclude' :
+      index : 1
+
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+  'opts_maker.processor._d2tex.caption.wrap.sprintf' : '\textbf{%s}'
+
+  'vars.layout.doc.font.size' : '17pt'
+  #'vars.layout.doc.class' : 'extreport'
+  #'vars.layout.doc.orientation' : 'landscape'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.ctl.Sct._sct_lines.loop.ii' :
+      foreach_ii_sec:
+        if_or:
+        - 'ii_sec' : '12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.orig' : 0
+             #'patch/':
+                #'opts_maker/join_lines/ii/exclude/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 1
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol'
+  - '02_06_2023.stz.news.ua.mrpl.0629.1.danylo_podybajlo'
+

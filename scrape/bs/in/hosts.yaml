@@ -27,6 +27,11 @@
     'author' : { 'name' : 'УкрІнформ' }
 }
 
+'donbas24.news' : {
+    'site' : 'news.ua.donbas24',
+    'author' : { 'name' : 'donbas24.news' }
+}
+
 'mariupolnews.com.ua' : {
     'site' : 'news.ua.mrpl.mariupolnews_com_ua',
     'author' : { 'name' : 'Мариупольские Новости' }

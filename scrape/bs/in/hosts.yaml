@@ -7,6 +7,11 @@
     'author' : { 'name' : 'MRPL.CITY' }
 }
 
+'retrogorod.com' : {
+    'site' : 'site.mariupol.retrogorod',
+    'author' : { 'name' : 'РетроГород' }
+}
+
 'golos.com.ua' : {
     'site' : 'news.ua.golos_ukrainy',
     'author' : { 'name' : 'Голос України - Газета Верховної Ради України' }

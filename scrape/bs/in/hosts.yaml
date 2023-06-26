@@ -12,6 +12,11 @@
     'author' : { 'name' : 'РетроГород' }
 }
 
+'mdu.in.ua' : {
+   'site' : 'edu.ua.mdu',
+   'author' : { 'name' : 'Маріупольський державний університет' }
+}
+
 'golos.com.ua' : {
     'site' : 'news.ua.golos_ukrainy',
     'author' : { 'name' : 'Голос України - Газета Верховної Ради України' }

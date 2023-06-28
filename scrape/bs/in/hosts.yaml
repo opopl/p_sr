@@ -103,7 +103,11 @@
 }
 'lb.ua' : { 'site' : 'news.ua.lb' }
 'imi.org.ua' : { 'site' : 'news.ua.imi' }
-'fakty.ua' : { 'site' : 'news.ua.fakty' }
+
+'fakty.ua' : { 
+   'site' : 'news.ua.fakty',
+   'name' : 'Факти',
+}
 
 'day.kiev.ua,day.kyiv.ua' : {
     'site' : 'news.ua.den',

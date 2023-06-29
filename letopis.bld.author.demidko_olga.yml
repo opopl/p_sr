@@ -42,5 +42,6 @@ patch:
   'sii.scts._main_.ii.inner.start':
 
   'sii.scts._main_.ii.inner.body':
-  - 'insert.author.demidko_olga'
+  #- 'insert.author.demidko_olga'
+  - 'insert.author.veremeeva_tetjana'
   #- 'mariupol'

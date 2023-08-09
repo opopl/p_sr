@@ -184,7 +184,7 @@ sub act_fill_vojna {
     ( $start =~ /^(?<day>\d+)\.(?<month>\d+)\.(?<year>\d+)$/ );
 
     #my $now = DateTime->now;
-    my $now = DateTime->new(day => 10, month => 7, year => 2023 );
+    my $now = DateTime->new(day => 30, month => 8, year => 2023 );
     my ($dt_start);
     if (keys %+) {
        $dt_start = DateTime->new(map { $_ => $+{$_} } keys %+ );
@@ -720,12 +720,13 @@ sub act_db_auth {
         dbh    => $dbh,
         q => qq{
             ATTACH DATABASE "$dbfile_auth" AS auth;
-            DELETE FROM auth.authors WHERE id = 'kazarin_pavel';
-            DELETE FROM auth.auth_details WHERE id = 'kazarin_pavel';
             INSERT INTO authors SELECT * FROM auth.authors;
             INSERT INTO auth_details SELECT * FROM auth.auth_details;
         }
     });
+
+            #-- DELETE FROM auth.authors WHERE id = 'kazarin_pavel';
+            #-- DELETE FROM auth.auth_details WHERE id = 'kazarin_pavel';
 #    my $ref = {
         #dbh    => $dbh,
         #t => qq{auth.authors},

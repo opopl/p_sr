@@ -7,6 +7,11 @@
     'author' : { 'name' : 'MRPL.CITY' }
 }
 
+'pr.ua' : {
+    'site' : 'news.ua.mrpl.pr_ua',
+    'author' : { 'name' : 'Приазовский Рабочий' }
+}
+
 'mistomariupol.com.ua' : {
     'site' : 'news.ua.misto_marii',
     'author' : { 'name' : 'Місто Марії' }

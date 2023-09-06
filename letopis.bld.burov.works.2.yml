@@ -1,0 +1,365 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch/:
+  #'sii/generate/on/$matched{section}.pic.ui_import' : 1
+  #'sii/generate/on/$matched{section}.video' : 1
+  'sii/generate/on/$matched{section}.orig' : 0
+  'sii/generate/on/$matched{section}.cmtx' : 0
+
+  #'opts_maker/join_lines/ii/exclude/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 1
+  #'sii/generate/on/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 0
+
+  'opts_maker/join_lines/ii/exclude/01_04_2018.stz.news.ua.mrpl_city.1.vsmatrivajas_v_otkrytki.orig' : 1
+
+patch:
+  'vars.layout.tabcont' : 0
+  'vars.layout.indexing' : 0
+  'opts_maker.join_lines.ii.exclude' :
+      index : 1
+
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+  'opts_maker.processor._d2tex.caption.wrap.sprintf' : '\textbf{%s}'
+
+  'vars.layout.doc.font.size' : '14pt'
+  'vars.layout.header.title_cut' : 40
+  #'vars.layout.doc.class' : 'extreport'
+  #'vars.layout.doc.orientation' : 'landscape'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.ctl.Sct._sct_lines.loop.ii' :
+      foreach_ii_sec:
+        if_or:
+
+        - 'ii_sec' : '17_03_2018.stz.news.ua.mrpl_city.1.gosti'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '17_03_2018.stz.news.ua.mrpl_city.1.gosti.orig' : 0
+
+        - 'ii_sec' : '17_06_2017.stz.news.ua.mrpl_city.1.istoria_vizit_vracha'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '17_06_2017.stz.news.ua.mrpl_city.1.istoria_vizit_vracha.orig' : 0
+
+        - 'ii_sec' : '17_08_2019.stz.news.ua.mrpl_city.1.vokrug_skvera_istoria_centra_mariupolja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '17_08_2019.stz.news.ua.mrpl_city.1.vokrug_skvera_istoria_centra_mariupolja.orig' : 0
+
+        - 'ii_sec' : '17_11_2018.stz.news.ua.mrpl_city.1.staraja_gazeta_chto_volnovalo_100_let_nazad'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '17_11_2018.stz.news.ua.mrpl_city.1.staraja_gazeta_chto_volnovalo_100_let_nazad.orig' : 0
+
+        - 'ii_sec' : '17_12_2016.stz.news.ua.mrpl_city.1.rybnaja_ploschad'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '17_12_2016.stz.news.ua.mrpl_city.1.rybnaja_ploschad.orig' : 0
+
+        - 'ii_sec' : '17_12_2017.stz.news.ua.mrpl_city.1.nikolaevskaja_ulica'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '17_12_2017.stz.news.ua.mrpl_city.1.nikolaevskaja_ulica.orig' : 0
+
+        - 'ii_sec' : '18_05_2019.stz.news.ua.mrpl_city.1.mariupol_professor_kazancev'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '18_05_2019.stz.news.ua.mrpl_city.1.mariupol_professor_kazancev.orig' : 0
+
+        - 'ii_sec' : '18_08_2018.stz.news.ua.mrpl_city.1.kniga_knig_o_mariupole'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '18_08_2018.stz.news.ua.mrpl_city.1.kniga_knig_o_mariupole.orig' : 0
+
+        - 'ii_sec' : '19_01_2017.stz.news.ua.mrpl_city.1.istoria_sozdania_zavoda_nikopol_mariupol_obschestva'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '19_01_2017.stz.news.ua.mrpl_city.1.istoria_sozdania_zavoda_nikopol_mariupol_obschestva.orig' : 0
+
+        - 'ii_sec' : '19_01_2019.stz.news.ua.mrpl_city.2.istoria_mariupolskij_zhestjanschik'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '19_01_2019.stz.news.ua.mrpl_city.2.istoria_mariupolskij_zhestjanschik.orig' : 0
+
+        - 'ii_sec' : '19_03_2017.stz.news.ua.mrpl_city.1.razmyshlenia_starozhyla'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '19_03_2017.stz.news.ua.mrpl_city.1.razmyshlenia_starozhyla.orig' : 0
+
+        - 'ii_sec' : '19_05_2018.stz.news.ua.mrpl_city.1.sudba_inzhenera_chernova'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '19_05_2018.stz.news.ua.mrpl_city.1.sudba_inzhenera_chernova.orig' : 0
+
+        - 'ii_sec' : '19_08_2017.stz.news.ua.mrpl_city.1.v_poiskah_grecheskoj_tipografii'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '19_08_2017.stz.news.ua.mrpl_city.1.v_poiskah_grecheskoj_tipografii.orig' : 0
+
+        - 'ii_sec' : '19_10_2019.stz.news.ua.mrpl_city.1.o_mariupol_konfetah'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '19_10_2019.stz.news.ua.mrpl_city.1.o_mariupol_konfetah.orig' : 0
+
+        - 'ii_sec' : '20_01_2018.stz.news.ua.mrpl_city.1.zimnie_zabavy'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '20_01_2018.stz.news.ua.mrpl_city.1.zimnie_zabavy.orig' : 0
+
+        - 'ii_sec' : '20_04_2019.stz.news.ua.mrpl_city.1.mariupol_ploschad_svobody_vospominania_obyvatelja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '20_04_2019.stz.news.ua.mrpl_city.1.mariupol_ploschad_svobody_vospominania_obyvatelja.orig' : 0
+
+        - 'ii_sec' : '20_07_2019.stz.news.ua.mrpl_city.1.ko_dnu_metallurga_i_gornjaka_vasilij_voropaev'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '20_07_2019.stz.news.ua.mrpl_city.1.ko_dnu_metallurga_i_gornjaka_vasilij_voropaev.orig' : 0
+
+        - 'ii_sec' : '20_10_2018.stz.news.ua.mrpl_city.1.istoria_portnihi_mariupolja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '20_10_2018.stz.news.ua.mrpl_city.1.istoria_portnihi_mariupolja.orig' : 0
+
+        - 'ii_sec' : '21_04_2018.stz.news.ua.mrpl_city.1.nestor_mahno_izustnye_predania'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '21_04_2018.stz.news.ua.mrpl_city.1.nestor_mahno_izustnye_predania.orig' : 0
+
+        - 'ii_sec' : '21_07_2018.stz.news.ua.mrpl_city.1.viktor_kalognomos'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '21_07_2018.stz.news.ua.mrpl_city.1.viktor_kalognomos.orig' : 0
+
+        - 'ii_sec' : '21_09_2019.stz.news.ua.mrpl_city.1.mashinostroenie_v_mariupole_kratkaja_istoria_v_citatah'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '21_09_2019.stz.news.ua.mrpl_city.1.mashinostroenie_v_mariupole_kratkaja_istoria_v_citatah.orig' : 0
+
+        - 'ii_sec' : '21_10_2017.stz.news.ua.mrpl_city.1.holodnyj_sapozhnik_ili_pro_obuv_proshlogo_veka'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '21_10_2017.stz.news.ua.mrpl_city.1.holodnyj_sapozhnik_ili_pro_obuv_proshlogo_veka.orig' : 0
+
+        - 'ii_sec' : '22_04_2017.stz.news.ua.mrpl_city.1.istoria_stalevar_ivan_katrich'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '22_04_2017.stz.news.ua.mrpl_city.1.istoria_stalevar_ivan_katrich.orig' : 0
+
+        - 'ii_sec' : '22_06_2017.stz.news.ua.mrpl_city.1.ivanchiki'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '22_06_2017.stz.news.ua.mrpl_city.1.ivanchiki.orig' : 0
+
+        - 'ii_sec' : '22_06_2018.stz.news.ua.mrpl_city.1.mariupol_22_iunja_1941_goda'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '22_06_2018.stz.news.ua.mrpl_city.1.mariupol_22_iunja_1941_goda.orig' : 0
+
+        - 'ii_sec' : '22_06_2019.stz.news.ua.mrpl_city.1.zapisnaja_knizhka_skripkina'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '22_06_2019.stz.news.ua.mrpl_city.1.zapisnaja_knizhka_skripkina.orig' : 0
+
+        - 'ii_sec' : '22_07_2017.stz.news.ua.mrpl_city.1.shalosti_prikazchikov'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '22_07_2017.stz.news.ua.mrpl_city.1.shalosti_prikazchikov.orig' : 0
+
+        - 'ii_sec' : '22_09_2018.stz.news.ua.mrpl_city.1.ko_dnju_mashinostroenia_vladimir_karpov'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '22_09_2018.stz.news.ua.mrpl_city.1.ko_dnju_mashinostroenia_vladimir_karpov.orig' : 0
+
+        - 'ii_sec' : '22_12_2018.stz.news.ua.mrpl_city.1.gostinica_kontinental_ekskurs_v_istoriu'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '22_12_2018.stz.news.ua.mrpl_city.1.gostinica_kontinental_ekskurs_v_istoriu.orig' : 0
+
+        - 'ii_sec' : '23_02_2019.stz.news.ua.mrpl_city.1.k_122_letiu_mmk_im_iljicha_jakov_privezencev'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '23_02_2019.stz.news.ua.mrpl_city.1.k_122_letiu_mmk_im_iljicha_jakov_privezencev.orig' : 0
+
+        - 'ii_sec' : '23_03_2019.stz.news.ua.mrpl_city.1.lico_goroda_mariupol'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '23_03_2019.stz.news.ua.mrpl_city.1.lico_goroda_mariupol.orig' : 0
+
+        - 'ii_sec' : '23_11_2019.stz.news.ua.mrpl_city.1.golodomor_to_chto_zapomnilos'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '23_11_2019.stz.news.ua.mrpl_city.1.golodomor_to_chto_zapomnilos.orig' : 0
+
+        - 'ii_sec' : '24_08_2019.stz.news.ua.mrpl_city.1.mariupol_uchitel_ivan_sidorchuk'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '24_08_2019.stz.news.ua.mrpl_city.1.mariupol_uchitel_ivan_sidorchuk.orig' : 0
+
+        - 'ii_sec' : '25_05_2019.stz.news.ua.mrpl_city.1.guljanie_na_bolshoj_v_mariupole'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '25_05_2019.stz.news.ua.mrpl_city.1.guljanie_na_bolshoj_v_mariupole.orig' : 0
+
+        - 'ii_sec' : '25_06_2017.stz.news.ua.mrpl_city.1.istoria_vitriny_mariupolja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '25_06_2017.stz.news.ua.mrpl_city.1.istoria_vitriny_mariupolja.orig' : 0
+
+        - 'ii_sec' : '25_08_2018.stz.news.ua.mrpl_city.1.k_240_letiju_mariupolja_slobodka'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '25_08_2018.stz.news.ua.mrpl_city.1.k_240_letiju_mariupolja_slobodka.orig' : 0
+
+        - 'ii_sec' : '25_11_2017.stz.news.ua.mrpl_city.1.pianino'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '25_11_2017.stz.news.ua.mrpl_city.1.pianino.orig' : 0
+
+        - 'ii_sec' : '26_01_2019.stz.news.ua.mrpl_city.1.delo_tabak'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '26_01_2019.stz.news.ua.mrpl_city.1.delo_tabak.orig' : 0
+
+        - 'ii_sec' : '26_04_2019.stz.news.ua.mrpl_city.1.razgovenje_vospominania_iz_50_godov_xx_stoletia'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '26_04_2019.stz.news.ua.mrpl_city.1.razgovenje_vospominania_iz_50_godov_xx_stoletia.orig' : 0
+
+        - 'ii_sec' : '26_05_2018.stz.news.ua.mrpl_city.1.porty_mariupolja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '26_05_2018.stz.news.ua.mrpl_city.1.porty_mariupolja.orig' : 0
+
+        - 'ii_sec' : '26_10_2019.stz.news.ua.mrpl_city.1.starye_avtomobili_mariupolja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '26_10_2019.stz.news.ua.mrpl_city.1.starye_avtomobili_mariupolja.orig' : 0
+
+        - 'ii_sec' : '27_02_2017.stz.news.ua.mrpl_city.1.istoria_kolonia_pri_zavode_nikopol'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '27_02_2017.stz.news.ua.mrpl_city.1.istoria_kolonia_pri_zavode_nikopol.orig' : 0
+
+#        - 'ii_sec' : 'aaa'
+          #'patch_bld' :
+             #'patch':
+                #'sii.generate.on' :
+                   #'aaa.orig' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol'
+  # 9
+  #- '17_03_2018.stz.news.ua.mrpl_city.1.gosti'
+  #- '17_06_2017.stz.news.ua.mrpl_city.1.istoria_vizit_vracha'
+  #- '17_08_2019.stz.news.ua.mrpl_city.1.vokrug_skvera_istoria_centra_mariupolja'
+  #- '17_11_2018.stz.news.ua.mrpl_city.1.staraja_gazeta_chto_volnovalo_100_let_nazad'
+  #- '17_12_2016.stz.news.ua.mrpl_city.1.rybnaja_ploschad'
+  #- '17_12_2017.stz.news.ua.mrpl_city.1.nikolaevskaja_ulica'
+  #- '18_05_2019.stz.news.ua.mrpl_city.1.mariupol_professor_kazancev'
+  #- '18_08_2018.stz.news.ua.mrpl_city.1.kniga_knig_o_mariupole'
+  #- '19_01_2017.stz.news.ua.mrpl_city.1.istoria_sozdania_zavoda_nikopol_mariupol_obschestva'
+
+  ## 10
+  #- '19_01_2019.stz.news.ua.mrpl_city.2.istoria_mariupolskij_zhestjanschik'
+  #- '19_03_2017.stz.news.ua.mrpl_city.1.razmyshlenia_starozhyla'
+  #- '19_05_2018.stz.news.ua.mrpl_city.1.sudba_inzhenera_chernova'
+  #- '19_08_2017.stz.news.ua.mrpl_city.1.v_poiskah_grecheskoj_tipografii'
+  #- '19_10_2019.stz.news.ua.mrpl_city.1.o_mariupol_konfetah'
+  #- '20_01_2018.stz.news.ua.mrpl_city.1.zimnie_zabavy'
+  #- '20_04_2019.stz.news.ua.mrpl_city.1.mariupol_ploschad_svobody_vospominania_obyvatelja'
+  #- '20_07_2019.stz.news.ua.mrpl_city.1.ko_dnu_metallurga_i_gornjaka_vasilij_voropaev'
+  #- '20_10_2018.stz.news.ua.mrpl_city.1.istoria_portnihi_mariupolja'
+  #- '21_04_2018.stz.news.ua.mrpl_city.1.nestor_mahno_izustnye_predania'
+
+  ## 11
+  #- '21_07_2018.stz.news.ua.mrpl_city.1.viktor_kalognomos'
+  #- '21_09_2019.stz.news.ua.mrpl_city.1.mashinostroenie_v_mariupole_kratkaja_istoria_v_citatah'
+  #- '21_10_2017.stz.news.ua.mrpl_city.1.holodnyj_sapozhnik_ili_pro_obuv_proshlogo_veka'
+  #- '22_04_2017.stz.news.ua.mrpl_city.1.istoria_stalevar_ivan_katrich'
+  #- '22_06_2017.stz.news.ua.mrpl_city.1.ivanchiki'
+  #- '22_06_2018.stz.news.ua.mrpl_city.1.mariupol_22_iunja_1941_goda'
+  #- '22_06_2019.stz.news.ua.mrpl_city.1.zapisnaja_knizhka_skripkina'
+  #- '22_07_2017.stz.news.ua.mrpl_city.1.shalosti_prikazchikov'
+  #- '22_09_2018.stz.news.ua.mrpl_city.1.ko_dnju_mashinostroenia_vladimir_karpov'
+
+  ## 12
+  #- '22_12_2018.stz.news.ua.mrpl_city.1.gostinica_kontinental_ekskurs_v_istoriu'
+  #- '23_02_2019.stz.news.ua.mrpl_city.1.k_122_letiu_mmk_im_iljicha_jakov_privezencev'
+  #- '23_03_2019.stz.news.ua.mrpl_city.1.lico_goroda_mariupol'
+  #- '23_11_2019.stz.news.ua.mrpl_city.1.golodomor_to_chto_zapomnilos'
+  #- '24_08_2019.stz.news.ua.mrpl_city.1.mariupol_uchitel_ivan_sidorchuk'
+  #- '24_11_2018.stz.news.ua.mrpl_city.1.stirka_na_torgovoj_ulice_mariupolja'
+  #- '25_01_2017.stz.news.ua.mrpl_city.1.russkij_providans_god_1906'
+  #- '25_03_2017.stz.news.ua.mrpl_city.1.istoria_stalevar_vladimir_klimenko'
+  #
+  ## 13
+  #- '25_05_2019.stz.news.ua.mrpl_city.1.guljanie_na_bolshoj_v_mariupole'
+  #- '25_06_2017.stz.news.ua.mrpl_city.1.istoria_vitriny_mariupolja'
+  #- '25_08_2018.stz.news.ua.mrpl_city.1.k_240_letiju_mariupolja_slobodka'
+  #- '25_11_2017.stz.news.ua.mrpl_city.1.pianino'
+  #- '26_01_2019.stz.news.ua.mrpl_city.1.delo_tabak'
+  #- '26_04_2019.stz.news.ua.mrpl_city.1.razgovenje_vospominania_iz_50_godov_xx_stoletia'
+  #- '26_05_2018.stz.news.ua.mrpl_city.1.porty_mariupolja'
+  #- '26_10_2019.stz.news.ua.mrpl_city.1.starye_avtomobili_mariupolja'
+  #- '27_02_2017.stz.news.ua.mrpl_city.1.istoria_kolonia_pri_zavode_nikopol'

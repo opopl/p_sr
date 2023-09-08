@@ -111,7 +111,10 @@
   'site' : 'news.ua.pravda',
   'author' : { 'name' : 'Українська Правда' }
 }
-'lb.ua' : { 'site' : 'news.ua.lb' }
+'lb.ua' : { 
+    'site' : 'news.ua.lb', 
+    'author' : { 'name' : 'LB.ua' }
+}
 'imi.org.ua' : { 'site' : 'news.ua.imi' }
 
 'fakty.ua' : { 

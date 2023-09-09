@@ -1,0 +1,140 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch/:
+  #'sii/generate/on/$matched{section}.pic.ui_import' : 1
+  #'sii/generate/on/$matched{section}.video' : 1
+  'sii/generate/on/$matched{section}.orig' : 0
+  'sii/generate/on/$matched{section}.cmtx' : 0
+
+  #'opts_maker/join_lines/ii/exclude/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 1
+  #'sii/generate/on/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 0
+
+  'opts_maker/join_lines/ii/exclude/01_04_2018.stz.news.ua.mrpl_city.1.vsmatrivajas_v_otkrytki.orig' : 1
+
+patch:
+  'vars.layout.tabcont' : 0
+  'vars.layout.indexing' : 0
+  'opts_maker.join_lines.ii.exclude' :
+      index : 1
+
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+  'opts_maker.processor._d2tex.caption.wrap.sprintf' : '\textbf{%s}'
+
+  'vars.layout.doc.font.size' : '14pt'
+  'vars.layout.header.title_cut' : 40
+  #'vars.layout.doc.class' : 'extreport'
+  #'vars.layout.doc.orientation' : 'landscape'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.ctl.Sct._sct_lines.loop.ii' :
+      foreach_ii_sec:
+        if_or:
+
+        - 'ii_sec' : '04_01_2019.stz.news.ua.lb.1.arhitekturnyj_atlas_dorevoljucijnogo_mariupolja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '04_01_2019.stz.news.ua.lb.1.arhitekturnyj_atlas_dorevoljucijnogo_mariupolja.orig' : 0
+
+        - 'ii_sec' : '04_02_2023.fb.fb_group.mariupol.pre_war.8.mo__mar_upolsk__robo'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '04_02_2023.fb.fb_group.mariupol.pre_war.8.mo__mar_upolsk__robo.orig' : 0
+
+        - 'ii_sec' : '11_01_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__robo'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '11_01_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__robo.orig' : 0
+
+        - 'ii_sec' : '12_02_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__robo'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '12_02_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__robo.orig' : 0
+
+        - 'ii_sec' : '14_01_2023.fb.fb_group.mariupol.pre_war.1.mo__mar_upolsk__robo'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '14_01_2023.fb.fb_group.mariupol.pre_war.1.mo__mar_upolsk__robo.orig' : 0
+
+        - 'ii_sec' : '18_02_2023.fb.fb_group.mariupol.pre_war.2.mo__mar_upolsk__robo'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '18_02_2023.fb.fb_group.mariupol.pre_war.2.mo__mar_upolsk__robo.orig' : 0
+
+        - 'ii_sec' : '20_01_2023.fb.fb_group.mariupol.pre_war.1.mo__mar_upolsk__robo'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '20_01_2023.fb.fb_group.mariupol.pre_war.1.mo__mar_upolsk__robo.orig' : 0
+
+        - 'ii_sec' : '23_01_2023.fb.fb_group.mariupol.pre_war.5.mo__mar_upolsk__robo'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '23_01_2023.fb.fb_group.mariupol.pre_war.5.mo__mar_upolsk__robo.orig' : 0
+
+        - 'ii_sec' : '31_01_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__ro'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '31_01_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__ro.orig' : 0
+
+#        - 'ii_sec' : 'aaa'
+          #'patch_bld' :
+             #'patch':
+                #'sii.generate.on' :
+                   #'aaa.orig' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol'
+  - '04_01_2019.stz.news.ua.lb.1.arhitekturnyj_atlas_dorevoljucijnogo_mariupolja'
+
+  # ------
+#  # Мої маріупольські роботи. Частина 5
+  #- '31_01_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__ro'
+  ## Мої маріупольські роботи. Частина шоста і найменша
+  #- '04_02_2023.fb.fb_group.mariupol.pre_war.8.mo__mar_upolsk__robo'
+  # ------
+
+  # Мої маріупольські роботи. Частина перша
+  - '11_01_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__robo'
+
+  # Мої маріупольські роботи. Частина друга
+  - '14_01_2023.fb.fb_group.mariupol.pre_war.1.mo__mar_upolsk__robo'
+
+  # Мої маріупольські роботи. Частина 3
+  - '20_01_2023.fb.fb_group.mariupol.pre_war.1.mo__mar_upolsk__robo'
+
+  # Мої маріупольські роботи. Частина четверта
+  - '23_01_2023.fb.fb_group.mariupol.pre_war.5.mo__mar_upolsk__robo'
+
+  ## Мої маріупольські роботи. Частина сьома
+  - '12_02_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__robo'
+
+  ## Мої маріупольські роботи. Частина восьма. Інтер'єри. Усі підписані
+  - '18_02_2023.fb.fb_group.mariupol.pre_war.2.mo__mar_upolsk__robo'
+

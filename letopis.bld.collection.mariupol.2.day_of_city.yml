@@ -111,30 +111,4 @@ patch:
 
   'sii.scts._main_.ii.inner.body':
   #- 'mariupol'
-  - '04_01_2019.stz.news.ua.lb.1.arhitekturnyj_atlas_dorevoljucijnogo_mariupolja'
-
-  # ------
-#  # Мої маріупольські роботи. Частина 5
-  #- '31_01_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__ro'
-  ## Мої маріупольські роботи. Частина шоста і найменша
-  #- '04_02_2023.fb.fb_group.mariupol.pre_war.8.mo__mar_upolsk__robo'
-  # ------
-
-  # Мої маріупольські роботи. Частина перша
-  - '11_01_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__robo'
-
-  # Мої маріупольські роботи. Частина друга
-  - '14_01_2023.fb.fb_group.mariupol.pre_war.1.mo__mar_upolsk__robo'
-
-  # Мої маріупольські роботи. Частина 3
-  - '20_01_2023.fb.fb_group.mariupol.pre_war.1.mo__mar_upolsk__robo'
-
-  # Мої маріупольські роботи. Частина четверта
-  - '23_01_2023.fb.fb_group.mariupol.pre_war.5.mo__mar_upolsk__robo'
-
-  ## Мої маріупольські роботи. Частина сьома
-  - '12_02_2023.fb.fb_group.mariupol.pre_war.4.mo__mar_upolsk__robo'
-
-  ## Мої маріупольські роботи. Частина восьма. Інтер'єри. Усі підписані
-  - '18_02_2023.fb.fb_group.mariupol.pre_war.2.mo__mar_upolsk__robo'
-
+  - 'collection.mariupol.2.day_of_city'

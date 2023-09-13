@@ -12,6 +12,11 @@
     'author' : { 'name' : 'Приазовский Рабочий' }
 }
 
+'old-mariupol.com' : {
+    'site' : 'mrpl.old_mariupol',
+    'author' : { 'name' : 'Старый Мариуполь - История Мариуполя' }
+}
+
 'mistomariupol.com.ua' : {
     'site' : 'news.ua.misto_marii',
     'author' : { 'name' : 'Місто Марії' }

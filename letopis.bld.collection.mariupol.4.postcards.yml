@@ -46,6 +46,12 @@ patch:
       foreach_ii_sec:
         if_or:
 
+        - 'ii_sec' : '30_08_2023.stz.news.ua.misto_marii.1.mariupolska_lystivka'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '30_08_2023.stz.news.ua.misto_marii.1.mariupolska_lystivka.orig' : 0
+
 #        - 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -53,9 +59,11 @@ patch:
                    #'aaa.orig' : 0
 
   'sii.scts._main_.ii.inner.start':
-  #- 'tabcont'
+  - 'tabcont'
   - 'listfigs'
 
   'sii.scts._main_.ii.inner.body':
   #- 'mariupol'
-  - 'collection.mariupol.4.postcards'
+  #- 'collection.mariupol.4.postcards'
+  #- '30_08_2023.stz.news.ua.misto_marii.1.mariupolska_lystivka'
+  - 'albums.mariupol.postcards.sajt_istoria_mariupolja'

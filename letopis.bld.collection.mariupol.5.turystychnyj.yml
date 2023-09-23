@@ -1,0 +1,165 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch/:
+  #'sii/generate/on/$matched{section}.pic.ui_import' : 1
+  #'sii/generate/on/$matched{section}.video' : 1
+  'sii/generate/on/$matched{section}.orig' : 0
+  'sii/generate/on/$matched{section}.cmtx' : 0
+
+  #'opts_maker/join_lines/ii/exclude/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 1
+  #'sii/generate/on/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 0
+
+  'opts_maker/join_lines/ii/exclude/01_04_2018.stz.news.ua.mrpl_city.1.vsmatrivajas_v_otkrytki.orig' : 1
+
+patch:
+  'vars.layout.tabcont' : 0
+  'vars.layout.indexing' : 0
+  'opts_maker.join_lines.ii.exclude' :
+      index : 1
+
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+  'opts_maker.processor._d2tex.caption.wrap.sprintf' : '\textbf{%s}'
+
+  'vars.layout.doc.font.size' : '14pt'
+  'vars.layout.header.title_cut' : 40
+  #'vars.layout.doc.class' : 'extreport'
+  #'vars.layout.doc.orientation' : 'landscape'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.ctl.Sct._sct_lines.loop.ii' :
+      foreach_ii_sec:
+        if_or:
+
+        - 'ii_sec' : '30_08_2023.stz.news.ua.misto_marii.1.mariupolska_lystivka'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '30_08_2023.stz.news.ua.misto_marii.1.mariupolska_lystivka.orig' : 0
+
+        - 'ii_sec' : '24_12_2021.fb.mariupol.turystychne_misto.1.novorichna_krasa_park_gurova'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '24_12_2021.fb.mariupol.turystychne_misto.1.novorichna_krasa_park_gurova.orig' : 0
+
+        - 'ii_sec' : '28_12_2021.fb.mariupol.turystychne_misto.1.sobor_arhistratiga_mihaila_livoberezzhja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '28_12_2021.fb.mariupol.turystychne_misto.1.sobor_arhistratiga_mihaila_livoberezzhja.orig' : 0
+
+        - 'ii_sec' : '28_12_2021.fb.mariupol.turystychne_misto.2.novorichnyj_jarmarok'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '28_12_2021.fb.mariupol.turystychne_misto.2.novorichnyj_jarmarok.orig' : 0
+
+        - 'ii_sec' : '26_12_2021.fb.mariupol.turystychne_misto.1.zymova_kazka_u_parku_veselka'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '26_12_2021.fb.mariupol.turystychne_misto.1.zymova_kazka_u_parku_veselka.orig' : 0
+
+        - 'ii_sec' : '25_12_2021.fb.mariupol.turystychne_misto.2.rizdvo_vertep_teatralna_ploscha_mariupol'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '25_12_2021.fb.mariupol.turystychne_misto.2.rizdvo_vertep_teatralna_ploscha_mariupol.orig' : 0
+
+        - 'ii_sec' : '30_08_2023.stz.news.ua.misto_marii.1.mariupolska_lystivka'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '30_08_2023.stz.news.ua.misto_marii.1.mariupolska_lystivka.orig' : 0
+
+        - 'ii_sec' : '27_12_2021.fb.mariupol.turystychne_misto.1.mariupol_zasnizhenyj'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '27_12_2021.fb.mariupol.turystychne_misto.1.mariupol_zasnizhenyj.orig' : 0
+
+        - 'ii_sec' : '25_09_2020.fb.mariupol.jarmarok.1.jarmarok_den_mista'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '25_09_2020.fb.mariupol.jarmarok.1.jarmarok_den_mista.orig' : 0
+
+        - 'ii_sec' : '09_05_2019.fb.mariupol.turystychne_misto.1.spravzhnja_mural_wall'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '09_05_2019.fb.mariupol.turystychne_misto.1.spravzhnja_mural_wall.orig' : 0
+
+        - 'ii_sec' : '26_04_2019.fb.mariupol.turystychne_misto.1.arrival_pysanky_zajchiki'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '26_04_2019.fb.mariupol.turystychne_misto.1.arrival_pysanky_zajchiki.orig' : 0
+
+        - 'ii_sec' : '29_06_2019.fb.mariupol.turystychne_misto.1.den_molodi_novyj_mural'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '29_06_2019.fb.mariupol.turystychne_misto.1.den_molodi_novyj_mural.orig' : 0
+
+        - 'ii_sec' : '26_04_2019.fb.mariupol.jarmarok.1.30_pysanok_30_zajchenjat'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '26_04_2019.fb.mariupol.jarmarok.1.30_pysanok_30_zajchenjat.orig' : 0
+
+        - 'ii_sec' : '01_05_2019.stz.news.ua.mrpl.vidsebe.1.chomu_v_mariupol_pryvezly_krolykiv'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '01_05_2019.stz.news.ua.mrpl.vidsebe.1.chomu_v_mariupol_pryvezly_krolykiv.orig' : 0
+
+        - 'ii_sec' : '29_11_2021.fb.mariupol.turystychne_misto.1.naipopulyarn_she_m_s'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '29_11_2021.fb.mariupol.turystychne_misto.1.naipopulyarn_she_m_s.orig' : 0
+
+#        - 'ii_sec' : 'aaa'
+          #'patch_bld' :
+             #'patch':
+                #'sii.generate.on' :
+                   #'aaa.orig' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+  #- 'listfigs'
+
+  'sii.scts._main_.ii.inner.body':
+  #- 'mariupol'
+  #- 'collection.mariupol.4.postcards'
+  - '25_12_2021.fb.mariupol.turystychne_misto.2.rizdvo_vertep_teatralna_ploscha_mariupol'
+  - '24_12_2021.fb.mariupol.turystychne_misto.1.novorichna_krasa_park_gurova'
+  - '28_12_2021.fb.mariupol.turystychne_misto.1.sobor_arhistratiga_mihaila_livoberezzhja'
+  - '28_12_2021.fb.mariupol.turystychne_misto.2.novorichnyj_jarmarok'
+  - '26_12_2021.fb.mariupol.turystychne_misto.1.zymova_kazka_u_parku_veselka'
+  - '27_12_2021.fb.mariupol.turystychne_misto.1.mariupol_zasnizhenyj'
+  - '30_08_2023.stz.news.ua.misto_marii.1.mariupolska_lystivka'
+  - '25_09_2020.fb.mariupol.jarmarok.1.jarmarok_den_mista'
+  - '09_05_2019.fb.mariupol.turystychne_misto.1.spravzhnja_mural_wall'
+  - '26_04_2019.fb.mariupol.turystychne_misto.1.arrival_pysanky_zajchiki'
+  - '29_06_2019.fb.mariupol.turystychne_misto.1.den_molodi_novyj_mural'
+  - '26_04_2019.fb.mariupol.jarmarok.1.30_pysanok_30_zajchenjat'
+  - '01_05_2019.stz.news.ua.mrpl.vidsebe.1.chomu_v_mariupol_pryvezly_krolykiv'
+  - '29_11_2021.fb.mariupol.turystychne_misto.1.naipopulyarn_she_m_s'

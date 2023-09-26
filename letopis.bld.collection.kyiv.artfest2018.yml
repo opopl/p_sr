@@ -1,0 +1,94 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch/:
+  #'sii/generate/on/$matched{section}.pic.ui_import' : 1
+  #'sii/generate/on/$matched{section}.video' : 1
+  'sii/generate/on/$matched{section}.orig' : 0
+  'sii/generate/on/$matched{section}.cmtx' : 0
+
+  #'opts_maker/join_lines/ii/exclude/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 1
+  #'sii/generate/on/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 0
+
+  'opts_maker/join_lines/ii/exclude/01_04_2018.stz.news.ua.mrpl_city.1.vsmatrivajas_v_otkrytki.orig' : 1
+
+patch:
+  'vars.layout.tabcont' : 0
+  'vars.layout.indexing' : 0
+  'opts_maker.join_lines.ii.exclude' :
+      index : 1
+
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+  'opts_maker.processor._d2tex.caption.wrap.sprintf' : '\textbf{%s}'
+
+  'vars.layout.doc.font.size' : '14pt'
+  'vars.layout.header.title_cut' : 40
+  #'vars.layout.doc.class' : 'extreport'
+  #'vars.layout.doc.orientation' : 'landscape'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.ctl.Sct._sct_lines.loop.ii' :
+      foreach_ii_sec:
+        if_or:
+
+        # -----------------------------------------------------------------------------------
+        # jusypenko 1-4
+        # -----------------------------------------------------------------------------------
+        # 1
+        - 'ii_sec' : '05_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_pysani_kraseni_ta_krasuni'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '05_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_pysani_kraseni_ta_krasuni.orig' : 0
+
+        # 2
+        - 'ii_sec' : '06_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_kraseni_2'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '06_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_kraseni_2.orig' : 0
+
+        # 3
+        - 'ii_sec' : '11_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_kraseni_krasuni_3'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '11_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_kraseni_krasuni_3.orig' : 0
+
+        # 4
+        - 'ii_sec' : '20_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_4_farewell'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '20_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_4_farewell.orig' : 0
+        # -----------------------------------------------------------------------------------
+
+#        - 'ii_sec' : 'aaa'
+          #'patch_bld' :
+             #'patch':
+                #'sii.generate.on' :
+                   #'aaa.orig' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+
+  'sii.scts._main_.ii.inner.body':
+  - '05_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_pysani_kraseni_ta_krasuni'
+  - '06_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_kraseni_2'
+  - '11_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_kraseni_krasuni_3'
+  - '20_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_4_farewell'

@@ -77,6 +77,75 @@ patch:
                 'sii.generate.on' :
                    '20_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_4_farewell.orig' : 0
         # -----------------------------------------------------------------------------------
+        #
+        - 'ii_sec' : '01_04_2018.fb.fb_group.750_hudozhnykiv.1.solnechnyj_krolik'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '01_04_2018.fb.fb_group.750_hudozhnykiv.1.solnechnyj_krolik.orig' : 0
+
+        - 'ii_sec' : '02_04_2018.fb.fb_group.750_hudozhnykiv.1.suzirja_zajchika'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '02_04_2018.fb.fb_group.750_hudozhnykiv.1.suzirja_zajchika.orig' : 0
+                   '02_04_2018.fb.fb_group.750_hudozhnykiv.1.suzirja_zajchika.cmtx' : 0
+
+        - 'ii_sec' : '02_04_2018.fb.fb_group.750_hudozhnykiv.2.esche_by_nemnogo_on_by_zagovoril'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '02_04_2018.fb.fb_group.750_hudozhnykiv.2.esche_by_nemnogo_on_by_zagovoril.orig' : 0
+
+        - 'ii_sec' : '02_04_2018.fb.fb_group.750_hudozhnykiv.3.urbanisticheskij_krol_navejannyj_kievom'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '02_04_2018.fb.fb_group.750_hudozhnykiv.3.urbanisticheskij_krol_navejannyj_kievom.orig' : 0
+
+        - 'ii_sec' : '02_04_2018.fb.fb_group.750_hudozhnykiv.4.nu_vse_my_popovzly_na_sofiivsku_ploschu'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '02_04_2018.fb.fb_group.750_hudozhnykiv.4.nu_vse_my_popovzly_na_sofiivsku_ploschu.orig' : 0
+                   '02_04_2018.fb.fb_group.750_hudozhnykiv.4.nu_vse_my_popovzly_na_sofiivsku_ploschu.cmtx' : 0
+
+        - 'ii_sec' : '03_04_2018.fb.fb_group.750_hudozhnykiv.1.moj_krolik_sofia_ploscha'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '03_04_2018.fb.fb_group.750_hudozhnykiv.1.moj_krolik_sofia_ploscha.orig' : 0
+
+        - 'ii_sec' : '03_04_2018.fb.fb_group.750_hudozhnykiv.2.na_nizkom_starte_ne_pereputat_by_kogo_otvozit'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '03_04_2018.fb.fb_group.750_hudozhnykiv.2.na_nizkom_starte_ne_pereputat_by_kogo_otvozit.orig' : 0
+                   '03_04_2018.fb.fb_group.750_hudozhnykiv.2.na_nizkom_starte_ne_pereputat_by_kogo_otvozit.cmtx' : 0
+
+        - 'ii_sec' : '03_04_2018.fb.fb_group.750_hudozhnykiv.3.krolik_indeec_s_ostrova_pashi'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '03_04_2018.fb.fb_group.750_hudozhnykiv.3.krolik_indeec_s_ostrova_pashi.orig' : 0
+
+        - 'ii_sec' : '03_04_2018.fb.fb_group.750_hudozhnykiv.4.skoro_na_ulicah_goroda_hipsterskij_zajac'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '03_04_2018.fb.fb_group.750_hudozhnykiv.4.skoro_na_ulicah_goroda_hipsterskij_zajac.orig' : 0
+
+        - 'ii_sec' : '03_04_2018.fb.fb_group.750_hudozhnykiv.5.moja_rabota_diskoteka_krolikov'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '03_04_2018.fb.fb_group.750_hudozhnykiv.5.moja_rabota_diskoteka_krolikov.orig' : 0
+
+        - 'ii_sec' : '03_04_2018.fb.fb_group.750_hudozhnykiv.6.moj_krolik_uzhe_nocheval_segodnja_na_sofievskoj'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '03_04_2018.fb.fb_group.750_hudozhnykiv.6.moj_krolik_uzhe_nocheval_segodnja_na_sofievskoj.orig' : 0
 
 #        - 'ii_sec' : 'aaa'
           #'patch_bld' :
@@ -88,7 +157,53 @@ patch:
   - 'tabcont'
 
   'sii.scts._main_.ii.inner.body':
-  - '05_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_pysani_kraseni_ta_krasuni'
-  - '06_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_kraseni_2'
-  - '11_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_kraseni_krasuni_3'
-  - '20_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_4_farewell'
+  #- '05_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_pysani_kraseni_ta_krasuni'
+  #- '06_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_kraseni_2'
+  #- '11_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_kraseni_krasuni_3'
+  #- '20_04_2018.fb.jusypenko_svitlana.kyiv.1.kroli_4_farewell'
+
+  # in
+  - '01_04_2018.fb.fb_group.750_hudozhnykiv.1.solnechnyj_krolik'
+  - '02_04_2018.fb.fb_group.750_hudozhnykiv.1.suzirja_zajchika'
+  - '02_04_2018.fb.fb_group.750_hudozhnykiv.2.esche_by_nemnogo_on_by_zagovoril'
+  - '02_04_2018.fb.fb_group.750_hudozhnykiv.3.urbanisticheskij_krol_navejannyj_kievom'
+  - '02_04_2018.fb.fb_group.750_hudozhnykiv.4.nu_vse_my_popovzly_na_sofiivsku_ploschu'
+  - '03_04_2018.fb.fb_group.750_hudozhnykiv.1.moj_krolik_sofia_ploscha'
+  - '03_04_2018.fb.fb_group.750_hudozhnykiv.2.na_nizkom_starte_ne_pereputat_by_kogo_otvozit'
+  - '03_04_2018.fb.fb_group.750_hudozhnykiv.3.krolik_indeec_s_ostrova_pashi'
+  - '03_04_2018.fb.fb_group.750_hudozhnykiv.4.skoro_na_ulicah_goroda_hipsterskij_zajac'
+  - '03_04_2018.fb.fb_group.750_hudozhnykiv.5.moja_rabota_diskoteka_krolikov'
+  - '03_04_2018.fb.fb_group.750_hudozhnykiv.6.moj_krolik_uzhe_nocheval_segodnja_na_sofievskoj'
+  # out
+  #- '03_04_2018.fb.fb_group.750_hudozhnykiv.7.vot_i_zakonchilas_nasha_istoria'
+  #- '04_04_2018.fb.fb_group.750_hudozhnykiv.1.zajec_polka_dot'
+  #- '04_04_2018.fb.fb_group.750_hudozhnykiv.2.moj_kosmicheskij_krolik'
+  #- '04_04_2018.fb.fb_group.750_hudozhnykiv.3.robota_zavershena_krolik_jampil_bilycja_shostka'
+  #- '05_04_2018.fb.fb_group.750_hudozhnykiv.1.kroliki_oni_vse_takie_klassnye'
+  #- '05_04_2018.fb.fb_group.750_hudozhnykiv.2.zajec_sonjahy'
+  #- '07_04_2018.fb.fb_group.750_hudozhnykiv.1.oh_uzh_ci_kroli_ch_2'
+  #- '09_03_2018.fb.fb_group.750_hudozhnykiv.1.sostav_zaitsa'
+  #- '09_04_2018.fb.fb_group.750_hudozhnykiv.1.esli_kto_nibud_uvidit_moju_zaju'
+  #- '09_04_2018.fb.fb_group.750_hudozhnykiv.2.suhanova_i_ja_doehala_posmotret_na_svoego_krolika'
+  #- '10_04_2018.fb.fb_group.750_hudozhnykiv.1.loskochut_hochut_rozbudyty_mogo_sonju'
+  #- '12_03_2018.fb.fb_group.750_hudozhnykiv.1.nova_istoria'
+  #- '12_04_2023.fb.fb_group.750_hudozhnykiv.1.mozhe_htos_pobachyt_svij_vytriv_verhovna_rada'
+  #- '17_03_2018.fb.fb_group.750_hudozhnykiv.1.zajku_zabrala_seichas_on_v_mojej_masterskoj'
+  #- '17_04_2017.fb.fb_group.750_hudozhnykiv.1.pysanochky_proshlogo_goda'
+  #- '19_03_2018.fb.fb_group.750_hudozhnykiv.1.ja_vzhe_tyzhden_ne_splju'
+  #- '20_03_2018.fb.fb_group.750_hudozhnykiv.1.moj_zajchishka_gotov'
+  #- '22_04_2018.fb.fb_group.750_hudozhnykiv.1.poproschalas_ja_segodnja_so_svoim_ushastikom'
+  #- '23_03_2018.fb.fb_group.750_hudozhnykiv.1.vstrechajte_eto_moj_vesennij_krolik'
+  #- '24_04_2018.fb.fb_group.750_hudozhnykiv.1.progulka_v_mir_krolikov_one'
+  #- '25_03_2018.fb.fb_group.750_hudozhnykiv.1.shokolad_zajec'
+  #- '25_04_2018.fb.fb_group.750_hudozhnykiv.1.progulka_v_mir_krolikov_two'
+  #- '26_03_2018.fb.fb_group.750_hudozhnykiv.1.moj_zajka_so_vseh_storon'
+  #- '26_04_2019.fb.fb_group.750_hudozhnykiv.1.avtory_pysanky_zajci'
+  #- '26_04_2019.fb.fb_group.750_hudozhnykiv.2.foto_z_mariupolja'
+  #- '27_03_2018.fb.fb_group.750_hudozhnykiv.1.ot_i_vse_druzhe_pora_do_svoih_pryjednuvatys'
+  #- '27_04_2018.fb.fb_group.750_hudozhnykiv.1.folk_ua_uzhe_nachinajet_podgotovku_k_sledujuschemu_festivalju'
+  #- '28_04_2019.fb.fb_group.750_hudozhnykiv.1.foto_z_mariupolja_pysanky'
+  #- '29_03_2018.fb.fb_group.750_hudozhnykiv.1.zavershenyj_krolik_suzirja'
+  #- '29_03_2018.fb.fb_group.750_hudozhnykiv.2.zalyshylos_pokryty_lakom_i_haj_strybaje'
+  #- '30_03_2018.fb.fb_group.750_hudozhnykiv.1.zakinchyla_kapsulu_chasu'
+  #- '30_03_2018.fb.fb_group.750_hudozhnykiv.2.moj_pochti_gotov_vesna_prosypajsja'

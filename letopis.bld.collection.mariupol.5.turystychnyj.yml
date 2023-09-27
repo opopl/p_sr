@@ -178,6 +178,18 @@ patch:
                 'sii.generate.on' :
                    '24_11_2021.fb.mariupol.turystychne_misto.1.svjato_mykolaivska_cervka_nahimova_37a.orig' : 0
 
+        - 'ii_sec' : '24_11_2021.fb.mariupol.turystychne_misto.2.proguljanka_sonjachnym_teatralnym_skverom'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '24_11_2021.fb.mariupol.turystychne_misto.2.proguljanka_sonjachnym_teatralnym_skverom.orig' : 0
+
+        - 'ii_sec' : '19_11_2021.fb.mariupol.turystychne_misto.1.osinni_krajevydy_mariupolja_ogljadovyj_majdanchyk_vezha'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '19_11_2021.fb.mariupol.turystychne_misto.1.osinni_krajevydy_mariupolja_ogljadovyj_majdanchyk_vezha.orig' : 0
+
 
 #        - 'ii_sec' : 'aaa'
           #'patch_bld' :
@@ -213,3 +225,5 @@ patch:
   - '26_11_2021.fb.mariupol.turystychne_misto.1.park_veselka'
   - '25_11_2021.fb.mariupol.turystychne_misto.1.pirs_zahody_soncja'
   - '24_11_2021.fb.mariupol.turystychne_misto.1.svjato_mykolaivska_cervka_nahimova_37a'
+  - '24_11_2021.fb.mariupol.turystychne_misto.2.proguljanka_sonjachnym_teatralnym_skverom'
+  - '19_11_2021.fb.mariupol.turystychne_misto.1.osinni_krajevydy_mariupolja_ogljadovyj_majdanchyk_vezha'

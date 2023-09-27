@@ -136,6 +136,49 @@ patch:
                 'sii.generate.on' :
                    '29_11_2021.fb.mariupol.turystychne_misto.1.naipopulyarn_she_m_s.orig' : 0
 
+        - 'ii_sec' : '27_09_2023.fb.mariupol.turystychne_misto.1.vsesvitnii_den_turyzmu_povernennja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '27_09_2023.fb.mariupol.turystychne_misto.1.vsesvitnii_den_turyzmu_povernennja.orig' : 0
+
+        - 'ii_sec' : '30_04_2019.fb.mariupol.turystychne_misto.1.zajchik_dvolikij'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '30_04_2019.fb.mariupol.turystychne_misto.1.zajchik_dvolikij.orig' : 0
+
+        - 'ii_sec' : '30_11_2021.fb.mariupol.turystychne_misto.1.ljodova_kovzanka_prosto_neba'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '30_11_2021.fb.mariupol.turystychne_misto.1.ljodova_kovzanka_prosto_neba.orig' : 0
+
+        - 'ii_sec' : '28_11_2021.fb.mariupol.turystychne_misto.1.misto_z_vysoty'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '28_11_2021.fb.mariupol.turystychne_misto.1.misto_z_vysoty.orig' : 0
+
+        - 'ii_sec' : '26_11_2021.fb.mariupol.turystychne_misto.1.park_veselka'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '26_11_2021.fb.mariupol.turystychne_misto.1.park_veselka.orig' : 0
+
+        - 'ii_sec' : '25_11_2021.fb.mariupol.turystychne_misto.1.pirs_zahody_soncja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '25_11_2021.fb.mariupol.turystychne_misto.1.pirs_zahody_soncja.orig' : 0
+
+        - 'ii_sec' : '24_11_2021.fb.mariupol.turystychne_misto.1.svjato_mykolaivska_cervka_nahimova_37a'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '24_11_2021.fb.mariupol.turystychne_misto.1.svjato_mykolaivska_cervka_nahimova_37a.orig' : 0
+
+
 #        - 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -163,3 +206,10 @@ patch:
   - '26_04_2019.fb.mariupol.jarmarok.1.30_pysanok_30_zajchenjat'
   - '01_05_2019.stz.news.ua.mrpl.vidsebe.1.chomu_v_mariupol_pryvezly_krolykiv'
   - '29_11_2021.fb.mariupol.turystychne_misto.1.naipopulyarn_she_m_s'
+  - '27_09_2023.fb.mariupol.turystychne_misto.1.vsesvitnii_den_turyzmu_povernennja'
+  - '30_04_2019.fb.mariupol.turystychne_misto.1.zajchik_dvolikij'
+  - '30_11_2021.fb.mariupol.turystychne_misto.1.ljodova_kovzanka_prosto_neba'
+  - '28_11_2021.fb.mariupol.turystychne_misto.1.misto_z_vysoty'
+  - '26_11_2021.fb.mariupol.turystychne_misto.1.park_veselka'
+  - '25_11_2021.fb.mariupol.turystychne_misto.1.pirs_zahody_soncja'
+  - '24_11_2021.fb.mariupol.turystychne_misto.1.svjato_mykolaivska_cervka_nahimova_37a'

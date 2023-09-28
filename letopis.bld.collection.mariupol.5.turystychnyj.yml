@@ -226,6 +226,24 @@ patch:
                 'sii.generate.on' :
                    '21_10_2021.fb.mariupol.turystychne_misto.1.nova_atmosferna_lokacia_misce_zustrichi.orig' : 0
 
+        - 'ii_sec' : '18_10_2021.fb.mariupol.turystychne_misto.1.osin_u_misti_marii_tishyt_teplom'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '18_10_2021.fb.mariupol.turystychne_misto.1.osin_u_misti_marii_tishyt_teplom.orig' : 0
+
+        - 'ii_sec' : '11_10_2021.fb.mariupol.turystychne_misto.1.atmosfera_zhovto_bagrjanogo_osinnogo_mariupolja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '11_10_2021.fb.mariupol.turystychne_misto.1.atmosfera_zhovto_bagrjanogo_osinnogo_mariupolja.orig' : 0
+
+        - 'ii_sec' : '10_10_2021.fb.mariupol.turystychne_misto.1.den_hudozhnika'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '10_10_2021.fb.mariupol.turystychne_misto.1.den_hudozhnika.orig' : 0
+
 
 #        - 'ii_sec' : 'aaa'
           #'patch_bld' :
@@ -269,3 +287,6 @@ patch:
   - '03_11_2021.fb.mariupol.turystychne_misto.1.park_veselka_sonjachni_vyhidni'
   - '22_10_2021.fb.mariupol.turystychne_misto.1.osinnja_krasa_v_parku_juvilejnyj_im_gurova'
   - '21_10_2021.fb.mariupol.turystychne_misto.1.nova_atmosferna_lokacia_misce_zustrichi'
+  - '18_10_2021.fb.mariupol.turystychne_misto.1.osin_u_misti_marii_tishyt_teplom'
+  - '11_10_2021.fb.mariupol.turystychne_misto.1.atmosfera_zhovto_bagrjanogo_osinnogo_mariupolja'
+  - '10_10_2021.fb.mariupol.turystychne_misto.1.den_hudozhnika'

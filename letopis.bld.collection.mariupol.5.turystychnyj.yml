@@ -190,6 +190,24 @@ patch:
                 'sii.generate.on' :
                    '19_11_2021.fb.mariupol.turystychne_misto.1.osinni_krajevydy_mariupolja_ogljadovyj_majdanchyk_vezha.orig' : 0
 
+        - 'ii_sec' : '29_10_2021.fb.mariupol.turystychne_misto.1.krasa_mariupolskogo_dramatychnogo_teatru_ta_skveru'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '29_10_2021.fb.mariupol.turystychne_misto.1.krasa_mariupolskogo_dramatychnogo_teatru_ta_skveru.orig' : 0
+
+        - 'ii_sec' : '21_11_2021.fb.mariupol.turystychne_misto.1.ploscha_svobody'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '21_11_2021.fb.mariupol.turystychne_misto.1.ploscha_svobody.orig' : 0
+
+        - 'ii_sec' : '10_11_2021.fb.mariupol.turystychne_misto.1.ploscha_svobody_voseny'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '10_11_2021.fb.mariupol.turystychne_misto.1.ploscha_svobody_voseny.orig' : 0
+
 
 #        - 'ii_sec' : 'aaa'
           #'patch_bld' :
@@ -227,3 +245,6 @@ patch:
   - '24_11_2021.fb.mariupol.turystychne_misto.1.svjato_mykolaivska_cervka_nahimova_37a'
   - '24_11_2021.fb.mariupol.turystychne_misto.2.proguljanka_sonjachnym_teatralnym_skverom'
   - '19_11_2021.fb.mariupol.turystychne_misto.1.osinni_krajevydy_mariupolja_ogljadovyj_majdanchyk_vezha'
+  - '29_10_2021.fb.mariupol.turystychne_misto.1.krasa_mariupolskogo_dramatychnogo_teatru_ta_skveru'
+  - '21_11_2021.fb.mariupol.turystychne_misto.1.ploscha_svobody'
+  - '10_11_2021.fb.mariupol.turystychne_misto.1.ploscha_svobody_voseny'

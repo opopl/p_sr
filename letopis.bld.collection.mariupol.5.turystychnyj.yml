@@ -208,6 +208,24 @@ patch:
                 'sii.generate.on' :
                    '10_11_2021.fb.mariupol.turystychne_misto.1.ploscha_svobody_voseny.orig' : 0
 
+        - 'ii_sec' : '03_11_2021.fb.mariupol.turystychne_misto.1.park_veselka_sonjachni_vyhidni'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '03_11_2021.fb.mariupol.turystychne_misto.1.park_veselka_sonjachni_vyhidni.orig' : 0
+
+        - 'ii_sec' : '22_10_2021.fb.mariupol.turystychne_misto.1.osinnja_krasa_v_parku_juvilejnyj_im_gurova'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '22_10_2021.fb.mariupol.turystychne_misto.1.osinnja_krasa_v_parku_juvilejnyj_im_gurova.orig' : 0
+
+        - 'ii_sec' : '21_10_2021.fb.mariupol.turystychne_misto.1.nova_atmosferna_lokacia_misce_zustrichi'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '21_10_2021.fb.mariupol.turystychne_misto.1.nova_atmosferna_lokacia_misce_zustrichi.orig' : 0
+
 
 #        - 'ii_sec' : 'aaa'
           #'patch_bld' :
@@ -248,3 +266,6 @@ patch:
   - '29_10_2021.fb.mariupol.turystychne_misto.1.krasa_mariupolskogo_dramatychnogo_teatru_ta_skveru'
   - '21_11_2021.fb.mariupol.turystychne_misto.1.ploscha_svobody'
   - '10_11_2021.fb.mariupol.turystychne_misto.1.ploscha_svobody_voseny'
+  - '03_11_2021.fb.mariupol.turystychne_misto.1.park_veselka_sonjachni_vyhidni'
+  - '22_10_2021.fb.mariupol.turystychne_misto.1.osinnja_krasa_v_parku_juvilejnyj_im_gurova'
+  - '21_10_2021.fb.mariupol.turystychne_misto.1.nova_atmosferna_lokacia_misce_zustrichi'

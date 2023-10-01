@@ -1,0 +1,83 @@
+
+vars:
+  pagestyle: fancy
+  toc_depth: 2
+
+decs:
+  om_iall : 1
+
+opts_maker:
+  join_lines:
+
+run_tex:
+  shell: system
+
+patch/:
+  #'sii/generate/on/$matched{section}.pic.ui_import' : 1
+  #'sii/generate/on/$matched{section}.video' : 1
+  'sii/generate/on/$matched{section}.orig' : 0
+  'sii/generate/on/$matched{section}.cmtx' : 0
+
+  #'opts_maker/join_lines/ii/exclude/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 1
+  #'sii/generate/on/12_01_2023.stz.news.ua.ukrinform.1.pamjati_denisa_galushko.cmtx' : 0
+
+  'opts_maker/join_lines/ii/exclude/01_04_2018.stz.news.ua.mrpl_city.1.vsmatrivajas_v_otkrytki.orig' : 1
+
+  'opts_maker/join_lines/ii/exclude/12_02_2023.fb.fb_group.mariupol.pre_war.3.mariupolskie_golubi.cmt' : 1
+  'opts_maker/join_lines/ii/exclude/20_01_2023.fb.fb_group.mariupol.pre_war.4.mar_upol___murali__g.cmt' : 1
+  'opts_maker/join_lines/ii/exclude/17_01_2023.fb.fb_group.mariupol.pre_war.2.mar_upol____stor_ya_.cmt' : 1
+  'opts_maker/join_lines/ii/exclude/12_02_2023.fb.fb_group.mariupol.pre_war.9.b_losaraiska_kosa.cmt' : 1
+  'opts_maker/join_lines/ii/exclude/17_02_2023.fb.fb_group.mariupol.pre_war.3.grozovoi_vorotnik__i.cmt' : 1
+  'opts_maker/join_lines/ii/exclude/24_01_2023.fb.fb_group.mariupol.pre_war.2.mar_upol___plyazhn__.cmt' : 1
+  'opts_maker/join_lines/ii/exclude/29_12_2022.fb.wishnevskaja_helen.mariupol.1.a_pomnite_etot_tikhi.cmt' : 1
+
+patch:
+  'vars.layout.tabcont' : 0
+  'vars.layout.indexing' : 0
+  'opts_maker.join_lines.ii.exclude' :
+      index : 1
+
+  'opts_maker.processor._d2tex.caption.texify' : 1
+  'opts_maker.processor._d2tex.caption.escape_latex' : 1
+  'opts_maker.processor._d2tex.caption.unicode2pics' : 1
+  'opts_maker.processor._d2tex.caption.numbering' : 0
+  'opts_maker.processor._d2tex.caption.wrap.sprintf' : '\textbf{%s}'
+
+  'opts_maker.processor._d2tex.override_width_tex' : 1
+
+  'vars.layout.doc.font.size' : '14pt'
+  'vars.layout.header.title_cut' : 40
+  #'vars.layout.doc.class' : 'extreport'
+  #'vars.layout.doc.orientation' : 'landscape'
+
+  'sii.scts.preamble.setcounter.secnumdepth' : 0
+
+  'sii.ctl.Sct._sct_lines.loop.ii' :
+      foreach_ii_sec:
+        if_or:
+
+        - 'ii_sec' : '20_11_2021.stz.news.ua.misto_marii.1.kudy_vzymku_pity_z_dytynoju'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '20_11_2021.stz.news.ua.misto_marii.1.kudy_vzymku_pity_z_dytynoju.orig' : 0
+
+        - 'ii_sec' : '23_11_2021.stz.news.ua.misto_marii.1.mini_proekty_plany'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '23_11_2021.stz.news.ua.misto_marii.1.mini_proekty_plany.orig' : 0
+
+        #- 'ii_sec' : 'aaa'
+          #'patch_bld' :
+             #'patch':
+                #'sii.generate.on' :
+                   #'aaa.orig' : 0
+
+  'sii.scts._main_.ii.inner.start':
+  - 'tabcont'
+  #- 'listfigs'
+
+  'sii.scts._main_.ii.inner.body':
+  - '20_11_2021.stz.news.ua.misto_marii.1.kudy_vzymku_pity_z_dytynoju'
+  - '23_11_2021.stz.news.ua.misto_marii.1.mini_proekty_plany'

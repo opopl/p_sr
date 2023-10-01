@@ -23,6 +23,14 @@ patch/:
 
   'opts_maker/join_lines/ii/exclude/01_04_2018.stz.news.ua.mrpl_city.1.vsmatrivajas_v_otkrytki.orig' : 1
 
+  'opts_maker/join_lines/ii/exclude/12_02_2023.fb.fb_group.mariupol.pre_war.3.mariupolskie_golubi.cmt' : 1
+  'opts_maker/join_lines/ii/exclude/20_01_2023.fb.fb_group.mariupol.pre_war.4.mar_upol___murali__g.cmt' : 1
+  'opts_maker/join_lines/ii/exclude/17_01_2023.fb.fb_group.mariupol.pre_war.2.mar_upol____stor_ya_.cmt' : 1
+  'opts_maker/join_lines/ii/exclude/12_02_2023.fb.fb_group.mariupol.pre_war.9.b_losaraiska_kosa.cmt' : 1
+  'opts_maker/join_lines/ii/exclude/17_02_2023.fb.fb_group.mariupol.pre_war.3.grozovoi_vorotnik__i.cmt' : 1
+  'opts_maker/join_lines/ii/exclude/24_01_2023.fb.fb_group.mariupol.pre_war.2.mar_upol___plyazhn__.cmt' : 1
+  'opts_maker/join_lines/ii/exclude/29_12_2022.fb.wishnevskaja_helen.mariupol.1.a_pomnite_etot_tikhi.cmt' : 1
+
 patch:
   'vars.layout.tabcont' : 0
   'vars.layout.indexing' : 0
@@ -34,6 +42,8 @@ patch:
   'opts_maker.processor._d2tex.caption.unicode2pics' : 1
   'opts_maker.processor._d2tex.caption.numbering' : 0
   'opts_maker.processor._d2tex.caption.wrap.sprintf' : '\textbf{%s}'
+
+  'opts_maker.processor._d2tex.override_width_tex' : 1
 
   'vars.layout.doc.font.size' : '14pt'
   'vars.layout.header.title_cut' : 40
@@ -244,8 +254,75 @@ patch:
                 'sii.generate.on' :
                    '10_10_2021.fb.mariupol.turystychne_misto.1.den_hudozhnika.orig' : 0
 
+        - 'ii_sec' : '12_02_2023.fb.fb_group.mariupol.pre_war.3.mariupolskie_golubi'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '12_02_2023.fb.fb_group.mariupol.pre_war.3.mariupolskie_golubi.orig' : 0
 
-#        - 'ii_sec' : 'aaa'
+        - 'ii_sec' : '17_01_2023.fb.fb_group.mariupol.pre_war.2.mar_upol____stor_ya_'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '17_01_2023.fb.fb_group.mariupol.pre_war.2.mar_upol____stor_ya_.orig' : 0
+
+        - 'ii_sec' : '12_02_2023.fb.fb_group.mariupol.pre_war.9.b_losaraiska_kosa'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '12_02_2023.fb.fb_group.mariupol.pre_war.9.b_losaraiska_kosa.orig' : 0
+
+        - 'ii_sec' : '17_02_2023.fb.fb_group.mariupol.pre_war.3.grozovoi_vorotnik__i'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '17_02_2023.fb.fb_group.mariupol.pre_war.3.grozovoi_vorotnik__i.orig' : 0
+
+        - 'ii_sec' : '24_01_2023.fb.fb_group.mariupol.pre_war.2.mar_upol___plyazhn__'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '24_01_2023.fb.fb_group.mariupol.pre_war.2.mar_upol___plyazhn__.orig' : 0
+
+        - 'ii_sec' : '20_01_2023.fb.fb_group.mariupol.pre_war.4.mar_upol___murali__g'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '20_01_2023.fb.fb_group.mariupol.pre_war.4.mar_upol___murali__g.orig' : 0
+                   '20_01_2023.fb.fb_group.mariupol.pre_war.4.mar_upol___murali__g.cmtx' : 0
+
+        - 'ii_sec' : '21_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.master_klassy_roboty_pysanky'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '21_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.master_klassy_roboty_pysanky.orig' : 0
+
+        - 'ii_sec' : '22_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.centr_mariupolja_ukrasjat_k_pashe'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '22_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.centr_mariupolja_ukrasjat_k_pashe.orig' : 0
+
+        - 'ii_sec' : '26_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_teatralnom_skvere_poselilis_pysanki'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '26_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_teatralnom_skvere_poselilis_pysanki.orig' : 0
+
+        - 'ii_sec' : '29_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_centre_prazdnujut_pashu_fotoreportazh'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '29_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_centre_prazdnujut_pashu_fotoreportazh.orig' : 0
+
+        - 'ii_sec' : '29_12_2022.fb.wishnevskaja_helen.mariupol.1.a_pomnite_etot_tikhi'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '29_12_2022.fb.wishnevskaja_helen.mariupol.1.a_pomnite_etot_tikhi.orig' : 0
+                   '29_12_2022.fb.wishnevskaja_helen.mariupol.1.a_pomnite_etot_tikhi.cmtx' : 0
+
+        #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
                 #'sii.generate.on' :
@@ -266,14 +343,27 @@ patch:
   - '27_12_2021.fb.mariupol.turystychne_misto.1.mariupol_zasnizhenyj'
   - '30_08_2023.stz.news.ua.misto_marii.1.mariupolska_lystivka'
   - '25_09_2020.fb.mariupol.jarmarok.1.jarmarok_den_mista'
-  - '09_05_2019.fb.mariupol.turystychne_misto.1.spravzhnja_mural_wall'
+
+  # pasha
   - '26_04_2019.fb.mariupol.turystychne_misto.1.arrival_pysanky_zajchiki'
-  - '29_06_2019.fb.mariupol.turystychne_misto.1.den_molodi_novyj_mural'
   - '26_04_2019.fb.mariupol.jarmarok.1.30_pysanok_30_zajchenjat'
   - '01_05_2019.stz.news.ua.mrpl.vidsebe.1.chomu_v_mariupol_pryvezly_krolykiv'
+
+  - '21_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.master_klassy_roboty_pysanky'
+  - '22_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.centr_mariupolja_ukrasjat_k_pashe'
+  - '26_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_teatralnom_skvere_poselilis_pysanki'
+  - '29_04_2019.stz.news.ua.mrpl.mariupolnews_com_ua.1.v_centre_prazdnujut_pashu_fotoreportazh'
+  - '30_04_2019.fb.mariupol.turystychne_misto.1.zajchik_dvolikij'
+  # --------------------
+
+  - '09_05_2019.fb.mariupol.turystychne_misto.1.spravzhnja_mural_wall'
+  - '29_06_2019.fb.mariupol.turystychne_misto.1.den_molodi_novyj_mural'
+
+  # Марiуполь - Мурали, графiтi
+  - '20_01_2023.fb.fb_group.mariupol.pre_war.4.mar_upol___murali__g'
+
   - '29_11_2021.fb.mariupol.turystychne_misto.1.naipopulyarn_she_m_s'
   - '27_09_2023.fb.mariupol.turystychne_misto.1.vsesvitnii_den_turyzmu_povernennja'
-  - '30_04_2019.fb.mariupol.turystychne_misto.1.zajchik_dvolikij'
   - '30_11_2021.fb.mariupol.turystychne_misto.1.ljodova_kovzanka_prosto_neba'
   - '28_11_2021.fb.mariupol.turystychne_misto.1.misto_z_vysoty'
   - '26_11_2021.fb.mariupol.turystychne_misto.1.park_veselka'
@@ -290,3 +380,14 @@ patch:
   - '18_10_2021.fb.mariupol.turystychne_misto.1.osin_u_misti_marii_tishyt_teplom'
   - '11_10_2021.fb.mariupol.turystychne_misto.1.atmosfera_zhovto_bagrjanogo_osinnogo_mariupolja'
   - '10_10_2021.fb.mariupol.turystychne_misto.1.den_hudozhnika'
+
+  - '12_02_2023.fb.fb_group.mariupol.pre_war.9.b_losaraiska_kosa'
+
+  - '17_02_2023.fb.fb_group.mariupol.pre_war.3.grozovoi_vorotnik__i'
+  - '24_01_2023.fb.fb_group.mariupol.pre_war.2.mar_upol___plyazhn__'
+  - '12_02_2023.fb.fb_group.mariupol.pre_war.3.mariupolskie_golubi'
+  - '17_01_2023.fb.fb_group.mariupol.pre_war.2.mar_upol____stor_ya_'
+
+  - '29_12_2022.fb.wishnevskaja_helen.mariupol.1.a_pomnite_etot_tikhi'
+
+

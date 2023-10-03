@@ -74,6 +74,18 @@ patch:
                 'sii.generate.on' :
                    '27_11_2021.stz.news.ua.misto_marii.1.velomarshrut_step_bike_step.orig' : 0
 
+        - 'ii_sec' : '29_10_2021.fb.mariupol.turystychne_misto.2.dveri_rekonstrukcia_upgrejd'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '29_10_2021.fb.mariupol.turystychne_misto.2.dveri_rekonstrukcia_upgrejd.orig' : 0
+
+        - 'ii_sec' : '29_10_2021.stz.news.ua.misto_marii.1.top_5_zagadkovyh_lokacij_mariupolja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '29_10_2021.stz.news.ua.misto_marii.1.top_5_zagadkovyh_lokacij_mariupolja.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -88,3 +100,5 @@ patch:
   - '20_11_2021.stz.news.ua.misto_marii.1.kudy_vzymku_pity_z_dytynoju'
   - '23_11_2021.stz.news.ua.misto_marii.1.mini_proekty_plany'
   - '27_11_2021.stz.news.ua.misto_marii.1.velomarshrut_step_bike_step'
+  - '29_10_2021.fb.mariupol.turystychne_misto.2.dveri_rekonstrukcia_upgrejd'
+  - '29_10_2021.stz.news.ua.misto_marii.1.top_5_zagadkovyh_lokacij_mariupolja'

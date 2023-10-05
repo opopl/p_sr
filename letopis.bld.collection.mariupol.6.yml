@@ -146,6 +146,24 @@ patch:
                 'sii.generate.on' :
                    '12_02_2022.fb.mariupol.shlub_za_dobu.1.vesilna_tradicia_nastupannja_na_rushnyk.orig' : 0
 
+        - 'ii_sec' : '10_02_2022.fb.mariupol.shlub_za_dobu.1.reestracia_v_den_zakohanyh'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '10_02_2022.fb.mariupol.shlub_za_dobu.1.reestracia_v_den_zakohanyh.orig' : 0
+
+        - 'ii_sec' : '21_02_2022.fb.mrpl.ehub.1.vakansia_zhurnalist_pr_manager'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '21_02_2022.fb.mrpl.ehub.1.vakansia_zhurnalist_pr_manager.orig' : 0
+
+        - 'ii_sec' : '16_02_2022.fb.mariupol.turystychne_misto.1.sjogodni_ukraina_vpershe_den_jednannja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '16_02_2022.fb.mariupol.turystychne_misto.1.sjogodni_ukraina_vpershe_den_jednannja.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -173,3 +191,8 @@ patch:
   - '17_02_2022.fb.mariupol.shlub_za_dobu.1.jak_pidibraty_idealnogo_fotografa'
   - '14_02_2022.fb.mariupol.shlub_za_dobu.1.den_zakohanyh_symvolichna_data_stvorennja_simji'
   - '12_02_2022.fb.mariupol.shlub_za_dobu.1.vesilna_tradicia_nastupannja_na_rushnyk'
+  - '10_02_2022.fb.mariupol.shlub_za_dobu.1.reestracia_v_den_zakohanyh'
+
+  - '21_02_2022.fb.mrpl.ehub.1.vakansia_zhurnalist_pr_manager'
+
+  - '16_02_2022.fb.mariupol.turystychne_misto.1.sjogodni_ukraina_vpershe_den_jednannja'

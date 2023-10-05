@@ -122,6 +122,30 @@ patch:
                 'sii.generate.on' :
                    '22_02_2022.fb.mariupol.shlub_za_dobu.1.vesilnyj_bum_dzerkalna_data.orig' : 0
 
+        - 'ii_sec' : '18_02_2022.fb.mariupol.shlub_za_dobu.1.za_skilky_dniv_podavaty_dokumenty_reestracia'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '18_02_2022.fb.mariupol.shlub_za_dobu.1.za_skilky_dniv_podavaty_dokumenty_reestracia.orig' : 0
+
+        - 'ii_sec' : '17_02_2022.fb.mariupol.shlub_za_dobu.1.jak_pidibraty_idealnogo_fotografa'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '17_02_2022.fb.mariupol.shlub_za_dobu.1.jak_pidibraty_idealnogo_fotografa.orig' : 0
+
+        - 'ii_sec' : '14_02_2022.fb.mariupol.shlub_za_dobu.1.den_zakohanyh_symvolichna_data_stvorennja_simji'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '14_02_2022.fb.mariupol.shlub_za_dobu.1.den_zakohanyh_symvolichna_data_stvorennja_simji.orig' : 0
+
+        - 'ii_sec' : '12_02_2022.fb.mariupol.shlub_za_dobu.1.vesilna_tradicia_nastupannja_na_rushnyk'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '12_02_2022.fb.mariupol.shlub_za_dobu.1.vesilna_tradicia_nastupannja_na_rushnyk.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -145,3 +169,7 @@ patch:
   - '22_10_2021.fb.oleynik_yaroslav.1.ploscha_svobody'
 
   - '22_02_2022.fb.mariupol.shlub_za_dobu.1.vesilnyj_bum_dzerkalna_data'
+  - '18_02_2022.fb.mariupol.shlub_za_dobu.1.za_skilky_dniv_podavaty_dokumenty_reestracia'
+  - '17_02_2022.fb.mariupol.shlub_za_dobu.1.jak_pidibraty_idealnogo_fotografa'
+  - '14_02_2022.fb.mariupol.shlub_za_dobu.1.den_zakohanyh_symvolichna_data_stvorennja_simji'
+  - '12_02_2022.fb.mariupol.shlub_za_dobu.1.vesilna_tradicia_nastupannja_na_rushnyk'

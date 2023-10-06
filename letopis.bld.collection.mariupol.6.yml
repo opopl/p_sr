@@ -164,6 +164,42 @@ patch:
                 'sii.generate.on' :
                    '16_02_2022.fb.mariupol.turystychne_misto.1.sjogodni_ukraina_vpershe_den_jednannja.orig' : 0
 
+        - 'ii_sec' : '04_02_2022.fb.mrpl.capital.of.culture.1.mrpl2ua_kulturnyj_kod'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '04_02_2022.fb.mrpl.capital.of.culture.1.mrpl2ua_kulturnyj_kod.orig' : 0
+
+        - 'ii_sec' : '14_01_2022.fb.mariupol.turystychne_misto.1.pershyj_informacijnyj_pilon_vezha'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '14_01_2022.fb.mariupol.turystychne_misto.1.pershyj_informacijnyj_pilon_vezha.orig' : 0
+
+        - 'ii_sec' : '12_10_2021.fb.mariupol.shlub_za_dobu.1.nova_lokacia_shlub_za_dobu_filarmonia'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '12_10_2021.fb.mariupol.shlub_za_dobu.1.nova_lokacia_shlub_za_dobu_filarmonia.orig' : 0
+
+        - 'ii_sec' : '20_01_2022.fb.mariupol.shlub_za_dobu.1.14_ljutogo_2022'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '20_01_2022.fb.mariupol.shlub_za_dobu.1.14_ljutogo_2022.orig' : 0
+
+        - 'ii_sec' : '28_12_2020.stz.site.history.lvivcenter.1.mkm_kollekcia'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '28_12_2020.stz.site.history.lvivcenter.1.mkm_kollekcia.orig' : 0
+
+        - 'ii_sec' : '24_09_2022.fb.mariupol.turystychne_misto.1.rik_tomu_start_mariupol_open_book'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '24_09_2022.fb.mariupol.turystychne_misto.1.rik_tomu_start_mariupol_open_book.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -185,6 +221,9 @@ patch:
   - '25_10_2021.stz.news.ua.misto_marii.1.osinne_menu'
   - '22_10_2021.fb.antifeev_dmitry.melitopol.1.mariupol_doma_so_shpilem_stalin_ampir'
   - '22_10_2021.fb.oleynik_yaroslav.1.ploscha_svobody'
+  - '14_01_2022.fb.mariupol.turystychne_misto.1.pershyj_informacijnyj_pilon_vezha'
+
+  - '24_09_2022.fb.mariupol.turystychne_misto.1.rik_tomu_start_mariupol_open_book'
 
   - '22_02_2022.fb.mariupol.shlub_za_dobu.1.vesilnyj_bum_dzerkalna_data'
   - '18_02_2022.fb.mariupol.shlub_za_dobu.1.za_skilky_dniv_podavaty_dokumenty_reestracia'
@@ -192,7 +231,13 @@ patch:
   - '14_02_2022.fb.mariupol.shlub_za_dobu.1.den_zakohanyh_symvolichna_data_stvorennja_simji'
   - '12_02_2022.fb.mariupol.shlub_za_dobu.1.vesilna_tradicia_nastupannja_na_rushnyk'
   - '10_02_2022.fb.mariupol.shlub_za_dobu.1.reestracia_v_den_zakohanyh'
+  - '20_01_2022.fb.mariupol.shlub_za_dobu.1.14_ljutogo_2022'
+  - '12_10_2021.fb.mariupol.shlub_za_dobu.1.nova_lokacia_shlub_za_dobu_filarmonia'
 
   - '21_02_2022.fb.mrpl.ehub.1.vakansia_zhurnalist_pr_manager'
 
   - '16_02_2022.fb.mariupol.turystychne_misto.1.sjogodni_ukraina_vpershe_den_jednannja'
+  - '04_02_2022.fb.mrpl.capital.of.culture.1.mrpl2ua_kulturnyj_kod'
+
+  - '28_12_2020.stz.site.history.lvivcenter.1.mkm_kollekcia'
+

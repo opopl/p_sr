@@ -200,6 +200,12 @@ patch:
                 'sii.generate.on' :
                    '24_09_2022.fb.mariupol.turystychne_misto.1.rik_tomu_start_mariupol_open_book.orig' : 0
 
+        - 'ii_sec' : '30_09_2021.stz.news.ua.misto_marii.1.filarmonia_nova_lokacia_shlub_za_dobu'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '30_09_2021.stz.news.ua.misto_marii.1.filarmonia_nova_lokacia_shlub_za_dobu.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -233,6 +239,7 @@ patch:
   - '10_02_2022.fb.mariupol.shlub_za_dobu.1.reestracia_v_den_zakohanyh'
   - '20_01_2022.fb.mariupol.shlub_za_dobu.1.14_ljutogo_2022'
   - '12_10_2021.fb.mariupol.shlub_za_dobu.1.nova_lokacia_shlub_za_dobu_filarmonia'
+  - '30_09_2021.stz.news.ua.misto_marii.1.filarmonia_nova_lokacia_shlub_za_dobu'
 
   - '21_02_2022.fb.mrpl.ehub.1.vakansia_zhurnalist_pr_manager'
 

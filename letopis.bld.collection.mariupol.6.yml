@@ -206,6 +206,18 @@ patch:
                 'sii.generate.on' :
                    '30_09_2021.stz.news.ua.misto_marii.1.filarmonia_nova_lokacia_shlub_za_dobu.orig' : 0
 
+        - 'ii_sec' : '18_07_2021.fb.fb_group.fond_maje_znachennja.1.kamin_v_dome_kupca_goffa'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '18_07_2021.fb.fb_group.fond_maje_znachennja.1.kamin_v_dome_kupca_goffa.orig' : 0
+
+        - 'ii_sec' : '20_12_2021.fb.arximisto.1.mariupolcy_podarili_pervoj_gimnazii_fotografii'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '20_12_2021.fb.arximisto.1.mariupolcy_podarili_pervoj_gimnazii_fotografii.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -248,3 +260,5 @@ patch:
 
   - '28_12_2020.stz.site.history.lvivcenter.1.mkm_kollekcia'
 
+  - '18_07_2021.fb.fb_group.fond_maje_znachennja.1.kamin_v_dome_kupca_goffa'
+  - '20_12_2021.fb.arximisto.1.mariupolcy_podarili_pervoj_gimnazii_fotografii'

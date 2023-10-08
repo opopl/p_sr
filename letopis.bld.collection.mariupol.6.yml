@@ -302,6 +302,12 @@ patch:
                 'sii.generate.on' :
                    '26_08_2021.fb.fb_group.mariupol.nekropol.1.na_platanovoj_allee_5_derevjev.orig' : 0
 
+        - 'ii_sec' : '11_08_2021.fb.arximisto.1.kommunalschiki_ochistili_ot_zaroslej_allei_nekropolja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '11_08_2021.fb.arximisto.1.kommunalschiki_ochistili_ot_zaroslej_allei_nekropolja.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -361,6 +367,7 @@ patch:
   - '02_09_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_21_24_avgusta'
   - '30_08_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkryli_dve_drevnie_plity_xix_veka'
   - '26_08_2021.fb.fb_group.mariupol.nekropol.1.na_platanovoj_allee_5_derevjev'
+  - '11_08_2021.fb.arximisto.1.kommunalschiki_ochistili_ot_zaroslej_allei_nekropolja'
 
 #https://v-variant.com.ua/article/mariupol-necropolis/
 #https://omore.city/articles/171306/na-mariupolskomu-cvintari-planuyut-vidkriti-muzej-prosto-neba

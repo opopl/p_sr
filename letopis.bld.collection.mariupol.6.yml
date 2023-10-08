@@ -236,6 +236,12 @@ patch:
                 'sii.generate.on' :
                    '30_09_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkrytie_mariupol_nekropol.orig' : 0
 
+        - 'ii_sec' : '30_11_2021.fb.arximisto.1.monumental_mozaiki_pamjatniki_kulturn_nasledia'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '30_11_2021.fb.arximisto.1.monumental_mozaiki_pamjatniki_kulturn_nasledia.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -284,3 +290,4 @@ patch:
   - '15_04_2021.fb.arximisto.1.pervaja_gimnazia_dar_spisok_vypusknic_1903_1916_godov'
   - '24_09_2021.fb.arximisto.1.seria_futbolok_portrety_grekov_priazovja'
   - '30_09_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkrytie_mariupol_nekropol'
+  - '30_11_2021.fb.arximisto.1.monumental_mozaiki_pamjatniki_kulturn_nasledia'

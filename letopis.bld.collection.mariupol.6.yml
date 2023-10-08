@@ -218,6 +218,24 @@ patch:
                 'sii.generate.on' :
                    '20_12_2021.fb.arximisto.1.mariupolcy_podarili_pervoj_gimnazii_fotografii.orig' : 0
 
+        - 'ii_sec' : '15_04_2021.fb.arximisto.1.pervaja_gimnazia_dar_spisok_vypusknic_1903_1916_godov'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '15_04_2021.fb.arximisto.1.pervaja_gimnazia_dar_spisok_vypusknic_1903_1916_godov.orig' : 0
+
+        - 'ii_sec' : '24_09_2021.fb.arximisto.1.seria_futbolok_portrety_grekov_priazovja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '24_09_2021.fb.arximisto.1.seria_futbolok_portrety_grekov_priazovja.orig' : 0
+
+        - 'ii_sec' : '30_09_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkrytie_mariupol_nekropol'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '30_09_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkrytie_mariupol_nekropol.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -260,5 +278,9 @@ patch:
 
   - '28_12_2020.stz.site.history.lvivcenter.1.mkm_kollekcia'
 
+  # arximisto
   - '18_07_2021.fb.fb_group.fond_maje_znachennja.1.kamin_v_dome_kupca_goffa'
   - '20_12_2021.fb.arximisto.1.mariupolcy_podarili_pervoj_gimnazii_fotografii'
+  - '15_04_2021.fb.arximisto.1.pervaja_gimnazia_dar_spisok_vypusknic_1903_1916_godov'
+  - '24_09_2021.fb.arximisto.1.seria_futbolok_portrety_grekov_priazovja'
+  - '30_09_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkrytie_mariupol_nekropol'

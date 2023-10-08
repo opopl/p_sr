@@ -248,6 +248,30 @@ patch:
                 'sii.generate.on' :
                    '05_02_2021.fb.arximisto.1.devjat_istor_zdanij_pamjatki_arhitektury.orig' : 0
 
+        - 'ii_sec' : '27_10_2021.fb.arximisto.1.zajavka_ohrannaja_gramota_pervaja_gimnazia'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '27_10_2021.fb.arximisto.1.zajavka_ohrannaja_gramota_pervaja_gimnazia.orig' : 0
+
+        - 'ii_sec' : '26_04_2021.fb.arximisto.1.volontery_allei_platanovaja_dubovaja_nekropol'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '26_04_2021.fb.arximisto.1.volontery_allei_platanovaja_dubovaja_nekropol.orig' : 0
+
+        - 'ii_sec' : '22_10_2021.fb.fb_group.mariupol.nekropol.1.platanovaja_alleja_nekropol_dvadcat_derevjev'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '22_10_2021.fb.fb_group.mariupol.nekropol.1.platanovaja_alleja_nekropol_dvadcat_derevjev.orig' : 0
+
+        - 'ii_sec' : '08_10_2021.fb.fb_group.mariupol.nekropol.1.usypalnica_pilicheva_oksjuzovoj_v_nekropole_zagadka_tajna'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '08_10_2021.fb.fb_group.mariupol.nekropol.1.usypalnica_pilicheva_oksjuzovoj_v_nekropole_zagadka_tajna.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -298,3 +322,10 @@ patch:
   - '30_09_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkrytie_mariupol_nekropol'
   - '30_11_2021.fb.arximisto.1.monumental_mozaiki_pamjatniki_kulturn_nasledia'
   - '05_02_2021.fb.arximisto.1.devjat_istor_zdanij_pamjatki_arhitektury'
+  - '27_10_2021.fb.arximisto.1.zajavka_ohrannaja_gramota_pervaja_gimnazia'
+  - '26_04_2021.fb.arximisto.1.volontery_allei_platanovaja_dubovaja_nekropol'
+  - '22_10_2021.fb.fb_group.mariupol.nekropol.1.platanovaja_alleja_nekropol_dvadcat_derevjev'
+  - '08_10_2021.fb.fb_group.mariupol.nekropol.1.usypalnica_pilicheva_oksjuzovoj_v_nekropole_zagadka_tajna'
+
+#https://v-variant.com.ua/article/mariupol-necropolis/
+#https://omore.city/articles/171306/na-mariupolskomu-cvintari-planuyut-vidkriti-muzej-prosto-neba

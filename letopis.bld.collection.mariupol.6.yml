@@ -272,6 +272,24 @@ patch:
                 'sii.generate.on' :
                    '08_10_2021.fb.fb_group.mariupol.nekropol.1.usypalnica_pilicheva_oksjuzovoj_v_nekropole_zagadka_tajna.orig' : 0
 
+        - 'ii_sec' : '16_09_2021.fb.fb_group.mariupol.nekropol.1.otchet_o_volonterskoj_rabote_11_12_sentjabrja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '16_09_2021.fb.fb_group.mariupol.nekropol.1.otchet_o_volonterskoj_rabote_11_12_sentjabrja.orig' : 0
+
+        - 'ii_sec' : '09_09_2021.fb.arximisto.1.zajavka_ohoronna_gramota_gorova_mariinka'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '09_09_2021.fb.arximisto.1.zajavka_ohoronna_gramota_gorova_mariinka.orig' : 0
+
+        - 'ii_sec' : '02_09_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_21_24_avgusta'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '02_09_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_21_24_avgusta.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -326,6 +344,9 @@ patch:
   - '26_04_2021.fb.arximisto.1.volontery_allei_platanovaja_dubovaja_nekropol'
   - '22_10_2021.fb.fb_group.mariupol.nekropol.1.platanovaja_alleja_nekropol_dvadcat_derevjev'
   - '08_10_2021.fb.fb_group.mariupol.nekropol.1.usypalnica_pilicheva_oksjuzovoj_v_nekropole_zagadka_tajna'
+  - '16_09_2021.fb.fb_group.mariupol.nekropol.1.otchet_o_volonterskoj_rabote_11_12_sentjabrja'
+  - '09_09_2021.fb.arximisto.1.zajavka_ohoronna_gramota_gorova_mariinka'
+  - '02_09_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_21_24_avgusta'
 
 #https://v-variant.com.ua/article/mariupol-necropolis/
 #https://omore.city/articles/171306/na-mariupolskomu-cvintari-planuyut-vidkriti-muzej-prosto-neba

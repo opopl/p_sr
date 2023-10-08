@@ -290,6 +290,12 @@ patch:
                 'sii.generate.on' :
                    '02_09_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_21_24_avgusta.orig' : 0
 
+        - 'ii_sec' : '30_08_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkryli_dve_drevnie_plity_xix_veka'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '30_08_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkryli_dve_drevnie_plity_xix_veka.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -347,6 +353,7 @@ patch:
   - '16_09_2021.fb.fb_group.mariupol.nekropol.1.otchet_o_volonterskoj_rabote_11_12_sentjabrja'
   - '09_09_2021.fb.arximisto.1.zajavka_ohoronna_gramota_gorova_mariinka'
   - '02_09_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_21_24_avgusta'
+  - '30_08_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkryli_dve_drevnie_plity_xix_veka'
 
 #https://v-variant.com.ua/article/mariupol-necropolis/
 #https://omore.city/articles/171306/na-mariupolskomu-cvintari-planuyut-vidkriti-muzej-prosto-neba

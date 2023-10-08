@@ -242,6 +242,12 @@ patch:
                 'sii.generate.on' :
                    '30_11_2021.fb.arximisto.1.monumental_mozaiki_pamjatniki_kulturn_nasledia.orig' : 0
 
+        - 'ii_sec' : '05_02_2021.fb.arximisto.1.devjat_istor_zdanij_pamjatki_arhitektury'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '05_02_2021.fb.arximisto.1.devjat_istor_zdanij_pamjatki_arhitektury.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -291,3 +297,4 @@ patch:
   - '24_09_2021.fb.arximisto.1.seria_futbolok_portrety_grekov_priazovja'
   - '30_09_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkrytie_mariupol_nekropol'
   - '30_11_2021.fb.arximisto.1.monumental_mozaiki_pamjatniki_kulturn_nasledia'
+  - '05_02_2021.fb.arximisto.1.devjat_istor_zdanij_pamjatki_arhitektury'

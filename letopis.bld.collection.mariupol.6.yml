@@ -344,6 +344,18 @@ patch:
                 'sii.generate.on' :
                    '15_06_2021.fb.fb_group.mariupol.nekropol.1.chentukovy.orig' : 0
 
+        - 'ii_sec' : '25_03_2011.stz.mrpl.old_mariupol.1.vtoroj_den_ekskursii_8_marta'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '25_03_2011.stz.mrpl.old_mariupol.1.vtoroj_den_ekskursii_8_marta.orig' : 0
+
+        - 'ii_sec' : '14_07_2011.stz.mrpl.old_mariupol.1.znamenitye_gosti_goroda'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '14_07_2011.stz.mrpl.old_mariupol.1.znamenitye_gosti_goroda.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -425,6 +437,11 @@ patch:
 
   # pr.ua
   - '31_07_2021.stz.news.ua.mrpl.pr_ua.1.teatry_s_tretjim_aktom_istage'
+#https://web.archive.org/web/20220819170212/http://pr.ua/ru/news/mariupolq-50-h-dostupniyi-elektronniyi-arhiv-priazovsqkogo-robochogo
+
+  # old-mariupol
+  - '25_03_2011.stz.mrpl.old_mariupol.1.vtoroj_den_ekskursii_8_marta'
+  - '14_07_2011.stz.mrpl.old_mariupol.1.znamenitye_gosti_goroda'
 
 #https://v-variant.com.ua/article/mariupol-necropolis/
 #https://omore.city/articles/171306/na-mariupolskomu-cvintari-planuyut-vidkriti-muzej-prosto-neba

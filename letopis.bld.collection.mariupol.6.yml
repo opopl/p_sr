@@ -332,6 +332,18 @@ patch:
                 'sii.generate.on' :
                    '17_07_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_10_11_iulja.orig' : 0
 
+        - 'ii_sec' : '18_06_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_12_13_iunja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '18_06_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_12_13_iunja.orig' : 0
+
+        - 'ii_sec' : '15_06_2021.fb.fb_group.mariupol.nekropol.1.chentukovy'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '15_06_2021.fb.fb_group.mariupol.nekropol.1.chentukovy.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -394,10 +406,13 @@ patch:
   - '11_08_2021.fb.arximisto.1.kommunalschiki_ochistili_ot_zaroslej_allei_nekropolja'
   - '06_09_2021.fb.arximisto.1.blagodarim_ekskursia_sobor_pokrova_bozhjej_materi'
   - '17_07_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_10_11_iulja'
+  - '18_06_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_12_13_iunja'
+  - '15_06_2021.fb.fb_group.mariupol.nekropol.1.chentukovy'
 
   - '26_08_2021.fb.arximisto.1.vorovstvo_ogradok_staroje_gorod_kladbische'
 
-#
+# Чентуковы: У них гостили Айвазовский и император Александр II, 15.06.2021
+# https://www.facebook.com/groups/278185963354519/permalink/539096630596783
 #
 #
 #https://www.facebook.com/events/838619860403307

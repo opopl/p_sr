@@ -308,6 +308,12 @@ patch:
                 'sii.generate.on' :
                    '11_08_2021.fb.arximisto.1.kommunalschiki_ochistili_ot_zaroslej_allei_nekropolja.orig' : 0
 
+        - 'ii_sec' : '31_07_2021.stz.news.ua.mrpl.pr_ua.1.teatry_s_tretjim_aktom_istage'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '31_07_2021.stz.news.ua.mrpl.pr_ua.1.teatry_s_tretjim_aktom_istage.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -368,6 +374,20 @@ patch:
   - '30_08_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkryli_dve_drevnie_plity_xix_veka'
   - '26_08_2021.fb.fb_group.mariupol.nekropol.1.na_platanovoj_allee_5_derevjev'
   - '11_08_2021.fb.arximisto.1.kommunalschiki_ochistili_ot_zaroslej_allei_nekropolja'
+
+#
+#https://www.facebook.com/arximisto/posts/pfbid02oWirvv3N7UGF5CsdQAQgxt2kd27RN7P3iGcTtqepijXJFK5T8Nrhcn9WnSr9Pp7sl
+#https://www.facebook.com/groups/278185963354519/posts/559284448578001/
+#https://www.facebook.com/events/838619860403307
+#https://www.facebook.com/arximisto/posts/pfbid0dTDN5HPhGTvpvVUhvY6JzEgpzLnf6ox69DgyBfJ7ckWEB9trtMk2F5VpJxVvQJd2l
+#https://www.facebook.com/groups/278185963354519/posts/548305886342524
+#https://www.facebook.com/arximisto/posts/pfbid0k2Mg4bR9Gzv42x459nBi6qKmg9equEs7Vz5zhbfGNtwdTXTGHWfp5QRpb1iirULxl
+
+#https://www.facebook.com/arximisto/posts/pfbid0Hgck1URtKCvARG3zmNeXZBSLvEWAs5iFnZ1kEfvEeoSBXQKqpEzAJ55q2VQvkVEjl
+#https://www.facebook.com/groups/278185963354519/posts/547004389806007
+
+  # pr.ua
+  - '31_07_2021.stz.news.ua.mrpl.pr_ua.1.teatry_s_tretjim_aktom_istage'
 
 #https://v-variant.com.ua/article/mariupol-necropolis/
 #https://omore.city/articles/171306/na-mariupolskomu-cvintari-planuyut-vidkriti-muzej-prosto-neba

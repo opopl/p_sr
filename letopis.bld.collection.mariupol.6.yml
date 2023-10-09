@@ -320,6 +320,18 @@ patch:
                 'sii.generate.on' :
                    '26_08_2021.fb.arximisto.1.vorovstvo_ogradok_staroje_gorod_kladbische.orig' : 0
 
+        - 'ii_sec' : '06_09_2021.fb.arximisto.1.blagodarim_ekskursia_sobor_pokrova_bozhjej_materi'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '06_09_2021.fb.arximisto.1.blagodarim_ekskursia_sobor_pokrova_bozhjej_materi.orig' : 0
+
+        - 'ii_sec' : '17_07_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_10_11_iulja'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '17_07_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_10_11_iulja.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -380,12 +392,14 @@ patch:
   - '30_08_2021.fb.fb_group.mariupol.nekropol.1.volontery_otkryli_dve_drevnie_plity_xix_veka'
   - '26_08_2021.fb.fb_group.mariupol.nekropol.1.na_platanovoj_allee_5_derevjev'
   - '11_08_2021.fb.arximisto.1.kommunalschiki_ochistili_ot_zaroslej_allei_nekropolja'
+  - '06_09_2021.fb.arximisto.1.blagodarim_ekskursia_sobor_pokrova_bozhjej_materi'
+  - '17_07_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_10_11_iulja'
 
   - '26_08_2021.fb.arximisto.1.vorovstvo_ogradok_staroje_gorod_kladbische'
 
 #
 #
-#https://www.facebook.com/groups/278185963354519/posts/559284448578001/
+#
 #https://www.facebook.com/events/838619860403307
 #https://www.facebook.com/arximisto/posts/pfbid0dTDN5HPhGTvpvVUhvY6JzEgpzLnf6ox69DgyBfJ7ckWEB9trtMk2F5VpJxVvQJd2l
 #https://www.facebook.com/groups/278185963354519/posts/548305886342524

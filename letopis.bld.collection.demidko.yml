@@ -356,12 +356,6 @@ patch:
                 'sii.generate.on' :
                    '14_07_2011.stz.mrpl.old_mariupol.1.znamenitye_gosti_goroda.orig' : 0
 
-        - 'ii_sec' : '27_04_2021.fb.arximisto.1.volontery_ochistka_mogila_viktor_arnautov'
-          'patch_bld' :
-             'patch':
-                'sii.generate.on' :
-                   '27_04_2021.fb.arximisto.1.volontery_ochistka_mogila_viktor_arnautov.orig' : 0
-
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -428,7 +422,6 @@ patch:
   - '15_06_2021.fb.fb_group.mariupol.nekropol.1.chentukovy'
 
   - '26_08_2021.fb.arximisto.1.vorovstvo_ogradok_staroje_gorod_kladbische'
-  - '27_04_2021.fb.arximisto.1.volontery_ochistka_mogila_viktor_arnautov'
 
 # Чентуковы: У них гостили Айвазовский и император Александр II, 15.06.2021
 # https://www.facebook.com/groups/278185963354519/permalink/539096630596783
@@ -459,9 +452,44 @@ patch:
 # https://v-variant.com.ua/article/mariupol-necropolis/
 # https://omore.city/articles/171306/na-mariupolskomu-cvintari-planuyut-vidkriti-muzej-prosto-neba
 #
+# https://archive.org/details/video.28_06_2023.olga_demidko.kopyrsajka.braty_chy_pryjmaty_uchast
 
-# done
-# https://archive.org/details/21_06_2011.lev_jaruckij.old_mariupol.semnadcat_let_spustja
-
-# prepare:
-# https://archive.org/details/25_03_2011.old_mariupol.vtoroj_den_ekskursii_8_marta
+# https://archive.org/details/28_08_2017.olga_demidko.mrpl_city.mariupol_osobnjak_z_grifonami
+# https://archive.org/details/03_10_2017.olga_demidko.mrpl_city.budynok_hameleon
+# https://archive.org/details/22_11_2021.olga_demidko.mrpl_city.haradzhajevy_mecenaty
+# https://archive.org/details/04_03_2020.olga_demidko.mrpl_city.knyga_istoria_odnogo_dnja
+# https://archive.org/details/07_12_2017.olga_demidko.mrpl_city.istoria_budivli_priazovskogo_rabochego
+# https://archive.org/details/12_12_2017.olga_demidko.mrpl_city.andriivski_vechornyci
+# https://archive.org/details/18_12_2017.olga_demidko.mrpl_city.den_svjatogo_mykolaja
+# https://archive.org/details/24_12_2017.olga_demidko.mrpl_city.katolycke_rizdvo
+# https://archive.org/details/30_12_2017.olga_demidko.mrpl_city.novyj_rik_istoria_tradicii
+# https://archive.org/details/20_11_2017.olga_demidko.mrpl_city.tajemnyci_cvyntar
+# https://archive.org/details/10_11_2017.olga_demidko.mrpl_city.arhitekturna_vizitivka_mariupolja
+#
+# https://mrpl.city/blogs/olga-demidko/14
+#
+# https://archive.org/details/05_01_2018.olga_demidko.mrpl_city.rik
+# https://archive.org/details/13_01_2018.olga_demidko.mrpl_city.staryj_novyj_rik
+# https://archive.org/details/05_02_2018.olga_demidko.mrpl_city.arhitekturna_prykrasa_mariupolja
+# https://archive.org/details/20_02_2018.olga_demidko.mrpl_city.istoria_najstarishoj_shkoly_mrpl
+# https://archive.org/details/27_02_2018.olga_demidko.mrpl_city.hudozhnii_centr_mariupolja
+# https://archive.org/details/02_03_2018.olga_demidko.mrpl_city.gotel_spartak
+# https://archive.org/details/08_03_2018.olga_demidko.mrpl_city.tenditni_neskoreni_sylni
+# https://archive.org/details/16_03_2018.olga_demidko.mrpl_city.vtracheni_hramy
+# https://archive.org/details/video.27_03_2018.olga_demidko.mrpl_television.najstarishyj_kinoteatr_mariupolja
+# https://archive.org/details/27_03_2018.olga_demidko.mrpl_city.najstarishyj_kinoteatr
+# https://archive.org/details/09_05_2018.olga_demidko.mrpl_city.pamjatnyky_voinam_vyzvolyteljam_mariupolja
+# https://archive.org/details/08_05_2018.olga_demidko.mrpl_television.pamjatniki_mariupolja
+# https://archive.org/details/30_06_2018.olga_demidko.mrpl_city.najstar_majak_pivn_priazovja
+#
+# https://mrpl.city/blogs/olga-demidko/13
+#
+# https://archive.org/details/18_07_2018.olga_demidko.mrpl_city.robota_v_arhivah_mify_ta_realnist
+# https://archive.org/details/23_07_2018.olga_demidko.mrpl_city.mariupol_turystychnyj 
+# https://archive.org/details/20_08_2018.olga_demidko.mrpl_city.240_ricchja_vasyl_altuhov
+# https://archive.org/details/27_08_2018.olga_demidko.mrpl_city.240_rokiv_mrpl_oleksandr_uteganov
+# https://archive.org/details/06_09_2018.olga_demidko.mrpl_city.elizaveta_birjukova_mariupol_spisok_shindlera
+# https://archive.org/details/12_09_2018.olga_demidko.mrpl_city.240_rokiv_legendy_mrpl_1
+# https://archive.org/details/19_09_2018.olga_demidko.mrpl_city.240_rokiv_legendy_mista_2
+# https://archive.org/details/24_09_2018.olga_demidko.mrpl_city.240_rokiv_legendy_mista_3
+# https://archive.org/details/07_10_2018.olga_demidko.mrpl_city.mrpl_teatr_nimecka_okupacia_1

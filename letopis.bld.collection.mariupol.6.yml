@@ -362,6 +362,12 @@ patch:
                 'sii.generate.on' :
                    '27_04_2021.fb.arximisto.1.volontery_ochistka_mogila_viktor_arnautov.orig' : 0
 
+        - 'ii_sec' : '27_04_2021.fb.arximisto.2.pervoj_gimnazii_mrpl_status_pamjatki_initiative'
+          'patch_bld' :
+             'patch':
+                'sii.generate.on' :
+                   '27_04_2021.fb.arximisto.2.pervoj_gimnazii_mrpl_status_pamjatki_initiative.orig' : 0
+
         #- 'ii_sec' : 'aaa'
           #'patch_bld' :
              #'patch':
@@ -429,6 +435,7 @@ patch:
 
   - '26_08_2021.fb.arximisto.1.vorovstvo_ogradok_staroje_gorod_kladbische'
   - '27_04_2021.fb.arximisto.1.volontery_ochistka_mogila_viktor_arnautov'
+  - '27_04_2021.fb.arximisto.2.pervoj_gimnazii_mrpl_status_pamjatki_initiative'
 
 # Чентуковы: У них гостили Айвазовский и император Александр II, 15.06.2021
 # https://www.facebook.com/groups/278185963354519/permalink/539096630596783
@@ -462,6 +469,7 @@ patch:
 
 # done
 # https://archive.org/details/21_06_2011.lev_jaruckij.old_mariupol.semnadcat_let_spustja
+# https://archive.org/details/27_04_2021.fb.arximisto.pervoj_gimnazii_mrpl_status_pamjatki_initiative
 
 # prepare:
 # https://archive.org/details/25_03_2011.old_mariupol.vtoroj_den_ekskursii_8_marta

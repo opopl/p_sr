@@ -413,6 +413,9 @@ patch:
   # mkm
   - '01_10_2023.fb.mariupol.muzej.mkm.1.istoria_mrpl_vals_den_muzyky'
 
+  # 0629.com.ua
+  - '24_04_2021.stz.news.ua.mrpl.0629.1.s_istoriej_no_bez_pamjati'
+
   # arximisto
   - '18_07_2021.fb.fb_group.fond_maje_znachennja.1.kamin_v_dome_kupca_goffa'
   - '20_12_2021.fb.arximisto.1.mariupolcy_podarili_pervoj_gimnazii_fotografii'
@@ -439,6 +442,9 @@ patch:
   - '26_08_2021.fb.arximisto.1.vorovstvo_ogradok_staroje_gorod_kladbische'
   - '27_04_2021.fb.arximisto.1.volontery_ochistka_mogila_viktor_arnautov'
   - '27_04_2021.fb.arximisto.2.pervoj_gimnazii_mrpl_status_pamjatki_initiative'
+
+  # arximisto - aaa
+  - '14_04_2021.fb.fb_group.mariupol.nekropol.1.otchet_volonter_rabota_10_aprelja'
 
 # Чентуковы: У них гостили Айвазовский и император Александр II, 15.06.2021
 # https://www.facebook.com/groups/278185963354519/permalink/539096630596783

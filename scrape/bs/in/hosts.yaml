@@ -12,6 +12,11 @@
     'author' : { 'name' : 'Приазовский Рабочий' }
 }
 
+'memory.gov.ua' : {
+    'site' : 'site.history.uinp',
+    'author' : { 'name' : "Український інститут національної пам'яті" }
+}
+
 'lvivcenter.org' : {
     'site' : 'site.history.lvivcenter',
     'author' : { 'name' : 'Центр міської історії' }
